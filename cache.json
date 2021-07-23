@@ -4,23 +4,40 @@
       "title": "Release notes from osmosfeed",
       "feedUrl": "https://github.com/osmoscraft/osmosfeed/releases.atom",
       "siteUrl": "https://github.com/osmoscraft/osmosfeed/releases",
-      "articles": [
-        {
-          "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.11.0",
-          "author": null,
-          "description": "Added: support an experimental template for YouTube feed 📺 Demo | Source\n\nAggregate content from any YouTube channel rss url https://www.youtube.com/feeds/videos.xml?channel_id=<replace_with_channel_id>\nVideos are embedded via iframe and loading accelerated by youtube-lite-embed\nAds are reduced thanks to YouTube's policy for embedded videos 🙃\nWorks on mobile devices with butter smooth horizontal scroll.\nCaveat: the template works only with YouTube content. You cannot mix textual RSS feed or other video sources such as Vimeo.\nChanged: Default HTML template meta tag adjusted to match convention\nChanged: sources in template data is now ordered by last update timestamp (as opposed to alphabetical)\nThank you @PiyushLosalka",
-          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.11.0",
-          "publishedOn": "2021-06-23T05:57:59.000Z",
-          "wordCount": 370,
-          "title": "v1.11.0"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "CSS-Tricks",
       "feedUrl": "https://css-tricks.com/feed/",
       "siteUrl": "https://css-tricks.com",
       "articles": [
+        {
+          "id": "https://css-tricks.com/?p=344960",
+          "author": "Chris Coyier",
+          "description": "Eric, again not mincin’ no words with blog post titles. This is me:\nThe most common CSS declaration organization technique I come across is none whatsoever.\nAlmost none, anyway. I tend to group them by whatever dumps out of my …\nThe post Organize your CSS declarations alphabetically appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://ericwbailey.design/writing/organize-your-css-declarations-alphabetically/",
+          "publishedOn": "2021-07-22T22:33:29.000Z",
+          "wordCount": 965,
+          "title": "Organize your CSS declarations alphabetically"
+        },
+        {
+          "id": "https://css-tricks.com/?p=344580",
+          "author": "Nathan Babcock",
+          "description": "We’re going to walk through the technical process of hooking into Google Drive’s API to source content on a website. We’ll examine the step-by-step implementation, as well as how to utilize server-side caching to avoid the major pitfalls to avoid …\nThe post Using Google Drive as a CMS appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/using-google-drive-as-a-cms/",
+          "publishedOn": "2021-07-22T14:44:26.000Z",
+          "wordCount": 2790,
+          "title": "Using Google Drive as a CMS"
+        },
+        {
+          "id": "https://css-tricks.com/?p=344330",
+          "author": "Chris Coyier",
+          "description": "Hashnode is a free platform for developer blogging. Say you’ve just finished an ambitious project and want to write about 10 important lessons you’ve learned as a developer during it. You should definitely blog it—I love that kind of blog post, myself. Making a jump into the technical debt of operating your own blog isn’t a small choice, but it’s important to own your own content. With Hashnode, the decision gets a lot easier. You can blog under a site you entirely own, and at the same time, reap the benefits of hosted software tailor-made for developer blogging and be part of a social center around developer writing.\nThe post Hashnode: A Blogging Platform for Developers appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/hashnode-a-blogging-platform-for-developers/",
+          "publishedOn": "2021-07-22T14:39:09.000Z",
+          "wordCount": 967,
+          "title": "Hashnode: A Blogging Platform for Developers"
+        },
         {
           "id": "https://css-tricks.com/?p=344950",
           "author": "Chris Coyier",
@@ -334,6 +351,20 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2021/07/time-schedule-professional-trafft/",
+          "author": "hello@smashingmagazine.com (Matthew Talebi)",
+          "description": "Are you running a business and have too many things going on at once? Meetings, bugs, customer feedback, new clients in addition to your already tight deadlines? Let’s face it, time management is hard, and it becomes even more difficult in the trying times we are in.",
+          "link": "https://smashingmagazine.com/2021/07/time-schedule-professional-trafft/",
+          "publishedOn": "2021-07-22T12:30:00.000Z",
+          "wordCount": 2582,
+          "title": "Adding Time To Your Schedule As A Professional",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/75bfca56-7f2b-488f-b9eb-7fa00d930444/5-time-scheduling.png",
+            "length": "0",
+            "type": "image/png"
+          }
+        },
         {
           "id": "https://smashingmagazine.com/2021/07/color-tools-resources/",
           "author": "hello@smashingmagazine.com (Cosima Mielke)",
@@ -697,20 +728,6 @@
             "length": "0",
             "type": "image/png"
           }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/06/automating-screen-reader-testing-macos-autovo/",
-          "author": "hello@smashingmagazine.com (Cameron Cundiff)",
-          "description": "Automated testing is an important part of any software project, including testing for accessibility. There are already tools for linting and integration testing accessibility, but what about end-to-end testing with real assistive technology? Since I hadn’t seen this before, I set out to build Auto VO, a driver for the VoiceOver screen reader.",
-          "link": "https://smashingmagazine.com/2021/06/automating-screen-reader-testing-macos-autovo/",
-          "publishedOn": "2021-06-23T09:30:00.000Z",
-          "wordCount": 1405,
-          "title": "Automating Screen Reader Testing On macOS Using Auto VO",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/c81018b9-c45e-4c21-9762-dff84dd2682c/automating-screen-reader-testing-macos-autovo.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
         }
       ]
     },
@@ -719,6 +736,51 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "60f969ee1d2b080797b8160a",
+          "author": null,
+          "description": "Using just a few keystrokes, it's easy to capture part or all of your screen on a Mac.  Screenshots are useful in many cases, like when you're writing a blog post and you want to use images that will drive home the points you are making.  This guide will show",
+          "link": "https://www.freecodecamp.org/news/how-to-screenshot-on-mac-take-a-screen-capture-with-a-keyboard-shortcut/",
+          "publishedOn": "2021-07-22T22:05:03.000Z",
+          "wordCount": 898,
+          "title": "How to Screenshot on Mac – Take a Screen Capture with a Keyboard Shortcut"
+        },
+        {
+          "id": "6063b98a9618b008528a9d92",
+          "author": null,
+          "description": "Today we're gonna learn how to use the CSS box model with examples. This will help you make pixel perfect websites and will teach you to use the box-sizing, margin, padding, and border properties more accurately.  We're also going to see some practical use cases for these properties. Let's get",
+          "link": "https://www.freecodecamp.org/news/css-box-model-explained-with-examples/",
+          "publishedOn": "2021-07-22T17:31:57.000Z",
+          "wordCount": 1630,
+          "title": "CSS Box Model Properties – Explained With Examples ✨"
+        },
+        {
+          "id": "60f716ab1d2b080797b80532",
+          "author": null,
+          "description": "In music terminology, an onset refers to the beginning of a musical note or other sound. In this post, we will look at how to detect music onsets with Python's audio signal processing libraries, Aubio and librosa. This tutorial is relevant even if your application doesn't use Python - for",
+          "link": "https://www.freecodecamp.org/news/use-python-to-detect-music-onsets/",
+          "publishedOn": "2021-07-22T16:56:17.000Z",
+          "wordCount": 1306,
+          "title": "How to Use Python to Detect Music Onsets"
+        },
+        {
+          "id": "60af854611ffb70827ef8526",
+          "author": null,
+          "description": "Webmention is a simple protocol developed by the IndieWeb Community that you can use to request notifications when your URLs are mentioned on the web. When you post on your own site and syndicate elsewhere (POSSE), Webmention lets you enable rich interactions on your syndicated posts. This article will walk",
+          "link": "https://www.freecodecamp.org/news/how-to-use-webmentions-with-gatsby-beginners-guide/",
+          "publishedOn": "2021-07-22T16:33:55.000Z",
+          "wordCount": 1861,
+          "title": "How to Use Webmentions with Gatsby.js – A Beginner&#x27;s Guide"
+        },
+        {
+          "id": "60f245ca66c61b07d458e512",
+          "author": null,
+          "description": "Understanding CSS Flexbox is super helpful if you want to make your websites responsive. Flexbox is a powerful responsive web design tool that's built right into CSS itself. And we just published a CSS Flexbox crash course on the freeCodeCamp.org YouTube channel.  James Maxwell created this course. Not only",
+          "link": "https://www.freecodecamp.org/news/learn-css-flexbox/",
+          "publishedOn": "2021-07-22T13:58:50.000Z",
+          "wordCount": 4843,
+          "title": "Learn CSS Flexbox in This Crash Course"
+        },
         {
           "id": "60f55f3e66c61b07d458ee8c",
           "author": null,
