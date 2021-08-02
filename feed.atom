@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-08-01T00:08:27.275Z</updated>
+    <updated>2021-08-02T00:07:40.634Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
@@ -1536,28 +1536,6 @@ I’m writing this just days after my current home state of Oregon has …
 The post The Fourteenth Fourth appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zero-Width Space]]></title>
-        <id>https://css-tricks.com/?p=343435</id>
-        <link href="https://css-tricks.com/zero-width-space/"/>
-        <updated>2021-07-02T20:39:04.000Z</updated>
-        <summary type="html"><![CDATA[The name zero-width space is antithetical, but it’s not without uses. In text, maybe you’d use it around slashes because you want to be sure the words are treated individually but not have any physical space around the slash:…
-The post Zero-Width Space appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Good Meetings]]></title>
-        <id>https://css-tricks.com/?p=342995</id>
-        <link href="https://css-tricks.com/good-meetings/"/>
-        <updated>2021-07-02T14:41:26.000Z</updated>
-        <summary type="html"><![CDATA[Like it or not, meetings are essential to a good working environment and communication. Therefore, it’s crucial that we work on making them as productive as possible. Today we’ll explore myriad ways to keep meetings coordinated, well documented, and talk …
-The post Good Meetings appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Sarah Drasner</name>
         </author>
     </entry>
 </feed>
