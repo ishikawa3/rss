@@ -451,24 +451,6 @@
           "publishedOn": "2021-07-12T14:30:34.000Z",
           "wordCount": 855,
           "title": "Using the Specificity of :where() as a CSS Reset"
-        },
-        {
-          "id": "https://css-tricks.com/?p=344334",
-          "author": "Chris Coyier",
-          "description": "This is a nice update from Manuel Rego Casasnovas. Igalia has this idea to sort of crowd-source important web platform features that need to get worked on (that’s the sort of work they do). They call it Open Prioritization. …\nThe post :focus-visible in WebKit appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://blogs.igalia.com/mrego/2021/06/07/focus-visible-in-webkit-may-2021/",
-          "publishedOn": "2021-07-09T18:53:51.000Z",
-          "wordCount": 1281,
-          "title": ":focus-visible in WebKit"
-        },
-        {
-          "id": "https://css-tricks.com/?p=343598",
-          "author": "Philippe Bernard",
-          "description": "Ever heard of favicons made with SVG? If you are a regular reader of CSS-Tricks, you probably have. But does your website actually use one?\nThe task is more non-trivial than you might think. As we will see in this …\nThe post SVG Favicons in Action appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/svg-favicons-in-action/",
-          "publishedOn": "2021-07-09T14:31:57.000Z",
-          "wordCount": 2265,
-          "title": "SVG Favicons in Action"
         }
       ]
     },
@@ -1543,51 +1525,6 @@
           "publishedOn": "2021-07-12T11:26:39.000Z",
           "wordCount": 1208,
           "title": "Google BigQuery Beginner&#x27;s Guide – How to Analyze Large Datasets"
-        },
-        {
-          "id": "60e8864de8ee9b08300ecc3f",
-          "author": null,
-          "description": "There are literally 100s of great React libraries to choose from, but which libraries do you need most for your React projects?  In this article, we're going to break down five libraries you need for your React projects. Each of them will cover virtually every major tool you need, plus",
-          "link": "https://www.freecodecamp.org/news/5-react-libraries-every-project-needs/",
-          "publishedOn": "2021-07-09T20:06:31.000Z",
-          "wordCount": 1729,
-          "title": "5 React Libraries Every Project Should Use in 2021"
-        },
-        {
-          "id": "60e81c50134ad707be00f79f",
-          "author": null,
-          "description": "Hey everyone! In this article, I'm going to show you what's new in the latest of version of React – React 18 – in under 8 minutes.  First, you might be wondering whether the latest set of changes will break anything with your current setup, or whether you will have to learn",
-          "link": "https://www.freecodecamp.org/news/whats-new-in-react-18/",
-          "publishedOn": "2021-07-09T18:42:26.000Z",
-          "wordCount": 1930,
-          "title": "What&#x27;s New in React 18? Concurrency, Batching, the Transition API and More"
-        },
-        {
-          "id": "60dcb93727f80207bcdbc17e",
-          "author": null,
-          "description": "When you use code snippets in Visual Studio, it can make your coding process a lot easier and faster. But what are code snippets? And how can you use them? In this article, we'll look at how you can create code snippets in C#. Just keep in mind that snippets",
-          "link": "https://www.freecodecamp.org/news/how-to-automatically-generate-code-snippets-visual-studio/",
-          "publishedOn": "2021-07-09T18:28:18.000Z",
-          "wordCount": 3957,
-          "title": "How to Automatically Generate C# Code Snippets in Visual Studio"
-        },
-        {
-          "id": "5f9c986d740569d1a4ca1a04",
-          "author": null,
-          "description": "Nine years ago, universities like MIT and Stanford first opened up free online courses to the public. Today, close to 1,000 schools around the world have created thousands of free online courses. I’ve compiled this list of 760+ such free online courses that you can start this month.",
-          "link": "https://www.freecodecamp.org/news/free-online-programming-cs-courses/",
-          "publishedOn": "2021-07-09T18:04:00.000Z",
-          "wordCount": 6787,
-          "title": "760+ Free Online Programming &amp; Computer Science Courses You Can Start This July"
-        },
-        {
-          "id": "60ae6b0d11ffb70827ef7fe6",
-          "author": null,
-          "description": "If you look at any website or application today, somewhere under the hood there is a database. After all, we live in the world of Big Data. And the volume of data is growing exponentially.  With so much data at hand, we need ever more sophisticated ways to store it",
-          "link": "https://www.freecodecamp.org/news/how-to-create-a-nosql-database-with-ravendb/",
-          "publishedOn": "2021-07-09T15:06:24.000Z",
-          "wordCount": 1374,
-          "title": "How to Create a NoSQL Database with RavenDB"
         }
       ]
     }
