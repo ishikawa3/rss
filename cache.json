@@ -22,6 +22,33 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=360490",
+          "author": "Chris Coyier",
+          "description": "Say you have an elements with CSS tooltips and you’re going to position those tooltips such that it opens up next to the element on hover (or probably better: when clicked/tapped). Next to it where? Above it? What if the …\nWhat Would it Take to Prevent CSS Tooltips From Overflowing? originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
+          "link": "https://css-tricks.com/can-css-prevent-tooltips-from-overflowing/",
+          "publishedOn": "2022-01-11T23:18:56.000Z",
+          "wordCount": 884,
+          "title": "What Would it Take to Prevent CSS Tooltips From Overflowing?"
+        },
+        {
+          "id": "https://css-tricks.com/?p=359243",
+          "author": "Adam Rackis",
+          "description": "Vite (pronounced “veet”) is a newish JavaScript bundler. It comes batteries-included, requires almost no configuration to be useful, and includes plenty of configuration options. Oh—and it’s fast. Incredibly fast.\nThis post will walk through the process of converting an existing …\nAdding Vite to Your Existing Web App originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
+          "link": "https://css-tricks.com/adding-vite-to-your-existing-web-app/",
+          "publishedOn": "2022-01-11T15:38:06.000Z",
+          "wordCount": 2831,
+          "title": "Adding Vite to Your Existing Web App"
+        },
+        {
+          "id": "https://css-tricks.com/?p=360061",
+          "author": "Chris Coyier",
+          "description": "Custom Fields in WordPress are arbitrary bits of data that you can apply to Posts, Pages, and Custom Post Types in WordPress. Metadata, as it were, in the form of key/value pairs. For example:\nKey: subtitle / Value: They are \n…\nHow to Use Native Custom Fields in WordPress (and 5 Useful Examples) originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
+          "link": "https://css-tricks.com/use-custom-fields-in-wordpress/",
+          "publishedOn": "2022-01-11T00:41:48.000Z",
+          "wordCount": 2313,
+          "title": "How to Use Native Custom Fields in WordPress (and 5 Useful Examples)"
+        },
+        {
           "id": "https://css-tricks.com/?p=360873",
           "author": "Chris Coyier",
           "description": "Raw Chromium, perhaps?\nSo, Chrome is based on Chromium which is open-source. Chrome is Chromium with Google’s extra stuff on top of it. What extra stuff? Kinda lots! A few years ago, The Verge published “Microsoft reveals all the …\nWhat is Chromium Without Chrome on Top? originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
@@ -366,6 +393,69 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "61db119ad2d9de084285f51f",
+          "author": null,
+          "description": "One of the most important composite data types in Python is the dictionary. It's a collection you use to store data in {key:value} pairs.  Dictionaries are ordered and mutable, and they cannot store duplicate data. Just keep in mind that before Python 3.6, dictionaries were unordered. Alright, let's",
+          "link": "https://www.freecodecamp.org/news/everything-you-need-to-know-about-python-dictionaries/",
+          "publishedOn": "2022-01-11T19:05:01.000Z",
+          "wordCount": 1540,
+          "title": "Python Dictionary – How to Perform CRUD Operations on dicts in Python"
+        },
+        {
+          "id": "61ddb353b837d507ba09fd7b",
+          "author": null,
+          "description": "It may sound surprising, but you already have all it takes to produce high-level logic: right behind your eyes.  In the first term of college, I was introduced to a subject called Logic. In the \"I think, therefore I am\" fashion, you might think this would be an easy subject.",
+          "link": "https://www.freecodecamp.org/news/propositional-logic-for-beginners/",
+          "publishedOn": "2022-01-11T18:41:47.000Z",
+          "wordCount": 1584,
+          "title": "Propositional Logic for Beginners – You Already Know More Than You Think"
+        },
+        {
+          "id": "61d70293d2d9de084285d502",
+          "author": null,
+          "description": "What is Margin Collapse?Margin collapse occurs when vertically adjacent margins of block-level elements collide to share a general margin space. The size of this shared space is dictated by the larger number margin.  You can visualize this as an arm wrestling match, where the larger margin will take over",
+          "link": "https://www.freecodecamp.org/news/what-is-margin-collapse-and-how-to-avoid-it/",
+          "publishedOn": "2022-01-11T18:07:52.000Z",
+          "wordCount": 1081,
+          "title": "What is Margin Collapse in CSS? And How to Avoid It"
+        },
+        {
+          "id": "61daa098d2d9de084285f0e9",
+          "author": null,
+          "description": "Search algorithms are a fundamental computer science concept that you should understand as a developer. They work by using a step-by-step method to locate specific data among a collection of data. In this article, we'll learn how search algorithms work by looking at their implementations in Java and Python. What",
+          "link": "https://www.freecodecamp.org/news/search-algorithms-linear-and-binary-search-explained/",
+          "publishedOn": "2022-01-11T17:21:54.000Z",
+          "wordCount": 1750,
+          "title": "Search Algorithms – Linear Search and Binary Search Code Implementation and Complexity Analysis"
+        },
+        {
+          "id": "61d304e0d2d9de084285afc8",
+          "author": null,
+          "description": "What is DynamoDB?DynamoDB is a fully managed NoSQL database from AWS. DynamoDB is similar to other NoSQL databases like MongoDB, except for the fact that you don’t have to do any maintenance or scaling on your part. DynamoDB can handle more than 10 trillion requests per day and",
+          "link": "https://www.freecodecamp.org/news/aws-dynamodb-database-guide-for-beginners/",
+          "publishedOn": "2022-01-11T16:50:00.000Z",
+          "wordCount": 1179,
+          "title": "AWS DynamoDB – NoSQL Database Guide for Beginners"
+        },
+        {
+          "id": "601617d60a2838549dcbb553",
+          "author": null,
+          "description": "It's a bit tricky to explain what exactly a file system is in just one sentence. That's why I decided to write an article about it. This post is meant to be a high-level overview of file systems. But I'll sneak into the lower-level concepts as well, as long as",
+          "link": "https://www.freecodecamp.org/news/file-systems-architecture-explained/",
+          "publishedOn": "2022-01-11T16:49:00.000Z",
+          "wordCount": 6927,
+          "title": "What Is a File System? Types of Computer File Systems and How they Work – Explained with Examples"
+        },
+        {
+          "id": "61d6aae9d2d9de084285cfdc",
+          "author": null,
+          "description": "As a JavaScript beginner, you probably learned how to declare variables and assign values.  In the old, pre-ES6 era of JavaScript, developers used to declare variables using the keyword var or without any keywords. But times have changed! With ES6 (EcmaScript 2015), the beginning of the modern era in JavaScript,",
+          "link": "https://www.freecodecamp.org/news/understanding-let-const-and-var-keywords/",
+          "publishedOn": "2022-01-11T16:47:43.000Z",
+          "wordCount": 1573,
+          "title": "How the let, const, and var Keywords Work in JavaScript"
+        },
         {
           "id": "61d8d033d2d9de084285e93e",
           "author": null,
