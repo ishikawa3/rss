@@ -2,10 +2,89 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-01-12T00:06:39.679Z</updated>
+    <updated>2022-01-13T00:06:44.023Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Parcel CSS: A New CSS Parser, Transformer, and Minifier]]></title>
+        <id>https://css-tricks.com/?p=361233</id>
+        <link href="https://css-tricks.com/parcel-css/"/>
+        <updated>2022-01-12T21:10:53.000Z</updated>
+        <summary type="html"><![CDATA[Hot off the presses from Devon Govett, creator of Parcel, is Parcel CSS:
+A CSS parser, transformer, and minifier written in Rust.
+
+Nice. The CSS world could use a little processing shake up like this.
+I just wrote a …
+Parcel CSS: A New CSS Parser, Transformer, and Minifier originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Open Source & Sustainability]]></title>
+        <id>https://css-tricks.com/?p=360607</id>
+        <link href="https://css-tricks.com/open-source-sustainability/"/>
+        <updated>2022-01-12T20:51:49.000Z</updated>
+        <summary type="html"><![CDATA[It’s a god-damned miracle to me that open source is as robust as it is in tech. Consider the options. You could have a job (or be entrepreneurial) with your coding skills and likely be paid quite well. Or, you …
+Open Source & Sustainability originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python strip() – How to Trim a String or Line]]></title>
+        <id>61def1f8b837d507ba0a06cd</id>
+        <link href="https://www.freecodecamp.org/news/python-strip-how-to-trim-a-string-or-line/"/>
+        <updated>2022-01-12T20:48:03.000Z</updated>
+        <summary type="html"><![CDATA[In this article, you'll learn how to trim a string in Python using the .strip() method.  You'll also see how to use the .lstrip() and .rstrip() methods, which are the counterparts to .strip().  Let's get started!  How to trim a string in Python Python has three built-in methods for trimming]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Code a Full Stack Instagram Clone with Flutter and Firebase]]></title>
+        <id>61df0010b837d507ba0a0840</id>
+        <link href="https://www.freecodecamp.org/news/code-a-full-stack-instagram-clone-with-flutter-and-firebase/"/>
+        <updated>2022-01-12T16:29:13.000Z</updated>
+        <summary type="html"><![CDATA[Flutter and Firebase can work well together to create a full stack app. We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to build an Instagram clone using Flutter on the front end and Firebase on the back end. After this tutorial, you]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Make a Pure CSS 3D Package Toggle]]></title>
+        <id>https://css-tricks.com/?p=360168</id>
+        <link href="https://css-tricks.com/how-to-make-a-pure-css-3d-package-toggle/"/>
+        <updated>2022-01-12T15:29:38.000Z</updated>
+        <summary type="html"><![CDATA[You know how you can get cardboard boxes that come totally flat? You fold ‘em up and tape ‘em to make them into a useful box. Then when it’s time to recycle them, you cut them back apart to flatten …
+How to Make a Pure CSS 3D Package Toggle originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
+        <author>
+            <name>Jhey Tompkins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Netlify Identity, a Key Aspect to Jamstack Development]]></title>
+        <id>https://css-tricks.com/?p=361191</id>
+        <link href="https://css-tricks.com/netlify-identity/"/>
+        <updated>2022-01-12T14:13:00.000Z</updated>
+        <summary type="html"><![CDATA[(This is a sponsored post.)
+Netlify is amazing at static file hosting, but it’s really so much more than that. You can build any sort of website, even highly dynamic apps, with the Jamstack approach and static file hosting …
+Netlify Identity, a Key Aspect to Jamstack Development originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Hire For Digital Accessibility Roles]]></title>
+        <id>https://smashingmagazine.com/2022/01/how-hire-digital-accessibility-roles/</id>
+        <link href="https://smashingmagazine.com/2022/01/how-hire-digital-accessibility-roles/"/>
+        <updated>2022-01-12T10:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Accessibility must be a permanent program within organizations, much like security. In this article, Kate Kalcevich shares tips on which skills and questions to keep in mind when hiring for digital accessibility roles.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Kate Kalcevich)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What Would it Take to Prevent CSS Tooltips From Overflowing?]]></title>
         <id>https://css-tricks.com/?p=360490</id>
@@ -83,6 +162,16 @@ What Would it Take to Prevent CSS Tooltips From Overflowing? originally publishe
         <link href="https://www.freecodecamp.org/news/understanding-let-const-and-var-keywords/"/>
         <updated>2022-01-11T16:47:43.000Z</updated>
         <summary type="html"><![CDATA[As a JavaScript beginner, you probably learned how to declare variables and assign values.  In the old, pre-ES6 era of JavaScript, developers used to declare variables using the keyword var or without any keywords. But times have changed! With ES6 (EcmaScript 2015), the beginning of the modern era in JavaScript,]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[10 Common Coding Interview Problems [Solved]]]></title>
+        <id>61defbc6b837d507ba0a07af</id>
+        <link href="https://www.freecodecamp.org/news/10-common-coding-interview-problems-solved/"/>
+        <updated>2022-01-11T16:08:00.000Z</updated>
+        <summary type="html"><![CDATA[Are you preparing for coding interviews? Or competitive programming? It can take a lot of study and practice to get good at solving coding problems often used in interviews.  We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to solve 10 common coding]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
@@ -532,16 +621,6 @@ Thank You (2021 Edition) originally published on CSS-Tricks. You should get the 
         <summary type="html"><![CDATA[Before we can talk about how people interact, much less how to take advantage of that knowledge and design, it’s important to understand a bit about the history, the technology, and what today counts as a mobile touchscreen device at all.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Steven Hoober)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Modifying Headers In HTTP(s) Requests In UI Automation Testing]]></title>
-        <id>https://smashingmagazine.com/2021/12/headers-https-requests-ui-automation-testing/</id>
-        <link href="https://smashingmagazine.com/2021/12/headers-https-requests-ui-automation-testing/"/>
-        <updated>2021-12-14T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[To be able to modify headers in a testing environment is a great thing to have. It allows control over your application as one can bypass authentication, set cookies, and so on. In this article, Nafees Nehar explores some methods which allow modification of headers in an automation testing setup.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Nafees Nehar)</name>
         </author>
     </entry>
 </feed>
