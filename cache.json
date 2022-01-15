@@ -22,6 +22,24 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=360864",
+          "author": "Chris Coyier",
+          "description": "Mondrian is famous for paintings with big thick black lines forming a grid, where each cell is white, red, yellow, or blue. This aesthetic pairs well with the notoriously rectangular web, and that hasn’t gone unnoticed over the years with …\nMondrian Art in CSS From 5 Code Artists originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
+          "link": "https://css-tricks.com/mondrian-art-in-css-from-5-code-artists/",
+          "publishedOn": "2022-01-14T18:15:03.000Z",
+          "wordCount": 843,
+          "title": "Mondrian Art in CSS From 5 Code Artists"
+        },
+        {
+          "id": "https://css-tricks.com/?p=360781",
+          "author": "Austin Crim",
+          "description": "The Svelte transition API provides a first-class way to animate your components when they enter or leave the document, including custom Svelte transitions. By default, the transition directive uses CSS animations, which generally offer better performance and allow the browser’s …\nHow to Build Your First Custom Svelte Transition originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
+          "link": "https://css-tricks.com/making-your-first-custom-svelte-transition/",
+          "publishedOn": "2022-01-14T15:24:19.000Z",
+          "wordCount": 1571,
+          "title": "How to Build Your First Custom Svelte Transition"
+        },
+        {
           "id": "https://css-tricks.com/?p=360939",
           "author": "Chris Coyier",
           "description": "Every now and then, I find that I’ve accumulated a bunch of links about various things I find interesting. Accessibility is one of those things! Here’s a list of related links to other articles that I’ve been saving up and …\n8 Helpful Accessibility Links for January 2022 originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
@@ -245,6 +263,20 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2022/01/ten-tips-aspiring-designer-beginners-part2/",
+          "author": "hello@smashingmagazine.com (Luis Ouriach)",
+          "description": "In [Part 1](https://www.smashingmagazine.com/2022/01/ten-tips-aspiring-designer-beginners-part1/), Luis Ouriach shared advice he wished he had when starting out in his career. In this second and last part of this series, Luis continues sharing tips that helped him grow and become a better designer throughout the years.",
+          "link": "https://smashingmagazine.com/2022/01/ten-tips-aspiring-designer-beginners-part2/",
+          "publishedOn": "2022-01-14T15:00:00.000Z",
+          "wordCount": 3569,
+          "title": "Ten Tips For Aspiring Designer Beginners (Part 2)",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/5b0e9621-b939-439d-a812-69a4eb7d68ff/tips-aspiring-designer-beginners-part2.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
+        {
           "id": "https://smashingmagazine.com/2022/01/building-web-code-editor/",
           "author": "hello@smashingmagazine.com (Daniel Don)",
           "description": "If you’re a developer who’s thinking about building a platform that requires a code editor in one form or another, then this article is for you. This article explains how to create a web code editor that displays the result in real time with the help of some HTML, CSS and JavaScript.",
@@ -447,6 +479,51 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "61dd9481b837d507ba09fca9",
+          "author": null,
+          "description": "I've composed this guide to give you a practical overview of perhaps the most important React library you will use to build 90% of your projects: Next.js. The goal of this tutorial is to get you started using Next.js as easily as possible. This is not a complete",
+          "link": "https://www.freecodecamp.org/news/nextjs-tutorial/",
+          "publishedOn": "2022-01-14T21:39:10.000Z",
+          "wordCount": 2638,
+          "title": "Get Started with Next.js – The React Library Your Project Needs"
+        },
+        {
+          "id": "61dfe267b837d507ba0a10e9",
+          "author": null,
+          "description": "If you have a website, it's helpful to have a loader so users can tell something is happening once they've clicked a link or button.  You can use this loader component in a lot of places, and it should be as simple as possible.  In this post, we will see",
+          "link": "https://www.freecodecamp.org/news/how-to-create-a-css-only-loader/",
+          "publishedOn": "2022-01-14T21:11:49.000Z",
+          "wordCount": 1930,
+          "title": "How to Create a CSS-Only Loader Using One Element"
+        },
+        {
+          "id": "61de055cb837d507ba0a011c",
+          "author": null,
+          "description": "A code Snippet is a programming term that refers to a small portion of re-usable source code, machine code, or text.  Snippets help programmers reduce the time it takes to type in repetitive information while coding. Code Snippets are a feature on most text editors, code editors, and IDEs.  In",
+          "link": "https://www.freecodecamp.org/news/create-your-own-custom-code-snippets/",
+          "publishedOn": "2022-01-14T18:46:57.000Z",
+          "wordCount": 2162,
+          "title": "How to Create Your Own Custom Code Snippets Right in Your Code Editor"
+        },
+        {
+          "id": "61dbe879d2d9de084285fb65",
+          "author": null,
+          "description": "The z-index property might seem simple, but it's not just about using a positive or negative integer.  There's a lot more going on under the hood, and some quirks can cause problems when you're working with it.  In this article, we're going to dive deep into the z-index property and",
+          "link": "https://www.freecodecamp.org/news/how-the-z-index-property-works-under-the-hood/",
+          "publishedOn": "2022-01-14T11:06:00.000Z",
+          "wordCount": 1357,
+          "title": "How the z-index Property Works Under the Hood"
+        },
+        {
+          "id": "61dc4ac1d2d9de084285fed6",
+          "author": null,
+          "description": "Kubernetes is a container orchestration platform that helps you manage containers at scale.  I recently passed my certified Kubernetes administrator exam, and I would like to share my learning experience and resources with you.  Should You Get Kubernetes Certified? There are mixed opinions in the tech industry about the importance",
+          "link": "https://www.freecodecamp.org/news/certified-kubernetes-administrator-study-guide-cka/",
+          "publishedOn": "2022-01-14T01:14:02.000Z",
+          "wordCount": 3532,
+          "title": "Certified Kubernetes Administrator Study Guide – Prepare for the CKA Exam"
+        },
         {
           "id": "61e081cfb837d507ba0a2179",
           "author": null,
