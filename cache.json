@@ -22,6 +22,15 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=360928",
+          "author": "Chris Coyier",
+          "description": "Stoyan is absolutely correct. As much as we all love CSS, it’s still an important player in how websites load and using less of it is a good thing. He has a neat new bookmarklet called CSS Me Not …\nUsing the CSS Me Not Bookmarklet to See (and Disable) CSS Files originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
+          "link": "https://css-tricks.com/css-me-not-bookmarklet/",
+          "publishedOn": "2022-01-15T00:06:56.000Z",
+          "wordCount": 987,
+          "title": "Using the CSS Me Not Bookmarklet to See (and Disable) CSS Files"
+        },
+        {
           "id": "https://css-tricks.com/?p=360864",
           "author": "Chris Coyier",
           "description": "Mondrian is famous for paintings with big thick black lines forming a grid, where each cell is white, red, yellow, or blue. This aesthetic pairs well with the notoriously rectangular web, and that hasn’t gone unnoticed over the years with …\nMondrian Art in CSS From 5 Code Artists originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
@@ -479,6 +488,15 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "61dff97db837d507ba0a12db",
+          "author": null,
+          "description": "File Explorer is an application for managing files. It is also known as Windows Explorer. It is one of the built-in applications in the Microsoft Windows operating system.  File Explorer is extremely important, as it helps you oraganize and manage files in your PC. Sometimes File Explorer stops responding and",
+          "link": "https://www.freecodecamp.org/news/file-explorer-not-responding-fixed-on-windows-10-pc/",
+          "publishedOn": "2022-01-14T22:39:28.000Z",
+          "wordCount": 923,
+          "title": "File Explorer Not Responding – Fixed on Windows 10 PC"
+        },
         {
           "id": "61dd9481b837d507ba09fca9",
           "author": null,

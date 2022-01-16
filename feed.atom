@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-01-15T00:06:27.514Z</updated>
+    <updated>2022-01-16T00:07:04.577Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Using the CSS Me Not Bookmarklet to See (and Disable) CSS Files]]></title>
+        <id>https://css-tricks.com/?p=360928</id>
+        <link href="https://css-tricks.com/css-me-not-bookmarklet/"/>
+        <updated>2022-01-15T00:06:56.000Z</updated>
+        <summary type="html"><![CDATA[Stoyan is absolutely correct. As much as we all love CSS, it’s still an important player in how websites load and using less of it is a good thing. He has a neat new bookmarklet called CSS Me Not …
+Using the CSS Me Not Bookmarklet to See (and Disable) CSS Files originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[File Explorer Not Responding – Fixed on Windows 10 PC]]></title>
+        <id>61dff97db837d507ba0a12db</id>
+        <link href="https://www.freecodecamp.org/news/file-explorer-not-responding-fixed-on-windows-10-pc/"/>
+        <updated>2022-01-14T22:39:28.000Z</updated>
+        <summary type="html"><![CDATA[File Explorer is an application for managing files. It is also known as Windows Explorer. It is one of the built-in applications in the Microsoft Windows operating system.  File Explorer is extremely important, as it helps you oraganize and manage files in your PC. Sometimes File Explorer stops responding and]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Get Started with Next.js – The React Library Your Project Needs]]></title>
         <id>61dd9481b837d507ba09fca9</id>
