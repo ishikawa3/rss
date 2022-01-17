@@ -452,34 +452,6 @@
             "length": "0",
             "type": "image/jpg"
           }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/12/designing-human-machine-interfaces-future-vehicles/",
-          "author": "hello@smashingmagazine.com (Nick Babich & Gleb Kuznetsov)",
-          "description": "Modern HMIs are transforming the way we interact with our vehicles. A car becomes a gadget that we use in a similar way as we use our phones. Users expect a lot of HMI, they even evaluate car experience based on the experience they have with HMI. In this article, let’s look at some ways to help us satisfy users’ needs with proper design.",
-          "link": "https://smashingmagazine.com/2021/12/designing-human-machine-interfaces-future-vehicles/",
-          "publishedOn": "2021-12-17T14:30:00.000Z",
-          "wordCount": 3417,
-          "title": "Designing Human-Machine Interfaces For Vehicles Of The Future",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/3d9f919a-44bf-46ef-bfff-ee673c58e83f/designing-human-machine-interfaces-future-vehicles.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/12/billing-management-saas-stripe-azure-functions/",
-          "author": "hello@smashingmagazine.com (Nwani Victory)",
-          "description": "In every software-as-a-service solution, user billing and payments are key aspects in the sale of services rendered. Let’s learn about Stripe and how the REST API can be programmatically used in serverless functions to manage the billing for an application.",
-          "link": "https://smashingmagazine.com/2021/12/billing-management-saas-stripe-azure-functions/",
-          "publishedOn": "2021-12-17T13:30:00.000Z",
-          "wordCount": 5454,
-          "title": "Billing Management For Your Next SaaS Idea Using Stripe And Azure Functions",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/346f3641-b7be-486d-8ac9-327ffe00e232/billing-management-saas-stripe-azure-functions.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
         }
       ]
     },

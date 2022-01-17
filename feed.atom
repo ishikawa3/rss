@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-01-16T00:07:04.577Z</updated>
+    <updated>2022-01-17T00:06:41.938Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
@@ -797,26 +797,6 @@ Thank You (2021 Edition) originally published on CSS-Tricks. You should get the 
         <summary type="html"><![CDATA[How to improve Core Web Vitals, a Smashing Magazine case study on how we detected and fixed the bottlenecks, and how we ended up with green scores, all the way.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Barry Pollard)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Designing Human-Machine Interfaces For Vehicles Of The Future]]></title>
-        <id>https://smashingmagazine.com/2021/12/designing-human-machine-interfaces-future-vehicles/</id>
-        <link href="https://smashingmagazine.com/2021/12/designing-human-machine-interfaces-future-vehicles/"/>
-        <updated>2021-12-17T14:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Modern HMIs are transforming the way we interact with our vehicles. A car becomes a gadget that we use in a similar way as we use our phones. Users expect a lot of HMI, they even evaluate car experience based on the experience they have with HMI. In this article, let’s look at some ways to help us satisfy users’ needs with proper design.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Nick Babich &amp; Gleb Kuznetsov)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Billing Management For Your Next SaaS Idea Using Stripe And Azure Functions]]></title>
-        <id>https://smashingmagazine.com/2021/12/billing-management-saas-stripe-azure-functions/</id>
-        <link href="https://smashingmagazine.com/2021/12/billing-management-saas-stripe-azure-functions/"/>
-        <updated>2021-12-17T13:30:00.000Z</updated>
-        <summary type="html"><![CDATA[In every software-as-a-service solution, user billing and payments are key aspects in the sale of services rendered. Let’s learn about Stripe and how the REST API can be programmatically used in serverless functions to manage the billing for an application.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Nwani Victory)</name>
         </author>
     </entry>
 </feed>
