@@ -22,6 +22,15 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=361047",
+          "author": "Louis Lazaris",
+          "description": "Another year has passed and once again I’ve had the privilege of going through the Web Tools Weekly newsletter archives from the past 12 months to hunt down the front-end tools that readers found to be the most interesting during …\nWhat Were the Hottest Front-End Tools in 2021? originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
+          "link": "https://css-tricks.com/hottest-front-end-tools-in-2021/",
+          "publishedOn": "2022-01-17T15:13:26.000Z",
+          "wordCount": 6239,
+          "title": "What Were the Hottest Front-End Tools in 2021?"
+        },
+        {
           "id": "https://css-tricks.com/?p=360928",
           "author": "Chris Coyier",
           "description": "Stoyan is absolutely correct. As much as we all love CSS, it’s still an important player in how websites load and using less of it is a good thing. He has a neat new bookmarklet called CSS Me Not …\nUsing the CSS Me Not Bookmarklet to See (and Disable) CSS Files originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
@@ -272,6 +281,20 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2022/01/modern-fluid-typography-css-clamp/",
+          "author": "hello@smashingmagazine.com (Adrian Bece)",
+          "description": "We’ll explore fluid typography principles, use-cases, implementation with CSS clamp() and an interactive fluid typography calculator.",
+          "link": "https://smashingmagazine.com/2022/01/modern-fluid-typography-css-clamp/",
+          "publishedOn": "2022-01-17T13:00:00.000Z",
+          "wordCount": 4018,
+          "title": "Modern Fluid Typography Using CSS Clamp",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/f12f5a3d-f679-4b6b-b9c2-cb5a9d9166ae/modern-fluid-typography-css-clamp.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
+        {
           "id": "https://smashingmagazine.com/2022/01/ten-tips-aspiring-designer-beginners-part2/",
           "author": "hello@smashingmagazine.com (Luis Ouriach)",
           "description": "In [Part 1](https://www.smashingmagazine.com/2022/01/ten-tips-aspiring-designer-beginners-part1/), Luis Ouriach shared advice he wished he had when starting out in his career. In this second and last part of this series, Luis continues sharing tips that helped him grow and become a better designer throughout the years.",
@@ -460,6 +483,33 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "61dcd402b837d507ba09f7d7",
+          "author": null,
+          "description": "When you’re programming in JavaScript, you might need to get the last item in an array. In this tutorial, we’ll go over two different ways to do this. How to Get the Last Item in a JavaScript ArrayMethod 1: Use index positioningUse index positioning if you know the",
+          "link": "https://www.freecodecamp.org/news/how-to-get-the-last-item-in-an-array-in-javascript/",
+          "publishedOn": "2022-01-17T21:21:48.000Z",
+          "wordCount": 782,
+          "title": "How to Get the Last Item in an Array in JavaScript"
+        },
+        {
+          "id": "61e07e8ab837d507ba0a214c",
+          "author": null,
+          "description": "What plans would you make if you knew it was going to rain tomorrow? This can be a crucial question to ask yourself when it comes to planning your personal and day-to-day business activities. For example, I have a friend who runs an app-based laundry business in Lagos, Nigeria. He",
+          "link": "https://www.freecodecamp.org/news/visualize-weather-data-with-d3js/",
+          "publishedOn": "2022-01-17T16:59:10.000Z",
+          "wordCount": 1343,
+          "title": "How to Visualize Weather Data with D3.js"
+        },
+        {
+          "id": "61e011e0b837d507ba0a15d2",
+          "author": null,
+          "description": "Having a good landing page for your website is important. It can help drive customers to your site where they'll find your products and services and hopefully take action.  In this text-based tutorial, I’m going to take you through how to make a landing page for a boxing TV",
+          "link": "https://www.freecodecamp.org/news/how-to-make-a-landing-page-with-html-css-and-javascript/",
+          "publishedOn": "2022-01-17T16:56:05.000Z",
+          "wordCount": 5815,
+          "title": "Web Development Project – How to Make a Landing Page with HTML, CSS, and JavaScript"
+        },
         {
           "id": "61dff97db837d507ba0a12db",
           "author": null,

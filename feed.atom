@@ -2,10 +2,61 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-01-17T00:06:41.938Z</updated>
+    <updated>2022-01-18T00:06:30.814Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Get the Last Item in an Array in JavaScript]]></title>
+        <id>61dcd402b837d507ba09f7d7</id>
+        <link href="https://www.freecodecamp.org/news/how-to-get-the-last-item-in-an-array-in-javascript/"/>
+        <updated>2022-01-17T21:21:48.000Z</updated>
+        <summary type="html"><![CDATA[When you’re programming in JavaScript, you might need to get the last item in an array. In this tutorial, we’ll go over two different ways to do this. How to Get the Last Item in a JavaScript ArrayMethod 1: Use index positioningUse index positioning if you know the]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Visualize Weather Data with D3.js]]></title>
+        <id>61e07e8ab837d507ba0a214c</id>
+        <link href="https://www.freecodecamp.org/news/visualize-weather-data-with-d3js/"/>
+        <updated>2022-01-17T16:59:10.000Z</updated>
+        <summary type="html"><![CDATA[What plans would you make if you knew it was going to rain tomorrow? This can be a crucial question to ask yourself when it comes to planning your personal and day-to-day business activities. For example, I have a friend who runs an app-based laundry business in Lagos, Nigeria. He]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Web Development Project – How to Make a Landing Page with HTML, CSS, and JavaScript]]></title>
+        <id>61e011e0b837d507ba0a15d2</id>
+        <link href="https://www.freecodecamp.org/news/how-to-make-a-landing-page-with-html-css-and-javascript/"/>
+        <updated>2022-01-17T16:56:05.000Z</updated>
+        <summary type="html"><![CDATA[Having a good landing page for your website is important. It can help drive customers to your site where they'll find your products and services and hopefully take action.  In this text-based tutorial, I’m going to take you through how to make a landing page for a boxing TV]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Were the Hottest Front-End Tools in 2021?]]></title>
+        <id>https://css-tricks.com/?p=361047</id>
+        <link href="https://css-tricks.com/hottest-front-end-tools-in-2021/"/>
+        <updated>2022-01-17T15:13:26.000Z</updated>
+        <summary type="html"><![CDATA[Another year has passed and once again I’ve had the privilege of going through the Web Tools Weekly newsletter archives from the past 12 months to hunt down the front-end tools that readers found to be the most interesting during …
+What Were the Hottest Front-End Tools in 2021? originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
+        <author>
+            <name>Louis Lazaris</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Modern Fluid Typography Using CSS Clamp]]></title>
+        <id>https://smashingmagazine.com/2022/01/modern-fluid-typography-css-clamp/</id>
+        <link href="https://smashingmagazine.com/2022/01/modern-fluid-typography-css-clamp/"/>
+        <updated>2022-01-17T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[We’ll explore fluid typography principles, use-cases, implementation with CSS clamp() and an interactive fluid typography calculator.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Adrian Bece)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Using the CSS Me Not Bookmarklet to See (and Disable) CSS Files]]></title>
         <id>https://css-tricks.com/?p=360928</id>
