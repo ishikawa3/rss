@@ -22,6 +22,24 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=360346",
+          "author": "Chris Coyier",
+          "description": "SVG is a great image format, so it's nice to able to use it in WordPress. If you're looking to be using SVG in WordPress. , we've got you covered here with all the best options.\nUsing SVG in WordPress (2 Helpful Plugin Recommendations) originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
+          "link": "https://css-tricks.com/using-svg-in-wordpress/",
+          "publishedOn": "2022-01-21T19:35:31.000Z",
+          "wordCount": 1149,
+          "title": "Using SVG in WordPress (2 Helpful Plugin Recommendations)"
+        },
+        {
+          "id": "https://css-tricks.com/?p=360665",
+          "author": "John Rhea",
+          "description": "Another aspect of web components that we haven’t talked about yet is that a JavaScript function is called whenever a web component is added or removed from a page. These lifecycle callbacks can be used for many things, including making …\nContext-Aware Web Components Are Easier Than You Think originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
+          "link": "https://css-tricks.com/context-aware-web-components/",
+          "publishedOn": "2022-01-21T14:08:05.000Z",
+          "wordCount": 2104,
+          "title": "Context-Aware Web Components Are Easier Than You Think"
+        },
+        {
           "id": "https://css-tricks.com/?p=361210",
           "author": "Josh Collinsworth",
           "description": "(This is a sponsored post.)\nI remember vividly a period early in my coding career when I began to feel that things were changing away from what I knew, and headed towards a more complex set of tools and …\nA Complete Beginner’s Guide to npm originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
@@ -398,6 +416,20 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2022/01/from-chaos-to-system-design-teams/",
+          "author": "hello@smashingmagazine.com (Javier Cuello)",
+          "description": "Joining a team where there are no established design practices may feel disheartening. Does this situation resonate with you? If yes, then read on — as this article is sharing the author’s advice based on his personal experience and it will show you a way (although not easy) of facing the problem in a manner that will bring other benefits, beside order and consistency.",
+          "link": "https://smashingmagazine.com/2022/01/from-chaos-to-system-design-teams/",
+          "publishedOn": "2022-01-21T14:30:00.000Z",
+          "wordCount": 5315,
+          "title": "From Chaos To System In Design Teams",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a7ab411a-2903-440e-bbfa-4f7914345165/chaos-to-system-design-teams.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
+        {
           "id": "https://smashingmagazine.com/2022/01/building-real-app-react-query/",
           "author": "hello@smashingmagazine.com (Georgii Perepecho)",
           "description": "In this article, Georgii Perepecho explains the most common React Query features that you need to be familiar with when creating a real-life application that is stable when testing.",
@@ -592,20 +624,6 @@
             "length": "0",
             "type": "image/jpg"
           }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/12/create-custom-range-input-consistent-browsers/",
-          "author": "hello@smashingmagazine.com (Alyssa Holland)",
-          "description": "Range inputs have notoriously been a pain to style. Each browser renders the input differently requiring you to use vendor prefixes in order to create a cohesive look and feel. In this article, we’ll take a look at the quirkiness of the HTML range input and demonstrate how to style the input to look consistent across all major browsers.",
-          "link": "https://smashingmagazine.com/2021/12/create-custom-range-input-consistent-browsers/",
-          "publishedOn": "2021-12-23T11:00:00.000Z",
-          "wordCount": 2616,
-          "title": "Creating A Custom Range Input That Looks Consistent Across All Browsers",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0deb2d53-1482-44c1-bf77-4dcc92ce3cd5/create-custom-range-input-consistent-browsers.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
         }
       ]
     },
@@ -614,6 +632,24 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "61e3bb40b837d507ba0a3f30",
+          "author": null,
+          "description": "Event sourcing is about persisting events instead of just the current state. Event sourcing can be helpful for auditing purposes, and to analyze or rebuild previous system states for business analysis. Let's look at it in a bit more detail: every time you make a change to the application state,",
+          "link": "https://www.freecodecamp.org/news/how-to-make-event-sourcing-in-java-easier/",
+          "publishedOn": "2022-01-21T16:23:36.000Z",
+          "wordCount": 1333,
+          "title": "How to Make Event Sourcing in Java Easier"
+        },
+        {
+          "id": "61ea53d4fa0e660c3ce47514",
+          "author": null,
+          "description": "Sometimes when you decide to open an app or file or install or open a program on your Windows 10 PC, you might get the error \"An administrator has blocked you from running this app\".  You get this error because Windows 10 is optimized for protection against malware",
+          "link": "https://www.freecodecamp.org/news/an-administrator-has-blocked-you-from-running-this-app-how-to-fix-on-a-windows-10-pc/",
+          "publishedOn": "2022-01-21T15:51:17.000Z",
+          "wordCount": 1123,
+          "title": "An Administrator Has Blocked You From Running This App –  How to Fix on a Windows 10 PC"
+        },
         {
           "id": "61e95a08183181284a1922e8",
           "author": null,
