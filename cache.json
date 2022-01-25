@@ -22,6 +22,15 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=360811",
+          "author": "Melanie Sumner",
+          "description": "You know that joke, “Two front-end developers walk into a bar and find they have nothing in common”? It’s funny, yet frustrating, because it’s true.\nThis article will present three different perspectives on accessibility in web design and development. Three …\nWhy Don’t Developers Take Accessibility Seriously? originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
+          "link": "https://css-tricks.com/why-dont-developers-take-accessibility-seriously/",
+          "publishedOn": "2022-01-24T14:49:18.000Z",
+          "wordCount": 2781,
+          "title": "Why Don’t Developers Take Accessibility Seriously?"
+        },
+        {
           "id": "https://css-tricks.com/?p=360346",
           "author": "Chris Coyier",
           "description": "SVG is a great image format, so it's nice to able to use it in WordPress. If you're looking to be using SVG in WordPress. , we've got you covered here with all the best options.\nUsing SVG in WordPress (2 Helpful Plugin Recommendations) originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
@@ -416,6 +425,20 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2022/01/introduction-css-cascade-layers/",
+          "author": "hello@smashingmagazine.com (Stephanie Eckles)",
+          "description": "Cascade layers introduce the new at-rule of @layer. The intent is to help CSS authors be more intentional about ordering the “layers” of CSS rules as a new method of cascade management.",
+          "link": "https://smashingmagazine.com/2022/01/introduction-css-cascade-layers/",
+          "publishedOn": "2022-01-24T11:00:00.000Z",
+          "wordCount": 4750,
+          "title": "Getting Started With CSS Cascade Layers",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/13b8900c-aa53-49ae-84f7-9fbf598635e2/introduction-css-cascade-layers.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
+        {
           "id": "https://smashingmagazine.com/2022/01/from-chaos-to-system-design-teams/",
           "author": "hello@smashingmagazine.com (Javier Cuello)",
           "description": "Joining a team where there are no established design practices may feel disheartening. Does this situation resonate with you? If yes, then read on — as this article is sharing the author’s advice based on his personal experience and it will show you a way (although not easy) of facing the problem in a manner that will bring other benefits, beside order and consistency.",
@@ -632,6 +655,33 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "61e92726183181284a191e75",
+          "author": null,
+          "description": "Temporal Dead Zone and Hoisting are two essential terms in JavaScript. But understanding how they work can easily confuse you if you don't approach them properly. But don't fret! This article is here to help you get a good grasp of the two terms. So relax, grab your favorite cup",
+          "link": "https://www.freecodecamp.org/news/javascript-temporal-dead-zone-and-hoisting-explained/",
+          "publishedOn": "2022-01-24T23:10:03.000Z",
+          "wordCount": 1768,
+          "title": "Temporal Dead Zone (TDZ) and Hoisting in JavaScript – Explained with Examples"
+        },
+        {
+          "id": "61ebdebf011f8933034705af",
+          "author": null,
+          "description": "In this article you'll see how to use Python's .replace() method to perform substring substiution.  You'll also see how to perform case-insensitive substring substitution.  Let's get started!  What does the .replace() Python method do? When using the .replace() Python method, you are able to replace every instance of one specific",
+          "link": "https://www.freecodecamp.org/news/python-string-replace-function-in-python-for-substring-substitution/",
+          "publishedOn": "2022-01-24T16:59:25.000Z",
+          "wordCount": 1243,
+          "title": "Python String.Replace() – Function in Python for Substring Substitution"
+        },
+        {
+          "id": "61d543e4d2d9de084285c33d",
+          "author": null,
+          "description": "In this article, I'm going to show you 140 beginner friendly courses where you can learn computer science and programming for free. The freeCodeCamp courses are completely free and some of them include a free certification that you can add to your LinkedIn or résumé. Note that some of the",
+          "link": "https://www.freecodecamp.org/news/learn-programming-free-software-development-courses-for-beginners/",
+          "publishedOn": "2022-01-24T16:05:46.000Z",
+          "wordCount": 5128,
+          "title": "Learn Programming – Free Software Development Courses for Beginners"
+        },
         {
           "id": "61e3bb40b837d507ba0a3f30",
           "author": null,

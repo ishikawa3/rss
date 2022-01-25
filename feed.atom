@@ -2,10 +2,62 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-01-24T00:06:08.696Z</updated>
+    <updated>2022-01-25T00:06:31.547Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Temporal Dead Zone (TDZ) and Hoisting in JavaScript – Explained with Examples]]></title>
+        <id>61e92726183181284a191e75</id>
+        <link href="https://www.freecodecamp.org/news/javascript-temporal-dead-zone-and-hoisting-explained/"/>
+        <updated>2022-01-24T23:10:03.000Z</updated>
+        <summary type="html"><![CDATA[Temporal Dead Zone and Hoisting are two essential terms in JavaScript. But understanding how they work can easily confuse you if you don't approach them properly. But don't fret! This article is here to help you get a good grasp of the two terms. So relax, grab your favorite cup]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python String.Replace() – Function in Python for Substring Substitution]]></title>
+        <id>61ebdebf011f8933034705af</id>
+        <link href="https://www.freecodecamp.org/news/python-string-replace-function-in-python-for-substring-substitution/"/>
+        <updated>2022-01-24T16:59:25.000Z</updated>
+        <summary type="html"><![CDATA[In this article you'll see how to use Python's .replace() method to perform substring substiution.  You'll also see how to perform case-insensitive substring substitution.  Let's get started!  What does the .replace() Python method do? When using the .replace() Python method, you are able to replace every instance of one specific]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn Programming – Free Software Development Courses for Beginners]]></title>
+        <id>61d543e4d2d9de084285c33d</id>
+        <link href="https://www.freecodecamp.org/news/learn-programming-free-software-development-courses-for-beginners/"/>
+        <updated>2022-01-24T16:05:46.000Z</updated>
+        <summary type="html"><![CDATA[In this article, I'm going to show you 140 beginner friendly courses where you can learn computer science and programming for free. The freeCodeCamp courses are completely free and some of them include a free certification that you can add to your LinkedIn or résumé. Note that some of the]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Don’t Developers Take Accessibility Seriously?]]></title>
+        <id>https://css-tricks.com/?p=360811</id>
+        <link href="https://css-tricks.com/why-dont-developers-take-accessibility-seriously/"/>
+        <updated>2022-01-24T14:49:18.000Z</updated>
+        <summary type="html"><![CDATA[You know that joke, “Two front-end developers walk into a bar and find they have nothing in common”? It’s funny, yet frustrating, because it’s true.
+This article will present three different perspectives on accessibility in web design and development. Three …
+Why Don’t Developers Take Accessibility Seriously? originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
+        <author>
+            <name>Melanie Sumner</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Getting Started With CSS Cascade Layers]]></title>
+        <id>https://smashingmagazine.com/2022/01/introduction-css-cascade-layers/</id>
+        <link href="https://smashingmagazine.com/2022/01/introduction-css-cascade-layers/"/>
+        <updated>2022-01-24T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Cascade layers introduce the new at-rule of @layer. The intent is to help CSS authors be more intentional about ordering the “layers” of CSS rules as a new method of cascade management.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Stephanie Eckles)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Using SVG in WordPress (2 Helpful Plugin Recommendations)]]></title>
         <id>https://css-tricks.com/?p=360346</id>
