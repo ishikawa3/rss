@@ -2,10 +2,62 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-01-25T00:06:31.547Z</updated>
+    <updated>2022-01-26T00:06:12.845Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How Do You Handle Component Spacing in a Design System?]]></title>
+        <id>https://css-tricks.com/?p=362044</id>
+        <link href="https://css-tricks.com/component-spacing-design-system/"/>
+        <updated>2022-01-25T23:10:20.000Z</updated>
+        <summary type="html"><![CDATA[Say you’ve got a <Card /> component. It’s highly likely it shouldn’t be butted right up against any other components with no spacing around it. That’s true for… pretty much every component. So, how do you handle component spacing in …
+How Do You Handle Component Spacing in a Design System? originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Code Your React App with TypeScript]]></title>
+        <id>61f050d6f2ed6b06db5a5228</id>
+        <link href="https://www.freecodecamp.org/news/how-to-code-your-react-app-with-typescript/"/>
+        <updated>2022-01-25T19:46:29.000Z</updated>
+        <summary type="html"><![CDATA[React is one of the most popular front-end JavaScript libraries for building user interfaces. Using TypeScript for your React projects can lead to a more robust codebase with less errors. We just published a full course on the freeCodeCamp.org YouTube channel that will teach you how to use React with]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Create a Portfolio Website Using HTML, CSS, JavaScript, and Bootstrap 5]]></title>
+        <id>61e776e0183181284a19149b</id>
+        <link href="https://www.freecodecamp.org/news/how-to-create-a-portfolio-website-using-html-css-javascript-and-bootstrap/"/>
+        <updated>2022-01-25T17:10:50.000Z</updated>
+        <summary type="html"><![CDATA[If you are a web developer or a web designer, it is essential for you to have a portfolio website. It lets you provide information about yourself and showcase your best work with your relevant skills and experience. In this blog post, I will discuss some of the benefits of]]></summary>
+        <author>
+            <name>Sampurna Chapagain</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Make a Scroll-Triggered Animation With Basic JavaScript]]></title>
+        <id>https://css-tricks.com/?p=360550</id>
+        <link href="https://css-tricks.com/scroll-triggered-animation-vanilla-javascript/"/>
+        <updated>2022-01-25T14:14:11.000Z</updated>
+        <summary type="html"><![CDATA[A little bit of animation on a site can add some flair, impress users, and get their attention. You could have them run, no matter where they are on the page, immediately when the page loads. But what if your …
+How to Make a Scroll-Triggered Animation With Basic JavaScript originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
+        <author>
+            <name>Md Shuvo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What’s New In DevTools?]]></title>
+        <id>https://smashingmagazine.com/2022/01/devtools-updates-2022/</id>
+        <link href="https://smashingmagazine.com/2022/01/devtools-updates-2022/"/>
+        <updated>2022-01-25T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[What’s new in Chrome, Edge, Safari and Firefox? Patrick Brosset breaks it down with the latest features in DevTools across browsers.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Patrick Brosset)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Temporal Dead Zone (TDZ) and Hoisting in JavaScript – Explained with Examples]]></title>
         <id>61e92726183181284a191e75</id>
@@ -24,6 +76,16 @@
         <summary type="html"><![CDATA[In this article you'll see how to use Python's .replace() method to perform substring substiution.  You'll also see how to perform case-insensitive substring substitution.  Let's get started!  What does the .replace() Python method do? When using the .replace() Python method, you are able to replace every instance of one specific]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn AutoCAD with This Free Course]]></title>
+        <id>61f01b62f2ed6b06db5a4e57</id>
+        <link href="https://www.freecodecamp.org/news/learn-autocad-with-this-free-course/"/>
+        <updated>2022-01-24T16:58:00.000Z</updated>
+        <summary type="html"><![CDATA[AutoCAD is a popular computer aided design software used to design and model in 2D and 3D. It is used by used by architects, engineers, designers, real estate developers, artists, and more. We just published a complete university AutoCAD course on the freeCodeCamp.org YouTube channel. Gediminas Kirdeikis developed this course.]]></summary>
+        <author>
+            <name>Beau Carnes</name>
         </author>
     </entry>
     <entry>
@@ -1298,16 +1360,6 @@ Thank You (2021 Edition) originally published on CSS-Tricks. You should get the 
         <summary type="html"><![CDATA[Scoping, estimating, and running digital projects can often feel like an exercise in futility. In this article, Paul Boag explains why you need to start breaking your projects down into manageable phases and why that’s the best way to achieve significant benefits.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Paul Boag)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building Gatsby Themes For WordPress-Powered Websites]]></title>
-        <id>https://smashingmagazine.com/2021/12/building-gatsby-themes-wordpress-powered-websites/</id>
-        <link href="https://smashingmagazine.com/2021/12/building-gatsby-themes-wordpress-powered-websites/"/>
-        <updated>2021-12-27T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Have you already built and published a Gatsby theme? In this article, Paulina Hetman explains how Gatsby themes work and what problems they can solve by comparing Gatsby themes with their WordPress counterparts.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Paulina Hetman)</name>
         </author>
     </entry>
 </feed>

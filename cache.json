@@ -22,6 +22,24 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=362044",
+          "author": "Chris Coyier",
+          "description": "Say you’ve got a <Card /> component. It’s highly likely it shouldn’t be butted right up against any other components with no spacing around it. That’s true for… pretty much every component. So, how do you handle component spacing in …\nHow Do You Handle Component Spacing in a Design System? originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
+          "link": "https://css-tricks.com/component-spacing-design-system/",
+          "publishedOn": "2022-01-25T23:10:20.000Z",
+          "wordCount": 803,
+          "title": "How Do You Handle Component Spacing in a Design System?"
+        },
+        {
+          "id": "https://css-tricks.com/?p=360550",
+          "author": "Md Shuvo",
+          "description": "A little bit of animation on a site can add some flair, impress users, and get their attention. You could have them run, no matter where they are on the page, immediately when the page loads. But what if your …\nHow to Make a Scroll-Triggered Animation With Basic JavaScript originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
+          "link": "https://css-tricks.com/scroll-triggered-animation-vanilla-javascript/",
+          "publishedOn": "2022-01-25T14:14:11.000Z",
+          "wordCount": 1594,
+          "title": "How to Make a Scroll-Triggered Animation With Basic JavaScript"
+        },
+        {
           "id": "https://css-tricks.com/?p=360811",
           "author": "Melanie Sumner",
           "description": "You know that joke, “Two front-end developers walk into a bar and find they have nothing in common”? It’s funny, yet frustrating, because it’s true.\nThis article will present three different perspectives on accessibility in web design and development. Three …\nWhy Don’t Developers Take Accessibility Seriously? originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
@@ -425,6 +443,20 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2022/01/devtools-updates-2022/",
+          "author": "hello@smashingmagazine.com (Patrick Brosset)",
+          "description": "What’s new in Chrome, Edge, Safari and Firefox? Patrick Brosset breaks it down with the latest features in DevTools across browsers.",
+          "link": "https://smashingmagazine.com/2022/01/devtools-updates-2022/",
+          "publishedOn": "2022-01-25T13:00:00.000Z",
+          "wordCount": 2518,
+          "title": "What’s New In DevTools?",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e516aa85-3b77-418a-9b43-cec06943b129/devtools-updates-2022.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
+        {
           "id": "https://smashingmagazine.com/2022/01/introduction-css-cascade-layers/",
           "author": "hello@smashingmagazine.com (Stephanie Eckles)",
           "description": "Cascade layers introduce the new at-rule of @layer. The intent is to help CSS authors be more intentional about ordering the “layers” of CSS rules as a new method of cascade management.",
@@ -633,20 +665,6 @@
             "length": "0",
             "type": "image/jpg"
           }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/12/building-gatsby-themes-wordpress-powered-websites/",
-          "author": "hello@smashingmagazine.com (Paulina Hetman)",
-          "description": "Have you already built and published a Gatsby theme? In this article, Paulina Hetman explains how Gatsby themes work and what problems they can solve by comparing Gatsby themes with their WordPress counterparts.",
-          "link": "https://smashingmagazine.com/2021/12/building-gatsby-themes-wordpress-powered-websites/",
-          "publishedOn": "2021-12-27T10:30:00.000Z",
-          "wordCount": 4238,
-          "title": "Building Gatsby Themes For WordPress-Powered Websites",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/c5b60a4b-63f6-47e2-a9aa-33faa3e9ca9e/building-gatsby-themes-wordpress-powered-websites.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
         }
       ]
     },
@@ -655,6 +673,24 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "61f050d6f2ed6b06db5a5228",
+          "author": "Beau Carnes",
+          "description": "React is one of the most popular front-end JavaScript libraries for building user interfaces. Using TypeScript for your React projects can lead to a more robust codebase with less errors. We just published a full course on the freeCodeCamp.org YouTube channel that will teach you how to use React with",
+          "link": "https://www.freecodecamp.org/news/how-to-code-your-react-app-with-typescript/",
+          "publishedOn": "2022-01-25T19:46:29.000Z",
+          "wordCount": 565,
+          "title": "How to Code Your React App with TypeScript"
+        },
+        {
+          "id": "61e776e0183181284a19149b",
+          "author": "Sampurna Chapagain",
+          "description": "If you are a web developer or a web designer, it is essential for you to have a portfolio website. It lets you provide information about yourself and showcase your best work with your relevant skills and experience. In this blog post, I will discuss some of the benefits of",
+          "link": "https://www.freecodecamp.org/news/how-to-create-a-portfolio-website-using-html-css-javascript-and-bootstrap/",
+          "publishedOn": "2022-01-25T17:10:50.000Z",
+          "wordCount": 3262,
+          "title": "How to Create a Portfolio Website Using HTML, CSS, JavaScript, and Bootstrap 5"
+        },
         {
           "id": "61e92726183181284a191e75",
           "author": null,
@@ -672,6 +708,15 @@
           "publishedOn": "2022-01-24T16:59:25.000Z",
           "wordCount": 1243,
           "title": "Python String.Replace() – Function in Python for Substring Substitution"
+        },
+        {
+          "id": "61f01b62f2ed6b06db5a4e57",
+          "author": "Beau Carnes",
+          "description": "AutoCAD is a popular computer aided design software used to design and model in 2D and 3D. It is used by used by architects, engineers, designers, real estate developers, artists, and more. We just published a complete university AutoCAD course on the freeCodeCamp.org YouTube channel. Gediminas Kirdeikis developed this course.",
+          "link": "https://www.freecodecamp.org/news/learn-autocad-with-this-free-course/",
+          "publishedOn": "2022-01-24T16:58:00.000Z",
+          "wordCount": 447,
+          "title": "Learn AutoCAD with This Free Course"
         },
         {
           "id": "61d543e4d2d9de084285c33d",
