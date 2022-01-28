@@ -2,10 +2,83 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-01-27T00:06:06.912Z</updated>
+    <updated>2022-01-28T00:06:05.350Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Add Custom Icons to Your Flutter Application]]></title>
+        <id>61f1a334f2ed6b06db5a5cbe</id>
+        <link href="https://www.freecodecamp.org/news/how-to-add-custom-icons-to-your-flutter-application/"/>
+        <updated>2022-01-27T20:54:03.000Z</updated>
+        <summary type="html"><![CDATA[When you want to add some style to your application, you likely look for ways to make your User Interface stand out.  Whether it is using a specific font or a different color palate, you want to make the user feel attracted to your UI.  One way to]]></summary>
+        <author>
+            <name>Tomer Ben Rachel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top JavaScript Concepts to Know Before Learning React]]></title>
+        <id>61eda498011f893303471695</id>
+        <link href="https://www.freecodecamp.org/news/top-javascript-concepts-to-know-before-learning-react/"/>
+        <updated>2022-01-27T20:34:48.000Z</updated>
+        <summary type="html"><![CDATA[If you want to learn React –or any JavaScript framework – you'll first need to understand the fundamental JavaScript methods and concepts. Otherwise it's like a youngster learning to run before learning to walk.  Many developers choose a "learn as you go" approach when learning React. But this often]]></summary>
+        <author>
+            <name>Joel Olawanle</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Create a Platformer Game with GDevelop]]></title>
+        <id>61f2dedef2ed6b06db5a651f</id>
+        <link href="https://www.freecodecamp.org/news/create-a-platformer-game-with-gdevelop/"/>
+        <updated>2022-01-27T18:20:37.000Z</updated>
+        <summary type="html"><![CDATA[Creating your own game is easier than ever! GDevelop is a beginner-friendly game engine that helps you create 2D games with little to no code. We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to use GDevelop to create 2D games. Wesley and Max]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn TypeScript – The Ultimate Beginners Guide]]></title>
+        <id>61e1733db837d507ba0a2813</id>
+        <link href="https://www.freecodecamp.org/news/learn-typescript-beginners-guide/"/>
+        <updated>2022-01-27T17:47:36.000Z</updated>
+        <summary type="html"><![CDATA[TypeScript has become increasingly popular over the last few years, and many jobs are now requiring developers to know TypeScript.  But don't be alarmed – if you already know JavaScript, you will be able to pick up TypeScript quickly.  Even if you don't plan on using TypeScript, learning]]></summary>
+        <author>
+            <name>Danny Adams</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Demystifying TypeScript Discriminated Unions]]></title>
+        <id>https://css-tricks.com/?p=362091</id>
+        <link href="https://css-tricks.com/typescript-discriminated-unions/"/>
+        <updated>2022-01-27T15:20:57.000Z</updated>
+        <summary type="html"><![CDATA[TypeScript is a wonderful tool for writing JavaScript that scales. It’s more or less the de facto standard for the web when it comes to large JavaScript projects. As outstanding as it is, there are some tricky pieces for the …
+Demystifying TypeScript Discriminated Unions originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
+        <author>
+            <name>Adam Rackis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build, Ship, & Maintain Design Systems with Backlight]]></title>
+        <id>https://css-tricks.com/?p=361971</id>
+        <link href="https://css-tricks.com/design-systems-with-backlight/"/>
+        <updated>2022-01-27T15:18:25.000Z</updated>
+        <summary type="html"><![CDATA[(This is a sponsored post.)
+Design systems are an entire job these days. Agencies are hired to create them. In-house teams are formed to handle them, shipping them so that other teams can use them and helping ensure they …
+Build, Ship, & Maintain Design Systems with Backlight originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Full Stack Application With Supabase, React, and Tailwind CSS in Nextjs]]></title>
+        <id>61f03606f2ed6b06db5a5067</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-a-full-stack-application-with-tailwind-css-and-supabase-in-nextjs/"/>
+        <updated>2022-01-26T23:03:34.000Z</updated>
+        <summary type="html"><![CDATA[Serverless databases are all the rage these days. They allow you to develop a fully functional app without building a server or writing server code. A serverless database is a cloud computing solution that lets you distribute and flexibly manage your resources. In this tutorial, we'll build a full-stack application]]></summary>
+        <author>
+            <name>Idris Olubisi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[HTTP Request Methods – Get vs Put vs Post Explained with Code Examples]]></title>
         <id>61ee3dc2011f8933034719ea</id>
@@ -1474,16 +1547,6 @@ Thank You (2021 Edition) originally published on CSS-Tricks. You should get the 
         <summary type="html"><![CDATA[What better way could there be to start the new year than with some fresh inspiration? Our collection of wallpapers for January 2022 is bound to put a smile on your face — and maybe spark new ideas, too.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Cosima Mielke)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Price Projects And Manage Scope Creep]]></title>
-        <id>https://smashingmagazine.com/2021/12/how-price-projects-manage-scope-screep/</id>
-        <link href="https://smashingmagazine.com/2021/12/how-price-projects-manage-scope-screep/"/>
-        <updated>2021-12-29T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Scoping, estimating, and running digital projects can often feel like an exercise in futility. In this article, Paul Boag explains why you need to start breaking your projects down into manageable phases and why that’s the best way to achieve significant benefits.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Paul Boag)</name>
         </author>
     </entry>
 </feed>

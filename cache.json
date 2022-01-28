@@ -22,6 +22,24 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=362091",
+          "author": "Adam Rackis",
+          "description": "TypeScript is a wonderful tool for writing JavaScript that scales. It’s more or less the de facto standard for the web when it comes to large JavaScript projects. As outstanding as it is, there are some tricky pieces for the …\nDemystifying TypeScript Discriminated Unions originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
+          "link": "https://css-tricks.com/typescript-discriminated-unions/",
+          "publishedOn": "2022-01-27T15:20:57.000Z",
+          "wordCount": 1791,
+          "title": "Demystifying TypeScript Discriminated Unions"
+        },
+        {
+          "id": "https://css-tricks.com/?p=361971",
+          "author": "Chris Coyier",
+          "description": "(This is a sponsored post.)\nDesign systems are an entire job these days. Agencies are hired to create them. In-house teams are formed to handle them, shipping them so that other teams can use them and helping ensure they …\nBuild, Ship, & Maintain Design Systems with Backlight originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
+          "link": "https://css-tricks.com/design-systems-with-backlight/",
+          "publishedOn": "2022-01-27T15:18:25.000Z",
+          "wordCount": 1287,
+          "title": "Build, Ship, & Maintain Design Systems with Backlight"
+        },
+        {
           "id": "https://css-tricks.com/?p=361200",
           "author": "Chris Coyier",
           "description": "Say you have three HTML classes, and a DOM element should only have one of them at a time:\n<div class=\"state-1\"</div<div class=\"state-2\"</div<div class=\"state-3\"</div\nNow your job is to rotate them. That is, cycle through classes …\nHow to Cycle Through Classes on an HTML Element originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
@@ -683,20 +701,6 @@
             "length": "0",
             "type": "image/png"
           }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/12/how-price-projects-manage-scope-screep/",
-          "author": "hello@smashingmagazine.com (Paul Boag)",
-          "description": "Scoping, estimating, and running digital projects can often feel like an exercise in futility. In this article, Paul Boag explains why you need to start breaking your projects down into manageable phases and why that’s the best way to achieve significant benefits.",
-          "link": "https://smashingmagazine.com/2021/12/how-price-projects-manage-scope-screep/",
-          "publishedOn": "2021-12-29T10:30:00.000Z",
-          "wordCount": 2460,
-          "title": "How To Price Projects And Manage Scope Creep",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/79f24890-00d9-4d5a-9ae1-405097b24371/price-projects-manage-scope-creep.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
         }
       ]
     },
@@ -705,6 +709,51 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "61f1a334f2ed6b06db5a5cbe",
+          "author": "Tomer Ben Rachel",
+          "description": "When you want to add some style to your application, you likely look for ways to make your User Interface stand out.  Whether it is using a specific font or a different color palate, you want to make the user feel attracted to your UI.  One way to",
+          "link": "https://www.freecodecamp.org/news/how-to-add-custom-icons-to-your-flutter-application/",
+          "publishedOn": "2022-01-27T20:54:03.000Z",
+          "wordCount": 1247,
+          "title": "How to Add Custom Icons to Your Flutter Application"
+        },
+        {
+          "id": "61eda498011f893303471695",
+          "author": "Joel Olawanle",
+          "description": "If you want to learn React –or any JavaScript framework – you'll first need to understand the fundamental JavaScript methods and concepts. Otherwise it's like a youngster learning to run before learning to walk.  Many developers choose a \"learn as you go\" approach when learning React. But this often",
+          "link": "https://www.freecodecamp.org/news/top-javascript-concepts-to-know-before-learning-react/",
+          "publishedOn": "2022-01-27T20:34:48.000Z",
+          "wordCount": 3921,
+          "title": "Top JavaScript Concepts to Know Before Learning React"
+        },
+        {
+          "id": "61f2dedef2ed6b06db5a651f",
+          "author": "Beau Carnes",
+          "description": "Creating your own game is easier than ever! GDevelop is a beginner-friendly game engine that helps you create 2D games with little to no code. We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to use GDevelop to create 2D games. Wesley and Max",
+          "link": "https://www.freecodecamp.org/news/create-a-platformer-game-with-gdevelop/",
+          "publishedOn": "2022-01-27T18:20:37.000Z",
+          "wordCount": 421,
+          "title": "Create a Platformer Game with GDevelop"
+        },
+        {
+          "id": "61e1733db837d507ba0a2813",
+          "author": "Danny Adams",
+          "description": "TypeScript has become increasingly popular over the last few years, and many jobs are now requiring developers to know TypeScript.  But don't be alarmed – if you already know JavaScript, you will be able to pick up TypeScript quickly.  Even if you don't plan on using TypeScript, learning",
+          "link": "https://www.freecodecamp.org/news/learn-typescript-beginners-guide/",
+          "publishedOn": "2022-01-27T17:47:36.000Z",
+          "wordCount": 6783,
+          "title": "Learn TypeScript – The Ultimate Beginners Guide"
+        },
+        {
+          "id": "61f03606f2ed6b06db5a5067",
+          "author": "Idris Olubisi",
+          "description": "Serverless databases are all the rage these days. They allow you to develop a fully functional app without building a server or writing server code. A serverless database is a cloud computing solution that lets you distribute and flexibly manage your resources. In this tutorial, we'll build a full-stack application",
+          "link": "https://www.freecodecamp.org/news/how-to-build-a-full-stack-application-with-tailwind-css-and-supabase-in-nextjs/",
+          "publishedOn": "2022-01-26T23:03:34.000Z",
+          "wordCount": 2564,
+          "title": "How to Build a Full Stack Application With Supabase, React, and Tailwind CSS in Nextjs"
+        },
         {
           "id": "61ee3dc2011f8933034719ea",
           "author": "Camila Ramos Garzon",
