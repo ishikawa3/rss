@@ -2,10 +2,82 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-01-28T00:06:05.350Z</updated>
+    <updated>2022-01-29T00:05:21.768Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Learn ReactJS – Complete Roadmap]]></title>
+        <id>61f23b31f2ed6b06db5a6166</id>
+        <link href="https://www.freecodecamp.org/news/react-fundamentals-for-beginners/"/>
+        <updated>2022-01-28T20:25:24.000Z</updated>
+        <summary type="html"><![CDATA[Web Development is a fascinating area to explore, learn about, and understand.  As a learner, you have many libraries and frameworks that can help you develop projects for the web. It may even become tricky to pick one and get started at times.  But when it comes to]]></summary>
+        <author>
+            <name>TAPAS ADHIKARY</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The CSS from-font Value Explained in 4 Demos]]></title>
+        <id>https://css-tricks.com/?p=362382</id>
+        <link href="https://css-tricks.com/from-font-value-text-decoration-thickness/"/>
+        <updated>2022-01-28T18:37:52.000Z</updated>
+        <summary type="html"><![CDATA[I was doing my Advent of UI Components, and I stumbled upon the from-font value for the text-decoration-thickness CSS property. I was curious about it, so I did a little research and I think what I found (and learned) …
+The CSS from-font Value Explained in 4 Demos originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
+        <author>
+            <name>Silvestar Bistrović</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSS Text Align – Centered, Justified, Right Aligned Text Style Example]]></title>
+        <id>61f3bff1f2ed6b06db5a6c92</id>
+        <link href="https://www.freecodecamp.org/news/css-text-align-centered-justified-right-aligned-text-style-example/"/>
+        <updated>2022-01-28T17:30:39.000Z</updated>
+        <summary type="html"><![CDATA[We use the CSS text-align property to align content inside a block-level element. Examples of block-level elements are paragraphs (<p>...</p>), divs ( <div>...</div>), sections (<section>...</section>), articles ( <article>...</article>), and so on. This alignment affects the horizontal axis only. So the text-align property is different from the vertical-align property which we]]></summary>
+        <author>
+            <name>Kolade Chris</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is REST? Rest API Definition for Beginners]]></title>
+        <id>61d6d907d2d9de084285d104</id>
+        <link href="https://www.freecodecamp.org/news/what-is-rest-rest-api-definition-for-beginners/"/>
+        <updated>2022-01-28T17:21:43.000Z</updated>
+        <summary type="html"><![CDATA[In this article, you will learn what the term REST means and how it lets us communicate with the server efficiently. Before we get into REST, let's learn what an API is. I believe this will help you understand REST better.  What is an API? Since we're talking about]]></summary>
+        <author>
+            <name>Ihechikara Vincent Abba</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Web Frameworks Solve And How To Do Without Them (Part 1)]]></title>
+        <id>https://smashingmagazine.com/2022/01/web-frameworks-guide-part1/</id>
+        <link href="https://smashingmagazine.com/2022/01/web-frameworks-guide-part1/"/>
+        <updated>2022-01-28T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this article, Noam Rosenthal dives deep into a few technical features that are common across frameworks, and explains how some of the different frameworks implement them and what they cost.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Noam Rosenthal)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Git: Switching Unstaged Changes to a New Branch]]></title>
+        <id>https://css-tricks.com/?p=360998</id>
+        <link href="https://css-tricks.com/git-switching-unstaged-changes-to-a-new-branch/"/>
+        <updated>2022-01-27T23:49:45.000Z</updated>
+        <summary type="html"><![CDATA[I’m always on the wrong branch. I’m either on master or main working on something that should be on a fix or feature branch. Or I’m on the last branch I was working on and should have cut a new …
+Git: Switching Unstaged Changes to a New Branch originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a GUI Using Gradio for Machine Learning Models]]></title>
+        <id>61f1d7d0f2ed6b06db5a60a9</id>
+        <link href="https://www.freecodecamp.org/news/build-gui-using-gradio-for-machine-learning-models/"/>
+        <updated>2022-01-27T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[If you have ever built a Machine Learning model, you've probably thought "well this was cool, but how will other people be able to see how cool it is?"  Model deployment is a part of Machine Learning which isn't talked about as much as it should be. So in]]></summary>
+        <author>
+            <name>Edem Gold</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Add Custom Icons to Your Flutter Application]]></title>
         <id>61f1a334f2ed6b06db5a5cbe</id>

@@ -22,6 +22,24 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=362382",
+          "author": "Silvestar Bistrović",
+          "description": "I was doing my Advent of UI Components, and I stumbled upon the from-font value for the text-decoration-thickness CSS property. I was curious about it, so I did a little research and I think what I found (and learned) …\nThe CSS from-font Value Explained in 4 Demos originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
+          "link": "https://css-tricks.com/from-font-value-text-decoration-thickness/",
+          "publishedOn": "2022-01-28T18:37:52.000Z",
+          "wordCount": 1056,
+          "title": "The CSS from-font Value Explained in 4 Demos"
+        },
+        {
+          "id": "https://css-tricks.com/?p=360998",
+          "author": "Chris Coyier",
+          "description": "I’m always on the wrong branch. I’m either on master or main working on something that should be on a fix or feature branch. Or I’m on the last branch I was working on and should have cut a new …\nGit: Switching Unstaged Changes to a New Branch originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
+          "link": "https://css-tricks.com/git-switching-unstaged-changes-to-a-new-branch/",
+          "publishedOn": "2022-01-27T23:49:45.000Z",
+          "wordCount": 688,
+          "title": "Git: Switching Unstaged Changes to a New Branch"
+        },
+        {
           "id": "https://css-tricks.com/?p=362091",
           "author": "Adam Rackis",
           "description": "TypeScript is a wonderful tool for writing JavaScript that scales. It’s more or less the de facto standard for the web when it comes to large JavaScript projects. As outstanding as it is, there are some tricky pieces for the …\nDemystifying TypeScript Discriminated Unions originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
@@ -479,6 +497,20 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2022/01/web-frameworks-guide-part1/",
+          "author": "hello@smashingmagazine.com (Noam Rosenthal)",
+          "description": "In this article, Noam Rosenthal dives deep into a few technical features that are common across frameworks, and explains how some of the different frameworks implement them and what they cost.",
+          "link": "https://smashingmagazine.com/2022/01/web-frameworks-guide-part1/",
+          "publishedOn": "2022-01-28T14:00:00.000Z",
+          "wordCount": 2164,
+          "title": "What Web Frameworks Solve And How To Do Without Them (Part 1)",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/7ca7294e-9325-4bab-8617-0bc3d42e3053/web-frameworks-guide.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
+        {
           "id": "https://smashingmagazine.com/2022/01/software-administration-ux/",
           "author": "hello@smashingmagazine.com (Shell Zhu & Adrian Jones)",
           "description": "This article reveals how something as trivial as administration in both software and As-a-service can be either a booster or bottleneck to a company’s productivity and innovation. It also provides several design aspects that UX practitioners should evaluate when designing the administration experience.",
@@ -709,6 +741,42 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "61f23b31f2ed6b06db5a6166",
+          "author": "TAPAS ADHIKARY",
+          "description": "Web Development is a fascinating area to explore, learn about, and understand.  As a learner, you have many libraries and frameworks that can help you develop projects for the web. It may even become tricky to pick one and get started at times.  But when it comes to",
+          "link": "https://www.freecodecamp.org/news/react-fundamentals-for-beginners/",
+          "publishedOn": "2022-01-28T20:25:24.000Z",
+          "wordCount": 3075,
+          "title": "Learn ReactJS – Complete Roadmap"
+        },
+        {
+          "id": "61f3bff1f2ed6b06db5a6c92",
+          "author": "Kolade Chris",
+          "description": "We use the CSS text-align property to align content inside a block-level element. Examples of block-level elements are paragraphs (<p>...</p>), divs ( <div>...</div>), sections (<section>...</section>), articles ( <article>...</article>), and so on. This alignment affects the horizontal axis only. So the text-align property is different from the vertical-align property which we",
+          "link": "https://www.freecodecamp.org/news/css-text-align-centered-justified-right-aligned-text-style-example/",
+          "publishedOn": "2022-01-28T17:30:39.000Z",
+          "wordCount": 876,
+          "title": "CSS Text Align – Centered, Justified, Right Aligned Text Style Example"
+        },
+        {
+          "id": "61d6d907d2d9de084285d104",
+          "author": "Ihechikara Vincent Abba",
+          "description": "In this article, you will learn what the term REST means and how it lets us communicate with the server efficiently. Before we get into REST, let's learn what an API is. I believe this will help you understand REST better.  What is an API? Since we're talking about",
+          "link": "https://www.freecodecamp.org/news/what-is-rest-rest-api-definition-for-beginners/",
+          "publishedOn": "2022-01-28T17:21:43.000Z",
+          "wordCount": 1207,
+          "title": "What is REST? Rest API Definition for Beginners"
+        },
+        {
+          "id": "61f1d7d0f2ed6b06db5a60a9",
+          "author": "Edem Gold",
+          "description": "If you have ever built a Machine Learning model, you've probably thought \"well this was cool, but how will other people be able to see how cool it is?\"  Model deployment is a part of Machine Learning which isn't talked about as much as it should be. So in",
+          "link": "https://www.freecodecamp.org/news/build-gui-using-gradio-for-machine-learning-models/",
+          "publishedOn": "2022-01-27T21:00:00.000Z",
+          "wordCount": 1538,
+          "title": "How to Build a GUI Using Gradio for Machine Learning Models"
+        },
         {
           "id": "61f1a334f2ed6b06db5a5cbe",
           "author": "Tomer Ben Rachel",
