@@ -719,20 +719,6 @@
             "length": "0",
             "type": "image/jpg"
           }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/12/desktop-wallpaper-calendars-january-2022/",
-          "author": "hello@smashingmagazine.com (Cosima Mielke)",
-          "description": "What better way could there be to start the new year than with some fresh inspiration? Our collection of wallpapers for January 2022 is bound to put a smile on your face — and maybe spark new ideas, too.",
-          "link": "https://smashingmagazine.com/2021/12/desktop-wallpaper-calendars-january-2022/",
-          "publishedOn": "2021-12-31T09:00:00.000Z",
-          "wordCount": 2529,
-          "title": "New Year, Fresh Desktop (January 2022 Wallpapers Edition)",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/55a76925-9960-4444-a72c-72d8738d5ac8/jan-22-new-years-magic-preview-opt.png",
-            "length": "0",
-            "type": "image/png"
-          }
         }
       ]
     },
