@@ -22,6 +22,24 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=362730",
+          "author": "Chris Coyier",
+          "description": "Lemme do this one quick-hits style:\nMary Lou published a quintessentially-Codrops-y demo called Alternate Column Scroll.\nThe scrolling effect is powered by Locomotive Scroll, which we’ve coincidentally covered before.\nBramus has been exploring native CSS scrolling effects \n…\nNotes on Reverse-Scrolling Columns With CSS Scroll-Timeline originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
+          "link": "https://css-tricks.com/css-scroll-timeline-reverse-motion-preference/",
+          "publishedOn": "2022-01-31T21:02:06.000Z",
+          "wordCount": 659,
+          "title": "Notes on Reverse-Scrolling Columns With CSS Scroll-Timeline"
+        },
+        {
+          "id": "https://css-tricks.com/?p=362478",
+          "author": "Mamta Dalal",
+          "description": "It’s 2022. And the current relevance of TypeScript is undisputed. TypeScript has dominated the front-end developer experience by many, many accounts. By now you likely already know that TypeScript is a superset of JavaScript, building on JavaScript by adding …\nThe Relevance of TypeScript in 2022 originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
+          "link": "https://css-tricks.com/the-relevance-of-typescript-in-2022/",
+          "publishedOn": "2022-01-31T15:16:01.000Z",
+          "wordCount": 2707,
+          "title": "The Relevance of TypeScript in 2022"
+        },
+        {
           "id": "https://css-tricks.com/?p=362382",
           "author": "Silvestar Bistrović",
           "description": "I was doing my Advent of UI Components, and I stumbled upon the from-font value for the text-decoration-thickness CSS property. I was curious about it, so I did a little research and I think what I found (and learned) …\nThe CSS from-font Value Explained in 4 Demos originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
@@ -479,15 +497,6 @@
           "publishedOn": "2022-01-03T15:12:31.000Z",
           "wordCount": 4626,
           "title": "How to Create a Browser Extension"
-        },
-        {
-          "id": "https://css-tricks.com/?p=359698",
-          "author": "Chris Coyier",
-          "description": "The year has come to a close and it’s time again for our end-of-year wrapup. The most important message is this: thank you. (thankyouthankyou)\nThanks for stopping by and reading this site. If you didn’t, I’d be out …\nThank You (2021 Edition) originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
-          "link": "https://css-tricks.com/thank-you-2021-edition/",
-          "publishedOn": "2022-01-01T17:50:59.000Z",
-          "wordCount": 3281,
-          "title": "Thank You (2021 Edition)"
         }
       ]
     },
@@ -496,6 +505,20 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2022/01/desktop-wallpaper-calendars-february-2022/",
+          "author": "hello@smashingmagazine.com (Cosima Mielke)",
+          "description": "Do you need a little inspiration boost? Well, then our new batch of desktop wallpapers is for you. Designed by artists and designers from across the globe, they come in versions with and without a calendar for February 2022.",
+          "link": "https://smashingmagazine.com/2022/01/desktop-wallpaper-calendars-february-2022/",
+          "publishedOn": "2022-01-31T09:00:00.000Z",
+          "wordCount": 2280,
+          "title": "28 Days Of Inspiration (February 2022 Desktop Wallpapers Edition)",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/04d12428-d98f-4633-ad77-fed864da6842/feb-22-magic-of-music-preview-opt.png",
+            "length": "0",
+            "type": "image/png"
+          }
+        },
         {
           "id": "https://smashingmagazine.com/2022/01/web-frameworks-guide-part1/",
           "author": "hello@smashingmagazine.com (Noam Rosenthal)",
@@ -727,6 +750,87 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "61e85078183181284a191b21",
+          "author": "Naomi Carrigan",
+          "description": "The 100 Days of Code challenge [/news/the-crazy-history-of-the-100daysofcode-challenge-and-why-you-should-try-it-for-2018-6c89a76e298d/]  is very popular among new coders and developers looking to level up their skills. It's so popular that our Discord server [/news/freecodecamp-discord-chat-room-server/] has an entire channel dedicated to it. By popular demand, we built a Discord bot that helps people track their",
+          "link": "https://www.freecodecamp.org/news/build-a-100-days-of-code-discord-bot-with-typescript-mongodb-and-discord-js-13/",
+          "publishedOn": "2022-01-31T21:41:05.000Z",
+          "wordCount": 8722,
+          "title": "Build a 100 Days of Code Discord Bot with TypeScript, MongoDB, and Discord.js 13"
+        },
+        {
+          "id": "61f7c2aef2ed6b06db5a92c6",
+          "author": "Ilenia Magoni",
+          "description": "In this guide, you'll learn to how to collect all 54 achievements and reach all six endings of the LearnToCodeRPG.  According to the game's creator, Lynn Zheng [/news/author/lynn/], > Learn to Code RPG is an interactive visual novel game where you will teach yourself to code, make friends in",
+          "link": "https://www.freecodecamp.org/news/learntocoderpg-player-guide-how-to-unlock-all-achievements-and-endings/",
+          "publishedOn": "2022-01-31T21:32:45.000Z",
+          "wordCount": 1466,
+          "title": "LearnToCodeRPG Player Guide – How to Unlock All Achievements and Endings"
+        },
+        {
+          "id": "61f4ec99f2ed6b06db5a7708",
+          "author": "Dionysia Lemonaki",
+          "description": "In this article, you'll learn how to use Python arrays. You'll see how to define them and the different methods commonly used for performing operations on them. The artcile covers arrays that you create by importing the array module. We won't cover NumPy arrays here. Table of Contents  1.",
+          "link": "https://www.freecodecamp.org/news/python-array-tutorial-define-index-methods/",
+          "publishedOn": "2022-01-31T18:35:31.000Z",
+          "wordCount": 2844,
+          "title": "Python Array Tutorial – Define, Index, Methods"
+        },
+        {
+          "id": "61f7f661f2ed6b06db5a946e",
+          "author": "Kolade Chris",
+          "description": "An ordered list is a list in which the items are numbered and the order matters. This is as opposed to an unordered list where the items are bulleted by default (and the order doesn't matter). Basic Syntax of the <ol> tag The <ol> tag defines ordered lists in HTML.",
+          "link": "https://www.freecodecamp.org/news/ordered-list-in-html-ol-tag-example/",
+          "publishedOn": "2022-01-31T18:34:40.000Z",
+          "wordCount": 742,
+          "title": "Ordered List in HTML – OL Tag Example"
+        },
+        {
+          "id": "61d543d1d2d9de084285c339",
+          "author": "Jessica Wilkins",
+          "description": "The term full stack [/news/what-is-a-full-stack-developer-back-end-front-end-full-stack-engineer/]  developer refers to working with both the frontend and backend components of a web application.  The frontend is what the user interacts with, while the backend is the logic for the web application.  In this article, I will cover some resources that",
+          "link": "https://www.freecodecamp.org/news/learn-web-development-free-full-stack-developer-courses-for-beginners/",
+          "publishedOn": "2022-01-31T18:14:59.000Z",
+          "wordCount": 1054,
+          "title": "Learn Web Development – Free Full Stack Developer Courses for Beginners"
+        },
+        {
+          "id": "61eae40d011f89330346ff65",
+          "author": "Yasir Tobbileh",
+          "description": "PostCSS is a Node.js tool that transforms your styles using JavaScript plugins. It generates more downloads per week on NPM [https://www.npmtrends.com/less-vs-postcss-vs-sass-vs-stylus] than other CSS preprocessors like Sass, Less, and Stylus combined. PostCSS download trends comparing to other CSS preprocessorsIn this article we will discuss:  * What is PostCSS?",
+          "link": "https://www.freecodecamp.org/news/what-is-postcss/",
+          "publishedOn": "2022-01-31T17:29:16.000Z",
+          "wordCount": 2453,
+          "title": "What is PostCSS? How to Use Plugins to Automate CSS Tasks"
+        },
+        {
+          "id": "61ec0522011f893303470824",
+          "author": "Suchandra Datta",
+          "description": "I've always been fascinated with languages and the inherent beauty of words. But I used to think that language comprehension was an exclusive human trait.  So when machines started generating, understanding, classifying, and summarizing text using Transformers, I was excited to learn more. And I wanted to learn how",
+          "link": "https://www.freecodecamp.org/news/getting-started-with-ner-models-using-huggingface/",
+          "publishedOn": "2022-01-31T15:42:18.000Z",
+          "wordCount": 2307,
+          "title": "How to Fine-Tune BERT for NER Using HuggingFace"
+        },
+        {
+          "id": "61f42d96f2ed6b06db5a7032",
+          "author": "Ihechikara Vincent Abba",
+          "description": "Sometimes you might accidentally close your Word application without saving your file. You might think that your progress has been lost, but there's actually a way to recover the file without losing any of your content. And that is exactly what this article will show you how to do. To",
+          "link": "https://www.freecodecamp.org/news/how-to-recover-an-unsaved-word-document-restore-a-deleted-word-file/",
+          "publishedOn": "2022-01-31T15:17:51.000Z",
+          "wordCount": 591,
+          "title": "How to Recover an Unsaved Word Document – Restore a Deleted Word File"
+        },
+        {
+          "id": "61f1e6bef2ed6b06db5a6141",
+          "author": "Edem Gold",
+          "description": "How to Conversational Bot Using Blenderbot",
+          "link": "https://www.freecodecamp.org/news/build-a-sentiment-analayis-app-using-blenderbot/",
+          "publishedOn": "2022-01-31T15:07:33.000Z",
+          "wordCount": 1087,
+          "title": "How to Build a Sentiment Analysis App using Blenderbot"
+        },
         {
           "id": "61f23b31f2ed6b06db5a6166",
           "author": "TAPAS ADHIKARY",
