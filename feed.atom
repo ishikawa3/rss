@@ -2,10 +2,116 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-02-01T00:06:58.916Z</updated>
+    <updated>2022-02-02T00:06:39.434Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Build Your First Web App in Julia with Genie.jl 🧞‍♂️]]></title>
+        <id>61f556d0f2ed6b06db5a7f43</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-web-apps-in-julia/"/>
+        <updated>2022-02-01T21:33:45.000Z</updated>
+        <summary type="html"><![CDATA[Julia is a high-level, dynamic, and open-source programming language. It's designed to be as easy to use as Python while remaining as performant as C or C++.  Many early use cases for Julia were in the scientific domains where massive computational processing was and still is required. But as]]></summary>
+        <author>
+            <name>Logan Kilpatrick</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HTML Center Image – CSS Align Img Center Example]]></title>
+        <id>61f920a8f2ed6b06db5aa13a</id>
+        <link href="https://www.freecodecamp.org/news/html-center-image-css-align-img-center-example/"/>
+        <updated>2022-02-01T21:16:57.000Z</updated>
+        <summary type="html"><![CDATA[If you're making websites with HTML and CSS, you will be working with images a lot. Developers often struggle with image alignment in CSS, especially when trying to figure out how to center an image. Centering anything in CSS is not really a straightforward thing - especially for beginners. This]]></summary>
+        <author>
+            <name>Kolade Chris</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Next.js and Firebase Tutorial – How to Build an Evernote Clone]]></title>
+        <id>61f68d36f2ed6b06db5a8963</id>
+        <link href="https://www.freecodecamp.org/news/nextjs-firebase-tutorial-build-an-evernote-clone/"/>
+        <updated>2022-02-01T18:30:40.000Z</updated>
+        <summary type="html"><![CDATA[Next.js is a server-side rendering framework based on React, which is search engine optimized. So, let's build an Evernote clone using Next.js to learn how it works. We will use the following tech stack:  1. Next.js for the UI  2. Firebase for the database and for hosting our]]></summary>
+        <author>
+            <name>Nishant Kumar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Are Graph Neural Networks? How GNNs Work, Explained with Examples]]></title>
+        <id>61ef7522f2ed6b06db5a420b</id>
+        <link href="https://www.freecodecamp.org/news/graph-neural-networks-explained-with-examples/"/>
+        <updated>2022-02-01T16:50:35.000Z</updated>
+        <summary type="html"><![CDATA[Graph Neural Networks are getting more and more popular and are being used extensively in a wide variety of projects.  In this article, I help you get started and understand how graph neural networks work while also trying to address the question "why" at each stage.  Finally we]]></summary>
+        <author>
+            <name>Rishit Dagli</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python Game Development – How to Make a Turtle Racing Game with PyCharm]]></title>
+        <id>61990e8b11d3cb08287a9bf9</id>
+        <link href="https://www.freecodecamp.org/news/how-to-make-racing-game-using-python/"/>
+        <updated>2022-02-01T15:49:24.000Z</updated>
+        <summary type="html"><![CDATA[In this article, you'll learn how to build a racing game in Python using the Turtle library in just 39 lines of code.  Here's what we're going to create: Turtle Racing Game Project Overview🧵 Prerequisites Very basic knowledge of Python programming will be enough to go through this tutorial.]]></summary>
+        <author>
+            <name>Shahan Chowdhury</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“Evergreen” Does Not Mean Immediately Available]]></title>
+        <id>https://css-tricks.com/?p=362169</id>
+        <link href="https://css-tricks.com/evergreen-does-not-mean-immediately-available/"/>
+        <updated>2022-02-01T15:38:41.000Z</updated>
+        <summary type="html"><![CDATA[I have a coworker who is smart, capable, and technologically-literate. Like me, they work on the web full-time.
+When they are sharing their screen in a meeting, I find myself disassociating fixating on the red update button in their copy …
+“Evergreen” Does Not Mean Immediately Available originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
+        <author>
+            <name>Eric Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meet “Touch Design For Mobile Interfaces”, A New Smashing Book]]></title>
+        <id>https://smashingmagazine.com/2022/02/touch-design-release/</id>
+        <link href="https://smashingmagazine.com/2022/02/touch-design-release/"/>
+        <updated>2022-02-01T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[It’s shipping! Meet “Touch Design for Mobile Interfaces”, our brand-new guide with guidelines and best practices to improve usability and accessibility on mobile. 400 pages. For designers and developers working with mobile UIs.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Metaphors We Web By]]></title>
+        <id>https://css-tricks.com/?p=362886</id>
+        <link href="https://css-tricks.com/metaphors-we-web-by/"/>
+        <updated>2022-02-01T00:03:57.000Z</updated>
+        <summary type="html"><![CDATA[Maggie Appleton gets into what is perhaps the foremost metaphor the web is founded on: paper. 
+Paper documents were the original metaphor for the web. […]
+The page you’re reading this on still mimics paper. We still call it 
+…
+Metaphors We Web By originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[C++ String – std::string Example in C++]]></title>
+        <id>61ec2da1011f893303470c78</id>
+        <link href="https://www.freecodecamp.org/news/c-string-std-string-example-in-cpp/"/>
+        <updated>2022-01-31T23:37:41.000Z</updated>
+        <summary type="html"><![CDATA[Strings are essential components in any programming language, and C++ is no exception.  Whether you want to store text, manipulate it, or accept keyboard inputs and outputs, understanding what strings are and how to effectively use them is extremely important. This article will teach everything you need to know]]></summary>
+        <author>
+            <name>Jason Dsouza</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Second Monitor Not Detected – Fixed for Windows 10 PC Laptop Dual Monitor Display]]></title>
+        <id>61e11e85b837d507ba0a253b</id>
+        <link href="https://www.freecodecamp.org/news/second-monitor-not-detected-fixed-windows10/"/>
+        <updated>2022-01-31T23:25:23.000Z</updated>
+        <summary type="html"><![CDATA[Sometimes your PC may not detect your second monitor. In this tutorial, you'll learn some steps you can take to solve this problem. Check for improper connection Before we do anything technical, make sure you crosscheck your connections first. Make sure that all the cables fit in firmly and are]]></summary>
+        <author>
+            <name>Ihechikara Vincent Abba</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Build a 100 Days of Code Discord Bot with TypeScript, MongoDB, and Discord.js 13]]></title>
         <id>61e85078183181284a191b21</id>
@@ -130,6 +236,19 @@ The Relevance of TypeScript in 2022 originally published on CSS-Tricks. You shou
         <summary type="html"><![CDATA[Do you need a little inspiration boost? Well, then our new batch of desktop wallpapers is for you. Designed by artists and designers from across the globe, they come in versions with and without a calendar for February 2022.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Cosima Mielke)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Optional Chaining Operator, “Modern” Browsers, and My Mom]]></title>
+        <id>https://css-tricks.com/?p=362890</id>
+        <link href="https://css-tricks.com/the-optional-chaining-operator-modern-browsers-and-my-mom/"/>
+        <updated>2022-01-30T21:49:15.000Z</updated>
+        <summary type="html"><![CDATA[Jim Nielsen’s mom couldn’t open a website. Jim worked on confirming the issue and documented how he got to the bottom of it:
+“[…] well it can’t be a browser issue. It’s not like my Mom is using Internet Explorer! 
+…
+The Optional Chaining Operator, “Modern” Browsers, and My Mom originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
         </author>
     </entry>
     <entry>
