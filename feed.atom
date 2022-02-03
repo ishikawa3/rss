@@ -2,10 +2,92 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-02-02T00:06:39.434Z</updated>
+    <updated>2022-02-03T00:06:15.622Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Building a Scrollable and Draggable Timeline with GSAP]]></title>
+        <id>https://css-tricks.com/?p=362893</id>
+        <link href="https://css-tricks.com/building-a-scrollable-and-draggable-timeline-with-gsap/"/>
+        <updated>2022-02-02T21:11:55.000Z</updated>
+        <summary type="html"><![CDATA[Here’s a super classy demo from Michelle Barker over on Codrops that shows how to build a scrollable and draggable timeline with GSAP. It’s an interesting challenge to have two different interactions (vertical scrolling and horizontal dragging) be tied together …
+Building a Scrollable and Draggable Timeline with GSAP originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Use User Research to Create the Perfect UI Design]]></title>
+        <id>61fad67af2ed6b06db5ab66f</id>
+        <link href="https://www.freecodecamp.org/news/use-user-reseach-to-create-the-perfect-ui-design/"/>
+        <updated>2022-02-02T19:17:05.000Z</updated>
+        <summary type="html"><![CDATA[If you want to design your app in the best way possible, it is important to really understand the needs of your users. This can be done through user research. We just published a UI / UX design course on the freeCodeCamp.org YouTube channel that will teach you how to]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Choose a CMS – WordPress vs Ghost vs Shopify]]></title>
+        <id>61f8480bf2ed6b06db5a9d2b</id>
+        <link href="https://www.freecodecamp.org/news/chose-a-cms-wordpress-vs-shopify-vs-ghost/"/>
+        <updated>2022-02-02T17:05:13.000Z</updated>
+        <summary type="html"><![CDATA[WordPress, Shopify, and Ghost are some of the most powerful and popular CMS platforms out there. And you might wonder why so many people use them. Well, it's because they're easy to use, cost-effective, and highly efficient. With WordPress, Shopify, and Ghost, you can create a website from scratch in]]></summary>
+        <author>
+            <name>Edan Ben-Atar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[User Registration and Auth Using Firebase and React]]></title>
+        <id>https://css-tricks.com/?p=362521</id>
+        <link href="https://css-tricks.com/user-registration-authentication-firebase-react/"/>
+        <updated>2022-02-02T15:42:43.000Z</updated>
+        <summary type="html"><![CDATA[The ability to identify users is vital for maintaining the security of any applications. Equally important is the code that’s written to manage user identities, particularly when it comes to avoiding loopholes for unauthorized access to data held by an …
+User Registration and Auth Using Firebase and React originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
+        <author>
+            <name>Taminoturoko Briggs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Object-Oriented Programming in Python]]></title>
+        <id>61f62beff2ed6b06db5a854b</id>
+        <link href="https://www.freecodecamp.org/news/object-oriented-programming-in-python/"/>
+        <updated>2022-02-02T15:24:30.000Z</updated>
+        <summary type="html"><![CDATA[Python is a fantastic programming language that allows you to use both functional and object-oriented programming paradigms.  Python programmers should be able to use fundamental object-oriented programming concepts, whether they are software developers, machine learning engineers, or something else.  All four core aspects of a generic OOP framework]]></summary>
+        <author>
+            <name>Ashutosh Krishna</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Improving JavaScript Bundle Performance With Code-Splitting]]></title>
+        <id>https://smashingmagazine.com/2022/02/javascript-bundle-performance-code-splitting/</id>
+        <link href="https://smashingmagazine.com/2022/02/javascript-bundle-performance-code-splitting/"/>
+        <updated>2022-02-02T10:30:00.000Z</updated>
+        <summary type="html"><![CDATA[In this article, Adrian Bece shares more about the benefits and caveats of code-splitting and how page performance and load times can be improved by dynamically loading expensive, non-critical JavaScript bundles.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Adrian Bece)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Scope and Closures in JavaScript – Explained with Examples]]></title>
+        <id>61f8b7e5f2ed6b06db5a9eed</id>
+        <link href="https://www.freecodecamp.org/news/scope-and-closures-in-javascript/"/>
+        <updated>2022-02-01T23:52:27.000Z</updated>
+        <summary type="html"><![CDATA[You may have come across or written code similar to this when writing JavaScript: function sayWord(word) { 	return () => console.log(word); } const sayHello = sayWord("hello"); sayHello(); // "hello" This code is interesting for a couple of reasons. First, we can access word in the function returned from sayWord. Second,]]></summary>
+        <author>
+            <name>Zach Snoek</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Code and Deploy a Serverless API Using Go and AWS]]></title>
+        <id>61f9b031f2ed6b06db5aaa4e</id>
+        <link href="https://www.freecodecamp.org/news/code-and-deploy-a-serverless-api-using-go-and-aws/"/>
+        <updated>2022-02-01T22:24:50.000Z</updated>
+        <summary type="html"><![CDATA[Creating a serverless API can often be a better choice than coding a backend in Node.js, Laravel, Spring Boot, or some other backend framework. We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to code and deploy a serverless API using Go and AWS.]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Build Your First Web App in Julia with Genie.jl 🧞‍♂️]]></title>
         <id>61f556d0f2ed6b06db5a7f43</id>
@@ -1810,38 +1892,6 @@ We use and love Jetpack around here. It’s a WordPress plugin that brings a who
 Jetpack Features We Love and Use at CSS-Tricks originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSS-Based Fingerprinting]]></title>
-        <id>https://css-tricks.com/?p=360385</id>
-        <link href="https://css-tricks.com/css-based-fingerprinting/"/>
-        <updated>2022-01-03T21:45:10.000Z</updated>
-        <summary type="html"><![CDATA[Fingerprinting is bad. It’s a term that refers to building up enough metadata about a user that you can essentially figure out who they are. JavaScript has access to all sorts of fingerprinting possibilities, which then combined with the IP …
-CSS-Based Fingerprinting originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Create a Browser Extension]]></title>
-        <id>https://css-tricks.com/?p=359615</id>
-        <link href="https://css-tricks.com/how-to-create-a-browser-extension/"/>
-        <updated>2022-01-03T15:12:31.000Z</updated>
-        <summary type="html"><![CDATA[I’ll bet you are using browser extensions right now. Some of them are extremely popular and useful, like ad blockers, password managers, and PDF viewers. These extensions (or “add-ons”) are not limited to those purposes — you can do a …
-How to Create a Browser Extension originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
-        <author>
-            <name>Lars Kölker</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Composition-Based Design System In Figma]]></title>
-        <id>https://smashingmagazine.com/2022/01/composition-based-design-system-figma/</id>
-        <link href="https://smashingmagazine.com/2022/01/composition-based-design-system-figma/"/>
-        <updated>2022-01-03T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Figma has advanced enough where it now supports some powerful concepts that can help with the flexibility and maintainability of a design system. In this article, Sasha explains why she finds the Systems Designer position so rewarding — and it’s not only because of how fast certain tools have developed to help her master challenges she faces in her work projects.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Aleksandra Nagornaia)</name>
         </author>
     </entry>
 </feed>

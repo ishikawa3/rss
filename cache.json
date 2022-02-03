@@ -22,6 +22,24 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=362893",
+          "author": "Chris Coyier",
+          "description": "Here’s a super classy demo from Michelle Barker over on Codrops that shows how to build a scrollable and draggable timeline with GSAP. It’s an interesting challenge to have two different interactions (vertical scrolling and horizontal dragging) be tied together …\nBuilding a Scrollable and Draggable Timeline with GSAP originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
+          "link": "https://css-tricks.com/building-a-scrollable-and-draggable-timeline-with-gsap/",
+          "publishedOn": "2022-02-02T21:11:55.000Z",
+          "wordCount": 381,
+          "title": "Building a Scrollable and Draggable Timeline with GSAP"
+        },
+        {
+          "id": "https://css-tricks.com/?p=362521",
+          "author": "Taminoturoko Briggs",
+          "description": "The ability to identify users is vital for maintaining the security of any applications. Equally important is the code that’s written to manage user identities, particularly when it comes to avoiding loopholes for unauthorized access to data held by an …\nUser Registration and Auth Using Firebase and React originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
+          "link": "https://css-tricks.com/user-registration-authentication-firebase-react/",
+          "publishedOn": "2022-02-02T15:42:43.000Z",
+          "wordCount": 4765,
+          "title": "User Registration and Auth Using Firebase and React"
+        },
+        {
           "id": "https://css-tricks.com/?p=362169",
           "author": "Eric Bailey",
           "description": "I have a coworker who is smart, capable, and technologically-literate. Like me, they work on the web full-time.\nWhen they are sharing their screen in a meeting, I find myself disassociating fixating on the red update button in their copy …\n“Evergreen” Does Not Mean Immediately Available originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
@@ -506,24 +524,6 @@
           "publishedOn": "2022-01-04T15:28:03.000Z",
           "wordCount": 936,
           "title": "Jetpack Features We Love and Use at CSS-Tricks"
-        },
-        {
-          "id": "https://css-tricks.com/?p=360385",
-          "author": "Chris Coyier",
-          "description": "Fingerprinting is bad. It’s a term that refers to building up enough metadata about a user that you can essentially figure out who they are. JavaScript has access to all sorts of fingerprinting possibilities, which then combined with the IP …\nCSS-Based Fingerprinting originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
-          "link": "https://css-tricks.com/css-based-fingerprinting/",
-          "publishedOn": "2022-01-03T21:45:10.000Z",
-          "wordCount": 937,
-          "title": "CSS-Based Fingerprinting"
-        },
-        {
-          "id": "https://css-tricks.com/?p=359615",
-          "author": "Lars Kölker",
-          "description": "I’ll bet you are using browser extensions right now. Some of them are extremely popular and useful, like ad blockers, password managers, and PDF viewers. These extensions (or “add-ons”) are not limited to those purposes — you can do a …\nHow to Create a Browser Extension originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
-          "link": "https://css-tricks.com/how-to-create-a-browser-extension/",
-          "publishedOn": "2022-01-03T15:12:31.000Z",
-          "wordCount": 4626,
-          "title": "How to Create a Browser Extension"
         }
       ]
     },
@@ -532,6 +532,20 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2022/02/javascript-bundle-performance-code-splitting/",
+          "author": "hello@smashingmagazine.com (Adrian Bece)",
+          "description": "In this article, Adrian Bece shares more about the benefits and caveats of code-splitting and how page performance and load times can be improved by dynamically loading expensive, non-critical JavaScript bundles.",
+          "link": "https://smashingmagazine.com/2022/02/javascript-bundle-performance-code-splitting/",
+          "publishedOn": "2022-02-02T10:30:00.000Z",
+          "wordCount": 4512,
+          "title": "Improving JavaScript Bundle Performance With Code-Splitting",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/f721011b-37a8-4c1d-a8b9-b249bf938678/javascript-bundle-performance-code-splitting.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
         {
           "id": "https://smashingmagazine.com/2022/02/touch-design-release/",
           "author": "hello@smashingmagazine.com (Vitaly Friedman)",
@@ -769,20 +783,6 @@
             "length": "0",
             "type": "image/jpg"
           }
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/01/composition-based-design-system-figma/",
-          "author": "hello@smashingmagazine.com (Aleksandra Nagornaia)",
-          "description": "Figma has advanced enough where it now supports some powerful concepts that can help with the flexibility and maintainability of a design system. In this article, Sasha explains why she finds the Systems Designer position so rewarding — and it’s not only because of how fast certain tools have developed to help her master challenges she faces in her work projects.",
-          "link": "https://smashingmagazine.com/2022/01/composition-based-design-system-figma/",
-          "publishedOn": "2022-01-03T13:00:00.000Z",
-          "wordCount": 2638,
-          "title": "Composition-Based Design System In Figma",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/671611c3-eaf7-427e-9e5d-1bb74fbf62f5/composition-based-design-system-figma.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
         }
       ]
     },
@@ -791,6 +791,51 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "61fad67af2ed6b06db5ab66f",
+          "author": "Beau Carnes",
+          "description": "If you want to design your app in the best way possible, it is important to really understand the needs of your users. This can be done through user research. We just published a UI / UX design course on the freeCodeCamp.org YouTube channel that will teach you how to",
+          "link": "https://www.freecodecamp.org/news/use-user-reseach-to-create-the-perfect-ui-design/",
+          "publishedOn": "2022-02-02T19:17:05.000Z",
+          "wordCount": 34802,
+          "title": "Use User Research to Create the Perfect UI Design"
+        },
+        {
+          "id": "61f8480bf2ed6b06db5a9d2b",
+          "author": "Edan Ben-Atar",
+          "description": "WordPress, Shopify, and Ghost are some of the most powerful and popular CMS platforms out there. And you might wonder why so many people use them. Well, it's because they're easy to use, cost-effective, and highly efficient. With WordPress, Shopify, and Ghost, you can create a website from scratch in",
+          "link": "https://www.freecodecamp.org/news/chose-a-cms-wordpress-vs-shopify-vs-ghost/",
+          "publishedOn": "2022-02-02T17:05:13.000Z",
+          "wordCount": 2308,
+          "title": "How to Choose a CMS – WordPress vs Ghost vs Shopify"
+        },
+        {
+          "id": "61f62beff2ed6b06db5a854b",
+          "author": "Ashutosh Krishna",
+          "description": "Python is a fantastic programming language that allows you to use both functional and object-oriented programming paradigms.  Python programmers should be able to use fundamental object-oriented programming concepts, whether they are software developers, machine learning engineers, or something else.  All four core aspects of a generic OOP framework",
+          "link": "https://www.freecodecamp.org/news/object-oriented-programming-in-python/",
+          "publishedOn": "2022-02-02T15:24:30.000Z",
+          "wordCount": 2289,
+          "title": "Object-Oriented Programming in Python"
+        },
+        {
+          "id": "61f8b7e5f2ed6b06db5a9eed",
+          "author": "Zach Snoek",
+          "description": "You may have come across or written code similar to this when writing JavaScript: function sayWord(word) { \treturn () => console.log(word); } const sayHello = sayWord(\"hello\"); sayHello(); // \"hello\" This code is interesting for a couple of reasons. First, we can access word in the function returned from sayWord. Second,",
+          "link": "https://www.freecodecamp.org/news/scope-and-closures-in-javascript/",
+          "publishedOn": "2022-02-01T23:52:27.000Z",
+          "wordCount": 1695,
+          "title": "Scope and Closures in JavaScript – Explained with Examples"
+        },
+        {
+          "id": "61f9b031f2ed6b06db5aaa4e",
+          "author": "Beau Carnes",
+          "description": "Creating a serverless API can often be a better choice than coding a backend in Node.js, Laravel, Spring Boot, or some other backend framework. We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to code and deploy a serverless API using Go and AWS.",
+          "link": "https://www.freecodecamp.org/news/code-and-deploy-a-serverless-api-using-go-and-aws/",
+          "publishedOn": "2022-02-01T22:24:50.000Z",
+          "wordCount": 12911,
+          "title": "Code and Deploy a Serverless API Using Go and AWS"
+        },
         {
           "id": "61f556d0f2ed6b06db5a7f43",
           "author": "Logan Kilpatrick",
