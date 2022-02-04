@@ -22,6 +22,24 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=362884",
+          "author": "Chris Coyier",
+          "description": "Pedro Santos suggests:\nUsing naming conventions such that you can learn them once and apply them everywhere\nUnidirectional data flows. Make it easy to follow the app flow.\nNo magic numbers. I’d add they are even worse in CSS\n…\nBuilding a newbie-friendly codebase originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
+          "link": "https://css-tricks.com/building-a-newbie-friendly-codebase/",
+          "publishedOn": "2022-02-03T22:32:58.000Z",
+          "wordCount": 396,
+          "title": "Building a newbie-friendly codebase"
+        },
+        {
+          "id": "https://css-tricks.com/?p=362578",
+          "author": "Pankaj Parashar",
+          "description": "I interviewed Thierry Koblentz, creator of Atomic CSS, to understand the history and background that led to making of the popular CSS framework. Thierry, now retired, has vast experience writing CSS at large scale and has previously worked …\nThe Making of Atomic CSS: An Interview With Thierry Koblentz originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
+          "link": "https://css-tricks.com/thierry-koblentz-atomic-css/",
+          "publishedOn": "2022-02-03T15:24:01.000Z",
+          "wordCount": 3458,
+          "title": "The Making of Atomic CSS: An Interview With Thierry Koblentz"
+        },
+        {
           "id": "https://css-tricks.com/?p=362893",
           "author": "Chris Coyier",
           "description": "Here’s a super classy demo from Michelle Barker over on Codrops that shows how to build a scrollable and draggable timeline with GSAP. It’s an interesting challenge to have two different interactions (vertical scrolling and horizontal dragging) be tied together …\nBuilding a Scrollable and Draggable Timeline with GSAP originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
@@ -497,33 +515,6 @@
           "publishedOn": "2022-01-05T15:42:59.000Z",
           "wordCount": 5753,
           "title": "How to Make a Component That Supports Multiple Frameworks in a Monorepo"
-        },
-        {
-          "id": "https://css-tricks.com/?p=359880",
-          "author": "Chris Coyier",
-          "description": "CSS overrides can change the default look of almost anything:\nYou can use CSS to override what a checkbox or radio button looks like, but if you don’t, the checkbox will look like a default checkbox on your operating system \n…\nShould CSS Override Default Browser Styles? originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
-          "link": "https://css-tricks.com/should-css-override-default-styles/",
-          "publishedOn": "2022-01-04T19:50:18.000Z",
-          "wordCount": 1121,
-          "title": "Should CSS Override Default Browser Styles?"
-        },
-        {
-          "id": "https://css-tricks.com/?p=359838",
-          "author": "Šime Vidas",
-          "description": "I’ve encountered two bugs in Chrome while testing the new CSS text-decoration-thickness and text-underline-offset properties, and I want to share them with you here in this article.\nTable of Contents\nDefault underlines are inconsistent\nLuckily, we can override the browsers’ \n…\nCSS Underlines Are Too Thin and Too Low in Chrome originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
-          "link": "https://css-tricks.com/css-underlines-are-too-thin-and-too-low-in-chrome/",
-          "publishedOn": "2022-01-04T15:30:18.000Z",
-          "wordCount": 1212,
-          "title": "CSS Underlines Are Too Thin and Too Low in Chrome"
-        },
-        {
-          "id": "https://css-tricks.com/?p=360452",
-          "author": "Chris Coyier",
-          "description": "(This is a sponsored post.)\nWe use and love Jetpack around here. It’s a WordPress plugin that brings a whole suite of functionality to your site ranging from security to marketing with lots of ridiculously useful stuff in between! …\nJetpack Features We Love and Use at CSS-Tricks originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
-          "link": "https://css-tricks.com/jetpack-features-we-love-and-use-at-css-tricks/",
-          "publishedOn": "2022-01-04T15:28:03.000Z",
-          "wordCount": 936,
-          "title": "Jetpack Features We Love and Use at CSS-Tricks"
         }
       ]
     },
@@ -532,6 +523,20 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2022/02/reducing-web-carbon-footprint-optimizing-social-media-embeds/",
+          "author": "hello@smashingmagazine.com (Michelle Barker)",
+          "description": "In this article, we’ll look specifically at what we can do to reduce the impact of social media embeds and social sharing widgets — or even some strategies to avoid them altogether. While the spotlight is on reducing the environmental impact, many of these tips will be great for performance too.",
+          "link": "https://smashingmagazine.com/2022/02/reducing-web-carbon-footprint-optimizing-social-media-embeds/",
+          "publishedOn": "2022-02-03T12:00:00.000Z",
+          "wordCount": 2563,
+          "title": "Reducing The Web’s Carbon Footprint: Optimizing Social Media Embeds",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/686a0218-bea0-4a0e-a2b9-aca40c29d412/reducing-web-carbon-footprint-optimizing-social-media-embeds.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
         {
           "id": "https://smashingmagazine.com/2022/02/javascript-bundle-performance-code-splitting/",
           "author": "hello@smashingmagazine.com (Adrian Bece)",
@@ -791,6 +796,78 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "61f66e8bf2ed6b06db5a880a",
+          "author": "Sampurna Chapagain",
+          "description": "If you are a Google Chrome user, you've probably used some extensions in the browser.  Have you ever wondered how to build one yourself? In this article, I will show you how you can create a Chrome extension from scratch. Table Of Contents  * What is a Chrome",
+          "link": "https://www.freecodecamp.org/news/building-chrome-extension/",
+          "publishedOn": "2022-02-03T19:42:43.000Z",
+          "wordCount": 1225,
+          "title": "How to Create Your Own Google Chrome Extension"
+        },
+        {
+          "id": "61fc2478f2ed6b06db5ac159",
+          "author": "Beau Carnes",
+          "description": "You are just about to learn about 20 great examples of code from 20 insanely talented developers. Js13kGames is a JavaScript coding competition open to everyone and anyone wanting to try out Game Development. The 2021 winners have been announced, and you can play the games for free. As the",
+          "link": "https://www.freecodecamp.org/news/20-award-winning-javascript-games-js13kgames-2021-winners/",
+          "publishedOn": "2022-02-03T19:01:19.000Z",
+          "wordCount": 550,
+          "title": "20 Award-Winning JavaScript Games – js13kGames 2021 Winners"
+        },
+        {
+          "id": "61fc1f32f2ed6b06db5ac129",
+          "author": "Beau Carnes",
+          "description": "Unreal Engine is one of the most popular game engines in use today. It can be helpful to learn if you are interested in 3D or 2D game development. We just published an Unreal Engine 5 crash course on the freeCodeCamp.org YouTube channel. Varnos Games created this course. You will",
+          "link": "https://www.freecodecamp.org/news/unreal-engine-5-crash-course-with-blueprint/",
+          "publishedOn": "2022-02-03T18:38:19.000Z",
+          "wordCount": 18347,
+          "title": "Unreal Engine 5 Crash Course with Blueprint"
+        },
+        {
+          "id": "61f19aaff2ed6b06db5a5c9f",
+          "author": "Ihechikara Vincent Abba",
+          "description": "In this tutorial, we will go over commonly used HTML tags, elements, and attributes. We'll also see examples of how these tags, elements, and attributes work. You can use this article as a reference guide whether you're a beginner or experienced developer. What Makes Up an HTML Document? The following",
+          "link": "https://www.freecodecamp.org/news/html-cheat-sheet-html-elements-list-reference/",
+          "publishedOn": "2022-02-03T17:00:24.000Z",
+          "wordCount": 1675,
+          "title": "HTML Cheat Sheet – HTML Elements List Reference"
+        },
+        {
+          "id": "61fbafd8f2ed6b06db5abd39",
+          "author": "Kolade Chris",
+          "description": "If you're working on a web development project, setting a nice background color can give the website a more enticing look. To set a background color for a div or related element in CSS, you use the  background-color property. While setting this background color, your creativity is your limit",
+          "link": "https://www.freecodecamp.org/news/div-background-color-how-to-change-background-color-in-css/",
+          "publishedOn": "2022-02-03T16:50:46.000Z",
+          "wordCount": 1028,
+          "title": "Div Background Color – How to Change Background Color in CSS"
+        },
+        {
+          "id": "61ebc3d6011f893303470420",
+          "author": "Jean-Marc Möckel",
+          "description": "Two years ago, I started to learn and use React. And today I'm still using it at my day job as a Software Developer and in my own side projects. During that time I've come across a lot of \"typical\" issues. So I searched around and found some best practices",
+          "link": "https://www.freecodecamp.org/news/best-practices-for-react/",
+          "publishedOn": "2022-02-03T16:41:47.000Z",
+          "wordCount": 8187,
+          "title": "React Best Practices – Tips for Writing Better React Code in 2022"
+        },
+        {
+          "id": "61fa3eb0f2ed6b06db5aac87",
+          "author": "Kolade Chris",
+          "description": "You use the HTML <label> tag to caption form controls. <label> is an inline element – meaning it doesn't take up an entire line unless you put a break tag before it. By definition, form controls refer to the elements inside a form element. Examples of form controls include <input",
+          "link": "https://www.freecodecamp.org/news/html-label-label-tag-example/",
+          "publishedOn": "2022-02-03T16:37:47.000Z",
+          "wordCount": 709,
+          "title": "HTML Label – Label Tag Example"
+        },
+        {
+          "id": "61fa254ff2ed6b06db5aab3f",
+          "author": "Njoku Samson Ebere",
+          "description": "If you are just starting out in tech but do not know which path to take, then this article is for you. If you've started learning, but you're still confused on which programming language or tools to choose, don't worry – we'll discuss that here. And if you've ever wondered",
+          "link": "https://www.freecodecamp.org/news/how-to-get-started-in-tech/",
+          "publishedOn": "2022-02-03T16:31:30.000Z",
+          "wordCount": 2104,
+          "title": "How to Get Started in Tech"
+        },
         {
           "id": "61fad67af2ed6b06db5ab66f",
           "author": "Beau Carnes",

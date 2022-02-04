@@ -2,10 +2,126 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-02-03T00:06:15.622Z</updated>
+    <updated>2022-02-04T00:05:18.571Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Building a newbie-friendly codebase]]></title>
+        <id>https://css-tricks.com/?p=362884</id>
+        <link href="https://css-tricks.com/building-a-newbie-friendly-codebase/"/>
+        <updated>2022-02-03T22:32:58.000Z</updated>
+        <summary type="html"><![CDATA[Pedro Santos suggests:
+Using naming conventions such that you can learn them once and apply them everywhere
+Unidirectional data flows. Make it easy to follow the app flow.
+No magic numbers. I’d add they are even worse in CSS
+…
+Building a newbie-friendly codebase originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Create Your Own Google Chrome Extension]]></title>
+        <id>61f66e8bf2ed6b06db5a880a</id>
+        <link href="https://www.freecodecamp.org/news/building-chrome-extension/"/>
+        <updated>2022-02-03T19:42:43.000Z</updated>
+        <summary type="html"><![CDATA[If you are a Google Chrome user, you've probably used some extensions in the browser.  Have you ever wondered how to build one yourself? In this article, I will show you how you can create a Chrome extension from scratch. Table Of Contents  * What is a Chrome]]></summary>
+        <author>
+            <name>Sampurna Chapagain</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[20 Award-Winning JavaScript Games – js13kGames 2021 Winners]]></title>
+        <id>61fc2478f2ed6b06db5ac159</id>
+        <link href="https://www.freecodecamp.org/news/20-award-winning-javascript-games-js13kgames-2021-winners/"/>
+        <updated>2022-02-03T19:01:19.000Z</updated>
+        <summary type="html"><![CDATA[You are just about to learn about 20 great examples of code from 20 insanely talented developers. Js13kGames is a JavaScript coding competition open to everyone and anyone wanting to try out Game Development. The 2021 winners have been announced, and you can play the games for free. As the]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unreal Engine 5 Crash Course with Blueprint]]></title>
+        <id>61fc1f32f2ed6b06db5ac129</id>
+        <link href="https://www.freecodecamp.org/news/unreal-engine-5-crash-course-with-blueprint/"/>
+        <updated>2022-02-03T18:38:19.000Z</updated>
+        <summary type="html"><![CDATA[Unreal Engine is one of the most popular game engines in use today. It can be helpful to learn if you are interested in 3D or 2D game development. We just published an Unreal Engine 5 crash course on the freeCodeCamp.org YouTube channel. Varnos Games created this course. You will]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HTML Cheat Sheet – HTML Elements List Reference]]></title>
+        <id>61f19aaff2ed6b06db5a5c9f</id>
+        <link href="https://www.freecodecamp.org/news/html-cheat-sheet-html-elements-list-reference/"/>
+        <updated>2022-02-03T17:00:24.000Z</updated>
+        <summary type="html"><![CDATA[In this tutorial, we will go over commonly used HTML tags, elements, and attributes. We'll also see examples of how these tags, elements, and attributes work. You can use this article as a reference guide whether you're a beginner or experienced developer. What Makes Up an HTML Document? The following]]></summary>
+        <author>
+            <name>Ihechikara Vincent Abba</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Div Background Color – How to Change Background Color in CSS]]></title>
+        <id>61fbafd8f2ed6b06db5abd39</id>
+        <link href="https://www.freecodecamp.org/news/div-background-color-how-to-change-background-color-in-css/"/>
+        <updated>2022-02-03T16:50:46.000Z</updated>
+        <summary type="html"><![CDATA[If you're working on a web development project, setting a nice background color can give the website a more enticing look. To set a background color for a div or related element in CSS, you use the  background-color property. While setting this background color, your creativity is your limit]]></summary>
+        <author>
+            <name>Kolade Chris</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[React Best Practices – Tips for Writing Better React Code in 2022]]></title>
+        <id>61ebc3d6011f893303470420</id>
+        <link href="https://www.freecodecamp.org/news/best-practices-for-react/"/>
+        <updated>2022-02-03T16:41:47.000Z</updated>
+        <summary type="html"><![CDATA[Two years ago, I started to learn and use React. And today I'm still using it at my day job as a Software Developer and in my own side projects. During that time I've come across a lot of "typical" issues. So I searched around and found some best practices]]></summary>
+        <author>
+            <name>Jean-Marc Möckel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HTML Label – Label Tag Example]]></title>
+        <id>61fa3eb0f2ed6b06db5aac87</id>
+        <link href="https://www.freecodecamp.org/news/html-label-label-tag-example/"/>
+        <updated>2022-02-03T16:37:47.000Z</updated>
+        <summary type="html"><![CDATA[You use the HTML <label> tag to caption form controls. <label> is an inline element – meaning it doesn't take up an entire line unless you put a break tag before it. By definition, form controls refer to the elements inside a form element. Examples of form controls include <input]]></summary>
+        <author>
+            <name>Kolade Chris</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Get Started in Tech]]></title>
+        <id>61fa254ff2ed6b06db5aab3f</id>
+        <link href="https://www.freecodecamp.org/news/how-to-get-started-in-tech/"/>
+        <updated>2022-02-03T16:31:30.000Z</updated>
+        <summary type="html"><![CDATA[If you are just starting out in tech but do not know which path to take, then this article is for you. If you've started learning, but you're still confused on which programming language or tools to choose, don't worry – we'll discuss that here. And if you've ever wondered]]></summary>
+        <author>
+            <name>Njoku Samson Ebere</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Making of Atomic CSS: An Interview With Thierry Koblentz]]></title>
+        <id>https://css-tricks.com/?p=362578</id>
+        <link href="https://css-tricks.com/thierry-koblentz-atomic-css/"/>
+        <updated>2022-02-03T15:24:01.000Z</updated>
+        <summary type="html"><![CDATA[I interviewed Thierry Koblentz, creator of Atomic CSS, to understand the history and background that led to making of the popular CSS framework. Thierry, now retired, has vast experience writing CSS at large scale and has previously worked …
+The Making of Atomic CSS: An Interview With Thierry Koblentz originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
+        <author>
+            <name>Pankaj Parashar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reducing The Web’s Carbon Footprint: Optimizing Social Media Embeds]]></title>
+        <id>https://smashingmagazine.com/2022/02/reducing-web-carbon-footprint-optimizing-social-media-embeds/</id>
+        <link href="https://smashingmagazine.com/2022/02/reducing-web-carbon-footprint-optimizing-social-media-embeds/"/>
+        <updated>2022-02-03T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this article, we’ll look specifically at what we can do to reduce the impact of social media embeds and social sharing widgets — or even some strategies to avoid them altogether. While the spotlight is on reducing the environmental impact, many of these tips will be great for performance too.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Michelle Barker)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Building a Scrollable and Draggable Timeline with GSAP]]></title>
         <id>https://css-tricks.com/?p=362893</id>
@@ -1852,46 +1968,6 @@ How to Make a Component That Supports Multiple Frameworks in a Monorepo original
         <summary type="html"><![CDATA[In this article (the first part in a series of two), Luis Ouriach shares advice that he wishes he has when starting out in his career. These tips come from his experience as a user interface and product designer for close to ten years, and if you’re starting just now, then read on!]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Luis Ouriach)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Should CSS Override Default Browser Styles?]]></title>
-        <id>https://css-tricks.com/?p=359880</id>
-        <link href="https://css-tricks.com/should-css-override-default-styles/"/>
-        <updated>2022-01-04T19:50:18.000Z</updated>
-        <summary type="html"><![CDATA[CSS overrides can change the default look of almost anything:
-You can use CSS to override what a checkbox or radio button looks like, but if you don’t, the checkbox will look like a default checkbox on your operating system 
-…
-Should CSS Override Default Browser Styles? originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSS Underlines Are Too Thin and Too Low in Chrome]]></title>
-        <id>https://css-tricks.com/?p=359838</id>
-        <link href="https://css-tricks.com/css-underlines-are-too-thin-and-too-low-in-chrome/"/>
-        <updated>2022-01-04T15:30:18.000Z</updated>
-        <summary type="html"><![CDATA[I’ve encountered two bugs in Chrome while testing the new CSS text-decoration-thickness and text-underline-offset properties, and I want to share them with you here in this article.
-Table of Contents
-Default underlines are inconsistent
-Luckily, we can override the browsers’ 
-…
-CSS Underlines Are Too Thin and Too Low in Chrome originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
-        <author>
-            <name>Šime Vidas</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jetpack Features We Love and Use at CSS-Tricks]]></title>
-        <id>https://css-tricks.com/?p=360452</id>
-        <link href="https://css-tricks.com/jetpack-features-we-love-and-use-at-css-tricks/"/>
-        <updated>2022-01-04T15:28:03.000Z</updated>
-        <summary type="html"><![CDATA[(This is a sponsored post.)
-We use and love Jetpack around here. It’s a WordPress plugin that brings a whole suite of functionality to your site ranging from security to marketing with lots of ridiculously useful stuff in between! …
-Jetpack Features We Love and Use at CSS-Tricks originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
         </author>
     </entry>
 </feed>
