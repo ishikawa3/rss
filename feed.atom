@@ -2,10 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-02-04T00:05:18.571Z</updated>
+    <updated>2022-02-05T00:05:22.489Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Build Your Own Heroku with Dokku]]></title>
+        <id>61f8eea6f2ed6b06db5a9fd6</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-your-on-heroku-with-dokku/"/>
+        <updated>2022-02-04T19:01:06.000Z</updated>
+        <summary type="html"><![CDATA[Heroku is a well-known PaaS widely used by developers. And as a fun and useful project, you can easily make your own Heroku-like PaaS with Dokku. What is Heroku? Heroku is a platform as a service (PaaS) company founded in 2007. The platform runs on AWS, and its ephemeral storage]]></summary>
+        <author>
+            <name>Nuno Bispo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Java Array – How to Declare and Initialize an Array in Java Example]]></title>
+        <id>61fc2f52f2ed6b06db5ac1b7</id>
+        <link href="https://www.freecodecamp.org/news/java-array-how-to-declare-and-initialize-an-array-in-java-example/"/>
+        <updated>2022-02-04T16:42:44.000Z</updated>
+        <summary type="html"><![CDATA[In this article, we will talk about arrays in Java. We will go over some examples to help you understand what an array is, how to declare them, and how to use them in your Java code. What is an array? In Java, you use an array to store multiple]]></summary>
+        <author>
+            <name>Ihechikara Vincent Abba</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Deep Introduction to WordPress Block Themes]]></title>
+        <id>https://css-tricks.com/?p=362799</id>
+        <link href="https://css-tricks.com/a-deep-introduction-to-wordpress-block-themes/"/>
+        <updated>2022-02-04T15:07:04.000Z</updated>
+        <summary type="html"><![CDATA[The relatively new WordPress editor, also known as the WordPress Block Editor, always under development via the Gutenberg plugin, has been with us since 2018. You can use the block editor on any WordPress theme, provided the theme …
+A Deep Introduction to WordPress Block Themes originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
+        <author>
+            <name>Ganesh Dahal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Web Frameworks Solve: The Vanilla Alternative (Part 2)]]></title>
+        <id>https://smashingmagazine.com/2022/02/web-frameworks-guide-part2/</id>
+        <link href="https://smashingmagazine.com/2022/02/web-frameworks-guide-part2/"/>
+        <updated>2022-02-04T13:30:00.000Z</updated>
+        <summary type="html"><![CDATA[In this second part, Noam suggests a few patterns of how to use the web platform directly as an alternative to some of the solutions that are offered by frameworks.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Noam Rosenthal)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Building a newbie-friendly codebase]]></title>
         <id>https://css-tricks.com/?p=362884</id>
@@ -1934,40 +1975,6 @@ A New Container Query Polyfill That Just Works originally published on CSS-Trick
 The Search For a Fixed Background Effect With Inline Images originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
         <author>
             <name>Alex Lazar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Notes on Josh Comeau’s Custom CSS Reset]]></title>
-        <id>https://css-tricks.com/?p=359736</id>
-        <link href="https://css-tricks.com/notes-on-josh-comeaus-custom-css-reset/"/>
-        <updated>2022-01-05T21:22:45.000Z</updated>
-        <summary type="html"><![CDATA[We recently talked with Elad Shechter on his new CSS reset, and shortly after that Josh Comeau blogged his. 
-We’re in something of a new era of CSS resets where… you kind of don’t need one? There isn’t …
-Notes on Josh Comeau’s Custom CSS Reset originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Make a Component That Supports Multiple Frameworks in a Monorepo]]></title>
-        <id>https://css-tricks.com/?p=360239</id>
-        <link href="https://css-tricks.com/make-a-component-multiple-frameworks-in-a-monorepo/"/>
-        <updated>2022-01-05T15:42:59.000Z</updated>
-        <summary type="html"><![CDATA[Your mission — should you decide to accept it — is to build a Button component in four frameworks, but, only use one button.css file!
-This idea is very important to me. I’ve been working on a component library called …
-How to Make a Component That Supports Multiple Frameworks in a Monorepo originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
-        <author>
-            <name>Rob Levin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ten Tips For Aspiring Designer Beginners (Part 1)]]></title>
-        <id>https://smashingmagazine.com/2022/01/ten-tips-aspiring-designer-beginners-part1/</id>
-        <link href="https://smashingmagazine.com/2022/01/ten-tips-aspiring-designer-beginners-part1/"/>
-        <updated>2022-01-05T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this article (the first part in a series of two), Luis Ouriach shares advice that he wishes he has when starting out in his career. These tips come from his experience as a user interface and product designer for close to ten years, and if you’re starting just now, then read on!]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Luis Ouriach)</name>
         </author>
     </entry>
 </feed>
