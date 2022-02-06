@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-02-05T00:05:22.489Z</updated>
+    <updated>2022-02-06T00:10:33.068Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
@@ -1953,28 +1953,6 @@ However, this post is not …
 useRainbow() originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
         <author>
             <name>Rafał Pastuszak</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A New Container Query Polyfill That Just Works]]></title>
-        <id>https://css-tricks.com/?p=360320</id>
-        <link href="https://css-tricks.com/a-new-container-query-polyfill-that-just-works/"/>
-        <updated>2022-01-06T22:28:46.000Z</updated>
-        <summary type="html"><![CDATA[There is an easy-to-use CSS container query polyfill now. You essentially conditionally load it and forget about it. Then write spec-compliant container queries code.
-A New Container Query Polyfill That Just Works originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Search For a Fixed Background Effect With Inline Images]]></title>
-        <id>https://css-tricks.com/?p=358917</id>
-        <link href="https://css-tricks.com/fixed-background-effect/"/>
-        <updated>2022-01-06T15:58:55.000Z</updated>
-        <summary type="html"><![CDATA[I was working on a client project a few days ago and wanted to create a certain effect on an <img>. See, background images can do the effect I was looking for somewhat easily with background-attachment: fixed;. With …
-The Search For a Fixed Background Effect With Inline Images originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
-        <author>
-            <name>Alex Lazar</name>
         </author>
     </entry>
 </feed>

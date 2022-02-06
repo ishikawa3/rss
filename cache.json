@@ -488,24 +488,6 @@
           "publishedOn": "2022-01-07T14:59:04.000Z",
           "wordCount": 1849,
           "title": "useRainbow()"
-        },
-        {
-          "id": "https://css-tricks.com/?p=360320",
-          "author": "Chris Coyier",
-          "description": "There is an easy-to-use CSS container query polyfill now. You essentially conditionally load it and forget about it. Then write spec-compliant container queries code.\nA New Container Query Polyfill That Just Works originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
-          "link": "https://css-tricks.com/a-new-container-query-polyfill-that-just-works/",
-          "publishedOn": "2022-01-06T22:28:46.000Z",
-          "wordCount": 1205,
-          "title": "A New Container Query Polyfill That Just Works"
-        },
-        {
-          "id": "https://css-tricks.com/?p=358917",
-          "author": "Alex Lazar",
-          "description": "I was working on a client project a few days ago and wanted to create a certain effect on an <img>. See, background images can do the effect I was looking for somewhat easily with background-attachment: fixed;. With …\nThe Search For a Fixed Background Effect With Inline Images originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
-          "link": "https://css-tricks.com/fixed-background-effect/",
-          "publishedOn": "2022-01-06T15:58:55.000Z",
-          "wordCount": 1938,
-          "title": "The Search For a Fixed Background Effect With Inline Images"
         }
       ]
     },
