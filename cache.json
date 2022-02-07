@@ -461,33 +461,6 @@
           "publishedOn": "2022-01-10T15:22:08.000Z",
           "wordCount": 2856,
           "title": "Don’t Fight the Cascade, Control It!"
-        },
-        {
-          "id": "https://css-tricks.com/?p=360711",
-          "author": "Chris Coyier",
-          "description": "Every now and then, I find that I’ve accumulated a bunch of links about various things I find interesting. Typography is one of those things! Here’s a list of typography links to other articles that I’ve been saving up and …\n8 Interesting Typography Links for January 2022 originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
-          "link": "https://css-tricks.com/typography-links-january-2022/",
-          "publishedOn": "2022-01-07T22:31:52.000Z",
-          "wordCount": 989,
-          "title": "8 Interesting Typography Links for January 2022"
-        },
-        {
-          "id": "https://css-tricks.com/?p=360113",
-          "author": "Geoff Graham",
-          "description": "I was killing some time browsing my CodePen feed for some eye candy and didn’t need to go past the first page before spotting a neat CSS hover effect by Adam Argyle.\nI must’ve spent 10 minutes just staring …\nAdam Argyle’s Sick Mouse-Out CSS Hover Effect originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
-          "link": "https://css-tricks.com/adam-argyles-sick-mouse-out-css-hover-effect/",
-          "publishedOn": "2022-01-07T20:15:19.000Z",
-          "wordCount": 1500,
-          "title": "Adam Argyle’s Sick Mouse-Out CSS Hover Effect"
-        },
-        {
-          "id": "https://css-tricks.com/?p=359823",
-          "author": "Rafał Pastuszak",
-          "description": "I took a break from work and started some small, personal projects (toys). One of those small projects is potato.horse where I keep all of my doodles, visual short stories and jokes. Check it out!\nHowever, this post is not …\nuseRainbow() originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
-          "link": "https://css-tricks.com/userainbow/",
-          "publishedOn": "2022-01-07T14:59:04.000Z",
-          "wordCount": 1849,
-          "title": "useRainbow()"
         }
       ]
     },
@@ -744,20 +717,6 @@
           "title": "A Deep CSS Dive Into Radial And Conic Gradients",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8b1eea9e-877a-4da7-b531-537a97a44613/css-radial-conic-gradient.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/01/changing-tire-on-moving-car/",
-          "author": "hello@smashingmagazine.com (Scott Himmer)",
-          "description": "Product roadmaps are often treated as a series of checkboxes. But they are more than that. In this article, Scott Himmer explains how internal partnerships, research, design systems, and regular touch bases can help make sure that your product roadmap is a successful one.",
-          "link": "https://smashingmagazine.com/2022/01/changing-tire-on-moving-car/",
-          "publishedOn": "2022-01-07T16:00:00.000Z",
-          "wordCount": 4002,
-          "title": "Changing A Tire On A Moving Car (Or How To Improve Product Roadmaps)",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/31db8ed2-e433-46b6-9b8e-ab622b10fce0/changing-tire-on-moving-car.jpg",
             "length": "0",
             "type": "image/jpg"
           }
