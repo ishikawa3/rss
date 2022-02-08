@@ -22,6 +22,24 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=363102",
+          "author": "Chris Coyier",
+          "description": "A little gradient generator tool from Tom Quinonero. You’d think fading one color to another would be an obvious, simple, solved problem — it’s actually anything but!\nTom’s generator does two things that help make a gradient better:\nYou \n…\nUsing Different Color Spaces for Non-Boring Gradients originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
+          "link": "https://css-tricks.com/color-spaces-for-more-interesting-css-gradients/",
+          "publishedOn": "2022-02-07T21:46:18.000Z",
+          "wordCount": 624,
+          "title": "Using Different Color Spaces for Non-Boring Gradients"
+        },
+        {
+          "id": "https://css-tricks.com/?p=362616",
+          "author": "Stephanie Eckles",
+          "description": "Virtual conferences have changed the game in terms of how a presenter is able to deliver content to an audience. At a live event it’s likely you just have your laptop, but at home, you may have multiple monitors so …\nCSS Scroll Snap Slide Deck That Supports Live Coding originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
+          "link": "https://css-tricks.com/css-scroll-snap-slide-deck/",
+          "publishedOn": "2022-02-07T15:24:44.000Z",
+          "wordCount": 4367,
+          "title": "CSS Scroll Snap Slide Deck That Supports Live Coding"
+        },
+        {
           "id": "https://css-tricks.com/?p=362799",
           "author": "Ganesh Dahal",
           "description": "The relatively new WordPress editor, also known as the WordPress Block Editor, always under development via the Gutenberg plugin, has been with us since 2018. You can use the block editor on any WordPress theme, provided the theme …\nA Deep Introduction to WordPress Block Themes originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
@@ -470,6 +488,20 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2022/02/qr-codes-business-best-practices-pitfalls/",
+          "author": "hello@smashingmagazine.com (Stanislav Khrustalev)",
+          "description": "While QR codes have many uses and can be leveraged at many touch points, they are just one of dozens of technologies that can improve the customer’s journey. Stanislav Khrustalev shares his advice with a list of things to keep in mind when using QR codes for your business.",
+          "link": "https://smashingmagazine.com/2022/02/qr-codes-business-best-practices-pitfalls/",
+          "publishedOn": "2022-02-07T14:00:00.000Z",
+          "wordCount": 2787,
+          "title": "Using QR Codes In Your Business: Best Practices And Pitfalls",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/fa41b6d9-f3ce-4b05-a110-21a7bc6c7595/qr-codes-business-best-practices-pitfalls.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
+        {
           "id": "https://smashingmagazine.com/2022/02/web-frameworks-guide-part2/",
           "author": "hello@smashingmagazine.com (Noam Rosenthal)",
           "description": "In this second part, Noam suggests a few patterns of how to use the web platform directly as an alternative to some of the solutions that are offered by frameworks.",
@@ -728,6 +760,69 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "61fefcc0f2ed6b06db5ad6a9",
+          "author": "Peter Lynch",
+          "description": "It's not a big secret that building a developer portfolio can greatly increase your chances of getting hired. Everyone tells you that. But, they don't always tell you what makes a good one. You see, many portfolios are generic and rather uninspiring. If your portfolio looks just like everyone else's,",
+          "link": "https://www.freecodecamp.org/news/level-up-developer-portfolio/",
+          "publishedOn": "2022-02-07T18:38:59.000Z",
+          "wordCount": 2903,
+          "title": "How to Level Up Your Developer Portfolio"
+        },
+        {
+          "id": "61e5b6f7b837d507ba0a4acb",
+          "author": "Natalie Pina",
+          "description": "Optional chaining is a safe and concise way to perform access checks for nested object properties. The optional chaining operator ?. takes the reference to its left and checks if it is undefined or null. If the reference is either of these nullish values, the checks will stop and return",
+          "link": "https://www.freecodecamp.org/news/javascript-optional-chaining/",
+          "publishedOn": "2022-02-07T17:13:35.000Z",
+          "wordCount": 933,
+          "title": "How to Use Optional Chaining in JavaScript"
+        },
+        {
+          "id": "61d5437fd2d9de084285c32d",
+          "author": "Jessica Wilkins",
+          "description": "JSON (JavaScript Object Notation) is a popular way to structure data. It's used to exchange information between a web application and the server. But how do you read a JSON file in Python? In this article, I will show you how to use the json.loads() and json.load()  methods to",
+          "link": "https://www.freecodecamp.org/news/python-parse-json-how-to-read-a-json-file/",
+          "publishedOn": "2022-02-07T17:03:18.000Z",
+          "wordCount": 961,
+          "title": "Python Parse JSON – How to Read a JSON File"
+        },
+        {
+          "id": "61fd30e8f2ed6b06db5ac7af",
+          "author": "Dionysia Lemonaki",
+          "description": "In this article you'll see how to style a button using CSS. My goal here is mostly to showcase how different CSS rules and styles are applied and used. We won't see much design inspiration nor will we discuss ideas for styling. Instead, this will be more of an overview",
+          "link": "https://www.freecodecamp.org/news/css-button-style-hover-color-and-background/",
+          "publishedOn": "2022-02-07T15:56:18.000Z",
+          "wordCount": 1896,
+          "title": "CSS Button Style – Hover, Color, and Background"
+        },
+        {
+          "id": "61fd07ebf2ed6b06db5ac708",
+          "author": "Ihechikara Vincent Abba",
+          "description": "A loop in programming is a sequence of instructions that run continuously until a certain condition is met. In this article, we will learn about the for and forEach loops in Java. Syntax for a for loop in Java Here is the syntax for creating a for loop: for (initialization;",
+          "link": "https://www.freecodecamp.org/news/for-loop-in-java-foreach-loop-syntax-example/",
+          "publishedOn": "2022-02-07T15:08:46.000Z",
+          "wordCount": 855,
+          "title": "For Loop in Java + forEach Loop Syntax Example"
+        },
+        {
+          "id": "61e498cab837d507ba0a458a",
+          "author": "CESS",
+          "description": "If you're a web developer, you probably appreciate a well-designed and attractive website.  And you might see a color scheme or font on a specific website that you want to incorporate into your blog or web app. But you'll need a browser extension to see the website's color scheme",
+          "link": "https://www.freecodecamp.org/news/how-to-use-css-overview-in-chrome-developer-tools/",
+          "publishedOn": "2022-02-07T14:52:34.000Z",
+          "wordCount": 1549,
+          "title": "How to Use CSS Overview in Chrome Dev Tools"
+        },
+        {
+          "id": "61e07a60b837d507ba0a2136",
+          "author": "Periklis Gkolias",
+          "description": "I was watching the TV series, La Casa De Papel (Money Heist), on Netflix a few weeks ago. I realized that the story of the gang can reveal some best practices we should use while dealing with the security of the products we build. Beware – this text contains spoilers.",
+          "link": "https://www.freecodecamp.org/news/cybersecurity-lessons-from-money-heist-show/",
+          "publishedOn": "2022-02-07T14:49:47.000Z",
+          "wordCount": 1158,
+          "title": "What Can Money Heist Teach Us About Cybersecurity?"
+        },
         {
           "id": "61f8eea6f2ed6b06db5a9fd6",
           "author": "Nuno Bispo",

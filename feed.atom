@@ -2,10 +2,115 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-02-07T00:06:21.772Z</updated>
+    <updated>2022-02-08T00:06:41.804Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Using Different Color Spaces for Non-Boring Gradients]]></title>
+        <id>https://css-tricks.com/?p=363102</id>
+        <link href="https://css-tricks.com/color-spaces-for-more-interesting-css-gradients/"/>
+        <updated>2022-02-07T21:46:18.000Z</updated>
+        <summary type="html"><![CDATA[A little gradient generator tool from Tom Quinonero. You’d think fading one color to another would be an obvious, simple, solved problem — it’s actually anything but!
+Tom’s generator does two things that help make a gradient better:
+You 
+…
+Using Different Color Spaces for Non-Boring Gradients originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Level Up Your Developer Portfolio]]></title>
+        <id>61fefcc0f2ed6b06db5ad6a9</id>
+        <link href="https://www.freecodecamp.org/news/level-up-developer-portfolio/"/>
+        <updated>2022-02-07T18:38:59.000Z</updated>
+        <summary type="html"><![CDATA[It's not a big secret that building a developer portfolio can greatly increase your chances of getting hired. Everyone tells you that. But, they don't always tell you what makes a good one. You see, many portfolios are generic and rather uninspiring. If your portfolio looks just like everyone else's,]]></summary>
+        <author>
+            <name>Peter Lynch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use Optional Chaining in JavaScript]]></title>
+        <id>61e5b6f7b837d507ba0a4acb</id>
+        <link href="https://www.freecodecamp.org/news/javascript-optional-chaining/"/>
+        <updated>2022-02-07T17:13:35.000Z</updated>
+        <summary type="html"><![CDATA[Optional chaining is a safe and concise way to perform access checks for nested object properties. The optional chaining operator ?. takes the reference to its left and checks if it is undefined or null. If the reference is either of these nullish values, the checks will stop and return]]></summary>
+        <author>
+            <name>Natalie Pina</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python Parse JSON – How to Read a JSON File]]></title>
+        <id>61d5437fd2d9de084285c32d</id>
+        <link href="https://www.freecodecamp.org/news/python-parse-json-how-to-read-a-json-file/"/>
+        <updated>2022-02-07T17:03:18.000Z</updated>
+        <summary type="html"><![CDATA[JSON (JavaScript Object Notation) is a popular way to structure data. It's used to exchange information between a web application and the server. But how do you read a JSON file in Python? In this article, I will show you how to use the json.loads() and json.load()  methods to]]></summary>
+        <author>
+            <name>Jessica Wilkins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSS Button Style – Hover, Color, and Background]]></title>
+        <id>61fd30e8f2ed6b06db5ac7af</id>
+        <link href="https://www.freecodecamp.org/news/css-button-style-hover-color-and-background/"/>
+        <updated>2022-02-07T15:56:18.000Z</updated>
+        <summary type="html"><![CDATA[In this article you'll see how to style a button using CSS. My goal here is mostly to showcase how different CSS rules and styles are applied and used. We won't see much design inspiration nor will we discuss ideas for styling. Instead, this will be more of an overview]]></summary>
+        <author>
+            <name>Dionysia Lemonaki</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSS Scroll Snap Slide Deck That Supports Live Coding]]></title>
+        <id>https://css-tricks.com/?p=362616</id>
+        <link href="https://css-tricks.com/css-scroll-snap-slide-deck/"/>
+        <updated>2022-02-07T15:24:44.000Z</updated>
+        <summary type="html"><![CDATA[Virtual conferences have changed the game in terms of how a presenter is able to deliver content to an audience. At a live event it’s likely you just have your laptop, but at home, you may have multiple monitors so …
+CSS Scroll Snap Slide Deck That Supports Live Coding originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
+        <author>
+            <name>Stephanie Eckles</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[For Loop in Java + forEach Loop Syntax Example]]></title>
+        <id>61fd07ebf2ed6b06db5ac708</id>
+        <link href="https://www.freecodecamp.org/news/for-loop-in-java-foreach-loop-syntax-example/"/>
+        <updated>2022-02-07T15:08:46.000Z</updated>
+        <summary type="html"><![CDATA[A loop in programming is a sequence of instructions that run continuously until a certain condition is met. In this article, we will learn about the for and forEach loops in Java. Syntax for a for loop in Java Here is the syntax for creating a for loop: for (initialization;]]></summary>
+        <author>
+            <name>Ihechikara Vincent Abba</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use CSS Overview in Chrome Dev Tools]]></title>
+        <id>61e498cab837d507ba0a458a</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-css-overview-in-chrome-developer-tools/"/>
+        <updated>2022-02-07T14:52:34.000Z</updated>
+        <summary type="html"><![CDATA[If you're a web developer, you probably appreciate a well-designed and attractive website.  And you might see a color scheme or font on a specific website that you want to incorporate into your blog or web app. But you'll need a browser extension to see the website's color scheme]]></summary>
+        <author>
+            <name>CESS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Can Money Heist Teach Us About Cybersecurity?]]></title>
+        <id>61e07a60b837d507ba0a2136</id>
+        <link href="https://www.freecodecamp.org/news/cybersecurity-lessons-from-money-heist-show/"/>
+        <updated>2022-02-07T14:49:47.000Z</updated>
+        <summary type="html"><![CDATA[I was watching the TV series, La Casa De Papel (Money Heist), on Netflix a few weeks ago. I realized that the story of the gang can reveal some best practices we should use while dealing with the security of the products we build. Beware – this text contains spoilers.]]></summary>
+        <author>
+            <name>Periklis Gkolias</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using QR Codes In Your Business: Best Practices And Pitfalls]]></title>
+        <id>https://smashingmagazine.com/2022/02/qr-codes-business-best-practices-pitfalls/</id>
+        <link href="https://smashingmagazine.com/2022/02/qr-codes-business-best-practices-pitfalls/"/>
+        <updated>2022-02-07T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[While QR codes have many uses and can be leveraged at many touch points, they are just one of dozens of technologies that can improve the customer’s journey. Stanislav Khrustalev shares his advice with a list of things to keep in mind when using QR codes for your business.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Stanislav Khrustalev)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Build Your Own Heroku with Dokku]]></title>
         <id>61f8eea6f2ed6b06db5a9fd6</id>
