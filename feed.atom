@@ -2,10 +2,112 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-02-09T00:06:24.211Z</updated>
+    <updated>2022-02-10T00:06:39.838Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[SVGcode for “Live Tracing” Raster Images]]></title>
+        <id>https://css-tricks.com/?p=362777</id>
+        <link href="https://css-tricks.com/svgcode-raster-to-vector/"/>
+        <updated>2022-02-09T21:39:41.000Z</updated>
+        <summary type="html"><![CDATA[Say you have a bitmap graphic — like a JPG, PNG, or GIF — and you wish it was vector, like SVG. What do you do? You could trace it yourself in some kind of design software. Or tools within …
+SVGcode for “Live Tracing” Raster Images originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Artificial Intelligence From Its Early Development to the Present Day]]></title>
+        <id>6202d8fe56125b0677c62f23</id>
+        <link href="https://www.freecodecamp.org/news/artificial-intelligence-from-its-early-development-to-the-present-day/"/>
+        <updated>2022-02-09T20:29:11.000Z</updated>
+        <summary type="html"><![CDATA[Before we get started, I'll just say this: don't leave this article without at least reading the final two paragraphs. I won't spoil it for you. But trust me, you won't want to miss it! The history of artificial intelligence can be traced back to early philosophical and scientific thinking]]></summary>
+        <author>
+            <name>David Clinton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build Dynamic Forms in React]]></title>
+        <id>61ffb402f2ed6b06db5ae0f7</id>
+        <link href="https://www.freecodecamp.org/news/build-dynamic-forms-in-react/"/>
+        <updated>2022-02-09T18:08:52.000Z</updated>
+        <summary type="html"><![CDATA[In this tutorial, let's learn how to build dynamic forms in React. Using dynamic forms, we can add fields or remove them depending on our needs.  So, let's get started. How to Create a Form in React Let's create a simple form first. The syntax is straightforward: import './App.css';]]></summary>
+        <author>
+            <name>Nishant Kumar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Logging Web App with Server-Sent Events, RxJS, and Express]]></title>
+        <id>62012010f2ed6b06db5aeee0</id>
+        <link href="https://www.freecodecamp.org/news/build-a-logging-web-app-with-server-sent-events-rxjs-and-express/"/>
+        <updated>2022-02-09T18:06:54.000Z</updated>
+        <summary type="html"><![CDATA[Say you're working on your new great idea – a web or mobile app, and a back end server. Nothing too complicated so far. Until you realize that you need to stream data from your server to these clients.  Usually, when working on this, the first thing that comes]]></summary>
+        <author>
+            <name>Shayan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Snake Game with React, Redux, and Redux Saga]]></title>
+        <id>61ff69c0f2ed6b06db5adbae</id>
+        <link href="https://www.freecodecamp.org/news/build-a-snake-game-with-react-redux-and-redux-sagas/"/>
+        <updated>2022-02-09T18:03:35.000Z</updated>
+        <summary type="html"><![CDATA[In this article, I am going to walk you through creating a snake game using a React application. It is a simple 2d game built using TypeScript, and we won't need to use any third-party graphics libraries to build it.  This is what we'll make in this tutorial: Snake]]></summary>
+        <author>
+            <name>Keyur Paralkar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Your Developer Career Questions Answered]]></title>
+        <id>61bb6e3e07222107a6c7ae69</id>
+        <link href="https://www.freecodecamp.org/news/your-developer-career-questions-answered/"/>
+        <updated>2022-02-09T16:54:00.000Z</updated>
+        <summary type="html"><![CDATA[Will AI ever replace developers? Which programming language should you learn first? What's the best way to learn programming? Learn the answers to these questions and more from a group of experienced developers and technical course creators. We just published a video on the freeCodeCamp.org YouTube channel where experienced developers]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Make CSS Slanted Containers]]></title>
+        <id>https://css-tricks.com/?p=362940</id>
+        <link href="https://css-tricks.com/css-slanted-containers/"/>
+        <updated>2022-02-09T15:19:47.000Z</updated>
+        <summary type="html"><![CDATA[I was updating my portfolio and wanted to use the forward slash (/) as a visual element for the site’s main layout. I hadn’t attempted to create a slanted container in CSS before, but it seemed like it …
+How to Make CSS Slanted Containers originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
+        <author>
+            <name>Dave Seidman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fitts’ Law In The Touch Era]]></title>
+        <id>https://smashingmagazine.com/2022/02/fitts-law-touch-era/</id>
+        <link href="https://smashingmagazine.com/2022/02/fitts-law-touch-era/"/>
+        <updated>2022-02-09T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this article, Steven Hoober shines the spotlight on Fitts’ Law and explains why we should always ask questions and consider what particular guidelines and lessons mean to our users and our products.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Steven Hoober)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Import JavaScript and CSS from a Public CDN]]></title>
+        <id>61f804bbf2ed6b06db5a95a9</id>
+        <link href="https://www.freecodecamp.org/news/import-javascript-and-css-from-a-public-cdn/"/>
+        <updated>2022-02-09T00:38:48.000Z</updated>
+        <summary type="html"><![CDATA[When you're writing a Vanilla JavaScript application, you don't have to host all the code you use on your own site. Most popular JavaScript libraries are available from a public Content Delivery Network (CDN). This can simplify deploying the application and keeping dependencies up to date. In fact, if you've]]></summary>
+        <author>
+            <name>Alan Richardson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JavaScript Replace – How to Use the String.prototype.replace() Method JS Example]]></title>
+        <id>62026d96f2ed6b06db5af947</id>
+        <link href="https://www.freecodecamp.org/news/javascript-replace-how-to-use-the-string-prototype-replace-method-js-example/"/>
+        <updated>2022-02-08T21:26:21.000Z</updated>
+        <summary type="html"><![CDATA[The String.prototype.replace() method searches for the first occurrence of a string and replaces it with the specified string. It does this without mutating the original string. This method works for regular expressions, too, so the item you're searching for may be expressed as a regular expression. The value to return]]></summary>
+        <author>
+            <name>Kolade Chris</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[No Motion Isn’t Always prefers-reduced-motion]]></title>
         <id>https://css-tricks.com/?p=363057</id>
@@ -1987,152 +2089,6 @@ This post will walk through the process of converting an existing …
 Adding Vite to Your Existing Web App originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
         <author>
             <name>Adam Rackis</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use Native Custom Fields in WordPress (and 5 Useful Examples)]]></title>
-        <id>https://css-tricks.com/?p=360061</id>
-        <link href="https://css-tricks.com/use-custom-fields-in-wordpress/"/>
-        <updated>2022-01-11T00:41:48.000Z</updated>
-        <summary type="html"><![CDATA[Custom Fields in WordPress are arbitrary bits of data that you can apply to Posts, Pages, and Custom Post Types in WordPress. Metadata, as it were, in the form of key/value pairs. For example:
-Key: subtitle / Value: They are 
-…
-How to Use Native Custom Fields in WordPress (and 5 Useful Examples) originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is Chromium Without Chrome on Top?]]></title>
-        <id>https://css-tricks.com/?p=360873</id>
-        <link href="https://css-tricks.com/what-is-chromium-without-chrome-on-top/"/>
-        <updated>2022-01-10T22:02:49.000Z</updated>
-        <summary type="html"><![CDATA[Raw Chromium, perhaps?
-So, Chrome is based on Chromium which is open-source. Chrome is Chromium with Google’s extra stuff on top of it. What extra stuff? Kinda lots! A few years ago, The Verge published “Microsoft reveals all the …
-What is Chromium Without Chrome on Top? originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Convert react-dropdown-select&#x27;s Default Value from Array to String]]></title>
-        <id>61d8d033d2d9de084285e93e</id>
-        <link href="https://www.freecodecamp.org/news/how-to-send-the-right-data-type-from-a-form-to-the-backend-server/"/>
-        <updated>2022-01-10T21:30:48.000Z</updated>
-        <summary type="html"><![CDATA[Web forms play an important role on many sites on the internet, and they're something you should know how to build as a web developer.  From good ol' login forms to signup forms and survey forms (or whatever they're called these days), their main purpose is to receive data and]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JavaScript split() a String – String to Array JS Method]]></title>
-        <id>61d54372d2d9de084285c327</id>
-        <link href="https://www.freecodecamp.org/news/javascript-split-a-string-string-to-array-js-method/"/>
-        <updated>2022-01-10T21:24:30.000Z</updated>
-        <summary type="html"><![CDATA[If you need to split up a string into an array of substrings, then you can use the JavaScript split() method.  In this article, I will go over the JavaScript split() method and provide code examples.  Basic Syntax of the split() methodHere is the syntax for the JavaScript split() method.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The React Beginner&#x27;s Guide for 2022]]></title>
-        <id>61dc51e5b837d507ba09edb6</id>
-        <link href="https://www.freecodecamp.org/news/react-beginners-guide/"/>
-        <updated>2022-01-10T21:15:23.000Z</updated>
-        <summary type="html"><![CDATA[So you're ready to dive into learning React, but you still have some lingering questions, such as: How should I create my React projects?What tools should I add to my React app?Do I need to learn JavaScript first before learning React?Where should I deploy my projects?If]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Push an Empty Commit in Git]]></title>
-        <id>61d18c23a700150888933e31</id>
-        <link href="https://www.freecodecamp.org/news/how-to-push-an-empty-commit-with-git/"/>
-        <updated>2022-01-10T21:04:19.000Z</updated>
-        <summary type="html"><![CDATA[In this article, we will discuss how to push a commit in Git without making any changes. Git makes this process of pushing an empty commit super simple. It's like pushing a regular commit, except that you add the --allow-empty flag. git commit --allow-empty -m "Empty-Commit"You will now need]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is Serialization?]]></title>
-        <id>61c8e4b1755c16082490b4e4</id>
-        <link href="https://www.freecodecamp.org/news/what-is-serialization/"/>
-        <updated>2022-01-10T21:00:00.000Z</updated>
-        <summary type="html"><![CDATA[During a recent project update meeting, my team talked about how we were going to use serialization to send data back and forth from this application.  An engineer who was looking to get more into software projects told me that they were unfamiliar with the term.  It's easy to miss]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Text Box in HTML – The Input Field HTML Tag]]></title>
-        <id>61d98981d2d9de084285ed1d</id>
-        <link href="https://www.freecodecamp.org/news/text-box-in-html-the-input-field-html-tag/"/>
-        <updated>2022-01-10T20:02:45.000Z</updated>
-        <summary type="html"><![CDATA[In this article you'll learn how to create a text input field in HTML. You'll also learn about web forms and get an overview of how they work, since text boxes are a common feature of every form.  Let's get started!  What are Web Forms? Forms are an efficient way]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Free React Course for 2022]]></title>
-        <id>61dc8201b837d507ba09f359</id>
-        <link href="https://www.freecodecamp.org/news/free-react-course-2022/"/>
-        <updated>2022-01-10T19:10:48.000Z</updated>
-        <summary type="html"><![CDATA[React is still one of the most popular JavaScript libraries for building user interfaces. If you are a front-end developer, it is super helpful to know React. We just published a brand-new, 12-hour React course on the freeCodeCamp.org YouTube channel. In this course, you will React by building eight]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build Your First JavaScript GitHub Action]]></title>
-        <id>61d99c82d2d9de084285ee28</id>
-        <link href="https://www.freecodecamp.org/news/build-your-first-javascript-github-action/"/>
-        <updated>2022-01-10T17:36:34.000Z</updated>
-        <summary type="html"><![CDATA[I love working with GitHub Actions. They're easy to use yet so powerful. I'm especially excited when I see how creative people are when using them to automate different tasks.  I want you to have that same power. That's why I'm going to show you how to create your first]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Make a Custom Mouse Cursor with CSS and JavaScript]]></title>
-        <id>61d81b30d2d9de084285e181</id>
-        <link href="https://www.freecodecamp.org/news/how-to-make-a-custom-mouse-cursor-with-css-and-javascript/"/>
-        <updated>2022-01-10T16:13:35.000Z</updated>
-        <summary type="html"><![CDATA[Have you ever visited a website and been totally blown away by its amazing features? One of them might be a cool mouse cursor that is different from the regular arrow or pointer cursors you are used to.   This can really improve user experience, and lately I've been wondering how]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Don’t Fight the Cascade, Control It!]]></title>
-        <id>https://css-tricks.com/?p=359886</id>
-        <link href="https://css-tricks.com/dont-fight-the-cascade-control-it/"/>
-        <updated>2022-01-10T15:22:08.000Z</updated>
-        <summary type="html"><![CDATA[If you’re disciplined and make use of the inheritance that the CSS cascade provides, you’ll end up writing less CSS. But because our styles often comes from all kinds of sources — and can be a pain to structure and …
-Don’t Fight the Cascade, Control It! originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
-        <author>
-            <name>Mads Stoumann</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Maintain an Open Source Project – Best Practices and Tips]]></title>
-        <id>61d5406cd2d9de084285c2ef</id>
-        <link href="https://www.freecodecamp.org/news/how-to-maintain-an-open-source-project/"/>
-        <updated>2022-01-10T14:52:54.000Z</updated>
-        <summary type="html"><![CDATA[So, now that you've published your first open-source project, what next? If you're new to open source, you might think this is it. But the fun has just begun. In fact, most of the work lies in maintaining your project and making it accessible to more users. This is one]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Deep CSS Dive Into Radial And Conic Gradients]]></title>
-        <id>https://smashingmagazine.com/2022/01/css-radial-conic-gradient/</id>
-        <link href="https://smashingmagazine.com/2022/01/css-radial-conic-gradient/"/>
-        <updated>2022-01-10T12:30:00.000Z</updated>
-        <summary type="html"><![CDATA[In this article, we’ll be taking a closer look at two gradients: `conic-gradient` and `radial-gradient`. You’ll see how each one of them works in detail, what the differences and similarities are between them, how and where to use them, and some use cases for each.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Ahmad Shadeed)</name>
         </author>
     </entry>
 </feed>

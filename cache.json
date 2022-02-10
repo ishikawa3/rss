@@ -12,6 +12,24 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=362777",
+          "author": "Chris Coyier",
+          "description": "Say you have a bitmap graphic — like a JPG, PNG, or GIF — and you wish it was vector, like SVG. What do you do? You could trace it yourself in some kind of design software. Or tools within …\nSVGcode for “Live Tracing” Raster Images originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
+          "link": "https://css-tricks.com/svgcode-raster-to-vector/",
+          "publishedOn": "2022-02-09T21:39:41.000Z",
+          "wordCount": 737,
+          "title": "SVGcode for “Live Tracing” Raster Images"
+        },
+        {
+          "id": "https://css-tricks.com/?p=362940",
+          "author": "Dave Seidman",
+          "description": "I was updating my portfolio and wanted to use the forward slash (/) as a visual element for the site’s main layout. I hadn’t attempted to create a slanted container in CSS before, but it seemed like it …\nHow to Make CSS Slanted Containers originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
+          "link": "https://css-tricks.com/css-slanted-containers/",
+          "publishedOn": "2022-02-09T15:19:47.000Z",
+          "wordCount": 1242,
+          "title": "How to Make CSS Slanted Containers"
+        },
+        {
           "id": "https://css-tricks.com/?p=363057",
           "author": "Chris Coyier",
           "description": "There is a code snippet that I see all the time when the media query prefers-reduced-motion is talked about. Here it is:\n@media (prefers-reduced-motion: reduce) {\n  * {\n    animation-duration: 0.01ms !important;\n    animation-iteration-count: 1 !important;\n    transition-duration: 0.01ms !important;\n    scroll-behavior: auto !important;\n  \n…\nNo Motion Isn’t Always prefers-reduced-motion originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
@@ -469,33 +487,6 @@
           "publishedOn": "2022-01-11T15:38:06.000Z",
           "wordCount": 2831,
           "title": "Adding Vite to Your Existing Web App"
-        },
-        {
-          "id": "https://css-tricks.com/?p=360061",
-          "author": "Chris Coyier",
-          "description": "Custom Fields in WordPress are arbitrary bits of data that you can apply to Posts, Pages, and Custom Post Types in WordPress. Metadata, as it were, in the form of key/value pairs. For example:\nKey: subtitle / Value: They are \n…\nHow to Use Native Custom Fields in WordPress (and 5 Useful Examples) originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
-          "link": "https://css-tricks.com/use-custom-fields-in-wordpress/",
-          "publishedOn": "2022-01-11T00:41:48.000Z",
-          "wordCount": 2313,
-          "title": "How to Use Native Custom Fields in WordPress (and 5 Useful Examples)"
-        },
-        {
-          "id": "https://css-tricks.com/?p=360873",
-          "author": "Chris Coyier",
-          "description": "Raw Chromium, perhaps?\nSo, Chrome is based on Chromium which is open-source. Chrome is Chromium with Google’s extra stuff on top of it. What extra stuff? Kinda lots! A few years ago, The Verge published “Microsoft reveals all the …\nWhat is Chromium Without Chrome on Top? originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
-          "link": "https://css-tricks.com/what-is-chromium-without-chrome-on-top/",
-          "publishedOn": "2022-01-10T22:02:49.000Z",
-          "wordCount": 821,
-          "title": "What is Chromium Without Chrome on Top?"
-        },
-        {
-          "id": "https://css-tricks.com/?p=359886",
-          "author": "Mads Stoumann",
-          "description": "If you’re disciplined and make use of the inheritance that the CSS cascade provides, you’ll end up writing less CSS. But because our styles often comes from all kinds of sources — and can be a pain to structure and …\nDon’t Fight the Cascade, Control It! originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
-          "link": "https://css-tricks.com/dont-fight-the-cascade-control-it/",
-          "publishedOn": "2022-01-10T15:22:08.000Z",
-          "wordCount": 2856,
-          "title": "Don’t Fight the Cascade, Control It!"
         }
       ]
     },
@@ -504,6 +495,20 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2022/02/fitts-law-touch-era/",
+          "author": "hello@smashingmagazine.com (Steven Hoober)",
+          "description": "In this article, Steven Hoober shines the spotlight on Fitts’ Law and explains why we should always ask questions and consider what particular guidelines and lessons mean to our users and our products.",
+          "link": "https://smashingmagazine.com/2022/02/fitts-law-touch-era/",
+          "publishedOn": "2022-02-09T12:00:00.000Z",
+          "wordCount": 3419,
+          "title": "Fitts’ Law In The Touch Era",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/5b558fa6-25b4-4ec2-922a-469910f989a1/fitts-law-touch-era.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
         {
           "id": "https://smashingmagazine.com/2022/02/statoscope-course-intensive-therapy-bundle/",
           "author": "hello@smashingmagazine.com (Sergey Melukov)",
@@ -769,20 +774,6 @@
             "length": "0",
             "type": "image/jpg"
           }
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/01/css-radial-conic-gradient/",
-          "author": "hello@smashingmagazine.com (Ahmad Shadeed)",
-          "description": "In this article, we’ll be taking a closer look at two gradients: `conic-gradient` and `radial-gradient`. You’ll see how each one of them works in detail, what the differences and similarities are between them, how and where to use them, and some use cases for each.",
-          "link": "https://smashingmagazine.com/2022/01/css-radial-conic-gradient/",
-          "publishedOn": "2022-01-10T12:30:00.000Z",
-          "wordCount": 2304,
-          "title": "A Deep CSS Dive Into Radial And Conic Gradients",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8b1eea9e-877a-4da7-b531-537a97a44613/css-radial-conic-gradient.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
         }
       ]
     },
@@ -791,6 +782,69 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "6202d8fe56125b0677c62f23",
+          "author": "David Clinton",
+          "description": "Before we get started, I'll just say this: don't leave this article without at least reading the final two paragraphs. I won't spoil it for you. But trust me, you won't want to miss it! The history of artificial intelligence can be traced back to early philosophical and scientific thinking",
+          "link": "https://www.freecodecamp.org/news/artificial-intelligence-from-its-early-development-to-the-present-day/",
+          "publishedOn": "2022-02-09T20:29:11.000Z",
+          "wordCount": 1678,
+          "title": "Artificial Intelligence From Its Early Development to the Present Day"
+        },
+        {
+          "id": "61ffb402f2ed6b06db5ae0f7",
+          "author": "Nishant Kumar",
+          "description": "In this tutorial, let's learn how to build dynamic forms in React. Using dynamic forms, we can add fields or remove them depending on our needs.  So, let's get started. How to Create a Form in React Let's create a simple form first. The syntax is straightforward: import './App.css';",
+          "link": "https://www.freecodecamp.org/news/build-dynamic-forms-in-react/",
+          "publishedOn": "2022-02-09T18:08:52.000Z",
+          "wordCount": 1384,
+          "title": "How to Build Dynamic Forms in React"
+        },
+        {
+          "id": "62012010f2ed6b06db5aeee0",
+          "author": "Shayan",
+          "description": "Say you're working on your new great idea – a web or mobile app, and a back end server. Nothing too complicated so far. Until you realize that you need to stream data from your server to these clients.  Usually, when working on this, the first thing that comes",
+          "link": "https://www.freecodecamp.org/news/build-a-logging-web-app-with-server-sent-events-rxjs-and-express/",
+          "publishedOn": "2022-02-09T18:06:54.000Z",
+          "wordCount": 1595,
+          "title": "How to Build a Logging Web App with Server-Sent Events, RxJS, and Express"
+        },
+        {
+          "id": "61ff69c0f2ed6b06db5adbae",
+          "author": "Keyur Paralkar",
+          "description": "In this article, I am going to walk you through creating a snake game using a React application. It is a simple 2d game built using TypeScript, and we won't need to use any third-party graphics libraries to build it.  This is what we'll make in this tutorial: Snake",
+          "link": "https://www.freecodecamp.org/news/build-a-snake-game-with-react-redux-and-redux-sagas/",
+          "publishedOn": "2022-02-09T18:03:35.000Z",
+          "wordCount": 8818,
+          "title": "How to Build a Snake Game with React, Redux, and Redux Saga"
+        },
+        {
+          "id": "61bb6e3e07222107a6c7ae69",
+          "author": "Beau Carnes",
+          "description": "Will AI ever replace developers? Which programming language should you learn first? What's the best way to learn programming? Learn the answers to these questions and more from a group of experienced developers and technical course creators. We just published a video on the freeCodeCamp.org YouTube channel where experienced developers",
+          "link": "https://www.freecodecamp.org/news/your-developer-career-questions-answered/",
+          "publishedOn": "2022-02-09T16:54:00.000Z",
+          "wordCount": 449,
+          "title": "Your Developer Career Questions Answered"
+        },
+        {
+          "id": "61f804bbf2ed6b06db5a95a9",
+          "author": "Alan Richardson",
+          "description": "When you're writing a Vanilla JavaScript application, you don't have to host all the code you use on your own site. Most popular JavaScript libraries are available from a public Content Delivery Network (CDN). This can simplify deploying the application and keeping dependencies up to date. In fact, if you've",
+          "link": "https://www.freecodecamp.org/news/import-javascript-and-css-from-a-public-cdn/",
+          "publishedOn": "2022-02-09T00:38:48.000Z",
+          "wordCount": 1677,
+          "title": "How to Import JavaScript and CSS from a Public CDN"
+        },
+        {
+          "id": "62026d96f2ed6b06db5af947",
+          "author": "Kolade Chris",
+          "description": "The String.prototype.replace() method searches for the first occurrence of a string and replaces it with the specified string. It does this without mutating the original string. This method works for regular expressions, too, so the item you're searching for may be expressed as a regular expression. The value to return",
+          "link": "https://www.freecodecamp.org/news/javascript-replace-how-to-use-the-string-prototype-replace-method-js-example/",
+          "publishedOn": "2022-02-08T21:26:21.000Z",
+          "wordCount": 1167,
+          "title": "JavaScript Replace – How to Use the String.prototype.replace() Method JS Example"
+        },
         {
           "id": "6200d99bf2ed6b06db5ae8aa",
           "author": "Zaira Hira",
@@ -1852,96 +1906,6 @@
           "publishedOn": "2022-01-11T16:08:00.000Z",
           "wordCount": 347,
           "title": "10 Common Coding Interview Problems [Solved]"
-        },
-        {
-          "id": "61d8d033d2d9de084285e93e",
-          "author": null,
-          "description": "Web forms play an important role on many sites on the internet, and they're something you should know how to build as a web developer.  From good ol' login forms to signup forms and survey forms (or whatever they're called these days), their main purpose is to receive data and",
-          "link": "https://www.freecodecamp.org/news/how-to-send-the-right-data-type-from-a-form-to-the-backend-server/",
-          "publishedOn": "2022-01-10T21:30:48.000Z",
-          "wordCount": 2408,
-          "title": "How to Convert react-dropdown-select&#x27;s Default Value from Array to String"
-        },
-        {
-          "id": "61d54372d2d9de084285c327",
-          "author": null,
-          "description": "If you need to split up a string into an array of substrings, then you can use the JavaScript split() method.  In this article, I will go over the JavaScript split() method and provide code examples.  Basic Syntax of the split() methodHere is the syntax for the JavaScript split() method.",
-          "link": "https://www.freecodecamp.org/news/javascript-split-a-string-string-to-array-js-method/",
-          "publishedOn": "2022-01-10T21:24:30.000Z",
-          "wordCount": 927,
-          "title": "JavaScript split() a String – String to Array JS Method"
-        },
-        {
-          "id": "61dc51e5b837d507ba09edb6",
-          "author": null,
-          "description": "So you're ready to dive into learning React, but you still have some lingering questions, such as: How should I create my React projects?What tools should I add to my React app?Do I need to learn JavaScript first before learning React?Where should I deploy my projects?If",
-          "link": "https://www.freecodecamp.org/news/react-beginners-guide/",
-          "publishedOn": "2022-01-10T21:15:23.000Z",
-          "wordCount": 2335,
-          "title": "The React Beginner&#x27;s Guide for 2022"
-        },
-        {
-          "id": "61d18c23a700150888933e31",
-          "author": null,
-          "description": "In this article, we will discuss how to push a commit in Git without making any changes. Git makes this process of pushing an empty commit super simple. It's like pushing a regular commit, except that you add the --allow-empty flag. git commit --allow-empty -m \"Empty-Commit\"You will now need",
-          "link": "https://www.freecodecamp.org/news/how-to-push-an-empty-commit-with-git/",
-          "publishedOn": "2022-01-10T21:04:19.000Z",
-          "wordCount": 358,
-          "title": "How to Push an Empty Commit in Git"
-        },
-        {
-          "id": "61c8e4b1755c16082490b4e4",
-          "author": null,
-          "description": "During a recent project update meeting, my team talked about how we were going to use serialization to send data back and forth from this application.  An engineer who was looking to get more into software projects told me that they were unfamiliar with the term.  It's easy to miss",
-          "link": "https://www.freecodecamp.org/news/what-is-serialization/",
-          "publishedOn": "2022-01-10T21:00:00.000Z",
-          "wordCount": 1132,
-          "title": "What is Serialization?"
-        },
-        {
-          "id": "61d98981d2d9de084285ed1d",
-          "author": null,
-          "description": "In this article you'll learn how to create a text input field in HTML. You'll also learn about web forms and get an overview of how they work, since text boxes are a common feature of every form.  Let's get started!  What are Web Forms? Forms are an efficient way",
-          "link": "https://www.freecodecamp.org/news/text-box-in-html-the-input-field-html-tag/",
-          "publishedOn": "2022-01-10T20:02:45.000Z",
-          "wordCount": 2436,
-          "title": "Text Box in HTML – The Input Field HTML Tag"
-        },
-        {
-          "id": "61dc8201b837d507ba09f359",
-          "author": null,
-          "description": "React is still one of the most popular JavaScript libraries for building user interfaces. If you are a front-end developer, it is super helpful to know React. We just published a brand-new, 12-hour React course on the freeCodeCamp.org YouTube channel. In this course, you will React by building eight",
-          "link": "https://www.freecodecamp.org/news/free-react-course-2022/",
-          "publishedOn": "2022-01-10T19:10:48.000Z",
-          "wordCount": 495,
-          "title": "Free React Course for 2022"
-        },
-        {
-          "id": "61d99c82d2d9de084285ee28",
-          "author": null,
-          "description": "I love working with GitHub Actions. They're easy to use yet so powerful. I'm especially excited when I see how creative people are when using them to automate different tasks.  I want you to have that same power. That's why I'm going to show you how to create your first",
-          "link": "https://www.freecodecamp.org/news/build-your-first-javascript-github-action/",
-          "publishedOn": "2022-01-10T17:36:34.000Z",
-          "wordCount": 2555,
-          "title": "How to Build Your First JavaScript GitHub Action"
-        },
-        {
-          "id": "61d81b30d2d9de084285e181",
-          "author": null,
-          "description": "Have you ever visited a website and been totally blown away by its amazing features? One of them might be a cool mouse cursor that is different from the regular arrow or pointer cursors you are used to.   This can really improve user experience, and lately I've been wondering how",
-          "link": "https://www.freecodecamp.org/news/how-to-make-a-custom-mouse-cursor-with-css-and-javascript/",
-          "publishedOn": "2022-01-10T16:13:35.000Z",
-          "wordCount": 1211,
-          "title": "How to Make a Custom Mouse Cursor with CSS and JavaScript"
-        },
-        {
-          "id": "61d5406cd2d9de084285c2ef",
-          "author": null,
-          "description": "So, now that you've published your first open-source project, what next? If you're new to open source, you might think this is it. But the fun has just begun. In fact, most of the work lies in maintaining your project and making it accessible to more users. This is one",
-          "link": "https://www.freecodecamp.org/news/how-to-maintain-an-open-source-project/",
-          "publishedOn": "2022-01-10T14:52:54.000Z",
-          "wordCount": 1446,
-          "title": "How to Maintain an Open Source Project – Best Practices and Tips"
         }
       ]
     }
