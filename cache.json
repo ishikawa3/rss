@@ -4,13 +4,32 @@
       "title": "Release notes from osmosfeed",
       "feedUrl": "https://github.com/osmoscraft/osmosfeed/releases.atom",
       "siteUrl": "https://github.com/osmoscraft/osmosfeed/releases",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.12.1",
+          "author": null,
+          "description": "Fixed: Future articles appeared in the feed\nFxied: Security vulnerability from axios\nThank you: @naari3",
+          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.12.1",
+          "publishedOn": "2022-02-12T17:46:42.000Z",
+          "wordCount": 271,
+          "title": "v1.12.1"
+        }
+      ]
     },
     {
       "title": "CSS-Tricks",
       "feedUrl": "https://css-tricks.com/feed/",
       "siteUrl": "https://css-tricks.com",
       "articles": [
+        {
+          "id": "https://css-tricks.com/?p=363498",
+          "author": "Chris Coyier",
+          "description": "Kilian Valkhof:\n[…] Mobile Safari increases the default font-size when you switch a website from portrait to landscape. On phones that is, it doesn’t do it on iPad. Safari has been doing this for a long time, as a \n…\nYour CSS reset needs text-size-adjust (probably) originally published on CSS-Tricks. You should get the newsletter.",
+          "link": "https://css-tricks.com/your-css-reset-needs-text-size-adjust-probably/",
+          "publishedOn": "2022-02-12T00:46:40.000Z",
+          "wordCount": 608,
+          "title": "Your CSS reset needs text-size-adjust (probably)"
+        },
         {
           "id": "https://css-tricks.com/?p=363396",
           "author": "Chris Coyier",
@@ -469,24 +488,6 @@
           "publishedOn": "2022-01-14T15:24:19.000Z",
           "wordCount": 1571,
           "title": "How to Build Your First Custom Svelte Transition"
-        },
-        {
-          "id": "https://css-tricks.com/?p=360939",
-          "author": "Chris Coyier",
-          "description": "Every now and then, I find that I’ve accumulated a bunch of links about various things I find interesting. Accessibility is one of those things! Here’s a list of related links to other articles that I’ve been saving up and …\n8 Helpful Accessibility Links for January 2022 originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
-          "link": "https://css-tricks.com/8-accessibility-links-january-2022/",
-          "publishedOn": "2022-01-13T20:57:41.000Z",
-          "wordCount": 786,
-          "title": "8 Helpful Accessibility Links for January 2022"
-        },
-        {
-          "id": "https://css-tricks.com/?p=360423",
-          "author": "Chris Coyier",
-          "description": "Sass offers functions and mixins that accept parameters. You can use Sass default parameters, that is, parameters that have a value even if you don’t provide them when the function or mixin is called. \nLet’s focus on mixins here. …\nA Practical Tip For Using Sass Default Parameters originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
-          "link": "https://css-tricks.com/sass-default-parameters/",
-          "publishedOn": "2022-01-13T15:17:28.000Z",
-          "wordCount": 693,
-          "title": "A Practical Tip For Using Sass Default Parameters"
         }
       ]
     },
@@ -1811,90 +1812,9 @@
           "publishedOn": "2022-01-14T18:46:57.000Z",
           "wordCount": 2162,
           "title": "How to Create Your Own Custom Code Snippets Right in Your Code Editor"
-        },
-        {
-          "id": "61dbe879d2d9de084285fb65",
-          "author": null,
-          "description": "The z-index property might seem simple, but it's not just about using a positive or negative integer.  There's a lot more going on under the hood, and some quirks can cause problems when you're working with it.  In this article, we're going to dive deep into the z-index property and",
-          "link": "https://www.freecodecamp.org/news/how-the-z-index-property-works-under-the-hood/",
-          "publishedOn": "2022-01-14T11:06:00.000Z",
-          "wordCount": 1357,
-          "title": "How the z-index Property Works Under the Hood"
-        },
-        {
-          "id": "61dc4ac1d2d9de084285fed6",
-          "author": null,
-          "description": "Kubernetes is a container orchestration platform that helps you manage containers at scale.  I recently passed my certified Kubernetes administrator exam, and I would like to share my learning experience and resources with you.  Should You Get Kubernetes Certified? There are mixed opinions in the tech industry about the importance",
-          "link": "https://www.freecodecamp.org/news/certified-kubernetes-administrator-study-guide-cka/",
-          "publishedOn": "2022-01-14T01:14:02.000Z",
-          "wordCount": 3532,
-          "title": "Certified Kubernetes Administrator Study Guide – Prepare for the CKA Exam"
-        },
-        {
-          "id": "61e081cfb837d507ba0a2179",
-          "author": null,
-          "description": "Have you heard of \"Netflix and Chill\"? Instead, try \"Netflix and Code\". Code your own Netflix clone! We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to create a Netflix clone using Django and Tailwind CSS. Django is a Python-based free and open-source",
-          "link": "https://www.freecodecamp.org/news/create-a-netflix-clone-with-django-and-tailwind-css/",
-          "publishedOn": "2022-01-13T19:54:39.000Z",
-          "wordCount": 338,
-          "title": "Create a Netflix Clone with Django and Tailwind CSS"
-        },
-        {
-          "id": "61dd142eb837d507ba09f944",
-          "author": null,
-          "description": "While working on your personal projects, you'll often need to store some data. You could use a SQL or NoSQL database with a server, but that would require you to do a bit of setup.  In this article, we'll learn about TinyDB and how to use it to store our",
-          "link": "https://www.freecodecamp.org/news/get-started-with-tinydb-in-python/",
-          "publishedOn": "2022-01-13T18:46:34.000Z",
-          "wordCount": 1289,
-          "title": "How to Get Started with TinyDB in Python"
-        },
-        {
-          "id": "61d863f4d2d9de084285e610",
-          "author": null,
-          "description": "In this article, I’ve compiled a list of the best machine learning courses available online. I built the ranking by following a well-defined methodology that you can find below.  But if you want to jump straight to the results, here are my picks: Machine Learning (Stanford University)Machine Learning",
-          "link": "https://www.freecodecamp.org/news/best-machine-learning-courses/",
-          "publishedOn": "2022-01-13T18:21:53.000Z",
-          "wordCount": 4449,
-          "title": "10 Best Machine Learning Courses to Take in 2022"
-        },
-        {
-          "id": "61dff8fab837d507ba0a12cb",
-          "author": null,
-          "description": "Props are one of the most important building blocks of React.js. When you need to pass data down from a parent component to a child component, props make this possible. In this article we'll learn how to work with props and build reusable components in React. What Are Props",
-          "link": "https://www.freecodecamp.org/news/how-to-build-reusable-components-with-props-in-react/",
-          "publishedOn": "2022-01-13T17:14:49.000Z",
-          "wordCount": 695,
-          "title": "How to Build Reusable Components with Props in React"
-        },
-        {
-          "id": "61dfca99b837d507ba0a0f3a",
-          "author": null,
-          "description": "If you stop working temporarily and you're not ready to shut down your PC, Windows 10 sleep mode is a great option.  It turns off your computer's monitor and hard drive, slowing down power consumption in the process.  But your PC might refuse to go to sleep sometimes. This could",
-          "link": "https://www.freecodecamp.org/news/windows-10-is-not-going-to-sleep-how-to-fix-sleeping-on-pc/",
-          "publishedOn": "2022-01-13T17:03:04.000Z",
-          "wordCount": 767,
-          "title": "Windows 10 is Not Going to Sleep – How to Fix Sleeping on PC"
-        },
-        {
-          "id": "61d80be9d2d9de084285e127",
-          "author": null,
-          "description": "In this article, we will talk about constructors, how to create our own constructors, and what default constructors are in Java. What is a constructor?As a class-based object-oriented programming term, a constructor is a unique method used to initialize a newly created object (class). There are a few rules",
-          "link": "https://www.freecodecamp.org/news/default-constructor-in-java/",
-          "publishedOn": "2022-01-13T16:53:28.000Z",
-          "wordCount": 905,
-          "title": "Default Constructor in Java – Class Constructor Example"
-        },
-        {
-          "id": "61deedb3b837d507ba0a0695",
-          "author": null,
-          "description": "In this article we're going to learn how to make an application using AWS Serverless that lets us identify images of celebrities. We'll use AWS Rekognition for AI-based identification. We are going to attach an event to the S3 Bucket so that whenever a file gets uploaded to the bucket,",
-          "link": "https://www.freecodecamp.org/news/use-aws-rekognition-to-identify-celebrities-in-images/",
-          "publishedOn": "2022-01-13T16:47:45.000Z",
-          "wordCount": 1279,
-          "title": "AWS Serverless – How to Use AWS Rekognition to Identify Celebrities in Images"
         }
       ]
     }
   ],
-  "cliVersion": "1.12.0"
+  "cliVersion": "1.12.1"
 }
