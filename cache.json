@@ -6,6 +6,16 @@
       "siteUrl": "https://github.com/osmoscraft/osmosfeed/releases",
       "articles": [
         {
+          "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.13.0",
+          "author": null,
+          "description": "New: Thumbnail image display for each article\nNew: Improved color, spacing, and typography for easier reading\nNew: Click the date to toggle all accordions on that day. Ctrl + Click to toggle all accordions on the entire site.\nChanged: All sections are expanded by default\nChanged: Switched to vitest for easier testing\nFixed: Long string (e.g. URL) caused horizontal overflow\nThank you: @naari3, @tianheg",
+          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.13.0",
+          "publishedOn": "2022-02-13T05:05:17.000Z",
+          "wordCount": 342,
+          "title": "v1.13.0",
+          "imageUrl": "https://opengraph.githubassets.com/fc77c41c87b2cd4d8990f4c940e0ddf681667b6b6e4363b0f609861b7ae5b6d8/osmoscraft/osmosfeed/releases/tag/v1.13.0"
+        },
+        {
           "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.12.1",
           "author": null,
           "description": "Fixed: Future articles appeared in the feed\nFxied: Security vulnerability from axios\nThank you: @naari3",
@@ -461,33 +471,6 @@
           "publishedOn": "2022-01-17T15:13:26.000Z",
           "wordCount": 6239,
           "title": "What Were the Hottest Front-End Tools in 2021?"
-        },
-        {
-          "id": "https://css-tricks.com/?p=360928",
-          "author": "Chris Coyier",
-          "description": "Stoyan is absolutely correct. As much as we all love CSS, it’s still an important player in how websites load and using less of it is a good thing. He has a neat new bookmarklet called CSS Me Not …\nUsing the CSS Me Not Bookmarklet to See (and Disable) CSS Files originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
-          "link": "https://css-tricks.com/css-me-not-bookmarklet/",
-          "publishedOn": "2022-01-15T00:06:56.000Z",
-          "wordCount": 987,
-          "title": "Using the CSS Me Not Bookmarklet to See (and Disable) CSS Files"
-        },
-        {
-          "id": "https://css-tricks.com/?p=360864",
-          "author": "Chris Coyier",
-          "description": "Mondrian is famous for paintings with big thick black lines forming a grid, where each cell is white, red, yellow, or blue. This aesthetic pairs well with the notoriously rectangular web, and that hasn’t gone unnoticed over the years with …\nMondrian Art in CSS From 5 Code Artists originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
-          "link": "https://css-tricks.com/mondrian-art-in-css-from-5-code-artists/",
-          "publishedOn": "2022-01-14T18:15:03.000Z",
-          "wordCount": 843,
-          "title": "Mondrian Art in CSS From 5 Code Artists"
-        },
-        {
-          "id": "https://css-tricks.com/?p=360781",
-          "author": "Austin Crim",
-          "description": "The Svelte transition API provides a first-class way to animate your components when they enter or leave the document, including custom Svelte transitions. By default, the transition directive uses CSS animations, which generally offer better performance and allow the browser’s …\nHow to Build Your First Custom Svelte Transition originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
-          "link": "https://css-tricks.com/making-your-first-custom-svelte-transition/",
-          "publishedOn": "2022-01-14T15:24:19.000Z",
-          "wordCount": 1571,
-          "title": "How to Build Your First Custom Svelte Transition"
         }
       ]
     },
@@ -744,20 +727,6 @@
           "title": "Modern Fluid Typography Using CSS Clamp",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/f12f5a3d-f679-4b6b-b9c2-cb5a9d9166ae/modern-fluid-typography-css-clamp.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/01/ten-tips-aspiring-designer-beginners-part2/",
-          "author": "hello@smashingmagazine.com (Luis Ouriach)",
-          "description": "In [Part 1](https://www.smashingmagazine.com/2022/01/ten-tips-aspiring-designer-beginners-part1/), Luis Ouriach shared advice he wished he had when starting out in his career. In this second and last part of this series, Luis continues sharing tips that helped him grow and become a better designer throughout the years.",
-          "link": "https://smashingmagazine.com/2022/01/ten-tips-aspiring-designer-beginners-part2/",
-          "publishedOn": "2022-01-14T15:00:00.000Z",
-          "wordCount": 3569,
-          "title": "Ten Tips For Aspiring Designer Beginners (Part 2)",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/5b0e9621-b939-439d-a812-69a4eb7d68ff/tips-aspiring-designer-beginners-part2.jpg",
             "length": "0",
             "type": "image/jpg"
           }
@@ -1776,45 +1745,9 @@
           "publishedOn": "2022-01-17T16:56:05.000Z",
           "wordCount": 5815,
           "title": "Web Development Project – How to Make a Landing Page with HTML, CSS, and JavaScript"
-        },
-        {
-          "id": "61dff97db837d507ba0a12db",
-          "author": null,
-          "description": "File Explorer is an application for managing files. It is also known as Windows Explorer. It is one of the built-in applications in the Microsoft Windows operating system.  File Explorer is extremely important, as it helps you oraganize and manage files in your PC. Sometimes File Explorer stops responding and",
-          "link": "https://www.freecodecamp.org/news/file-explorer-not-responding-fixed-on-windows-10-pc/",
-          "publishedOn": "2022-01-14T22:39:28.000Z",
-          "wordCount": 923,
-          "title": "File Explorer Not Responding – Fixed on Windows 10 PC"
-        },
-        {
-          "id": "61dd9481b837d507ba09fca9",
-          "author": null,
-          "description": "I've composed this guide to give you a practical overview of perhaps the most important React library you will use to build 90% of your projects: Next.js. The goal of this tutorial is to get you started using Next.js as easily as possible. This is not a complete",
-          "link": "https://www.freecodecamp.org/news/nextjs-tutorial/",
-          "publishedOn": "2022-01-14T21:39:10.000Z",
-          "wordCount": 2638,
-          "title": "Get Started with Next.js – The React Library Your Project Needs"
-        },
-        {
-          "id": "61dfe267b837d507ba0a10e9",
-          "author": null,
-          "description": "If you have a website, it's helpful to have a loader so users can tell something is happening once they've clicked a link or button.  You can use this loader component in a lot of places, and it should be as simple as possible.  In this post, we will see",
-          "link": "https://www.freecodecamp.org/news/how-to-create-a-css-only-loader/",
-          "publishedOn": "2022-01-14T21:11:49.000Z",
-          "wordCount": 1930,
-          "title": "How to Create a CSS-Only Loader Using One Element"
-        },
-        {
-          "id": "61de055cb837d507ba0a011c",
-          "author": null,
-          "description": "A code Snippet is a programming term that refers to a small portion of re-usable source code, machine code, or text.  Snippets help programmers reduce the time it takes to type in repetitive information while coding. Code Snippets are a feature on most text editors, code editors, and IDEs.  In",
-          "link": "https://www.freecodecamp.org/news/create-your-own-custom-code-snippets/",
-          "publishedOn": "2022-01-14T18:46:57.000Z",
-          "wordCount": 2162,
-          "title": "How to Create Your Own Custom Code Snippets Right in Your Code Editor"
         }
       ]
     }
   ],
-  "cliVersion": "1.12.1"
+  "cliVersion": "1.13.0"
 }
