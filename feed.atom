@@ -2,10 +2,72 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-02-17T00:06:16.581Z</updated>
+    <updated>2022-02-18T00:06:38.172Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CSS Overflow – Visible, Scroll, Auto, or Hidden? The Overflow Property Explained]]></title>
+        <id>6206b26756125b0677c646d3</id>
+        <link href="https://www.freecodecamp.org/news/css-overflow-visible-scroll-auto-hidden/"/>
+        <updated>2022-02-17T20:37:54.000Z</updated>
+        <summary type="html"><![CDATA[In this tutorial, we will talk about an important CSS property – the overflow  property.  It helps us control what happens when an element's content is too big to fit into an area. When this happens, it makes the content "overflow" into another area, either horizontally (X-axis) or]]></summary>
+        <author>
+            <name>Ihechikara Vincent Abba</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Set Up VSCode for Your React Projects]]></title>
+        <id>620e62a321bfb3068cf2a204</id>
+        <link href="https://www.freecodecamp.org/news/vscode-react-setup/"/>
+        <updated>2022-02-17T16:54:36.000Z</updated>
+        <summary type="html"><![CDATA[The ultimate tool you have when you're developing your projects is your code editor. Which is why it's so important to set it up properly. In this step-by-step guide, we will go from a completely new VSCode installation to a code editor perfectly prepared for your next React project. Let's]]></summary>
+        <author>
+            <name>Reed Barger</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Add Diagrams to GitHub Markdown Files]]></title>
+        <id>620e67e821bfb3068cf2a29c</id>
+        <link href="https://www.freecodecamp.org/news/how-to-add-diagrams-to-github-readme/"/>
+        <updated>2022-02-17T16:37:07.000Z</updated>
+        <summary type="html"><![CDATA[Previously, if you wanted to include a diagram in your GitHub README file, you would've needed to add it like an image created with third-party software.  This worked, and let us complete our tasks – but why settle for less when you can create a diagram within the README]]></summary>
+        <author>
+            <name>Kaushal Joshi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Subsetting Font Awesome to Improve Performance]]></title>
+        <id>https://css-tricks.com/?p=363179</id>
+        <link href="https://css-tricks.com/subsetting-font-awesome-to-improve-performance/"/>
+        <updated>2022-02-17T15:21:41.000Z</updated>
+        <summary type="html"><![CDATA[Font Awesome is an incredibly popular icon library. Unfortunately, it’s somewhat easy to use in a way that results in less-than-ideal performance. By subsetting Font Awesome, we can remove any unused glyphs from the font files it provides. This will …
+Subsetting Font Awesome to Improve Performance originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <author>
+            <name>Adam Rackis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Start a Freelance Dev Business]]></title>
+        <id>61f7d395f2ed6b06db5a936a</id>
+        <link href="https://www.freecodecamp.org/news/how-to-start-a-freelance-dev-business/"/>
+        <updated>2022-02-17T15:04:27.000Z</updated>
+        <summary type="html"><![CDATA[Many people who want to try freelancing believe that they need to have years of experience to succeed. But this is a common misconception that many freelancers have disproved. Regardless of your industry, a helpful blueprint can be all you need to fast-track your freelancing success. This article underscores what]]></summary>
+        <author>
+            <name>Andrej Kovacevic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Add-to-Calendar Button UI Widget]]></title>
+        <id>https://css-tricks.com/?p=363861</id>
+        <link href="https://css-tricks.com/add-to-calendar-button-ui-widget/"/>
+        <updated>2022-02-17T01:14:21.000Z</updated>
+        <summary type="html"><![CDATA[A useful little UI widget thingy here from Jens Kuerschner. Click the add-to-calendar button, get a list of calendar apps, the user selects which one they actually use, and they get what they need for that calendar. Could be a …
+Add-to-Calendar Button UI Widget originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Remote Work – How to Find Remote Working Jobs from Home]]></title>
         <id>620a157456125b0677c64db4</id>
@@ -2042,143 +2104,6 @@ A Serene CSS Dappled Light Effect originally published on CSS-Tricks. You should
 What should someone learn about CSS if they last boned up during CSS3? originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Upcoming Online Workshops: January &ndash; May 2022]]></title>
-        <id>https://smashingmagazine.com/2022/01/smashingconf-workshops-january-may-2022/</id>
-        <link href="https://smashingmagazine.com/2022/01/smashingconf-workshops-january-may-2022/"/>
-        <updated>2022-01-19T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[What goes into creating a successful design system? How can you take your testing workflow to the next level? And what smart interface design patterns could help you enhance your UIs? Let’s figure it out. With our [online workshops on front-end and UX](https://smashingconf.com/online-workshops).]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[4 Quality Options for a Table of Contents Block in WordPress]]></title>
-        <id>https://css-tricks.com/?p=360362</id>
-        <link href="https://css-tricks.com/table-of-contents-block-in-wordpress/"/>
-        <updated>2022-01-18T23:22:01.000Z</updated>
-        <summary type="html"><![CDATA[There are a number of options for including a Table of Contents lock in WordPress. You can use a plugin, or try to do it yourself. 
-4 Quality Options for a Table of Contents Block in WordPress originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Convert a Static HTML Table to a Dynamic JavaScript Data Grid]]></title>
-        <id>61e158e5b837d507ba0a263e</id>
-        <link href="https://www.freecodecamp.org/news/convert-html-table-to-dynamic-javascript-data-grid/"/>
-        <updated>2022-01-18T22:40:00.000Z</updated>
-        <summary type="html"><![CDATA[HTML Tables are simple to use for rendering small amounts of data. But they can be hard for users to work with when they display a lot of data.  Features like sorting, filtering, and pagination make it easier to work with many rows of data. We can easily implement those]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Simplify Asynchronous JavaScript using the Result-Error Pattern]]></title>
-        <id>61e5c135b837d507ba0a4ad0</id>
-        <link href="https://www.freecodecamp.org/news/simplify-asynchronous-javascript-using-the-result-error-pattern/"/>
-        <updated>2022-01-18T22:08:11.000Z</updated>
-        <summary type="html"><![CDATA[The Result-Error Pattern helps you hide try-catch blocks, simplify error handling, and encapsulate cleanup operations.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Setup a CI/CD Pipeline with GitHub Actions and AWS]]></title>
-        <id>61c1f85b755c160824908ac7</id>
-        <link href="https://www.freecodecamp.org/news/how-to-setup-a-ci-cd-pipeline-with-github-actions-and-aws/"/>
-        <updated>2022-01-18T21:26:24.000Z</updated>
-        <summary type="html"><![CDATA[In this article, we'll learn how to set up a CI/CD pipeline with GitHub Actions and AWS. I've divided the guide into three parts to help you work through it: First, we'll cover some important terminology so you're not lost in a bunch of big buzzwords. Second, we'll set]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Create User Interfaces for Machine Learning Models Using Gradio]]></title>
-        <id>61e726bf183181284a1912db</id>
-        <link href="https://www.freecodecamp.org/news/create-user-interfaces-for-machine-learning-models-using-gradio/"/>
-        <updated>2022-01-18T20:56:02.000Z</updated>
-        <summary type="html"><![CDATA[Adjusting, visualizing, and sharing machine learning models can be much easier with a sleek user interface. We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to use Gradio to create intuitive user interfaces for machine learning models. Abdul from 1littlecoder developed this course.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Keep Your Package Dependencies Up to Date on Azure DevOps]]></title>
-        <id>61cfee0ea700150888933a10</id>
-        <link href="https://www.freecodecamp.org/news/keep-package-dependencies-up-to-date-on-azure-devops/"/>
-        <updated>2022-01-18T20:15:51.000Z</updated>
-        <summary type="html"><![CDATA[As a developer, how often have you seen a repository with packages that are out of date? New package updates generally include new features, performance improvements, and security fixes. But keeping track of all outdated dependencies in your project can be really boring and a time consuming task, especially if]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Computer Networking Tutorial – How Network Applications Talk Over the Internet]]></title>
-        <id>61d6289ed2d9de084285cab7</id>
-        <link href="https://www.freecodecamp.org/news/computer-networking-how-applications-talk-over-the-internet/"/>
-        <updated>2022-01-18T19:54:27.000Z</updated>
-        <summary type="html"><![CDATA[Network applications are computer applications that participate in a computer network. These applications talk to each other by plugging into the network.  For example, when you visit google.com, your browser acts as a network application that leverages the Internet to talk to the network application running on Google's computer.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Primitive vs Reference Data Types in JavaScript]]></title>
-        <id>61db22fcd2d9de084285f551</id>
-        <link href="https://www.freecodecamp.org/news/primitive-vs-reference-data-types-in-javascript/"/>
-        <updated>2022-01-18T19:24:33.000Z</updated>
-        <summary type="html"><![CDATA[Data types can be a bit of a mind boggling concept. But as programmers, we use data types everyday – so they're something we should understand.  Question is, how does the computer store these data types? It can't possibly treat every data type the same. In JavaScript, data types are split]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Working as an Independent Contractor Can Help You Start Your Own Freelance Dev Business]]></title>
-        <id>61d5c80fd2d9de084285c5f3</id>
-        <link href="https://www.freecodecamp.org/news/working-as-independent-contractor-can-help-start-freelance-business/"/>
-        <updated>2022-01-18T19:06:12.000Z</updated>
-        <summary type="html"><![CDATA[This article is about how working as an independent contractor for a web design agency helped me to start my own freelance business.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Create a Custom Patreon Button]]></title>
-        <id>61e2a600b837d507ba0a37ee</id>
-        <link href="https://www.freecodecamp.org/news/how-to-create-a-custom-patreon-button/"/>
-        <updated>2022-01-18T15:53:41.000Z</updated>
-        <summary type="html"><![CDATA[Patreon is a subscription management system for creators. Although it offers a default button snippet, you can add a custom button that includes your preferred design and call to action to increase your click through rate. In this article you will learn how to create a simple custom Patreon link]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Arch Linux Handbook]]></title>
-        <id>61cadc1f755c16082490bd7a</id>
-        <link href="https://www.freecodecamp.org/news/how-to-install-arch-linux/"/>
-        <updated>2022-01-18T15:15:23.000Z</updated>
-        <summary type="html"><![CDATA[If you ask a group of developers what Linux is, most of them will probably say it's an open-source operating system. Those with more technical knowledge will probably call it a kernel. For me, though, Linux is not just an operating system or a kernel. For me, it's freedom. The]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Making a Site Work Offline Using the VitePWA Plugin]]></title>
-        <id>https://css-tricks.com/?p=361001</id>
-        <link href="https://css-tricks.com/vitepwa-plugin-offline-service-worker/"/>
-        <updated>2022-01-18T14:30:26.000Z</updated>
-        <summary type="html"><![CDATA[The VitePWA plugin from Anthony Fu is a fantastic tool for your Vite-powered sites. It helps you add a service worker that handles:
-offline support
-caching assets and content
-prompting the user when new content is available
-…and other goodies!
-…
-Making a Site Work Offline Using the VitePWA Plugin originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
-        <author>
-            <name>Adam Rackis</name>
         </author>
     </entry>
 </feed>
