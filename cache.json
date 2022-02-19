@@ -82,6 +82,26 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=363467",
+          "author": "Hugh Haworth",
+          "description": "Being able to understand Node continues to be an important skill if you’re a front-end developer. Deno has arrived as another way to run JavaScript outside the browser, but the huge ecosystem of tools and software built with Node mean …\nComparing Node JavaScript to JavaScript in the Browser originally published on CSS-Tricks. You should get the newsletter.",
+          "link": "https://css-tricks.com/node-javascript-compared-to-javascript/",
+          "publishedOn": "2022-02-18T19:01:08.000Z",
+          "wordCount": 3703,
+          "title": "Comparing Node JavaScript to JavaScript in the Browser",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363467"
+        },
+        {
+          "id": "https://css-tricks.com/?p=363911",
+          "author": "Chris Coyier",
+          "description": "I linked to Jay’s front-end predictions last year and I think they panned out pretty well. I think he’s got a bit of a knack for that wide-scope look at front-end, including tooling and architecture, as well as browser tech. …\n(Jay Freestone’s) Front-End Predictions for 2022 originally published on CSS-Tricks. You should get the newsletter.",
+          "link": "https://css-tricks.com/jay-freestone-front-end-predictions-for-2022/",
+          "publishedOn": "2022-02-18T15:34:39.000Z",
+          "wordCount": 1060,
+          "title": "(Jay Freestone’s) Front-End Predictions for 2022",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363911"
+        },
+        {
           "id": "https://css-tricks.com/?p=363179",
           "author": "Adam Rackis",
           "description": "Font Awesome is an incredibly popular icon library. Unfortunately, it’s somewhat easy to use in a way that results in less-than-ideal performance. By subsetting Font Awesome, we can remove any unused glyphs from the font files it provides. This will …\nSubsetting Font Awesome to Improve Performance originally published on CSS-Tricks. You should get the newsletter.",
@@ -90,6 +110,16 @@
           "wordCount": 2089,
           "title": "Subsetting Font Awesome to Improve Performance",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363179"
+        },
+        {
+          "id": "https://css-tricks.com/?p=363872",
+          "author": "Chris Coyier",
+          "description": "(This is a sponsored post.)\nFirst things first, if you didn’t know Netlify had a CLI, they do.  One of my favorite things about it running the command netlify dev on nearly any static-site generator project is seeing it …\nTop Things You Didn’t Know You Could Do With Netlify CLI￼ originally published on CSS-Tricks. You should get the newsletter.",
+          "link": "https://css-tricks.com/top-things-you-didnt-know-you-could-do-with-netlify-cli/",
+          "publishedOn": "2022-02-17T13:00:00.000Z",
+          "wordCount": 771,
+          "title": "Top Things You Didn’t Know You Could Do With Netlify CLI￼",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363872"
         },
         {
           "id": "https://css-tricks.com/?p=363861",
@@ -556,24 +586,6 @@
           "publishedOn": "2022-01-20T15:03:35.000Z",
           "wordCount": 2894,
           "title": "How the Heck Do You Install an Existing npm Project?"
-        },
-        {
-          "id": "https://css-tricks.com/?p=360899",
-          "author": "Preethi",
-          "description": "There’s a serene warmth to the early evening sunlight peaking through rustling leaves. Artists use dappled light to create a soft, hypnotic effect.\nBedford Dwellings by Ron Donoughe (2013)\nWe can create the same sort of dappled light effect in …\nA Serene CSS Dappled Light Effect originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
-          "link": "https://css-tricks.com/css-dappled-light-effect/",
-          "publishedOn": "2022-01-19T22:46:39.000Z",
-          "wordCount": 1612,
-          "title": "A Serene CSS Dappled Light Effect"
-        },
-        {
-          "id": "https://css-tricks.com/?p=359857",
-          "author": "Chris Coyier",
-          "description": "What's new in CSS? If someone asked you that, who knows CSS but hasn't stayed up to date the last, say, half a decade or more, what advice would you give?\nWhat should someone learn about CSS if they last boned up during CSS3? originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
-          "link": "https://css-tricks.com/whats-new-since-css3/",
-          "publishedOn": "2022-01-19T14:25:31.000Z",
-          "wordCount": 2128,
-          "title": "What should someone learn about CSS if they last boned up during CSS3?"
         }
       ]
     },
@@ -582,6 +594,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2022/02/thoughts-on-markdown/",
+          "author": "hello@smashingmagazine.com (Knut Melvær)",
+          "description": "Markdown in all its flavors, interpretations, and forks won’t go away. However, it’s important to look at emerging content formats that try to encompass modern needs. In this article, Knut shares his advice against Markdown by looking back on why it was introduced in the first place, and by going through some of the major developments of content on the web.",
+          "link": "https://smashingmagazine.com/2022/02/thoughts-on-markdown/",
+          "publishedOn": "2022-02-18T10:30:00.000Z",
+          "wordCount": 6649,
+          "title": "Thoughts On Markdown",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/cddeff5f-3d06-4d4f-9f90-b5e55761bb12/thoughts-on-markdown.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/cddeff5f-3d06-4d4f-9f90-b5e55761bb12/thoughts-on-markdown.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2022/02/inspiring-websites-tools/",
           "author": "hello@smashingmagazine.com (Cosima Mielke)",
@@ -844,6 +871,66 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "620fb6a621bfb3068cf2a92a",
+          "author": "Reed Barger",
+          "description": "Managing state in your React apps isn’t as simple as using useState or useReducer. Not only are there are a lot of different kinds of state, but there often dozens of ways of managing each kind. Which should you choose? In this guide, we will uncover the several kinds of",
+          "link": "https://www.freecodecamp.org/news/how-to-manage-state-in-your-react-apps/",
+          "publishedOn": "2022-02-18T20:55:31.000Z",
+          "wordCount": 2227,
+          "title": "How to Manage State in Your React Apps",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/02/how-to-manage-state-react.png"
+        },
+        {
+          "id": "620ea69721bfb3068cf2a59b",
+          "author": "Zaira Hira",
+          "description": "A dictionary is a very powerful data collection in Python. Dictionaries help make database operations faster.  You can append items to an existing dictionary and remove them as well. In this blog post, we will learn how to delete \"keys\" using two methods:  1. Deleting key:value pairs using",
+          "link": "https://www.freecodecamp.org/news/how-to-remove-a-key-from-a-python-dictionary-delete-key-from-dict/",
+          "publishedOn": "2022-02-18T20:32:40.000Z",
+          "wordCount": 846,
+          "title": "How to Remove a Key from a Python Dictionary – Delete Key from Dict",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/02/remove-key-val.png"
+        },
+        {
+          "id": "620f5f5e21bfb3068cf2a6d8",
+          "author": "Md. Fahim Bin Amin",
+          "description": "Before trying to run any Python program in your Windows operating system, you'll need to check if you have Python installed and added to the environment's path variable correctly. In this article, I will show you how you can check whether you have Python installed successfully in your operating system",
+          "link": "https://www.freecodecamp.org/news/how-to-install-python-in-windows-operating-system/",
+          "publishedOn": "2022-02-18T16:14:23.000Z",
+          "wordCount": 1174,
+          "title": "How to Install Python on Windows",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/02/Artboard-1-1.jpg"
+        },
+        {
+          "id": "620ecdf421bfb3068cf2a603",
+          "author": "Ihechikara Vincent Abba",
+          "description": "Sometimes you might turn on your PC but your monitor displays \"No Signal\" on the screen. In this article, we will look at various solutions for solving this problem. How to Fix a Monitor Connection by Checking Hardware Connections  * Check to see if the VGA connector fits in",
+          "link": "https://www.freecodecamp.org/news/vga-no-signal-how-to-fix-a-monitor-connection-on-windows-10-pc/",
+          "publishedOn": "2022-02-18T16:02:36.000Z",
+          "wordCount": 650,
+          "title": "VGA No Signal – How to Fix a Monitor Connection on Windows 10 PC",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/02/vga-no-signal.png"
+        },
+        {
+          "id": "620d6f0321bfb3068cf29c08",
+          "author": "Marco Venturi",
+          "description": "When you manage websites, it is all about data: views, response time, users, bounce rate, and so on. And, if you manage websites, you've likely had to deal with a WordPress instance at least once.  There are hundreds – or maybe thousands – of WordPress plugins to retrieve and",
+          "link": "https://www.freecodecamp.org/news/build-a-custom-dashboard-with-wordpress-apis-and-react/",
+          "publishedOn": "2022-02-18T15:59:20.000Z",
+          "wordCount": 1592,
+          "title": "How to Build a Custom Dashboard with WordPress APIs and React",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/02/stephen-dawson-qwtCeJ5cLYs-unsplash.jpg"
+        },
+        {
+          "id": "620ed56e21bfb3068cf2a607",
+          "author": "Beau Carnes",
+          "description": "C++ has been one of the most popular programming languages for over 30 years. Developers use it for everything from building video games to coding operating systems. We just published a comprehensive 31-hour C++ course on the freeCodeCamp.org YouTube channel. Daniel Gakwaya developed this course. Daniel is an experienced software",
+          "link": "https://www.freecodecamp.org/news/learn-c-with-free-31-hour-course/",
+          "publishedOn": "2022-02-17T23:16:34.000Z",
+          "wordCount": 829,
+          "title": "Learn C++ Programming for Beginners – Free 31-Hour Course",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/02/cpp31.png"
+        },
         {
           "id": "6206b26756125b0677c646d3",
           "author": "Ihechikara Vincent Abba",
@@ -1870,60 +1957,6 @@
           "publishedOn": "2022-01-20T15:48:29.000Z",
           "wordCount": 7431,
           "title": "How to Define Cloud Infrastructure with the AWS Cloud Development Kit"
-        },
-        {
-          "id": "61e79b46183181284a191680",
-          "author": null,
-          "description": "A freeCodeCamp alum who founded his own successful Web3 company has donated $1M to freeCodeCampHe asked that we use some of these funds to develop a carbon-neutral Web3 curriculumWe are building an interactive Web3 curriculum where you can learn by building more than a dozen projects. This free curriculum will",
-          "link": "https://www.freecodecamp.org/news/carbon-neutral-web3-curriculum-plans/",
-          "publishedOn": "2022-01-19T21:23:18.000Z",
-          "wordCount": 859,
-          "title": "freeCodeCamp Just Got a Million Dollar Donation from an Alum to Build a Carbon-Neutral Web3 Curriculum"
-        },
-        {
-          "id": "61e78aca183181284a1914a0",
-          "author": null,
-          "description": "I am a freeCodeCamp alumnus. I learned to code on freeCodeCamp. I used these skills to build a profitable company. Today, this company – KaijuKingz – is donating $1 million to freeCodeCamp to help them create even more free learning resources. The freeCodeCamp community has helped me and thousands of other people",
-          "link": "https://www.freecodecamp.org/news/donating-a-million-dollars-to-freecodecamp-a-web3-curriculum/",
-          "publishedOn": "2022-01-19T21:23:10.000Z",
-          "wordCount": 1021,
-          "title": "Donating a Million Dollars to freeCodeCamp to Develop a Free, Carbon-Neutral Web3 Curriculum"
-        },
-        {
-          "id": "61e547e7b837d507ba0a4611",
-          "author": null,
-          "description": "Serverless Development has been around since the release of AWS Lambda in 2014, but in the last few years things have exploded.  Startups and smart tech companies have started taking advantage of the scalability, reliability, and power of serverless to rapidly grow – and now they need more serverless developers than",
-          "link": "https://www.freecodecamp.org/news/become-a-serverless-developer/",
-          "publishedOn": "2022-01-19T20:57:22.000Z",
-          "wordCount": 1968,
-          "title": "How to Become a Serverless Developer in 2022"
-        },
-        {
-          "id": "61e84fda183181284a191b17",
-          "author": null,
-          "description": "Kubernetes is an open-source container orchestration platform that automates the deployment, management, scaling, and networking of containers. It makes it simpler to deploy apps to production. We just published a Kubernetes course on the freeCodeCamp.org YouTube channel.  Bogdan Stashchuk developed this course. He is a popular DevOps instructor who",
-          "link": "https://www.freecodecamp.org/news/learn-kubernetes-and-start-containerizing-your-applications/",
-          "publishedOn": "2022-01-19T17:58:49.000Z",
-          "wordCount": 22713,
-          "title": "Learn Kubernetes and Start Containerizing Your Applications"
-        },
-        {
-          "id": "61e6d91ab6c2e011aa4ff1c1",
-          "author": null,
-          "description": "msvcp140.dll is a Microsoft C Dynamic Linked Library file responsible for running certain Windows apps and games – especially those built on C++.  Sometimes, when you're trying to open an app or game, you might get the error “the code execution cannot proceed because msvcp140.dll was not found”.  This",
-          "link": "https://www.freecodecamp.org/news/how-to-fix-the-code-execution-cannot-proceed-because-msvcp140-dll-was-not-found/",
-          "publishedOn": "2022-01-19T17:47:26.000Z",
-          "wordCount": 729,
-          "title": "The Code Execution Cannot Proceed Because msvcp140.dll Was Not Found – How to Fix on a Windows 10 PC"
-        },
-        {
-          "id": "61d1f0e7a7001508889342bf",
-          "author": null,
-          "description": "Filter components are useful on websites because they help users find the results they need quickly and easily.  This is especially true if your data comes from an API, since users cannot look through everything your app has to offer. In this article, we will be using dummy data that",
-          "link": "https://www.freecodecamp.org/news/how-to-make-a-filter-component-in-react/",
-          "publishedOn": "2022-01-19T16:48:00.000Z",
-          "wordCount": 1900,
-          "title": "How to Make a Filter Component in React"
         }
       ]
     }
