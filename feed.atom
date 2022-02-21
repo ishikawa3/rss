@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-02-20T00:08:46.184Z</updated>
+    <updated>2022-02-21T00:07:59.256Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
@@ -1917,58 +1917,6 @@ Why Don’t Developers Take Accessibility Seriously? originally published on CSS
         <summary type="html"><![CDATA[Cascade layers introduce the new at-rule of @layer. The intent is to help CSS authors be more intentional about ordering the “layers” of CSS rules as a new method of cascade management.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Stephanie Eckles)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Using SVG in WordPress (2 Helpful Plugin Recommendations)]]></title>
-        <id>https://css-tricks.com/?p=360346</id>
-        <link href="https://css-tricks.com/using-svg-in-wordpress/"/>
-        <updated>2022-01-21T19:35:31.000Z</updated>
-        <summary type="html"><![CDATA[SVG is a great image format, so it's nice to able to use it in WordPress. If you're looking to be using SVG in WordPress. , we've got you covered here with all the best options.
-Using SVG in WordPress (2 Helpful Plugin Recommendations) originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Make Event Sourcing in Java Easier]]></title>
-        <id>61e3bb40b837d507ba0a3f30</id>
-        <link href="https://www.freecodecamp.org/news/how-to-make-event-sourcing-in-java-easier/"/>
-        <updated>2022-01-21T16:23:36.000Z</updated>
-        <summary type="html"><![CDATA[Event sourcing is about persisting events instead of just the current state. Event sourcing can be helpful for auditing purposes, and to analyze or rebuild previous system states for business analysis. Let's look at it in a bit more detail: every time you make a change to the application state,]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An Administrator Has Blocked You From Running This App –  How to Fix on a Windows 10 PC]]></title>
-        <id>61ea53d4fa0e660c3ce47514</id>
-        <link href="https://www.freecodecamp.org/news/an-administrator-has-blocked-you-from-running-this-app-how-to-fix-on-a-windows-10-pc/"/>
-        <updated>2022-01-21T15:51:17.000Z</updated>
-        <summary type="html"><![CDATA[Sometimes when you decide to open an app or file or install or open a program on your Windows 10 PC, you might get the error "An administrator has blocked you from running this app".  You get this error because Windows 10 is optimized for protection against malware]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[From Chaos To System In Design Teams]]></title>
-        <id>https://smashingmagazine.com/2022/01/from-chaos-to-system-design-teams/</id>
-        <link href="https://smashingmagazine.com/2022/01/from-chaos-to-system-design-teams/"/>
-        <updated>2022-01-21T14:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Joining a team where there are no established design practices may feel disheartening. Does this situation resonate with you? If yes, then read on — as this article is sharing the author’s advice based on his personal experience and it will show you a way (although not easy) of facing the problem in a manner that will bring other benefits, beside order and consistency.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Javier Cuello)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Context-Aware Web Components Are Easier Than You Think]]></title>
-        <id>https://css-tricks.com/?p=360665</id>
-        <link href="https://css-tricks.com/context-aware-web-components/"/>
-        <updated>2022-01-21T14:08:05.000Z</updated>
-        <summary type="html"><![CDATA[Another aspect of web components that we haven’t talked about yet is that a JavaScript function is called whenever a web component is added or removed from a page. These lifecycle callbacks can be used for many things, including making …
-Context-Aware Web Components Are Easier Than You Think originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
-        <author>
-            <name>John Rhea</name>
         </author>
     </entry>
 </feed>
