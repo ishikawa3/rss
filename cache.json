@@ -82,6 +82,26 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=363937",
+          "author": "Chris Coyier",
+          "description": "Kinda silly sounding, isn’t it? CSS database queries. But, hey, CSS is capable of talking to other languages in the sense that it can set the values of things that they can read. Plus, CSS can request other files, and …\nCSS Database Queries? Sure We Can! originally published on CSS-Tricks. You should get the newsletter.",
+          "link": "https://css-tricks.com/css-database-queries/",
+          "publishedOn": "2022-02-23T20:04:39.000Z",
+          "wordCount": 671,
+          "title": "CSS Database Queries? Sure We Can!",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363937"
+        },
+        {
+          "id": "https://css-tricks.com/?p=363532",
+          "author": "Daniel Yuschick",
+          "description": "Let’s face it: building an AA or AAA-accessible product can be quite daunting. Luckily, having an accessible product isn’t all-or-nothing. Even seemingly small improvements can have nice quality of life benefits for many people.\nIn that spirit, here are five …\n5 Accessibility Quick Wins You Can Implement Today originally published on CSS-Tricks. You should get the newsletter.",
+          "link": "https://css-tricks.com/5-accessibility-quick-wins-you-can-implement-today/",
+          "publishedOn": "2022-02-23T15:15:33.000Z",
+          "wordCount": 1607,
+          "title": "5 Accessibility Quick Wins You Can Implement Today",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363532"
+        },
+        {
           "id": "https://css-tricks.com/?p=363998",
           "author": "Chris Coyier",
           "description": "That’s a damn one-two punch from Dave. He goes for the ultimate clickbait title¹, then follows up with a pile of epic advice for us all. If you want web browsers to get better, listen up:\nComplaining on \n…\nBefore I go: When it comes to complaining about web browsers originally published on CSS-Tricks. You should get the newsletter.",
@@ -508,15 +528,6 @@
           "publishedOn": "2022-01-25T14:14:11.000Z",
           "wordCount": 1594,
           "title": "How to Make a Scroll-Triggered Animation With Basic JavaScript"
-        },
-        {
-          "id": "https://css-tricks.com/?p=360811",
-          "author": "Melanie Sumner",
-          "description": "You know that joke, “Two front-end developers walk into a bar and find they have nothing in common”? It’s funny, yet frustrating, because it’s true.\nThis article will present three different perspectives on accessibility in web design and development. Three …\nWhy Don’t Developers Take Accessibility Seriously? originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
-          "link": "https://css-tricks.com/why-dont-developers-take-accessibility-seriously/",
-          "publishedOn": "2022-01-24T14:49:18.000Z",
-          "wordCount": 2781,
-          "title": "Why Don’t Developers Take Accessibility Seriously?"
         }
       ]
     },
@@ -525,6 +536,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2022/02/wordpress-editor-cpts-configure-plugins/",
+          "author": "hello@smashingmagazine.com (Leonardo Losoviz)",
+          "description": "If we want our WordPress plugins to offer a settings page that is fully powered by blocks, how can we do it? Since *Full Site Editing* doesn’t support this feature yet, we need to code a custom solution. In this article, we will learn how we can do it.",
+          "link": "https://smashingmagazine.com/2022/02/wordpress-editor-cpts-configure-plugins/",
+          "publishedOn": "2022-02-23T10:30:00.000Z",
+          "wordCount": 3483,
+          "title": "Using The WordPress Editor And CPTs To Configure Plugins",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/854c1fe6-8061-4a9f-bf59-75f81a732114/wordpress-editor-cpts-configure-plugins.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/854c1fe6-8061-4a9f-bf59-75f81a732114/wordpress-editor-cpts-configure-plugins.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2022/02/develop-text-editor-web/",
           "author": "hello@smashingmagazine.com (Ilya Medvedev)",
@@ -805,6 +831,16 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "621648e1c4d0d306772eeefc",
+          "author": "Beau Carnes",
+          "description": "NestJS is a framework for building efficient, scalable Node.js web applications. It is a complete development kit for building scalable server-side apps. We just published a full course on the freeCodeCamp.org YouTube channel that will teach you how to use NestJS by building a CRUD API. Vladimir Agaev developed this",
+          "link": "https://www.freecodecamp.org/news/learn-nestjs-by-building-a-crud-api/",
+          "publishedOn": "2022-02-23T14:53:04.000Z",
+          "wordCount": 511,
+          "title": "Learn NestJS by Building a CRUD API",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/02/nestjs.png"
+        },
         {
           "id": "62151953c4d0d306772ee3e2",
           "author": "Reed Barger",
@@ -1901,42 +1937,6 @@
           "publishedOn": "2022-01-25T17:10:50.000Z",
           "wordCount": 3262,
           "title": "How to Create a Portfolio Website Using HTML, CSS, JavaScript, and Bootstrap 5"
-        },
-        {
-          "id": "61e92726183181284a191e75",
-          "author": null,
-          "description": "Temporal Dead Zone and Hoisting are two essential terms in JavaScript. But understanding how they work can easily confuse you if you don't approach them properly. But don't fret! This article is here to help you get a good grasp of the two terms. So relax, grab your favorite cup",
-          "link": "https://www.freecodecamp.org/news/javascript-temporal-dead-zone-and-hoisting-explained/",
-          "publishedOn": "2022-01-24T23:10:03.000Z",
-          "wordCount": 1768,
-          "title": "Temporal Dead Zone (TDZ) and Hoisting in JavaScript – Explained with Examples"
-        },
-        {
-          "id": "61ebdebf011f8933034705af",
-          "author": null,
-          "description": "In this article you'll see how to use Python's .replace() method to perform substring substiution.  You'll also see how to perform case-insensitive substring substitution.  Let's get started!  What does the .replace() Python method do? When using the .replace() Python method, you are able to replace every instance of one specific",
-          "link": "https://www.freecodecamp.org/news/python-string-replace-function-in-python-for-substring-substitution/",
-          "publishedOn": "2022-01-24T16:59:25.000Z",
-          "wordCount": 1243,
-          "title": "Python String.Replace() – Function in Python for Substring Substitution"
-        },
-        {
-          "id": "61f01b62f2ed6b06db5a4e57",
-          "author": "Beau Carnes",
-          "description": "AutoCAD is a popular computer aided design software used to design and model in 2D and 3D. It is used by used by architects, engineers, designers, real estate developers, artists, and more. We just published a complete university AutoCAD course on the freeCodeCamp.org YouTube channel. Gediminas Kirdeikis developed this course.",
-          "link": "https://www.freecodecamp.org/news/learn-autocad-with-this-free-course/",
-          "publishedOn": "2022-01-24T16:58:00.000Z",
-          "wordCount": 447,
-          "title": "Learn AutoCAD with This Free Course"
-        },
-        {
-          "id": "61d543e4d2d9de084285c33d",
-          "author": null,
-          "description": "In this article, I'm going to show you 140 beginner friendly courses where you can learn computer science and programming for free. The freeCodeCamp courses are completely free and some of them include a free certification that you can add to your LinkedIn or résumé. Note that some of the",
-          "link": "https://www.freecodecamp.org/news/learn-programming-free-software-development-courses-for-beginners/",
-          "publishedOn": "2022-01-24T16:05:46.000Z",
-          "wordCount": 5128,
-          "title": "Learn Programming – Free Software Development Courses for Beginners"
         }
       ]
     }

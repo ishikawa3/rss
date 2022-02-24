@@ -2,10 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-02-23T00:08:28.365Z</updated>
+    <updated>2022-02-24T00:07:43.569Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CSS Database Queries? Sure We Can!]]></title>
+        <id>https://css-tricks.com/?p=363937</id>
+        <link href="https://css-tricks.com/css-database-queries/"/>
+        <updated>2022-02-23T20:04:39.000Z</updated>
+        <summary type="html"><![CDATA[Kinda silly sounding, isn’t it? CSS database queries. But, hey, CSS is capable of talking to other languages in the sense that it can set the values of things that they can read. Plus, CSS can request other files, and …
+CSS Database Queries? Sure We Can! originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5 Accessibility Quick Wins You Can Implement Today]]></title>
+        <id>https://css-tricks.com/?p=363532</id>
+        <link href="https://css-tricks.com/5-accessibility-quick-wins-you-can-implement-today/"/>
+        <updated>2022-02-23T15:15:33.000Z</updated>
+        <summary type="html"><![CDATA[Let’s face it: building an AA or AAA-accessible product can be quite daunting. Luckily, having an accessible product isn’t all-or-nothing. Even seemingly small improvements can have nice quality of life benefits for many people.
+In that spirit, here are five …
+5 Accessibility Quick Wins You Can Implement Today originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <author>
+            <name>Daniel Yuschick</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn NestJS by Building a CRUD API]]></title>
+        <id>621648e1c4d0d306772eeefc</id>
+        <link href="https://www.freecodecamp.org/news/learn-nestjs-by-building-a-crud-api/"/>
+        <updated>2022-02-23T14:53:04.000Z</updated>
+        <summary type="html"><![CDATA[NestJS is a framework for building efficient, scalable Node.js web applications. It is a complete development kit for building scalable server-side apps. We just published a full course on the freeCodeCamp.org YouTube channel that will teach you how to use NestJS by building a CRUD API. Vladimir Agaev developed this]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using The WordPress Editor And CPTs To Configure Plugins]]></title>
+        <id>https://smashingmagazine.com/2022/02/wordpress-editor-cpts-configure-plugins/</id>
+        <link href="https://smashingmagazine.com/2022/02/wordpress-editor-cpts-configure-plugins/"/>
+        <updated>2022-02-23T10:30:00.000Z</updated>
+        <summary type="html"><![CDATA[If we want our WordPress plugins to offer a settings page that is fully powered by blocks, how can we do it? Since *Full Site Editing* doesn’t support this feature yet, we need to code a custom solution. In this article, we will learn how we can do it.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Leonardo Losoviz)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What Backend Should You Use for React?]]></title>
         <id>62151953c4d0d306772ee3e2</id>
@@ -2020,58 +2063,6 @@ How to Make a Scroll-Triggered Animation With Basic JavaScript originally publis
         <summary type="html"><![CDATA[What’s new in Chrome, Edge, Safari and Firefox? Patrick Brosset breaks it down with the latest features in DevTools across browsers.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Patrick Brosset)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Temporal Dead Zone (TDZ) and Hoisting in JavaScript – Explained with Examples]]></title>
-        <id>61e92726183181284a191e75</id>
-        <link href="https://www.freecodecamp.org/news/javascript-temporal-dead-zone-and-hoisting-explained/"/>
-        <updated>2022-01-24T23:10:03.000Z</updated>
-        <summary type="html"><![CDATA[Temporal Dead Zone and Hoisting are two essential terms in JavaScript. But understanding how they work can easily confuse you if you don't approach them properly. But don't fret! This article is here to help you get a good grasp of the two terms. So relax, grab your favorite cup]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python String.Replace() – Function in Python for Substring Substitution]]></title>
-        <id>61ebdebf011f8933034705af</id>
-        <link href="https://www.freecodecamp.org/news/python-string-replace-function-in-python-for-substring-substitution/"/>
-        <updated>2022-01-24T16:59:25.000Z</updated>
-        <summary type="html"><![CDATA[In this article you'll see how to use Python's .replace() method to perform substring substiution.  You'll also see how to perform case-insensitive substring substitution.  Let's get started!  What does the .replace() Python method do? When using the .replace() Python method, you are able to replace every instance of one specific]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn AutoCAD with This Free Course]]></title>
-        <id>61f01b62f2ed6b06db5a4e57</id>
-        <link href="https://www.freecodecamp.org/news/learn-autocad-with-this-free-course/"/>
-        <updated>2022-01-24T16:58:00.000Z</updated>
-        <summary type="html"><![CDATA[AutoCAD is a popular computer aided design software used to design and model in 2D and 3D. It is used by used by architects, engineers, designers, real estate developers, artists, and more. We just published a complete university AutoCAD course on the freeCodeCamp.org YouTube channel. Gediminas Kirdeikis developed this course.]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn Programming – Free Software Development Courses for Beginners]]></title>
-        <id>61d543e4d2d9de084285c33d</id>
-        <link href="https://www.freecodecamp.org/news/learn-programming-free-software-development-courses-for-beginners/"/>
-        <updated>2022-01-24T16:05:46.000Z</updated>
-        <summary type="html"><![CDATA[In this article, I'm going to show you 140 beginner friendly courses where you can learn computer science and programming for free. The freeCodeCamp courses are completely free and some of them include a free certification that you can add to your LinkedIn or résumé. Note that some of the]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Don’t Developers Take Accessibility Seriously?]]></title>
-        <id>https://css-tricks.com/?p=360811</id>
-        <link href="https://css-tricks.com/why-dont-developers-take-accessibility-seriously/"/>
-        <updated>2022-01-24T14:49:18.000Z</updated>
-        <summary type="html"><![CDATA[You know that joke, “Two front-end developers walk into a bar and find they have nothing in common”? It’s funny, yet frustrating, because it’s true.
-This article will present three different perspectives on accessibility in web design and development. Three …
-Why Don’t Developers Take Accessibility Seriously? originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
-        <author>
-            <name>Melanie Sumner</name>
         </author>
     </entry>
 </feed>
