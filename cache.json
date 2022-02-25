@@ -82,6 +82,36 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=364138",
+          "author": "Chris Coyier",
+          "description": "Nic Chan:\n[…] the will-change property landed in major browsers in August 2015, and I’ve been on the lookout for when to use it ever since. It might seem self-evident to apply it to commonly animated properties such \n…\nMy white whale: A use case for will-change originally published on CSS-Tricks. You should get the newsletter.",
+          "link": "https://css-tricks.com/my-white-whale-a-use-case-for-will-change/",
+          "publishedOn": "2022-02-24T20:59:29.000Z",
+          "wordCount": 575,
+          "title": "My white whale: A use case for will-change",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/364138"
+        },
+        {
+          "id": "https://css-tricks.com/?p=363553",
+          "author": "Anand Chowdhary",
+          "description": "For the past few weeks, I’ve been hiring for a senior full-stack JavaScript engineer at my rental furniture company, Pabio. Since we’re a remote team, we conduct our interviews on Zoom, and I’ve observed that some developers are not …\nExplain the First 10 Lines of Twitter’s Source Code to Me originally published on CSS-Tricks. You should get the newsletter.",
+          "link": "https://css-tricks.com/explain-the-first-10-lines-of-twitter-source-code/",
+          "publishedOn": "2022-02-24T15:31:55.000Z",
+          "wordCount": 2539,
+          "title": "Explain the First 10 Lines of Twitter’s Source Code to Me",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363553"
+        },
+        {
+          "id": "https://css-tricks.com/?p=363526",
+          "author": "ImageEngine",
+          "description": "(This is a sponsored post.)\nIn recent years, the Jamstack methodology for building websites has become increasingly popular. Performance, scalable, and secure, it’s easy to see why it’s becoming an attractive way to build websites for developers.\nGatsbyJS is …\nSuperior Image Optimization: An Ideal Solution Using Gatsby & ImageEngine originally published on CSS-Tricks. You should get the newsletter.",
+          "link": "https://css-tricks.com/superior-image-optimization-an-ideal-solution-using-gatsby-imageengine/",
+          "publishedOn": "2022-02-24T15:31:49.000Z",
+          "wordCount": 2808,
+          "title": "Superior Image Optimization: An Ideal Solution Using Gatsby & ImageEngine",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363526"
+        },
+        {
           "id": "https://css-tricks.com/?p=363937",
           "author": "Chris Coyier",
           "description": "Kinda silly sounding, isn’t it? CSS database queries. But, hey, CSS is capable of talking to other languages in the sense that it can set the values of things that they can read. Plus, CSS can request other files, and …\nCSS Database Queries? Sure We Can! originally published on CSS-Tricks. You should get the newsletter.",
@@ -510,24 +540,6 @@
           "publishedOn": "2022-01-26T14:26:49.000Z",
           "wordCount": 2537,
           "title": "Fancy CSS Borders Using Masks"
-        },
-        {
-          "id": "https://css-tricks.com/?p=362044",
-          "author": "Chris Coyier",
-          "description": "Say you’ve got a <Card /> component. It’s highly likely it shouldn’t be butted right up against any other components with no spacing around it. That’s true for… pretty much every component. So, how do you handle component spacing in …\nHow Do You Handle Component Spacing in a Design System? originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
-          "link": "https://css-tricks.com/component-spacing-design-system/",
-          "publishedOn": "2022-01-25T23:10:20.000Z",
-          "wordCount": 803,
-          "title": "How Do You Handle Component Spacing in a Design System?"
-        },
-        {
-          "id": "https://css-tricks.com/?p=360550",
-          "author": "Md Shuvo",
-          "description": "A little bit of animation on a site can add some flair, impress users, and get their attention. You could have them run, no matter where they are on the page, immediately when the page loads. But what if your …\nHow to Make a Scroll-Triggered Animation With Basic JavaScript originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
-          "link": "https://css-tricks.com/scroll-triggered-animation-vanilla-javascript/",
-          "publishedOn": "2022-01-25T14:14:11.000Z",
-          "wordCount": 1594,
-          "title": "How to Make a Scroll-Triggered Animation With Basic JavaScript"
         }
       ]
     },
@@ -536,6 +548,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2022/02/benchmark-improve-web-vitals-real-user-metrics/",
+          "author": "hello@smashingmagazine.com (Átila Fassina)",
+          "description": "Web Vitals are the new gold standard in performance due to their direct correlation with the user’s experience. In this article, you’ll learn what monitoring can do and how RayGun can help you sustain performance maintenance while scaling your app.",
+          "link": "https://smashingmagazine.com/2022/02/benchmark-improve-web-vitals-real-user-metrics/",
+          "publishedOn": "2022-02-24T09:30:00.000Z",
+          "wordCount": 1714,
+          "title": "How To Benchmark And Improve Web Vitals With Real User Metrics",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/4ed9b745-ad2b-425c-8ffc-d73feeea7cd7/benchmark-improve-web-vitals-real-user-metrics.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/4ed9b745-ad2b-425c-8ffc-d73feeea7cd7/benchmark-improve-web-vitals-real-user-metrics.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2022/02/wordpress-editor-cpts-configure-plugins/",
           "author": "hello@smashingmagazine.com (Leonardo Losoviz)",
@@ -795,34 +822,6 @@
             "length": "0",
             "type": "image/jpg"
           }
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/01/software-administration-ux/",
-          "author": "hello@smashingmagazine.com (Shell Zhu & Adrian Jones)",
-          "description": "This article reveals how something as trivial as administration in both software and As-a-service can be either a booster or bottleneck to a company’s productivity and innovation. It also provides several design aspects that UX practitioners should evaluate when designing the administration experience.",
-          "link": "https://smashingmagazine.com/2022/01/software-administration-ux/",
-          "publishedOn": "2022-01-26T12:00:00.000Z",
-          "wordCount": 2588,
-          "title": "Don’t Underestimate The Software Administration UX",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a25c6bb8-7778-48e1-b2e8-04cfd46d0765/software-administration-ux.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/01/devtools-updates-2022/",
-          "author": "hello@smashingmagazine.com (Patrick Brosset)",
-          "description": "What’s new in Chrome, Edge, Safari and Firefox? Patrick Brosset breaks it down with the latest features in DevTools across browsers.",
-          "link": "https://smashingmagazine.com/2022/01/devtools-updates-2022/",
-          "publishedOn": "2022-01-25T13:00:00.000Z",
-          "wordCount": 2518,
-          "title": "What’s New In DevTools?",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e516aa85-3b77-418a-9b43-cec06943b129/devtools-updates-2022.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
         }
       ]
     },
@@ -831,6 +830,46 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "6213c94921bfb3068cf2c268",
+          "author": "Dionysia Lemonaki",
+          "description": "In this article you will learn how to find the index of an element contained in a list in the Python programming language. There are a few ways to achieve this, and in this article you will learn three of the different techniques used to find the index of a",
+          "link": "https://www.freecodecamp.org/news/python-find-in-list-how-to-find-the-index-of-an-item-or-element-in-a-list/",
+          "publishedOn": "2022-02-24T20:38:46.000Z",
+          "wordCount": 2285,
+          "title": "Python Find in List – How to Find the Index of an Item or Element in a List",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/02/pexels-mateusz-dach-450035.jpg"
+        },
+        {
+          "id": "620c980321bfb3068cf29395",
+          "author": "Kolade Chris",
+          "description": "In programming languages, getting the length of a particular data type is a common practice. Python is no different because you can use the built-in len() function to get the length of a string, tuple, list, dictionary, or any other data type. In this article, I'm going to show you",
+          "link": "https://www.freecodecamp.org/news/what-is-len-in-python-how-to-use-the-len-function-to-find-the-length-of-a-string/",
+          "publishedOn": "2022-02-24T18:35:06.000Z",
+          "wordCount": 647,
+          "title": "What is len() in Python? How to Use the len() Function to Find the Length of a String",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/02/leninpython.png"
+        },
+        {
+          "id": "62179b03c4d0d306772ef2f8",
+          "author": "Beau Carnes",
+          "description": "Flutter is an open-source UI software development kit used to create cross-platform applications for iOS, Android, Windows, Mac, and more. We just published a 37-hour Flutter course for beginners on the freeCodeCamp.org YouTube channel. Vandad Nahavandipoor developed this course. Vlandad is a Google Developer Expert and Lead iOS Developer. Flutter",
+          "link": "https://www.freecodecamp.org/news/learn-flutter-full-course/",
+          "publishedOn": "2022-02-24T14:59:00.000Z",
+          "wordCount": 678,
+          "title": "Flutter Course for Beginners – 37-hour Android App Development Tutorial",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/02/flutter37.png"
+        },
+        {
+          "id": "62164addc4d0d306772eef3e",
+          "author": "Beau Carnes",
+          "description": "Linux is an open source, free operating system which is used by computers all over the world. It is especially popular for use in servers. We just published a Linux crash course on the freeCodeCamp.org YouTube channel that will teach you the basics of this open source operating system. Josh",
+          "link": "https://www.freecodecamp.org/news/learn-the-basics-of-the-linux-operating-system/",
+          "publishedOn": "2022-02-24T13:48:00.000Z",
+          "wordCount": 470,
+          "title": "Learn the Basics of the Linux Operating System",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/02/linux.png"
+        },
         {
           "id": "621648e1c4d0d306772eeefc",
           "author": "Beau Carnes",
@@ -1901,42 +1940,6 @@
           "publishedOn": "2022-01-26T14:54:43.000Z",
           "wordCount": 1752,
           "title": "How We Got 4.5K+ GitHub Stars on Our Open Source Project in 6 Months"
-        },
-        {
-          "id": "61e88961183181284a191dac",
-          "author": "Ihechikara Vincent Abba",
-          "description": "Making your Windows taskbar transparent is a pretty cool thing to do. It looks great, and it's one of the few ways you can personalize your taskbar. Some resources about this topic require you to install different software to accomplish it. But in this tutorial we'll see how to make",
-          "link": "https://www.freecodecamp.org/news/transparent-taskbar-how-to-make-a-task-bar-transparent-in-windows-10-pc-2/",
-          "publishedOn": "2022-01-26T00:11:44.000Z",
-          "wordCount": 776,
-          "title": "Transparent Taskbar – How to Make a Task Bar Transparent in Windows 10 PC"
-        },
-        {
-          "id": "61eebd80f2ed6b06db5a37e5",
-          "author": "Kolade Chris",
-          "description": "If you're a Windows user, you've probably had your PC randomly shut down. This can be frustrating and negatively impact your productivity as it interrupts important tasks and activities. This random shutdown might be caused by software or hardware issues, or both on some occasions. I have researched 4 ways",
-          "link": "https://www.freecodecamp.org/news/pc-randomly-turns-off-how-to-fix-windows-computer-shutting-down/",
-          "publishedOn": "2022-01-25T21:30:59.000Z",
-          "wordCount": 1145,
-          "title": "PC Randomly Turns Off – How to Fix Windows Computer Shutting Down"
-        },
-        {
-          "id": "61f050d6f2ed6b06db5a5228",
-          "author": "Beau Carnes",
-          "description": "React is one of the most popular front-end JavaScript libraries for building user interfaces. Using TypeScript for your React projects can lead to a more robust codebase with less errors. We just published a full course on the freeCodeCamp.org YouTube channel that will teach you how to use React with",
-          "link": "https://www.freecodecamp.org/news/how-to-code-your-react-app-with-typescript/",
-          "publishedOn": "2022-01-25T19:46:29.000Z",
-          "wordCount": 565,
-          "title": "How to Code Your React App with TypeScript"
-        },
-        {
-          "id": "61e776e0183181284a19149b",
-          "author": "Sampurna Chapagain",
-          "description": "If you are a web developer or a web designer, it is essential for you to have a portfolio website. It lets you provide information about yourself and showcase your best work with your relevant skills and experience. In this blog post, I will discuss some of the benefits of",
-          "link": "https://www.freecodecamp.org/news/how-to-create-a-portfolio-website-using-html-css-javascript-and-bootstrap/",
-          "publishedOn": "2022-01-25T17:10:50.000Z",
-          "wordCount": 3262,
-          "title": "How to Create a Portfolio Website Using HTML, CSS, JavaScript, and Bootstrap 5"
         }
       ]
     }
