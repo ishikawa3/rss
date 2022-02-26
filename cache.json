@@ -82,6 +82,36 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=364070",
+          "author": "Chris Coyier",
+          "description": "A fun deep dive from Zach. Do you have an opinion on which you should use?\n1) https://website.com/foo/\n2) https://websites.com/foo\nThe first option has a “trailing slash.” The second does not.\nI’ve always preferred this thinking: you use a trailing …\nTrailing Slashes on URLs: Contentious or Settled? originally published on CSS-Tricks. You should get the newsletter.",
+          "link": "https://css-tricks.com/trailing-slashes-on-urls-contentious-or-settled/",
+          "publishedOn": "2022-02-25T21:13:08.000Z",
+          "wordCount": 654,
+          "title": "Trailing Slashes on URLs: Contentious or Settled?",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/364070"
+        },
+        {
+          "id": "https://css-tricks.com/?p=363619",
+          "author": "Šime Vidas",
+          "description": "In my recent article about CSS underline bugs in Chrome, I discussed text-decoration-thickness and text-underline-offset, two relatively new and widely-supported CSS properties that give us more control over the styling of underlines.\nLet me demonstrate the usefulness of …\nWhen to Avoid the text-decoration Shorthand Property originally published on CSS-Tricks. You should get the newsletter.",
+          "link": "https://css-tricks.com/when-to-avoid-css-text-decoration-shorthand/",
+          "publishedOn": "2022-02-25T15:28:33.000Z",
+          "wordCount": 1254,
+          "title": "When to Avoid the text-decoration Shorthand Property",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363619"
+        },
+        {
+          "id": "https://css-tricks.com/?p=364152",
+          "author": "Chris Coyier",
+          "description": "If you’re looking for a primer on CSS specificity, we’ve got that. And if you’re trying to get ahead of the game, you should be aware of CSS Cascade Layers as well.\nOne of the ways to help get …\nManuel Matuzovic’s CSS Specificity Demo originally published on CSS-Tricks. You should get the newsletter.",
+          "link": "https://css-tricks.com/manuel-matuzovics-css-specificity-demo/",
+          "publishedOn": "2022-02-25T15:27:19.000Z",
+          "wordCount": 534,
+          "title": "Manuel Matuzovic’s CSS Specificity Demo",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/364152"
+        },
+        {
           "id": "https://css-tricks.com/?p=364138",
           "author": "Chris Coyier",
           "description": "Nic Chan:\n[…] the will-change property landed in major browsers in August 2015, and I’ve been on the lookout for when to use it ever since. It might seem self-evident to apply it to commonly animated properties such \n…\nMy white whale: A use case for will-change originally published on CSS-Tricks. You should get the newsletter.",
@@ -522,24 +552,6 @@
           "publishedOn": "2022-01-27T15:18:25.000Z",
           "wordCount": 1287,
           "title": "Build, Ship, & Maintain Design Systems with Backlight"
-        },
-        {
-          "id": "https://css-tricks.com/?p=361200",
-          "author": "Chris Coyier",
-          "description": "Say you have three HTML classes, and a DOM element should only have one of them at a time:\n<div class=\"state-1\"</div<div class=\"state-2\"</div<div class=\"state-3\"</div\nNow your job is to rotate them. That is, cycle through classes …\nHow to Cycle Through Classes on an HTML Element originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
-          "link": "https://css-tricks.com/cycle-through-classes-html-element/",
-          "publishedOn": "2022-01-26T19:48:49.000Z",
-          "wordCount": 1548,
-          "title": "How to Cycle Through Classes on an HTML Element"
-        },
-        {
-          "id": "https://css-tricks.com/?p=362018",
-          "author": "Temani Afif",
-          "description": "Have you ever tried to make CSS borders in a repeating zig-zag pattern? Like where a colored section of a website ends and another differently colored section begins — not with a straight line, but angled zig zags, rounded humps, …\nFancy CSS Borders Using Masks originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
-          "link": "https://css-tricks.com/css-borders-using-masks/",
-          "publishedOn": "2022-01-26T14:26:49.000Z",
-          "wordCount": 2537,
-          "title": "Fancy CSS Borders Using Masks"
         }
       ]
     },
@@ -830,6 +842,16 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "6217ea59c4d0d306772ef522",
+          "author": "Temani Afif",
+          "description": "It's always cool to have a fancy section divider on your website. And it's even better if we can make them responsive and easy to adjust. This is what you will learn in this article. We will explore different section dividers made using only CSS and some optimized code that's",
+          "link": "https://www.freecodecamp.org/news/section-divider-using-css/",
+          "publishedOn": "2022-02-25T21:46:23.000Z",
+          "wordCount": 1748,
+          "title": "How to Create a Section Divider Using CSS",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/02/section-divider.png"
+        },
         {
           "id": "6213c94921bfb3068cf2c268",
           "author": "Dionysia Lemonaki",
@@ -1868,78 +1890,6 @@
           "publishedOn": "2022-01-27T17:47:36.000Z",
           "wordCount": 6783,
           "title": "Learn TypeScript – The Ultimate Beginners Guide"
-        },
-        {
-          "id": "61f03606f2ed6b06db5a5067",
-          "author": "Idris Olubisi",
-          "description": "Serverless databases are all the rage these days. They allow you to develop a fully functional app without building a server or writing server code. A serverless database is a cloud computing solution that lets you distribute and flexibly manage your resources. In this tutorial, we'll build a full-stack application",
-          "link": "https://www.freecodecamp.org/news/how-to-build-a-full-stack-application-with-tailwind-css-and-supabase-in-nextjs/",
-          "publishedOn": "2022-01-26T23:03:34.000Z",
-          "wordCount": 2564,
-          "title": "How to Build a Full Stack Application With Supabase, React, and Tailwind CSS in Nextjs"
-        },
-        {
-          "id": "61ee3dc2011f8933034719ea",
-          "author": "Camila Ramos Garzon",
-          "description": "In this article, we'll be discussing the get, put, and post HTTP methods. You'll learn what each HTTP method is used for as well as why we use them.  In order to get a deep understanding of how HTTP methods work, I'll also go over key context and background",
-          "link": "https://www.freecodecamp.org/news/http-request-methods-explained/",
-          "publishedOn": "2022-01-26T21:36:54.000Z",
-          "wordCount": 2959,
-          "title": "HTTP Request Methods – Get vs Put vs Post Explained with Code Examples"
-        },
-        {
-          "id": "61ebe09f011f8933034705df",
-          "author": "Ogundiran Ayobami",
-          "description": "In this tutorial we will build a YouTube clone step by step. You'll learn how to create layouts and add content to those layouts. If you have been struggling to build a real website with HTML & CSS, this is the article for you. Because I am about to teach",
-          "link": "https://www.freecodecamp.org/news/how-to-build-a-website-with-html-and-css-step-by-step/",
-          "publishedOn": "2022-01-26T21:32:57.000Z",
-          "wordCount": 3293,
-          "title": "HTML and CSS Project – How to Build A YouTube Clone Step by Step"
-        },
-        {
-          "id": "61d55c59d2d9de084285c367",
-          "author": "Ihechikara Vincent Abba",
-          "description": "In this tutorial, you will learn what a binary search tree is, what parts make up a tree, and some of the common terms we use when describing parts of a tree.  We will also see how to traverse a tree using some of the common algorithms – all",
-          "link": "https://www.freecodecamp.org/news/binary-search-tree-traversal-inorder-preorder-post-order-for-bst/",
-          "publishedOn": "2022-01-26T20:01:40.000Z",
-          "wordCount": 1084,
-          "title": "Binary Search Tree Traversal – Inorder, Preorder, Post Order for BST"
-        },
-        {
-          "id": "61eb23e4011f893303470169",
-          "author": "Allan Campopiano",
-          "description": "In your native tongue, you are not aware of the translation between thought and speech. You think about what you want to say and say it. The pathway from thought to speech feels direct – it's an instantaneous, 1:1 mapping. When it comes to data visualization, however, there are often",
-          "link": "https://www.freecodecamp.org/news/data-viz-from-thought-to-chart/",
-          "publishedOn": "2022-01-26T19:57:11.000Z",
-          "wordCount": 1768,
-          "title": "How to Think Less About Data Visualization"
-        },
-        {
-          "id": "61f194d5f2ed6b06db5a5c3f",
-          "author": "Beau Carnes",
-          "description": "An important use for computer vision and deep learning is self driving cars. Perception and Computer Vision forms about 80% of the work that Self Driving Cars do to drive around. If you want to improve your deep learning skills, this is a great topic to learn about. We just",
-          "link": "https://www.freecodecamp.org/news/perception-for-self-driving-cars-deep-learning-course/",
-          "publishedOn": "2022-01-26T18:45:34.000Z",
-          "wordCount": 498,
-          "title": "Perception for Self-Driving Cars — Free Deep Learning Course"
-        },
-        {
-          "id": "61f10c21f2ed6b06db5a5942",
-          "author": "Kolade Chris",
-          "description": "You can use the HTML <hr> tag to separate out different topics on a page. We often use this tag when we want to create a thematic break or separate items on an HTML page. In this article, you'll learn how to use this tag in your HTML code. Table",
-          "link": "https://www.freecodecamp.org/news/html-horizontal-line-hr-tag-example/",
-          "publishedOn": "2022-01-26T18:36:53.000Z",
-          "wordCount": 748,
-          "title": "HTML Horizontal Line – HR Tag Example"
-        },
-        {
-          "id": "61e9575c183181284a1922c4",
-          "author": "navaneeth pk",
-          "description": "We launched our open source project [https://github.com/ToolJet/ToolJet] in June 2021, and since then we've gotten more than 4500 stars for our repository.  Here are the strategies that worked for us. This is not an article about how to just get more stars for your repository. The article instead explains",
-          "link": "https://www.freecodecamp.org/news/how-to-get-more-engagement-with-your-open-source-project/",
-          "publishedOn": "2022-01-26T14:54:43.000Z",
-          "wordCount": 1752,
-          "title": "How We Got 4.5K+ GitHub Stars on Our Open Source Project in 6 Months"
         }
       ]
     }

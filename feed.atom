@@ -2,10 +2,59 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-02-25T00:08:06.326Z</updated>
+    <updated>2022-02-26T00:07:43.450Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Create a Section Divider Using CSS]]></title>
+        <id>6217ea59c4d0d306772ef522</id>
+        <link href="https://www.freecodecamp.org/news/section-divider-using-css/"/>
+        <updated>2022-02-25T21:46:23.000Z</updated>
+        <summary type="html"><![CDATA[It's always cool to have a fancy section divider on your website. And it's even better if we can make them responsive and easy to adjust. This is what you will learn in this article. We will explore different section dividers made using only CSS and some optimized code that's]]></summary>
+        <author>
+            <name>Temani Afif</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Trailing Slashes on URLs: Contentious or Settled?]]></title>
+        <id>https://css-tricks.com/?p=364070</id>
+        <link href="https://css-tricks.com/trailing-slashes-on-urls-contentious-or-settled/"/>
+        <updated>2022-02-25T21:13:08.000Z</updated>
+        <summary type="html"><![CDATA[A fun deep dive from Zach. Do you have an opinion on which you should use?
+1) https://website.com/foo/
+2) https://websites.com/foo
+The first option has a “trailing slash.” The second does not.
+I’ve always preferred this thinking: you use a trailing …
+Trailing Slashes on URLs: Contentious or Settled? originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[When to Avoid the text-decoration Shorthand Property]]></title>
+        <id>https://css-tricks.com/?p=363619</id>
+        <link href="https://css-tricks.com/when-to-avoid-css-text-decoration-shorthand/"/>
+        <updated>2022-02-25T15:28:33.000Z</updated>
+        <summary type="html"><![CDATA[In my recent article about CSS underline bugs in Chrome, I discussed text-decoration-thickness and text-underline-offset, two relatively new and widely-supported CSS properties that give us more control over the styling of underlines.
+Let me demonstrate the usefulness of …
+When to Avoid the text-decoration Shorthand Property originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <author>
+            <name>Šime Vidas</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Manuel Matuzovic’s CSS Specificity Demo]]></title>
+        <id>https://css-tricks.com/?p=364152</id>
+        <link href="https://css-tricks.com/manuel-matuzovics-css-specificity-demo/"/>
+        <updated>2022-02-25T15:27:19.000Z</updated>
+        <summary type="html"><![CDATA[If you’re looking for a primer on CSS specificity, we’ve got that. And if you’re trying to get ahead of the game, you should be aware of CSS Cascade Layers as well.
+One of the ways to help get …
+Manuel Matuzovic’s CSS Specificity Demo originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[My white whale: A use case for will-change]]></title>
         <id>https://css-tricks.com/?p=364138</id>
@@ -1964,110 +2013,6 @@ Design systems are an entire job these days. Agencies are hired to create them. 
 Build, Ship, & Maintain Design Systems with Backlight originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Full Stack Application With Supabase, React, and Tailwind CSS in Nextjs]]></title>
-        <id>61f03606f2ed6b06db5a5067</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-a-full-stack-application-with-tailwind-css-and-supabase-in-nextjs/"/>
-        <updated>2022-01-26T23:03:34.000Z</updated>
-        <summary type="html"><![CDATA[Serverless databases are all the rage these days. They allow you to develop a fully functional app without building a server or writing server code. A serverless database is a cloud computing solution that lets you distribute and flexibly manage your resources. In this tutorial, we'll build a full-stack application]]></summary>
-        <author>
-            <name>Idris Olubisi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HTTP Request Methods – Get vs Put vs Post Explained with Code Examples]]></title>
-        <id>61ee3dc2011f8933034719ea</id>
-        <link href="https://www.freecodecamp.org/news/http-request-methods-explained/"/>
-        <updated>2022-01-26T21:36:54.000Z</updated>
-        <summary type="html"><![CDATA[In this article, we'll be discussing the get, put, and post HTTP methods. You'll learn what each HTTP method is used for as well as why we use them.  In order to get a deep understanding of how HTTP methods work, I'll also go over key context and background]]></summary>
-        <author>
-            <name>Camila Ramos Garzon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HTML and CSS Project – How to Build A YouTube Clone Step by Step]]></title>
-        <id>61ebe09f011f8933034705df</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-a-website-with-html-and-css-step-by-step/"/>
-        <updated>2022-01-26T21:32:57.000Z</updated>
-        <summary type="html"><![CDATA[In this tutorial we will build a YouTube clone step by step. You'll learn how to create layouts and add content to those layouts. If you have been struggling to build a real website with HTML & CSS, this is the article for you. Because I am about to teach]]></summary>
-        <author>
-            <name>Ogundiran Ayobami</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Binary Search Tree Traversal – Inorder, Preorder, Post Order for BST]]></title>
-        <id>61d55c59d2d9de084285c367</id>
-        <link href="https://www.freecodecamp.org/news/binary-search-tree-traversal-inorder-preorder-post-order-for-bst/"/>
-        <updated>2022-01-26T20:01:40.000Z</updated>
-        <summary type="html"><![CDATA[In this tutorial, you will learn what a binary search tree is, what parts make up a tree, and some of the common terms we use when describing parts of a tree.  We will also see how to traverse a tree using some of the common algorithms – all]]></summary>
-        <author>
-            <name>Ihechikara Vincent Abba</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Think Less About Data Visualization]]></title>
-        <id>61eb23e4011f893303470169</id>
-        <link href="https://www.freecodecamp.org/news/data-viz-from-thought-to-chart/"/>
-        <updated>2022-01-26T19:57:11.000Z</updated>
-        <summary type="html"><![CDATA[In your native tongue, you are not aware of the translation between thought and speech. You think about what you want to say and say it. The pathway from thought to speech feels direct – it's an instantaneous, 1:1 mapping. When it comes to data visualization, however, there are often]]></summary>
-        <author>
-            <name>Allan Campopiano</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Cycle Through Classes on an HTML Element]]></title>
-        <id>https://css-tricks.com/?p=361200</id>
-        <link href="https://css-tricks.com/cycle-through-classes-html-element/"/>
-        <updated>2022-01-26T19:48:49.000Z</updated>
-        <summary type="html"><![CDATA[Say you have three HTML classes, and a DOM element should only have one of them at a time:
-<div class="state-1"</div<div class="state-2"</div<div class="state-3"</div
-Now your job is to rotate them. That is, cycle through classes …
-How to Cycle Through Classes on an HTML Element originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Perception for Self-Driving Cars — Free Deep Learning Course]]></title>
-        <id>61f194d5f2ed6b06db5a5c3f</id>
-        <link href="https://www.freecodecamp.org/news/perception-for-self-driving-cars-deep-learning-course/"/>
-        <updated>2022-01-26T18:45:34.000Z</updated>
-        <summary type="html"><![CDATA[An important use for computer vision and deep learning is self driving cars. Perception and Computer Vision forms about 80% of the work that Self Driving Cars do to drive around. If you want to improve your deep learning skills, this is a great topic to learn about. We just]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HTML Horizontal Line – HR Tag Example]]></title>
-        <id>61f10c21f2ed6b06db5a5942</id>
-        <link href="https://www.freecodecamp.org/news/html-horizontal-line-hr-tag-example/"/>
-        <updated>2022-01-26T18:36:53.000Z</updated>
-        <summary type="html"><![CDATA[You can use the HTML <hr> tag to separate out different topics on a page. We often use this tag when we want to create a thematic break or separate items on an HTML page. In this article, you'll learn how to use this tag in your HTML code. Table]]></summary>
-        <author>
-            <name>Kolade Chris</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How We Got 4.5K+ GitHub Stars on Our Open Source Project in 6 Months]]></title>
-        <id>61e9575c183181284a1922c4</id>
-        <link href="https://www.freecodecamp.org/news/how-to-get-more-engagement-with-your-open-source-project/"/>
-        <updated>2022-01-26T14:54:43.000Z</updated>
-        <summary type="html"><![CDATA[We launched our open source project [https://github.com/ToolJet/ToolJet] in June 2021, and since then we've gotten more than 4500 stars for our repository.  Here are the strategies that worked for us. This is not an article about how to just get more stars for your repository. The article instead explains]]></summary>
-        <author>
-            <name>navaneeth pk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fancy CSS Borders Using Masks]]></title>
-        <id>https://css-tricks.com/?p=362018</id>
-        <link href="https://css-tricks.com/css-borders-using-masks/"/>
-        <updated>2022-01-26T14:26:49.000Z</updated>
-        <summary type="html"><![CDATA[Have you ever tried to make CSS borders in a repeating zig-zag pattern? Like where a colored section of a website ends and another differently colored section begins — not with a straight line, but angled zig zags, rounded humps, …
-Fancy CSS Borders Using Masks originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
-        <author>
-            <name>Temani Afif</name>
         </author>
     </entry>
 </feed>
