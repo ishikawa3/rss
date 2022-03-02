@@ -82,6 +82,26 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=363724",
+          "author": "Patrick Brosset",
+          "description": "Styling ranges of text in software is a very useful thing to be able to do. Thankfully, we have the CSS Custom Highlight API to look forward to because it represents the future of styling text ranges on the web.…\nCSS Custom Highlight API: The Future of Highlighting Text Ranges on the Web originally published on CSS-Tricks. You should get the newsletter.",
+          "link": "https://css-tricks.com/css-custom-highlight-api-early-loo/",
+          "publishedOn": "2022-03-01T17:41:13.000Z",
+          "wordCount": 2472,
+          "title": "CSS Custom Highlight API: The Future of Highlighting Text Ranges on the Web",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363724"
+        },
+        {
+          "id": "https://css-tricks.com/?p=364351",
+          "author": "Chris Coyier",
+          "description": "Ahmad Shadeed covers the CSS fit-content sizing keyword. It’s useful! It just doesn’t come up super often. I find myself using min-content a lot more, like when setting up the height of a grid-template-row.\nThe fit-content keyword is actually …\nAhmad Shadeed: Use Cases For CSS fit-content originally published on CSS-Tricks. You should get the newsletter.",
+          "link": "https://css-tricks.com/ahmad-shadeed-use-cases-for-css-fit-content/",
+          "publishedOn": "2022-03-01T15:41:16.000Z",
+          "wordCount": 454,
+          "title": "Ahmad Shadeed: Use Cases For CSS fit-content",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/364351"
+        },
+        {
           "id": "https://css-tricks.com/?p=364346",
           "author": "Chris Coyier",
           "description": "I enjoy articles like Hartley Charlton’s “Microsoft Edge Looks Set to Overtake Safari as World’s Second Most Popular Desktop Browser.” It’s juicy! We know these massive players in the browser market care very much about their market share, so when …\nIE Down, Edge Up… Global Browser Usage Stats Are for Cocktail Parties and Conference Slides originally published on CSS-Tricks. You should get the newsletter.",
@@ -527,15 +547,6 @@
           "publishedOn": "2022-01-31T15:16:01.000Z",
           "wordCount": 2707,
           "title": "The Relevance of TypeScript in 2022"
-        },
-        {
-          "id": "https://css-tricks.com/?p=362890",
-          "author": "Chris Coyier",
-          "description": "Jim Nielsen’s mom couldn’t open a website. Jim worked on confirming the issue and documented how he got to the bottom of it:\n“[…] well it can’t be a browser issue. It’s not like my Mom is using Internet Explorer! \n…\nThe Optional Chaining Operator, “Modern” Browsers, and My Mom originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
-          "link": "https://css-tricks.com/the-optional-chaining-operator-modern-browsers-and-my-mom/",
-          "publishedOn": "2022-01-30T21:49:15.000Z",
-          "wordCount": 633,
-          "title": "The Optional Chaining Operator, “Modern” Browsers, and My Mom"
         }
       ]
     },
@@ -544,6 +555,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2022/03/new-css-features-2022/",
+          "author": "hello@smashingmagazine.com (Michelle Barker)",
+          "description": "2022 is shaping up to be a pretty great year for CSS, with a plethora of new features on the horizon. Some are already starting to land in browsers, others are likely to gain widespread browser support in 2022, while for one or two the process may be a little longer. In this article we’ll take a look at a few of them.",
+          "link": "https://smashingmagazine.com/2022/03/new-css-features-2022/",
+          "publishedOn": "2022-03-01T13:00:00.000Z",
+          "wordCount": 3515,
+          "title": "New CSS Features In 2022",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/14419af2-69ab-4150-8cf3-bca2cd2291ad/new-css-features-2022.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/14419af2-69ab-4150-8cf3-bca2cd2291ad/new-css-features-2022.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2022/02/we-all-are-ukraine/",
           "author": "hello@smashingmagazine.com (Vitaly Friedman)",
@@ -835,20 +861,6 @@
             "length": "0",
             "type": "image/png"
           }
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/01/desktop-wallpaper-calendars-february-2022/",
-          "author": "hello@smashingmagazine.com (Cosima Mielke)",
-          "description": "Do you need a little inspiration boost? Well, then our new batch of desktop wallpapers is for you. Designed by artists and designers from across the globe, they come in versions with and without a calendar for February 2022.",
-          "link": "https://smashingmagazine.com/2022/01/desktop-wallpaper-calendars-february-2022/",
-          "publishedOn": "2022-01-31T09:00:00.000Z",
-          "wordCount": 2280,
-          "title": "28 Days Of Inspiration (February 2022 Desktop Wallpapers Edition)",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/04d12428-d98f-4633-ad77-fed864da6842/feb-22-magic-of-music-preview-opt.png",
-            "length": "0",
-            "type": "image/png"
-          }
         }
       ]
     },
@@ -857,6 +869,86 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "621d6316c4d0d306772f1f16",
+          "author": "David Clinton",
+          "description": "The Internet of Things (IoT) is a term that has been floating around for a few years now, but what does it actually mean?  The best way to describe the IoT is to think of it as the network of physical objects that are interconnected and can communicate with",
+          "link": "https://www.freecodecamp.org/news/internet-of-things-deployments-getting-it-right/",
+          "publishedOn": "2022-03-01T21:06:01.000Z",
+          "wordCount": 2251,
+          "title": "IoT Deployment – How to Secure and Deploy Internet of Things Devices",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/pexels-designecologist-1779487.jpg"
+        },
+        {
+          "id": "621dfc8cc4d0d306772f220f",
+          "author": "Kolade Chris",
+          "description": "The Node Package Manager (NPM) provides various commands that let you work with packages. And just as you can install a package from the npm library, you can uninstall it. To uninstall a package, you can use the command provided by npm for the purpose – npm uninstall. The way",
+          "link": "https://www.freecodecamp.org/news/npm-uninstall-how-to-remove-a-package/",
+          "publishedOn": "2022-03-01T20:46:50.000Z",
+          "wordCount": 887,
+          "title": "npm Uninstall – How to Remove a Package",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/shut-down-g5ad24366d_1280.jpg"
+        },
+        {
+          "id": "621e4f3ec4d0d306772f239d",
+          "author": "Reed Barger",
+          "description": "If you have trouble understanding the useEffect hook, you're not alone. Beginners and experienced developers alike find it to be one of the trickiest hooks to understand, because it requires understanding a few unfamiliar programming concepts. In this quick guide, we're going to cover why this hook exists, how to",
+          "link": "https://www.freecodecamp.org/news/react-useeffect-absolute-beginners/",
+          "publishedOn": "2022-03-01T20:41:00.000Z",
+          "wordCount": 1887,
+          "title": "The React useEffect Hook for Absolute Beginners",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/react-useeffect-absolute-beginners.png"
+        },
+        {
+          "id": "621c8bcfc4d0d306772f1263",
+          "author": "Dionysia Lemonaki",
+          "description": "In this article, you'll learn how to use Python's built-in pop() list method. By the end, you'll know how to use pop() to remove an item from a list in Python. Here is what we will cover:  1. An overview of lists in Python  2.  How to",
+          "link": "https://www.freecodecamp.org/news/python-pop-how-to-pop-from-a-list-or-an-array-in-python/",
+          "publishedOn": "2022-03-01T20:30:51.000Z",
+          "wordCount": 1447,
+          "title": "Python .pop() – How to Pop from a List or an Array in Python",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/pexels-olia-danilevich-4974912.jpg"
+        },
+        {
+          "id": "620fae4a21bfb3068cf2a8f4",
+          "author": "Ihechikara Vincent Abba",
+          "description": "Insertion sort is a sorting algorithm that creates a sorted array of items from an unsorted array, one item at a time.  In this article, we will see how the algorithm works and how to apply it in our code. How to Use Insertion Sort Consider an array of",
+          "link": "https://www.freecodecamp.org/news/insertion-sort-algorithm-example-in-java-and-c/",
+          "publishedOn": "2022-02-28T23:44:34.000Z",
+          "wordCount": 1613,
+          "title": "Insertion Sort – Algorithm Example in Java and C++",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/02/insertion-sort-algorithm.png"
+        },
+        {
+          "id": "620ac06a21bfb3068cf288c0",
+          "author": "Kolade Chris",
+          "description": "Adding comments in your code is a good practice, as it makes your code more readable and understandable. Comments don’t run because they are ignored by compilers and interpreters. In this article, I will show you how you can comment out your HTML code, so you can help yourself and",
+          "link": "https://www.freecodecamp.org/news/comment-out-html-code-example/",
+          "publishedOn": "2022-02-28T23:26:26.000Z",
+          "wordCount": 650,
+          "title": "Comment out HTML – Code Example",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/02/arrow-g4f0266a9e_1280.png"
+        },
+        {
+          "id": "621bd6d1c4d0d306772f0c6e",
+          "author": "Abdullah Adeel",
+          "description": "If you're a React developer, you've probably used a library for managing state in your React applications. And you've likely heard of Redux \"the state management\" library for React.  For a long time, Redux was the only reliable and most widely-adopted solution for state management in React applications. And",
+          "link": "https://www.freecodecamp.org/news/how-to-use-recoil-for-state-management-in-your-react-projects/",
+          "publishedOn": "2022-02-28T23:19:24.000Z",
+          "wordCount": 1598,
+          "title": "How to Use Recoil for State Management in Your React Projects",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/02/fcc-recoil-article.png"
+        },
+        {
+          "id": "620fb63121bfb3068cf2a926",
+          "author": "Brian Barrow",
+          "description": "In this post we will walk through setting up a Podcast Player app using Supabase and Vue 3, including getting transcriptions for the podcasts.  This is a continuation of my previous post on setting up Authentication using Supabase [/news/add-supabase-authentication-to-vue/]. If you aren't familiar with getting Supabase set up in",
+          "link": "https://www.freecodecamp.org/news/build-a-podcast-player-with-transcriptions-using-vue-supabase/",
+          "publishedOn": "2022-02-28T23:05:43.000Z",
+          "wordCount": 4511,
+          "title": "How to Build a Podcast Player with Transcriptions using Vue and Supabase",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/02/Build-Podcast-Player-app-w-transcriptions-using-Vue-Supabase@2x.jpg"
+        },
         {
           "id": "62160a08c4d0d306772eecd2",
           "author": "Elham Nazif",
