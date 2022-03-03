@@ -2,10 +2,106 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-03-02T00:08:06.019Z</updated>
+    <updated>2022-03-03T00:08:37.655Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[7 Fresh Links on Performance For March 2022]]></title>
+        <id>https://css-tricks.com/?p=364350</id>
+        <link href="https://css-tricks.com/performance-links-february-2022/"/>
+        <updated>2022-03-02T21:26:50.000Z</updated>
+        <summary type="html"><![CDATA[I have a handful of good links to articles about performance that are burning a hole in my bookmarks folder, and wanna drop them here to share.
+The new WebPageTest website design
+From fonts to SVG: an icon migration strategy
+…
+7 Fresh Links on Performance For March 2022 originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python List .remove() - How to Remove an Item from a List in Python]]></title>
+        <id>621e55eac4d0d306772f23d6</id>
+        <link href="https://www.freecodecamp.org/news/python-list-remove-how-to-remove-an-item-from-a-list-in-python/"/>
+        <updated>2022-03-02T19:49:19.000Z</updated>
+        <summary type="html"><![CDATA[In this article, you'll learn how to use Python's built-in remove() list method. By the end, you'll know how to use remove() to remove an item from a list in Python. Here is what we will cover:  1. Syntax of the remove() method  2. Remove an element from]]></summary>
+        <author>
+            <name>Dionysia Lemonaki</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Secure Your Home Wireless Infrastructure with Kismet and Python]]></title>
+        <id>621d7632c4d0d306772f1f61</id>
+        <link href="https://www.freecodecamp.org/news/wireless-security-using-raspberry-pi-4-kismet-and-python/"/>
+        <updated>2022-03-02T16:22:20.000Z</updated>
+        <summary type="html"><![CDATA[Everything is connected to wireless these days. In my case I found that I have LOTS of devices after running a simple nmap command on my home network [/news/enhance-nmap-with-python/#nmap-101-identify-all-the-public-services-in-our-network] : [josevnz@dmaf5 ~]$ sudo nmap -v -n -p- -sT -sV -O --osscan-limit --max-os-tries 1 -oX $HOME/home_scan.xml 192.168.1.0/24 So I started to]]></summary>
+        <author>
+            <name>Jose Vicente Nunez</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Make a “Raise the Curtains” Effect in CSS]]></title>
+        <id>https://css-tricks.com/?p=363882</id>
+        <link href="https://css-tricks.com/css-raise-the-curtains-effect/"/>
+        <updated>2022-03-02T15:57:32.000Z</updated>
+        <summary type="html"><![CDATA[“Raise the curtains” is what I call an effect where the background goes from dark to light on scroll, and the content on top also goes from light to dark while in a sticky position.
+Here’s an example where I …
+How to Make a “Raise the Curtains” Effect in CSS originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <author>
+            <name>Silvestar Bistrović</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Create an eCommerce Website Using WooCommerce]]></title>
+        <id>621f888ec4d0d306772f2d40</id>
+        <link href="https://www.freecodecamp.org/news/how-to-create-an-ecommere-website-using-woocomerce/"/>
+        <updated>2022-03-02T15:44:00.000Z</updated>
+        <summary type="html"><![CDATA[Creating your own eCommerce website is easier than you may think. You don't even need to know how to code. I just created and published a course on the freeCodeCamp.org YouTube channel that will teach you how to build an online store with WooCommerce and WordPress. In this video course,]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DevOps with GitLab CI Course]]></title>
+        <id>621f860dc4d0d306772f2cf9</id>
+        <link href="https://www.freecodecamp.org/news/devops-with-gitlab-ci-course/"/>
+        <updated>2022-03-02T15:05:24.000Z</updated>
+        <summary type="html"><![CDATA[GitLab CI/CD can automatically build, test, deploy, and monitor your applications. We just published a full course on the freeCodeCamp.org YouTube channel that will teach you how to use GitLab CI. Valentin Despa developed this course. Vaentin is an experienced developer and course creator. In this course, you will learn]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Guide To Audio Visualization With JavaScript And GSAP (Part 1)]]></title>
+        <id>https://smashingmagazine.com/2022/03/audio-visualization-javascript-gsap-part1/</id>
+        <link href="https://smashingmagazine.com/2022/03/audio-visualization-javascript-gsap-part1/"/>
+        <updated>2022-03-02T13:30:00.000Z</updated>
+        <summary type="html"><![CDATA[What started as a case study turned into a guide to visualizing audio with JavaScript. Although the output demos are in React, Jhey Tompkins isn’t going to dwell on the React side of things too much. The underlying techniques work with or without React.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Jhey Tompkins)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Install Node.js and npm on Windows]]></title>
+        <id>621e97a4c4d0d306772f290b</id>
+        <link href="https://www.freecodecamp.org/news/how-to-install-node-js-and-npm-on-windows-2/"/>
+        <updated>2022-03-02T00:18:51.000Z</updated>
+        <summary type="html"><![CDATA[In this article, you'll learn how to work with JavaScript in the backend using Node on Windows. When you start working with JavaScript and discover that you can not only work with it in the frontend but also in the backend, a new world of possibilities seems to open up]]></summary>
+        <author>
+            <name>Daniel Rosa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Wordle Clone in JavaScript]]></title>
+        <id>621903c6c4d0d306772efc76</id>
+        <link href="https://www.freecodecamp.org/news/build-a-wordle-clone-in-javascript/"/>
+        <updated>2022-03-01T23:35:30.000Z</updated>
+        <summary type="html"><![CDATA[In this article, you will be recreating the guessing game Wordle [https://www.nytimes.com/games/wordle/index.html]. This article covers the core game logic but does not implement sharing your results. The article also doesn't cover the functionality that generates game statistics.  This tutorial is intended for beginner front-end developers that want to build]]></summary>
+        <author>
+            <name>Paul Akinyemi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[IoT Deployment – How to Secure and Deploy Internet of Things Devices]]></title>
         <id>621d6316c4d0d306772f1f16</id>
@@ -1950,156 +2046,6 @@ When they are sharing their screen in a meeting, I find myself disassociating fi
         <summary type="html"><![CDATA[It’s shipping! Meet “Touch Design for Mobile Interfaces”, our brand-new guide with guidelines and best practices to improve usability and accessibility on mobile. 400 pages. For designers and developers working with mobile UIs.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Metaphors We Web By]]></title>
-        <id>https://css-tricks.com/?p=362886</id>
-        <link href="https://css-tricks.com/metaphors-we-web-by/"/>
-        <updated>2022-02-01T00:03:57.000Z</updated>
-        <summary type="html"><![CDATA[Maggie Appleton gets into what is perhaps the foremost metaphor the web is founded on: paper. 
-Paper documents were the original metaphor for the web. […]
-The page you’re reading this on still mimics paper. We still call it 
-…
-Metaphors We Web By originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[C++ String – std::string Example in C++]]></title>
-        <id>61ec2da1011f893303470c78</id>
-        <link href="https://www.freecodecamp.org/news/c-string-std-string-example-in-cpp/"/>
-        <updated>2022-01-31T23:37:41.000Z</updated>
-        <summary type="html"><![CDATA[Strings are essential components in any programming language, and C++ is no exception.  Whether you want to store text, manipulate it, or accept keyboard inputs and outputs, understanding what strings are and how to effectively use them is extremely important. This article will teach everything you need to know]]></summary>
-        <author>
-            <name>Jason Dsouza</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Second Monitor Not Detected – Fixed for Windows 10 PC Laptop Dual Monitor Display]]></title>
-        <id>61e11e85b837d507ba0a253b</id>
-        <link href="https://www.freecodecamp.org/news/second-monitor-not-detected-fixed-windows10/"/>
-        <updated>2022-01-31T23:25:23.000Z</updated>
-        <summary type="html"><![CDATA[Sometimes your PC may not detect your second monitor. In this tutorial, you'll learn some steps you can take to solve this problem. Check for improper connection Before we do anything technical, make sure you crosscheck your connections first. Make sure that all the cables fit in firmly and are]]></summary>
-        <author>
-            <name>Ihechikara Vincent Abba</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Build a 100 Days of Code Discord Bot with TypeScript, MongoDB, and Discord.js 13]]></title>
-        <id>61e85078183181284a191b21</id>
-        <link href="https://www.freecodecamp.org/news/build-a-100-days-of-code-discord-bot-with-typescript-mongodb-and-discord-js-13/"/>
-        <updated>2022-01-31T21:41:05.000Z</updated>
-        <summary type="html"><![CDATA[The 100 Days of Code challenge [/news/the-crazy-history-of-the-100daysofcode-challenge-and-why-you-should-try-it-for-2018-6c89a76e298d/]  is very popular among new coders and developers looking to level up their skills. It's so popular that our Discord server [/news/freecodecamp-discord-chat-room-server/] has an entire channel dedicated to it. By popular demand, we built a Discord bot that helps people track their]]></summary>
-        <author>
-            <name>Naomi Carrigan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LearnToCodeRPG Player Guide – How to Unlock All Achievements and Endings]]></title>
-        <id>61f7c2aef2ed6b06db5a92c6</id>
-        <link href="https://www.freecodecamp.org/news/learntocoderpg-player-guide-how-to-unlock-all-achievements-and-endings/"/>
-        <updated>2022-01-31T21:32:45.000Z</updated>
-        <summary type="html"><![CDATA[In this guide, you'll learn to how to collect all 54 achievements and reach all six endings of the LearnToCodeRPG.  According to the game's creator, Lynn Zheng [/news/author/lynn/], > Learn to Code RPG is an interactive visual novel game where you will teach yourself to code, make friends in]]></summary>
-        <author>
-            <name>Ilenia Magoni</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Notes on Reverse-Scrolling Columns With CSS Scroll-Timeline]]></title>
-        <id>https://css-tricks.com/?p=362730</id>
-        <link href="https://css-tricks.com/css-scroll-timeline-reverse-motion-preference/"/>
-        <updated>2022-01-31T21:02:06.000Z</updated>
-        <summary type="html"><![CDATA[Lemme do this one quick-hits style:
-Mary Lou published a quintessentially-Codrops-y demo called Alternate Column Scroll.
-The scrolling effect is powered by Locomotive Scroll, which we’ve coincidentally covered before.
-Bramus has been exploring native CSS scrolling effects 
-…
-Notes on Reverse-Scrolling Columns With CSS Scroll-Timeline originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python Array Tutorial – Define, Index, Methods]]></title>
-        <id>61f4ec99f2ed6b06db5a7708</id>
-        <link href="https://www.freecodecamp.org/news/python-array-tutorial-define-index-methods/"/>
-        <updated>2022-01-31T18:35:31.000Z</updated>
-        <summary type="html"><![CDATA[In this article, you'll learn how to use Python arrays. You'll see how to define them and the different methods commonly used for performing operations on them. The artcile covers arrays that you create by importing the array module. We won't cover NumPy arrays here. Table of Contents  1.]]></summary>
-        <author>
-            <name>Dionysia Lemonaki</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ordered List in HTML – OL Tag Example]]></title>
-        <id>61f7f661f2ed6b06db5a946e</id>
-        <link href="https://www.freecodecamp.org/news/ordered-list-in-html-ol-tag-example/"/>
-        <updated>2022-01-31T18:34:40.000Z</updated>
-        <summary type="html"><![CDATA[An ordered list is a list in which the items are numbered and the order matters. This is as opposed to an unordered list where the items are bulleted by default (and the order doesn't matter). Basic Syntax of the <ol> tag The <ol> tag defines ordered lists in HTML.]]></summary>
-        <author>
-            <name>Kolade Chris</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn Web Development – Free Full Stack Developer Courses for Beginners]]></title>
-        <id>61d543d1d2d9de084285c339</id>
-        <link href="https://www.freecodecamp.org/news/learn-web-development-free-full-stack-developer-courses-for-beginners/"/>
-        <updated>2022-01-31T18:14:59.000Z</updated>
-        <summary type="html"><![CDATA[The term full stack [/news/what-is-a-full-stack-developer-back-end-front-end-full-stack-engineer/]  developer refers to working with both the frontend and backend components of a web application.  The frontend is what the user interacts with, while the backend is the logic for the web application.  In this article, I will cover some resources that]]></summary>
-        <author>
-            <name>Jessica Wilkins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is PostCSS? How to Use Plugins to Automate CSS Tasks]]></title>
-        <id>61eae40d011f89330346ff65</id>
-        <link href="https://www.freecodecamp.org/news/what-is-postcss/"/>
-        <updated>2022-01-31T17:29:16.000Z</updated>
-        <summary type="html"><![CDATA[PostCSS is a Node.js tool that transforms your styles using JavaScript plugins. It generates more downloads per week on NPM [https://www.npmtrends.com/less-vs-postcss-vs-sass-vs-stylus] than other CSS preprocessors like Sass, Less, and Stylus combined. PostCSS download trends comparing to other CSS preprocessorsIn this article we will discuss:  * What is PostCSS?]]></summary>
-        <author>
-            <name>Yasir Tobbileh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Fine-Tune BERT for NER Using HuggingFace]]></title>
-        <id>61ec0522011f893303470824</id>
-        <link href="https://www.freecodecamp.org/news/getting-started-with-ner-models-using-huggingface/"/>
-        <updated>2022-01-31T15:42:18.000Z</updated>
-        <summary type="html"><![CDATA[I've always been fascinated with languages and the inherent beauty of words. But I used to think that language comprehension was an exclusive human trait.  So when machines started generating, understanding, classifying, and summarizing text using Transformers, I was excited to learn more. And I wanted to learn how]]></summary>
-        <author>
-            <name>Suchandra Datta</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Recover an Unsaved Word Document – Restore a Deleted Word File]]></title>
-        <id>61f42d96f2ed6b06db5a7032</id>
-        <link href="https://www.freecodecamp.org/news/how-to-recover-an-unsaved-word-document-restore-a-deleted-word-file/"/>
-        <updated>2022-01-31T15:17:51.000Z</updated>
-        <summary type="html"><![CDATA[Sometimes you might accidentally close your Word application without saving your file. You might think that your progress has been lost, but there's actually a way to recover the file without losing any of your content. And that is exactly what this article will show you how to do. To]]></summary>
-        <author>
-            <name>Ihechikara Vincent Abba</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Relevance of TypeScript in 2022]]></title>
-        <id>https://css-tricks.com/?p=362478</id>
-        <link href="https://css-tricks.com/the-relevance-of-typescript-in-2022/"/>
-        <updated>2022-01-31T15:16:01.000Z</updated>
-        <summary type="html"><![CDATA[It’s 2022. And the current relevance of TypeScript is undisputed. TypeScript has dominated the front-end developer experience by many, many accounts. By now you likely already know that TypeScript is a superset of JavaScript, building on JavaScript by adding …
-The Relevance of TypeScript in 2022 originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
-        <author>
-            <name>Mamta Dalal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Sentiment Analysis App using Blenderbot]]></title>
-        <id>61f1e6bef2ed6b06db5a6141</id>
-        <link href="https://www.freecodecamp.org/news/build-a-sentiment-analayis-app-using-blenderbot/"/>
-        <updated>2022-01-31T15:07:33.000Z</updated>
-        <summary type="html"><![CDATA[How to Conversational Bot Using Blenderbot]]></summary>
-        <author>
-            <name>Edem Gold</name>
         </author>
     </entry>
 </feed>
