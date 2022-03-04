@@ -82,6 +82,26 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=363972",
+          "author": "Patrick Brosset",
+          "description": "I want to introduce you to a new, experimental form control called <selectmenu>. We’ll get deep into it, including how much easier it is to style than a traditional <select> element. But first, let’s fill in some context …\nSay Hello to selectmenu, a Fully Style-able select Element originally published on CSS-Tricks. You should get the newsletter.",
+          "link": "https://css-tricks.com/the-selectmenu-element/",
+          "publishedOn": "2022-03-03T15:35:32.000Z",
+          "wordCount": 2472,
+          "title": "Say Hello to selectmenu, a Fully Style-able select Element",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363972"
+        },
+        {
+          "id": "https://css-tricks.com/?p=364001",
+          "author": "Chris Coyier",
+          "description": "(This is a sponsored post.)\nWhat would your business be like if you sold memberships? It might be more than fun to think about, in fact, it might just be transformative. With membership, would you include little add-ons or …\nBuild Membership Businesses with Memberful originally published on CSS-Tricks. You should get the newsletter.",
+          "link": "https://css-tricks.com/build-membership-businesses-with-memberful/",
+          "publishedOn": "2022-03-03T15:33:57.000Z",
+          "wordCount": 884,
+          "title": "Build Membership Businesses with Memberful",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/364001"
+        },
+        {
           "id": "https://css-tricks.com/?p=364350",
           "author": "Chris Coyier",
           "description": "I have a handful of good links to articles about performance that are burning a hole in my bookmarks folder, and wanna drop them here to share.\nThe new WebPageTest website design\nFrom fonts to SVG: an icon migration strategy\n…\n7 Fresh Links on Performance For March 2022 originally published on CSS-Tricks. You should get the newsletter.",
@@ -531,15 +551,6 @@
           "publishedOn": "2022-02-02T15:42:43.000Z",
           "wordCount": 4765,
           "title": "User Registration and Auth Using Firebase and React"
-        },
-        {
-          "id": "https://css-tricks.com/?p=362169",
-          "author": "Eric Bailey",
-          "description": "I have a coworker who is smart, capable, and technologically-literate. Like me, they work on the web full-time.\nWhen they are sharing their screen in a meeting, I find myself disassociating fixating on the red update button in their copy …\n“Evergreen” Does Not Mean Immediately Available originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
-          "link": "https://css-tricks.com/evergreen-does-not-mean-immediately-available/",
-          "publishedOn": "2022-02-01T15:38:41.000Z",
-          "wordCount": 2050,
-          "title": "“Evergreen” Does Not Mean Immediately Available"
         }
       ]
     },
@@ -548,6 +559,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2022/03/building-web-layouts-dual-screen-foldable-devices/",
+          "author": "hello@smashingmagazine.com (Stephanie Stimac)",
+          "description": "Dual-screen devices are just the next evolution in responsive design. If you have a PWA or website, the APIs available make integrating into your existing code base seamless. This article explains why it’s an exciting time for layout on the web, and how dual screens provide an opportunity to get even more creative.",
+          "link": "https://smashingmagazine.com/2022/03/building-web-layouts-dual-screen-foldable-devices/",
+          "publishedOn": "2022-03-03T10:30:00.000Z",
+          "wordCount": 3800,
+          "title": "Building Web Layouts For Dual-Screen And Foldable Devices",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/f45e5695-4423-4581-862d-ce6c1f8b55ac/building-web-layouts-dual-screen-foldable-devices.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/f45e5695-4423-4581-862d-ce6c1f8b55ac/building-web-layouts-dual-screen-foldable-devices.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2022/03/audio-visualization-javascript-gsap-part1/",
           "author": "hello@smashingmagazine.com (Jhey Tompkins)",
@@ -841,34 +867,6 @@
             "length": "0",
             "type": "image/jpg"
           }
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/02/javascript-bundle-performance-code-splitting/",
-          "author": "hello@smashingmagazine.com (Adrian Bece)",
-          "description": "In this article, Adrian Bece shares more about the benefits and caveats of code-splitting and how page performance and load times can be improved by dynamically loading expensive, non-critical JavaScript bundles.",
-          "link": "https://smashingmagazine.com/2022/02/javascript-bundle-performance-code-splitting/",
-          "publishedOn": "2022-02-02T10:30:00.000Z",
-          "wordCount": 4512,
-          "title": "Improving JavaScript Bundle Performance With Code-Splitting",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/f721011b-37a8-4c1d-a8b9-b249bf938678/javascript-bundle-performance-code-splitting.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/02/touch-design-release/",
-          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
-          "description": "It’s shipping! Meet “Touch Design for Mobile Interfaces”, our brand-new guide with guidelines and best practices to improve usability and accessibility on mobile. 400 pages. For designers and developers working with mobile UIs.",
-          "link": "https://smashingmagazine.com/2022/02/touch-design-release/",
-          "publishedOn": "2022-02-01T13:00:00.000Z",
-          "wordCount": 2331,
-          "title": "Meet “Touch Design For Mobile Interfaces”, A New Smashing Book",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b9bd7979-279d-4547-8540-cb1e344cbf19/newsletter-header-opt.png",
-            "length": "0",
-            "type": "image/png"
-          }
         }
       ]
     },
@@ -877,6 +875,76 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "62208eb2c4d0d306772f3282",
+          "author": "Njoku Samson Ebere",
+          "description": "In this tutorial, we will be learning how to build and deploy an image management application backend.  It will be able to store a record of an image in the database, get the image's record back from the database, update the record, and even delete the record completely as",
+          "link": "https://www.freecodecamp.org/news/how-to-build-a-backend-application/",
+          "publishedOn": "2022-03-03T20:46:30.000Z",
+          "wordCount": 4482,
+          "title": "How to Build and Deploy a Backend App with Express, Postgres, Github, and Heroku",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/pexels-pixabay-417273.jpg"
+        },
+        {
+          "id": "62210a36c4d0d306772f3898",
+          "author": "Beau Carnes",
+          "description": "Redux is a popular open-source JavaScript library for managing and centralizing application state. It is commonly used with React. We just published a complete course on the freeCodeCamp.org YouTube channel that will teach you how to use Redux. Nikhil Thadani developed this course. Nikhil has created many technical courses on",
+          "link": "https://www.freecodecamp.org/news/redux-tutorial-for-beginners/",
+          "publishedOn": "2022-03-03T18:38:46.000Z",
+          "wordCount": 439,
+          "title": "Redux Tutorial for Beginners",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/redux.png"
+        },
+        {
+          "id": "6220c90cc4d0d306772f359a",
+          "author": "Kolade Chris",
+          "description": "In Python, you use a list to store various types of data such as strings and numbers. A list is identifiable by the square brackets that surround it, and individual values are separated by a comma. To get the length of a list in Python, you can use the built-in",
+          "link": "https://www.freecodecamp.org/news/python-list-length-how-to-get-the-size-of-a-list-in-python/",
+          "publishedOn": "2022-03-03T18:21:33.000Z",
+          "wordCount": 869,
+          "title": "Python List Length – How to Get the Size of a List in Python",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/calendar-g2ed8847ef_1280.jpg"
+        },
+        {
+          "id": "62208d02c4d0d306772f324e",
+          "author": "Zaira Hira",
+          "description": "When using Python, you might need to install and use certain packages. And there is a command available for that known as 'pip'.  With pip, you can install, upgrade, and uninstall various Python packages. You'll learn how to use it, and how to handle pip errors, in this article.",
+          "link": "https://www.freecodecamp.org/news/pip-command-not-found-mac-and-linux-error-solved/",
+          "publishedOn": "2022-03-03T18:14:36.000Z",
+          "wordCount": 756,
+          "title": "pip Command Not Found – Mac and Linux Error Solved",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/pip.png"
+        },
+        {
+          "id": "621fce2dc4d0d306772f2fbf",
+          "author": "Md. Fahim Bin Amin",
+          "description": "If you want to run any Java program on your Windows PC, you won't be able to do it without installing the Java Development Kit (JDK for short).  The JDK also contains the Java Runtime Environment (or JRE) which is the core of a Java program.  If you",
+          "link": "https://www.freecodecamp.org/news/how-to-install-java-on-windows/",
+          "publishedOn": "2022-03-03T18:07:41.000Z",
+          "wordCount": 1133,
+          "title": "How to Install Java on Windows",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/fCC-Cover-Image.jpg"
+        },
+        {
+          "id": "6220562bc4d0d306772f31f5",
+          "author": "Ashutosh Krishna",
+          "description": "Sometimes you'll need to know the location of an IP address, whether it's your own or that of a site you're using.  One use-case for this is when you want to send login information to users for your website.  In this article, we're going to see how you",
+          "link": "https://www.freecodecamp.org/news/how-to-get-location-information-of-ip-address-using-python/",
+          "publishedOn": "2022-03-03T17:55:34.000Z",
+          "wordCount": 832,
+          "title": "How to Get Location Information of an IP Address Using Python",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/location-ip.png"
+        },
+        {
+          "id": "62168995c4d0d306772ef0d1",
+          "author": "Shaun Hamilton",
+          "description": "You can now solve the classic Project Euler programming problems using the Rust language. Each of these problems comes with a user-friendly test suite. Here's the full Project Euler Rust GitHub repository [https://github.com/freeCodeCamp/euler-rust]. If you do not know Rust, and want to learn it, you can start with  freeCodeCamp's",
+          "link": "https://www.freecodecamp.org/news/project-euler-problems-in-rust/",
+          "publishedOn": "2022-03-03T17:09:14.000Z",
+          "wordCount": 958,
+          "title": "How to Solve Project Euler Problems in Rust",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/02/euler-rust-local-ext-9-1.png"
+        },
         {
           "id": "621e55eac4d0d306772f23d6",
           "author": "Dionysia Lemonaki",
@@ -1911,69 +1979,6 @@
           "publishedOn": "2022-02-02T15:24:30.000Z",
           "wordCount": 2289,
           "title": "Object-Oriented Programming in Python"
-        },
-        {
-          "id": "61f8b7e5f2ed6b06db5a9eed",
-          "author": "Zach Snoek",
-          "description": "You may have come across or written code similar to this when writing JavaScript: function sayWord(word) { \treturn () => console.log(word); } const sayHello = sayWord(\"hello\"); sayHello(); // \"hello\" This code is interesting for a couple of reasons. First, we can access word in the function returned from sayWord. Second,",
-          "link": "https://www.freecodecamp.org/news/scope-and-closures-in-javascript/",
-          "publishedOn": "2022-02-01T23:52:27.000Z",
-          "wordCount": 1695,
-          "title": "Scope and Closures in JavaScript – Explained with Examples"
-        },
-        {
-          "id": "61f9b031f2ed6b06db5aaa4e",
-          "author": "Beau Carnes",
-          "description": "Creating a serverless API can often be a better choice than coding a backend in Node.js, Laravel, Spring Boot, or some other backend framework. We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to code and deploy a serverless API using Go and AWS.",
-          "link": "https://www.freecodecamp.org/news/code-and-deploy-a-serverless-api-using-go-and-aws/",
-          "publishedOn": "2022-02-01T22:24:50.000Z",
-          "wordCount": 12911,
-          "title": "Code and Deploy a Serverless API Using Go and AWS"
-        },
-        {
-          "id": "61f556d0f2ed6b06db5a7f43",
-          "author": "Logan Kilpatrick",
-          "description": "Julia is a high-level, dynamic, and open-source programming language. It's designed to be as easy to use as Python while remaining as performant as C or C++.  Many early use cases for Julia were in the scientific domains where massive computational processing was and still is required. But as",
-          "link": "https://www.freecodecamp.org/news/how-to-build-web-apps-in-julia/",
-          "publishedOn": "2022-02-01T21:33:45.000Z",
-          "wordCount": 3280,
-          "title": "How to Build Your First Web App in Julia with Genie.jl 🧞‍♂️"
-        },
-        {
-          "id": "61f920a8f2ed6b06db5aa13a",
-          "author": "Kolade Chris",
-          "description": "If you're making websites with HTML and CSS, you will be working with images a lot. Developers often struggle with image alignment in CSS, especially when trying to figure out how to center an image. Centering anything in CSS is not really a straightforward thing - especially for beginners. This",
-          "link": "https://www.freecodecamp.org/news/html-center-image-css-align-img-center-example/",
-          "publishedOn": "2022-02-01T21:16:57.000Z",
-          "wordCount": 862,
-          "title": "HTML Center Image – CSS Align Img Center Example"
-        },
-        {
-          "id": "61f68d36f2ed6b06db5a8963",
-          "author": "Nishant Kumar",
-          "description": "Next.js is a server-side rendering framework based on React, which is search engine optimized. So, let's build an Evernote clone using Next.js to learn how it works. We will use the following tech stack:  1. Next.js for the UI  2. Firebase for the database and for hosting our",
-          "link": "https://www.freecodecamp.org/news/nextjs-firebase-tutorial-build-an-evernote-clone/",
-          "publishedOn": "2022-02-01T18:30:40.000Z",
-          "wordCount": 4527,
-          "title": "Next.js and Firebase Tutorial – How to Build an Evernote Clone"
-        },
-        {
-          "id": "61ef7522f2ed6b06db5a420b",
-          "author": "Rishit Dagli",
-          "description": "Graph Neural Networks are getting more and more popular and are being used extensively in a wide variety of projects.  In this article, I help you get started and understand how graph neural networks work while also trying to address the question \"why\" at each stage.  Finally we",
-          "link": "https://www.freecodecamp.org/news/graph-neural-networks-explained-with-examples/",
-          "publishedOn": "2022-02-01T16:50:35.000Z",
-          "wordCount": 3885,
-          "title": "What Are Graph Neural Networks? How GNNs Work, Explained with Examples"
-        },
-        {
-          "id": "61990e8b11d3cb08287a9bf9",
-          "author": "Shahan Chowdhury",
-          "description": "In this article, you'll learn how to build a racing game in Python using the Turtle library in just 39 lines of code.  Here's what we're going to create: Turtle Racing Game Project Overview🧵 Prerequisites Very basic knowledge of Python programming will be enough to go through this tutorial.",
-          "link": "https://www.freecodecamp.org/news/how-to-make-racing-game-using-python/",
-          "publishedOn": "2022-02-01T15:49:24.000Z",
-          "wordCount": 1916,
-          "title": "Python Game Development – How to Make a Turtle Racing Game with PyCharm"
         }
       ]
     }

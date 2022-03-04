@@ -2,10 +2,113 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-03-03T00:08:37.655Z</updated>
+    <updated>2022-03-04T00:08:44.393Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Build and Deploy a Backend App with Express, Postgres, Github, and Heroku]]></title>
+        <id>62208eb2c4d0d306772f3282</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-a-backend-application/"/>
+        <updated>2022-03-03T20:46:30.000Z</updated>
+        <summary type="html"><![CDATA[In this tutorial, we will be learning how to build and deploy an image management application backend.  It will be able to store a record of an image in the database, get the image's record back from the database, update the record, and even delete the record completely as]]></summary>
+        <author>
+            <name>Njoku Samson Ebere</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Redux Tutorial for Beginners]]></title>
+        <id>62210a36c4d0d306772f3898</id>
+        <link href="https://www.freecodecamp.org/news/redux-tutorial-for-beginners/"/>
+        <updated>2022-03-03T18:38:46.000Z</updated>
+        <summary type="html"><![CDATA[Redux is a popular open-source JavaScript library for managing and centralizing application state. It is commonly used with React. We just published a complete course on the freeCodeCamp.org YouTube channel that will teach you how to use Redux. Nikhil Thadani developed this course. Nikhil has created many technical courses on]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python List Length – How to Get the Size of a List in Python]]></title>
+        <id>6220c90cc4d0d306772f359a</id>
+        <link href="https://www.freecodecamp.org/news/python-list-length-how-to-get-the-size-of-a-list-in-python/"/>
+        <updated>2022-03-03T18:21:33.000Z</updated>
+        <summary type="html"><![CDATA[In Python, you use a list to store various types of data such as strings and numbers. A list is identifiable by the square brackets that surround it, and individual values are separated by a comma. To get the length of a list in Python, you can use the built-in]]></summary>
+        <author>
+            <name>Kolade Chris</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[pip Command Not Found – Mac and Linux Error Solved]]></title>
+        <id>62208d02c4d0d306772f324e</id>
+        <link href="https://www.freecodecamp.org/news/pip-command-not-found-mac-and-linux-error-solved/"/>
+        <updated>2022-03-03T18:14:36.000Z</updated>
+        <summary type="html"><![CDATA[When using Python, you might need to install and use certain packages. And there is a command available for that known as 'pip'.  With pip, you can install, upgrade, and uninstall various Python packages. You'll learn how to use it, and how to handle pip errors, in this article.]]></summary>
+        <author>
+            <name>Zaira Hira</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Install Java on Windows]]></title>
+        <id>621fce2dc4d0d306772f2fbf</id>
+        <link href="https://www.freecodecamp.org/news/how-to-install-java-on-windows/"/>
+        <updated>2022-03-03T18:07:41.000Z</updated>
+        <summary type="html"><![CDATA[If you want to run any Java program on your Windows PC, you won't be able to do it without installing the Java Development Kit (JDK for short).  The JDK also contains the Java Runtime Environment (or JRE) which is the core of a Java program.  If you]]></summary>
+        <author>
+            <name>Md. Fahim Bin Amin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Get Location Information of an IP Address Using Python]]></title>
+        <id>6220562bc4d0d306772f31f5</id>
+        <link href="https://www.freecodecamp.org/news/how-to-get-location-information-of-ip-address-using-python/"/>
+        <updated>2022-03-03T17:55:34.000Z</updated>
+        <summary type="html"><![CDATA[Sometimes you'll need to know the location of an IP address, whether it's your own or that of a site you're using.  One use-case for this is when you want to send login information to users for your website.  In this article, we're going to see how you]]></summary>
+        <author>
+            <name>Ashutosh Krishna</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Solve Project Euler Problems in Rust]]></title>
+        <id>62168995c4d0d306772ef0d1</id>
+        <link href="https://www.freecodecamp.org/news/project-euler-problems-in-rust/"/>
+        <updated>2022-03-03T17:09:14.000Z</updated>
+        <summary type="html"><![CDATA[You can now solve the classic Project Euler programming problems using the Rust language. Each of these problems comes with a user-friendly test suite. Here's the full Project Euler Rust GitHub repository [https://github.com/freeCodeCamp/euler-rust]. If you do not know Rust, and want to learn it, you can start with  freeCodeCamp's]]></summary>
+        <author>
+            <name>Shaun Hamilton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Say Hello to selectmenu, a Fully Style-able select Element]]></title>
+        <id>https://css-tricks.com/?p=363972</id>
+        <link href="https://css-tricks.com/the-selectmenu-element/"/>
+        <updated>2022-03-03T15:35:32.000Z</updated>
+        <summary type="html"><![CDATA[I want to introduce you to a new, experimental form control called <selectmenu>. We’ll get deep into it, including how much easier it is to style than a traditional <select> element. But first, let’s fill in some context …
+Say Hello to selectmenu, a Fully Style-able select Element originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <author>
+            <name>Patrick Brosset</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build Membership Businesses with Memberful]]></title>
+        <id>https://css-tricks.com/?p=364001</id>
+        <link href="https://css-tricks.com/build-membership-businesses-with-memberful/"/>
+        <updated>2022-03-03T15:33:57.000Z</updated>
+        <summary type="html"><![CDATA[(This is a sponsored post.)
+What would your business be like if you sold memberships? It might be more than fun to think about, in fact, it might just be transformative. With membership, would you include little add-ons or …
+Build Membership Businesses with Memberful originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building Web Layouts For Dual-Screen And Foldable Devices]]></title>
+        <id>https://smashingmagazine.com/2022/03/building-web-layouts-dual-screen-foldable-devices/</id>
+        <link href="https://smashingmagazine.com/2022/03/building-web-layouts-dual-screen-foldable-devices/"/>
+        <updated>2022-03-03T10:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Dual-screen devices are just the next evolution in responsive design. If you have a PWA or website, the APIs available make integrating into your existing code base seamless. This article explains why it’s an exciting time for layout on the web, and how dual screens provide an opportunity to get even more creative.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Stephanie Stimac)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[7 Fresh Links on Performance For March 2022]]></title>
         <id>https://css-tricks.com/?p=364350</id>
@@ -1944,108 +2047,6 @@ User Registration and Auth Using Firebase and React originally published on CSS-
         <summary type="html"><![CDATA[Python is a fantastic programming language that allows you to use both functional and object-oriented programming paradigms.  Python programmers should be able to use fundamental object-oriented programming concepts, whether they are software developers, machine learning engineers, or something else.  All four core aspects of a generic OOP framework]]></summary>
         <author>
             <name>Ashutosh Krishna</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Improving JavaScript Bundle Performance With Code-Splitting]]></title>
-        <id>https://smashingmagazine.com/2022/02/javascript-bundle-performance-code-splitting/</id>
-        <link href="https://smashingmagazine.com/2022/02/javascript-bundle-performance-code-splitting/"/>
-        <updated>2022-02-02T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[In this article, Adrian Bece shares more about the benefits and caveats of code-splitting and how page performance and load times can be improved by dynamically loading expensive, non-critical JavaScript bundles.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Adrian Bece)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Scope and Closures in JavaScript – Explained with Examples]]></title>
-        <id>61f8b7e5f2ed6b06db5a9eed</id>
-        <link href="https://www.freecodecamp.org/news/scope-and-closures-in-javascript/"/>
-        <updated>2022-02-01T23:52:27.000Z</updated>
-        <summary type="html"><![CDATA[You may have come across or written code similar to this when writing JavaScript: function sayWord(word) { 	return () => console.log(word); } const sayHello = sayWord("hello"); sayHello(); // "hello" This code is interesting for a couple of reasons. First, we can access word in the function returned from sayWord. Second,]]></summary>
-        <author>
-            <name>Zach Snoek</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Code and Deploy a Serverless API Using Go and AWS]]></title>
-        <id>61f9b031f2ed6b06db5aaa4e</id>
-        <link href="https://www.freecodecamp.org/news/code-and-deploy-a-serverless-api-using-go-and-aws/"/>
-        <updated>2022-02-01T22:24:50.000Z</updated>
-        <summary type="html"><![CDATA[Creating a serverless API can often be a better choice than coding a backend in Node.js, Laravel, Spring Boot, or some other backend framework. We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to code and deploy a serverless API using Go and AWS.]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build Your First Web App in Julia with Genie.jl 🧞‍♂️]]></title>
-        <id>61f556d0f2ed6b06db5a7f43</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-web-apps-in-julia/"/>
-        <updated>2022-02-01T21:33:45.000Z</updated>
-        <summary type="html"><![CDATA[Julia is a high-level, dynamic, and open-source programming language. It's designed to be as easy to use as Python while remaining as performant as C or C++.  Many early use cases for Julia were in the scientific domains where massive computational processing was and still is required. But as]]></summary>
-        <author>
-            <name>Logan Kilpatrick</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HTML Center Image – CSS Align Img Center Example]]></title>
-        <id>61f920a8f2ed6b06db5aa13a</id>
-        <link href="https://www.freecodecamp.org/news/html-center-image-css-align-img-center-example/"/>
-        <updated>2022-02-01T21:16:57.000Z</updated>
-        <summary type="html"><![CDATA[If you're making websites with HTML and CSS, you will be working with images a lot. Developers often struggle with image alignment in CSS, especially when trying to figure out how to center an image. Centering anything in CSS is not really a straightforward thing - especially for beginners. This]]></summary>
-        <author>
-            <name>Kolade Chris</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Next.js and Firebase Tutorial – How to Build an Evernote Clone]]></title>
-        <id>61f68d36f2ed6b06db5a8963</id>
-        <link href="https://www.freecodecamp.org/news/nextjs-firebase-tutorial-build-an-evernote-clone/"/>
-        <updated>2022-02-01T18:30:40.000Z</updated>
-        <summary type="html"><![CDATA[Next.js is a server-side rendering framework based on React, which is search engine optimized. So, let's build an Evernote clone using Next.js to learn how it works. We will use the following tech stack:  1. Next.js for the UI  2. Firebase for the database and for hosting our]]></summary>
-        <author>
-            <name>Nishant Kumar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Are Graph Neural Networks? How GNNs Work, Explained with Examples]]></title>
-        <id>61ef7522f2ed6b06db5a420b</id>
-        <link href="https://www.freecodecamp.org/news/graph-neural-networks-explained-with-examples/"/>
-        <updated>2022-02-01T16:50:35.000Z</updated>
-        <summary type="html"><![CDATA[Graph Neural Networks are getting more and more popular and are being used extensively in a wide variety of projects.  In this article, I help you get started and understand how graph neural networks work while also trying to address the question "why" at each stage.  Finally we]]></summary>
-        <author>
-            <name>Rishit Dagli</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python Game Development – How to Make a Turtle Racing Game with PyCharm]]></title>
-        <id>61990e8b11d3cb08287a9bf9</id>
-        <link href="https://www.freecodecamp.org/news/how-to-make-racing-game-using-python/"/>
-        <updated>2022-02-01T15:49:24.000Z</updated>
-        <summary type="html"><![CDATA[In this article, you'll learn how to build a racing game in Python using the Turtle library in just 39 lines of code.  Here's what we're going to create: Turtle Racing Game Project Overview🧵 Prerequisites Very basic knowledge of Python programming will be enough to go through this tutorial.]]></summary>
-        <author>
-            <name>Shahan Chowdhury</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“Evergreen” Does Not Mean Immediately Available]]></title>
-        <id>https://css-tricks.com/?p=362169</id>
-        <link href="https://css-tricks.com/evergreen-does-not-mean-immediately-available/"/>
-        <updated>2022-02-01T15:38:41.000Z</updated>
-        <summary type="html"><![CDATA[I have a coworker who is smart, capable, and technologically-literate. Like me, they work on the web full-time.
-When they are sharing their screen in a meeting, I find myself disassociating fixating on the red update button in their copy …
-“Evergreen” Does Not Mean Immediately Available originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
-        <author>
-            <name>Eric Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meet “Touch Design For Mobile Interfaces”, A New Smashing Book]]></title>
-        <id>https://smashingmagazine.com/2022/02/touch-design-release/</id>
-        <link href="https://smashingmagazine.com/2022/02/touch-design-release/"/>
-        <updated>2022-02-01T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[It’s shipping! Meet “Touch Design for Mobile Interfaces”, our brand-new guide with guidelines and best practices to improve usability and accessibility on mobile. 400 pages. For designers and developers working with mobile UIs.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
         </author>
     </entry>
 </feed>
