@@ -533,24 +533,6 @@
           "publishedOn": "2022-02-03T15:24:01.000Z",
           "wordCount": 3458,
           "title": "The Making of Atomic CSS: An Interview With Thierry Koblentz"
-        },
-        {
-          "id": "https://css-tricks.com/?p=362893",
-          "author": "Chris Coyier",
-          "description": "Here’s a super classy demo from Michelle Barker over on Codrops that shows how to build a scrollable and draggable timeline with GSAP. It’s an interesting challenge to have two different interactions (vertical scrolling and horizontal dragging) be tied together …\nBuilding a Scrollable and Draggable Timeline with GSAP originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
-          "link": "https://css-tricks.com/building-a-scrollable-and-draggable-timeline-with-gsap/",
-          "publishedOn": "2022-02-02T21:11:55.000Z",
-          "wordCount": 381,
-          "title": "Building a Scrollable and Draggable Timeline with GSAP"
-        },
-        {
-          "id": "https://css-tricks.com/?p=362521",
-          "author": "Taminoturoko Briggs",
-          "description": "The ability to identify users is vital for maintaining the security of any applications. Equally important is the code that’s written to manage user identities, particularly when it comes to avoiding loopholes for unauthorized access to data held by an …\nUser Registration and Auth Using Firebase and React originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
-          "link": "https://css-tricks.com/user-registration-authentication-firebase-react/",
-          "publishedOn": "2022-02-02T15:42:43.000Z",
-          "wordCount": 4765,
-          "title": "User Registration and Auth Using Firebase and React"
         }
       ]
     },
@@ -559,6 +541,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2022/03/easy-information-architecture/",
+          "author": "hello@smashingmagazine.com (Paul Boag)",
+          "description": "If users cannot find the answers to their questions or are not exposed to critical messaging, they will not act, and your website will fail. To prevent that from happening, you need an effective information architecture. In this article, Paul Boag provides you with a process to ensure you have precisely that.",
+          "link": "https://smashingmagazine.com/2022/03/easy-information-architecture/",
+          "publishedOn": "2022-03-04T10:30:00.000Z",
+          "wordCount": 3165,
+          "title": "How To Create An Information Architecture That Is Easy To Use",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/771aac3c-df07-49cb-a4b1-8558b39f9e2a/easy-information-architecture.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/771aac3c-df07-49cb-a4b1-8558b39f9e2a/easy-information-architecture.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2022/03/building-web-layouts-dual-screen-foldable-devices/",
           "author": "hello@smashingmagazine.com (Stephanie Stimac)",
@@ -853,20 +850,6 @@
             "length": "0",
             "type": "image/jpg"
           }
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/02/reducing-web-carbon-footprint-optimizing-social-media-embeds/",
-          "author": "hello@smashingmagazine.com (Michelle Barker)",
-          "description": "In this article, we’ll look specifically at what we can do to reduce the impact of social media embeds and social sharing widgets — or even some strategies to avoid them altogether. While the spotlight is on reducing the environmental impact, many of these tips will be great for performance too.",
-          "link": "https://smashingmagazine.com/2022/02/reducing-web-carbon-footprint-optimizing-social-media-embeds/",
-          "publishedOn": "2022-02-03T12:00:00.000Z",
-          "wordCount": 2563,
-          "title": "Reducing The Web’s Carbon Footprint: Optimizing Social Media Embeds",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/686a0218-bea0-4a0e-a2b9-aca40c29d412/reducing-web-carbon-footprint-optimizing-social-media-embeds.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
         }
       ]
     },
@@ -875,6 +858,56 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "62227173c4d0d306772f4441",
+          "author": "Beau Carnes",
+          "description": "It's time for you to improve your HTML and CSS skills by creating a blog. We just posted a fullstack development course on the freeCodeCamp.org YouTube channel that will teach you how to build a blog with HTML and CSS. Julio Codes created this course. He has a popular YouTube",
+          "link": "https://www.freecodecamp.org/news/fullstack-development-project-create-a-blog-with-html-css/",
+          "publishedOn": "2022-03-04T20:11:34.000Z",
+          "wordCount": 441,
+          "title": "Fullstack Development Project - Create a Blog with HTML & CSS",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/blog.png"
+        },
+        {
+          "id": "6221b192c4d0d306772f3ed5",
+          "author": "MacBobby Chibuzor",
+          "description": "What is Haskell? What is it used for? Why are there relatively few Haskell programmers? How can I get started with Haskell? If you're asking yourself these questions, then this article is for you. In it, I'll answer your questions about the Haskell programming language and demystify it for you.",
+          "link": "https://www.freecodecamp.org/news/haskell-programming-language-introduction/",
+          "publishedOn": "2022-03-04T19:57:55.000Z",
+          "wordCount": 1662,
+          "title": "Haskell Programming Language – How to Install and Use Haskell Tutorial",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/Hacking-into-Haskell.png"
+        },
+        {
+          "id": "607da1ecdd38b9088c2bc6c9",
+          "author": "Dillion Megida",
+          "description": "When using Python, you may install different version variations for different projects. But sometimes this can affect how your code executes, as it may not use the correct version. In this article, we'll learn how to install new Python versions (Python 3 in our case) and how to set this",
+          "link": "https://www.freecodecamp.org/news/how-to-install-python-3-on-mac-and-update-the-python-version-macos-homebrew-command-guide/",
+          "publishedOn": "2022-03-04T18:44:30.000Z",
+          "wordCount": 715,
+          "title": "How to Install Python 3 on Mac and Update the Version with Pyenv – MacOS Homebrew Command Guide",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/pexels-christina-morillo-1181359--2-.jpg"
+        },
+        {
+          "id": "62189cadc4d0d306772ef999",
+          "author": "Miya Liu",
+          "description": "Original article: 在开放社区中的六年，我做着喜欢且擅长的事情，利他而自利 [https://chinese.freecodecamp.org/news/my-six-years-in-open-community/] by Miya Liu [https://chinese.freecodecamp.org/news/author/miyaliu/] Translated by: Alan Luo [/news/alan-luo] Hello, I'm Yuyu Liu (Miya) from the freeCodeCamp [http://freecodecamp.org/]  community. freeCodeCamp.org is the world's largest open-source non-profit programming education community. It is also an open-source project that has long been ranked number one on GitHub. In",
+          "link": "https://www.freecodecamp.org/news/my-six-years-in-open-community/",
+          "publishedOn": "2022-03-04T16:35:38.000Z",
+          "wordCount": 8800,
+          "title": "My Six Years in the Open Community",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/02/WechatIMG3506.jpeg"
+        },
+        {
+          "id": "6220a4a5c4d0d306772f338d",
+          "author": "Ihechikara Vincent Abba",
+          "description": "In this article, we will talk about the queue data structure, its operations, and how to implement these operations using an array in Java.  What Is a Queue? A queue is linear data structure that consists of a collection is of items that follow a first-in-first-out sequence. This implies",
+          "link": "https://www.freecodecamp.org/news/queue-data-structure-definition-and-java-example-code/",
+          "publishedOn": "2022-03-04T00:36:52.000Z",
+          "wordCount": 1812,
+          "title": "Queue Data Structure – Definition and Java Example Code",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/queue-data-structure.png"
+        },
         {
           "id": "62208eb2c4d0d306772f3282",
           "author": "Njoku Samson Ebere",
@@ -1952,33 +1985,6 @@
           "publishedOn": "2022-02-03T16:31:30.000Z",
           "wordCount": 2104,
           "title": "How to Get Started in Tech"
-        },
-        {
-          "id": "61fad67af2ed6b06db5ab66f",
-          "author": "Beau Carnes",
-          "description": "If you want to design your app in the best way possible, it is important to really understand the needs of your users. This can be done through user research. We just published a UI / UX design course on the freeCodeCamp.org YouTube channel that will teach you how to",
-          "link": "https://www.freecodecamp.org/news/use-user-reseach-to-create-the-perfect-ui-design/",
-          "publishedOn": "2022-02-02T19:17:05.000Z",
-          "wordCount": 34802,
-          "title": "Use User Research to Create the Perfect UI Design"
-        },
-        {
-          "id": "61f8480bf2ed6b06db5a9d2b",
-          "author": "Edan Ben-Atar",
-          "description": "WordPress, Shopify, and Ghost are some of the most powerful and popular CMS platforms out there. And you might wonder why so many people use them. Well, it's because they're easy to use, cost-effective, and highly efficient. With WordPress, Shopify, and Ghost, you can create a website from scratch in",
-          "link": "https://www.freecodecamp.org/news/chose-a-cms-wordpress-vs-shopify-vs-ghost/",
-          "publishedOn": "2022-02-02T17:05:13.000Z",
-          "wordCount": 2308,
-          "title": "How to Choose a CMS – WordPress vs Ghost vs Shopify"
-        },
-        {
-          "id": "61f62beff2ed6b06db5a854b",
-          "author": "Ashutosh Krishna",
-          "description": "Python is a fantastic programming language that allows you to use both functional and object-oriented programming paradigms.  Python programmers should be able to use fundamental object-oriented programming concepts, whether they are software developers, machine learning engineers, or something else.  All four core aspects of a generic OOP framework",
-          "link": "https://www.freecodecamp.org/news/object-oriented-programming-in-python/",
-          "publishedOn": "2022-02-02T15:24:30.000Z",
-          "wordCount": 2289,
-          "title": "Object-Oriented Programming in Python"
         }
       ]
     }
