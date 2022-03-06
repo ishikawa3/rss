@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-03-05T00:08:13.499Z</updated>
+    <updated>2022-03-06T00:09:48.227Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
@@ -34,6 +34,16 @@
         <summary type="html"><![CDATA[When using Python, you may install different version variations for different projects. But sometimes this can affect how your code executes, as it may not use the correct version. In this article, we'll learn how to install new Python versions (Python 3 in our case) and how to set this]]></summary>
         <author>
             <name>Dillion Megida</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[We All Are Ukraine 🇺🇦]]></title>
+        <id>https://smashingmagazine.com/2022/03/we-all-are-ukraine/</id>
+        <link href="https://smashingmagazine.com/2022/03/we-all-are-ukraine/"/>
+        <updated>2022-03-04T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[As a design community, we all can’t be silent in these times. We need to be united in our fight against the war, for democracy, for those dreams that children are entitled to have when they are growing up. It’s our obligation to help as much as we can. **We are donating all proceeds** from "Interface Design Checklists" PDF to support Ukraine.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
         </author>
     </entry>
     <entry>
@@ -1939,112 +1949,6 @@ A Deep Introduction to WordPress Block Themes originally published on CSS-Tricks
         <summary type="html"><![CDATA[In this second part, Noam suggests a few patterns of how to use the web platform directly as an alternative to some of the solutions that are offered by frameworks.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Noam Rosenthal)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building a newbie-friendly codebase]]></title>
-        <id>https://css-tricks.com/?p=362884</id>
-        <link href="https://css-tricks.com/building-a-newbie-friendly-codebase/"/>
-        <updated>2022-02-03T22:32:58.000Z</updated>
-        <summary type="html"><![CDATA[Pedro Santos suggests:
-Using naming conventions such that you can learn them once and apply them everywhere
-Unidirectional data flows. Make it easy to follow the app flow.
-No magic numbers. I’d add they are even worse in CSS
-…
-Building a newbie-friendly codebase originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Create Your Own Google Chrome Extension]]></title>
-        <id>61f66e8bf2ed6b06db5a880a</id>
-        <link href="https://www.freecodecamp.org/news/building-chrome-extension/"/>
-        <updated>2022-02-03T19:42:43.000Z</updated>
-        <summary type="html"><![CDATA[If you are a Google Chrome user, you've probably used some extensions in the browser.  Have you ever wondered how to build one yourself? In this article, I will show you how you can create a Chrome extension from scratch. Table Of Contents  * What is a Chrome]]></summary>
-        <author>
-            <name>Sampurna Chapagain</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[20 Award-Winning JavaScript Games – js13kGames 2021 Winners]]></title>
-        <id>61fc2478f2ed6b06db5ac159</id>
-        <link href="https://www.freecodecamp.org/news/20-award-winning-javascript-games-js13kgames-2021-winners/"/>
-        <updated>2022-02-03T19:01:19.000Z</updated>
-        <summary type="html"><![CDATA[You are just about to learn about 20 great examples of code from 20 insanely talented developers. Js13kGames is a JavaScript coding competition open to everyone and anyone wanting to try out Game Development. The 2021 winners have been announced, and you can play the games for free. As the]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unreal Engine 5 Crash Course with Blueprint]]></title>
-        <id>61fc1f32f2ed6b06db5ac129</id>
-        <link href="https://www.freecodecamp.org/news/unreal-engine-5-crash-course-with-blueprint/"/>
-        <updated>2022-02-03T18:38:19.000Z</updated>
-        <summary type="html"><![CDATA[Unreal Engine is one of the most popular game engines in use today. It can be helpful to learn if you are interested in 3D or 2D game development. We just published an Unreal Engine 5 crash course on the freeCodeCamp.org YouTube channel. Varnos Games created this course. You will]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HTML Cheat Sheet – HTML Elements List Reference]]></title>
-        <id>61f19aaff2ed6b06db5a5c9f</id>
-        <link href="https://www.freecodecamp.org/news/html-cheat-sheet-html-elements-list-reference/"/>
-        <updated>2022-02-03T17:00:24.000Z</updated>
-        <summary type="html"><![CDATA[In this tutorial, we will go over commonly used HTML tags, elements, and attributes. We'll also see examples of how these tags, elements, and attributes work. You can use this article as a reference guide whether you're a beginner or experienced developer. What Makes Up an HTML Document? The following]]></summary>
-        <author>
-            <name>Ihechikara Vincent Abba</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Div Background Color – How to Change Background Color in CSS]]></title>
-        <id>61fbafd8f2ed6b06db5abd39</id>
-        <link href="https://www.freecodecamp.org/news/div-background-color-how-to-change-background-color-in-css/"/>
-        <updated>2022-02-03T16:50:46.000Z</updated>
-        <summary type="html"><![CDATA[If you're working on a web development project, setting a nice background color can give the website a more enticing look. To set a background color for a div or related element in CSS, you use the  background-color property. While setting this background color, your creativity is your limit]]></summary>
-        <author>
-            <name>Kolade Chris</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[React Best Practices – Tips for Writing Better React Code in 2022]]></title>
-        <id>61ebc3d6011f893303470420</id>
-        <link href="https://www.freecodecamp.org/news/best-practices-for-react/"/>
-        <updated>2022-02-03T16:41:47.000Z</updated>
-        <summary type="html"><![CDATA[Two years ago, I started to learn and use React. And today I'm still using it at my day job as a Software Developer and in my own side projects. During that time I've come across a lot of "typical" issues. So I searched around and found some best practices]]></summary>
-        <author>
-            <name>Jean-Marc Möckel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HTML Label – Label Tag Example]]></title>
-        <id>61fa3eb0f2ed6b06db5aac87</id>
-        <link href="https://www.freecodecamp.org/news/html-label-label-tag-example/"/>
-        <updated>2022-02-03T16:37:47.000Z</updated>
-        <summary type="html"><![CDATA[You use the HTML <label> tag to caption form controls. <label> is an inline element – meaning it doesn't take up an entire line unless you put a break tag before it. By definition, form controls refer to the elements inside a form element. Examples of form controls include <input]]></summary>
-        <author>
-            <name>Kolade Chris</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Get Started in Tech]]></title>
-        <id>61fa254ff2ed6b06db5aab3f</id>
-        <link href="https://www.freecodecamp.org/news/how-to-get-started-in-tech/"/>
-        <updated>2022-02-03T16:31:30.000Z</updated>
-        <summary type="html"><![CDATA[If you are just starting out in tech but do not know which path to take, then this article is for you. If you've started learning, but you're still confused on which programming language or tools to choose, don't worry – we'll discuss that here. And if you've ever wondered]]></summary>
-        <author>
-            <name>Njoku Samson Ebere</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Making of Atomic CSS: An Interview With Thierry Koblentz]]></title>
-        <id>https://css-tricks.com/?p=362578</id>
-        <link href="https://css-tricks.com/thierry-koblentz-atomic-css/"/>
-        <updated>2022-02-03T15:24:01.000Z</updated>
-        <summary type="html"><![CDATA[I interviewed Thierry Koblentz, creator of Atomic CSS, to understand the history and background that led to making of the popular CSS framework. Thierry, now retired, has vast experience writing CSS at large scale and has previously worked …
-The Making of Atomic CSS: An Interview With Thierry Koblentz originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
-        <author>
-            <name>Pankaj Parashar</name>
         </author>
     </entry>
 </feed>
