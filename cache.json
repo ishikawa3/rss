@@ -506,15 +506,6 @@
           "publishedOn": "2022-02-07T15:24:44.000Z",
           "wordCount": 4367,
           "title": "CSS Scroll Snap Slide Deck That Supports Live Coding"
-        },
-        {
-          "id": "https://css-tricks.com/?p=362799",
-          "author": "Ganesh Dahal",
-          "description": "The relatively new WordPress editor, also known as the WordPress Block Editor, always under development via the Gutenberg plugin, has been with us since 2018. You can use the block editor on any WordPress theme, provided the theme …\nA Deep Introduction to WordPress Block Themes originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
-          "link": "https://css-tricks.com/a-deep-introduction-to-wordpress-block-themes/",
-          "publishedOn": "2022-02-04T15:07:04.000Z",
-          "wordCount": 6063,
-          "title": "A Deep Introduction to WordPress Block Themes"
         }
       ]
     },
@@ -830,20 +821,6 @@
           "title": "Using QR Codes In Your Business: Best Practices And Pitfalls",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/fa41b6d9-f3ce-4b05-a110-21a7bc6c7595/qr-codes-business-best-practices-pitfalls.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/02/web-frameworks-guide-part2/",
-          "author": "hello@smashingmagazine.com (Noam Rosenthal)",
-          "description": "In this second part, Noam suggests a few patterns of how to use the web platform directly as an alternative to some of the solutions that are offered by frameworks.",
-          "link": "https://smashingmagazine.com/2022/02/web-frameworks-guide-part2/",
-          "publishedOn": "2022-02-04T13:30:00.000Z",
-          "wordCount": 3779,
-          "title": "What Web Frameworks Solve: The Vanilla Alternative (Part 2)",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a3745837-4c65-4b2b-81ab-42e0088633d2/web-frameworks-guide-part2.jpg",
             "length": "0",
             "type": "image/jpg"
           }
@@ -1892,24 +1869,6 @@
           "publishedOn": "2022-02-07T14:49:47.000Z",
           "wordCount": 1158,
           "title": "What Can Money Heist Teach Us About Cybersecurity?"
-        },
-        {
-          "id": "61f8eea6f2ed6b06db5a9fd6",
-          "author": "Nuno Bispo",
-          "description": "Heroku is a well-known PaaS widely used by developers. And as a fun and useful project, you can easily make your own Heroku-like PaaS with Dokku. What is Heroku? Heroku is a platform as a service (PaaS) company founded in 2007. The platform runs on AWS, and its ephemeral storage",
-          "link": "https://www.freecodecamp.org/news/how-to-build-your-on-heroku-with-dokku/",
-          "publishedOn": "2022-02-04T19:01:06.000Z",
-          "wordCount": 4308,
-          "title": "How to Build Your Own Heroku with Dokku"
-        },
-        {
-          "id": "61fc2f52f2ed6b06db5ac1b7",
-          "author": "Ihechikara Vincent Abba",
-          "description": "In this article, we will talk about arrays in Java. We will go over some examples to help you understand what an array is, how to declare them, and how to use them in your Java code. What is an array? In Java, you use an array to store multiple",
-          "link": "https://www.freecodecamp.org/news/java-array-how-to-declare-and-initialize-an-array-in-java-example/",
-          "publishedOn": "2022-02-04T16:42:44.000Z",
-          "wordCount": 758,
-          "title": "Java Array – How to Declare and Initialize an Array in Java Example"
         }
       ]
     }
