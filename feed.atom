@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-03-11T00:10:06.892Z</updated>
+    <updated>2022-03-12T00:07:43.852Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Python Comment Block – How to Comment Out Code in Python]]></title>
+        <id>622ae68d63ded806bb9e81de</id>
+        <link href="https://www.freecodecamp.org/news/python-comment-block-how-to-comment-out-code-in-python/"/>
+        <updated>2022-03-11T20:11:40.000Z</updated>
+        <summary type="html"><![CDATA[In this article, we'll talk about comments in Python, why they are important, and how to use them effectively in your code.  When to Use Comments In this section, we'll talk about some of the general use cases for comments. These aren't only applicable to Python, but to most]]></summary>
+        <author>
+            <name>Ihechikara Vincent Abba</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Create a New Stacking Context with the Isolation Property in CSS]]></title>
+        <id>61e5c35ab837d507ba0a4b06</id>
+        <link href="https://www.freecodecamp.org/news/the-css-isolation-property/"/>
+        <updated>2022-03-11T20:03:45.000Z</updated>
+        <summary type="html"><![CDATA[What is the CSS Isolation Property? In CSS, you can use the isolation property to create a new stacking context. Here's what that looks like: .container-for-new-stacking-context {   isolation: isolate; } The default value for isolation is auto, which is a bit more nuanced as a stacking context can]]></summary>
+        <author>
+            <name>Natalie Pina</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python Concatenate Strings – How to Combine and Append Strings in Python]]></title>
+        <id>622a2a6663ded806bb9e7d22</id>
+        <link href="https://www.freecodecamp.org/news/python-concatenate-strings-how-to-combine-and-append-strings-in-python/"/>
+        <updated>2022-03-11T17:19:31.000Z</updated>
+        <summary type="html"><![CDATA[When you're learning a programming language, you're likely to come across a data type called a string. A string usually contains a series of characters nested in quotation marks that can be represented as a text.  In this article, we will talk about string concatenation in Python. This is]]></summary>
+        <author>
+            <name>Ihechikara Vincent Abba</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Complete Guide To Mobile App Marketing]]></title>
+        <id>https://smashingmagazine.com/2022/03/guide-mobile-app-marketing/</id>
+        <link href="https://smashingmagazine.com/2022/03/guide-mobile-app-marketing/"/>
+        <updated>2022-03-11T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Standing out among the millions of mobile apps can be challenging, but proper marketing can give you that crucial edge. This piece shares how to start your mobile app marketing strategy and improve it as you go while keeping up with the latest trends in the market.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Sona Dabaghyan)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CNCF Kubernetes and Cloud-Native Associate Study Course – Pass the Exam With This Free 13-Hour Course]]></title>
+        <id>6220e4a7c4d0d306772f366e</id>
+        <link href="https://www.freecodecamp.org/news/cncf-kubernetes-cloud-native-associate-exam-course/"/>
+        <updated>2022-03-10T20:19:15.000Z</updated>
+        <summary type="html"><![CDATA[This exam mostly deals with cloud-native concepts. Even if you are new to cloud-native, you should be able to prepare for this exam and earn the CNCF certification. This entire free course is now live on YouTube, and linked below. Before you dive into it, read this guide to help]]></summary>
+        <author>
+            <name>Andrew Brown</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CNCF Kubernetes and Cloud-Native Associate Study Course – Pass the Exam With This Free 13-Hour Course]]></title>
         <id>6220e4a7c4d0d306772f366e</id>
@@ -1817,78 +1867,6 @@ A Chrome Extension for Cloudinary That Helps You Pluck Out Useful Media URLs Fro
         <summary type="html"><![CDATA[If you wanna build apps on the blockchain, you are likely going to need a way to query data. We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to query data on the blockchain in order to build your own decentralized apps. Ania Kubów]]></summary>
         <author>
             <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SVGcode for “Live Tracing” Raster Images]]></title>
-        <id>https://css-tricks.com/?p=362777</id>
-        <link href="https://css-tricks.com/svgcode-raster-to-vector/"/>
-        <updated>2022-02-09T21:39:41.000Z</updated>
-        <summary type="html"><![CDATA[Say you have a bitmap graphic — like a JPG, PNG, or GIF — and you wish it was vector, like SVG. What do you do? You could trace it yourself in some kind of design software. Or tools within …
-SVGcode for “Live Tracing” Raster Images originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Artificial Intelligence From Its Early Development to the Present Day]]></title>
-        <id>6202d8fe56125b0677c62f23</id>
-        <link href="https://www.freecodecamp.org/news/artificial-intelligence-from-its-early-development-to-the-present-day/"/>
-        <updated>2022-02-09T20:29:11.000Z</updated>
-        <summary type="html"><![CDATA[Before we get started, I'll just say this: don't leave this article without at least reading the final two paragraphs. I won't spoil it for you. But trust me, you won't want to miss it! The history of artificial intelligence can be traced back to early philosophical and scientific thinking]]></summary>
-        <author>
-            <name>David Clinton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build Dynamic Forms in React]]></title>
-        <id>61ffb402f2ed6b06db5ae0f7</id>
-        <link href="https://www.freecodecamp.org/news/build-dynamic-forms-in-react/"/>
-        <updated>2022-02-09T18:08:52.000Z</updated>
-        <summary type="html"><![CDATA[In this tutorial, let's learn how to build dynamic forms in React. Using dynamic forms, we can add fields or remove them depending on our needs.  So, let's get started. How to Create a Form in React Let's create a simple form first. The syntax is straightforward: import './App.css';]]></summary>
-        <author>
-            <name>Nishant Kumar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Logging Web App with Server-Sent Events, RxJS, and Express]]></title>
-        <id>62012010f2ed6b06db5aeee0</id>
-        <link href="https://www.freecodecamp.org/news/build-a-logging-web-app-with-server-sent-events-rxjs-and-express/"/>
-        <updated>2022-02-09T18:06:54.000Z</updated>
-        <summary type="html"><![CDATA[Say you're working on your new great idea – a web or mobile app, and a back end server. Nothing too complicated so far. Until you realize that you need to stream data from your server to these clients.  Usually, when working on this, the first thing that comes]]></summary>
-        <author>
-            <name>Shayan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Snake Game with React, Redux, and Redux Saga]]></title>
-        <id>61ff69c0f2ed6b06db5adbae</id>
-        <link href="https://www.freecodecamp.org/news/build-a-snake-game-with-react-redux-and-redux-sagas/"/>
-        <updated>2022-02-09T18:03:35.000Z</updated>
-        <summary type="html"><![CDATA[In this article, I am going to walk you through creating a snake game using a React application. It is a simple 2d game built using TypeScript, and we won't need to use any third-party graphics libraries to build it.  This is what we'll make in this tutorial: Snake]]></summary>
-        <author>
-            <name>Keyur Paralkar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Your Developer Career Questions Answered]]></title>
-        <id>61bb6e3e07222107a6c7ae69</id>
-        <link href="https://www.freecodecamp.org/news/your-developer-career-questions-answered/"/>
-        <updated>2022-02-09T16:54:00.000Z</updated>
-        <summary type="html"><![CDATA[Will AI ever replace developers? Which programming language should you learn first? What's the best way to learn programming? Learn the answers to these questions and more from a group of experienced developers and technical course creators. We just published a video on the freeCodeCamp.org YouTube channel where experienced developers]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Make CSS Slanted Containers]]></title>
-        <id>https://css-tricks.com/?p=362940</id>
-        <link href="https://css-tricks.com/css-slanted-containers/"/>
-        <updated>2022-02-09T15:19:47.000Z</updated>
-        <summary type="html"><![CDATA[I was updating my portfolio and wanted to use the forward slash (/) as a visual element for the site’s main layout. I hadn’t attempted to create a slanted container in CSS before, but it seemed like it …
-How to Make CSS Slanted Containers originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
-        <author>
-            <name>Dave Seidman</name>
         </author>
     </entry>
 </feed>

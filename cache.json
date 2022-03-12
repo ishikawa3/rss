@@ -443,24 +443,6 @@
           "publishedOn": "2022-02-10T15:23:31.000Z",
           "wordCount": 890,
           "title": "A Chrome Extension for Cloudinary That Helps You Pluck Out Useful Media URLs From Your Library Quickly"
-        },
-        {
-          "id": "https://css-tricks.com/?p=362777",
-          "author": "Chris Coyier",
-          "description": "Say you have a bitmap graphic — like a JPG, PNG, or GIF — and you wish it was vector, like SVG. What do you do? You could trace it yourself in some kind of design software. Or tools within …\nSVGcode for “Live Tracing” Raster Images originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
-          "link": "https://css-tricks.com/svgcode-raster-to-vector/",
-          "publishedOn": "2022-02-09T21:39:41.000Z",
-          "wordCount": 737,
-          "title": "SVGcode for “Live Tracing” Raster Images"
-        },
-        {
-          "id": "https://css-tricks.com/?p=362940",
-          "author": "Dave Seidman",
-          "description": "I was updating my portfolio and wanted to use the forward slash (/) as a visual element for the site’s main layout. I hadn’t attempted to create a slanted container in CSS before, but it seemed like it …\nHow to Make CSS Slanted Containers originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
-          "link": "https://css-tricks.com/css-slanted-containers/",
-          "publishedOn": "2022-02-09T15:19:47.000Z",
-          "wordCount": 1242,
-          "title": "How to Make CSS Slanted Containers"
         }
       ]
     },
@@ -469,6 +451,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2022/03/guide-mobile-app-marketing/",
+          "author": "hello@smashingmagazine.com (Sona Dabaghyan)",
+          "description": "Standing out among the millions of mobile apps can be challenging, but proper marketing can give you that crucial edge. This piece shares how to start your mobile app marketing strategy and improve it as you go while keeping up with the latest trends in the market.",
+          "link": "https://smashingmagazine.com/2022/03/guide-mobile-app-marketing/",
+          "publishedOn": "2022-03-11T12:00:00.000Z",
+          "wordCount": 3804,
+          "title": "A Complete Guide To Mobile App Marketing",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0defe765-5a21-40d6-a906-70edfad759ca/guide-mobile-app-marketing.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0defe765-5a21-40d6-a906-70edfad759ca/guide-mobile-app-marketing.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2022/03/introduction-aws-cloud-development-kit/",
           "author": "hello@smashingmagazine.com (Vivek Maskara)",
@@ -790,6 +787,46 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "622ae68d63ded806bb9e81de",
+          "author": "Ihechikara Vincent Abba",
+          "description": "In this article, we'll talk about comments in Python, why they are important, and how to use them effectively in your code.  When to Use Comments In this section, we'll talk about some of the general use cases for comments. These aren't only applicable to Python, but to most",
+          "link": "https://www.freecodecamp.org/news/python-comment-block-how-to-comment-out-code-in-python/",
+          "publishedOn": "2022-03-11T20:11:40.000Z",
+          "wordCount": 744,
+          "title": "Python Comment Block – How to Comment Out Code in Python",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/comments-python.jpg"
+        },
+        {
+          "id": "61e5c35ab837d507ba0a4b06",
+          "author": "Natalie Pina",
+          "description": "What is the CSS Isolation Property? In CSS, you can use the isolation property to create a new stacking context. Here's what that looks like: .container-for-new-stacking-context {   isolation: isolate; } The default value for isolation is auto, which is a bit more nuanced as a stacking context can",
+          "link": "https://www.freecodecamp.org/news/the-css-isolation-property/",
+          "publishedOn": "2022-03-11T20:03:45.000Z",
+          "wordCount": 899,
+          "title": "How to Create a New Stacking Context with the Isolation Property in CSS",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/02/stacked.jpg"
+        },
+        {
+          "id": "622a2a6663ded806bb9e7d22",
+          "author": "Ihechikara Vincent Abba",
+          "description": "When you're learning a programming language, you're likely to come across a data type called a string. A string usually contains a series of characters nested in quotation marks that can be represented as a text.  In this article, we will talk about string concatenation in Python. This is",
+          "link": "https://www.freecodecamp.org/news/python-concatenate-strings-how-to-combine-and-append-strings-in-python/",
+          "publishedOn": "2022-03-11T17:19:31.000Z",
+          "wordCount": 769,
+          "title": "Python Concatenate Strings – How to Combine and Append Strings in Python",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/join.jpg"
+        },
+        {
+          "id": "6220e4a7c4d0d306772f366e",
+          "author": "Andrew Brown",
+          "description": "This exam mostly deals with cloud-native concepts. Even if you are new to cloud-native, you should be able to prepare for this exam and earn the CNCF certification. This entire free course is now live on YouTube, and linked below. Before you dive into it, read this guide to help",
+          "link": "https://www.freecodecamp.org/news/cncf-kubernetes-cloud-native-associate-exam-course/",
+          "publishedOn": "2022-03-10T20:19:15.000Z",
+          "wordCount": 921,
+          "title": "CNCF Kubernetes and Cloud-Native Associate Study Course – Pass the Exam With This Free 13-Hour Course",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/cncf.png"
+        },
         {
           "id": "6220e4a7c4d0d306772f366e",
           "author": "Andrew Brown",
@@ -1849,51 +1886,6 @@
           "publishedOn": "2022-02-10T14:51:41.000Z",
           "wordCount": 533,
           "title": "Blockchain APIs - How to Query on the Blockchain"
-        },
-        {
-          "id": "6202d8fe56125b0677c62f23",
-          "author": "David Clinton",
-          "description": "Before we get started, I'll just say this: don't leave this article without at least reading the final two paragraphs. I won't spoil it for you. But trust me, you won't want to miss it! The history of artificial intelligence can be traced back to early philosophical and scientific thinking",
-          "link": "https://www.freecodecamp.org/news/artificial-intelligence-from-its-early-development-to-the-present-day/",
-          "publishedOn": "2022-02-09T20:29:11.000Z",
-          "wordCount": 1678,
-          "title": "Artificial Intelligence From Its Early Development to the Present Day"
-        },
-        {
-          "id": "61ffb402f2ed6b06db5ae0f7",
-          "author": "Nishant Kumar",
-          "description": "In this tutorial, let's learn how to build dynamic forms in React. Using dynamic forms, we can add fields or remove them depending on our needs.  So, let's get started. How to Create a Form in React Let's create a simple form first. The syntax is straightforward: import './App.css';",
-          "link": "https://www.freecodecamp.org/news/build-dynamic-forms-in-react/",
-          "publishedOn": "2022-02-09T18:08:52.000Z",
-          "wordCount": 1384,
-          "title": "How to Build Dynamic Forms in React"
-        },
-        {
-          "id": "62012010f2ed6b06db5aeee0",
-          "author": "Shayan",
-          "description": "Say you're working on your new great idea – a web or mobile app, and a back end server. Nothing too complicated so far. Until you realize that you need to stream data from your server to these clients.  Usually, when working on this, the first thing that comes",
-          "link": "https://www.freecodecamp.org/news/build-a-logging-web-app-with-server-sent-events-rxjs-and-express/",
-          "publishedOn": "2022-02-09T18:06:54.000Z",
-          "wordCount": 1595,
-          "title": "How to Build a Logging Web App with Server-Sent Events, RxJS, and Express"
-        },
-        {
-          "id": "61ff69c0f2ed6b06db5adbae",
-          "author": "Keyur Paralkar",
-          "description": "In this article, I am going to walk you through creating a snake game using a React application. It is a simple 2d game built using TypeScript, and we won't need to use any third-party graphics libraries to build it.  This is what we'll make in this tutorial: Snake",
-          "link": "https://www.freecodecamp.org/news/build-a-snake-game-with-react-redux-and-redux-sagas/",
-          "publishedOn": "2022-02-09T18:03:35.000Z",
-          "wordCount": 8818,
-          "title": "How to Build a Snake Game with React, Redux, and Redux Saga"
-        },
-        {
-          "id": "61bb6e3e07222107a6c7ae69",
-          "author": "Beau Carnes",
-          "description": "Will AI ever replace developers? Which programming language should you learn first? What's the best way to learn programming? Learn the answers to these questions and more from a group of experienced developers and technical course creators. We just published a video on the freeCodeCamp.org YouTube channel where experienced developers",
-          "link": "https://www.freecodecamp.org/news/your-developer-career-questions-answered/",
-          "publishedOn": "2022-02-09T16:54:00.000Z",
-          "wordCount": 449,
-          "title": "Your Developer Career Questions Answered"
         }
       ]
     }
