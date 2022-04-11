@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-04-10T00:09:52.515Z</updated>
+    <updated>2022-04-11T00:11:42.090Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Python If-Else Statement Example]]></title>
+        <id>62530365ac55f60686c316e5</id>
+        <link href="https://www.freecodecamp.org/news/python-if-else-statement-example/"/>
+        <updated>2022-04-10T17:05:36.000Z</updated>
+        <summary type="html"><![CDATA[If-Else statements – AKA conditional logic – are the bedrock of programming. And Python has these in spades. Python offers several options for evaluating variables, their states, and whether specific conditions are met:  * Vanilla if-else statements  * if statements without the else part  * nested if-else]]></summary>
+        <author>
+            <name>Quincy Larson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PMP Certification Cost – 2022 Exam Fees, Degree Requirements, and Years of Experience]]></title>
+        <id>6252eea7ac55f60686c315af</id>
+        <link href="https://www.freecodecamp.org/news/pmp-certification-cost-degree-experience/"/>
+        <updated>2022-04-10T15:44:12.000Z</updated>
+        <summary type="html"><![CDATA[The Project Management Professional (PMP) is widely seen by project managers as the "gold standard" credential. Many senior PM roles now require you to be PMP certified. So if you have been working as a PM for a few years, this guide will show you how you can take the]]></summary>
+        <author>
+            <name>Quincy Larson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Image File Types – The .jpeg, .svg, and .png Picture Format Extensions Explained]]></title>
+        <id>62518273ac55f60686c30623</id>
+        <link href="https://www.freecodecamp.org/news/image-file-types-picture-format-extensions-jpeg-gif-png-svg-tiff/"/>
+        <updated>2022-04-09T22:26:12.000Z</updated>
+        <summary type="html"><![CDATA[When you’re working with images, it’s important to understand the different file types. Which format is best for what application? In this tutorial, we’re going to explain the most common image file types, and when you should use them. Note that this is a short, non-technical article. If you want]]></summary>
+        <author>
+            <name>Quincy Larson</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Dynamic Data-Fetching In An Authenticated Next.js App]]></title>
         <id>https://smashingmagazine.com/2022/04/dynamic-data-fetching-authenticated-nextjs-app/</id>
@@ -32,6 +62,16 @@
         <link href="https://www.freecodecamp.org/news/break-the-code-2-game/"/>
         <updated>2022-04-08T03:38:54.000Z</updated>
         <summary type="html"><![CDATA[Break The Code 2.0 is a new browser game that sends you back in time to the year 1999. You complete codebreaking missions using your programming knowledge and your puzzle-solving intuition. The game is spread across 4 drives worth of missions:  * The /g1/ drive – "BoxOfChocolates"  *]]></summary>
+        <author>
+            <name>Quincy Larson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[List to String Python – join() Syntax Example]]></title>
+        <id>625208b3ac55f60686c30de0</id>
+        <link href="https://www.freecodecamp.org/news/python-list-to-string-join-example/"/>
+        <updated>2022-04-07T23:24:00.000Z</updated>
+        <summary type="html"><![CDATA[Sometimes you want to convert your Python lists into strings. This tutorial will show you an example of how you can do this. But first, let's explore the difference between the Python list data structure and the Python string data structure. What is a List in Python? In Python, a]]></summary>
         <author>
             <name>Quincy Larson</name>
         </author>
@@ -1276,36 +1316,6 @@ CSS-Tricks is joining DigitalOcean! originally published on CSS-Tricks. You shou
         <summary type="html"><![CDATA[Looking for ways to create a smooth CI/CD flow for your software? In this article, Tom Hastjarjanto shares some useful concepts that can be combined with GitHub Actions and NPM packages. With this setup, you will be able to release multiple times per hour with a fully documented trace managed by Git.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Tom Hastjarjanto)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python Comment Block – How to Comment Out Code in Python]]></title>
-        <id>622ae68d63ded806bb9e81de</id>
-        <link href="https://www.freecodecamp.org/news/python-comment-block-how-to-comment-out-code-in-python/"/>
-        <updated>2022-03-11T20:11:40.000Z</updated>
-        <summary type="html"><![CDATA[In this article, we'll talk about comments in Python, why they are important, and how to use them effectively in your code.  When to Use Comments In this section, we'll talk about some of the general use cases for comments. These aren't only applicable to Python, but to most]]></summary>
-        <author>
-            <name>Ihechikara Vincent Abba</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Create a New Stacking Context with the Isolation Property in CSS]]></title>
-        <id>61e5c35ab837d507ba0a4b06</id>
-        <link href="https://www.freecodecamp.org/news/the-css-isolation-property/"/>
-        <updated>2022-03-11T20:03:45.000Z</updated>
-        <summary type="html"><![CDATA[What is the CSS Isolation Property? In CSS, you can use the isolation property to create a new stacking context. Here's what that looks like: .container-for-new-stacking-context {   isolation: isolate; } The default value for isolation is auto, which is a bit more nuanced as a stacking context can]]></summary>
-        <author>
-            <name>Natalie Pina</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python Concatenate Strings – How to Combine and Append Strings in Python]]></title>
-        <id>622a2a6663ded806bb9e7d22</id>
-        <link href="https://www.freecodecamp.org/news/python-concatenate-strings-how-to-combine-and-append-strings-in-python/"/>
-        <updated>2022-03-11T17:19:31.000Z</updated>
-        <summary type="html"><![CDATA[When you're learning a programming language, you're likely to come across a data type called a string. A string usually contains a series of characters nested in quotation marks that can be represented as a text.  In this article, we will talk about string concatenation in Python. This is]]></summary>
-        <author>
-            <name>Ihechikara Vincent Abba</name>
         </author>
     </entry>
 </feed>
