@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=365579",
+          "author": "Sunkanmi Fafowora",
+          "description": "AVIF (AV1 Image File Format) is a modern image file format specification for storing images that offer a much more significant file reduction when compared to other formats like JPG, JPEG, PNG, and WebP. Version 1.0.0 of the AVIF specification …\nUseful Tools for Creating AVIF Images originally published on CSS-Tricks. You should get the newsletter.",
+          "link": "https://css-tricks.com/useful-tools-for-creating-avif-images/",
+          "publishedOn": "2022-05-09T15:00:10.000Z",
+          "wordCount": 947,
+          "title": "Useful Tools for Creating AVIF Images",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/365579"
+        },
+        {
           "id": "https://css-tricks.com/?p=365614",
           "author": "John Siciliano",
           "description": "Let’s say you have a website built on a platform that excels at design and it’s available at example.com. But that platform falls short at blogging. So you think to yourself, “What if I could use a different blogging …\nHow to Serve a Subdomain as a Subdirectory originally published on CSS-Tricks. You should get the newsletter.",
@@ -138,6 +148,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2022/05/performance-game-changer-back-forward-cache/",
+          "author": "hello@smashingmagazine.com (Barry Pollard)",
+          "description": "At the end of 2021, the Chrome team shipped some functionality that has the ability to make or break sites meeting the Core Web Vitals. So, let’s learn a little bit more about the Back/Forward Cache (aka bfcache), and what you can do to test if your website is compatible with it.",
+          "link": "https://smashingmagazine.com/2022/05/performance-game-changer-back-forward-cache/",
+          "publishedOn": "2022-05-09T10:30:00.000Z",
+          "wordCount": 3690,
+          "title": "Performance Game Changer: Browser Back/Forward Cache",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/98883c6e-253d-4285-aa86-09da18d3b935/performance-game-changer-back-forward-cache.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/98883c6e-253d-4285-aa86-09da18d3b935/performance-game-changer-back-forward-cache.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2022/05/give-effective-feedback-remotely/",
           "author": "hello@smashingmagazine.com (Joshua Mauldin)",
@@ -440,6 +465,16 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "62727994c1c601068f4ec082",
+          "author": "Kolade Chris",
+          "description": "There are many data analytics tools out there, but Microsoft Excel remains a popular go-to for storing and managing data. Since Excel has a lot of functionality built into it, getting familiar with the various keyboard shortcuts will help you work more efficiently. In this article, I’m going to show",
+          "link": "https://www.freecodecamp.org/news/excel-shortcuts-keyboard-shortcuts-for-beginners/",
+          "publishedOn": "2022-05-09T15:24:30.000Z",
+          "wordCount": 1359,
+          "title": "Excel Shortcuts – Keyboard Shortcuts for Beginners",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/excelShortcuts.png"
+        },
         {
           "id": "62720d66c1c601068f4ebbdb",
           "author": "Dillion Megida",
@@ -1659,16 +1694,6 @@
           "wordCount": 1099,
           "title": "PMP Certification Cost – 2022 Exam Fees, Degree Requirements, and Years of Experience",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/adetola-afolabi-W6Xfv9Rq1j0-unsplash.jpg"
-        },
-        {
-          "id": "62518273ac55f60686c30623",
-          "author": "Quincy Larson",
-          "description": "When you’re working with images, it’s important to understand the different file types. Which format is best for what application? In this tutorial, we’re going to explain the most common image file types, and when you should use them. Note that this is a short, non-technical article. If you want",
-          "link": "https://www.freecodecamp.org/news/image-file-types-picture-format-extensions-jpeg-gif-png-svg-tiff/",
-          "publishedOn": "2022-04-09T22:26:12.000Z",
-          "wordCount": 1299,
-          "title": "Image File Types – The .jpeg, .svg, and .png Picture Format Extensions Explained",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/timon-klauser-3MAmj1ZKSZA-unsplash.jpg"
         }
       ]
     }

@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-05-09T00:09:37.037Z</updated>
+    <updated>2022-05-10T00:09:13.527Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Excel Shortcuts – Keyboard Shortcuts for Beginners]]></title>
+        <id>62727994c1c601068f4ec082</id>
+        <link href="https://www.freecodecamp.org/news/excel-shortcuts-keyboard-shortcuts-for-beginners/"/>
+        <updated>2022-05-09T15:24:30.000Z</updated>
+        <summary type="html"><![CDATA[There are many data analytics tools out there, but Microsoft Excel remains a popular go-to for storing and managing data. Since Excel has a lot of functionality built into it, getting familiar with the various keyboard shortcuts will help you work more efficiently. In this article, I’m going to show]]></summary>
+        <author>
+            <name>Kolade Chris</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Useful Tools for Creating AVIF Images]]></title>
+        <id>https://css-tricks.com/?p=365579</id>
+        <link href="https://css-tricks.com/useful-tools-for-creating-avif-images/"/>
+        <updated>2022-05-09T15:00:10.000Z</updated>
+        <summary type="html"><![CDATA[AVIF (AV1 Image File Format) is a modern image file format specification for storing images that offer a much more significant file reduction when compared to other formats like JPG, JPEG, PNG, and WebP. Version 1.0.0 of the AVIF specification …
+Useful Tools for Creating AVIF Images originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <author>
+            <name>Sunkanmi Fafowora</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Performance Game Changer: Browser Back/Forward Cache]]></title>
+        <id>https://smashingmagazine.com/2022/05/performance-game-changer-back-forward-cache/</id>
+        <link href="https://smashingmagazine.com/2022/05/performance-game-changer-back-forward-cache/"/>
+        <updated>2022-05-09T10:30:00.000Z</updated>
+        <summary type="html"><![CDATA[At the end of 2021, the Chrome team shipped some functionality that has the ability to make or break sites meeting the Core Web Vitals. So, let’s learn a little bit more about the Back/Forward Cache (aka bfcache), and what you can do to test if your website is compatible with it.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Barry Pollard)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Center an Absolute Positioned Element Vertically and Horizontally with CSS]]></title>
         <id>62720d66c1c601068f4ebbdb</id>
@@ -1557,16 +1588,6 @@ Add a CSS Lens Flare to Photos for a Bright Touch originally published on CSS-Tr
         <link href="https://www.freecodecamp.org/news/pmp-certification-cost-degree-experience/"/>
         <updated>2022-04-10T15:44:12.000Z</updated>
         <summary type="html"><![CDATA[The Project Management Professional (PMP) is widely seen by project managers as the "gold standard" credential. Many senior PM roles now require you to be PMP certified. So if you have been working as a PM for a few years, this guide will show you how you can take the]]></summary>
-        <author>
-            <name>Quincy Larson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Image File Types – The .jpeg, .svg, and .png Picture Format Extensions Explained]]></title>
-        <id>62518273ac55f60686c30623</id>
-        <link href="https://www.freecodecamp.org/news/image-file-types-picture-format-extensions-jpeg-gif-png-svg-tiff/"/>
-        <updated>2022-04-09T22:26:12.000Z</updated>
-        <summary type="html"><![CDATA[When you’re working with images, it’s important to understand the different file types. Which format is best for what application? In this tutorial, we’re going to explain the most common image file types, and when you should use them. Note that this is a short, non-technical article. If you want]]></summary>
         <author>
             <name>Quincy Larson</name>
         </author>
