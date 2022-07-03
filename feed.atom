@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-07-02T00:10:35.437Z</updated>
+    <updated>2022-07-03T00:12:14.507Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Import SVGs in a React and Vite app]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-import-svgs-in-react-and-vite/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-import-svgs-in-react-and-vite/"/>
+        <updated>2022-07-01T22:15:02.000Z</updated>
+        <summary type="html"><![CDATA[Are you having difficulties importing SVGs into your React app? This is a problem that many developers face, especially when setting up a new React app with a module bundler. In this article, I will share with you the different ways of importing SVGs in React, as well as how]]></summary>
+        <author>
+            <name>Israel Mitolu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JavaScript String Comparison – How to Compare Strings in JS]]></title>
+        <id>https://www.freecodecamp.org/news/javascript-string-comparison-how-to-compare-strings-in-js/</id>
+        <link href="https://www.freecodecamp.org/news/javascript-string-comparison-how-to-compare-strings-in-js/"/>
+        <updated>2022-07-01T22:07:46.000Z</updated>
+        <summary type="html"><![CDATA[You may want to compare two strings to know which is higher or lower alphabetically or to see if they are equal. You can do this in many ways. I'll show you two of them in this article. 1. How to Compare Strings Using localeCompare You can use the localeCompare]]></summary>
+        <author>
+            <name>Dillion Megida</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python Else-If Statement Example]]></title>
+        <id>https://www.freecodecamp.org/news/python-else-if-statement-example/</id>
+        <link href="https://www.freecodecamp.org/news/python-else-if-statement-example/"/>
+        <updated>2022-07-01T22:02:40.000Z</updated>
+        <summary type="html"><![CDATA[Conditional statements are helpful for decision-making and are a core concept in all programming languages. In this article, you will learn how to write conditional statements in Python. Specifically, you will learn how to write if, if else, and elif (also known as  else if) statements in Python. Here]]></summary>
+        <author>
+            <name>Dionysia Lemonaki</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Track Machine Learning Experiments with HarperDB]]></title>
         <id>https://www.freecodecamp.org/news/track-machine-learning-experiments-with-harperdb/</id>
@@ -1446,46 +1476,6 @@ But that’s …
 Please Give Me Some Space originally published on CSS-Tricks. You should get the newsletter.]]></summary>
         <author>
             <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Measuring The Performance Of Typefaces For Users (Part 1)]]></title>
-        <id>https://smashingmagazine.com/2022/06/measuring-performance-typefaces-users-part1/</id>
-        <link href="https://smashingmagazine.com/2022/06/measuring-performance-typefaces-users-part1/"/>
-        <updated>2022-06-03T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[This is the first part of this article, written especially for typeface designers and typographers. See how typefaces work, how to test them, and other broader typographic issues.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Thomas Bohm)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PHP Tutorial – How to Setup PHP and XAMPP for Your Project]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-get-started-with-php/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-get-started-with-php/"/>
-        <updated>2022-06-02T15:11:07.000Z</updated>
-        <summary type="html"><![CDATA[Hello and welcome to this tutorial, everyone. Today, we'll look at how you can set up and use PHP in a project.  But before we get started, we'll need to understand what PHP is all about. What is PHP? PHP is an abbreviation or acronym for "Hypertext Preprocessor." It's]]></summary>
-        <author>
-            <name>Okoro Emmanuel Nzube</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSS Comments – How to Comment out CSS]]></title>
-        <id>https://www.freecodecamp.org/news/css-comments-how-to-comment-out-css/</id>
-        <link href="https://www.freecodecamp.org/news/css-comments-how-to-comment-out-css/"/>
-        <updated>2022-06-02T14:49:40.000Z</updated>
-        <summary type="html"><![CDATA[Commenting is an integral part of any programming language, and CSS is no exception. If you have a very large project or you work in a team, then you'll need to help others understand your CSS stylesheet better by adding comments to it. Since stylesheets can get complicated and verbose]]></summary>
-        <author>
-            <name>Kolade Chris</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Build a Heroku Clone – Provision Infrastructure Programmatically]]></title>
-        <id>https://www.freecodecamp.org/news/build-a-heroku-clone-provision-infrastructure-programmatically/</id>
-        <link href="https://www.freecodecamp.org/news/build-a-heroku-clone-provision-infrastructure-programmatically/"/>
-        <updated>2022-06-02T14:08:55.000Z</updated>
-        <summary type="html"><![CDATA[Heroku is a platform as a service that enables developers to build, run, and operate applications entirely in the cloud. Heroku makes it simple to do things like create virtual machines to host applications and to deploy websites. Some of the features that Heroku offers can actually be created easily]]></summary>
-        <author>
-            <name>Beau Carnes</name>
         </author>
     </entry>
 </feed>
