@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-07-04T00:11:30.240Z</updated>
+    <updated>2022-07-05T00:09:37.777Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Accelerating UX Maturity With A Breakthrough Project]]></title>
+        <id>https://smashingmagazine.com/2022/07/accelerating-ux-maturity-breakthrough-project/</id>
+        <link href="https://smashingmagazine.com/2022/07/accelerating-ux-maturity-breakthrough-project/"/>
+        <updated>2022-07-04T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this article, John Scott Bowie shares the story of 40 years of attempts to advance corporate UX maturity that — after numerous initiatives with marginal results — culminated in a breakthrough project that accelerated a company’s UX maturity from “Emergent” to “User-Driven” in less than a year.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (John Scott Bowie)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Import SVGs in a React and Vite app]]></title>
         <id>https://www.freecodecamp.org/news/how-to-import-svgs-in-react-and-vite/</id>
