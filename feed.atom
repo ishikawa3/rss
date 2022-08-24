@@ -2,10 +2,91 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-08-23T00:12:23.936Z</updated>
+    <updated>2022-08-24T00:11:12.419Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[.gitignore File – How to Ignore Files and Folders in Git]]></title>
+        <id>https://www.freecodecamp.org/news/gitignore-file-how-to-ignore-files-and-folders-in-git/</id>
+        <link href="https://www.freecodecamp.org/news/gitignore-file-how-to-ignore-files-and-folders-in-git/"/>
+        <updated>2022-08-23T16:58:02.000Z</updated>
+        <summary type="html"><![CDATA[Git is a popular version control system. It is how developers can collaborate and work together on projects. Git allows you to track the changes you make to your project over time. On top of that, it lets you revert to a previous version if you want to undo a]]></summary>
+        <author>
+            <name>Dionysia Lemonaki</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use Python in Power BI]]></title>
+        <id>https://www.freecodecamp.org/news/python-in-powerbi/</id>
+        <link href="https://www.freecodecamp.org/news/python-in-powerbi/"/>
+        <updated>2022-08-23T16:27:48.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft Power BI is a business analytics tool which allows users to gain insight from their data.  You can easily create an interactive dashboard by just dragging and dropping data columns into the visualization plane. In this article, I'll show you how to use Python to help you leverage]]></summary>
+        <author>
+            <name>Yannawut Kimnaruk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chart.js Tutorial – How to Make Bar and Line Charts in Angular]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-make-bar-and-line-charts-using-chartjs-in-angular/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-make-bar-and-line-charts-using-chartjs-in-angular/"/>
+        <updated>2022-08-23T15:35:01.000Z</updated>
+        <summary type="html"><![CDATA[In this tutorial we will learn how to create simple bar and line charts using the Chart.js library in an Angular application. But first of all, what is Chart.js and what does it do? What is Chart.js? Chart.js is a JavaScript library for building charts. It's designed to be intuitive]]></summary>
+        <author>
+            <name>Swatej Patil</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use Arrays.binarySearch() in Java]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-use-arrays-binarysearch-in-java/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-arrays-binarysearch-in-java/"/>
+        <updated>2022-08-23T15:31:18.000Z</updated>
+        <summary type="html"><![CDATA[In this article, I'm going to show you how to use the Arrays.binarySearch()  method in Java. What is Arrays.binarySearch() in Java?  According to the official docs [https://docs.oracle.com/javase/7/docs/api/java/util/Arrays.html#binarySearch(byte[],%20byte)]  on the Arrays.binarySearch() method: > (It) Searches the specified array of bytes for the specified value using the binary search]]></summary>
+        <author>
+            <name>Farhan Hasin Chowdhury</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Override Root Font Size to Create a Better User Experience]]></title>
+        <id>https://www.freecodecamp.org/news/override-root-font-size-for-a-better-user-experience/</id>
+        <link href="https://www.freecodecamp.org/news/override-root-font-size-for-a-better-user-experience/"/>
+        <updated>2022-08-23T15:14:55.000Z</updated>
+        <summary type="html"><![CDATA[Back in the day, web developers, front-end engineers, and UI designers had a bit of an easier job. This is because they weren't expected to rearrange their code and designs to fit so many different screen sizes.  But in today's world, if you make a decision that doesn't take]]></summary>
+        <author>
+            <name>Damla Erkiner</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Removing jQuery from GOV.UK]]></title>
+        <id>https://css-tricks.com/?p=372485</id>
+        <link href="https://css-tricks.com/removing-jquery-from-gov-uk/"/>
+        <updated>2022-08-23T13:04:31.000Z</updated>
+        <summary type="html"><![CDATA[The GOV.UK team recently published “How and why we removed jQuery from GOV.UK“. This was an insightful look at how an organization can assess its tooling and whether something is still the best tool for the job. This …
+Removing jQuery from GOV.UK originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Bradley Kouchi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Smashing Podcast Episode 51 With Ben Callahan: What’s The Value Of A Design System?]]></title>
+        <id>https://smashingmagazine.com/2022/08/smashing-podcast-episode-51/</id>
+        <link href="https://smashingmagazine.com/2022/08/smashing-podcast-episode-51/"/>
+        <updated>2022-08-23T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this episode of the Smashing Podcast, we ask how you can prove the value of a Design System and how you can pitch it effectively to stakeholders. Vitaly talks to Ben Callahan to find out more.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Drew McLellan)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Markdown Cheat Sheet – How to Write Articles in Markdown Language]]></title>
+        <id>https://www.freecodecamp.org/news/markdown-cheatsheet/</id>
+        <link href="https://www.freecodecamp.org/news/markdown-cheatsheet/"/>
+        <updated>2022-08-22T22:16:38.000Z</updated>
+        <summary type="html"><![CDATA[As a developer, you have likely heard of HTML [https://en.wikipedia.org/wiki/HTML], which stands for HyperText Markup L anguage. And you may know that HTML is a language used to create websites – but what does  markup mean? Markup languages [https://techterms.com/definition/markup_language] are languages that use tags to define different elements within]]></summary>
+        <author>
+            <name>Kealan Parr</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Generate WordPress Posts Automatically with Python]]></title>
         <id>https://www.freecodecamp.org/news/how-to-generate-wordpress-posts-automatically/</id>
@@ -44,16 +125,6 @@
         <summary type="html"><![CDATA[If you've been programming for a while, you may have heard the words "camel case" or "pascal case". And maybe you're wondering what those terms mean. Well, let me explain. What are Naming Conventions in Programming? Apart from the hard and fast rules that we get with every programming language,]]></summary>
         <author>
             <name>Farhan Hasin Chowdhury</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Azure Developer Certification (AZ-204) – Pass the Exam With This Free 13.5-Hour Course]]></title>
-        <id>https://www.freecodecamp.org/news/azure-developer-certification-az-204-pass-the-exam-with-this-free-13-5-hour-course/</id>
-        <link href="https://www.freecodecamp.org/news/azure-developer-certification-az-204-pass-the-exam-with-this-free-13-5-hour-course/"/>
-        <updated>2022-08-22T14:51:47.000Z</updated>
-        <summary type="html"><![CDATA[You can learn everything you need to know to earn the Azure Developer Certification by completing this free 13-hour course. What is Microsoft Azure Developer Associate? The Microsoft Azure Developer Associate (commonly known as the AZ-204) is a Microsoft Azure certification focused on building web-applications on-top of Azure cloud services.]]></summary>
-        <author>
-            <name>Andrew Brown</name>
         </author>
     </entry>
     <entry>

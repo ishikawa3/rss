@@ -12,12 +12,22 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=372485",
+          "author": "Bradley Kouchi",
+          "description": "The GOV.UK team recently published “How and why we removed jQuery from GOV.UK“. This was an insightful look at how an organization can assess its tooling and whether something is still the best tool for the job. This …\nRemoving jQuery from GOV.UK originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/removing-jquery-from-gov-uk/",
+          "publishedOn": "2022-08-23T13:04:31.000Z",
+          "wordCount": 946,
+          "title": "Removing jQuery from GOV.UK",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/372485"
+        },
+        {
           "id": "https://css-tricks.com/?p=372396",
           "author": "Temani Afif",
           "description": "Alright, so the last time we checked in, we were using CSS Grid and combining them with CSS clip-path and mask techniques to create grids with fancy shapes.\nHere’s just one of the fantastic grids we made together:\nCodePen…\nCSS Grid and Custom Shapes, Part 2 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/css-grid-and-custom-shapes-part-2/",
           "publishedOn": "2022-08-22T14:08:39.000Z",
-          "wordCount": 4517,
+          "wordCount": 4706,
           "title": "CSS Grid and Custom Shapes, Part 2",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/372396"
         },
@@ -169,12 +179,27 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2022/08/smashing-podcast-episode-51/",
+          "author": "hello@smashingmagazine.com (Drew McLellan)",
+          "description": "In this episode of the Smashing Podcast, we ask how you can prove the value of a Design System and how you can pitch it effectively to stakeholders. Vitaly talks to Ben Callahan to find out more.",
+          "link": "https://smashingmagazine.com/2022/08/smashing-podcast-episode-51/",
+          "publishedOn": "2022-08-23T12:00:00.000Z",
+          "wordCount": 10151,
+          "title": "Smashing Podcast Episode 51 With Ben Callahan: What’s The Value Of A Design System?",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/743ac53b-8c92-43c0-bf35-5adf4d662417/smashing-podcast-episode-51.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/743ac53b-8c92-43c0-bf35-5adf4d662417/smashing-podcast-episode-51.png"
+        },
+        {
           "id": "https://smashingmagazine.com/2022/08/toggle-button-case-study-part-1/",
           "author": "hello@smashingmagazine.com (Eduard Kuric)",
           "description": "In this first part of a two-part article, Eduard Kuric analyzes the characteristics of effective toggle buttons that make it error-proof and prevent confusion and frustration of users.",
           "link": "https://smashingmagazine.com/2022/08/toggle-button-case-study-part-1/",
           "publishedOn": "2022-08-22T09:30:00.000Z",
-          "wordCount": 6005,
+          "wordCount": 6002,
           "title": "What Makes A Great Toggle Button? (Case Study, Part 1)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/d5921d91-e0fb-4e2c-a79b-6691111f2606/toggle-button-case-study-part-1.jpg",
@@ -416,6 +441,66 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "https://www.freecodecamp.org/news/gitignore-file-how-to-ignore-files-and-folders-in-git/",
+          "author": "Dionysia Lemonaki",
+          "description": "Git is a popular version control system. It is how developers can collaborate and work together on projects. Git allows you to track the changes you make to your project over time. On top of that, it lets you revert to a previous version if you want to undo a",
+          "link": "https://www.freecodecamp.org/news/gitignore-file-how-to-ignore-files-and-folders-in-git/",
+          "publishedOn": "2022-08-23T16:58:02.000Z",
+          "wordCount": 2714,
+          "title": ".gitignore File – How to Ignore Files and Folders in Git",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/pexels-ken-tomita-389819.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/python-in-powerbi/",
+          "author": "Yannawut Kimnaruk",
+          "description": "Microsoft Power BI is a business analytics tool which allows users to gain insight from their data.  You can easily create an interactive dashboard by just dragging and dropping data columns into the visualization plane. In this article, I'll show you how to use Python to help you leverage",
+          "link": "https://www.freecodecamp.org/news/python-in-powerbi/",
+          "publishedOn": "2022-08-23T16:27:48.000Z",
+          "wordCount": 2171,
+          "title": "How to Use Python in Power BI",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/Python-Power-BI-1.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-make-bar-and-line-charts-using-chartjs-in-angular/",
+          "author": "Swatej Patil",
+          "description": "In this tutorial we will learn how to create simple bar and line charts using the Chart.js library in an Angular application. But first of all, what is Chart.js and what does it do? What is Chart.js? Chart.js is a JavaScript library for building charts. It's designed to be intuitive",
+          "link": "https://www.freecodecamp.org/news/how-to-make-bar-and-line-charts-using-chartjs-in-angular/",
+          "publishedOn": "2022-08-23T15:35:01.000Z",
+          "wordCount": 1955,
+          "title": "Chart.js Tutorial – How to Make Bar and Line Charts in Angular",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/Line-Bar-4.jpeg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-use-arrays-binarysearch-in-java/",
+          "author": "Farhan Hasin Chowdhury",
+          "description": "In this article, I'm going to show you how to use the Arrays.binarySearch()  method in Java. What is Arrays.binarySearch() in Java?  According to the official docs [https://docs.oracle.com/javase/7/docs/api/java/util/Arrays.html#binarySearch(byte[],%20byte)]  on the Arrays.binarySearch() method: > (It) Searches the specified array of bytes for the specified value using the binary search",
+          "link": "https://www.freecodecamp.org/news/how-to-use-arrays-binarysearch-in-java/",
+          "publishedOn": "2022-08-23T15:31:18.000Z",
+          "wordCount": 1762,
+          "title": "How to Use Arrays.binarySearch() in Java",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/Arrays.binarySearch---in-Java.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/override-root-font-size-for-a-better-user-experience/",
+          "author": "Damla Erkiner",
+          "description": "Back in the day, web developers, front-end engineers, and UI designers had a bit of an easier job. This is because they weren't expected to rearrange their code and designs to fit so many different screen sizes.  But in today's world, if you make a decision that doesn't take",
+          "link": "https://www.freecodecamp.org/news/override-root-font-size-for-a-better-user-experience/",
+          "publishedOn": "2022-08-23T15:14:55.000Z",
+          "wordCount": 2499,
+          "title": "How to Override Root Font Size to Create a Better User Experience",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/root-font-size-article-image.jpeg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/markdown-cheatsheet/",
+          "author": "Kealan Parr",
+          "description": "As a developer, you have likely heard of HTML [https://en.wikipedia.org/wiki/HTML], which stands for HyperText Markup L anguage. And you may know that HTML is a language used to create websites – but what does  markup mean? Markup languages [https://techterms.com/definition/markup_language] are languages that use tags to define different elements within",
+          "link": "https://www.freecodecamp.org/news/markdown-cheatsheet/",
+          "publishedOn": "2022-08-22T22:16:38.000Z",
+          "wordCount": 1822,
+          "title": "Markdown Cheat Sheet – How to Write Articles in Markdown Language",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/Markdown-cheatsheet.png"
+        },
+        {
           "id": "https://www.freecodecamp.org/news/how-to-generate-wordpress-posts-automatically/",
           "author": "Marco Venturi",
           "description": "If you run a website, you are aware of the importance of content. It's important for your web presence, to help you be recognized as a leader in your field, to improve your SEO ranking, to increase your audience, and more. WordPress is one of the most popular and widely-used",
@@ -454,16 +539,6 @@
           "wordCount": 1353,
           "title": "Programming Naming Conventions – Camel, Snake, Kebab, and Pascal Case Explained",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/Programming-Naming-Conventions-Explained.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/azure-developer-certification-az-204-pass-the-exam-with-this-free-13-5-hour-course/",
-          "author": "Andrew Brown",
-          "description": "You can learn everything you need to know to earn the Azure Developer Certification by completing this free 13-hour course. What is Microsoft Azure Developer Associate? The Microsoft Azure Developer Associate (commonly known as the AZ-204) is a Microsoft Azure certification focused on building web-applications on-top of Azure cloud services.",
-          "link": "https://www.freecodecamp.org/news/azure-developer-certification-az-204-pass-the-exam-with-this-free-13-5-hour-course/",
-          "publishedOn": "2022-08-22T14:51:47.000Z",
-          "wordCount": 1143,
-          "title": "Azure Developer Certification (AZ-204) – Pass the Exam With This Free 13.5-Hour Course",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/azure.png"
         },
         {
           "id": "https://www.freecodecamp.org/news/how-to-implement-a-leaderboard-in-swiftui/",
