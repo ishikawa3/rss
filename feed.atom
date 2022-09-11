@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-09-10T00:12:36.028Z</updated>
+    <updated>2022-09-11T00:11:59.475Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[200 Universities Just Launched 850+ Free Online Courses. Here’s the Full List.]]></title>
+        <id>https://www.freecodecamp.org/news/new-online-courses/</id>
+        <link href="https://www.freecodecamp.org/news/new-online-courses/"/>
+        <updated>2022-09-10T10:33:00.000Z</updated>
+        <summary type="html"><![CDATA[If you haven’t heard, universities around the world are offering their courses online for free (or at least, partially free). These courses are collectively called MOOCs or Massive Open Online Courses. [https://www.classcentral.com/help/moocs] In the past ten years, ~1000 universities have created around tens of thousands of MOOCs. I’ve been keeping]]></summary>
+        <author>
+            <name>Dhawal Shah</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intro to Deno – Guide for Beginners]]></title>
+        <id>https://www.freecodecamp.org/news/intro-to-deno/</id>
+        <link href="https://www.freecodecamp.org/news/intro-to-deno/"/>
+        <updated>2022-09-09T22:50:17.000Z</updated>
+        <summary type="html"><![CDATA[What is Deno? Deno is a new JavaScript runtime. It was built by Ryan Dahl, the creator of Node.js.  Dahl had a few things that he regretted doing with Node and wanted to build a runtime that could solve those issues. Deno, like Node, is built on the V8]]></summary>
+        <author>
+            <name>Brian Barrow</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Git Push Local Branch to Remote – How to Publish a New Branch in Git]]></title>
         <id>https://www.freecodecamp.org/news/git-push-local-branch-to-remote-how-to-publish-a-new-branch-in-git/</id>
@@ -1408,49 +1428,6 @@ CSS Grid and Custom Shapes, Part 1 originally published on CSS-Tricks, which is 
         <summary type="html"><![CDATA[HackTheBox is an online hacking platform that allows you to test and practice your penetration testing skills.  It contains several vulnerable labs that are constantly updated. Some of them simulate real-world scenarios and some of them lean more towards a Capture The Flag (CTF) style of challenge. Note: Only]]></summary>
         <author>
             <name>Shuaib Oseni</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meet Skeleton: Svelte + Tailwind For Reactive UIs]]></title>
-        <id>https://smashingmagazine.com/2022/08/skeleton-svelte-tailwind-reactive-uis/</id>
-        <link href="https://smashingmagazine.com/2022/08/skeleton-svelte-tailwind-reactive-uis/"/>
-        <updated>2022-08-12T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The power of framework-specific UI libraries, such as Skeleton, can lead to more productivity using the combined ability of Svelte and Tailwind to build modern web-based apps.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Chris Simmons)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NVM for Windows – How to Download and Install Node Version Manager in Windows 10]]></title>
-        <id>https://www.freecodecamp.org/news/nvm-for-windows-how-to-download-and-install-node-version-manager-in-windows-10/</id>
-        <link href="https://www.freecodecamp.org/news/nvm-for-windows-how-to-download-and-install-node-version-manager-in-windows-10/"/>
-        <updated>2022-08-11T16:00:37.000Z</updated>
-        <summary type="html"><![CDATA[Different software development tools might require specific versions of Node.js and NPM (Node Package Manager). NPM is a tool for managing packages installed from the NPM registry. In addition, if you are making an NPM package, you might need to test it with different versions of Node.js. This is why]]></summary>
-        <author>
-            <name>Kolade Chris</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Implement Event-Driven Architecture with React and FastAPI]]></title>
-        <id>https://www.freecodecamp.org/news/implement-event-driven-architecture-with-react-and-fastapi/</id>
-        <link href="https://www.freecodecamp.org/news/implement-event-driven-architecture-with-react-and-fastapi/"/>
-        <updated>2022-08-11T14:38:33.000Z</updated>
-        <summary type="html"><![CDATA[An event driven system is a common way to setup software. In event-driven architecture, event-handlers are registered for specific events. When an event occurs, the handlers are invoked. A great way to understand this concept is to build a project. We just published a course on the freeCodeCamp.org YouTube channel]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Quick Tip: Clear VS Code Cache for Open Files]]></title>
-        <id>https://css-tricks.com/?p=367403</id>
-        <link href="https://css-tricks.com/quick-tip-clear-vs-code-cache-for-open-files/"/>
-        <updated>2022-08-11T13:35:56.000Z</updated>
-        <summary type="html"><![CDATA[If you use VS Code, you might have enabled the setting for re-opening a previously open file next time the app launches. I do. I like that.
-Hey, thanks for remembering, buddy! 🤗
-But sometimes you really, really don’t want …
-Quick Tip: Clear VS Code Cache for Open Files originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
         </author>
     </entry>
 </feed>
