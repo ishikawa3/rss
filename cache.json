@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=373403",
+          "author": "Temani Afif",
+          "description": "The wave is probably one of the most difficult shapes to make in CSS. We always try to approximate it with properties like border-radius and lots of magic numbers until we get something that feels kinda close. And that’s before …\nHow to Create Wavy Shapes & Patterns in CSS originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/how-to-create-wavy-shapes-patterns-in-css/",
+          "publishedOn": "2022-09-26T13:13:30.000Z",
+          "wordCount": 4304,
+          "title": "How to Create Wavy Shapes & Patterns in CSS",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/373403"
+        },
+        {
           "id": "https://css-tricks.com/?p=373057",
           "author": "Ganesh Dahal",
           "description": "If we browse the WordPress theme directory, a majority of themes showcase cover images. It is a feature in popular demand. The cover page trend is true even in the block theme directory screenshots as well.\nLet’s consider the …\nHow To Customize WordPress Block Theme Cover Templates with Dynamic Post Feature Images originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -218,6 +228,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2022/09/meet-smashingconf-new-york/",
+          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
+          "description": "SmashingConf NYC is back! A friendly, inclusive conference for designers and front-end engineers who can’t wait to learn and be inspired. October 10–13, 2022. Get your ticket!",
+          "link": "https://smashingmagazine.com/2022/09/meet-smashingconf-new-york/",
+          "publishedOn": "2022-09-26T10:30:00.000Z",
+          "wordCount": 3158,
+          "title": "Meet SmashingConf New York 🇺🇸 (Oct 10&ndash;13)",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/6b0218f4-6266-412a-ace8-ea05b1ad688d/smashingconf-ny-banner.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/6b0218f4-6266-412a-ace8-ea05b1ad688d/smashingconf-ny-banner.png"
+        },
         {
           "id": "https://smashingmagazine.com/2022/09/lessons-learned-designer-founder/",
           "author": "hello@smashingmagazine.com (Dave Feldman)",
@@ -555,6 +580,36 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/javascript-concepts-you-should-know-before-learning-react/",
+          "author": "Ashutosh Mishra",
+          "description": "React is one of the most popular JavaScript frameworks for building single page applications. Needless to say, as a JavaScript framework, it requires you to have a good knowledge of JavaScript concepts. In this article, we are going to take a look at some of those JavaScript concepts that you",
+          "link": "https://www.freecodecamp.org/news/javascript-concepts-you-should-know-before-learning-react/",
+          "publishedOn": "2022-09-26T19:22:52.000Z",
+          "wordCount": 2533,
+          "title": "The JavaScript Concepts You Should Know Before Learning React",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/pexels-pixabay-417173--1-.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/machine-learning-for-everybody/",
+          "author": "Beau Carnes",
+          "description": "Machine learning technology is now so common that you probably use it dozens of times a day without even realizing it. And since it has so many applications, the job prospects are great for anyone with a lot of machine learning experience. We just released a machine learning course on",
+          "link": "https://www.freecodecamp.org/news/machine-learning-for-everybody/",
+          "publishedOn": "2022-09-26T17:28:23.000Z",
+          "wordCount": 848,
+          "title": "Machine Learning for Everybody",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/machinelearning.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/html-drop-down-menu-how-to-add-a-drop-down-list-with-the-select-element/",
+          "author": "Joel Olawanle",
+          "description": "Many websites, applications, and web pages use drop-down menus to help display a list of information. You can use them to create navigation menus, options for forms, and more. If you're looking at some of these menus or lists, you might imagine how complex creating them could be. And yes",
+          "link": "https://www.freecodecamp.org/news/html-drop-down-menu-how-to-add-a-drop-down-list-with-the-select-element/",
+          "publishedOn": "2022-09-26T14:25:06.000Z",
+          "wordCount": 1500,
+          "title": "HTML Drop-down Menu – How to Add a Drop-Down List with the Select Element",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/cover-template--9-.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/html-background-image-how-to-add-wallpaper-images-to-your-website/",
           "author": "Ihechikara Vincent Abba",
