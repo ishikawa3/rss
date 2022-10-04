@@ -219,6 +219,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2022/10/ui-animations-shared-element-transitions-api-part1/",
+          "author": "hello@smashingmagazine.com (Adrian Bece)",
+          "description": "Shared Element Transitions API is a game-changing feature that will enable us to create impressive and elaborate UI animations easily. In this article, Adrian Bece will explore its incredible potential by building four real-life examples from scratch.",
+          "link": "https://smashingmagazine.com/2022/10/ui-animations-shared-element-transitions-api-part1/",
+          "publishedOn": "2022-10-03T13:00:00.000Z",
+          "wordCount": 7756,
+          "title": "Delightful UI Animations With Shared Element Transitions API (Part 1)",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/aa71c04f-6c9e-4717-8767-a6f31f3c20c9/ui-animations-shared-element-transitions-api-part1.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/aa71c04f-6c9e-4717-8767-a6f31f3c20c9/ui-animations-shared-element-transitions-api-part1.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2022/09/desktop-wallpaper-calendars-october-2022/",
           "author": "hello@smashingmagazine.com (Cosima Mielke)",
           "description": "How about a little inspiration boost? Well, we might have something for you: desktop wallpapers created with love by artists and designers from across the globe. They are available in versions with and without a calendar for October and can be downloaded for free. Enjoy!",
@@ -555,6 +570,16 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-deploy-a-routed-react-app-to-netlify/",
+          "author": "Edeh Israel Chidera",
+          "description": "Have you ever experienced a “PAGE NOT FOUND” error when trying to access or refresh an application that uses React Router? Don't worry, you're not alone. In this article, you will learn how to deploy a React application that uses react-router without any problems. The Problem with Deploying react-router Apps",
+          "link": "https://www.freecodecamp.org/news/how-to-deploy-a-routed-react-app-to-netlify/",
+          "publishedOn": "2022-10-03T17:16:24.000Z",
+          "wordCount": 1431,
+          "title": "How to Deploy a React Router App to Netlify and Fix the \"Page Not Found\" Error",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/netlify1-1-1.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/how-to-fix-typeerror-only-size-1-arrays-can-be-converted-to-python-scalars/",
           "author": "Ihechikara Vincent Abba",
