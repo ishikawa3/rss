@@ -462,21 +462,6 @@
             "type": "image/png"
           },
           "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/5e6453cd-7ad1-45e4-b88c-afe922049104/oct-22-dreamy-autumn-girl-preview-opt.png"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/09/unconscious-biases-inclusive-design/",
-          "author": "hello@smashingmagazine.com (Trina Moore Pervall)",
-          "description": "Throughout the research and design processes, our unconscious biases are the greatest risk to delivering inclusive experiences. From who we include and exclude in our research to how we plan and conduct research to how we analyze findings, it’s crucial that we understand how our unacknowledged biases can perpetuate systems of exclusion.",
-          "link": "https://smashingmagazine.com/2022/09/unconscious-biases-inclusive-design/",
-          "publishedOn": "2022-09-29T21:00:00.000Z",
-          "wordCount": 4869,
-          "title": "Unconscious Biases That Get In The Way Of Inclusive Design",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/353aec29-80ea-4143-935a-c24bcd89593f/unconscious-biases-inclusive-design.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/353aec29-80ea-4143-935a-c24bcd89593f/unconscious-biases-inclusive-design.jpg"
         }
       ]
     },
@@ -485,6 +470,36 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/tips-to-boost-your-seo/",
+          "author": "Edan Ben-Atar",
+          "description": "SEO (Search Engine Optimization) is essential for your online marketing strategy. It's the process of optimizing your site and content to help you get as much traffic as you can from search engines. Reaching top positions in the search engine results pages (SERPs) with your website is one of the",
+          "link": "https://www.freecodecamp.org/news/tips-to-boost-your-seo/",
+          "publishedOn": "2022-10-29T00:09:34.000Z",
+          "wordCount": 2809,
+          "title": "SEO Tips for Developers",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/10-Tips-to-Boost-Your-SEO.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/learn-julia-by-coding-7-projects/",
+          "author": "Logan Kilpatrick",
+          "description": "The Julia programming language is used for a lot of really impactful and interesting challenges like Machine Learning and Data Science.  But before you can get to the complex stuff, it is worth exploring the basics to develop a solid foundation.  In this tutorial, we will go over",
+          "link": "https://www.freecodecamp.org/news/learn-julia-by-coding-7-projects/",
+          "publishedOn": "2022-10-28T23:54:26.000Z",
+          "wordCount": 3824,
+          "title": "Learn Julia by Coding 7 Projects – Hands-On Programming Tutorial",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/7-projects-1.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/device-descriptor-request-failed-windows-error-solved/",
+          "author": "Gavin Lon",
+          "description": "Recently my uncle, who lives in Australia, sent my parents, who live in South Africa, a flash drive that was full of pictures of our Australian family getting up to various Australian activities.  But it was very frustrating for my poor Mom when her laptop would not recognise the",
+          "link": "https://www.freecodecamp.org/news/device-descriptor-request-failed-windows-error-solved/",
+          "publishedOn": "2022-10-28T23:49:33.000Z",
+          "wordCount": 1962,
+          "title": "Device Descriptor Request Failed – How to Fix Unknown USB Device Error in Windows 10",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/Screenshot1.jpg"
+        },
         {
           "id": "https://www.freecodecamp.org/news/the-best-programming-language-to-learn-beginners-guide-to-coding/",
           "author": "Dionysia Lemonaki",
@@ -1474,56 +1489,6 @@
           "wordCount": 2869,
           "title": "What is the DOM? A Behind-the-Scenes Guide",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/What-is-DOM-and-Events--in-JavaScipt--2-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/swap-two-array-elements-in-javascript/",
-          "author": "Joel Olawanle",
-          "description": "When you're working with arrays, there are times when you need to swap two elements in an array in JavaScript. Maybe you're working on an algorithm question such as the bubble sort algorithm where you need to compare two values and then swap them if your condition is true. Aside",
-          "link": "https://www.freecodecamp.org/news/swap-two-array-elements-in-javascript/",
-          "publishedOn": "2022-09-29T20:15:18.000Z",
-          "wordCount": 1395,
-          "title": "How to Swap Two Array Elements in JavaScript – Switch Elements in JS",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/cover-template--11-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/whats-the-difference-between-authentication-and-authorisation/",
-          "author": "Grant Weatherston",
-          "description": "When you're starting out in web development, you'll likely hear the terms authentication and authorization all the time. And it doesn't help that they're both usually abbreviated 'auth', so it's very easy to get the two confused. In this article, you will learn:  * The differences between authentication and",
-          "link": "https://www.freecodecamp.org/news/whats-the-difference-between-authentication-and-authorisation/",
-          "publishedOn": "2022-09-29T17:45:49.000Z",
-          "wordCount": 2191,
-          "title": "Authentication vs Authorization – What's the Difference?",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/Background1.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/bubble-sort-algorithm-in-java-cpp-python-with-example-code/",
-          "author": "Kolade Chris",
-          "description": "Bubble sort is a type of sorting algorithm you can use to arrange a set of values in ascending order. If you want, you can also implement bubble sort to sort the values in descending order. A real-world example of a bubble sort algorithm is how the contact list on",
-          "link": "https://www.freecodecamp.org/news/bubble-sort-algorithm-in-java-cpp-python-with-example-code/",
-          "publishedOn": "2022-09-29T17:34:36.000Z",
-          "wordCount": 2291,
-          "title": "Bubble Sort – Algorithm in Java, C++, Python with Example Code",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/bubbleSortCover.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/css-selectors-cheat-sheet-for-beginners/",
-          "author": "Dionysia Lemonaki",
-          "description": "CSS selectors target and select the HTML elements you want to style. Specifically, CSS selectors allow you to select multiple elements at once. They are helpful when you want to apply the same styles to more than one HTML element, because you will not repeat yourself by writing the same",
-          "link": "https://www.freecodecamp.org/news/css-selectors-cheat-sheet-for-beginners/",
-          "publishedOn": "2022-09-29T15:22:20.000Z",
-          "wordCount": 4118,
-          "title": "CSS Selectors – Cheat Sheet for Class, Name, Child Selector List",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/laura-adai-s6U7Gq93UU8-unsplash.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/create-a-low-code-ecommerce-app-with-stripe-postgres-rest-api-backend/",
-          "author": "Beau Carnes",
-          "description": "Building apps can be much quicker with low-code tools. A low-code platform can give you pre-built UI components packed with functionality like tables, buttons, and text inputs. This allows you to skip the frontend templates and build your own quickly. We just published a tutorial on the freeCodeCamp.org YouTube channel",
-          "link": "https://www.freecodecamp.org/news/create-a-low-code-ecommerce-app-with-stripe-postgres-rest-api-backend/",
-          "publishedOn": "2022-09-29T13:43:07.000Z",
-          "wordCount": 921,
-          "title": "Create a Low-Code Ecommerce App with Stripe, Postgres, & REST API Backend",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/low-code-ecommerce.png"
         }
       ]
     }
