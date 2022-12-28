@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-27T00:10:03.909Z</updated>
+    <updated>2022-12-28T00:09:41.501Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[A Guide To Command-Line Data Manipulation]]></title>
+        <id>https://smashingmagazine.com/2022/12/guide-command-line-data-manipulation-cli-miller/</id>
+        <link href="https://smashingmagazine.com/2022/12/guide-command-line-data-manipulation-cli-miller/"/>
+        <updated>2022-12-27T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[No more random scripts in Python and JavaScript to transform CSV or JSON data. In this article, Alvin Bryan shows you how to use Miller, a small and powerful CLI tool, to do all your data processing.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Alvin Bryan)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Deploying CSS Logical Properties On Web Apps]]></title>
         <id>https://smashingmagazine.com/2022/12/deploying-css-logical-properties-on-web-apps/</id>
