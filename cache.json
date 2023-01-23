@@ -337,21 +337,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/9865d051-a600-4de7-a961-8b39a9226757/guide-command-line-data-manipulation-cli-miller.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/12/deploying-css-logical-properties-on-web-apps/",
-          "author": "hello@smashingmagazine.com (Nicolas Hoffmann)",
-          "description": "You may have already heard of CSS logical properties or RTL adaptations but are still deciding whether to deploy them widely. To help raise your awareness of their possibilities, Nicolas Hoffmann shares his experience of how he and his team at Proton carried out a massive move from CSS logical props to production and how you can consider them from a different perspective in your very own projects.",
-          "link": "https://smashingmagazine.com/2022/12/deploying-css-logical-properties-on-web-apps/",
-          "publishedOn": "2022-12-23T13:00:00.000Z",
-          "wordCount": 4362,
-          "title": "Deploying CSS Logical Properties On Web Apps",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/dd6913e4-e4eb-4bc9-8b51-0f8d596ee839/deploying-css-logical-properties-on-web-apps.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/dd6913e4-e4eb-4bc9-8b51-0f8d596ee839/deploying-css-logical-properties-on-web-apps.jpg"
         }
       ]
     },

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-22T00:10:30.113Z</updated>
+    <updated>2023-01-23T00:09:44.183Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
@@ -1282,16 +1282,6 @@ Thank You (2022 Edition) originally published on CSS-Tricks, which is part of th
         <summary type="html"><![CDATA[No more random scripts in Python and JavaScript to transform CSV or JSON data. In this article, Alvin Bryan shows you how to use Miller, a small and powerful CLI tool, to do all your data processing.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Alvin Bryan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Deploying CSS Logical Properties On Web Apps]]></title>
-        <id>https://smashingmagazine.com/2022/12/deploying-css-logical-properties-on-web-apps/</id>
-        <link href="https://smashingmagazine.com/2022/12/deploying-css-logical-properties-on-web-apps/"/>
-        <updated>2022-12-23T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[You may have already heard of CSS logical properties or RTL adaptations but are still deciding whether to deploy them widely. To help raise your awareness of their possibilities, Nicolas Hoffmann shares his experience of how he and his team at Proton carried out a massive move from CSS logical props to production and how you can consider them from a different perspective in your very own projects.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Nicolas Hoffmann)</name>
         </author>
     </entry>
 </feed>
