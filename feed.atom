@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-28T00:09:20.249Z</updated>
+    <updated>2023-01-29T00:10:27.207Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
@@ -1556,16 +1556,6 @@ Styling Buttons in WordPress Block Themes originally published on CSS-Tricks, wh
         <summary type="html"><![CDATA[In this article, Ruslan Yevych will show you an easy way how to predict the appearance of a problem known as WCAG Failure Under 1.4.4 Resize Text (AA) while zooming the page. You will have a clear understanding of the possible risks of using responsive typography at the stage of development.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Ruslan Yevych)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An Ultimate Guide On Sizing, Spacing, Grids And Layout In Web And UI/UX Design]]></title>
-        <id>https://smashingmagazine.com/2022/12/guide-sizing-spacing-grids-layout-web-ui-ux-design/</id>
-        <link href="https://smashingmagazine.com/2022/12/guide-sizing-spacing-grids-layout-web-ui-ux-design/"/>
-        <updated>2022-12-29T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Space is one of the core elements in design that is often overlooked. Proper spatial organization helps to achieve consistency between screens, pages, or even products. It also creates visual rhythm, limits decision-making, and helps to achieve better readability and scannability. In this guide, Paul Matvienko discusses the basics of defining a spatial system.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Paul Matvienko)</name>
         </author>
     </entry>
 </feed>

@@ -432,21 +432,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e896f9f1-7437-48c5-9481-483ae087a622/fluid-typography-predict-problem-users-zoom-in.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/12/guide-sizing-spacing-grids-layout-web-ui-ux-design/",
-          "author": "hello@smashingmagazine.com (Paul Matvienko)",
-          "description": "Space is one of the core elements in design that is often overlooked. Proper spatial organization helps to achieve consistency between screens, pages, or even products. It also creates visual rhythm, limits decision-making, and helps to achieve better readability and scannability. In this guide, Paul Matvienko discusses the basics of defining a spatial system.",
-          "link": "https://smashingmagazine.com/2022/12/guide-sizing-spacing-grids-layout-web-ui-ux-design/",
-          "publishedOn": "2022-12-29T13:00:00.000Z",
-          "wordCount": 4869,
-          "title": "An Ultimate Guide On Sizing, Spacing, Grids And Layout In Web And UI/UX Design",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/492d4955-5970-4ea0-ae9a-10414d7afad2/guide-sizing-spacing-grids-layout-web-ui-ux-design.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/492d4955-5970-4ea0-ae9a-10414d7afad2/guide-sizing-spacing-grids-layout-web-ui-ux-design.jpg"
         }
       ]
     },
