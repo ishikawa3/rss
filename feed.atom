@@ -2,10 +2,80 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-30T00:09:13.917Z</updated>
+    <updated>2023-01-31T00:11:00.272Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Java List – Example Lists in Java]]></title>
+        <id>https://www.freecodecamp.org/news/how-lists-work-in-java/</id>
+        <link href="https://www.freecodecamp.org/news/how-lists-work-in-java/"/>
+        <updated>2023-01-30T18:09:11.000Z</updated>
+        <summary type="html"><![CDATA[You can use the Java List interface to store objects/elements in a an ordered collection. It extends the Collection interface.  TheList interface provides us with various methods for inserting, accessing, and deleting elements in a collection. In this article, you'll learn how to extend and implement the List interface]]></summary>
+        <author>
+            <name>Ihechikara Vincent Abba</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Sheets Tutorial – How to Enable Multiple Selection Data Validation Using Apps Script]]></title>
+        <id>https://www.freecodecamp.org/news/google-sheets-multiple-data-validation-selections/</id>
+        <link href="https://www.freecodecamp.org/news/google-sheets-multiple-data-validation-selections/"/>
+        <updated>2023-01-30T17:30:58.000Z</updated>
+        <summary type="html"><![CDATA[In this article I will show you how to allow for multiple items to be selected using the drop-down data validation feature in Google Sheets. Here's the Google Sheet [https://docs.google.com/spreadsheets/d/1yxc4k1x5idcS_moQ1Bq8LnHGZF2nm9dpARglY7Rv0UI/edit#gid=390071620]  we'll use for the example. You can make a copy of this to edit yourself by clicking File ->]]></summary>
+        <author>
+            <name>Eamonn Cottrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Where Hot Trends Go to Die – What We Can Learn from Failed Tech Products]]></title>
+        <id>https://www.freecodecamp.org/news/where-hot-tech-trends-go-to-die/</id>
+        <link href="https://www.freecodecamp.org/news/where-hot-tech-trends-go-to-die/"/>
+        <updated>2023-01-30T17:17:50.000Z</updated>
+        <summary type="html"><![CDATA[If you're interested in technology, you may also have an active interest in learning about hot technology trends.  But you don't want to take every last one of these gadgets and business fads too seriously: some are bound to disappoint.  (Although don't think you can hold me personally]]></summary>
+        <author>
+            <name>David Clinton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use TypeScript in React Apps]]></title>
+        <id>https://www.freecodecamp.org/news/using-typescript-in-react-apps/</id>
+        <link href="https://www.freecodecamp.org/news/using-typescript-in-react-apps/"/>
+        <updated>2023-01-30T16:59:27.000Z</updated>
+        <summary type="html"><![CDATA[Hi everyone! A while ago I wrote an article about TypeScript [/news/an-introduction-to-typescript/], explaining its main features and why it's a good idea to use it in large projects.  Today we're going to take a quick look at how we can use TypeScript in a React app, so you can]]></summary>
+        <author>
+            <name>Germán Cocca</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Master the HTTP Networking Protocol]]></title>
+        <id>https://www.freecodecamp.org/news/http-networking-protocol-course/</id>
+        <link href="https://www.freecodecamp.org/news/http-networking-protocol-course/"/>
+        <updated>2023-01-30T16:54:31.000Z</updated>
+        <summary type="html"><![CDATA[HTTP (Hypertext Transfer Protocol) is the foundation of data communication on the World Wide Web. It is used to transfer data from the client (web browser) to the server (web host) and vice versa. Understanding the basics of HTTP networking is crucial for anyone who wants to pursue a career]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use Vim – Tutorial for Beginners]]></title>
+        <id>https://www.freecodecamp.org/news/vim-beginners-guide/</id>
+        <link href="https://www.freecodecamp.org/news/vim-beginners-guide/"/>
+        <updated>2023-01-30T16:08:32.000Z</updated>
+        <summary type="html"><![CDATA[Vim is one of the most popular text editors among Linux users. Linux System Administrators especially often prefer it to other editors.  In this article, you'll learn a lot about Vim and see how you can quickly start using Vim as a developer. What is Vim?  Vim is]]></summary>
+        <author>
+            <name>Arunachalam B</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Easy SVG Customization And Animation: A Practical Guide]]></title>
+        <id>https://smashingmagazine.com/2023/01/svg-customization-animation-practical-guide/</id>
+        <link href="https://smashingmagazine.com/2023/01/svg-customization-animation-practical-guide/"/>
+        <updated>2023-01-30T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Developers often feel discouraged from editing SVG markup and experimenting with SVG animations, thinking it’s a significant time investment or they need to use a complex animation library to do so. In this article, Adrian showcases his favorite tricks, which make the process streamlined and fun.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Adrian Bece)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AR, VR, and a Model for 3D in HTML]]></title>
         <id>https://css-tricks.com/?p=376674</id>

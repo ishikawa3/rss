@@ -119,6 +119,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2023/01/svg-customization-animation-practical-guide/",
+          "author": "hello@smashingmagazine.com (Adrian Bece)",
+          "description": "Developers often feel discouraged from editing SVG markup and experimenting with SVG animations, thinking it’s a significant time investment or they need to use a complex animation library to do so. In this article, Adrian showcases his favorite tricks, which make the process streamlined and fun.",
+          "link": "https://smashingmagazine.com/2023/01/svg-customization-animation-practical-guide/",
+          "publishedOn": "2023-01-30T14:00:00.000Z",
+          "wordCount": 8877,
+          "title": "Easy SVG Customization And Animation: A Practical Guide",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/svg-customization-animation-practical-guide/meta-sharing-image-svg-customization-animation-practical-guide.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/svg-customization-animation-practical-guide/meta-sharing-image-svg-customization-animation-practical-guide.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2023/01/build-strong-customer-relationships-user-research/",
           "author": "hello@smashingmagazine.com (Renaissance Rachel)",
           "description": "In this article, Rachel walks you through various ways that product teams can utilize to build relationships with customers. She will share some tips and tricks from her experience that have helped her nurture customer relationships and build better products.",
@@ -410,6 +425,66 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/how-lists-work-in-java/",
+          "author": "Ihechikara Vincent Abba",
+          "description": "You can use the Java List interface to store objects/elements in a an ordered collection. It extends the Collection interface.  TheList interface provides us with various methods for inserting, accessing, and deleting elements in a collection. In this article, you'll learn how to extend and implement the List interface",
+          "link": "https://www.freecodecamp.org/news/how-lists-work-in-java/",
+          "publishedOn": "2023-01-30T18:09:11.000Z",
+          "wordCount": 1310,
+          "title": "Java List – Example Lists in Java",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/java-list-interface-cover.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/google-sheets-multiple-data-validation-selections/",
+          "author": "Eamonn Cottrell",
+          "description": "In this article I will show you how to allow for multiple items to be selected using the drop-down data validation feature in Google Sheets. Here's the Google Sheet [https://docs.google.com/spreadsheets/d/1yxc4k1x5idcS_moQ1Bq8LnHGZF2nm9dpARglY7Rv0UI/edit#gid=390071620]  we'll use for the example. You can make a copy of this to edit yourself by clicking File ->",
+          "link": "https://www.freecodecamp.org/news/google-sheets-multiple-data-validation-selections/",
+          "publishedOn": "2023-01-30T17:30:58.000Z",
+          "wordCount": 2261,
+          "title": "Google Sheets Tutorial – How to Enable Multiple Selection Data Validation Using Apps Script",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/multiple-selection-data-validation.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/where-hot-tech-trends-go-to-die/",
+          "author": "David Clinton",
+          "description": "If you're interested in technology, you may also have an active interest in learning about hot technology trends.  But you don't want to take every last one of these gadgets and business fads too seriously: some are bound to disappoint.  (Although don't think you can hold me personally",
+          "link": "https://www.freecodecamp.org/news/where-hot-tech-trends-go-to-die/",
+          "publishedOn": "2023-01-30T17:17:50.000Z",
+          "wordCount": 2343,
+          "title": "Where Hot Trends Go to Die – What We Can Learn from Failed Tech Products",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/pexels-francesco-ungaro-998646.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/using-typescript-in-react-apps/",
+          "author": "Germán Cocca",
+          "description": "Hi everyone! A while ago I wrote an article about TypeScript [/news/an-introduction-to-typescript/], explaining its main features and why it's a good idea to use it in large projects.  Today we're going to take a quick look at how we can use TypeScript in a React app, so you can",
+          "link": "https://www.freecodecamp.org/news/using-typescript-in-react-apps/",
+          "publishedOn": "2023-01-30T16:59:27.000Z",
+          "wordCount": 1856,
+          "title": "How to Use TypeScript in React Apps",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/bruno-martins-OhJmwB4XWLE-unsplash.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/http-networking-protocol-course/",
+          "author": "Beau Carnes",
+          "description": "HTTP (Hypertext Transfer Protocol) is the foundation of data communication on the World Wide Web. It is used to transfer data from the client (web browser) to the server (web host) and vice versa. Understanding the basics of HTTP networking is crucial for anyone who wants to pursue a career",
+          "link": "https://www.freecodecamp.org/news/http-networking-protocol-course/",
+          "publishedOn": "2023-01-30T16:54:31.000Z",
+          "wordCount": 952,
+          "title": "Master the HTTP Networking Protocol",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/httpnetworking.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/vim-beginners-guide/",
+          "author": "Arunachalam B",
+          "description": "Vim is one of the most popular text editors among Linux users. Linux System Administrators especially often prefer it to other editors.  In this article, you'll learn a lot about Vim and see how you can quickly start using Vim as a developer. What is Vim?  Vim is",
+          "link": "https://www.freecodecamp.org/news/vim-beginners-guide/",
+          "publishedOn": "2023-01-30T16:08:32.000Z",
+          "wordCount": 2900,
+          "title": "How to Use Vim – Tutorial for Beginners",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/BB---Vim---A-Quick-Beginner-s-Guide.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/database-migration-golang-migrate/",
           "author": "Rwitesh Bera",
