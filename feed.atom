@@ -2,10 +2,81 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-02-01T00:11:00.351Z</updated>
+    <updated>2023-02-02T00:10:32.157Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Create and Publish an NPM Package – a Step-by-Step Guide]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-create-and-publish-your-first-npm-package/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-create-and-publish-your-first-npm-package/"/>
+        <updated>2023-02-01T21:36:23.000Z</updated>
+        <summary type="html"><![CDATA[NPM is the largest software registry on the internet. There are over a million packages in the NPM Library.  Developers publish packages on NPM to share their code with others. And organisations also use NPM to share code internally. In this article, you will learn how to create a]]></summary>
+        <author>
+            <name>Benjamin Semah</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Serialize Your Data in Kotlin and Jetpack Compose]]></title>
+        <id>https://www.freecodecamp.org/news/serializing-your-data-in-kotlin/</id>
+        <link href="https://www.freecodecamp.org/news/serializing-your-data-in-kotlin/"/>
+        <updated>2023-02-01T21:19:13.000Z</updated>
+        <summary type="html"><![CDATA[Serialization is the process of transforming data that's in one format into another format that can be stored.  If you have ever worked with a database or fetching data from a server, this should all be familiar to you. If not, you have come to the right place.]]></summary>
+        <author>
+            <name>Tomer Ben Rachel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Caching Data in SvelteKit]]></title>
+        <id>https://css-tricks.com/?p=376634</id>
+        <link href="https://css-tricks.com/caching-data-in-sveltekit/"/>
+        <updated>2023-02-01T15:04:33.000Z</updated>
+        <summary type="html"><![CDATA[My previous post was a broad overview of SvelteKit where we saw what a great tool it is for web development. This post will fork off what we did there and dive into every developer’s favorite topic: caching. So, …
+Caching Data in SvelteKit originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Adam Rackis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Understanding App Directory Architecture In Next.js]]></title>
+        <id>https://smashingmagazine.com/2023/02/understanding-app-directory-architecture-next-js/</id>
+        <link href="https://smashingmagazine.com/2023/02/understanding-app-directory-architecture-next-js/"/>
+        <updated>2023-02-01T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The new App Directory architecture has been the main character of the recent Next.js release, which keeps bringing up many questions. In this article, Atila Fassina explores the advantages and pitfalls of this new strategy and reflects on whether you should use it in production now or not.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Atila Fassina)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[React.js vs React Native – What's the Difference?]]></title>
+        <id>https://www.freecodecamp.org/news/react-js-vs-react-native-whats-the-difference/</id>
+        <link href="https://www.freecodecamp.org/news/react-js-vs-react-native-whats-the-difference/"/>
+        <updated>2023-02-01T00:41:21.000Z</updated>
+        <summary type="html"><![CDATA[Are React.js and React Native the same? If you're new to the world of web and mobile development, you might be wondering the same thing.  As a newbie, it's easy to assume that React.js are React Native are the same. After all, they both have "React" as part of]]></summary>
+        <author>
+            <name>Kingsley Ubah</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use the "this" Keyword in JavaScript]]></title>
+        <id>https://www.freecodecamp.org/news/the-this-keyword-in-javascript/</id>
+        <link href="https://www.freecodecamp.org/news/the-this-keyword-in-javascript/"/>
+        <updated>2023-01-31T23:40:14.000Z</updated>
+        <summary type="html"><![CDATA[Hey everyone! In this article we're going to talk about the THIS keyword in Javascript.  This used to be a concept that confused me a little bit, so I'll try to break it down for you so you can understand its uses and in what situations can it be]]></summary>
+        <author>
+            <name>Germán Cocca</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Asynchronous Programming in JavaScript – Guide for Beginners]]></title>
+        <id>https://www.freecodecamp.org/news/asynchronous-programming-in-javascript/</id>
+        <link href="https://www.freecodecamp.org/news/asynchronous-programming-in-javascript/"/>
+        <updated>2023-01-31T23:17:27.000Z</updated>
+        <summary type="html"><![CDATA[To understand what asynchronous programming means, think about multiple people working on a project simultaneously, each on a different task. In traditional (synchronous) programming, each person would have to wait for the person before them to finish their task before starting their own.  But with asynchronous programming, everyone can]]></summary>
+        <author>
+            <name>Dickson Boateng</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Visual Studio vs Visual Studio Code – What's The Difference Between These IDE Code Editors?]]></title>
         <id>https://www.freecodecamp.org/news/visual-studio-vs-visual-studio-code/</id>
@@ -1656,56 +1727,6 @@ Styling Buttons in WordPress Block Themes originally published on CSS-Tricks, wh
         <summary type="html"><![CDATA[User authentication is important for protecting sensitive information and resources from unauthorized access. It helps ensure that only authorized users can access and make changes to data, and helps prevent unauthorized users from gaining access to sensitive information. There are different methods for implementing user authentication, including password-based authentication, token-based]]></summary>
         <author>
             <name>Ashutosh Krishna</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Laravel Valet Performance – How to Prevent 504 Errors and Speed Up Valet]]></title>
-        <id>https://www.freecodecamp.org/news/speed-up-performance-in-laravel-valet/</id>
-        <link href="https://www.freecodecamp.org/news/speed-up-performance-in-laravel-valet/"/>
-        <updated>2023-01-02T23:12:30.000Z</updated>
-        <summary type="html"><![CDATA[Last week, I decided to install Laravel Valet on my Mac. But after the installation, the performance of the microservice architecture application I had it on was quite slow.  I wondered if it was an M1 issue or because I had yet to shut the machine down. I shut]]></summary>
-        <author>
-            <name>Sule-Balogun Olanrewaju Ganiu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Learn React in 2023]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-learn-react-in-2023/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-learn-react-in-2023/"/>
-        <updated>2023-01-02T22:59:24.000Z</updated>
-        <summary type="html"><![CDATA[As the most popular JavaScript library for building frontend applications, there has never been a better year to learn React than 2023.  In this guide, I'm going to show you the most valuable resources and tips that I believe will help you learn React faster. You'll also save a]]></summary>
-        <author>
-            <name>Reed Barger</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn CSS by Building the Figma Logo in Pure CSS]]></title>
-        <id>https://www.freecodecamp.org/news/learn-css-by-creating-the-figma-logo-in-pure-css/</id>
-        <link href="https://www.freecodecamp.org/news/learn-css-by-creating-the-figma-logo-in-pure-css/"/>
-        <updated>2023-01-02T22:39:24.000Z</updated>
-        <summary type="html"><![CDATA[One of the best ways to learn CSS is by creating something useful while you learn. I will show you how to use the following CSS concepts by creating the Figma logo:  * flex-wrap  * multiple classes  * border-radius What We Will Be Creating We will create]]></summary>
-        <author>
-            <name>Jennifer Bland</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Protect Your Privacy Online – Five Useful Tools]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-protect-your-privacy-online/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-protect-your-privacy-online/"/>
-        <updated>2023-01-02T22:33:08.000Z</updated>
-        <summary type="html"><![CDATA[In today’s growing cyber threat landscape, it is important to learn how to protect yourself. In this article, I'll share my five favorite tools you can use to protect your privacy online. Why Online Privacy is Important Have you ever wondered how valuable your data is? Every app, website, and]]></summary>
-        <author>
-            <name>Manish Shivanandhan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Add a Custom Network to Metamask with JavaScript]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-add-custom-network-to-metamask/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-add-custom-network-to-metamask/"/>
-        <updated>2023-01-02T22:17:22.000Z</updated>
-        <summary type="html"><![CDATA[As a developer, you can enhance the user experience of your decentralized applications (DApps) by allowing users to easily add your network to their Metamask wallet with just one click.  This simplifies the process of onboarding users to your application, since they don't have to manually add the network]]></summary>
-        <author>
-            <name>Joshua Omobola</name>
         </author>
     </entry>
 </feed>
