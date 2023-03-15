@@ -79,6 +79,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2023/03/leonardo-da-vinci-teach-web-design/",
+          "author": "hello@smashingmagazine.com (Frederick O’Brien)",
+          "description": "Perhaps more than any other person in history, Leonardo da Vinci showed the kind of magic that can happen in the overlap between art and science, where much of web development lives. His methods and outlooks are just as applicable to the web today as they were in Renaissance Italy.",
+          "link": "https://smashingmagazine.com/2023/03/leonardo-da-vinci-teach-web-design/",
+          "publishedOn": "2023-03-14T16:00:00.000Z",
+          "wordCount": 5003,
+          "title": "What Leonardo Da Vinci Can Teach Us About Web Design",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/leonardo-da-vinci-teach-web-design/leonardo-da-vinci-teach-web-design.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/leonardo-da-vinci-teach-web-design/leonardo-da-vinci-teach-web-design.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2023/03/pragmatists-guide-lean-user-research/",
           "author": "hello@smashingmagazine.com (Paul Boag)",
           "description": "Instead of telling you once again what the best practice is and adding to your imposter syndrome, let’s concentrate on some practical approaches to user research that we might be able to fit into our existing projects without being left disillusioned.",
@@ -355,6 +370,106 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/pip-upgrade-and-how-to-update-pip-and-python/",
+          "author": "Kolade Chris",
+          "description": "Python is a widely used and powerful programming language that's relatively simple to learn. Python releases patch updates every few months and major updates around once in a year. Because of this, it is always a good idea to update the version of Python you have on your computer. In",
+          "link": "https://www.freecodecamp.org/news/pip-upgrade-and-how-to-update-pip-and-python/",
+          "publishedOn": "2023-03-14T21:04:29.000Z",
+          "wordCount": 1141,
+          "title": "Pip Upgrade – And How to Update Pip and Python",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/updatePip.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/cybersecurity-vulnerabilities/",
+          "author": "David Clinton",
+          "description": "In order to understand potential threats hanging over your organization, you'll need to understand two things: what dangerous stuff is out there on the internet right now, and what impact it could have were it to actually hit you.  Once you have that information, you'll be in a position",
+          "link": "https://www.freecodecamp.org/news/cybersecurity-vulnerabilities/",
+          "publishedOn": "2023-03-14T18:47:55.000Z",
+          "wordCount": 2075,
+          "title": "Cybersecurity Vulnerabilities – How Attackers Can Get Your Data",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/pexels-pixabay-38275.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/functional-programming-in-java/",
+          "author": "Sameer Shukla",
+          "description": "Functional programming (FP) is a programming paradigm. It emphasizes the use of pure functions that don't have side effects and always return the same output for a given input.  This article explores how to implement FP concepts in Java, including viewing functions as first-class citizens, chaining, and composing them",
+          "link": "https://www.freecodecamp.org/news/functional-programming-in-java/",
+          "publishedOn": "2023-03-14T17:34:55.000Z",
+          "wordCount": 2795,
+          "title": "Functional Programming in Java",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/lambda.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-build-a-simple-login-app-with-flutter/",
+          "author": "Arunachalam B",
+          "description": "Flutter is one of the most popular frameworks for building mobile and desktop applications. And many companies are using it today. This is in part because of its outstanding performance, having a benchmark of 60 Frames Per Second (FPS). This helps it outperform other cross-platform technologies, and it performs better",
+          "link": "https://www.freecodecamp.org/news/how-to-build-a-simple-login-app-with-flutter/",
+          "publishedOn": "2023-03-14T16:39:18.000Z",
+          "wordCount": 3523,
+          "title": "How to Build a Simple Login App with Flutter",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/Flutter-Login-App---Banner.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/joining-lists-in-python-how-to-concat-lists/",
+          "author": "Shittu Olumide",
+          "description": "The process of combining two or more strings, lists, or other data structures into a single entity is known as concatenation in programming.  Concatenation produces a new object with all the components of the original objects, arranged in the concatenation order. Concatenation in the context of strings refers to",
+          "link": "https://www.freecodecamp.org/news/joining-lists-in-python-how-to-concat-lists/",
+          "publishedOn": "2023-03-14T16:30:27.000Z",
+          "wordCount": 1641,
+          "title": "Joining Lists in Python – How to Concat Lists",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/Shittu-Olumide-Joining-Lists-in-Python---How-to-Concat-Lists-1.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/create-and-manipulate-tables-in-a-sql-database-using-python/",
+          "author": "Oluseye Jeremiah",
+          "description": "Python is a powerful programming language that you can use to interact with SQL databases. With the help of Python, you can create, manipulate, and interact with the tables in the SQL database.  In this tutorial, we will be discussing how to create and manipulate tables in a SQL",
+          "link": "https://www.freecodecamp.org/news/create-and-manipulate-tables-in-a-sql-database-using-python/",
+          "publishedOn": "2023-03-14T16:28:25.000Z",
+          "wordCount": 1507,
+          "title": "How to Create and Manipulate Tables in a SQL Database Using Python",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/tables.JPG"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-sort-javascript-array-accurately/",
+          "author": "Joel Olawanle",
+          "description": "In programming, situations that need you to sort data will always arise. When you sort data, you will always want accurate results because failure to get an accurate result can result in malfunctions or bugs within your code. In this article, you will learn how to sort an array in",
+          "link": "https://www.freecodecamp.org/news/how-to-sort-javascript-array-accurately/",
+          "publishedOn": "2023-03-14T15:14:41.000Z",
+          "wordCount": 1724,
+          "title": "JavaScript Sort Array - How to Sort an Array Accurately",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/cover-template--5-.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-create-a-marker-in-matplotlib/",
+          "author": "Ihechikara Vincent Abba",
+          "description": "In this article, you'll learn how to use markers in Matplotlib to indicate specific points in a plot.  The marker parameter can be used to create \"markers\" in a plot. You can specify the shape of the marker by passing a value to the parameter.  Here's what a",
+          "link": "https://www.freecodecamp.org/news/how-to-create-a-marker-in-matplotlib/",
+          "publishedOn": "2023-03-14T15:05:00.000Z",
+          "wordCount": 960,
+          "title": "Matplotlib Marker - How To Create a Marker in Matplotlib",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/isaac-smith-6EnTPvPPL6I-unsplash--2--1.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-change-legend-fontsize-in-matplotlib/",
+          "author": "Ihechikara Vincent Abba",
+          "description": "You can modify different properties of a plot — color, size, label, title and so on — when working with Matplotlib.  In this article, you'll learn what a legend is in Matplotlib, and how to use some of its parameters to make your plots more relatable.  You'll then",
+          "link": "https://www.freecodecamp.org/news/how-to-change-legend-fontsize-in-matplotlib/",
+          "publishedOn": "2023-03-14T15:04:13.000Z",
+          "wordCount": 1209,
+          "title": "How To Change Legend Font Size in Matplotlib",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/isaac-smith-6EnTPvPPL6I-unsplash--2-.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/hack-summit-2023-developer-conference-focused-on-blockchain-development/",
+          "author": "Quincy Larson",
+          "description": "Hack Summit is one of the largest online developer conferences in history. Across its 5 events over the past decade, more than 130,000 developers have attended. And this year's event should be no different – filled with opportunities to learn from speakers and expand your professional network. This year, the",
+          "link": "https://www.freecodecamp.org/news/hack-summit-2023-developer-conference-focused-on-blockchain-development/",
+          "publishedOn": "2023-03-14T08:03:17.000Z",
+          "wordCount": 762,
+          "title": "Hack Summit 2023 – Developer Conference Focused on Blockchain Development",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/hacksummit_fcc.jpg"
+        },
         {
           "id": "https://www.freecodecamp.org/news/how-to-change-color-in-matplotlip/",
           "author": "Ihechikara Vincent Abba",

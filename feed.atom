@@ -2,10 +2,120 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-14T00:10:06.440Z</updated>
+    <updated>2023-03-15T00:09:54.482Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Pip Upgrade – And How to Update Pip and Python]]></title>
+        <id>https://www.freecodecamp.org/news/pip-upgrade-and-how-to-update-pip-and-python/</id>
+        <link href="https://www.freecodecamp.org/news/pip-upgrade-and-how-to-update-pip-and-python/"/>
+        <updated>2023-03-14T21:04:29.000Z</updated>
+        <summary type="html"><![CDATA[Python is a widely used and powerful programming language that's relatively simple to learn. Python releases patch updates every few months and major updates around once in a year. Because of this, it is always a good idea to update the version of Python you have on your computer. In]]></summary>
+        <author>
+            <name>Kolade Chris</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cybersecurity Vulnerabilities – How Attackers Can Get Your Data]]></title>
+        <id>https://www.freecodecamp.org/news/cybersecurity-vulnerabilities/</id>
+        <link href="https://www.freecodecamp.org/news/cybersecurity-vulnerabilities/"/>
+        <updated>2023-03-14T18:47:55.000Z</updated>
+        <summary type="html"><![CDATA[In order to understand potential threats hanging over your organization, you'll need to understand two things: what dangerous stuff is out there on the internet right now, and what impact it could have were it to actually hit you.  Once you have that information, you'll be in a position]]></summary>
+        <author>
+            <name>David Clinton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Functional Programming in Java]]></title>
+        <id>https://www.freecodecamp.org/news/functional-programming-in-java/</id>
+        <link href="https://www.freecodecamp.org/news/functional-programming-in-java/"/>
+        <updated>2023-03-14T17:34:55.000Z</updated>
+        <summary type="html"><![CDATA[Functional programming (FP) is a programming paradigm. It emphasizes the use of pure functions that don't have side effects and always return the same output for a given input.  This article explores how to implement FP concepts in Java, including viewing functions as first-class citizens, chaining, and composing them]]></summary>
+        <author>
+            <name>Sameer Shukla</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Simple Login App with Flutter]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-build-a-simple-login-app-with-flutter/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-a-simple-login-app-with-flutter/"/>
+        <updated>2023-03-14T16:39:18.000Z</updated>
+        <summary type="html"><![CDATA[Flutter is one of the most popular frameworks for building mobile and desktop applications. And many companies are using it today. This is in part because of its outstanding performance, having a benchmark of 60 Frames Per Second (FPS). This helps it outperform other cross-platform technologies, and it performs better]]></summary>
+        <author>
+            <name>Arunachalam B</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Joining Lists in Python – How to Concat Lists]]></title>
+        <id>https://www.freecodecamp.org/news/joining-lists-in-python-how-to-concat-lists/</id>
+        <link href="https://www.freecodecamp.org/news/joining-lists-in-python-how-to-concat-lists/"/>
+        <updated>2023-03-14T16:30:27.000Z</updated>
+        <summary type="html"><![CDATA[The process of combining two or more strings, lists, or other data structures into a single entity is known as concatenation in programming.  Concatenation produces a new object with all the components of the original objects, arranged in the concatenation order. Concatenation in the context of strings refers to]]></summary>
+        <author>
+            <name>Shittu Olumide</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Create and Manipulate Tables in a SQL Database Using Python]]></title>
+        <id>https://www.freecodecamp.org/news/create-and-manipulate-tables-in-a-sql-database-using-python/</id>
+        <link href="https://www.freecodecamp.org/news/create-and-manipulate-tables-in-a-sql-database-using-python/"/>
+        <updated>2023-03-14T16:28:25.000Z</updated>
+        <summary type="html"><![CDATA[Python is a powerful programming language that you can use to interact with SQL databases. With the help of Python, you can create, manipulate, and interact with the tables in the SQL database.  In this tutorial, we will be discussing how to create and manipulate tables in a SQL]]></summary>
+        <author>
+            <name>Oluseye Jeremiah</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Leonardo Da Vinci Can Teach Us About Web Design]]></title>
+        <id>https://smashingmagazine.com/2023/03/leonardo-da-vinci-teach-web-design/</id>
+        <link href="https://smashingmagazine.com/2023/03/leonardo-da-vinci-teach-web-design/"/>
+        <updated>2023-03-14T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Perhaps more than any other person in history, Leonardo da Vinci showed the kind of magic that can happen in the overlap between art and science, where much of web development lives. His methods and outlooks are just as applicable to the web today as they were in Renaissance Italy.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Frederick O’Brien)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JavaScript Sort Array - How to Sort an Array Accurately]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-sort-javascript-array-accurately/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-sort-javascript-array-accurately/"/>
+        <updated>2023-03-14T15:14:41.000Z</updated>
+        <summary type="html"><![CDATA[In programming, situations that need you to sort data will always arise. When you sort data, you will always want accurate results because failure to get an accurate result can result in malfunctions or bugs within your code. In this article, you will learn how to sort an array in]]></summary>
+        <author>
+            <name>Joel Olawanle</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Matplotlib Marker - How To Create a Marker in Matplotlib]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-create-a-marker-in-matplotlib/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-create-a-marker-in-matplotlib/"/>
+        <updated>2023-03-14T15:05:00.000Z</updated>
+        <summary type="html"><![CDATA[In this article, you'll learn how to use markers in Matplotlib to indicate specific points in a plot.  The marker parameter can be used to create "markers" in a plot. You can specify the shape of the marker by passing a value to the parameter.  Here's what a]]></summary>
+        <author>
+            <name>Ihechikara Vincent Abba</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Change Legend Font Size in Matplotlib]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-change-legend-fontsize-in-matplotlib/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-change-legend-fontsize-in-matplotlib/"/>
+        <updated>2023-03-14T15:04:13.000Z</updated>
+        <summary type="html"><![CDATA[You can modify different properties of a plot — color, size, label, title and so on — when working with Matplotlib.  In this article, you'll learn what a legend is in Matplotlib, and how to use some of its parameters to make your plots more relatable.  You'll then]]></summary>
+        <author>
+            <name>Ihechikara Vincent Abba</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hack Summit 2023 – Developer Conference Focused on Blockchain Development]]></title>
+        <id>https://www.freecodecamp.org/news/hack-summit-2023-developer-conference-focused-on-blockchain-development/</id>
+        <link href="https://www.freecodecamp.org/news/hack-summit-2023-developer-conference-focused-on-blockchain-development/"/>
+        <updated>2023-03-14T08:03:17.000Z</updated>
+        <summary type="html"><![CDATA[Hack Summit is one of the largest online developer conferences in history. Across its 5 events over the past decade, more than 130,000 developers have attended. And this year's event should be no different – filled with opportunities to learn from speakers and expand your professional network. This year, the]]></summary>
+        <author>
+            <name>Quincy Larson</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Matplotlib Add Color – How To Change Line Color in Matplotlib]]></title>
         <id>https://www.freecodecamp.org/news/how-to-change-color-in-matplotlip/</id>
