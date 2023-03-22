@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-21T00:09:51.697Z</updated>
+    <updated>2023-03-22T00:08:26.918Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Chart.js Tutorial – How to Make Marimekko Charts in Angular]]></title>
+        <id>https://www.freecodecamp.org/news/chart-js-tutorial-how-to-make-marimekko-charts-in-angular/</id>
+        <link href="https://www.freecodecamp.org/news/chart-js-tutorial-how-to-make-marimekko-charts-in-angular/"/>
+        <updated>2023-03-21T17:51:26.000Z</updated>
+        <summary type="html"><![CDATA[Data visualization is an essential part of data analysis. And charts are one of the most effective ways to present data in a clear and concise manner.  Marimekko charts are an excellent choice for displaying complex data sets in a compact and visually appealing format.  A Marimekko chart,]]></summary>
+        <author>
+            <name>Swatej Patil</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Advanced SQL Techniques for Complex Queries]]></title>
+        <id>https://www.freecodecamp.org/news/advanced-sql-techniques/</id>
+        <link href="https://www.freecodecamp.org/news/advanced-sql-techniques/"/>
+        <updated>2023-03-21T17:01:39.000Z</updated>
+        <summary type="html"><![CDATA[Structured Query Language or SQL is an effective tool for managing and modifying data that is stored in databases.  The SELECT, INSERT, UPDATE, and DELETE SQL commands are suitable for many common use cases. But sometimes, more sophisticated techniques can help you perform out more complex queries and analyses]]></summary>
+        <author>
+            <name>Oluseye Jeremiah</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Use OpenAI Gymnasium for Reinforcement Learning]]></title>
+        <id>https://www.freecodecamp.org/news/use-openai-gymnasium-for-reinforcement-learning/</id>
+        <link href="https://www.freecodecamp.org/news/use-openai-gymnasium-for-reinforcement-learning/"/>
+        <updated>2023-03-21T14:17:07.000Z</updated>
+        <summary type="html"><![CDATA[Embark on an exciting journey to learn the fundamentals of reinforcement learning and its implementation using Gymnasium, the open-source Python library previously known as OpenAI Gym. We just published a full course on the freeCodeCamp.org YouTube channel that will teach you the basics of reinforcement learning using Gymnasium. Mustafa Esoofally]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Smashing Podcast Episode 58 With Debbie Levitt: What Is CX Design?]]></title>
+        <id>https://smashingmagazine.com/2023/03/smashing-podcast-episode-58/</id>
+        <link href="https://smashingmagazine.com/2023/03/smashing-podcast-episode-58/"/>
+        <updated>2023-03-21T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this episode of the Smashing Podcast, we ask what is Customer Experience design, and how does it differ from User Experience design? Vitaly Friedman talks to expert Debbie Levitt to find out.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Drew McLellan)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Developers Can Prevent Fraud and Stop Scammers]]></title>
+        <id>https://www.freecodecamp.org/news/how-developers-can-prevent-fraud-and-stop-scammers/</id>
+        <link href="https://www.freecodecamp.org/news/how-developers-can-prevent-fraud-and-stop-scammers/"/>
+        <updated>2023-03-20T22:32:41.000Z</updated>
+        <summary type="html"><![CDATA[Online frauds and scams have shot past projections in the last decade, and no one seems to be immune to them—including developers.  The shift to serverless cloud management has opened doors for hackers to try new attack surfaces and the impact is right in front of us. 90% of]]></summary>
+        <author>
+            <name>Dmitry Dragilev</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Next.js SEO for Developers – How to Build Highly Performant Apps with Next]]></title>
         <id>https://www.freecodecamp.org/news/nextjs-seo/</id>

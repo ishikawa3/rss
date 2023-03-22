@@ -69,6 +69,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2023/03/smashing-podcast-episode-58/",
+          "author": "hello@smashingmagazine.com (Drew McLellan)",
+          "description": "In this episode of the Smashing Podcast, we ask what is Customer Experience design, and how does it differ from User Experience design? Vitaly Friedman talks to expert Debbie Levitt to find out.",
+          "link": "https://smashingmagazine.com/2023/03/smashing-podcast-episode-58/",
+          "publishedOn": "2023-03-21T07:00:00.000Z",
+          "wordCount": 12033,
+          "title": "Smashing Podcast Episode 58 With Debbie Levitt: What Is CX Design?",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/smashing-podcast-episode-58/meta-smashing-podcast-episode-58.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "http://files.smashing.media/articles/smashing-podcast-episode-58/meta-smashing-podcast-episode-58.png"
+        },
+        {
           "id": "https://smashingmagazine.com/2023/03/free-fonts-interface-designers/",
           "author": "hello@smashingmagazine.com (Cosima Mielke)",
           "description": "Just a few beautiful, well-crafted fonts for headings and body text that you probably haven’t spotted before. Free for personal and commercial use. Enjoy!",
@@ -360,6 +375,46 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/chart-js-tutorial-how-to-make-marimekko-charts-in-angular/",
+          "author": "Swatej Patil",
+          "description": "Data visualization is an essential part of data analysis. And charts are one of the most effective ways to present data in a clear and concise manner.  Marimekko charts are an excellent choice for displaying complex data sets in a compact and visually appealing format.  A Marimekko chart,",
+          "link": "https://www.freecodecamp.org/news/chart-js-tutorial-how-to-make-marimekko-charts-in-angular/",
+          "publishedOn": "2023-03-21T17:51:26.000Z",
+          "wordCount": 1463,
+          "title": "Chart.js Tutorial – How to Make Marimekko Charts in Angular",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/austin-distel-DfjJMVhwH_8-unsplash.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/advanced-sql-techniques/",
+          "author": "Oluseye Jeremiah",
+          "description": "Structured Query Language or SQL is an effective tool for managing and modifying data that is stored in databases.  The SELECT, INSERT, UPDATE, and DELETE SQL commands are suitable for many common use cases. But sometimes, more sophisticated techniques can help you perform out more complex queries and analyses",
+          "link": "https://www.freecodecamp.org/news/advanced-sql-techniques/",
+          "publishedOn": "2023-03-21T17:01:39.000Z",
+          "wordCount": 1656,
+          "title": "Advanced SQL Techniques for Complex Queries",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/GBL.JPG"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/use-openai-gymnasium-for-reinforcement-learning/",
+          "author": "Beau Carnes",
+          "description": "Embark on an exciting journey to learn the fundamentals of reinforcement learning and its implementation using Gymnasium, the open-source Python library previously known as OpenAI Gym. We just published a full course on the freeCodeCamp.org YouTube channel that will teach you the basics of reinforcement learning using Gymnasium. Mustafa Esoofally",
+          "link": "https://www.freecodecamp.org/news/use-openai-gymnasium-for-reinforcement-learning/",
+          "publishedOn": "2023-03-21T14:17:07.000Z",
+          "wordCount": 1068,
+          "title": "Use OpenAI Gymnasium for Reinforcement Learning",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/gym.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-developers-can-prevent-fraud-and-stop-scammers/",
+          "author": "Dmitry Dragilev",
+          "description": "Online frauds and scams have shot past projections in the last decade, and no one seems to be immune to them—including developers.  The shift to serverless cloud management has opened doors for hackers to try new attack surfaces and the impact is right in front of us. 90% of",
+          "link": "https://www.freecodecamp.org/news/how-developers-can-prevent-fraud-and-stop-scammers/",
+          "publishedOn": "2023-03-20T22:32:41.000Z",
+          "wordCount": 2873,
+          "title": "How Developers Can Prevent Fraud and Stop Scammers",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/48332996261_4f1a1657fc_b.jpg"
+        },
         {
           "id": "https://www.freecodecamp.org/news/nextjs-seo/",
           "author": "Scott Gary",
