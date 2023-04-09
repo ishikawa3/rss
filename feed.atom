@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-08T00:08:57.746Z</updated>
+    <updated>2023-04-09T00:10:06.647Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
@@ -1688,66 +1688,6 @@ in SQL]]></title>
 5 Mistakes I Made When Starting My First React Project originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Richard Oliver Bray</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Pragmatist’s Guide To Lean User Research]]></title>
-        <id>https://smashingmagazine.com/2023/03/pragmatists-guide-lean-user-research/</id>
-        <link href="https://smashingmagazine.com/2023/03/pragmatists-guide-lean-user-research/"/>
-        <updated>2023-03-10T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Instead of telling you once again what the best practice is and adding to your imposter syndrome, let’s concentrate on some practical approaches to user research that we might be able to fit into our existing projects without being left disillusioned.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Paul Boag)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Make a Clickable SVG Map With HTML and CSS]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-make-clickable-svg-map-html-css/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-make-clickable-svg-map-html-css/"/>
-        <updated>2023-03-09T19:43:56.000Z</updated>
-        <summary type="html"><![CDATA[Tour Afrique]]></summary>
-        <author>
-            <name>Rufai Mustapha</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Perform Machine Learning Tasks with Python and SQL]]></title>
-        <id>https://www.freecodecamp.org/news/machine-learning-with-python-and-sql/</id>
-        <link href="https://www.freecodecamp.org/news/machine-learning-with-python-and-sql/"/>
-        <updated>2023-03-09T17:57:45.000Z</updated>
-        <summary type="html"><![CDATA[Machine learning has become a popular field in recent years, with various applications in data analysis, computer vision, natural language processing, and more.  Python is one of the most widely used programming languages for machine learning, thanks to its rich ecosystem of libraries, frameworks, and tools.  But to]]></summary>
-        <author>
-            <name>Oluseye Jeremiah</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Exploiting CORS – How to Pentest Cross-Origin Resource Sharing Vulnerabilities]]></title>
-        <id>https://www.freecodecamp.org/news/exploiting-cors-guide-to-pentesting/</id>
-        <link href="https://www.freecodecamp.org/news/exploiting-cors-guide-to-pentesting/"/>
-        <updated>2023-03-09T16:25:31.000Z</updated>
-        <summary type="html"><![CDATA[All web browsers implement a security model known as the Same-Origin Policy (SOP). It restricts domains from accessing and retrieving data from other domains’ resources.  The SOP policy helps protect users from malicious scripts that could access their sensitive data or perform unauthorized actions on their behalf. For example,]]></summary>
-        <author>
-            <name>Nairuz Abulhul</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn Web Development from Harvard University (CS50 Web)]]></title>
-        <id>https://www.freecodecamp.org/news/learn-web-development-from-harvard-university-cs50/</id>
-        <link href="https://www.freecodecamp.org/news/learn-web-development-from-harvard-university-cs50/"/>
-        <updated>2023-03-09T12:37:49.000Z</updated>
-        <summary type="html"><![CDATA[Are you looking to expand your knowledge and skills in web programming? Look no further than CS50's Web Programming with Python and JavaScript course from Harvard University. This full course is designed to provide a comprehensive understanding of web programming, from the basics of HTML and CSS to more advanced]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn LaTeX for Creating Scientific Documents]]></title>
-        <id>https://www.freecodecamp.org/news/learn-latex-full-course/</id>
-        <link href="https://www.freecodecamp.org/news/learn-latex-full-course/"/>
-        <updated>2023-03-09T12:27:31.000Z</updated>
-        <summary type="html"><![CDATA[Are you looking to create professional-looking documents with ease? Look no further than the world of LaTeX. LaTeX is a typesetting system that enables users to produce high-quality documents, such as academic papers, scientific publications, and even books. We just published a beginner's course on the freeCodeCamp.org YouTube channel that]]></summary>
-        <author>
-            <name>Beau Carnes</name>
         </author>
     </entry>
 </feed>
