@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-23T00:09:49.127Z</updated>
+    <updated>2023-05-24T00:09:43.374Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Stream File Uploads to S3 Object Storage and Reduce Costs]]></title>
+        <id>https://www.freecodecamp.org/news/stream-file-uploads-to-s3-object-storage-and-reduce-costs/</id>
+        <link href="https://www.freecodecamp.org/news/stream-file-uploads-to-s3-object-storage-and-reduce-costs/"/>
+        <updated>2023-05-23T19:51:05.000Z</updated>
+        <summary type="html"><![CDATA[To support file uploads in your application, you will have to learn how to send files from the frontend [https://austingil.com/uploading-files-with-html/] and  receive files on the backend [https://austingil.com/file-uploads-in-node/].  This tutorial is going to take a step back and explore architectural changes that'll help you reduce costs when adding file]]></summary>
+        <author>
+            <name>Austin Gil</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use RabbitMQ with NodeJS to Send and Receive Messages]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-use-rabbitmq-with-nodejs/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-rabbitmq-with-nodejs/"/>
+        <updated>2023-05-23T14:45:51.000Z</updated>
+        <summary type="html"><![CDATA[If you're exploring the world of distributed systems and real-time data pipelines, you've probably come across the concept of message queues.  There are a number of tools in this field, but RabbitMQ and Apache Kafka are two of the most popular. While both are robust and reliable, they have]]></summary>
+        <author>
+            <name>Arunachalam B</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Smashing Podcast Episode 61 With Rachel Andrew: What Is Web Platform Baseline?]]></title>
+        <id>https://smashingmagazine.com/2023/05/smashing-podcast-episode-61/</id>
+        <link href="https://smashingmagazine.com/2023/05/smashing-podcast-episode-61/"/>
+        <updated>2023-05-23T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this episode of the Smashing Podcast, we’re talking about Web Platform Baseline. What is it, and how can it help determine your browser support policy? Drew McLellan talks to expert Rachel Andrew to find out.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Drew McLellan)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Full-Stack Development with Next.js, TypeScript, and AWS]]></title>
         <id>https://www.freecodecamp.org/news/full-stack-development-with-next-js-typescript-and-aws/</id>
@@ -1364,16 +1394,6 @@
         <summary type="html"><![CDATA[JSON stands for JavaScript Object Notation. It is a text-based and lightweight data format for exchanging information between systems, for example, a web server and a web application. JSON files typically contain objects, arrays, strings, and numbers. But you can also have regular expressions in a JSON file. And that’s]]></summary>
         <author>
             <name>Kolade Chris</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Potentially Dangerous Non-Accessibility Of Cookie Notices]]></title>
-        <id>https://smashingmagazine.com/2023/04/potentially-dangerous-non-accessibility-cookie-notices/</id>
-        <link href="https://smashingmagazine.com/2023/04/potentially-dangerous-non-accessibility-cookie-notices/"/>
-        <updated>2023-04-24T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this piece, a Web Content Accessibility Guidelines (WCAG) auditor shares some cookie banner error patterns that can massively hurt a page’s overall conformance. Let’s explore what to look out for with this omnipresent piece of the web interface.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Marcus Herrmann)</name>
         </author>
     </entry>
 </feed>
