@@ -256,21 +256,6 @@
             "type": "image/png"
           },
           "imageUrl": "http://files.smashing.media/articles/smashing-podcast-episode-60/ep-60.png"
-        },
-        {
-          "id": "https://smashingmagazine.com/2023/04/desktop-wallpaper-calendars-may-2023/",
-          "author": "hello@smashingmagazine.com (Cosima Mielke)",
-          "description": "May is almost here, so what better occasion could there be for some fresh and inspiring desktop and mobile wallpapers? Created with love by artists and designers from across the globe, the wallpapers in this post come in versions with and without a calendar. Enjoy!",
-          "link": "https://smashingmagazine.com/2023/04/desktop-wallpaper-calendars-may-2023/",
-          "publishedOn": "2023-04-30T15:00:00.000Z",
-          "wordCount": 5097,
-          "title": "Make Your May Magnificent (2023 Wallpapers Edition)",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-may-2023/may-23-the-mushroom-band-preview-opt.png",
-            "length": "0",
-            "type": "image/png"
-          },
-          "imageUrl": "http://files.smashing.media/articles/desktop-wallpaper-calendars-may-2023/may-23-the-mushroom-band-preview-opt.png"
         }
       ]
     },
@@ -279,6 +264,46 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/logical-operators-in-php/",
+          "author": "Michael Para",
+          "description": "Logical operators play a key role in programming languages. They let you manipulate boolean values and evaluate logical conditions.  In PHP, there are four fundamental logical operators: AND, OR, NOT, and XOR. This guide will help you understand these operators, and I'll explain how they work using code examples",
+          "link": "https://www.freecodecamp.org/news/logical-operators-in-php/",
+          "publishedOn": "2023-05-30T17:35:08.000Z",
+          "wordCount": 1487,
+          "title": "Logical Operators in PHP – A Beginner's Guide",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/luca-bravo-XJXWbfSo2f0-unsplash.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-setup-windows-machine-for-ml-dl-using-nvidia-graphics-card-cuda/",
+          "author": "Md. Fahim Bin Amin",
+          "description": "If you are learning machine learning / deep learning, you may be using the free  Google Colab [https://colab.research.google.com/]. But you might wonder if the free version is adequate.  If you can afford a good Nvidia Graphics Card (with a decent amount of CUDA cores) then you can easily",
+          "link": "https://www.freecodecamp.org/news/how-to-setup-windows-machine-for-ml-dl-using-nvidia-graphics-card-cuda/",
+          "publishedOn": "2023-05-30T14:58:31.000Z",
+          "wordCount": 3185,
+          "title": "How to Setup a Windows Machine for Machine Learning/Deep Learning Using an Nvidia Graphics Card (CUDA)",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/arseny-togulev-MECKPoKJYjM-unsplash.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/git-abort-merge-how-to-cancel-a-merge-in-git/",
+          "author": "Shittu Olumide",
+          "description": "Version control is a system that helps manage changes to files and directories over time. It allows multiple people to collaborate on a project, keep track of modifications, and revert to previous versions if needed.  One of the most popular version control systems is Git. Git [https://git-scm.com/] is a",
+          "link": "https://www.freecodecamp.org/news/git-abort-merge-how-to-cancel-a-merge-in-git/",
+          "publishedOn": "2023-05-30T14:18:30.000Z",
+          "wordCount": 1825,
+          "title": "Git Abort Merge – How to Cancel a Merge in Git",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/Shittu-Olumide-Git-Abort-Merge---How-to-Cancel-a-Merge-in-Git.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/what-does-the-maximum-call-stack-stack-exceeded-error-mean/",
+          "author": "Dillion Megida",
+          "description": "Have you ever gotten an error similar to this? This error occurs because the call stack has exceeded its limit. But what does this mean? First, let's understand what the call stack is. The Call Stack The call stack is a data structure in JavaScript that contains the function(s) being",
+          "link": "https://www.freecodecamp.org/news/what-does-the-maximum-call-stack-stack-exceeded-error-mean/",
+          "publishedOn": "2023-05-30T07:56:07.000Z",
+          "wordCount": 1797,
+          "title": "What does the \"Maximum call stack exceeded\" error mean?",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/29-maximum-call-stack-exceeded.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/new-ish-things-about-c-strings/",
           "author": "Deborah Kurata",

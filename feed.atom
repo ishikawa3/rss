@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-30T00:09:43.110Z</updated>
+    <updated>2023-05-31T00:10:08.433Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Logical Operators in PHP – A Beginner's Guide]]></title>
+        <id>https://www.freecodecamp.org/news/logical-operators-in-php/</id>
+        <link href="https://www.freecodecamp.org/news/logical-operators-in-php/"/>
+        <updated>2023-05-30T17:35:08.000Z</updated>
+        <summary type="html"><![CDATA[Logical operators play a key role in programming languages. They let you manipulate boolean values and evaluate logical conditions.  In PHP, there are four fundamental logical operators: AND, OR, NOT, and XOR. This guide will help you understand these operators, and I'll explain how they work using code examples]]></summary>
+        <author>
+            <name>Michael Para</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Setup a Windows Machine for Machine Learning/Deep Learning Using an Nvidia Graphics Card (CUDA)]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-setup-windows-machine-for-ml-dl-using-nvidia-graphics-card-cuda/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-setup-windows-machine-for-ml-dl-using-nvidia-graphics-card-cuda/"/>
+        <updated>2023-05-30T14:58:31.000Z</updated>
+        <summary type="html"><![CDATA[If you are learning machine learning / deep learning, you may be using the free  Google Colab [https://colab.research.google.com/]. But you might wonder if the free version is adequate.  If you can afford a good Nvidia Graphics Card (with a decent amount of CUDA cores) then you can easily]]></summary>
+        <author>
+            <name>Md. Fahim Bin Amin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Git Abort Merge – How to Cancel a Merge in Git]]></title>
+        <id>https://www.freecodecamp.org/news/git-abort-merge-how-to-cancel-a-merge-in-git/</id>
+        <link href="https://www.freecodecamp.org/news/git-abort-merge-how-to-cancel-a-merge-in-git/"/>
+        <updated>2023-05-30T14:18:30.000Z</updated>
+        <summary type="html"><![CDATA[Version control is a system that helps manage changes to files and directories over time. It allows multiple people to collaborate on a project, keep track of modifications, and revert to previous versions if needed.  One of the most popular version control systems is Git. Git [https://git-scm.com/] is a]]></summary>
+        <author>
+            <name>Shittu Olumide</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What does the "Maximum call stack exceeded" error mean?]]></title>
+        <id>https://www.freecodecamp.org/news/what-does-the-maximum-call-stack-stack-exceeded-error-mean/</id>
+        <link href="https://www.freecodecamp.org/news/what-does-the-maximum-call-stack-stack-exceeded-error-mean/"/>
+        <updated>2023-05-30T07:56:07.000Z</updated>
+        <summary type="html"><![CDATA[Have you ever gotten an error similar to this? This error occurs because the call stack has exceeded its limit. But what does this mean? First, let's understand what the call stack is. The Call Stack The call stack is a data structure in JavaScript that contains the function(s) being]]></summary>
+        <author>
+            <name>Dillion Megida</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Designing A Better Design Handoff File In Figma]]></title>
         <id>https://smashingmagazine.com/2023/05/designing-better-design-handoff-file-figma/</id>
@@ -1264,16 +1304,6 @@
         <summary type="html"><![CDATA[Are you ready to embark on a journey to learn one of the most popular programming languages in the world? Introducing Harvard University's CS50P: Introduction to Programming with Python, a comprehensive video course tailored to teach Python programming from scratch. Taught by the renowned Dr. David J. Malan, this course]]></summary>
         <author>
             <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Make Your May Magnificent (2023 Wallpapers Edition)]]></title>
-        <id>https://smashingmagazine.com/2023/04/desktop-wallpaper-calendars-may-2023/</id>
-        <link href="https://smashingmagazine.com/2023/04/desktop-wallpaper-calendars-may-2023/"/>
-        <updated>2023-04-30T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[May is almost here, so what better occasion could there be for some fresh and inspiring desktop and mobile wallpapers? Created with love by artists and designers from across the globe, the wallpapers in this post come in versions with and without a calendar. Enjoy!]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
         </author>
     </entry>
 </feed>
