@@ -2,10 +2,90 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-06T00:11:32.942Z</updated>
+    <updated>2023-06-07T00:10:12.311Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Python Decorators Explained For Beginners]]></title>
+        <id>https://www.freecodecamp.org/news/python-decorators-explained/</id>
+        <link href="https://www.freecodecamp.org/news/python-decorators-explained/"/>
+        <updated>2023-06-06T18:50:33.000Z</updated>
+        <summary type="html"><![CDATA[In the world of Python programming, decorators can be an elegant and powerful tool in the hands of experienced developers.  Decorators give you the ability to modify the behavior of functions without altering their source code, providing a concise and flexible way to enhance and extend their functionality. In]]></summary>
+        <author>
+            <name>Roy Chng</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Hackers Attack Social Media Media Accounts – And How to Defend Against Them]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-protect-social-media-accounts-from-attackers/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-protect-social-media-accounts-from-attackers/"/>
+        <updated>2023-06-06T16:42:11.000Z</updated>
+        <summary type="html"><![CDATA[Hey everyone, and welcome to the world of Social Media 📲. In this article, we will explore the famous (or infamous) sphere of social media, why it is critical to both you and hackers, and how you can avoid having your social media accounts attacked. Disclaimer: Hacking is a tool]]></summary>
+        <author>
+            <name>Daniel Iwugo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Exploring Universal And Cognitive-Friendly UX Design Through Pivot Tables And Grids]]></title>
+        <id>https://smashingmagazine.com/2023/06/universal-cognitive-friendly-ux-design-tables-grids/</id>
+        <link href="https://smashingmagazine.com/2023/06/universal-cognitive-friendly-ux-design-tables-grids/"/>
+        <updated>2023-06-06T16:30:00.000Z</updated>
+        <summary type="html"><![CDATA[This article covers the best tips and recommendations on the elements to pay attention to, the rules to follow, and life hacks to get around certain difficulties in table design.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Yuliia Nikitina)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Custom Widget in Flutter]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-build-a-custom-widget-in-flutter/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-a-custom-widget-in-flutter/"/>
+        <updated>2023-06-06T15:12:48.000Z</updated>
+        <summary type="html"><![CDATA[Flutter has been getting more and more popular lately. You can use it to build complex applications that work smoothly on MacOS, Windows, and Linux.  But building these applications is not always a simple process. You often have to refactor your code to maintain the app’s performance.  One]]></summary>
+        <author>
+            <name>Arunachalam B</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Implement Computer Vision with Deep Learning and TensorFlow]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-implement-computer-vision-with-deep-learning-and-tensorflow/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-implement-computer-vision-with-deep-learning-and-tensorflow/"/>
+        <updated>2023-06-06T15:08:54.000Z</updated>
+        <summary type="html"><![CDATA[Computer vision is being used in more and more places. From enhancing security systems to improving healthcare diagnostics, computer vision techniques are revolutionizing multiple industries.  We just published a 37-hour course on the freeCodeCamp.org YouTube channel that will teach you about deep learning for computer vision using TensorFlow. The]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Shuffle an Array of Items Using JavaScript or TypeScript]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-shuffle-an-array-of-items-using-javascript-or-typescript/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-shuffle-an-array-of-items-using-javascript-or-typescript/"/>
+        <updated>2023-06-05T23:32:32.000Z</updated>
+        <summary type="html"><![CDATA[In this article we'll be exploring how we can shuffle an array of items in multiple different ways using TypeScript, or JavaScript should you prefer. Pre-Requisites:  * An understanding of TypeScript or JavaScript  * A basic understanding of For Loops and Arrays The following examples are written in]]></summary>
+        <author>
+            <name>Grant Weatherston</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Introduction to Laravel APIs – Security, Features, and More]]></title>
+        <id>https://www.freecodecamp.org/news/introduction-to-laravel-apis/</id>
+        <link href="https://www.freecodecamp.org/news/introduction-to-laravel-apis/"/>
+        <updated>2023-06-05T23:27:24.000Z</updated>
+        <summary type="html"><![CDATA[Laravel is the most popular PHP framework, with its elegant syntax, extensive feature set, and developer-friendly environment. And it's gained significant traction in recent years. The Laravel ecosystem is constantly being updated with new features. Laravel 10 [https://laravel.com/docs/10.x/releases] is exciting! Among its many strengths is the robust support for APIs]]></summary>
+        <author>
+            <name>Abdulwahab Ashimi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use the JSON Module in Python – A Beginner's Guide]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-use-the-json-module-in-python/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-the-json-module-in-python/"/>
+        <updated>2023-06-05T22:51:24.000Z</updated>
+        <summary type="html"><![CDATA[JSON (JavaScript Object Notation) is a popular, lightweight data interchange standard. It represents data structures made up of key-value pairs that's quite straightforward and human-readable.  JSON has become the industry standard for data interchange between online services. And it's widely utilized in modern programming languages, including Python. JSON data]]></summary>
+        <author>
+            <name>Ashutosh Krishna</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Style a React Application – Different Options Compared]]></title>
         <id>https://www.freecodecamp.org/news/how-to-style-a-react-app/</id>
