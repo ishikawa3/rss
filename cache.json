@@ -18,6 +18,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2023/06/gatsby-headaches-i18n-part-1/",
+          "author": "hello@smashingmagazine.com (Juan Diego Rodríguez)",
+          "description": "In this first part of a two-part hands-on guide, Juan Rodriguez explains how to use several i18n plugins for Gatsby and reviews some others.",
+          "link": "https://smashingmagazine.com/2023/06/gatsby-headaches-i18n-part-1/",
+          "publishedOn": "2023-06-12T16:00:00.000Z",
+          "wordCount": 7064,
+          "title": "Gatsby Headaches And How To Cure Them: i18n (Part 1)",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/gatsby-headaches-i18n-part-1/gatsby-headaches-i18n-part-1.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/gatsby-headaches-i18n-part-1/gatsby-headaches-i18n-part-1.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2023/06/design-constraints-challenges-opportunities-practical-strategies/",
           "author": "hello@smashingmagazine.com (Paul Boag)",
           "description": "Unleash the power of creative limitation! Learn how constraints aren’t barriers but instead stepping stones to innovative design. Find out how to challenge unproductive restrictions and leverage the rest to your advantage.",
@@ -264,6 +279,36 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/upgrade-your-react-skills/",
+          "author": "Moyosore J Olaojo",
+          "description": "Since its announcement in 2013, React.js continues to be one of the most widely used JavaScript tools, thanks to its unmatched versatility and efficiency.  Backed by its component-based architecture and virtual DOM implementation, React.js excels in building modern and dynamic web applications. It enables developers to create reusable UI",
+          "link": "https://www.freecodecamp.org/news/upgrade-your-react-skills/",
+          "publishedOn": "2023-06-12T21:12:01.000Z",
+          "wordCount": 2683,
+          "title": "How to Upgrade Your React Skills with Three Helpful Tools",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/06/image_6483441.JPG"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/simplify-your-file-upload-process-in-express-js/",
+          "author": "Kelvin Moses",
+          "description": "File uploading is a common requirement in web development projects. But handling file uploads in Node.js can be complex and time-consuming. That's where Multer comes in.  Multer is a powerful middleware for Node.js that simplifies the file upload process by handling multipart/form-data requests. In this tutorial, you will learn",
+          "link": "https://www.freecodecamp.org/news/simplify-your-file-upload-process-in-express-js/",
+          "publishedOn": "2023-06-12T21:05:14.000Z",
+          "wordCount": 1940,
+          "title": "How to Streamline Your File Upload Process in Express.js with Multer",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/06/file-stream.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/improve-tech-writing-skills-by-contributing-to-open-source/",
+          "author": "CHRISTINE T. BELZIE",
+          "description": "Have you been writing your tech blog posts on Hashnode [https://hashnode.com/about] or Dev.to [http://dev.to/], but you're itching to try something new? If so, there is something that can quench your thirst: contributing to open source.  I know, I know, you’ve probably heard “Contribute to open source!” countless times in",
+          "link": "https://www.freecodecamp.org/news/improve-tech-writing-skills-by-contributing-to-open-source/",
+          "publishedOn": "2023-06-12T18:15:16.000Z",
+          "wordCount": 2157,
+          "title": "How to Improve Your Technical Writing Skills by Contributing to Open Source Projects",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/06/Blog-post-cover-for-FCC---3-1.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/how-to-edit-git-commit-messages-with-git-amend/",
           "author": "Shittu Olumide",
