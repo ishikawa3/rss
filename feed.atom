@@ -2,10 +2,70 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-13T00:10:24.719Z</updated>
+    <updated>2023-06-14T00:09:52.401Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[HTML Page Elements – Explained for Beginners]]></title>
+        <id>https://www.freecodecamp.org/news/html-page-elements/</id>
+        <link href="https://www.freecodecamp.org/news/html-page-elements/"/>
+        <updated>2023-06-13T21:01:13.000Z</updated>
+        <summary type="html"><![CDATA[HTML, which stands for Hypertext Markup Language, is the standard markup language used for creating web pages and structuring their content on the World Wide Web.  HTML serves as the backbone of web development and acts as a fundamental building block for creating web-based documents. Let's take a quick]]></summary>
+        <author>
+            <name>David Clinton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Promises Work in JavaScript – A Comprehensive Beginner's Guide]]></title>
+        <id>https://www.freecodecamp.org/news/guide-to-javascript-promises/</id>
+        <link href="https://www.freecodecamp.org/news/guide-to-javascript-promises/"/>
+        <updated>2023-06-13T16:35:33.000Z</updated>
+        <summary type="html"><![CDATA[JavaScript has the ability to carry out asynchronous (or async) instructions. These instructions run in the background until they have finished processing.  Asynchronous instructions do not stop the JavaScript engine from actively accepting and processing more instructions. This is why JavaScript is non-blocking in nature. There are a few]]></summary>
+        <author>
+            <name>Amazing Enyichi Agu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Power Platform Fundamentals Certification (PL-900) – Pass the Exam With This Free 4-Hour Course]]></title>
+        <id>https://www.freecodecamp.org/news/microsoft-power-platform-fundamentals-certification-pl-900/</id>
+        <link href="https://www.freecodecamp.org/news/microsoft-power-platform-fundamentals-certification-pl-900/"/>
+        <updated>2023-06-13T14:28:52.000Z</updated>
+        <summary type="html"><![CDATA[Certifications like the Microsoft Power Platform Fundamentals can help you advance in your career. You can learn everything you need to know to earn the Microsoft Power Platform Fundamentals Certification by completing this free 4-hour course that we just posted on the freeCodeCamp.org YouTube channel. Andrew Brown created this course.]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Smashing Podcast Episode 62 With Slava Shestopalov: What Is Design Management?]]></title>
+        <id>https://smashingmagazine.com/2023/06/smashing-podcast-episode-62/</id>
+        <link href="https://smashingmagazine.com/2023/06/smashing-podcast-episode-62/"/>
+        <updated>2023-06-13T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this episode of The Smashing Podcast, we ask what is a design manager? What does it take and how does it relate to the role of Designer? Vitaly talks to Slava Shestopalov to find out.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Drew McLellan)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI in Google Sheets – How to Use GPT Copilot]]></title>
+        <id>https://www.freecodecamp.org/news/ai-in-google-sheets/</id>
+        <link href="https://www.freecodecamp.org/news/ai-in-google-sheets/"/>
+        <updated>2023-06-12T22:10:01.000Z</updated>
+        <summary type="html"><![CDATA[It seems to be the year of AI. And my favorite tool, Google Sheets, is not to be left out of the fun. 🎉 Coefficient [https://coefficient.io/gpt-google-sheets] produced a Google sheets extension with the ability to use OpenAI's GPT models from within a spreadsheet. It’s called GPT Copilot and it’s available]]></summary>
+        <author>
+            <name>Eamonn Cottrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use MySQL Stored Procedures to Simplify Database Operations]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-simplify-database-operations-using-mysql-stored-procedures/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-simplify-database-operations-using-mysql-stored-procedures/"/>
+        <updated>2023-06-12T22:05:52.000Z</updated>
+        <summary type="html"><![CDATA[In the realm of database management, MySQL has emerged as one of the most popular and reliable choices.  MySQL not only offers robust data storage capabilities but also provides a powerful feature called "procedures" that allows developers to streamline complex database operations.  In this tutorial, we will delve]]></summary>
+        <author>
+            <name>Arunachalam B</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Upgrade Your React Skills with Three Helpful Tools]]></title>
         <id>https://www.freecodecamp.org/news/upgrade-your-react-skills/</id>
