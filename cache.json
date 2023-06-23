@@ -18,6 +18,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2023/06/ai-detect-sentiment-audio-files/",
+          "author": "hello@smashingmagazine.com (Joas Pambou)",
+          "description": "Dive into an article where you will build an app that evaluates audio files for positive and negative sentiments. The idea is that you will create an interface for uploading an audio file, then transcribe the contents into text before analyzing the text and assigning it a positive or negative score for how the tone is perceived.",
+          "link": "https://smashingmagazine.com/2023/06/ai-detect-sentiment-audio-files/",
+          "publishedOn": "2023-06-22T08:00:00.000Z",
+          "wordCount": 5129,
+          "title": "Using AI To Detect Sentiment In Audio Files",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/ai-detect-sentiment-audio-files/ai-detect-sentiment-audio-files.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/ai-detect-sentiment-audio-files/ai-detect-sentiment-audio-files.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2023/06/visual-editing-headless-cms/",
           "author": "hello@smashingmagazine.com (Scott Gallant)",
           "description": "Visual editing is beginning to make its way into headless architecture and the early results look promising. We’ll look at a few headless CMSs that currently support visual editing in this article.",
@@ -294,6 +309,26 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/learn-pandas-for-data-science/",
+          "author": "Beau Carnes",
+          "description": "Pandas is an open source data analysis and manipulation tool. It is important to learn if you are interested in data science. We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to use Pandas through interactive projects. You will develop 7 projects ranging from",
+          "link": "https://www.freecodecamp.org/news/learn-pandas-for-data-science/",
+          "publishedOn": "2023-06-22T12:50:51.000Z",
+          "wordCount": 1126,
+          "title": "Learn Pandas & Python for Data Analysis [Full Course]",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/06/pandas.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/learn-supabase-open-source-firebase-alternative/",
+          "author": "Beau Carnes",
+          "description": "Supabase is an open-source Firebase alternative that is rapidly gaining popularity in the developer community. If you are looking to sharpen their backend skills, consider learning how to use Supabase. We just published a course on the freeCodeCamp.org channel that is designed to help you master Supabase. This course was",
+          "link": "https://www.freecodecamp.org/news/learn-supabase-open-source-firebase-alternative/",
+          "publishedOn": "2023-06-22T12:20:35.000Z",
+          "wordCount": 1039,
+          "title": "Learn Supabase, an Open-Source Firebase Alternative",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/06/supabase.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/create-an-api-proxy-gateway-with-aws-http-api/",
           "author": "Prajwal Kulkarni",
@@ -1013,36 +1048,6 @@
           "wordCount": 959,
           "title": "Use Django to Code a ChatGPT Clone",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/chatbot.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/math-online-courses-from-worlds-top-universities/",
-          "author": "Manoel Cortes Mendez",
-          "description": "In this article, I compiled 120 free online courses offered by the 60 best universities in the world for studying math in 2023. I did so by combining popular university rankings to identify the best institutions, and then I used the Class Central database [https://www.classcentral.com/subjects] to find all their math",
-          "link": "https://www.freecodecamp.org/news/math-online-courses-from-worlds-top-universities/",
-          "publishedOn": "2023-05-23T22:12:28.000Z",
-          "wordCount": 2364,
-          "title": "120 Free Online Math Courses from the World’s Top Universities",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/mathematics-banner.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/stream-file-uploads-to-s3-object-storage-and-reduce-costs/",
-          "author": "Austin Gil",
-          "description": "To support file uploads in your application, you will have to learn how to send files from the frontend [https://austingil.com/uploading-files-with-html/] and  receive files on the backend [https://austingil.com/file-uploads-in-node/].  This tutorial is going to take a step back and explore architectural changes that'll help you reduce costs when adding file",
-          "link": "https://www.freecodecamp.org/news/stream-file-uploads-to-s3-object-storage-and-reduce-costs/",
-          "publishedOn": "2023-05-23T19:51:05.000Z",
-          "wordCount": 3784,
-          "title": "How to Stream File Uploads to S3 Object Storage and Reduce Costs",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/pexels-pixabay-219717.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-use-rabbitmq-with-nodejs/",
-          "author": "Arunachalam B",
-          "description": "If you're exploring the world of distributed systems and real-time data pipelines, you've probably come across the concept of message queues.  There are a number of tools in this field, but RabbitMQ and Apache Kafka are two of the most popular. While both are robust and reliable, they have",
-          "link": "https://www.freecodecamp.org/news/how-to-use-rabbitmq-with-nodejs/",
-          "publishedOn": "2023-05-23T14:45:51.000Z",
-          "wordCount": 2319,
-          "title": "How to Use RabbitMQ with NodeJS to Send and Receive Messages",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/What-is-RabbitMQ-and-How-to-use-it-with-NodeJS_1.png"
         }
       ]
     }
