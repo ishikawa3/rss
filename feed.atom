@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-08T00:11:07.854Z</updated>
+    <updated>2023-07-09T00:13:01.310Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Check Python Version – How to Check Py in Mac, Windows, and Linux]]></title>
+        <id>https://www.freecodecamp.org/news/check-python-version-how-to-check-py-in-mac-windows-and-linux/</id>
+        <link href="https://www.freecodecamp.org/news/check-python-version-how-to-check-py-in-mac-windows-and-linux/"/>
+        <updated>2023-07-07T22:31:51.000Z</updated>
+        <summary type="html"><![CDATA[Python is a versatile and widely used programming language known for its simplicity and readability.  With its ever-evolving nature, different versions of Python are often released, each offering new features, enhancements, and bug fixes.  As a Python developer, it is crucial to be aware of the Python version]]></summary>
+        <author>
+            <name>Shittu Olumide</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Build a Tiered List Maker with Python]]></title>
         <id>https://www.freecodecamp.org/news/python-tier-list-maker/</id>
@@ -805,46 +815,6 @@
         <summary type="html"><![CDATA[As a developer, you might need to run both Linux and Windows side by side. Luckily, there are a number of ways you can get the best of both worlds without getting different computers for each operating system.  In this article, we'll explore a few ways to use Linux]]></summary>
         <author>
             <name>Zaira Hira</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Design Under Constraints: Challenges, Opportunities, And Practical Strategies]]></title>
-        <id>https://smashingmagazine.com/2023/06/design-constraints-challenges-opportunities-practical-strategies/</id>
-        <link href="https://smashingmagazine.com/2023/06/design-constraints-challenges-opportunities-practical-strategies/"/>
-        <updated>2023-06-09T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Unleash the power of creative limitation! Learn how constraints aren’t barriers but instead stepping stones to innovative design. Find out how to challenge unproductive restrictions and leverage the rest to your advantage.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Paul Boag)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Set Up Your Java Development Environment]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-set-up-java-development-environment-a-comprehensive-guide/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-set-up-java-development-environment-a-comprehensive-guide/"/>
-        <updated>2023-06-08T20:14:59.000Z</updated>
-        <summary type="html"><![CDATA[Setting up an efficient Java development environment is key if you're a Java dev. It helps streamline your coding process and makes you more productive.  In this article, I will walk you through the important steps you need to set up a Java development environment. We'll cover how to]]></summary>
-        <author>
-            <name>Isah Jacob</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Front End JavaScript Development Handbook – React, Angular, and Vue Compared]]></title>
-        <id>https://www.freecodecamp.org/news/front-end-javascript-development-react-angular-vue-compared/</id>
-        <link href="https://www.freecodecamp.org/news/front-end-javascript-development-react-angular-vue-compared/"/>
-        <updated>2023-06-08T13:57:21.000Z</updated>
-        <summary type="html"><![CDATA[Frontend frameworks are indispensable in web development. They provide structured approaches and pre-defined components to streamline the coding process.  These tools can also help boost productivity by offering reusable components and abstracting complex tasks like DOM manipulation and state management. This allows developers to focus on application logic rather]]></summary>
-        <author>
-            <name>Adekola Olawale</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Complete Rust Programming Course]]></title>
-        <id>https://www.freecodecamp.org/news/rust-programming-course-for-beginners/</id>
-        <link href="https://www.freecodecamp.org/news/rust-programming-course-for-beginners/"/>
-        <updated>2023-06-08T12:43:38.000Z</updated>
-        <summary type="html"><![CDATA[Rust is a safe, concurrent, and practical language that guarantees memory safety and prevents runtime errors, making it increasingly popular among developers and big tech firms like Microsoft and Google. With its efficiency, growing industry demand, and robust features, learning Rust opens up exciting opportunities in systems programming and beyond.]]></summary>
-        <author>
-            <name>Beau Carnes</name>
         </author>
     </entry>
 </feed>
