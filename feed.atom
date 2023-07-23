@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-22T00:10:25.058Z</updated>
+    <updated>2023-07-23T00:11:28.187Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
@@ -865,96 +865,6 @@
         <summary type="html"><![CDATA[In today’s article, let’s explore how we can use Flex Layout and see how it empowers designers with greater control over their work while saving everyone’s time.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Mikołaj Dobrucki)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Behind The Curtains Of Wikipedia Redesign]]></title>
-        <id>https://smashingmagazine.com/2023/06/behind-curtains-wikipedia-redesign/</id>
-        <link href="https://smashingmagazine.com/2023/06/behind-curtains-wikipedia-redesign/"/>
-        <updated>2023-06-23T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The Wikipedia team shipped a redesign of the ubiquitous and one of the [most visited websites](https://en.wikipedia.org/wiki/List_of_most_visited_websites) on the web. Alex Hollendar and Jon Robson led the work and generously discussed the effort with us in a thorough, wide-ranging interview that covers the design, development, and processes that went into the project.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Geoff Graham)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a ChatGPT Plugin – Case Study using PodcastAPI.com and Serverless Cloudflare Pages]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-build-a-chatgpt-plugin-case-study/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-a-chatgpt-plugin-case-study/"/>
-        <updated>2023-06-22T23:01:49.000Z</updated>
-        <summary type="html"><![CDATA[ChatGPT [https://chat.openai.com/] is a highly intelligent auto-completion tool. It takes instructions or questions in natural language and provides good enough text-based outputs.  But there’s a catch — ChatGPT’s knowledge only goes up until September 2021. So, as of writing this blog post (June 2023), the model itself is not aware of]]></summary>
-        <author>
-            <name>Wenbin Fang</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Make a Database Read-Only in MySQL]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-make-a-database-read-only-in-mysql/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-make-a-database-read-only-in-mysql/"/>
-        <updated>2023-06-22T22:49:49.000Z</updated>
-        <summary type="html"><![CDATA[If you are learning MySQL, then you are likely enjoying executing different commands and checking the results afterward.  But you may be working on a project where you have modified your database to an acceptable state and you're worried about altering it by mistake. This could happen when you're]]></summary>
-        <author>
-            <name>Md. Fahim Bin Amin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Intro to Generative AI – 10 Free Courses by Google]]></title>
-        <id>https://www.freecodecamp.org/news/intro-to-generative-ai-10-free-courses-by-google/</id>
-        <link href="https://www.freecodecamp.org/news/intro-to-generative-ai-10-free-courses-by-google/"/>
-        <updated>2023-06-22T22:22:52.000Z</updated>
-        <summary type="html"><![CDATA[Are you tired of all the AI talk yet? I am too, but I'm also intrigued by the technology behind it. If you'd like to dive into some of the details behind how AI actually works and take a break from the many creepy AI examples on the internet, check]]></summary>
-        <author>
-            <name>Eamonn Cottrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Key Computer Science Concepts Every Software Engineer Should Know – and How to Learn Them]]></title>
-        <id>https://www.freecodecamp.org/news/what-every-software-engineer-should-know/</id>
-        <link href="https://www.freecodecamp.org/news/what-every-software-engineer-should-know/"/>
-        <updated>2023-06-22T22:06:46.000Z</updated>
-        <summary type="html"><![CDATA[If you're a software engineer, you may feel like you are in a bit of a rat race.  The rat race to learn the new technologies. A new frontend framework, a new database or even a new language which is a variation of another language. It's never ending and]]></summary>
-        <author>
-            <name>Tamerlan Gudabayev</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Best Gnome Extensions For Developer Productivity]]></title>
-        <id>https://www.freecodecamp.org/news/the-best-gnome-extensions-for-developers/</id>
-        <link href="https://www.freecodecamp.org/news/the-best-gnome-extensions-for-developers/"/>
-        <updated>2023-06-22T22:02:31.000Z</updated>
-        <summary type="html"><![CDATA[If you're a beginner who's using a Gnome-based distro like Ubuntu, Fedora, Arch Linux, and so on, there are tons of extensions available from the Gnome community. Gnome is an open-source Linux-based distro desktop environment (operating system) maintained by a large number of developers. Choosing the right Gnome extension(s) can]]></summary>
-        <author>
-            <name>Rajdeep Singh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Create an AI Tweet Generator Using LangChain]]></title>
-        <id>https://www.freecodecamp.org/news/create-an-ai-tweet-generator-openai-langchain/</id>
-        <link href="https://www.freecodecamp.org/news/create-an-ai-tweet-generator-openai-langchain/"/>
-        <updated>2023-06-22T20:20:04.000Z</updated>
-        <summary type="html"><![CDATA[I've got a fun tutorial for you today. If you've read my previous article on building custom-knowledge chatbots using LangChain [/news/langchain-how-to-create-custom-knowledge-chatbots/], then you must be bursting with ideas of great projects you can create. Well, I want to encourage your creativity and give a concrete example of what you can]]></summary>
-        <author>
-            <name>Shane Duggan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn Pandas & Python for Data Analysis [Full Course]]]></title>
-        <id>https://www.freecodecamp.org/news/learn-pandas-for-data-science/</id>
-        <link href="https://www.freecodecamp.org/news/learn-pandas-for-data-science/"/>
-        <updated>2023-06-22T12:50:51.000Z</updated>
-        <summary type="html"><![CDATA[Pandas is an open source data analysis and manipulation tool. It is important to learn if you are interested in data science. We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to use Pandas through interactive projects. You will develop 7 projects ranging from]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn Supabase, an Open-Source Firebase Alternative]]></title>
-        <id>https://www.freecodecamp.org/news/learn-supabase-open-source-firebase-alternative/</id>
-        <link href="https://www.freecodecamp.org/news/learn-supabase-open-source-firebase-alternative/"/>
-        <updated>2023-06-22T12:20:35.000Z</updated>
-        <summary type="html"><![CDATA[Supabase is an open-source Firebase alternative that is rapidly gaining popularity in the developer community. If you are looking to sharpen their backend skills, consider learning how to use Supabase. We just published a course on the freeCodeCamp.org channel that is designed to help you master Supabase. This course was]]></summary>
-        <author>
-            <name>Beau Carnes</name>
         </author>
     </entry>
 </feed>
