@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-08-08T00:10:16.928Z</updated>
+    <updated>2023-08-09T00:10:38.403Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Add ESLint to Your React Project]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-add-eslint-to-your-react-project/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-add-eslint-to-your-react-project/"/>
+        <updated>2023-08-08T16:36:10.000Z</updated>
+        <summary type="html"><![CDATA[As a React developer, maintaining code quality is essential for building robust and maintainable applications. Fortunately, there's a powerful tool called ESLint that can significantly improve the quality of your React projects. In this article, we will explore how ESLint works and create a sign-up button component to demonstrate its]]></summary>
+        <author>
+            <name>Isah Jacob</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use Web APIs in Your Coding Projects]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-use-apis-in-web-development/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-apis-in-web-development/"/>
+        <updated>2023-08-08T16:27:48.000Z</updated>
+        <summary type="html"><![CDATA[As a developer, what comes to mind when you hear the word "API"? For me, I think of the word "connector", something that connects one thing to another.  So, what exactly is an API? API stands for Application Programming Interface [/news/how-apis-work/]. APIs connect different software applications, websites, and web]]></summary>
+        <author>
+            <name>Juliet Ofoegbu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Set Up Application Performance Monitoring for Node.js Applications Using Elastic]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-set-up-monitoring-for-nodejs-applications-using-elastic/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-set-up-monitoring-for-nodejs-applications-using-elastic/"/>
+        <updated>2023-08-07T20:57:50.000Z</updated>
+        <summary type="html"><![CDATA[Building features is half the equation of creating a successful product.  The other half is making something scalable and maintainable. One aspect of that is the ability to monitor your services.  This is what we will learn today using the help of software provided by Elastic. This is]]></summary>
+        <author>
+            <name>Tamerlan Gudabayev</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using Friction As A Feature In Machine Learning Algorithms]]></title>
+        <id>https://smashingmagazine.com/2023/08/friction-feature-machine-learning-algorithms/</id>
+        <link href="https://smashingmagazine.com/2023/08/friction-feature-machine-learning-algorithms/"/>
+        <updated>2023-08-07T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Friction often has a negative connotation in user experience design, but it actually has many benefits. Its best-known use case is mitigating unintended consequences in high-risk scenarios, yet it has a new place in the age of artificial intelligence. Adding strategic friction to interfaces can lead to profound efficiency gains in machine learning algorithms.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Maximillian Piras)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Designing Accessible Text Over Images: Best Practices, Techniques, And Resources (Part 1)]]></title>
         <id>https://smashingmagazine.com/2023/08/designing-accessible-text-over-images-part1/</id>
