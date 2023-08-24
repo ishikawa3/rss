@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-08-23T00:09:02.572Z</updated>
+    <updated>2023-08-24T00:08:36.900Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Free Perl Programming Course for Beginners]]></title>
+        <id>https://www.freecodecamp.org/news/free-perl-programming-course-for-beginners/</id>
+        <link href="https://www.freecodecamp.org/news/free-perl-programming-course-for-beginners/"/>
+        <updated>2023-08-23T17:56:28.000Z</updated>
+        <summary type="html"><![CDATA[For decades, the Perl programming language has remained important in the realms of text processing, system administration, and even web development. We just published a full course on the freeCodeCamp.org YouTube channel that will teach you how to use Perl. The course covers topics ranging from basic syntax to advanced]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Few Interesting Ways To Use CSS Shadows For More Than Depth]]></title>
+        <id>https://smashingmagazine.com/2023/08/interesting-ways-use-css-shadows/</id>
+        <link href="https://smashingmagazine.com/2023/08/interesting-ways-use-css-shadows/"/>
+        <updated>2023-08-23T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[We often think of shadows in CSS as something to reach for when we want to add depth to a design. But shadows can be used for more than depth. Let’s experiment with different shadows — two CSS properties and a filter — to make interesting hover effects, different text styles, and even casting shadows on other shadows.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Preethi Sam)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use Tampermonkey to Improve a Website's UI – Example Using freeCodeCamp]]></title>
+        <id>https://www.freecodecamp.org/news/customize-website-experience-with-tampermonkey/</id>
+        <link href="https://www.freecodecamp.org/news/customize-website-experience-with-tampermonkey/"/>
+        <updated>2023-08-22T22:32:35.000Z</updated>
+        <summary type="html"><![CDATA[What is Tampermonkey? Tampermonkey is a browser extension that lets you add custom scripts to websites, making them work or look the way you want. It's like giving websites a makeover or adding new features. These scripts are called userscripts and you can make tampermonkey run those scripts when you]]></summary>
+        <author>
+            <name>Tasnim Ferdous</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Python Code Example Handbook]]></title>
+        <id>https://www.freecodecamp.org/news/the-python-code-example-handbook/</id>
+        <link href="https://www.freecodecamp.org/news/the-python-code-example-handbook/"/>
+        <updated>2023-08-22T21:54:38.000Z</updated>
+        <summary type="html"><![CDATA[Very few programming languages are as universally loved as Python. The brainchild of Dutch programmer Guido van Rossum [https://en.wikipedia.org/wiki/Guido_van_Rossum], Python is easy to learn, powerful, and an utter joy to work with. Thanks to its popularity, video and written resources about Python are plentiful. This handbook, however, tries to be]]></summary>
+        <author>
+            <name>Farhan Hasin Chowdhury</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Bundle a Simple React Application Using esbuild]]></title>
         <id>https://www.freecodecamp.org/news/bundle-a-basic-react-application-using-esbuild/</id>
