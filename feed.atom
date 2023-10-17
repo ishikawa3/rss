@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-16T00:09:55.717Z</updated>
+    <updated>2023-10-17T00:09:49.270Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[What is Overfitting in Machine Learning?]]></title>
+        <id>https://www.freecodecamp.org/news/what-is-overfitting-machine-learning/</id>
+        <link href="https://www.freecodecamp.org/news/what-is-overfitting-machine-learning/"/>
+        <updated>2023-10-16T20:21:22.000Z</updated>
+        <summary type="html"><![CDATA[Have you ever performed some task without really thinking about the process involved? For example, making coffee, tying your shoes, or walking through your neighborhood.  In these types of activities, you've done these things so many times that you've mastered the process. You can be thinking about something unrelated,]]></summary>
+        <author>
+            <name>MENE-EJEGI OGBEMI</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Godot Game Development for Unity Developers]]></title>
+        <id>https://www.freecodecamp.org/news/godot-game-development-for-unity-developers/</id>
+        <link href="https://www.freecodecamp.org/news/godot-game-development-for-unity-developers/"/>
+        <updated>2023-10-16T15:36:42.000Z</updated>
+        <summary type="html"><![CDATA[In the wake of the recent controversy surrounding Unity's pricing changes, many game developers have found themselves at a crossroads. The new pricing model proposed by Unity not only shook the indie developer community but led to a significant number of developers contemplating a switch to alternative game engines. If]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gatsby Headaches: Working With Media (Part 2)]]></title>
+        <id>https://smashingmagazine.com/2023/10/gatsby-headaches-working-media-part2/</id>
+        <link href="https://smashingmagazine.com/2023/10/gatsby-headaches-working-media-part2/"/>
+        <updated>2023-10-16T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In the final part of this two-part series on solving headaches when working with media files in Gatsby projects, Juan Rodriguez demonstrates strategies and techniques for handling various types of documents, including Markdown files, PDFs, and 3D models.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Juan Diego Rodríguez)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[PostgreSQL Course for Beginners]]></title>
         <id>https://www.freecodecamp.org/news/posgresql-course-for-beginners/</id>
