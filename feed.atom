@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-24T00:10:59.873Z</updated>
+    <updated>2023-12-25T00:10:16.193Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
@@ -894,16 +894,6 @@
         <summary type="html"><![CDATA[The AWS Cloud Project Bootcamp is a free comprehensive training program to equip you with the skills and knowledge to successfully design, build, and implement a cloud project. We just published the entire 107-hour bootcamp on the freeCodeCamp.org YouTube channel. Andrew Brown from ExamPro developed this course. The AWS Cloud]]></summary>
         <author>
             <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Podcast: Hardware Engineering with Bruno Haid]]></title>
-        <id>https://www.freecodecamp.org/news/podcast-hardware-engineering-bruno-haid/</id>
-        <link href="https://www.freecodecamp.org/news/podcast-hardware-engineering-bruno-haid/"/>
-        <updated>2023-11-24T21:17:27.000Z</updated>
-        <summary type="html"><![CDATA[On this week's episode of the freeCodeCamp Podcast, I interview hardware engineer and tech founder from Austria. We talk about growing up in the European countryside, his early passion for computers, and ultimately his move to San Francisco, where he's founded several tech companies. Bruno's super excited about embedded systems]]></summary>
-        <author>
-            <name>Quincy Larson</name>
         </author>
     </entry>
 </feed>
