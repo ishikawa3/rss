@@ -190,6 +190,16 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "https://www.freecodecamp.org/news/100daysofcode-challenge-2024-discord/",
+          "author": "Quincy Larson",
+          "description": "freeCodeCamp always gets a huge rush of ambitious learners on New Year's Day. And each year, I try to create challenge that will help people stick with their learning. In the past, we've had cloud certification challenges, gamedev challenges, and back end development challenges. This year, we're going back to",
+          "link": "https://www.freecodecamp.org/news/100daysofcode-challenge-2024-discord/",
+          "publishedOn": "2023-12-24T21:37:06.000Z",
+          "wordCount": 1276,
+          "title": "#100DaysOfCode Challenge for 2024 – Discord Edition",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/12/100-Days-of-Code-2024.png"
+        },
+        {
           "id": "https://www.freecodecamp.org/news/creators-guide-to-innovation-book/",
           "author": "Vahe Aslanyan",
           "description": "Welcome to this book that teaches you how to innovate as a developer. It isn’t just another step-by-step manual on creating specific products. It’s much more.  I’ve crafted this guide with a focus on equipping you with the mindset, skills, and habits necessary for innovation at any scale –",
