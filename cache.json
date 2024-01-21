@@ -968,16 +968,6 @@
           "wordCount": 3138,
           "title": "Idempotence in HTTP Methods – Explained with CRUD Examples",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/12/pexels-robert-lens-10382808.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/mastering-behavioral-interviews-for-software-developers/",
-          "author": "Beau Carnes",
-          "description": "In the competitive world of software development, acing technical interviews is often considered the key to landing a dream job. However, there's another crucial aspect that aspiring developers frequently overlook – behavioral interviews. We just posted a new course on the freeCodeCamp.org YouTube channel that provides a guide to mastering",
-          "link": "https://www.freecodecamp.org/news/mastering-behavioral-interviews-for-software-developers/",
-          "publishedOn": "2023-12-21T16:30:17.000Z",
-          "wordCount": 1022,
-          "title": "Mastering Behavioral Interviews for Software Developers",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/12/INTERVIEW.png"
         }
       ]
     }
