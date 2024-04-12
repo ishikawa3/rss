@@ -221,6 +221,56 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "https://www.freecodecamp.org/news/github-flavored-markdown-syntax-examples/",
+          "author": "Rajdeep Singh",
+          "description": "Markdown [https://en.wikipedia.org/wiki/Markdown] is a lightweight, open-source, easy-to-read and easy-to-write method of formatting text that you can use as plain text in any IDE or editor. When writing on GitHub, you can use Markdown syntax and HTML elements to extend Markdown's functionality. You can use Markdown syntax everywhere in GitHub, such",
+          "link": "https://www.freecodecamp.org/news/github-flavored-markdown-syntax-examples/",
+          "publishedOn": "2024-04-11T19:08:04.000Z",
+          "wordCount": 3038,
+          "title": "Learn GitHub-Flavored Markdown Syntax and Formatting – With Examples",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/04/freecodecampl-github.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/backend-web-development-three-projects/",
+          "author": "Beau Carnes",
+          "description": "To become a great backend developer, you need to build a lot of projects. We just posted a course on the freeCodeCamp.org YouTube channel that will help you improve your backend development skills by teaching you to build three full projects. Tomi Tokko developed this course. He's a popular teacher,",
+          "link": "https://www.freecodecamp.org/news/backend-web-development-three-projects/",
+          "publishedOn": "2024-04-11T15:26:09.000Z",
+          "wordCount": 953,
+          "title": "Learn Backend Development by Building Three Projects [Full Course]",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/04/tomi.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/ai-web-development-tutorial-figma-designs/",
+          "author": "Beau Carnes",
+          "description": "There are many ways that AI can help speed up web development. We just posted a course on the freeCodeCamp.org YouTube channel that will show you how to convert Figma designs into working code with just one click using AI. Ania Kubów developed this course. She is one of our",
+          "link": "https://www.freecodecamp.org/news/ai-web-development-tutorial-figma-designs/",
+          "publishedOn": "2024-04-11T14:12:38.000Z",
+          "wordCount": 1049,
+          "title": "One-Click AI Web Development Tutorial - Learn how to Turn Figma Designs into Working Code using AI [Full Course]",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/04/locofy.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/react-state-vs-ref-differences-and-use-cases/",
+          "author": "Timothy Olanrewaju",
+          "description": "In this article, we'll delve into a thorough comparison of React state and refs, exploring their suitability for specific scenarios. When faced with the need to store data in your React application, the first question that comes to mind is: \"Will the data change at some point during the component's",
+          "link": "https://www.freecodecamp.org/news/react-state-vs-ref-differences-and-use-cases/",
+          "publishedOn": "2024-04-11T13:07:51.000Z",
+          "wordCount": 1681,
+          "title": "React State vs Refs – Differences and Use Cases",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/04/STATE-VS-REF.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/error-handling-in-python-introduction/",
+          "author": "Gage Schaffer",
+          "description": "Just recently, my manager tasked me to create an automatic report. I designed the report to be simple. It included a few numbers from a database and some basic mathematical operations. I was excited to finally be able to show off my  amazing Python skills to the company. I",
+          "link": "https://www.freecodecamp.org/news/error-handling-in-python-introduction/",
+          "publishedOn": "2024-04-11T00:09:53.000Z",
+          "wordCount": 2323,
+          "title": "Error Handling in Python – try, except, else, & finally Explained with Code Examples",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/04/game-over-screen.jpg"
+        },
+        {
           "id": "https://www.freecodecamp.org/news/multi-scale-analysis-of-images-in-rust/",
           "author": "Anshul Sanghi",
           "description": "Recently, there's been a massive amount of effort put into developing novel image processing techniques. And many of them are derived from digital signal processing methods such as Fourier and Wavelet transforms.  These techniques have not only enabled a wide range of image processing techniques such as noise reduction,",
@@ -889,46 +939,6 @@
           "wordCount": 1945,
           "title": "How to Add and Remove Elements from Arrays in JavaScript",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/03/mohammad-rahmani-unwXUc_Pqi4-unsplash.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-build-a-task-app/",
-          "author": "Fatuma Abdullahi",
-          "description": "In this article, you'll build a task manager application that has some artificial intelligence capabilities and is voice-enabled, sortable, and searchable.  As an extra, the application will have dark mode support that respects the users' system preferences. The application will be able to create, read, update and delete (CRUD)",
-          "link": "https://www.freecodecamp.org/news/how-to-build-a-task-app/",
-          "publishedOn": "2024-03-13T09:21:45.000Z",
-          "wordCount": 9350,
-          "title": "How to Build an AI-enhanced Task App with React and Appwrite",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/03/Group-3--20-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/top-10-javascript-algorithms-for-coding-challenges/",
-          "author": "Beau Carnes",
-          "description": "Are you gearing up for coding interviews and looking to strengthen your grasp on JavaScript algorithms? We just posted a course on the FfreeCodeCamp.org YouTube channel that will equips you with the essential skills to excel in Leetcode-style coding challenges. Let's explore what this course has to offer. Mukhtar from",
-          "link": "https://www.freecodecamp.org/news/top-10-javascript-algorithms-for-coding-challenges/",
-          "publishedOn": "2024-03-12T17:37:39.000Z",
-          "wordCount": 1049,
-          "title": "Top 10 JavaScript Algorithms for Coding Challenges",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/03/jsalgs.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-set-up-metasploitable/",
-          "author": "Daniel Iwugo",
-          "description": "Ladies and Gentlemen, welcome to the world of Virtual Machines 🖥️ So you’ve discovered the world of ethical hacking and you want to try your hands on something. Trouble is, doing some ‘practical application’ on the wrong thing could get you fined, arrested, and even undesired jail time. You don’t",
-          "link": "https://www.freecodecamp.org/news/how-to-set-up-metasploitable/",
-          "publishedOn": "2024-03-12T12:39:45.000Z",
-          "wordCount": 1997,
-          "title": "Ethical Hacking 101 – How to Set Up Metasploitable on Your Computer",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/03/pexels-google-deepmind-17485707.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-run-sql-like-queries-on-files/",
-          "author": "Amr Hesham",
-          "description": "Hello everyone! I'm a Software engineer who is interested in low-level programming, compilers, and tool development. At the end of 2023, I published my first article on freeCodeCamp about how I created a SQL-like Language to run queries on local Git repositories [/news/gql-design-and-implementation/]. If you want a bit more context,",
-          "link": "https://www.freecodecamp.org/news/how-to-run-sql-like-queries-on-files/",
-          "publishedOn": "2024-03-12T12:33:46.000Z",
-          "wordCount": 1853,
-          "title": "How to Run SQL-Like Queries on Files",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/03/fileql_banner.png"
         }
       ]
     }
