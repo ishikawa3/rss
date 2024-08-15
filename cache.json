@@ -12,6 +12,46 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=379862",
+          "author": "Geoff Graham",
+          "description": "Free e-book from Jens Oliver Meiert that’ll bore you to death in the best way: Rote Learning HTML & CSS…\nQuick Hit #11 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/quick-hit-11/",
+          "publishedOn": "2024-08-14T18:05:07.000Z",
+          "wordCount": 1319,
+          "title": "Quick Hit #11",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/379862"
+        },
+        {
+          "id": "https://css-tricks.com/?p=379857",
+          "author": "Geoff Graham",
+          "description": "Killed by Google is called a “graveyard” but I also see it as a resume in experimentation.…\nQuick Hit #10 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/quick-hit-10/",
+          "publishedOn": "2024-08-14T15:34:53.000Z",
+          "wordCount": 1313,
+          "title": "Quick Hit #10",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/379857"
+        },
+        {
+          "id": "https://css-tricks.com/?p=379649",
+          "author": "Kevin Powell",
+          "description": "Modern CSS keeps giving us a lot of new, easier ways to solve old problems, but often the new features we’re getting don’t only solve old problems, they open up new possibilities as well.\nContainer queries are one of those …\n“Smart” Layouts With Container Queries originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/smart-layouts-with-container-queries/",
+          "publishedOn": "2024-08-14T13:22:55.000Z",
+          "wordCount": 2927,
+          "title": "“Smart” Layouts With Container Queries",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/379649"
+        },
+        {
+          "id": "https://css-tricks.com/?p=379846",
+          "author": "Geoff Graham",
+          "description": "“This isn’t a website. Or even a blog. It’s a conversation.”\nThat’s the idea! Jay Hoffman and I’ve been chatting a long time now, back since he began writing a series on web history. It’s easy-going talking with someone …\nDialogues Blog originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/dialogues-blog/",
+          "publishedOn": "2024-08-14T10:34:00.000Z",
+          "wordCount": 1568,
+          "title": "Dialogues Blog",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/379846"
+        },
+        {
           "id": "https://css-tricks.com/?p=379750",
           "author": "Geoff Graham",
           "description": "You might recall that Alvaro suggests bumping up font-size to 1.25rem from the default user agent size of 16px. Sebastian Laube pokes at that:\nI wouldn’t adopt Alvaro’s suggestion without further ado, as I would waste so much space \n…\nfont-size Limbo originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -190,16 +230,6 @@
           "wordCount": 1582,
           "title": "Sara Joy: Everybody’s Free (To Write Websites)",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/379199"
-        },
-        {
-          "id": "https://css-tricks.com/?p=378745",
-          "author": "Geoff Graham",
-          "description": "A complete guide covering all of the various methods we have to select elements in CSS and how to use them for applying styles.\nCSS Selectors originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/css-selectors/",
-          "publishedOn": "2024-07-15T16:13:15.000Z",
-          "wordCount": 6893,
-          "title": "CSS Selectors",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/378745"
         }
       ]
     },
@@ -365,6 +395,36 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/integration-tests-using-testcontainers/",
+          "author": "Alex Pliutau",
+          "description": "What is Integration Testing? The purpose of integration tests is to validate that different software components, subsystems, or applications work well together combined as a group. It’s an important step in the testing pyramid that can help you ident...",
+          "link": "https://www.freecodecamp.org/news/integration-tests-using-testcontainers/",
+          "publishedOn": "2024-08-14T19:55:12.000Z",
+          "wordCount": 2038,
+          "title": "How to Emulate Real Dependencies in Integration Tests using Testcontainers",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1723631770942/c82aabb6-a9b4-4085-8b06-b4ba1b1cdbd3.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/learn-ml5js-for-machine-learning-in-javascript/",
+          "author": "Beau Carnes",
+          "description": "Machine learning is becoming an essential skill for developers and enthusiasts alike. ml5.js offers a great opportunity to start implementing machine learning in your projects, thanks to its user-friendly JavaScript library that simplifies the integr...",
+          "link": "https://www.freecodecamp.org/news/learn-ml5js-for-machine-learning-in-javascript/",
+          "publishedOn": "2024-08-14T14:48:38.000Z",
+          "wordCount": 830,
+          "title": "Learn ml5.js for Machine Learning in JavaScript",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1723646904774/4f225758-a451-4dc5-a06c-287ba2977c55.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-implement-message-queues-in-your-backend-applications/",
+          "author": "Oluwatobi",
+          "description": "The goal of every web developer is to create a product that appeals to a wide range of users. However, this comes with its problems, chief among them being scalability issues to meet overwhelming user demands. If not addressed, this can result in a d...",
+          "link": "https://www.freecodecamp.org/news/how-to-implement-message-queues-in-your-backend-applications/",
+          "publishedOn": "2024-08-14T09:56:07.000Z",
+          "wordCount": 1795,
+          "title": "How to Implement Message Queues in Your Backend Applications",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1723280791863/cdc4faaa-2f95-4219-8753-881dfcafbf45.jpeg"
+        },
         {
           "id": "https://www.freecodecamp.org/news/graceful-shutdowns-k8s-go/",
           "author": "Alex Pliutau",
@@ -964,46 +1024,6 @@
           "wordCount": 1065,
           "title": "Multithreading for Beginners",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1721161834666/59be7256-988c-491c-a745-985c5cbac06d.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/getting-started-in-cybersecurity/",
-          "author": "Hikmah Olawore",
-          "description": "From design to coding to data science, there are many areas in the IT sector to explore. Because it's such a wealthy and alluring profession, you might be unsure of which one is ideal for you. This is where cybersecurity [https://iqmacodes.hashnode.dev/an-introduction-to-cybersecurity] comes in, one of the most fascinating fields of",
-          "link": "https://www.freecodecamp.org/news/getting-started-in-cybersecurity/",
-          "publishedOn": "2024-07-16T11:13:19.000Z",
-          "wordCount": 1385,
-          "title": "How to Get Started With Cybersecurity",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/07/Cybersec.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-use-linq/",
-          "author": "Grant Riordan",
-          "description": ".Net (pronounced as \"dot net\") has many internal libraries and tools, but one that wields great power is LINQ (Language Integrated Query). It can be used in two ways: the language-level query syntax, or the LINQ API. In this article, we'll explore:  * What LINQ is.  * How",
-          "link": "https://www.freecodecamp.org/news/how-to-use-linq/",
-          "publishedOn": "2024-07-15T20:59:47.000Z",
-          "wordCount": 1990,
-          "title": "How To Use LINQ in C# – With Code Examples",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/07/How-to-use-linq.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/difference-between-usememo-and-usecallback-hooks/",
-          "author": "Kunal Nalawade",
-          "description": "React provides various hooks that make it easier to manage application state and other React features in functional components. Hooks provide class component features to functional components, and they don't need a lot of code compared to class components. Hooks also make your life easier by providing some convenient features.",
-          "link": "https://www.freecodecamp.org/news/difference-between-usememo-and-usecallback-hooks/",
-          "publishedOn": "2024-07-15T19:14:59.000Z",
-          "wordCount": 2297,
-          "title": "What's the Difference Between the useMemo and useCallback Hooks?",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/07/photo-1619410283995-43d9134e7656.jpeg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-set-up-a-ci-cd-pipeline-with-husky-and-github-actions/",
-          "author": "Viviana Yanez",
-          "description": "CI/CD is a core practice in the modern software development ecosystem. It helps agile teams deliver high-quality software in short release cycles. In this tutorial, you'll learn what CI/CD is, and I'll help you set up a CI/CD pipeline using Husky and GitHub Actions in a Next.js application.  This",
-          "link": "https://www.freecodecamp.org/news/how-to-set-up-a-ci-cd-pipeline-with-husky-and-github-actions/",
-          "publishedOn": "2024-07-15T17:46:34.000Z",
-          "wordCount": 3616,
-          "title": "How to Set Up a CI/CD Pipeline with Husky and GitHub Actions",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/07/how-to-set-a-cicd-pipeline-1.jpg"
         }
       ]
     }

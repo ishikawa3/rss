@@ -2,10 +2,86 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-14T00:11:26.631Z</updated>
+    <updated>2024-08-15T00:11:32.164Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Emulate Real Dependencies in Integration Tests using Testcontainers]]></title>
+        <id>https://www.freecodecamp.org/news/integration-tests-using-testcontainers/</id>
+        <link href="https://www.freecodecamp.org/news/integration-tests-using-testcontainers/"/>
+        <updated>2024-08-14T19:55:12.000Z</updated>
+        <summary type="html"><![CDATA[What is Integration Testing? The purpose of integration tests is to validate that different software components, subsystems, or applications work well together combined as a group. It’s an important step in the testing pyramid that can help you ident...]]></summary>
+        <author>
+            <name>Alex Pliutau</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Quick Hit #11]]></title>
+        <id>https://css-tricks.com/?p=379862</id>
+        <link href="https://css-tricks.com/quick-hit-11/"/>
+        <updated>2024-08-14T18:05:07.000Z</updated>
+        <summary type="html"><![CDATA[Free e-book from Jens Oliver Meiert that’ll bore you to death in the best way: Rote Learning HTML & CSS…
+Quick Hit #11 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Quick Hit #10]]></title>
+        <id>https://css-tricks.com/?p=379857</id>
+        <link href="https://css-tricks.com/quick-hit-10/"/>
+        <updated>2024-08-14T15:34:53.000Z</updated>
+        <summary type="html"><![CDATA[Killed by Google is called a “graveyard” but I also see it as a resume in experimentation.…
+Quick Hit #10 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn ml5.js for Machine Learning in JavaScript]]></title>
+        <id>https://www.freecodecamp.org/news/learn-ml5js-for-machine-learning-in-javascript/</id>
+        <link href="https://www.freecodecamp.org/news/learn-ml5js-for-machine-learning-in-javascript/"/>
+        <updated>2024-08-14T14:48:38.000Z</updated>
+        <summary type="html"><![CDATA[Machine learning is becoming an essential skill for developers and enthusiasts alike. ml5.js offers a great opportunity to start implementing machine learning in your projects, thanks to its user-friendly JavaScript library that simplifies the integr...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“Smart” Layouts With Container Queries]]></title>
+        <id>https://css-tricks.com/?p=379649</id>
+        <link href="https://css-tricks.com/smart-layouts-with-container-queries/"/>
+        <updated>2024-08-14T13:22:55.000Z</updated>
+        <summary type="html"><![CDATA[Modern CSS keeps giving us a lot of new, easier ways to solve old problems, but often the new features we’re getting don’t only solve old problems, they open up new possibilities as well.
+Container queries are one of those …
+“Smart” Layouts With Container Queries originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Kevin Powell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dialogues Blog]]></title>
+        <id>https://css-tricks.com/?p=379846</id>
+        <link href="https://css-tricks.com/dialogues-blog/"/>
+        <updated>2024-08-14T10:34:00.000Z</updated>
+        <summary type="html"><![CDATA[“This isn’t a website. Or even a blog. It’s a conversation.”
+That’s the idea! Jay Hoffman and I’ve been chatting a long time now, back since he began writing a series on web history. It’s easy-going talking with someone …
+Dialogues Blog originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Implement Message Queues in Your Backend Applications]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-implement-message-queues-in-your-backend-applications/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-implement-message-queues-in-your-backend-applications/"/>
+        <updated>2024-08-14T09:56:07.000Z</updated>
+        <summary type="html"><![CDATA[The goal of every web developer is to create a product that appeals to a wide range of users. However, this comes with its problems, chief among them being scalability issues to meet overwhelming user demands. If not addressed, this can result in a d...]]></summary>
+        <author>
+            <name>Oluwatobi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Terminate Go Programs Elegantly – A Guide to Graceful Shutdowns]]></title>
         <id>https://www.freecodecamp.org/news/graceful-shutdowns-k8s-go/</id>
@@ -911,57 +987,6 @@ Sara Joy: Everybody’s Free (To Write Websites) originally published on CSS-Tri
         <summary type="html"><![CDATA[Multithreading is a crucial concept in computer science that allows for the concurrent execution of two or more threads, enabling more efficient and optimized use of resources. It can significantly improve the performance of applications, particularl...]]></summary>
         <author>
             <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Get Started With Cybersecurity]]></title>
-        <id>https://www.freecodecamp.org/news/getting-started-in-cybersecurity/</id>
-        <link href="https://www.freecodecamp.org/news/getting-started-in-cybersecurity/"/>
-        <updated>2024-07-16T11:13:19.000Z</updated>
-        <summary type="html"><![CDATA[From design to coding to data science, there are many areas in the IT sector to explore. Because it's such a wealthy and alluring profession, you might be unsure of which one is ideal for you. This is where cybersecurity [https://iqmacodes.hashnode.dev/an-introduction-to-cybersecurity] comes in, one of the most fascinating fields of]]></summary>
-        <author>
-            <name>Hikmah Olawore</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Use LINQ in C# – With Code Examples]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-use-linq/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-linq/"/>
-        <updated>2024-07-15T20:59:47.000Z</updated>
-        <summary type="html"><![CDATA[.Net (pronounced as "dot net") has many internal libraries and tools, but one that wields great power is LINQ (Language Integrated Query). It can be used in two ways: the language-level query syntax, or the LINQ API. In this article, we'll explore:  * What LINQ is.  * How]]></summary>
-        <author>
-            <name>Grant Riordan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What's the Difference Between the useMemo and useCallback Hooks?]]></title>
-        <id>https://www.freecodecamp.org/news/difference-between-usememo-and-usecallback-hooks/</id>
-        <link href="https://www.freecodecamp.org/news/difference-between-usememo-and-usecallback-hooks/"/>
-        <updated>2024-07-15T19:14:59.000Z</updated>
-        <summary type="html"><![CDATA[React provides various hooks that make it easier to manage application state and other React features in functional components. Hooks provide class component features to functional components, and they don't need a lot of code compared to class components. Hooks also make your life easier by providing some convenient features.]]></summary>
-        <author>
-            <name>Kunal Nalawade</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Set Up a CI/CD Pipeline with Husky and GitHub Actions]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-set-up-a-ci-cd-pipeline-with-husky-and-github-actions/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-set-up-a-ci-cd-pipeline-with-husky-and-github-actions/"/>
-        <updated>2024-07-15T17:46:34.000Z</updated>
-        <summary type="html"><![CDATA[CI/CD is a core practice in the modern software development ecosystem. It helps agile teams deliver high-quality software in short release cycles. In this tutorial, you'll learn what CI/CD is, and I'll help you set up a CI/CD pipeline using Husky and GitHub Actions in a Next.js application.  This]]></summary>
-        <author>
-            <name>Viviana Yanez</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSS Selectors]]></title>
-        <id>https://css-tricks.com/?p=378745</id>
-        <link href="https://css-tricks.com/css-selectors/"/>
-        <updated>2024-07-15T16:13:15.000Z</updated>
-        <summary type="html"><![CDATA[A complete guide covering all of the various methods we have to select elements in CSS and how to use them for applying styles.
-CSS Selectors originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
         </author>
     </entry>
 </feed>
