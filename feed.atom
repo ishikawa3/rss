@@ -2,10 +2,64 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-15T00:11:32.164Z</updated>
+    <updated>2024-08-16T00:11:31.103Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[A Beginner's Guide to LLMs – What's a Large-Language Model and How Does it Work?]]></title>
+        <id>https://www.freecodecamp.org/news/a-beginners-guide-to-large-language-models/</id>
+        <link href="https://www.freecodecamp.org/news/a-beginners-guide-to-large-language-models/"/>
+        <updated>2024-08-15T19:41:19.000Z</updated>
+        <summary type="html"><![CDATA[ChatGPT was released in November 2022. Since then, we’ve witnessed rapid advancements in the field of AI and technology. But did you know that the journey of AI chatbots began way back in 1966 with ELIZA? ELIZA was not as sophisticated as today’s mod...]]></summary>
+        <author>
+            <name>Bhavishya Pandit</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Asynchronous Programming Works in Rust – Futures and Async/Await Explained with Examples]]></title>
+        <id>https://www.freecodecamp.org/news/how-asynchronous-programming-works-in-rust/</id>
+        <link href="https://www.freecodecamp.org/news/how-asynchronous-programming-works-in-rust/"/>
+        <updated>2024-08-15T15:18:18.000Z</updated>
+        <summary type="html"><![CDATA[If you're familiar with languages like JavaScript and Python, you may have heard about asynchronous programming. And perhaps you're wondering how it works in Rust. In this article, I'll give you a simple overview of how asynchronous programming works...]]></summary>
+        <author>
+            <name>Oduah Chigozie</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How are the `colspan` and `rowspan` attributes different?]]></title>
+        <id>https://css-tricks.com/?p=379603</id>
+        <link href="https://css-tricks.com/how-are-the-colspan-and-rowspan-attributes-different/"/>
+        <updated>2024-08-15T13:10:58.000Z</updated>
+        <summary type="html"><![CDATA[Yes, yes. Functionally, they are different. But heck if I didn’t know about the wacky thresholds until Jens Oliver Meiert tooted a pair of quick polls.
+According to the HTML Standard:
+If the current cell has a colspan attribute, then 
+…
+How are the `colspan` and `rowspan` attributes different? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Create A Color Picker Tool Using HTML, CSS, and JavaScript]]></title>
+        <id>https://www.freecodecamp.org/news/create-color-picker-using-html-css-and-javascript/</id>
+        <link href="https://www.freecodecamp.org/news/create-color-picker-using-html-css-and-javascript/"/>
+        <updated>2024-08-15T11:01:37.000Z</updated>
+        <summary type="html"><![CDATA[Have you ever wanted to create your own interactive tools using just HTML, CSS, and JavaScript? In this article, we'll create a fun and straightforward project: a color picker tool. This handy little tool will let users select any color they like and...]]></summary>
+        <author>
+            <name>Fanny Nyayic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Defend Your Design Process]]></title>
+        <id>https://smashingmagazine.com/2024/08/how-defend-your-design-process/</id>
+        <link href="https://smashingmagazine.com/2024/08/how-defend-your-design-process/"/>
+        <updated>2024-08-15T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Ever felt pressure to speed up your design process? Here’s how to address unrealistic expectations and foster a shared understanding with stakeholders, ensuring everyone is aligned on the path to a successful delivery. Part of [Smart Interface Design Patterns](https://smart-interface-design-patterns.com) by yours truly.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Emulate Real Dependencies in Integration Tests using Testcontainers]]></title>
         <id>https://www.freecodecamp.org/news/integration-tests-using-testcontainers/</id>
@@ -957,36 +1011,6 @@ Sara Joy: Everybody’s Free (To Write Websites) originally published on CSS-Tri
         <summary type="html"><![CDATA[Server-side rendering (SSR) is a web development technique that can help improve your site's SEO. It does this by generating HTML content on the server in response to a user's request.  This approach contrasts with client-side rendering (CSR), where content is delivered as a basic HTML shell, and JavaScript]]></summary>
         <author>
             <name>Joan Ayebola</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Deploy Your Node.js App on Azure]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-deploy-node-js-app-on-azure/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-deploy-node-js-app-on-azure/"/>
-        <updated>2024-07-17T11:56:43.000Z</updated>
-        <summary type="html"><![CDATA[The advent of cloud computing marked a turning point in the field of technology. It provides easier access for users across the globe to web and mobile applications and services.  Modern-day computing services also provide a wide range of features which make web apps easier to use and more]]></summary>
-        <author>
-            <name>oluwatobi Joshua</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Are Monte Carlo Methods? How to Predict the Future with Python Simulations]]></title>
-        <id>https://www.freecodecamp.org/news/what-are-monte-carlo-methods/</id>
-        <link href="https://www.freecodecamp.org/news/what-are-monte-carlo-methods/"/>
-        <updated>2024-07-16T21:42:38.000Z</updated>
-        <summary type="html"><![CDATA[-0.5 × (x2 + y2)]]></summary>
-        <author>
-            <name>Tiago Monteiro</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Multithreading for Beginners]]></title>
-        <id>https://www.freecodecamp.org/news/multithreading-for-beginners/</id>
-        <link href="https://www.freecodecamp.org/news/multithreading-for-beginners/"/>
-        <updated>2024-07-16T20:31:02.000Z</updated>
-        <summary type="html"><![CDATA[Multithreading is a crucial concept in computer science that allows for the concurrent execution of two or more threads, enabling more efficient and optimized use of resources. It can significantly improve the performance of applications, particularl...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
         </author>
     </entry>
 </feed>

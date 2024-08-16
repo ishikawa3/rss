@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=379603",
+          "author": "Geoff Graham",
+          "description": "Yes, yes. Functionally, they are different. But heck if I didn’t know about the wacky thresholds until Jens Oliver Meiert tooted a pair of quick polls.\nAccording to the HTML Standard:\nIf the current cell has a colspan attribute, then \n…\nHow are the `colspan` and `rowspan` attributes different? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/how-are-the-colspan-and-rowspan-attributes-different/",
+          "publishedOn": "2024-08-15T13:10:58.000Z",
+          "wordCount": 1740,
+          "title": "How are the `colspan` and `rowspan` attributes different?",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/379603"
+        },
+        {
           "id": "https://css-tricks.com/?p=379862",
           "author": "Geoff Graham",
           "description": "Free e-book from Jens Oliver Meiert that’ll bore you to death in the best way: Rote Learning HTML & CSS…\nQuick Hit #11 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -239,6 +249,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2024/08/how-defend-your-design-process/",
+          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
+          "description": "Ever felt pressure to speed up your design process? Here’s how to address unrealistic expectations and foster a shared understanding with stakeholders, ensuring everyone is aligned on the path to a successful delivery. Part of [Smart Interface Design Patterns](https://smart-interface-design-patterns.com) by yours truly.",
+          "link": "https://smashingmagazine.com/2024/08/how-defend-your-design-process/",
+          "publishedOn": "2024-08-15T10:00:00.000Z",
+          "wordCount": 3695,
+          "title": "How To Defend Your Design Process",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/how-defend-your-design-process/how-defend-your-design-process.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/how-defend-your-design-process/how-defend-your-design-process.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2024/08/thoughts-after-15-years-spent-ux-design-part2/",
           "author": "hello@smashingmagazine.com (Andrii Zhdan)",
           "description": "In this two-part series, Andrii Zhdan outlines common challenges faced at the start of a design career and offers advice to smooth your journey based on insights from his experience hiring designers. In Part 2, Andrii speaks about how you can grow faster in your brand-new junior UX job.",
@@ -395,6 +420,36 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/a-beginners-guide-to-large-language-models/",
+          "author": "Bhavishya Pandit",
+          "description": "ChatGPT was released in November 2022. Since then, we’ve witnessed rapid advancements in the field of AI and technology. But did you know that the journey of AI chatbots began way back in 1966 with ELIZA? ELIZA was not as sophisticated as today’s mod...",
+          "link": "https://www.freecodecamp.org/news/a-beginners-guide-to-large-language-models/",
+          "publishedOn": "2024-08-15T19:41:19.000Z",
+          "wordCount": 2035,
+          "title": "A Beginner's Guide to LLMs – What's a Large-Language Model and How Does it Work?",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1723750839199/0dc3a4ff-3e4e-4055-b3c1-955474946b0f.jpeg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-asynchronous-programming-works-in-rust/",
+          "author": "Oduah Chigozie",
+          "description": "If you're familiar with languages like JavaScript and Python, you may have heard about asynchronous programming. And perhaps you're wondering how it works in Rust. In this article, I'll give you a simple overview of how asynchronous programming works...",
+          "link": "https://www.freecodecamp.org/news/how-asynchronous-programming-works-in-rust/",
+          "publishedOn": "2024-08-15T15:18:18.000Z",
+          "wordCount": 1589,
+          "title": "How Asynchronous Programming Works in Rust – Futures and Async/Await Explained with Examples",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1723746256888/b046d857-161c-41be-96d0-1c05b1e448b8.jpeg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/create-color-picker-using-html-css-and-javascript/",
+          "author": "Fanny Nyayic",
+          "description": "Have you ever wanted to create your own interactive tools using just HTML, CSS, and JavaScript? In this article, we'll create a fun and straightforward project: a color picker tool. This handy little tool will let users select any color they like and...",
+          "link": "https://www.freecodecamp.org/news/create-color-picker-using-html-css-and-javascript/",
+          "publishedOn": "2024-08-15T11:01:37.000Z",
+          "wordCount": 1487,
+          "title": "How to Create A Color Picker Tool Using HTML, CSS, and JavaScript",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1723709466316/80aae148-6211-4070-ba33-eb4290408912.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/integration-tests-using-testcontainers/",
           "author": "Alex Pliutau",
@@ -994,36 +1049,6 @@
           "wordCount": 2369,
           "title": "How to Use Server-Side Rendering in Next.js Apps for Better SEO",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/07/Ivory-and-Blue-Lavender-Aesthetic-Photo-Collage-Presentation--15-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-deploy-node-js-app-on-azure/",
-          "author": "oluwatobi Joshua",
-          "description": "The advent of cloud computing marked a turning point in the field of technology. It provides easier access for users across the globe to web and mobile applications and services.  Modern-day computing services also provide a wide range of features which make web apps easier to use and more",
-          "link": "https://www.freecodecamp.org/news/how-to-deploy-node-js-app-on-azure/",
-          "publishedOn": "2024-07-17T11:56:43.000Z",
-          "wordCount": 1438,
-          "title": "How to Deploy Your Node.js App on Azure",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/07/awsP.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/what-are-monte-carlo-methods/",
-          "author": "Tiago Monteiro",
-          "description": "-0.5 × (x2 + y2)",
-          "link": "https://www.freecodecamp.org/news/what-are-monte-carlo-methods/",
-          "publishedOn": "2024-07-16T21:42:38.000Z",
-          "wordCount": 2953,
-          "title": "What Are Monte Carlo Methods? How to Predict the Future with Python Simulations",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/07/pexels-matej-117839-716661.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/multithreading-for-beginners/",
-          "author": "Beau Carnes",
-          "description": "Multithreading is a crucial concept in computer science that allows for the concurrent execution of two or more threads, enabling more efficient and optimized use of resources. It can significantly improve the performance of applications, particularl...",
-          "link": "https://www.freecodecamp.org/news/multithreading-for-beginners/",
-          "publishedOn": "2024-07-16T20:31:02.000Z",
-          "wordCount": 1065,
-          "title": "Multithreading for Beginners",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1721161834666/59be7256-988c-491c-a745-985c5cbac06d.png"
         }
       ]
     }
