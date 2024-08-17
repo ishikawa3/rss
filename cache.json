@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=379881",
+          "author": "Geoff Graham",
+          "description": "I was just going over the latest CSSWG minutes (you can subscribe to them at W3C.org) and came across a few interesting nuggets I wanted to jot down for another time. The group discussed the CSS Values, CSS Easing, and …\nCSSWG Minutes Telecon (2024-08-14) originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/csswg-minutes-telecon-2024-08-14/",
+          "publishedOn": "2024-08-16T16:12:51.000Z",
+          "wordCount": 1771,
+          "title": "CSSWG Minutes Telecon (2024-08-14)",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/379881"
+        },
+        {
           "id": "https://css-tricks.com/?p=379603",
           "author": "Geoff Graham",
           "description": "Yes, yes. Functionally, they are different. But heck if I didn’t know about the wacky thresholds until Jens Oliver Meiert tooted a pair of quick polls.\nAccording to the HTML Standard:\nIf the current cell has a colspan attribute, then \n…\nHow are the `colspan` and `rowspan` attributes different? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -230,16 +240,6 @@
           "wordCount": 4177,
           "title": "CSS Stuff I’m Excited After the Last CSSWG Meeting",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/379180"
-        },
-        {
-          "id": "https://css-tricks.com/?p=379199",
-          "author": "Geoff Graham",
-          "description": "Sara Joy’s adaptation of the song “Everybody’s Free (To Wear Sunscreen)” (YouTube) originally by Baz Luhrman with lyrics pulled directly from Mary Schmich‘s classic essay, “Wear Sunscreen”. Anyone who has graduated high school since 1999 doesn’t even have …\nSara Joy: Everybody’s Free (To Write Websites) originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/sara-joy-everybodys-free-to-write-websites/",
-          "publishedOn": "2024-07-17T18:36:53.000Z",
-          "wordCount": 1582,
-          "title": "Sara Joy: Everybody’s Free (To Write Websites)",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/379199"
         }
       ]
     },
@@ -248,6 +248,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2024/08/pricing-projects-freelancer-agency-owner/",
+          "author": "hello@smashingmagazine.com (Paul Boag)",
+          "description": "Discover effective pricing strategies for digital projects. Learn how to balance fixed pricing, time and materials, and value-based approaches while managing client expectations and scope creep.",
+          "link": "https://smashingmagazine.com/2024/08/pricing-projects-freelancer-agency-owner/",
+          "publishedOn": "2024-08-16T13:00:00.000Z",
+          "wordCount": 4695,
+          "title": "Pricing Projects As A Freelancer Or Agency Owner",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/pricing-projects-freelancer-agency-owner/pricing-projects-freelancer-agency-owner.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/pricing-projects-freelancer-agency-owner/pricing-projects-freelancer-agency-owner.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2024/08/how-defend-your-design-process/",
           "author": "hello@smashingmagazine.com (Vitaly Friedman)",
@@ -397,21 +412,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/getting-bottom-minimum-wcag-conformant-interactive-element-size/getting-bottom-minimum-wcag-conformant-interactive-element-size.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2024/07/build-design-systems-penpot-components/",
-          "author": "hello@smashingmagazine.com (Mikołaj Dobrucki)",
-          "description": "In today’s turbulent landscape of design, Penpot stands out with its commitment to open-source, free unlimited access, and its unique, robust features. An example could be its new components system that takes another leap forward in aligning design with code. Let's dive into how it empowers both designers and developers to create more maintainable and scalable design systems.",
-          "link": "https://smashingmagazine.com/2024/07/build-design-systems-penpot-components/",
-          "publishedOn": "2024-07-18T10:00:00.000Z",
-          "wordCount": 3818,
-          "title": "Build Design Systems With Penpot Components",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/build-design-systems-penpot-components/build-design-systems-penpot-components.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/build-design-systems-penpot-components/build-design-systems-penpot-components.jpg"
         }
       ]
     },
@@ -420,6 +420,26 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/vm-data-protection-best-practices/",
+          "author": "Alex Tray",
+          "description": "Vast amounts of data flow through virtualized environments these days. And that data needs to be protected. So making sure that your virtual machines are secured, along with their associated data, is key for maintaining operational continuity and saf...",
+          "link": "https://www.freecodecamp.org/news/vm-data-protection-best-practices/",
+          "publishedOn": "2024-08-16T12:44:31.000Z",
+          "wordCount": 3035,
+          "title": "VM Data Protection Best Practices: How to Mitigate Risk in a Virtual Environment",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1723559872911/f9953e98-7948-47a0-a054-62028df854b9.jpeg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/rahul-pandey-quit-his-800k-per-year-faang-developer-job-to-build-a-startup-podcast-137/",
+          "author": "Quincy Larson",
+          "description": "On this week's episode of the podcast, freeCodeCamp founder Quincy Larson interviews Rahul Pandey. He's a software engineer who left his $800K / year FAANG job to build his own startup. We talk about: The post-layoff developer job landscape Develop...",
+          "link": "https://www.freecodecamp.org/news/rahul-pandey-quit-his-800k-per-year-faang-developer-job-to-build-a-startup-podcast-137/",
+          "publishedOn": "2024-08-15T21:57:33.000Z",
+          "wordCount": 781,
+          "title": "Rahul Pandey quit his $800,000/year FAANG developer job to build a startup [Podcast #137]",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1723758894150/3f49d5b1-b7bc-4ffe-bfc4-09fdf5a509ac.jpeg"
+        },
         {
           "id": "https://www.freecodecamp.org/news/a-beginners-guide-to-large-language-models/",
           "author": "Bhavishya Pandit",
@@ -1009,46 +1029,6 @@
           "wordCount": 1686,
           "title": "How to Move a Single Fly Machine and Volume to a New Region with flyctl",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/07/Cover-1.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/practice-your-html-css-and-javascript-skills-in-spanish-by-building-3-projects/",
-          "author": "Estefania Cassingena Navone",
-          "description": "Building projects is very important for learning how to code. When you create a project, you expand your portfolio and learn how to apply your skills to new situations. We just published a 2-hour course on the freeCodeCamp.org Spanish YouTube channel...",
-          "link": "https://www.freecodecamp.org/news/practice-your-html-css-and-javascript-skills-in-spanish-by-building-3-projects/",
-          "publishedOn": "2024-07-18T11:34:00.000Z",
-          "wordCount": 1230,
-          "title": "Practice Your HTML, CSS, and JavaScript Skills in Spanish by Building 3 Projects",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1721080988346/32a464e0-38af-4eba-b42a-af48cafecaef.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/pass-the-github-advanced-security-certification-exam/",
-          "author": "Beau Carnes",
-          "description": "Ensuring the security of your code is important, and mastering GitHub Advanced Security (GHAS) can significantly enhance your ability to safeguard your projects. If you want to strengthen your security skills, obtaining the GitHub Advanced Security C...",
-          "link": "https://www.freecodecamp.org/news/pass-the-github-advanced-security-certification-exam/",
-          "publishedOn": "2024-07-17T18:37:38.000Z",
-          "wordCount": 1060,
-          "title": "Pass the GitHub Advanced Security Certification Exam",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1721241358453/d5d3a160-5d4f-4058-8e80-3026c936ac7b.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/create-24-css-projects/",
-          "author": "Beau Carnes",
-          "description": "CSS is an essential skill for web developers, and mastering it can greatly enhance the look and feel of your web projects. Whether you're a beginner looking to sharpen your skills or an experienced developer aiming to stay up-to-date with the latest ...",
-          "link": "https://www.freecodecamp.org/news/create-24-css-projects/",
-          "publishedOn": "2024-07-17T18:25:33.000Z",
-          "wordCount": 816,
-          "title": "Create 24 CSS Projects",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1721240718922/b7d232c7-a3ae-4914-9039-c95018c69e7a.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/server-side-rendering-in-next-js-for-improved-seo/",
-          "author": "Joan Ayebola",
-          "description": "Server-side rendering (SSR) is a web development technique that can help improve your site's SEO. It does this by generating HTML content on the server in response to a user's request.  This approach contrasts with client-side rendering (CSR), where content is delivered as a basic HTML shell, and JavaScript",
-          "link": "https://www.freecodecamp.org/news/server-side-rendering-in-next-js-for-improved-seo/",
-          "publishedOn": "2024-07-17T18:02:11.000Z",
-          "wordCount": 2369,
-          "title": "How to Use Server-Side Rendering in Next.js Apps for Better SEO",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/07/Ivory-and-Blue-Lavender-Aesthetic-Photo-Collage-Presentation--15-.png"
         }
       ]
     }
