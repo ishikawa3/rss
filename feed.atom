@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-17T00:10:51.343Z</updated>
+    <updated>2024-08-18T00:12:28.141Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
@@ -961,36 +961,6 @@ CSS Stuff I’m Excited After the Last CSSWG Meeting originally published on CSS
         <summary type="html"><![CDATA[WCAG provides guidance for making interactive elements more accessible by specifying minimum size requirements. In this article, Eric Bailey discusses the nuances of interactive element sizes and clarifies what it looks like to provide accessible interactive experiences using WCAG-compliant target sizes.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Eric Bailey)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn JavaScript Reactivity: How to Build Signals from Scratch]]></title>
-        <id>https://www.freecodecamp.org/news/learn-javascript-reactivity-build-signals-from-scratch/</id>
-        <link href="https://www.freecodecamp.org/news/learn-javascript-reactivity-build-signals-from-scratch/"/>
-        <updated>2024-07-18T21:17:44.000Z</updated>
-        <summary type="html"><![CDATA[If you're learning JavaScript, you may have heard the terms reactivity or signals. But perhaps you haven't gotten to use them in practice yet. If so – or if you just want to learn more about these concepts – you're in the right place.  In this article, you'll learn]]></summary>
-        <author>
-            <name>Rahul Gupta</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use React Router to Build Single Page Applications]]></title>
-        <id>https://www.freecodecamp.org/news/use-react-router-to-build-single-page-applications/</id>
-        <link href="https://www.freecodecamp.org/news/use-react-router-to-build-single-page-applications/"/>
-        <updated>2024-07-18T14:42:16.000Z</updated>
-        <summary type="html"><![CDATA[Single Page Applications (SPAs) have revolutionized web development. They offer a more dynamic and fluid user experience compared to traditional multi-page applications. Traditional web apps require full-page reloads for almost every click the user makes. SPAs, on the other hand, load a single HTML page and update the page contents]]></summary>
-        <author>
-            <name>Timothy Olanrewaju</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Move a Single Fly Machine and Volume to a New Region with flyctl]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-move-a-fly-application-to-a-new-region/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-move-a-fly-application-to-a-new-region/"/>
-        <updated>2024-07-18T13:19:23.000Z</updated>
-        <summary type="html"><![CDATA[Fly.io allows users to deploy their applications to virtual machines in regions where their applications are mostly used. A Fly application can also be deployed to multiple regions. You may want to move your Fly application to a new region if you experience performance issues, high latency, or data residency]]></summary>
-        <author>
-            <name>Clarence Bakosi</name>
         </author>
     </entry>
 </feed>

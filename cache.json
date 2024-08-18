@@ -999,36 +999,6 @@
           "wordCount": 810,
           "title": "How to get Machine Learning Skills without doing a PhD in Math [Podcast #133 with Daniel Bourke]",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1721399825429/16053552-662a-4ff4-88ce-d3999cb3589d.jpeg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/learn-javascript-reactivity-build-signals-from-scratch/",
-          "author": "Rahul Gupta",
-          "description": "If you're learning JavaScript, you may have heard the terms reactivity or signals. But perhaps you haven't gotten to use them in practice yet. If so – or if you just want to learn more about these concepts – you're in the right place.  In this article, you'll learn",
-          "link": "https://www.freecodecamp.org/news/learn-javascript-reactivity-build-signals-from-scratch/",
-          "publishedOn": "2024-07-18T21:17:44.000Z",
-          "wordCount": 2268,
-          "title": "Learn JavaScript Reactivity: How to Build Signals from Scratch",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/07/Frame-1--1-.svg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/use-react-router-to-build-single-page-applications/",
-          "author": "Timothy Olanrewaju",
-          "description": "Single Page Applications (SPAs) have revolutionized web development. They offer a more dynamic and fluid user experience compared to traditional multi-page applications. Traditional web apps require full-page reloads for almost every click the user makes. SPAs, on the other hand, load a single HTML page and update the page contents",
-          "link": "https://www.freecodecamp.org/news/use-react-router-to-build-single-page-applications/",
-          "publishedOn": "2024-07-18T14:42:16.000Z",
-          "wordCount": 2098,
-          "title": "How to Use React Router to Build Single Page Applications",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/07/Using-React-Router-to-build-SPAs--Twitter-Post-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-move-a-fly-application-to-a-new-region/",
-          "author": "Clarence Bakosi",
-          "description": "Fly.io allows users to deploy their applications to virtual machines in regions where their applications are mostly used. A Fly application can also be deployed to multiple regions. You may want to move your Fly application to a new region if you experience performance issues, high latency, or data residency",
-          "link": "https://www.freecodecamp.org/news/how-to-move-a-fly-application-to-a-new-region/",
-          "publishedOn": "2024-07-18T13:19:23.000Z",
-          "wordCount": 1686,
-          "title": "How to Move a Single Fly Machine and Volume to a New Region with flyctl",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/07/Cover-1.png"
         }
       ]
     }
