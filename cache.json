@@ -230,16 +230,6 @@
           "wordCount": 1958,
           "title": "Alvaro Montoro: CSS One-Liners to Improve (Almost) Every Project",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/379278"
-        },
-        {
-          "id": "https://css-tricks.com/?p=379180",
-          "author": "Juan Diego Rodríguez",
-          "description": "From June 11–13, the CSS Working Group (CSSWG) held its second face-to-face meeting of the year in Coruña, Spain, with a long agenda of new features and improvements coming to language. If 2023 brought us incredible advances like …\nCSS Stuff I’m Excited After the Last CSSWG Meeting originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/css-stuff-im-excited-after-the-last-csswg-meeting/",
-          "publishedOn": "2024-07-19T17:16:57.000Z",
-          "wordCount": 4177,
-          "title": "CSS Stuff I’m Excited After the Last CSSWG Meeting",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/379180"
         }
       ]
     },
@@ -397,21 +387,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/integrating-image-to-text-and-text-to-speech-models-part1/integrating-image-to-text-and-text-to-speech-models-part1.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2024/07/getting-bottom-minimum-wcag-conformant-interactive-element-size/",
-          "author": "hello@smashingmagazine.com (Eric Bailey)",
-          "description": "WCAG provides guidance for making interactive elements more accessible by specifying minimum size requirements. In this article, Eric Bailey discusses the nuances of interactive element sizes and clarifies what it looks like to provide accessible interactive experiences using WCAG-compliant target sizes.",
-          "link": "https://smashingmagazine.com/2024/07/getting-bottom-minimum-wcag-conformant-interactive-element-size/",
-          "publishedOn": "2024-07-19T13:00:00.000Z",
-          "wordCount": 5295,
-          "title": "Getting To The Bottom Of Minimum WCAG-Conformant Interactive Element Size",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/getting-bottom-minimum-wcag-conformant-interactive-element-size/getting-bottom-minimum-wcag-conformant-interactive-element-size.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/getting-bottom-minimum-wcag-conformant-interactive-element-size/getting-bottom-minimum-wcag-conformant-interactive-element-size.jpg"
         }
       ]
     },
@@ -969,36 +944,6 @@
           "wordCount": 2857,
           "title": "How To Implement Instant Search with Flask and HTMX",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/07/instant-search.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/migrate-a-flutter-application-from-getit-to-bloc/",
-          "author": "Tomer Ben Rachel",
-          "description": "When I first built an application [https://play.google.com/store/apps/details?id=com.tomerpacific.birthday_calendar&hl=en] using Flutter, I quickly ran into situations where I needed to pass state from widget to widget. These widgets weren’t directly related and all I knew back then was that there were only Stateless widgets or Stateful ones. I found it hard to",
-          "link": "https://www.freecodecamp.org/news/migrate-a-flutter-application-from-getit-to-bloc/",
-          "publishedOn": "2024-07-19T23:05:13.000Z",
-          "wordCount": 2839,
-          "title": "How to Migrate a Flutter Application from GetIt to Bloc",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/07/ryan-quintal-US9Tc9pKNBU-unsplash.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/next-js-performance-optimization/",
-          "author": "TAPAS ADHIKARY",
-          "description": "People don't like using slow applications. And the initial load time matters a lot for web applications and websites.  An application that takes more than 3 seconds to load is considered slow and may cause users to leave the application or website. Next.js is a React-based framework you can",
-          "link": "https://www.freecodecamp.org/news/next-js-performance-optimization/",
-          "publishedOn": "2024-07-19T22:31:12.000Z",
-          "wordCount": 4335,
-          "title": "How to Optimize Next.js App Performance With Lazy Loading",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/07/lazyloading-next.js.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-get-machine-learning-skills-without-doing-a-phd-in-math-podcast-133-with-daniel-bourke/",
-          "author": "Quincy Larson",
-          "description": "On this week's episode of the podcast, I interview Daniel Bourke. He's a Machine Learning Engineer and creator of many popular tutorials on YouTube. He's also a frequent freeCodeCamp contributor. We talk about: How as a kid he hacked into his school...",
-          "link": "https://www.freecodecamp.org/news/how-to-get-machine-learning-skills-without-doing-a-phd-in-math-podcast-133-with-daniel-bourke/",
-          "publishedOn": "2024-07-19T14:36:03.000Z",
-          "wordCount": 810,
-          "title": "How to get Machine Learning Skills without doing a PhD in Math [Podcast #133 with Daniel Bourke]",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1721399825429/16053552-662a-4ff4-88ce-d3999cb3589d.jpeg"
         }
       ]
     }
