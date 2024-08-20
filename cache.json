@@ -12,6 +12,26 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=379959",
+          "author": "Ryan Trimble",
+          "description": "I can’t say I would have ever expected to see Jeremy Keith performing the Yeah Yeah Yeahs song “Maps”, but then again, I don’t know what I expected to happen at Frostapalooza.\nThe Event\nBrad Frost, web …\nOn the Ground at Frostapalooza originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/on-the-ground-at-frostapalooza/",
+          "publishedOn": "2024-08-19T17:01:09.000Z",
+          "wordCount": 2184,
+          "title": "On the Ground at Frostapalooza",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/379959"
+        },
+        {
+          "id": "https://css-tricks.com/?p=379851",
+          "author": "Erick Merchant",
+          "description": "Every programming language has loops. Loops perform an operation (i.e., a chunk of work) a number of times, usually once for every item in an array or list, or to simply repeat an operation until a certain condition is met.…\nAll About JavaScript Loops originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/all-about-javascript-loops/",
+          "publishedOn": "2024-08-19T14:21:07.000Z",
+          "wordCount": 2567,
+          "title": "All About JavaScript Loops",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/379851"
+        },
+        {
           "id": "https://css-tricks.com/?p=379881",
           "author": "Geoff Graham",
           "description": "I was just going over the latest CSSWG minutes (you can subscribe to them at W3C.org) and came across a few interesting nuggets I wanted to jot down for another time. The group discussed the CSS Values, CSS Easing, and …\nCSSWG Minutes Telecon (2024-08-14) originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -395,6 +415,46 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-secure-a-nextjs-ai-application-deployed-on-vercel/",
+          "author": "Gideon Akinsanmi",
+          "description": "In this in-depth guide, I’ll be showing how to secure a Next.js AI app deployed on Vercel. We’ll be taking a hands-on approach by starting with a simple AI app riddled with vulnerabilities. This article will guide you through how you can detect vulne...",
+          "link": "https://www.freecodecamp.org/news/how-to-secure-a-nextjs-ai-application-deployed-on-vercel/",
+          "publishedOn": "2024-08-19T21:06:52.000Z",
+          "wordCount": 8402,
+          "title": "How to Secure a Next.js AI Application Deployed on Vercel",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1724061409083/f9df1023-0bf0-4dc4-b97b-041738bfe5f8.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-read-and-write-files-with-nodejs/",
+          "author": "Ashutosh Krishna",
+          "description": "Node.js is a powerful JavaScript runtime environment that lets you run JS code outside the browser. And a fundamental part of many Node.js applications involves reading and writing files – whether that's text, JSON, HTML, or other file formats. So yo...",
+          "link": "https://www.freecodecamp.org/news/how-to-read-and-write-files-with-nodejs/",
+          "publishedOn": "2024-08-19T13:41:36.000Z",
+          "wordCount": 3482,
+          "title": "How to Read and Write Files with Node.js",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1723804956795/2dbd964a-00c3-4489-819a-393b058ed1fd.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-use-variables-and-data-types-in-javascript/",
+          "author": "Austin Asoluka",
+          "description": "A variable is like a box where you can store data or a reference to data. In this article, you will learn how to create and use variables. You'll also learn about the different data types in JavaScript and how to use them. Let's get started! Table of...",
+          "link": "https://www.freecodecamp.org/news/how-to-use-variables-and-data-types-in-javascript/",
+          "publishedOn": "2024-08-19T13:33:18.000Z",
+          "wordCount": 5898,
+          "title": "How to Use Variables and Data Types in JavaScript – Explained With Code Examples",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1723754441356/34416215-e12b-41ec-8c11-332d2c8214e1.jpeg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/variables-and-constants-in-go/",
+          "author": "Temitope Oyedele",
+          "description": "Variables and constants are fundamental concepts in most programming languages. They are the building blocks for storing and managing data. In this article, we'll take a look at how variables and constant work in Go. Table of contents: What are Vari...",
+          "link": "https://www.freecodecamp.org/news/variables-and-constants-in-go/",
+          "publishedOn": "2024-08-19T07:26:50.000Z",
+          "wordCount": 2377,
+          "title": "What are Variables and Constants in Go? Explained With Examples",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1724052347929/f54eba57-fa4b-4b81-821e-41826d592933.jpeg"
+        },
         {
           "id": "https://www.freecodecamp.org/news/vm-data-protection-best-practices/",
           "author": "Alex Tray",
