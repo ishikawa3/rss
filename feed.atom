@@ -2,10 +2,81 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-20T00:11:37.200Z</updated>
+    <updated>2024-08-21T00:11:13.867Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Build Good Coding Habits as a New Python Developer]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-build-good-coding-habits/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-good-coding-habits/"/>
+        <updated>2024-08-20T20:46:01.000Z</updated>
+        <summary type="html"><![CDATA[When you're starting out as a new Python developer, you'll likely develop some habits, both good and bad. Coding is something of an art form. Flexibility and customization are encouraged — and you can usually write code how you want within the contex...]]></summary>
+        <author>
+            <name>Eleanor Hecks</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Effectively Manage Unique Identifiers at Scale: From GUIDs to Snowflake IDs and Other Modern Solutions]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-effectively-manage-unique-identifiers-at-scale/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-effectively-manage-unique-identifiers-at-scale/"/>
+        <updated>2024-08-20T18:21:25.000Z</updated>
+        <summary type="html"><![CDATA[What Are Unique Identifiers? 🪪 Unique identifiers (UIDs) are crucial components in software engineering and data management. They serve as distinct references for entities within a system and ensure that each item – whether a database record, a user...]]></summary>
+        <author>
+            <name>Gor Grigoryan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Regexes Got Good: The History And Future Of Regular Expressions In JavaScript]]></title>
+        <id>https://smashingmagazine.com/2024/08/history-future-regular-expressions-javascript/</id>
+        <link href="https://smashingmagazine.com/2024/08/history-future-regular-expressions-javascript/"/>
+        <updated>2024-08-20T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Although JavaScript regexes used to be underpowered compared to other modern flavors, numerous improvements in recent years mean that’s no longer true. Steven Levithan evaluates the history and present state of regular expressions in JavaScript with tips to make your regexes more readable, maintainable, and resilient.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Steven Levithan)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Git Cheat Sheet – Helpful Git Commands with Examples]]></title>
+        <id>https://www.freecodecamp.org/news/git-cheat-sheet-helpful-git-commands-with-examples/</id>
+        <link href="https://www.freecodecamp.org/news/git-cheat-sheet-helpful-git-commands-with-examples/"/>
+        <updated>2024-08-20T14:47:35.000Z</updated>
+        <summary type="html"><![CDATA[This Git Cheat Sheet will provide you with a handy list of common (and not so common) commands that will make your life easier when working with Git. You can also download the Git Cheat Sheet in PDF format (along with some other resources) for free b...]]></summary>
+        <author>
+            <name>Flavio Copes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RTL Styling 101]]></title>
+        <id>https://css-tricks.com/?p=379926</id>
+        <link href="https://css-tricks.com/rtl-styling-101/"/>
+        <updated>2024-08-20T14:16:34.000Z</updated>
+        <summary type="html"><![CDATA[A couple of weeks ago I was super excited about publishing my first CSS-Tricks post: “Letter Spacing is Broken. Forget about that though, what’s important is the post’s topic: letter spacing is broken and doesn’t work as the CSS …
+RTL Styling 101 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Juan Diego Rodríguez</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Master Video Editing with DaVinci Resolve]]></title>
+        <id>https://www.freecodecamp.org/news/master-video-editing-with-davinci-resolve/</id>
+        <link href="https://www.freecodecamp.org/news/master-video-editing-with-davinci-resolve/"/>
+        <updated>2024-08-20T13:01:53.000Z</updated>
+        <summary type="html"><![CDATA[DaVinci Resolve is a popular video editing software that is often used to edit feature films. There is also a super powerful free version. DaVinci Resolve is a great software to use for video editing. We just published a course on the freeCodeCamp.or...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Generate Financial Press Reviews Using AI]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-generate-financial-press-reviews-using-ai/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-generate-financial-press-reviews-using-ai/"/>
+        <updated>2024-08-20T12:39:49.000Z</updated>
+        <summary type="html"><![CDATA[In today’s fast-paced business environment, staying informed about the latest developments in your industry is crucial for making strategic decisions. Companies must know market trends, competitor activities, and potential risks to remain competitive...]]></summary>
+        <author>
+            <name>Marco Venturi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Secure a Next.js AI Application Deployed on Vercel]]></title>
         <id>https://www.freecodecamp.org/news/how-to-secure-a-nextjs-ai-application-deployed-on-vercel/</id>
@@ -954,26 +1025,6 @@ Pop(over) the Balloons originally published on CSS-Tricks, which is part of the 
 Alvaro Montoro: CSS One-Liners to Improve (Almost) Every Project originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use Enhanced Enums in Dart – Explained With Code Examples]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-use-enhanced-enums-in-dart/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-enhanced-enums-in-dart/"/>
-        <updated>2024-07-22T11:52:55.000Z</updated>
-        <summary type="html"><![CDATA[Enums are one of the most efficient ways to represent a fixed set of values. For example: days of the week, user online status, traffic light states, role hierarchy in an organization, and so on. What's interesting is that most typed languages such as Typescript, Java, C#, and Dart give]]></summary>
-        <author>
-            <name>Daniel Asaboro</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Implement Instant Search with Flask and HTMX]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-implement-instant-search-with-flask-and-htmx/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-implement-instant-search-with-flask-and-htmx/"/>
-        <updated>2024-07-22T11:36:53.000Z</updated>
-        <summary type="html"><![CDATA[Instant search is a feature that shows search results as users type their query. Instead of waiting for a full page reload or submitting a form, results appear instantly, allowing users to find what they are looking for quickly. For example, when you start typing in a search box, suggestions]]></summary>
-        <author>
-            <name>Ashutosh Krishna</name>
         </author>
     </entry>
 </feed>
