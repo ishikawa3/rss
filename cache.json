@@ -12,6 +12,41 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=380039",
+          "author": "Geoff Graham",
+          "description": "Hey look at that, the State of CSS Survey for 2024 is open and taking submissions. …\nQuick Hit #11 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/quick-hit-11-2/",
+          "publishedOn": "2024-08-21T21:25:08.000Z",
+          "wordCount": 1311,
+          "title": "Quick Hit #11",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/380039"
+        },
+        {
+          "id": "https://css-tricks.com/?p=380016",
+          "author": "Geoff Graham",
+          "description": "You ever find yourself in bumper-to-bumper traffic? I did this morning on the way to work (read: whatever cafe I fancy). There’s a pattern to it, right? Stop, go, stop, go, stop… it’s almost rhythmic and harmonious in the most …\nThe Intersection of Speed and Proximity originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/the-intersection-of-speed-and-proximity/",
+          "publishedOn": "2024-08-21T16:11:31.000Z",
+          "wordCount": 1931,
+          "title": "The Intersection of Speed and Proximity",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/380016"
+        },
+        {
+          "id": "https://css-tricks.com/?p=379949",
+          "author": "Dave Seidman",
+          "description": "A client asked if we could mimic the “rubber band” scrolling behavior on many mobile devices. I’m sure you know what I’m talking about. It’s a behavior that already exists and happens automatically in most browsers. In iOS Safari, for …\nElastic Overflow Scrolling originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/elastic-overflow-scrolling/",
+          "publishedOn": "2024-08-21T14:41:47.000Z",
+          "wordCount": 2019,
+          "title": "Elastic Overflow Scrolling",
+          "enclosure": {
+            "url": "https://css-tricks.com/wp-content/uploads/2024/08/elastic-scroll_1.mp4",
+            "length": "13586939",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/379949"
+        },
+        {
           "id": "https://css-tricks.com/?p=379926",
           "author": "Juan Diego Rodríguez",
           "description": "A couple of weeks ago I was super excited about publishing my first CSS-Tricks post: “Letter Spacing is Broken. Forget about that though, what’s important is the post’s topic: letter spacing is broken and doesn’t work as the CSS …\nRTL Styling 101 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -250,16 +285,6 @@
           "wordCount": 3696,
           "title": "Pop(over) the Balloons",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/379281"
-        },
-        {
-          "id": "https://css-tricks.com/?p=379278",
-          "author": "Geoff Graham",
-          "description": "These sorts of roundups always get me. My wife will flip through Zillow photos of the insides of homes for hours because she likes seeing how different people decorate, Feng Shui, or what have you. That’s her little dip into …\nAlvaro Montoro: CSS One-Liners to Improve (Almost) Every Project originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/alvaro-montoro-css-one-liners-to-improve-almost-every-project/",
-          "publishedOn": "2024-07-22T14:38:52.000Z",
-          "wordCount": 1958,
-          "title": "Alvaro Montoro: CSS One-Liners to Improve (Almost) Every Project",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/379278"
         }
       ]
     },
@@ -440,6 +465,36 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-build-a-serverless-crud-rest-api/",
+          "author": "Ifeanyi Otuonye",
+          "description": "Serverless computing emerged as a response to the challenges of traditional server-based architectures. With serverless, developers no longer need to manage or scale servers manually. Instead, cloud providers handle infrastructure management, allowin...",
+          "link": "https://www.freecodecamp.org/news/how-to-build-a-serverless-crud-rest-api/",
+          "publishedOn": "2024-08-21T19:22:55.000Z",
+          "wordCount": 5301,
+          "title": "How to Build a Serverless CRUD REST API with the Serverless Framework, Node.js, and GitHub Actions",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1724267592147/e9dc4429-6475-4d35-b0e8-81c116f769b8.jpeg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-create-software-architecture-diagrams-using-the-c4-model/",
+          "author": "Alex Pliutau",
+          "description": "As a developer, you'll likely work on a complex project at some point where deciphering the codebase feels like reading a whole novel. Engineers are code wizards, but even the best get lost in sprawling code. The challenge is that architecture diagra...",
+          "link": "https://www.freecodecamp.org/news/how-to-create-software-architecture-diagrams-using-the-c4-model/",
+          "publishedOn": "2024-08-21T18:50:04.000Z",
+          "wordCount": 2139,
+          "title": "How to Create Software Architecture Diagrams Using the C4 Model",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1724187048778/7d2821c6-c0c9-4d03-999f-37022388210c.jpeg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/what-is-css-subgrid/",
+          "author": "Ophy Boamah",
+          "description": "When designers create layouts in their mockups, everything including the content typically looks perfectly aligned and consistent. But in the real world, user-generated content varies wildly. For example, one testimonial card might have a brief sente...",
+          "link": "https://www.freecodecamp.org/news/what-is-css-subgrid/",
+          "publishedOn": "2024-08-21T18:17:03.000Z",
+          "wordCount": 2066,
+          "title": "What is CSS Subgrid? A Practical Tutorial",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1724227015705/f55ae862-c81f-4453-af92-cb96acf0d13d.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/how-to-build-good-coding-habits/",
           "author": "Eleanor Hecks",
@@ -1039,26 +1094,6 @@
           "wordCount": 3169,
           "title": "Comparable vs Comparator Interfaces in Java – Which Should You Use and When?",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/07/comparable-comparator.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/build-a-bitcoin-to-usd-calculator/",
-          "author": "Eesa Zahed",
-          "description": "Welcome to this fun and hands-on project where we'll build a calculator that converts Bitcoin to USD. You'll learn about API fetching, DOM manipulation, and localStorage, and you'll use some basic math along the way.  By the end of this tutorial, you'll have a functioning Bitcoin price calculator that",
-          "link": "https://www.freecodecamp.org/news/build-a-bitcoin-to-usd-calculator/",
-          "publishedOn": "2024-07-22T22:36:23.000Z",
-          "wordCount": 2136,
-          "title": "How to Build a Simple Bitcoin-to-USD Calculator",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/07/Screenshot-2024-07-18-at-13.34.34.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/react-context-api-tutorial-examples/",
-          "author": "Danny Adams",
-          "description": "In React, data is typically passed down from parent to child via props. But this can lead to \"prop drilling\" – where we have to pass props down through lots of components to get them where they're needed. Also, some props (for example, the current authenticated user, UI theme, or",
-          "link": "https://www.freecodecamp.org/news/react-context-api-tutorial-examples/",
-          "publishedOn": "2024-07-22T15:25:40.000Z",
-          "wordCount": 3262,
-          "title": "How to Use React's Context API – Tutorial with Examples",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/07/React.png"
         }
       ]
     }
