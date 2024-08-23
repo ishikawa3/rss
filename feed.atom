@@ -2,10 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-22T00:11:27.638Z</updated>
+    <updated>2024-08-23T00:11:18.559Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Create a MacOS App with React Native]]></title>
+        <id>https://www.freecodecamp.org/news/create-a-macos-app-with-react-native/</id>
+        <link href="https://www.freecodecamp.org/news/create-a-macos-app-with-react-native/"/>
+        <updated>2024-08-22T19:30:39.000Z</updated>
+        <summary type="html"><![CDATA[We are excited to announce the release of our latest course on the freeCodeCamp.org YouTube channel that will teach you how to use React Native to build a MacOS application. This course will guide you through the development of a fully integrated Mac...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn to Use the Gemini AI MultiModal Model]]></title>
+        <id>https://www.freecodecamp.org/news/learn-to-use-the-gemini-ai-multimodal-model/</id>
+        <link href="https://www.freecodecamp.org/news/learn-to-use-the-gemini-ai-multimodal-model/"/>
+        <updated>2024-08-22T19:23:26.000Z</updated>
+        <summary type="html"><![CDATA[Gemini is a suite of AI models that can understand and generate human-like responses based on the input it receives. We just published a Gemini course on the freeCodeCamp.org YouTube channel that is designed to guide you through the world of multimod...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Callbacks on Web Components?]]></title>
+        <id>https://css-tricks.com/?p=380029</id>
+        <link href="https://css-tricks.com/callbacks-on-web-components/"/>
+        <updated>2024-08-22T14:01:35.000Z</updated>
+        <summary type="html"><![CDATA[A gem from Chris Ferdinandi that details how to use custom events to hook into Web Components. More importantly, Chris dutifully explains why custom events are a better fit than, say, callback functions.
+With a typical JavaScript library, you pass 
+…
+Callbacks on Web Components? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mastering Typography In Logo Design]]></title>
+        <id>https://smashingmagazine.com/2024/08/mastering-typography-in-logo-design/</id>
+        <link href="https://smashingmagazine.com/2024/08/mastering-typography-in-logo-design/"/>
+        <updated>2024-08-22T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Finding the right typeface for a logo is a challenge and can be a very time-consuming process that requires both creativity and a practical approach. Levi Honing provides the essential background and tools to enhance your typography journey and apply this knowledge to your logo design. Let’s dive deep to learn how to create a logo that is not only expressive but also purposeful and well-thought-out.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Levi Honing)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Quick Hit #11]]></title>
         <id>https://css-tricks.com/?p=380039</id>
@@ -1008,55 +1051,6 @@ Pop(over) the Balloons originally published on CSS-Tricks, which is part of the 
         <summary type="html"><![CDATA[Are you ready to dive into an exciting project that combines the latest in frontend and backend technologies? Imagine having a personalized notes application with dynamic features like draggable notes, autosave, and customizable colors. Not only will...]]></summary>
         <author>
             <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Integrating Image-To-Text And Text-To-Speech Models (Part 1)]]></title>
-        <id>https://smashingmagazine.com/2024/07/integrating-image-to-text-and-text-to-speech-models-part1/</id>
-        <link href="https://smashingmagazine.com/2024/07/integrating-image-to-text-and-text-to-speech-models-part1/"/>
-        <updated>2024-07-24T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Joas Pambou built an app that integrates vision language models (VLMs) and text-to-speech (TTS) AI technologies to describe images audibly with speech. This audio description tool can be a big help for people with sight challenges to understand what’s in an image. But how this does it even work? Joas explains how these AI systems work and their potential uses, including how he built the app and ways to further improve it.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Joas Pambou)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build an Interpretable Artificial Intelligence Model – Simple Python Code Example]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-build-an-interpretable-ai-deep-learning-model/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-an-interpretable-ai-deep-learning-model/"/>
-        <updated>2024-07-23T22:11:31.000Z</updated>
-        <summary type="html"><![CDATA[Artificial Intelligence is being used everywhere these days. And many of the groundbreaking applications come from Machine Learning, a subfield of AI. Within Machine Learning, a field called Deep Learning represents one of the main areas of research. It is from Deep Learning that most new, truly effective AI systems]]></summary>
-        <author>
-            <name>Tiago Monteiro</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is Primitive Obsession?]]></title>
-        <id>https://www.freecodecamp.org/news/what-is-primitive-obsession/</id>
-        <link href="https://www.freecodecamp.org/news/what-is-primitive-obsession/"/>
-        <updated>2024-07-23T22:03:40.000Z</updated>
-        <author>
-            <name>Daniel Asaboro</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Quantum Artificial Intelligence Model – With Python Code Examples]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-build-a-quantum-ai-model/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-a-quantum-ai-model/"/>
-        <updated>2024-07-23T18:28:43.000Z</updated>
-        <summary type="html"><![CDATA[Machine learning (ML) is one of the most important subareas of AI used in building great AI systems. In ML, deep learning is a narrow area focused solely on neural networks. Through the field of deep learning, systems like ChatGPT and many other AI models can be created. In other]]></summary>
-        <author>
-            <name>Tiago Monteiro</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Comparable vs Comparator Interfaces in Java – Which Should You Use and When?]]></title>
-        <id>https://www.freecodecamp.org/news/comparable-vs-comparator-explained-in-java/</id>
-        <link href="https://www.freecodecamp.org/news/comparable-vs-comparator-explained-in-java/"/>
-        <updated>2024-07-23T13:13:33.000Z</updated>
-        <summary type="html"><![CDATA[Sorting is a fundamental operation in programming, essential for organizing data in a specific order. In Java, built-in sorting methods provide efficient ways to sort primitive data types and arrays, making it easy to manage and manipulate collections of data. For instance, you can quickly sort an array of integers]]></summary>
-        <author>
-            <name>Ashutosh Krishna</name>
         </author>
     </entry>
 </feed>
