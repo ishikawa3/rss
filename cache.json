@@ -12,6 +12,26 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=380064",
+          "author": "Geoff Graham",
+          "description": "Giant kudos to Scott Jehl on releasing his new Web Components De-Mystified online course! Eight full hours of training from one of the best in the business.…\nQuick Hit #12 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/quick-hit-12/",
+          "publishedOn": "2024-08-23T15:43:54.000Z",
+          "wordCount": 1334,
+          "title": "Quick Hit #12",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/380064"
+        },
+        {
+          "id": "https://css-tricks.com/?p=380042",
+          "author": "Geoff Graham",
+          "description": "Eric gifting us with his research on all the various things that anchors (not links) do when they are in :focus.\nTurns out, there’s a lot!\nThat’s an understatement! This is an incredible amount of work, even …\nBasic keyboard shortcut support for focused links originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/basic-keyboard-shortcut-support-for-focused-links/",
+          "publishedOn": "2024-08-23T13:16:20.000Z",
+          "wordCount": 1672,
+          "title": "Basic keyboard shortcut support for focused links",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/380042"
+        },
+        {
           "id": "https://css-tricks.com/?p=380029",
           "author": "Geoff Graham",
           "description": "A gem from Chris Ferdinandi that details how to use custom events to hook into Web Components. More importantly, Chris dutifully explains why custom events are a better fit than, say, callback functions.\nWith a typical JavaScript library, you pass \n…\nCallbacks on Web Components? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -475,6 +495,16 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/from-brain-tumor-to-teaching-500000-sysadmin-students-with-hiroko-nishimura-podcast-138/",
+          "author": "Quincy Larson",
+          "description": "On this week's episode of the podcast, freeCodeCamp founder Quincy Larson interviews Hiroko Nishimura. She's a special ed teacher turned system administrator turned technical instructor. Hiroko grew up in Japan and moved to the US as a kid. In her ea...",
+          "link": "https://www.freecodecamp.org/news/from-brain-tumor-to-teaching-500000-sysadmin-students-with-hiroko-nishimura-podcast-138/",
+          "publishedOn": "2024-08-23T16:40:35.000Z",
+          "wordCount": 854,
+          "title": "From Brain Tumor to Teaching 500,000 Sysadmin Students with Hiroko Nishimura [Podcast #138]",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1724431182170/14a5b2d2-0e5e-4b27-b90d-b9907edc9221.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/create-a-macos-app-with-react-native/",
           "author": "Beau Carnes",
@@ -1074,16 +1104,6 @@
           "wordCount": 1042,
           "title": "Learn System Design Principles and Prepare for an Job Interview",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1721918626724/720abc1b-4573-4264-b2c0-ef79b1ca3d8e.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/build-a-sticky-notes-app-with-react-and-appwrite/",
-          "author": "Beau Carnes",
-          "description": "Are you ready to dive into an exciting project that combines the latest in frontend and backend technologies? Imagine having a personalized notes application with dynamic features like draggable notes, autosave, and customizable colors. Not only will...",
-          "link": "https://www.freecodecamp.org/news/build-a-sticky-notes-app-with-react-and-appwrite/",
-          "publishedOn": "2024-07-25T01:30:25.000Z",
-          "wordCount": 970,
-          "title": "Build a Sticky Notes App with React and Appwrite",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1721870980147/977bfdd5-fdef-4cfc-bfa3-97c614faa8b9.png"
         }
       ]
     }
