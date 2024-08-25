@@ -305,16 +305,6 @@
           "wordCount": 2853,
           "title": "Letter Spacing is Broken and There’s Nothing We Can Do About It… Maybe",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/379318"
-        },
-        {
-          "id": "https://css-tricks.com/?p=379281",
-          "author": "John Rhea",
-          "description": "I’ve always been fascinated with how much we can do with just HTML and CSS. The new interactive features of the Popover API are yet another example of just how far we can get with those two languages alone.\nYou …\nPop(over) the Balloons originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/popover-the-balloons/",
-          "publishedOn": "2024-07-25T13:31:46.000Z",
-          "wordCount": 3696,
-          "title": "Pop(over) the Balloons",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/379281"
         }
       ]
     },
@@ -495,6 +485,16 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-future-proof-your-software-engineering-career-for-the-age-of-agi/",
+          "author": "Victoria Drake",
+          "description": "In the viral essay The Decade Ahead, Leopold Aschenbrenner predicts that Artificial General Intelligence (AGI) will be a reality in only a few years. But what exactly is AGI, and how does it differ from the AI we have today? AGI refers to a type of a...",
+          "link": "https://www.freecodecamp.org/news/how-to-future-proof-your-software-engineering-career-for-the-age-of-agi/",
+          "publishedOn": "2024-08-23T23:01:03.000Z",
+          "wordCount": 3315,
+          "title": "How to Future-Proof Your Software Engineering Career for the Age of AGI",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1724267267326/85a8c7ec-bc36-4d93-9ba1-b5410859d2a4.jpeg"
+        },
         {
           "id": "https://www.freecodecamp.org/news/from-brain-tumor-to-teaching-500000-sysadmin-students-with-hiroko-nishimura-podcast-138/",
           "author": "Quincy Larson",
@@ -1084,26 +1084,6 @@
           "wordCount": 2117,
           "title": "How Do Generative Models Work in Deep Learning? Generative Models For Data Augmentation Explained",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/07/glenn-carstens-peters-1F4MukO0UNg-unsplash.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/what-is-recursion/",
-          "author": "Palistha",
-          "description": "In this article, you will learn about recursion and how it works. You need a good understanding of how functions work before learning recursion. I have used Python code for examples in this article because of its simple syntax, but the concept of recursion is the same for every programming",
-          "link": "https://www.freecodecamp.org/news/what-is-recursion/",
-          "publishedOn": "2024-07-25T15:03:00.000Z",
-          "wordCount": 2390,
-          "title": "How Does Recursion Work? Explained with Code Examples",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/07/Frame-1--6-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/learn-system-design-principles/",
-          "author": "Beau Carnes",
-          "description": "Mastering system design is important for anyone who wants to build scalable and reliable applications. System design includes a range of topics from basic computer architecture to complex networking concepts, each playing an important role in creatin...",
-          "link": "https://www.freecodecamp.org/news/learn-system-design-principles/",
-          "publishedOn": "2024-07-25T14:44:21.000Z",
-          "wordCount": 1042,
-          "title": "Learn System Design Principles and Prepare for an Job Interview",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1721918626724/720abc1b-4573-4264-b2c0-ef79b1ca3d8e.png"
         }
       ]
     }

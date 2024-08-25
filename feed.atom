@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-24T00:10:52.078Z</updated>
+    <updated>2024-08-25T00:12:38.478Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Future-Proof Your Software Engineering Career for the Age of AGI]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-future-proof-your-software-engineering-career-for-the-age-of-agi/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-future-proof-your-software-engineering-career-for-the-age-of-agi/"/>
+        <updated>2024-08-23T23:01:03.000Z</updated>
+        <summary type="html"><![CDATA[In the viral essay The Decade Ahead, Leopold Aschenbrenner predicts that Artificial General Intelligence (AGI) will be a reality in only a few years. But what exactly is AGI, and how does it differ from the AI we have today? AGI refers to a type of a...]]></summary>
+        <author>
+            <name>Victoria Drake</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[From Brain Tumor to Teaching 500,000 Sysadmin Students with Hiroko Nishimura [Podcast #138]]]></title>
         <id>https://www.freecodecamp.org/news/from-brain-tumor-to-teaching-500000-sysadmin-students-with-hiroko-nishimura-podcast-138/</id>
@@ -1043,38 +1053,6 @@ Letter Spacing is Broken and There’s Nothing We Can Do About It… Maybe origi
         <summary type="html"><![CDATA[Data is at the heart of model training in the world of deep learning. The quantity and quality of training data determine the effectiveness of machine learning algorithms.  On the other hand, obtaining massive amounts of precisely categorized data is a difficult and resource-intensive operation. This is where data]]></summary>
         <author>
             <name>Oyedele Tioluwani Taiwo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Does Recursion Work? Explained with Code Examples]]></title>
-        <id>https://www.freecodecamp.org/news/what-is-recursion/</id>
-        <link href="https://www.freecodecamp.org/news/what-is-recursion/"/>
-        <updated>2024-07-25T15:03:00.000Z</updated>
-        <summary type="html"><![CDATA[In this article, you will learn about recursion and how it works. You need a good understanding of how functions work before learning recursion. I have used Python code for examples in this article because of its simple syntax, but the concept of recursion is the same for every programming]]></summary>
-        <author>
-            <name>Palistha</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn System Design Principles and Prepare for an Job Interview]]></title>
-        <id>https://www.freecodecamp.org/news/learn-system-design-principles/</id>
-        <link href="https://www.freecodecamp.org/news/learn-system-design-principles/"/>
-        <updated>2024-07-25T14:44:21.000Z</updated>
-        <summary type="html"><![CDATA[Mastering system design is important for anyone who wants to build scalable and reliable applications. System design includes a range of topics from basic computer architecture to complex networking concepts, each playing an important role in creatin...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pop(over) the Balloons]]></title>
-        <id>https://css-tricks.com/?p=379281</id>
-        <link href="https://css-tricks.com/popover-the-balloons/"/>
-        <updated>2024-07-25T13:31:46.000Z</updated>
-        <summary type="html"><![CDATA[I’ve always been fascinated with how much we can do with just HTML and CSS. The new interactive features of the Popover API are yet another example of just how far we can get with those two languages alone.
-You …
-Pop(over) the Balloons originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>John Rhea</name>
         </author>
     </entry>
 </feed>
