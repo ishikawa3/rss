@@ -1034,56 +1034,6 @@
           "wordCount": 3436,
           "title": "How to Add Local Storage to Your Blazor Apps with Blazored.LocalStorage",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/07/pexels-pixabay-236698.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/build-a-crud-app-spring-boot-neon-postgres/",
-          "author": "Abhinav Pandey",
-          "description": "In this article, we'll explore how to develop a CRUD (Create, Read, Update, Delete) application using Spring Boot and Neon Postgres [https://neon.tech/]. We'll also deploy the application on Azure App Service [https://azure.microsoft.com/en-us/products/app-service] and make it production-ready by setting up features like autoscaling and multiple environments. You'll learn how Neon Postgres",
-          "link": "https://www.freecodecamp.org/news/build-a-crud-app-spring-boot-neon-postgres/",
-          "publishedOn": "2024-07-26T19:14:36.000Z",
-          "wordCount": 2484,
-          "title": "How to Develop a CRUD App with Spring Boot, Neon Postgres, and Azure App Service",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/07/neon-banner.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-john-washam-crammed-for-8-months-got-a-job-at-amazon-then-taught-1000s-of-other-devs-134/",
-          "author": "Quincy Larson",
-          "description": "On this week's episode of the podcast, I interview John Washam, a software engineer at Amazon. John's also creator of one of the most popular open source projects of all time, Coding Interview University. This is John's first-ever podcast interview, ...",
-          "link": "https://www.freecodecamp.org/news/how-john-washam-crammed-for-8-months-got-a-job-at-amazon-then-taught-1000s-of-other-devs-134/",
-          "publishedOn": "2024-07-26T14:25:13.000Z",
-          "wordCount": 848,
-          "title": "How to get a FAANG Dev Job in your 40s with Coding Interview University creator John Washam [#134]",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1722003876140/020d65a7-c3d0-4927-8b45-326f9766edaf.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/overcome-impostor-syndrome-as-a-developer/",
-          "author": "Marco Venturi",
-          "description": "Impostor syndrome is a pervasive feeling of self-doubt and inadequacy that makes you believe you are a fraud despite your achievements and skills.  For new developers – and sometimes even seasoned professionals – this phenomenon can be particularly challenging as you navigate a fast-paced and ever-evolving industry.  But",
-          "link": "https://www.freecodecamp.org/news/overcome-impostor-syndrome-as-a-developer/",
-          "publishedOn": "2024-07-26T14:23:36.000Z",
-          "wordCount": 2177,
-          "title": "How to Overcome Impostor Syndrome as a Developer",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/07/man-3483205_1280-1.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/creational-design-patterns-in-java/",
-          "author": "Anjan Baradwaj",
-          "description": "Design Patterns provide you with an idea or a strategy for solving commonly occurring problems. They are proven solutions that follow the best practices and help you make your code flexible, reusable, and maintainable. The design patterns are classified into three categories based on their purpose:  * Creational",
-          "link": "https://www.freecodecamp.org/news/creational-design-patterns-in-java/",
-          "publishedOn": "2024-07-26T13:04:50.000Z",
-          "wordCount": 2874,
-          "title": "What are Creational Design Patterns in Java? Explained With Examples",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/07/Creational.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/generative-models-for-data-augmentation/",
-          "author": "Oyedele Tioluwani Taiwo",
-          "description": "Data is at the heart of model training in the world of deep learning. The quantity and quality of training data determine the effectiveness of machine learning algorithms.  On the other hand, obtaining massive amounts of precisely categorized data is a difficult and resource-intensive operation. This is where data",
-          "link": "https://www.freecodecamp.org/news/generative-models-for-data-augmentation/",
-          "publishedOn": "2024-07-26T12:22:23.000Z",
-          "wordCount": 2117,
-          "title": "How Do Generative Models Work in Deep Learning? Generative Models For Data Augmentation Explained",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/07/glenn-carstens-peters-1F4MukO0UNg-unsplash.jpg"
         }
       ]
     }
