@@ -2,10 +2,45 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-26T00:11:46.379Z</updated>
+    <updated>2024-08-27T00:11:53.482Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Understanding Gutenberg Blocks, Patterns, and Templates]]></title>
+        <id>https://css-tricks.com/?p=380047</id>
+        <link href="https://css-tricks.com/understanding-gutenberg-blocks-patterns-and-templates/"/>
+        <updated>2024-08-26T17:27:16.000Z</updated>
+        <summary type="html"><![CDATA[Developers suffer in the great multitudes whom their sacred block-based websites cannot reach.
+Johannes Gutenberg (probably)
+
+Long time WordPresser, first time Gutenberger here. I’m a fan even though I’m still anchored to a classic/block hybrid setup. I believe Johanes himself …
+Understanding Gutenberg Blocks, Patterns, and Templates originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Quick Hit #13]]></title>
+        <id>https://css-tricks.com/?p=380087</id>
+        <link href="https://css-tricks.com/quick-hit-13/"/>
+        <updated>2024-08-26T15:04:35.000Z</updated>
+        <summary type="html"><![CDATA[Happy birthday, Chris Coyier — and thank you for CSS-Tricks as well as everything you do at CodePen, ShopTalk, Boost, and even your personal blog!…
+Quick Hit #13 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Generating Unique Random Numbers In JavaScript Using Sets]]></title>
+        <id>https://smashingmagazine.com/2024/08/generating-unique-random-numbers-javascript-using-sets/</id>
+        <link href="https://smashingmagazine.com/2024/08/generating-unique-random-numbers-javascript-using-sets/"/>
+        <updated>2024-08-26T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Want to create more randomized effects in your JavaScript code? The `Math.random()` method alone, with its limitations, won’t cut it for generating unique random numbers. Amejimaobari Ollornwi explains how to generate a series of unique random numbers using the `Set` object, how to use these random numbers as indexes for arrays, and explores some practical applications of randomization.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Amejimaobari Ollornwi)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Future-Proof Your Software Engineering Career for the Age of AGI]]></title>
         <id>https://www.freecodecamp.org/news/how-to-future-proof-your-software-engineering-career-for-the-age-of-agi/</id>

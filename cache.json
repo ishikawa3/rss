@@ -12,6 +12,26 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=380047",
+          "author": "Geoff Graham",
+          "description": "Developers suffer in the great multitudes whom their sacred block-based websites cannot reach.\nJohannes Gutenberg (probably)\n\nLong time WordPresser, first time Gutenberger here. I’m a fan even though I’m still anchored to a classic/block hybrid setup. I believe Johanes himself …\nUnderstanding Gutenberg Blocks, Patterns, and Templates originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/understanding-gutenberg-blocks-patterns-and-templates/",
+          "publishedOn": "2024-08-26T17:27:16.000Z",
+          "wordCount": 1755,
+          "title": "Understanding Gutenberg Blocks, Patterns, and Templates",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/380047"
+        },
+        {
+          "id": "https://css-tricks.com/?p=380087",
+          "author": "Geoff Graham",
+          "description": "Happy birthday, Chris Coyier — and thank you for CSS-Tricks as well as everything you do at CodePen, ShopTalk, Boost, and even your personal blog!…\nQuick Hit #13 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/quick-hit-13/",
+          "publishedOn": "2024-08-26T15:04:35.000Z",
+          "wordCount": 1329,
+          "title": "Quick Hit #13",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/380087"
+        },
+        {
           "id": "https://css-tricks.com/?p=380064",
           "author": "Geoff Graham",
           "description": "Giant kudos to Scott Jehl on releasing his new Web Components De-Mystified online course! Eight full hours of training from one of the best in the business.…\nQuick Hit #12 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -313,6 +333,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2024/08/generating-unique-random-numbers-javascript-using-sets/",
+          "author": "hello@smashingmagazine.com (Amejimaobari Ollornwi)",
+          "description": "Want to create more randomized effects in your JavaScript code? The `Math.random()` method alone, with its limitations, won’t cut it for generating unique random numbers. Amejimaobari Ollornwi explains how to generate a series of unique random numbers using the `Set` object, how to use these random numbers as indexes for arrays, and explores some practical applications of randomization.",
+          "link": "https://smashingmagazine.com/2024/08/generating-unique-random-numbers-javascript-using-sets/",
+          "publishedOn": "2024-08-26T15:00:00.000Z",
+          "wordCount": 3851,
+          "title": "Generating Unique Random Numbers In JavaScript Using Sets",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/generating-unique-random-numbers-javascript-using-sets/generating-unique-random-numbers-javascript-using-sets.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/generating-unique-random-numbers-javascript-using-sets/generating-unique-random-numbers-javascript-using-sets.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2024/08/mastering-typography-in-logo-design/",
           "author": "hello@smashingmagazine.com (Levi Honing)",
