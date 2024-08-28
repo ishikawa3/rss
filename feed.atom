@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-27T00:11:53.482Z</updated>
+    <updated>2024-08-28T00:11:42.162Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Build an Accessible Modal – with Example Code]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-build-an-accessible-modal-with-example-code/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-an-accessible-modal-with-example-code/"/>
+        <updated>2024-08-27T15:10:54.000Z</updated>
+        <summary type="html"><![CDATA[We often use modals or popups to display important information or prompt users to take action. Unlike regular pop-ups that can be opened in new windows or tabs, these dialogues keep the user on the same page by overlaying the existing content. This e...]]></summary>
+        <author>
+            <name>Elizabeth Lola</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Create Interactive HTML Prototypes – How Far Can You Go Without JavaScript?]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-create-interactive-html-prototypes/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-create-interactive-html-prototypes/"/>
+        <updated>2024-08-27T10:55:58.000Z</updated>
+        <summary type="html"><![CDATA[Interactivity is what makes a website come alive. Whether it's a button that reveals more content or a form that responds to your input, these little touches keep users engaged. Traditionally, we've relied heavily on JavaScript to make websites inter...]]></summary>
+        <author>
+            <name>Joan Ayebola</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Blend Images in Rust Using Pixel Math]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-blend-images-in-rust-using-pixel-math/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-blend-images-in-rust-using-pixel-math/"/>
+        <updated>2024-08-27T10:25:56.000Z</updated>
+        <summary type="html"><![CDATA[For anyone looking to learn about image processing as a programming niche, blending images is a very good place to start. It's one of the simplest yet most rewarding techniques when it comes to image processing. To help your intuition, it's best to i...]]></summary>
+        <author>
+            <name>Anshul Sanghi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Understanding Gutenberg Blocks, Patterns, and Templates]]></title>
         <id>https://css-tricks.com/?p=380047</id>
