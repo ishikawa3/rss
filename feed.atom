@@ -2,10 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-29T00:11:55.088Z</updated>
+    <updated>2024-08-30T00:11:48.514Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Shipping Tumblr and WordPress]]></title>
+        <id>https://css-tricks.com/?p=380195</id>
+        <link href="https://css-tricks.com/shipping-tumblr-and-wordpress/"/>
+        <updated>2024-08-29T15:05:58.000Z</updated>
+        <summary type="html"><![CDATA[Didya see that Tumblr is getting a WordPress makeover? And it’s not a trivial move:
+This won’t be easy. Tumblr hosts over half a billion blogs. We’re talking about one of the largest technical migrations in internet history. Some 
+…
+Shipping Tumblr and WordPress originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Design-first vs Logic-first Approach – How Should You Start Your Front-end Projects?]]></title>
+        <id>https://www.freecodecamp.org/news/design-first-vs-logic-first-approach/</id>
+        <link href="https://www.freecodecamp.org/news/design-first-vs-logic-first-approach/"/>
+        <updated>2024-08-29T12:41:07.000Z</updated>
+        <summary type="html"><![CDATA[Front-end development is the aspect of web development that involves building user-friendly, dynamic and intuitive interfaces. A front-end developer is primarily concerned about the interface design that the user interacts with and the user’s experie...]]></summary>
+        <author>
+            <name>Timothy Olanrewaju</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build a Shopping Cart Backend with Spring Boot and Spring Security]]></title>
+        <id>https://www.freecodecamp.org/news/build-a-shopping-cart-backend-with-spring-boot-and-spring-security/</id>
+        <link href="https://www.freecodecamp.org/news/build-a-shopping-cart-backend-with-spring-boot-and-spring-security/"/>
+        <updated>2024-08-28T18:28:12.000Z</updated>
+        <summary type="html"><![CDATA[We just posted a course on the freeCodeCamp.org YouTube channel that is designed to help you master Spring Boot and Spring Security by guiding you through the development of a fully functional shopping cart backend application. Samson Alfred created ...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Use GPT to Analyze Large Datasets]]></title>
         <id>https://www.freecodecamp.org/news/how-to-use-gpt-to-analyze-large-datasets/</id>
@@ -1069,48 +1102,6 @@ Where You Can Still Get A Book Apart Titles originally published on CSS-Tricks, 
         <summary type="html"><![CDATA[Authentication is a very important aspect of software development. It is the process of verifying a user’s identity. Authentication ensures that only authorized individuals access specific resources or perform certain actions within a system. It provides accountability by enabling the tracking of user actions and holding individuals responsible for their]]></summary>
         <author>
             <name>Abimbola Adedotun</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn C# for Unity in Spanish]]></title>
-        <id>https://www.freecodecamp.org/news/learn-c-sharp-for-unity-in-spanish/</id>
-        <link href="https://www.freecodecamp.org/news/learn-c-sharp-for-unity-in-spanish/"/>
-        <updated>2024-07-31T12:11:22.000Z</updated>
-        <summary type="html"><![CDATA[Unity is a very popular and powerful game engine that relies on C# as its primary scripting language. Learn how to bring your games to life with Unity and C#. We just published a course on the freeCodeCamp.org Spanish YouTube channel that will guide ...]]></summary>
-        <author>
-            <name>Estefania Cassingena Navone</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sweet Nostalgia In August (2024 Wallpapers Edition)]]></title>
-        <id>https://smashingmagazine.com/2024/07/desktop-wallpaper-calendars-august-2024/</id>
-        <link href="https://smashingmagazine.com/2024/07/desktop-wallpaper-calendars-august-2024/"/>
-        <updated>2024-07-31T09:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Do you need a little inspiration boost? Well, then our new batch of desktop wallpapers might be for you. Designed by the community for the community, they come in versions with and without a calendar for August 2024. Enjoy!]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What's New in macOS? How to Install the Sequoia Beta]]></title>
-        <id>https://www.freecodecamp.org/news/whats-new-in-macos-how-to-install-the-sequoia-beta/</id>
-        <link href="https://www.freecodecamp.org/news/whats-new-in-macos-how-to-install-the-sequoia-beta/"/>
-        <updated>2024-07-30T14:55:13.000Z</updated>
-        <summary type="html"><![CDATA[The macOS Sequoia public beta is now available. Though the final release of macOS Sequoia (macOS 15) won't be available until late September or early October 2024, I'll show you how to install the public beta for an advance look. It's actually stable enough for daily use. The macOS Sequoia]]></summary>
-        <author>
-            <name>Daniel Kehoe</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Smashing Hour With Dave Rupert]]></title>
-        <id>https://css-tricks.com/?p=379381</id>
-        <link href="https://css-tricks.com/smashing-hour-with-dave-rupert/"/>
-        <updated>2024-07-30T14:16:49.000Z</updated>
-        <summary type="html"><![CDATA[Smashing Magazine invited me to sit down for a one-on-one with “Uncle” Dave Rupert to discuss web components, yes, but also check in on Dave’s new Microsoft gig and what the ShopTalk co-host is working on these days.
-I first …
-Smashing Hour With Dave Rupert originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
         </author>
     </entry>
 </feed>

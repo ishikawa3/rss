@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=380195",
+          "author": "Geoff Graham",
+          "description": "Didya see that Tumblr is getting a WordPress makeover? And it’s not a trivial move:\nThis won’t be easy. Tumblr hosts over half a billion blogs. We’re talking about one of the largest technical migrations in internet history. Some \n…\nShipping Tumblr and WordPress originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/shipping-tumblr-and-wordpress/",
+          "publishedOn": "2024-08-29T15:05:58.000Z",
+          "wordCount": 1627,
+          "title": "Shipping Tumblr and WordPress",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/380195"
+        },
+        {
           "id": "https://css-tricks.com/?p=380061",
           "author": "Geoff Graham",
           "description": "I think it’s worth listening to anything Sara Soueidan has to say. That’s especially true if she’s speaking at an event for the first time in four years, which was the case when she took the stage at CSS Day …\nThe “Other” C in CSS originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -335,16 +345,6 @@
           "wordCount": 1866,
           "title": "Where You Can Still Get A Book Apart Titles",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/379392"
-        },
-        {
-          "id": "https://css-tricks.com/?p=379381",
-          "author": "Geoff Graham",
-          "description": "Smashing Magazine invited me to sit down for a one-on-one with “Uncle” Dave Rupert to discuss web components, yes, but also check in on Dave’s new Microsoft gig and what the ShopTalk co-host is working on these days.\nI first …\nSmashing Hour With Dave Rupert originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/smashing-hour-with-dave-rupert/",
-          "publishedOn": "2024-07-30T14:16:49.000Z",
-          "wordCount": 1454,
-          "title": "Smashing Hour With Dave Rupert",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/379381"
         }
       ]
     },
@@ -502,21 +502,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/how-build-multilingual-website-nuxtjs/how-build-multilingual-website-nuxt.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2024/07/desktop-wallpaper-calendars-august-2024/",
-          "author": "hello@smashingmagazine.com (Cosima Mielke)",
-          "description": "Do you need a little inspiration boost? Well, then our new batch of desktop wallpapers might be for you. Designed by the community for the community, they come in versions with and without a calendar for August 2024. Enjoy!",
-          "link": "https://smashingmagazine.com/2024/07/desktop-wallpaper-calendars-august-2024/",
-          "publishedOn": "2024-07-31T09:30:00.000Z",
-          "wordCount": 4796,
-          "title": "Sweet Nostalgia In August (2024 Wallpapers Edition)",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-august-2024/aug-23-summer-day-preview-opt.png",
-            "length": "0",
-            "type": "image/png"
-          },
-          "imageUrl": "http://files.smashing.media/articles/desktop-wallpaper-calendars-august-2024/aug-23-summer-day-preview-opt.png"
         }
       ]
     },
@@ -525,6 +510,26 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/design-first-vs-logic-first-approach/",
+          "author": "Timothy Olanrewaju",
+          "description": "Front-end development is the aspect of web development that involves building user-friendly, dynamic and intuitive interfaces. A front-end developer is primarily concerned about the interface design that the user interacts with and the user’s experie...",
+          "link": "https://www.freecodecamp.org/news/design-first-vs-logic-first-approach/",
+          "publishedOn": "2024-08-29T12:41:07.000Z",
+          "wordCount": 2323,
+          "title": "Design-first vs Logic-first Approach – How Should You Start Your Front-end Projects?",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1724861983210/118e84bc-0153-4b01-b880-e12fe012b7a5.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/build-a-shopping-cart-backend-with-spring-boot-and-spring-security/",
+          "author": "Beau Carnes",
+          "description": "We just posted a course on the freeCodeCamp.org YouTube channel that is designed to help you master Spring Boot and Spring Security by guiding you through the development of a fully functional shopping cart backend application. Samson Alfred created ...",
+          "link": "https://www.freecodecamp.org/news/build-a-shopping-cart-backend-with-spring-boot-and-spring-security/",
+          "publishedOn": "2024-08-28T18:28:12.000Z",
+          "wordCount": 1134,
+          "title": "Build a Shopping Cart Backend with Spring Boot and Spring Security",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1724869670804/390e87e2-487d-410f-84f9-20f636b72439.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/how-to-use-gpt-to-analyze-large-datasets/",
           "author": "David Clinton",
@@ -1114,26 +1119,6 @@
           "wordCount": 2784,
           "title": "How to Add JWT-Based Authentication in NestJS",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/07/nest-auth-coverimage-1.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/learn-c-sharp-for-unity-in-spanish/",
-          "author": "Estefania Cassingena Navone",
-          "description": "Unity is a very popular and powerful game engine that relies on C# as its primary scripting language. Learn how to bring your games to life with Unity and C#. We just published a course on the freeCodeCamp.org Spanish YouTube channel that will guide ...",
-          "link": "https://www.freecodecamp.org/news/learn-c-sharp-for-unity-in-spanish/",
-          "publishedOn": "2024-07-31T12:11:22.000Z",
-          "wordCount": 1070,
-          "title": "Learn C# for Unity in Spanish",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1721941268910/09976618-e1f9-4e50-8815-42b01933d56f.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/whats-new-in-macos-how-to-install-the-sequoia-beta/",
-          "author": "Daniel Kehoe",
-          "description": "The macOS Sequoia public beta is now available. Though the final release of macOS Sequoia (macOS 15) won't be available until late September or early October 2024, I'll show you how to install the public beta for an advance look. It's actually stable enough for daily use. The macOS Sequoia",
-          "link": "https://www.freecodecamp.org/news/whats-new-in-macos-how-to-install-the-sequoia-beta/",
-          "publishedOn": "2024-07-30T14:55:13.000Z",
-          "wordCount": 3094,
-          "title": "What's New in macOS? How to Install the Sequoia Beta",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/07/sequoia-desktop-1058w.jpg"
         }
       ]
     }
