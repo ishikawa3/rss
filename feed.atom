@@ -2,10 +2,64 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-30T00:11:48.514Z</updated>
+    <updated>2024-08-31T00:11:47.479Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CSSWG Minutes Telecon (2024-08-21)]]></title>
+        <id>https://css-tricks.com/?p=380227</id>
+        <link href="https://css-tricks.com/csswg-minutes-telecon-2024-08-21/"/>
+        <updated>2024-08-30T19:06:07.000Z</updated>
+        <summary type="html"><![CDATA[View Transitions are one of the most awesome features CSS has shipped in recent times. Its title is self-explanatory: transitions between views are possible with just CSS, even across pages of the same origin! What’s more interesting is its …
+CSSWG Minutes Telecon (2024-08-21) originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Juan Diego Rodríguez</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Spotify Developer Emma Bostian Talks Coding, Hiring Devs, and European Work Culture]]></title>
+        <id>https://www.freecodecamp.org/news/spotify-developer-emma-bostian-podcast/</id>
+        <link href="https://www.freecodecamp.org/news/spotify-developer-emma-bostian-podcast/"/>
+        <updated>2024-08-30T18:35:17.000Z</updated>
+        <summary type="html"><![CDATA[On this week's episode of the podcast, freeCodeCamp founder Quincy Larson interviews Emma Bostian. She's a software engineer turned manager at Spotify and Prolific coding teacher. We talk about: How at her first developer job at IBM, Emma's boss tol...]]></summary>
+        <author>
+            <name>Quincy Larson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Paragraphs]]></title>
+        <id>https://css-tricks.com/?p=380206</id>
+        <link href="https://css-tricks.com/paragraphs/"/>
+        <updated>2024-08-30T14:23:52.000Z</updated>
+        <summary type="html"><![CDATA[I sure do love little reminders about HTML semantics, particularly semantics that are tougher to commit to memory. Scott has a great one, beginning with this markup:
+<pI am a paragraph.</p<spanI am also a paragraph.</span<div
+…
+Paragraphs originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a RAG Pipeline with LlamaIndex]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-build-a-rag-pipeline-with-llamaindex/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-a-rag-pipeline-with-llamaindex/"/>
+        <updated>2024-08-30T13:30:49.000Z</updated>
+        <summary type="html"><![CDATA[Large Language Models are everywhere these days – think ChatGPT – but they have their fair share of challenges. One of the biggest challenges faced by LLMs is hallucination. This occurs when the model generates text that is factually incorrect or mis...]]></summary>
+        <author>
+            <name>Bhavishya Pandit</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Integrating Image-To-Text And Text-To-Speech Models (Part 2)]]></title>
+        <id>https://smashingmagazine.com/2024/08/integrating-image-to-text-and-text-to-speech-models-part2/</id>
+        <link href="https://smashingmagazine.com/2024/08/integrating-image-to-text-and-text-to-speech-models-part2/"/>
+        <updated>2024-08-30T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In the second part of this series, Joas Pambou aims to build a more advanced version of the previous application that performs conversational analyses on images or videos, much like a chatbot assistant. This means you can ask and learn more about your input content.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Joas Pambou)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Shipping Tumblr and WordPress]]></title>
         <id>https://css-tricks.com/?p=380195</id>
@@ -1070,38 +1124,6 @@ When you wrap some existing markup in a
 HTML Web Components Make Progressive Enhancement and CSS Encapsulation Easier! originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Kev Bonett</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSS Functions and Mixins Module Notes]]></title>
-        <id>https://css-tricks.com/?p=378995</id>
-        <link href="https://css-tricks.com/css-functions-and-mixins-module-notes/"/>
-        <updated>2024-07-31T20:25:35.000Z</updated>
-        <summary type="html"><![CDATA[Most days, I’m writing vanilla CSS. Thanks to CSS variables and nesting, I have fewer reasons to reach for Sass or any other preprocessor. The times I reach for Sass tend to be when I need a @mixin to loop …
-CSS Functions and Mixins Module Notes originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Where You Can Still Get A Book Apart Titles]]></title>
-        <id>https://css-tricks.com/?p=379392</id>
-        <link href="https://css-tricks.com/where-you-can-still-get-a-book-apart-titles/"/>
-        <updated>2024-07-31T14:52:44.000Z</updated>
-        <summary type="html"><![CDATA[It’s been a few months out since A Book Apart closed shop. I’m sad about it, of course. You probably are, too, if you have one of their many brightly-colored paperbacks sitting on a bookshelf strategically placed as a backdrop …
-Where You Can Still Get A Book Apart Titles originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Add JWT-Based Authentication in NestJS]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-add-jwt-based-authentication-in-nest-js/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-add-jwt-based-authentication-in-nest-js/"/>
-        <updated>2024-07-31T14:33:47.000Z</updated>
-        <summary type="html"><![CDATA[Authentication is a very important aspect of software development. It is the process of verifying a user’s identity. Authentication ensures that only authorized individuals access specific resources or perform certain actions within a system. It provides accountability by enabling the tracking of user actions and holding individuals responsible for their]]></summary>
-        <author>
-            <name>Abimbola Adedotun</name>
         </author>
     </entry>
 </feed>
