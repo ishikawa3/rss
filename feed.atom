@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-31T00:11:47.479Z</updated>
+    <updated>2024-09-01T00:14:24.805Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Goodbye Summer, Hello September (2024 Wallpapers Edition)]]></title>
+        <id>https://smashingmagazine.com/2024/08/desktop-wallpaper-calendars-september-2024/</id>
+        <link href="https://smashingmagazine.com/2024/08/desktop-wallpaper-calendars-september-2024/"/>
+        <updated>2024-08-31T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Let’s get ready for September with a fresh collection of desktop wallpapers! Created with love by the community for the community, they come in versions with and without a calendar. Enjoy!]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CSSWG Minutes Telecon (2024-08-21)]]></title>
         <id>https://css-tricks.com/?p=380227</id>
@@ -1071,59 +1081,6 @@ Sometimes, the <a> is referred to as a hyperlink, or simply a link. But it is
         <summary type="html"><![CDATA[In today's data-driven world, it's important to monitor and visualize system metrics to make sure everything works consistently and performs well.  Grafana is an open-source analytics and monitoring platform. It has gained widespread recognition among developers and enterprises looking to extract more insights from the data produced by their]]></summary>
         <author>
             <name>Onwubiko Emmanuel Ebere</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[If I Was Starting My Career Today: Thoughts After 15 Years Spent In UX Design (Part 1)]]></title>
-        <id>https://smashingmagazine.com/2024/08/thoughts-after-15-years-spent-ux-design-part1/</id>
-        <link href="https://smashingmagazine.com/2024/08/thoughts-after-15-years-spent-ux-design-part1/"/>
-        <updated>2024-08-02T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this two-part series, Andrii Zhdan outlines common challenges faced at the start of a design career and offers advice to smooth your journey based on insights from his experience hiring designers. Learn why mastering design tools is crucial, how to build a strong portfolio, and tips for acing your first interviews.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Andrii Zhdan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build an Invoice SaaS App with Next.js, Resend, Clerk and Neon Postgres]]></title>
-        <id>https://www.freecodecamp.org/news/build-an-invoice-saas-app-with-next-js-and-neon-postgres/</id>
-        <link href="https://www.freecodecamp.org/news/build-an-invoice-saas-app-with-next-js-and-neon-postgres/"/>
-        <updated>2024-08-01T20:58:01.000Z</updated>
-        <summary type="html"><![CDATA[In this tutorial, you will learn how to build an invoicing web app that allows users to add their bank information, manage a list of customers, and create and send invoices to customers. You'll also learn how to print and send React components as invoices and email templates directly from]]></summary>
-        <author>
-            <name>Ankur Tyagi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Build A Multilingual Website With Nuxt.js]]></title>
-        <id>https://smashingmagazine.com/2024/08/how-build-multilingual-website-nuxt-i18n/</id>
-        <link href="https://smashingmagazine.com/2024/08/how-build-multilingual-website-nuxt-i18n/"/>
-        <updated>2024-08-01T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Handling translations for multilingual websites is famously difficult and, yet, crucial for many companies and organizations that serve a global audience. Thankfully, modern tooling abstracts away a great deal of the work, allowing for seamless translations that dynamically update the rendered content on a page, as demonstrated in this step-by-step tutorial.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Tim Benniks)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn RAG Fundamentals and Advanced Techniques]]></title>
-        <id>https://www.freecodecamp.org/news/learn-rag-fundamentals-and-advanced-techniques/</id>
-        <link href="https://www.freecodecamp.org/news/learn-rag-fundamentals-and-advanced-techniques/"/>
-        <updated>2024-08-01T14:37:22.000Z</updated>
-        <summary type="html"><![CDATA[Understanding how to enhance the capabilities of AI and machine learning systems is a valuable skill. One method is Retrieval-Augmented Generation (RAG), a powerful technique that combines retrieval-based methods with generative models to create more...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HTML Web Components Make Progressive Enhancement and CSS Encapsulation Easier!]]></title>
-        <id>https://css-tricks.com/?p=379335</id>
-        <link href="https://css-tricks.com/html-web-components-make-progressive-enhancement-and-css-encapsulation-easier/"/>
-        <updated>2024-08-01T13:21:37.000Z</updated>
-        <summary type="html"><![CDATA[I have to thank Jeremy Keith and his wonderfully insightful article from late last year that introduced me to the concept of HTML Web Components. This was the “a-ha!” moment for me:
-When you wrap some existing markup in a 
-…
-HTML Web Components Make Progressive Enhancement and CSS Encapsulation Easier! originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Kev Bonett</name>
         </author>
     </entry>
 </feed>
