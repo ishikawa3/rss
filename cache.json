@@ -330,16 +330,6 @@
           "wordCount": 4017,
           "title": "CSS Olympic Rings",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/379541"
-        },
-        {
-          "id": "https://css-tricks.com/?p=379420",
-          "author": "Geoff Graham",
-          "description": "Heydon on the virtues of hyperlinking hypertext in an anchor element:\nSometimes, the <a> is referred to as a hyperlink, or simply a link. But it is not one of these and people who say it is one are \n…\n(Hyper) Links About (Hyper) Links originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/hyper-links-about-hyper-links/",
-          "publishedOn": "2024-08-02T16:41:54.000Z",
-          "wordCount": 2190,
-          "title": "(Hyper) Links About (Hyper) Links",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/379420"
         }
       ]
     },
@@ -1084,26 +1074,6 @@
           "wordCount": 2567,
           "title": "How to Send and Parse JSON Data in Golang – Data Encoding and Decoding Explained With Examples",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/07/ferenc-almasi-HfFoo4d061A-unsplash.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/where-data-science-meets-sports-analytics-with-ken-jee-podcast-interview-135/",
-          "author": "Quincy Larson",
-          "description": "On this week's episode of the podcast, I interview Ken Jee. Ken's a Data Scientist. He's also a Sports Analytics practitioner who works with US Team Golf and USA Basketball. Ken hosts the excellent Ken's Nearest Neighbors podcast and the Exponential ...",
-          "link": "https://www.freecodecamp.org/news/where-data-science-meets-sports-analytics-with-ken-jee-podcast-interview-135/",
-          "publishedOn": "2024-08-02T14:00:41.000Z",
-          "wordCount": 863,
-          "title": "Where Data Science meets Sports Analytics with Ken Jee [Podcast Interview #135]",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1722162236835/5e458f87-0c04-44a3-a601-007ee03d713f.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-set-up-grafana-on-ec2/",
-          "author": "Onwubiko Emmanuel Ebere",
-          "description": "In today's data-driven world, it's important to monitor and visualize system metrics to make sure everything works consistently and performs well.  Grafana is an open-source analytics and monitoring platform. It has gained widespread recognition among developers and enterprises looking to extract more insights from the data produced by their",
-          "link": "https://www.freecodecamp.org/news/how-to-set-up-grafana-on-ec2/",
-          "publishedOn": "2024-08-02T13:42:27.000Z",
-          "wordCount": 1652,
-          "title": "How to Set Up Grafana on EC2",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/08/pexels-kawserhamid-176342.jpg"
         }
       ]
     }

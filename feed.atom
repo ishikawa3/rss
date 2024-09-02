@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-01T00:14:24.805Z</updated>
+    <updated>2024-09-02T00:12:22.535Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
@@ -1048,39 +1048,6 @@ CSS Olympic Rings originally published on CSS-Tricks, which is part of the Digit
         <summary type="html"><![CDATA[Have you ever wondered what happened after CSS3? It’s common knowledge that we never saw CSS4 come after it, yet we have a plethora of new features that have no similar way of defining when they were introduced. The W3C CSS-Next community group is actively searching for better approaches for how we describe the evolution of CSS over time and identify feature sets as effectively as we did with CSS3 way back in 2009 — and you can help.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Brecht De Ruyte)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(Hyper) Links About (Hyper) Links]]></title>
-        <id>https://css-tricks.com/?p=379420</id>
-        <link href="https://css-tricks.com/hyper-links-about-hyper-links/"/>
-        <updated>2024-08-02T16:41:54.000Z</updated>
-        <summary type="html"><![CDATA[Heydon on the virtues of hyperlinking hypertext in an anchor element:
-Sometimes, the <a> is referred to as a hyperlink, or simply a link. But it is not one of these and people who say it is one are 
-…
-(Hyper) Links About (Hyper) Links originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Where Data Science meets Sports Analytics with Ken Jee [Podcast Interview #135]]]></title>
-        <id>https://www.freecodecamp.org/news/where-data-science-meets-sports-analytics-with-ken-jee-podcast-interview-135/</id>
-        <link href="https://www.freecodecamp.org/news/where-data-science-meets-sports-analytics-with-ken-jee-podcast-interview-135/"/>
-        <updated>2024-08-02T14:00:41.000Z</updated>
-        <summary type="html"><![CDATA[On this week's episode of the podcast, I interview Ken Jee. Ken's a Data Scientist. He's also a Sports Analytics practitioner who works with US Team Golf and USA Basketball. Ken hosts the excellent Ken's Nearest Neighbors podcast and the Exponential ...]]></summary>
-        <author>
-            <name>Quincy Larson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Set Up Grafana on EC2]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-set-up-grafana-on-ec2/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-set-up-grafana-on-ec2/"/>
-        <updated>2024-08-02T13:42:27.000Z</updated>
-        <summary type="html"><![CDATA[In today's data-driven world, it's important to monitor and visualize system metrics to make sure everything works consistently and performs well.  Grafana is an open-source analytics and monitoring platform. It has gained widespread recognition among developers and enterprises looking to extract more insights from the data produced by their]]></summary>
-        <author>
-            <name>Onwubiko Emmanuel Ebere</name>
         </author>
     </entry>
 </feed>
