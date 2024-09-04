@@ -2,10 +2,54 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-03T00:11:44.426Z</updated>
+    <updated>2024-09-04T00:12:02.227Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Quick Hit #14]]></title>
+        <id>https://css-tricks.com/?p=380296</id>
+        <link href="https://css-tricks.com/quick-hit-14/"/>
+        <updated>2024-09-03T19:08:42.000Z</updated>
+        <summary type="html"><![CDATA[Inclusive Design 24 is in 8 short days — and it’s FREE, no sign-up required!…
+Quick Hit #14 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Another Stab at Truncated Text]]></title>
+        <id>https://css-tricks.com/?p=380214</id>
+        <link href="https://css-tricks.com/another-stab-at-truncated-text/"/>
+        <updated>2024-09-03T15:57:29.000Z</updated>
+        <summary type="html"><![CDATA[Seems like we’re always talking about clipping text around here. All it takes is a little browsing to spot a bunch of things we’ve already explored.
+    
+        Article
+
+    on
+    Sep 19, 2012  
+    
+
+      accessibility content truncation    
+    
+
+    
+…
+Another Stab at Truncated Text originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Big Difference Between Digital Product And Web Design]]></title>
+        <id>https://smashingmagazine.com/2024/09/big-difference-between-digital-product-and-web-design/</id>
+        <link href="https://smashingmagazine.com/2024/09/big-difference-between-digital-product-and-web-design/"/>
+        <updated>2024-09-03T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Designing for digital products requires a different mindset than traditional websites. It’s all about continuous adaptation, refining, and iterating as user behavior and needs evolve. Paul Boag reflects on the key differences, including how the frequency of usage impacts your design approach and what you can do about it.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Paul Boag)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Goodbye Summer, Hello September (2024 Wallpapers Edition)]]></title>
         <id>https://smashingmagazine.com/2024/08/desktop-wallpaper-calendars-september-2024/</id>
@@ -1038,16 +1082,6 @@ CSS Olympic Rings originally published on CSS-Tricks, which is part of the Digit
         <summary type="html"><![CDATA[When building web applications in Golang, working with JSON data is inevitable. Whether you're sending responses to clients or parsing requests, JSON encoding and decoding are essential skills to master.  In this article, we'll explore the different ways to encode and decode JSON in Golang. Table of Contents]]></summary>
         <author>
             <name>Destiny Erhabor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[It’s Time To Talk About “CSS5”]]></title>
-        <id>https://smashingmagazine.com/2024/08/time-to-talk-about-css5/</id>
-        <link href="https://smashingmagazine.com/2024/08/time-to-talk-about-css5/"/>
-        <updated>2024-08-05T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Have you ever wondered what happened after CSS3? It’s common knowledge that we never saw CSS4 come after it, yet we have a plethora of new features that have no similar way of defining when they were introduced. The W3C CSS-Next community group is actively searching for better approaches for how we describe the evolution of CSS over time and identify feature sets as effectively as we did with CSS3 way back in 2009 — and you can help.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Brecht De Ruyte)</name>
         </author>
     </entry>
 </feed>

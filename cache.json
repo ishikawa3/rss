@@ -12,6 +12,26 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=380296",
+          "author": "Geoff Graham",
+          "description": "Inclusive Design 24 is in 8 short days — and it’s FREE, no sign-up required!…\nQuick Hit #14 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/quick-hit-14/",
+          "publishedOn": "2024-09-03T19:08:42.000Z",
+          "wordCount": 1310,
+          "title": "Quick Hit #14",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/380296"
+        },
+        {
+          "id": "https://css-tricks.com/?p=380214",
+          "author": "Geoff Graham",
+          "description": "Seems like we’re always talking about clipping text around here. All it takes is a little browsing to spot a bunch of things we’ve already explored.\n    \n        Article\n\n    on\n    Sep 19, 2012  \n    \n\n      accessibility content truncation    \n    \n\n    \n…\nAnother Stab at Truncated Text originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/another-stab-at-truncated-text/",
+          "publishedOn": "2024-09-03T15:57:29.000Z",
+          "wordCount": 2784,
+          "title": "Another Stab at Truncated Text",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/380214"
+        },
+        {
           "id": "https://css-tricks.com/?p=380227",
           "author": "Juan Diego Rodríguez",
           "description": "View Transitions are one of the most awesome features CSS has shipped in recent times. Its title is self-explanatory: transitions between views are possible with just CSS, even across pages of the same origin! What’s more interesting is its …\nCSSWG Minutes Telecon (2024-08-21) originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -339,6 +359,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2024/09/big-difference-between-digital-product-and-web-design/",
+          "author": "hello@smashingmagazine.com (Paul Boag)",
+          "description": "Designing for digital products requires a different mindset than traditional websites. It’s all about continuous adaptation, refining, and iterating as user behavior and needs evolve. Paul Boag reflects on the key differences, including how the frequency of usage impacts your design approach and what you can do about it.",
+          "link": "https://smashingmagazine.com/2024/09/big-difference-between-digital-product-and-web-design/",
+          "publishedOn": "2024-09-03T09:00:00.000Z",
+          "wordCount": 4105,
+          "title": "The Big Difference Between Digital Product And Web Design",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/big-difference-between-digital-product-and-web-design/big-difference-between-digital-product-and-web-design.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/big-difference-between-digital-product-and-web-design/big-difference-between-digital-product-and-web-design.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2024/08/desktop-wallpaper-calendars-september-2024/",
           "author": "hello@smashingmagazine.com (Cosima Mielke)",
           "description": "Let’s get ready for September with a fresh collection of desktop wallpapers! Created with love by the community for the community, they come in versions with and without a calendar. Enjoy!",
@@ -472,21 +507,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/best-pro-scheduler-libraries/best-pro-scheduler-libraries.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2024/08/time-to-talk-about-css5/",
-          "author": "hello@smashingmagazine.com (Brecht De Ruyte)",
-          "description": "Have you ever wondered what happened after CSS3? It’s common knowledge that we never saw CSS4 come after it, yet we have a plethora of new features that have no similar way of defining when they were introduced. The W3C CSS-Next community group is actively searching for better approaches for how we describe the evolution of CSS over time and identify feature sets as effectively as we did with CSS3 way back in 2009 — and you can help.",
-          "link": "https://smashingmagazine.com/2024/08/time-to-talk-about-css5/",
-          "publishedOn": "2024-08-05T10:00:00.000Z",
-          "wordCount": 5078,
-          "title": "It’s Time To Talk About “CSS5”",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/time-to-talk-about-css5/time-to-talk-about-css5.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/time-to-talk-about-css5/time-to-talk-about-css5.jpg"
         }
       ]
     },
