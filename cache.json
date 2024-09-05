@@ -516,6 +516,36 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "https://www.freecodecamp.org/news/what-is-rate-limiting-web-apis/",
+          "author": "Oluwatobi",
+          "description": "Back-end servers are the powerhouse of modern-day applications; hence, a high level of expertise goes into building them. However, it's important to ensure that these back-end servers are well-secured from bad actors (hackers, phishers). These bad el...",
+          "link": "https://www.freecodecamp.org/news/what-is-rate-limiting-web-apis/",
+          "publishedOn": "2024-09-04T16:03:10.000Z",
+          "wordCount": 2335,
+          "title": "What is Rate Limiting? Exploring the Role of Rate Limiting in Protecting Web APIs from Attacks",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1725036062594/0efa7e12-c5d5-410f-ad9c-ec6a67a31f7c.jpeg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/low-code-knowledge-transfer/",
+          "author": "Brandon Wozniewicz",
+          "description": "Low-code models, such as Microsoft's Power Platform, make it simple for anyone to start creating applications. The barriers to entry are relatively low, as users need only a work or school email to get started. Developers can also quickly release new...",
+          "link": "https://www.freecodecamp.org/news/low-code-knowledge-transfer/",
+          "publishedOn": "2024-09-04T15:19:15.000Z",
+          "wordCount": 2503,
+          "title": "How to Build Successful Low-Code Apps: The Power of Knowledge Transfer in Development Teams",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1724883531478/4fa7979a-e61a-4268-94dc-a48dfcf17b4b.jpeg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/skills-you-need-to-become-a-backend-developer-roadmap/",
+          "author": "Programming with Shahan",
+          "description": "In this guide, I'll discuss the basic skills you need and steps you can take to become a backend developer. I'll give you a simple roadmap that'll help you know where you are and where you should go next. Front End vs Back End Every website has two p...",
+          "link": "https://www.freecodecamp.org/news/skills-you-need-to-become-a-backend-developer-roadmap/",
+          "publishedOn": "2024-09-03T14:38:36.000Z",
+          "wordCount": 2197,
+          "title": "Skills You Need to Become a Backend Developer – A Roadmap for Beginners",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1725110852270/9185d74e-4b0f-482f-8cc2-abbfc70a5849.png"
+        },
+        {
           "id": "https://www.freecodecamp.org/news/spotify-developer-emma-bostian-podcast/",
           "author": "Quincy Larson",
           "description": "On this week's episode of the podcast, freeCodeCamp founder Quincy Larson interviews Emma Bostian. She's a software engineer turned manager at Spotify and Prolific coding teacher. We talk about: How at her first developer job at IBM, Emma's boss tol...",
@@ -1074,26 +1104,6 @@
           "wordCount": 2046,
           "title": "How to Index Your Next.js Apps Faster Using IndexNow",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/08/IndexNowSites-1.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-build-an-event-app-with-node-js/",
-          "author": "Ijeoma Igboagu",
-          "description": "Node.js it’s a runtime environment that allows you to run JavaScript code on the server side for building server-side applications. It works well for creating fast and scalable applications.  In this article, I will use a simple event management app as an example to show you how to build",
-          "link": "https://www.freecodecamp.org/news/how-to-build-an-event-app-with-node-js/",
-          "publishedOn": "2024-08-05T17:56:13.000Z",
-          "wordCount": 3294,
-          "title": "How to Build an Application With Node.js",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/08/How-to-Build-an-Application-With-Node.js.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/encoding-and-decoding-data-in-golang/",
-          "author": "Destiny Erhabor",
-          "description": "When building web applications in Golang, working with JSON data is inevitable. Whether you're sending responses to clients or parsing requests, JSON encoding and decoding are essential skills to master.  In this article, we'll explore the different ways to encode and decode JSON in Golang. Table of Contents",
-          "link": "https://www.freecodecamp.org/news/encoding-and-decoding-data-in-golang/",
-          "publishedOn": "2024-08-05T13:00:54.000Z",
-          "wordCount": 2567,
-          "title": "How to Send and Parse JSON Data in Golang – Data Encoding and Decoding Explained With Examples",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/07/ferenc-almasi-HfFoo4d061A-unsplash.jpg"
         }
       ]
     }

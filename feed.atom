@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-04T00:12:02.227Z</updated>
+    <updated>2024-09-05T00:11:53.191Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[What is Rate Limiting? Exploring the Role of Rate Limiting in Protecting Web APIs from Attacks]]></title>
+        <id>https://www.freecodecamp.org/news/what-is-rate-limiting-web-apis/</id>
+        <link href="https://www.freecodecamp.org/news/what-is-rate-limiting-web-apis/"/>
+        <updated>2024-09-04T16:03:10.000Z</updated>
+        <summary type="html"><![CDATA[Back-end servers are the powerhouse of modern-day applications; hence, a high level of expertise goes into building them. However, it's important to ensure that these back-end servers are well-secured from bad actors (hackers, phishers). These bad el...]]></summary>
+        <author>
+            <name>Oluwatobi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build Successful Low-Code Apps: The Power of Knowledge Transfer in Development Teams]]></title>
+        <id>https://www.freecodecamp.org/news/low-code-knowledge-transfer/</id>
+        <link href="https://www.freecodecamp.org/news/low-code-knowledge-transfer/"/>
+        <updated>2024-09-04T15:19:15.000Z</updated>
+        <summary type="html"><![CDATA[Low-code models, such as Microsoft's Power Platform, make it simple for anyone to start creating applications. The barriers to entry are relatively low, as users need only a work or school email to get started. Developers can also quickly release new...]]></summary>
+        <author>
+            <name>Brandon Wozniewicz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Quick Hit #14]]></title>
         <id>https://css-tricks.com/?p=380296</id>
@@ -38,6 +58,16 @@ Quick Hit #14 originally published on CSS-Tricks, which is part of the DigitalOc
 Another Stab at Truncated Text originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Skills You Need to Become a Backend Developer – A Roadmap for Beginners]]></title>
+        <id>https://www.freecodecamp.org/news/skills-you-need-to-become-a-backend-developer-roadmap/</id>
+        <link href="https://www.freecodecamp.org/news/skills-you-need-to-become-a-backend-developer-roadmap/"/>
+        <updated>2024-09-03T14:38:36.000Z</updated>
+        <summary type="html"><![CDATA[In this guide, I'll discuss the basic skills you need and steps you can take to become a backend developer. I'll give you a simple roadmap that'll help you know where you are and where you should go next. Front End vs Back End Every website has two p...]]></summary>
+        <author>
+            <name>Programming with Shahan</name>
         </author>
     </entry>
     <entry>
@@ -1062,26 +1092,6 @@ CSS Olympic Rings originally published on CSS-Tricks, which is part of the Digit
         <summary type="html"><![CDATA[Next.js is a powerful framework for building lightning-fast applications. However, getting these applications indexed quickly by search engines is crucial for visibility and traffic, and sadly, this is not immediate. Even after uploading your sitemap, it can take up to weeks or even months before search engines crawl your pages.]]></summary>
         <author>
             <name>Vivek Sahu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build an Application With Node.js]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-build-an-event-app-with-node-js/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-an-event-app-with-node-js/"/>
-        <updated>2024-08-05T17:56:13.000Z</updated>
-        <summary type="html"><![CDATA[Node.js it’s a runtime environment that allows you to run JavaScript code on the server side for building server-side applications. It works well for creating fast and scalable applications.  In this article, I will use a simple event management app as an example to show you how to build]]></summary>
-        <author>
-            <name>Ijeoma Igboagu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Send and Parse JSON Data in Golang – Data Encoding and Decoding Explained With Examples]]></title>
-        <id>https://www.freecodecamp.org/news/encoding-and-decoding-data-in-golang/</id>
-        <link href="https://www.freecodecamp.org/news/encoding-and-decoding-data-in-golang/"/>
-        <updated>2024-08-05T13:00:54.000Z</updated>
-        <summary type="html"><![CDATA[When building web applications in Golang, working with JSON data is inevitable. Whether you're sending responses to clients or parsing requests, JSON encoding and decoding are essential skills to master.  In this article, we'll explore the different ways to encode and decode JSON in Golang. Table of Contents]]></summary>
-        <author>
-            <name>Destiny Erhabor</name>
         </author>
     </entry>
 </feed>
