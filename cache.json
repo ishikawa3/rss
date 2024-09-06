@@ -12,6 +12,26 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=380340",
+          "author": "Geoff Graham",
+          "description": "“Never, ever hire for JavaScript framework skills. Instead, interview and hire only for fundamentals like web standards, accessibility, modern CSS, semantic HTML, and Web Components.” — Alex Russell…\nQuick Hit #16 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/quick-hit-16/",
+          "publishedOn": "2024-09-05T16:04:28.000Z",
+          "wordCount": 1310,
+          "title": "Quick Hit #16",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/380340"
+        },
+        {
+          "id": "https://css-tricks.com/?p=380298",
+          "author": "Geoff Graham",
+          "description": "Almost missed that the WP Twenty Twenty-Five theme was approved a couple weeks ago.…\nQuick Hit #15 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/quick-hit-15/",
+          "publishedOn": "2024-09-05T16:02:26.000Z",
+          "wordCount": 1275,
+          "title": "Quick Hit #15",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/380298"
+        },
+        {
           "id": "https://css-tricks.com/?p=380296",
           "author": "Geoff Graham",
           "description": "Inclusive Design 24 is in 8 short days — and it’s FREE, no sign-up required!…\nQuick Hit #14 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -359,6 +379,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2024/09/sticky-headers-full-height-elements-tricky-combination/",
+          "author": "hello@smashingmagazine.com (Philip Braunen)",
+          "description": "Sticky positioning is one of those CSS features that’s pretty delicate and can be negated by a lot of things, so here’s another one to add to your mental catalog: Sticky elements don’t play nicely if they have to coordinate with other elements to make up a combined height, like `100vh`. Philip Braunen explores why this happens and presents a solution to fix it.",
+          "link": "https://smashingmagazine.com/2024/09/sticky-headers-full-height-elements-tricky-combination/",
+          "publishedOn": "2024-09-05T09:00:00.000Z",
+          "wordCount": 4335,
+          "title": "Sticky Headers And Full-Height Elements: A Tricky Combination",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/sticky-headers-full-height-elements-tricky-combination/sticky-headers-full-height-elements-tricky-combination.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/sticky-headers-full-height-elements-tricky-combination/sticky-headers-full-height-elements-tricky-combination.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2024/09/big-difference-between-digital-product-and-web-design/",
           "author": "hello@smashingmagazine.com (Paul Boag)",
           "description": "Designing for digital products requires a different mindset than traditional websites. It’s all about continuous adaptation, refining, and iterating as user behavior and needs evolve. Paul Boag reflects on the key differences, including how the frequency of usage impacts your design approach and what you can do about it.",
@@ -515,6 +550,56 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/what-is-cache-poisoning-and-how-to-avoid-it/",
+          "author": "Manish Shivanandhan",
+          "description": "Web caches play an important role in speeding up our browsing experience. They save copies of web pages and other resources so that users can access them faster. But what happens when these caches become a tool for hackers? Let’s look at cache poison...",
+          "link": "https://www.freecodecamp.org/news/what-is-cache-poisoning-and-how-to-avoid-it/",
+          "publishedOn": "2024-09-05T15:00:53.000Z",
+          "wordCount": 1618,
+          "title": "What is Cache Poisoning? How Hackers Manipulate Web Caches and How to Avoid It",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1725456042044/d3744ebe-ad28-42c4-99a2-25d6bd250aee.webp"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-manage-your-open-source-project-with-github/",
+          "author": "Rajdeep Singh",
+          "description": "Managing your repository is one of the most important tasks for every open-source, individual, or proprietary software project. Small open-source project repositories are easily maintained without using additional functionality because few developers...",
+          "link": "https://www.freecodecamp.org/news/how-to-manage-your-open-source-project-with-github/",
+          "publishedOn": "2024-09-05T11:52:11.000Z",
+          "wordCount": 1899,
+          "title": "How to Manage your Open Source Project with GitHub",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1725180872053/0ea74f81-dc72-4f09-976f-4199c2e3893b.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/what-is-speedy-web-compiler/",
+          "author": "Preston Mayieka",
+          "description": "In the evolving landscape of JavaScript development, the need for efficient and powerful tooling has become increasingly important. Developers rely on tools like compilers and bundlers to transform their code, optimize performance, and ensure compati...",
+          "link": "https://www.freecodecamp.org/news/what-is-speedy-web-compiler/",
+          "publishedOn": "2024-09-05T01:07:47.000Z",
+          "wordCount": 1779,
+          "title": "What is Speedy Web Compiler? SWC Explained With Examples",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1725290113209/260f00cb-5bfe-4260-8e45-0c61a1897cae.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/learn-the-mern-stack-by-building-a-store/",
+          "author": "Beau Carnes",
+          "description": "The MERN stack is a popular method to develop full-stack web applications. We just released a new course on the freeCodeCamp.org YouTube channel that will guide you through building dynamic, responsive web applications using the popular MERN stack. T...",
+          "link": "https://www.freecodecamp.org/news/learn-the-mern-stack-by-building-a-store/",
+          "publishedOn": "2024-09-04T21:32:32.000Z",
+          "wordCount": 968,
+          "title": "Learn the MERN Stack by Building a Store",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1725485472834/b95dd94c-7118-4290-91ca-5bb9d0a0db7a.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/master-multimodal-data-analysis-with-llms-and-python/",
+          "author": "Beau Carnes",
+          "description": "Large Language Models (LLMs) can be super helpful for advanced data analysis. We just published a new course on the freeCodeCamp.org YouTube channel that will teach you all about multimodal data analysis using LLMs and Python. This course will teach ...",
+          "link": "https://www.freecodecamp.org/news/master-multimodal-data-analysis-with-llms-and-python/",
+          "publishedOn": "2024-09-04T21:27:23.000Z",
+          "wordCount": 1027,
+          "title": "Master Multimodal Data Analysis with LLMs and Python",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1725485224418/61b7501f-11c6-4ba2-9864-d09d4e4ce37c.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/what-is-rate-limiting-web-apis/",
           "author": "Oluwatobi",
@@ -1064,46 +1149,6 @@
           "wordCount": 2592,
           "title": "What is a Kalman Filter? How to Simplify Noisy Data in Navigation and Finance",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/08/pexels-skitterphoto-63901.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/react-common-mistakes/",
-          "author": "Scott Gary",
-          "description": "React is a highly popular and powerful JavaScript library for user interface development. Its component-based architecture, combined with its declarative nature, is one of the primary reasons it works well for both small and large-scale applications.  But like with any technology, there are pitfalls that you can fall into",
-          "link": "https://www.freecodecamp.org/news/react-common-mistakes/",
-          "publishedOn": "2024-08-06T22:19:05.000Z",
-          "wordCount": 2035,
-          "title": "Common React Mistakes to Avoid",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/08/react-mistakes.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/learn-about-operating-systems-in-depth/",
-          "author": "Beau Carnes",
-          "description": "For many types of software engineers it is important to understand the fundamentals of operating systems. We just published a massive 25-hour course on the freeCodeCamp.org YouTube channel that will help you master the fundamentals of operating syste...",
-          "link": "https://www.freecodecamp.org/news/learn-about-operating-systems-in-depth/",
-          "publishedOn": "2024-08-06T14:29:33.000Z",
-          "wordCount": 955,
-          "title": "Learn About Operating Systems In-Depth",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1722268970680/81992f91-56da-4c4c-b4c0-3d08bd3f6402.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/basic-control-theory-with-python/",
-          "author": "Tiago Monteiro",
-          "description": "$$\\frac{\\partial V}{\\partial t} + \\frac{1}{2}\\sigma^2 S^2 \\frac{\\partial^2 V}{\\partial S^2} = rV - rS \\frac{\\partial V}{\\partial S}$$  Rocket transfer function",
-          "link": "https://www.freecodecamp.org/news/basic-control-theory-with-python/",
-          "publishedOn": "2024-08-06T14:26:44.000Z",
-          "wordCount": 3121,
-          "title": "How to Build a Rocket Control System: Basic Control Theory with Python",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/08/pexels-pixabay-2159.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-index-nextjs-pages-with-indexnow/",
-          "author": "Vivek Sahu",
-          "description": "Next.js is a powerful framework for building lightning-fast applications. However, getting these applications indexed quickly by search engines is crucial for visibility and traffic, and sadly, this is not immediate. Even after uploading your sitemap, it can take up to weeks or even months before search engines crawl your pages.",
-          "link": "https://www.freecodecamp.org/news/how-to-index-nextjs-pages-with-indexnow/",
-          "publishedOn": "2024-08-06T13:38:47.000Z",
-          "wordCount": 2046,
-          "title": "How to Index Your Next.js Apps Faster Using IndexNow",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/08/IndexNowSites-1.png"
         }
       ]
     }

@@ -2,10 +2,92 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-05T00:11:53.191Z</updated>
+    <updated>2024-09-06T00:11:59.601Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Quick Hit #16]]></title>
+        <id>https://css-tricks.com/?p=380340</id>
+        <link href="https://css-tricks.com/quick-hit-16/"/>
+        <updated>2024-09-05T16:04:28.000Z</updated>
+        <summary type="html"><![CDATA[“Never, ever hire for JavaScript framework skills. Instead, interview and hire only for fundamentals like web standards, accessibility, modern CSS, semantic HTML, and Web Components.” — Alex Russell…
+Quick Hit #16 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Quick Hit #15]]></title>
+        <id>https://css-tricks.com/?p=380298</id>
+        <link href="https://css-tricks.com/quick-hit-15/"/>
+        <updated>2024-09-05T16:02:26.000Z</updated>
+        <summary type="html"><![CDATA[Almost missed that the WP Twenty Twenty-Five theme was approved a couple weeks ago.…
+Quick Hit #15 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is Cache Poisoning? How Hackers Manipulate Web Caches and How to Avoid It]]></title>
+        <id>https://www.freecodecamp.org/news/what-is-cache-poisoning-and-how-to-avoid-it/</id>
+        <link href="https://www.freecodecamp.org/news/what-is-cache-poisoning-and-how-to-avoid-it/"/>
+        <updated>2024-09-05T15:00:53.000Z</updated>
+        <summary type="html"><![CDATA[Web caches play an important role in speeding up our browsing experience. They save copies of web pages and other resources so that users can access them faster. But what happens when these caches become a tool for hackers? Let’s look at cache poison...]]></summary>
+        <author>
+            <name>Manish Shivanandhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Manage your Open Source Project with GitHub]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-manage-your-open-source-project-with-github/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-manage-your-open-source-project-with-github/"/>
+        <updated>2024-09-05T11:52:11.000Z</updated>
+        <summary type="html"><![CDATA[Managing your repository is one of the most important tasks for every open-source, individual, or proprietary software project. Small open-source project repositories are easily maintained without using additional functionality because few developers...]]></summary>
+        <author>
+            <name>Rajdeep Singh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sticky Headers And Full-Height Elements: A Tricky Combination]]></title>
+        <id>https://smashingmagazine.com/2024/09/sticky-headers-full-height-elements-tricky-combination/</id>
+        <link href="https://smashingmagazine.com/2024/09/sticky-headers-full-height-elements-tricky-combination/"/>
+        <updated>2024-09-05T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Sticky positioning is one of those CSS features that’s pretty delicate and can be negated by a lot of things, so here’s another one to add to your mental catalog: Sticky elements don’t play nicely if they have to coordinate with other elements to make up a combined height, like `100vh`. Philip Braunen explores why this happens and presents a solution to fix it.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Philip Braunen)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is Speedy Web Compiler? SWC Explained With Examples]]></title>
+        <id>https://www.freecodecamp.org/news/what-is-speedy-web-compiler/</id>
+        <link href="https://www.freecodecamp.org/news/what-is-speedy-web-compiler/"/>
+        <updated>2024-09-05T01:07:47.000Z</updated>
+        <summary type="html"><![CDATA[In the evolving landscape of JavaScript development, the need for efficient and powerful tooling has become increasingly important. Developers rely on tools like compilers and bundlers to transform their code, optimize performance, and ensure compati...]]></summary>
+        <author>
+            <name>Preston Mayieka</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn the MERN Stack by Building a Store]]></title>
+        <id>https://www.freecodecamp.org/news/learn-the-mern-stack-by-building-a-store/</id>
+        <link href="https://www.freecodecamp.org/news/learn-the-mern-stack-by-building-a-store/"/>
+        <updated>2024-09-04T21:32:32.000Z</updated>
+        <summary type="html"><![CDATA[The MERN stack is a popular method to develop full-stack web applications. We just released a new course on the freeCodeCamp.org YouTube channel that will guide you through building dynamic, responsive web applications using the popular MERN stack. T...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Master Multimodal Data Analysis with LLMs and Python]]></title>
+        <id>https://www.freecodecamp.org/news/master-multimodal-data-analysis-with-llms-and-python/</id>
+        <link href="https://www.freecodecamp.org/news/master-multimodal-data-analysis-with-llms-and-python/"/>
+        <updated>2024-09-04T21:27:23.000Z</updated>
+        <summary type="html"><![CDATA[Large Language Models (LLMs) can be super helpful for advanced data analysis. We just published a new course on the freeCodeCamp.org YouTube channel that will teach you all about multimodal data analysis using LLMs and Python. This course will teach ...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What is Rate Limiting? Exploring the Role of Rate Limiting in Protecting Web APIs from Attacks]]></title>
         <id>https://www.freecodecamp.org/news/what-is-rate-limiting-web-apis/</id>
@@ -1052,46 +1134,6 @@ Christian Heilmann: Let’s make a simpler, more accessible web originally publi
 CSS Olympic Rings originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Amit Sheen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Common React Mistakes to Avoid]]></title>
-        <id>https://www.freecodecamp.org/news/react-common-mistakes/</id>
-        <link href="https://www.freecodecamp.org/news/react-common-mistakes/"/>
-        <updated>2024-08-06T22:19:05.000Z</updated>
-        <summary type="html"><![CDATA[React is a highly popular and powerful JavaScript library for user interface development. Its component-based architecture, combined with its declarative nature, is one of the primary reasons it works well for both small and large-scale applications.  But like with any technology, there are pitfalls that you can fall into]]></summary>
-        <author>
-            <name>Scott Gary</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn About Operating Systems In-Depth]]></title>
-        <id>https://www.freecodecamp.org/news/learn-about-operating-systems-in-depth/</id>
-        <link href="https://www.freecodecamp.org/news/learn-about-operating-systems-in-depth/"/>
-        <updated>2024-08-06T14:29:33.000Z</updated>
-        <summary type="html"><![CDATA[For many types of software engineers it is important to understand the fundamentals of operating systems. We just published a massive 25-hour course on the freeCodeCamp.org YouTube channel that will help you master the fundamentals of operating syste...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Rocket Control System: Basic Control Theory with Python]]></title>
-        <id>https://www.freecodecamp.org/news/basic-control-theory-with-python/</id>
-        <link href="https://www.freecodecamp.org/news/basic-control-theory-with-python/"/>
-        <updated>2024-08-06T14:26:44.000Z</updated>
-        <summary type="html"><![CDATA[$$\frac{\partial V}{\partial t} + \frac{1}{2}\sigma^2 S^2 \frac{\partial^2 V}{\partial S^2} = rV - rS \frac{\partial V}{\partial S}$$  Rocket transfer function]]></summary>
-        <author>
-            <name>Tiago Monteiro</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Index Your Next.js Apps Faster Using IndexNow]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-index-nextjs-pages-with-indexnow/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-index-nextjs-pages-with-indexnow/"/>
-        <updated>2024-08-06T13:38:47.000Z</updated>
-        <summary type="html"><![CDATA[Next.js is a powerful framework for building lightning-fast applications. However, getting these applications indexed quickly by search engines is crucial for visibility and traffic, and sadly, this is not immediate. Even after uploading your sitemap, it can take up to weeks or even months before search engines crawl your pages.]]></summary>
-        <author>
-            <name>Vivek Sahu</name>
         </author>
     </entry>
 </feed>
