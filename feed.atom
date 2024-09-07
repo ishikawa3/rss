@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-06T00:11:59.601Z</updated>
+    <updated>2024-09-07T00:11:40.656Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Use HTML Attributes to Make Your Websites and Apps More Accessible]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-use-html-attributes-to-make-your-websites-and-apps-more-accessible/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-html-attributes-to-make-your-websites-and-apps-more-accessible/"/>
+        <updated>2024-09-06T20:04:11.000Z</updated>
+        <summary type="html"><![CDATA[Have you ever used an attribute in HTML without fully understanding its purpose? You're not alone! Over time, I've dug into the meaning behind many HTML attributes, especially those that are crucial for accessibility. In this in-depth tutorial, I'll ...]]></summary>
+        <author>
+            <name>Elizabeth Lola</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What are Lifetimes in Rust? Explained with Code Examples]]></title>
+        <id>https://www.freecodecamp.org/news/what-are-lifetimes-in-rust-explained-with-code-examples/</id>
+        <link href="https://www.freecodecamp.org/news/what-are-lifetimes-in-rust-explained-with-code-examples/"/>
+        <updated>2024-09-06T20:03:57.000Z</updated>
+        <summary type="html"><![CDATA[Lifetimes are fundamental mechanisms in Rust. There's a very high chance you'll need to work with lifetimes in any Rust project that has any sort of complexity. Even though they are important to Rust projects, lifetimes can be quite tricky to wrap yo...]]></summary>
+        <author>
+            <name>Oduah Chigozie</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Create A Weekly Google Analytics Report That Posts To Slack]]></title>
+        <id>https://smashingmagazine.com/2024/09/how-create-weekly-google-analytics-report-posts-slack/</id>
+        <link href="https://smashingmagazine.com/2024/09/how-create-weekly-google-analytics-report-posts-slack/"/>
+        <updated>2024-09-06T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Google Analytics is often on a “need to know” basis, but why not flip the script? Paul Scanlon shares how he wrote a GitHub Action that queries Google Analytics to automatically generate and post a top ten page views report to Slack, making it incredibly easy to track page performance and share insights with your team.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Paul Scanlon)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Surviving 40 years in the software industry [Interview with Jack Herrington Podcast #140]]]></title>
+        <id>https://www.freecodecamp.org/news/surviving-40-years-in-tech-jack-herrington-podcast-140/</id>
+        <link href="https://www.freecodecamp.org/news/surviving-40-years-in-tech-jack-herrington-podcast-140/"/>
+        <updated>2024-09-06T15:38:04.000Z</updated>
+        <summary type="html"><![CDATA[On this week's episode of the podcast, I interview Jack Herrington. As a kid he had to work to overcome Dyslexia and didn't have good enough grades to get into college. Despite this, he's worked as a software engineer for more than 40 years at compan...]]></summary>
+        <author>
+            <name>Quincy Larson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Write Cleaner Code Using Mongoose Schemas]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-write-cleaner-code-using-mongoose-schemas/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-write-cleaner-code-using-mongoose-schemas/"/>
+        <updated>2024-09-06T13:44:56.000Z</updated>
+        <summary type="html"><![CDATA[If you are used to building NodeJS applications using the Mongoose ORM, this article is for you. In it, we'll discuss some cool features of Mongoose schemas that'll help you write more organized and maintainable code. To get the most out of this guid...]]></summary>
+        <author>
+            <name>ِAya Nabil Othman</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Quick Hit #16]]></title>
         <id>https://css-tricks.com/?p=380340</id>
@@ -1093,47 +1143,6 @@ Christian Heilmann: Let’s make a simpler, more accessible web originally publi
         <summary type="html"><![CDATA[Machine learning is an area of AI where the likes of ChatGPT and other famous models were created. These systems were all created with neural networks. The field of machine learning that deals with the creation of these neural networks is called deep learning.  In this blog post, we'll]]></summary>
         <author>
             <name>Tiago Monteiro</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Host Your Project on GitHub – Explained With Examples]]></title>
-        <id>https://www.freecodecamp.org/news/host-your-first-project-on-github/</id>
-        <link href="https://www.freecodecamp.org/news/host-your-first-project-on-github/"/>
-        <updated>2024-08-08T11:37:16.000Z</updated>
-        <summary type="html"><![CDATA[Seven years ago, I began my journey into web development with HTML and CSS. As soon as I got the hang of JavaScript, I built my first website. The excitement was overwhelming, and I wanted to share it with my friends and the world. Like many beginners, I started researching]]></summary>
-        <author>
-            <name>Spruce Emmanuel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Create a PC game using JavaScript]]></title>
-        <id>https://www.freecodecamp.org/news/create-a-pc-game-using-javascript/</id>
-        <link href="https://www.freecodecamp.org/news/create-a-pc-game-using-javascript/"/>
-        <updated>2024-08-07T14:00:45.000Z</updated>
-        <summary type="html"><![CDATA[Did you know you can create PC games using JavaScript? We just published a course on the freeCodeCamp.org YouTube channel that will teach you all about making a Flappy Bird-like game in JavaScript with the KAPLAY library, and how to use Tauri to pack...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is a Kalman Filter? How to Simplify Noisy Data in Navigation and Finance]]></title>
-        <id>https://www.freecodecamp.org/news/what-is-a-kalman-filter-with-python-code-examples/</id>
-        <link href="https://www.freecodecamp.org/news/what-is-a-kalman-filter-with-python-code-examples/"/>
-        <updated>2024-08-07T13:42:54.000Z</updated>
-        <summary type="html"><![CDATA[In a world where precision is key, handling noisy data effectively is crucial for solving complex problems. Whether you're trying to control a rocket or forecast the stock market, the ability to get good data from an uncertain environment is important. This is exactly the problem Kalman filters help solve.]]></summary>
-        <author>
-            <name>Tiago Monteiro</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSS Olympic Rings]]></title>
-        <id>https://css-tricks.com/?p=379541</id>
-        <link href="https://css-tricks.com/css-olympic-rings/"/>
-        <updated>2024-08-07T13:10:56.000Z</updated>
-        <summary type="html"><![CDATA[It was a few years ago during the 2020 Olympics in Tokyo 2020 that I made a demo of animated 3D Olympic rings. I like it, it looks great, and I love the effect of the rings crossing each other.…
-CSS Olympic Rings originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Amit Sheen</name>
         </author>
     </entry>
 </feed>
