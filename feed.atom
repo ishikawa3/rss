@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-07T00:11:40.656Z</updated>
+    <updated>2024-09-08T00:13:20.778Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
@@ -1092,57 +1092,6 @@ It’s Time To Talk About “CSS5” originally published on CSS-Tricks, which i
         <summary type="html"><![CDATA[On this week's episode of the podcast, freeCodeCamp founder Quincy Larson interviews Angie Jones. She's a developer and holder of 27 software patents. She's worked at companies like IBM and Twitter, doing both test engineering and developer advocacy....]]></summary>
         <author>
             <name>Quincy Larson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[If I Was Starting My Career Today: Thoughts After 15 Years Spent In UX Design (Part 2)]]></title>
-        <id>https://smashingmagazine.com/2024/08/thoughts-after-15-years-spent-ux-design-part2/</id>
-        <link href="https://smashingmagazine.com/2024/08/thoughts-after-15-years-spent-ux-design-part2/"/>
-        <updated>2024-08-09T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this two-part series, Andrii Zhdan outlines common challenges faced at the start of a design career and offers advice to smooth your journey based on insights from his experience hiring designers. In Part 2, Andrii speaks about how you can grow faster in your brand-new junior UX job.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Andrii Zhdan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Best Of Pro Scheduler Libraries]]></title>
-        <id>https://smashingmagazine.com/2024/08/best-pro-scheduler-libraries/</id>
-        <link href="https://smashingmagazine.com/2024/08/best-pro-scheduler-libraries/"/>
-        <updated>2024-08-08T20:00:00.000Z</updated>
-        <summary type="html"><![CDATA[For teams working remotely across the globe or together in an office, as well as for any group of collaborating users, a scheduler can be a valuable tool indeed. In this post, you’ll find some of the best commercial web scheduler libraries (JavaScript based) with amazing UX and high efficiency that are currently available.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Preethi Sam)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn TypeScript – A Comprehensive Guide for Beginners]]></title>
-        <id>https://www.freecodecamp.org/news/typescript-for-beginners-guide/</id>
-        <link href="https://www.freecodecamp.org/news/typescript-for-beginners-guide/"/>
-        <updated>2024-08-08T16:45:28.000Z</updated>
-        <summary type="html"><![CDATA[TypeScript has become an industry standard for building large-scale applications, with many organizations choosing it as their primary language for application development. This tutorial will serve as your introductory guide to TypeScript. It's designed to cater to learners at all stages – from beginners to advanced users. It teaches both]]></summary>
-        <author>
-            <name>Isaiah Cliford  Opoku</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Christian Heilmann: Let’s make a simpler, more accessible web]]></title>
-        <id>https://css-tricks.com/?p=379570</id>
-        <link href="https://css-tricks.com/christian-heilmann-lets-make-a-simpler-more-accessible-web/"/>
-        <updated>2024-08-08T15:07:50.000Z</updated>
-        <summary type="html"><![CDATA[Christian Heilmann gave this talk at Typo3 Developer Days. I’m linking it up because it strikes an already stricken nerve in me. The increasing complexity of web development has an inverse relationship with the decreasing number of entry points …
-Christian Heilmann: Let’s make a simpler, more accessible web originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Quantum AI Model for Predicting Iris Flower Data with Python]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-build-an-ai-model-for-predicting-data-with-python/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-an-ai-model-for-predicting-data-with-python/"/>
-        <updated>2024-08-08T13:18:14.000Z</updated>
-        <summary type="html"><![CDATA[Machine learning is an area of AI where the likes of ChatGPT and other famous models were created. These systems were all created with neural networks. The field of machine learning that deals with the creation of these neural networks is called deep learning.  In this blog post, we'll]]></summary>
-        <author>
-            <name>Tiago Monteiro</name>
         </author>
     </entry>
 </feed>

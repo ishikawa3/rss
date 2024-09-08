@@ -350,16 +350,6 @@
           "wordCount": 1570,
           "title": "It’s Time To Talk About “CSS5”",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/379630"
-        },
-        {
-          "id": "https://css-tricks.com/?p=379570",
-          "author": "Geoff Graham",
-          "description": "Christian Heilmann gave this talk at Typo3 Developer Days. I’m linking it up because it strikes an already stricken nerve in me. The increasing complexity of web development has an inverse relationship with the decreasing number of entry points …\nChristian Heilmann: Let’s make a simpler, more accessible web originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/christian-heilmann-lets-make-a-simpler-more-accessible-web/",
-          "publishedOn": "2024-08-08T15:07:50.000Z",
-          "wordCount": 1856,
-          "title": "Christian Heilmann: Let’s make a simpler, more accessible web",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/379570"
         }
       ]
     },
@@ -517,36 +507,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/how-defend-your-design-process/how-defend-your-design-process.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2024/08/thoughts-after-15-years-spent-ux-design-part2/",
-          "author": "hello@smashingmagazine.com (Andrii Zhdan)",
-          "description": "In this two-part series, Andrii Zhdan outlines common challenges faced at the start of a design career and offers advice to smooth your journey based on insights from his experience hiring designers. In Part 2, Andrii speaks about how you can grow faster in your brand-new junior UX job.",
-          "link": "https://smashingmagazine.com/2024/08/thoughts-after-15-years-spent-ux-design-part2/",
-          "publishedOn": "2024-08-09T11:00:00.000Z",
-          "wordCount": 6164,
-          "title": "If I Was Starting My Career Today: Thoughts After 15 Years Spent In UX Design (Part 2)",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/thoughts-after-15-years-spent-ux-design-part1/thoughts-after-15-years-spent-ux-design.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/thoughts-after-15-years-spent-ux-design-part1/thoughts-after-15-years-spent-ux-design.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2024/08/best-pro-scheduler-libraries/",
-          "author": "hello@smashingmagazine.com (Preethi Sam)",
-          "description": "For teams working remotely across the globe or together in an office, as well as for any group of collaborating users, a scheduler can be a valuable tool indeed. In this post, you’ll find some of the best commercial web scheduler libraries (JavaScript based) with amazing UX and high efficiency that are currently available.",
-          "link": "https://smashingmagazine.com/2024/08/best-pro-scheduler-libraries/",
-          "publishedOn": "2024-08-08T20:00:00.000Z",
-          "wordCount": 3689,
-          "title": "The Best Of Pro Scheduler Libraries",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/best-pro-scheduler-libraries/best-pro-scheduler-libraries.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/best-pro-scheduler-libraries/best-pro-scheduler-libraries.jpg"
         }
       ]
     },
@@ -1144,26 +1104,6 @@
           "wordCount": 786,
           "title": "Developer and inventor with 27 software patents [Angie Jones Interview #136]",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1722162433549/93f4c74b-70dc-463f-8703-242cfa47f29b.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/typescript-for-beginners-guide/",
-          "author": "Isaiah Cliford  Opoku",
-          "description": "TypeScript has become an industry standard for building large-scale applications, with many organizations choosing it as their primary language for application development. This tutorial will serve as your introductory guide to TypeScript. It's designed to cater to learners at all stages – from beginners to advanced users. It teaches both",
-          "link": "https://www.freecodecamp.org/news/typescript-for-beginners-guide/",
-          "publishedOn": "2024-08-08T16:45:28.000Z",
-          "wordCount": 5451,
-          "title": "Learn TypeScript – A Comprehensive Guide for Beginners",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/08/Attractive.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-build-an-ai-model-for-predicting-data-with-python/",
-          "author": "Tiago Monteiro",
-          "description": "Machine learning is an area of AI where the likes of ChatGPT and other famous models were created. These systems were all created with neural networks. The field of machine learning that deals with the creation of these neural networks is called deep learning.  In this blog post, we'll",
-          "link": "https://www.freecodecamp.org/news/how-to-build-an-ai-model-for-predicting-data-with-python/",
-          "publishedOn": "2024-08-08T13:18:14.000Z",
-          "wordCount": 2222,
-          "title": "How to Build a Quantum AI Model for Predicting Iris Flower Data with Python",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/08/pexels-guvo-20731157.jpg"
         }
       ]
     }
