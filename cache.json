@@ -330,26 +330,6 @@
           "wordCount": 1579,
           "title": "HTML Attribute to Allow/Disallow Handwriting Input",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/379644"
-        },
-        {
-          "id": "https://css-tricks.com/?p=379385",
-          "author": "Geoff Graham",
-          "description": "Remember these? Chris would write a post now and then to chronicle things happening around the ol’ CSS-Tricks site. It’s only been 969 days since the last one, give or take. Just think: back then we were poking at …\nCSS Chronicles XLII originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/css-chronicles-xlii/",
-          "publishedOn": "2024-08-09T15:27:49.000Z",
-          "wordCount": 3113,
-          "title": "CSS Chronicles XLII",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/379385"
-        },
-        {
-          "id": "https://css-tricks.com/?p=379630",
-          "author": "Geoff Graham",
-          "description": "Ever search for CSS info and run into some article — perhaps even one or a dozen on this site — that looks promising until you realize it was published when dinosaurs roamed the planet? The information is good, but …\nIt’s Time To Talk About “CSS5” originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/its-time-to-talk-about-css5/",
-          "publishedOn": "2024-08-09T15:11:41.000Z",
-          "wordCount": 1570,
-          "title": "It’s Time To Talk About “CSS5”",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/379630"
         }
       ]
     },
@@ -1084,26 +1064,6 @@
           "wordCount": 1852,
           "title": "Relative Vs Dynamic Routing in React – Different Routing Methods with Examples",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1723295443613/2cf6a928-b2b1-4f71-a6ba-a307b6c13dc9.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-java-hashmaps-work-internal-mechanics-explained/",
-          "author": "Anjan Baradwaj",
-          "description": "A HashMap is one of the most commonly used data structures in Java, and it's known for its efficiency. Data in a HashMap is stored in the form of key-value pairs. In this article, I will introduce you to HashMaps in Java. We will explore the common o...",
-          "link": "https://www.freecodecamp.org/news/how-java-hashmaps-work-internal-mechanics-explained/",
-          "publishedOn": "2024-08-09T20:10:23.000Z",
-          "wordCount": 1950,
-          "title": "How Java HashMaps Work – Internal Mechanics Explained",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/Or_Fa550XaQ/upload/f4d40f1c8e94855d53776a3bb6179673.jpeg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/developer-and-inventor-with-27-software-patents-angie-jones-interview-134/",
-          "author": "Quincy Larson",
-          "description": "On this week's episode of the podcast, freeCodeCamp founder Quincy Larson interviews Angie Jones. She's a developer and holder of 27 software patents. She's worked at companies like IBM and Twitter, doing both test engineering and developer advocacy....",
-          "link": "https://www.freecodecamp.org/news/developer-and-inventor-with-27-software-patents-angie-jones-interview-134/",
-          "publishedOn": "2024-08-09T14:00:32.000Z",
-          "wordCount": 786,
-          "title": "Developer and inventor with 27 software patents [Angie Jones Interview #136]",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1722162433549/93f4c74b-70dc-463f-8703-242cfa47f29b.png"
         }
       ]
     }
