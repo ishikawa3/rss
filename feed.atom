@@ -2,10 +2,61 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-11T00:12:11.320Z</updated>
+    <updated>2024-09-12T00:12:14.322Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Learn Music Production for Beginners]]></title>
+        <id>https://www.freecodecamp.org/news/learn-music-production-for-beginners/</id>
+        <link href="https://www.freecodecamp.org/news/learn-music-production-for-beginners/"/>
+        <updated>2024-09-11T20:08:18.000Z</updated>
+        <summary type="html"><![CDATA[Are you interested in exploring the world of music production but don't know where to start? We just posted comprehensive course designed for beginners that will guide you through the process of creating music tracks in various styles using FL Studio...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build an Expense Tracker with HTML, CSS, and JavaScript]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-build-an-expense-tracker-with-html-css-and-javascript/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-an-expense-tracker-with-html-css-and-javascript/"/>
+        <updated>2024-09-11T17:25:59.000Z</updated>
+        <summary type="html"><![CDATA[Building projects is a great way to practice and improve your web development skills. And that's what we'll do in this in-depth tutorial: build a practical project using HTML, CSS, and JavaScript. If you often find yourself wondering where all your m...]]></summary>
+        <author>
+            <name>Joan Ayebola</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[API Testing with Postman: A Step-by-Step Guide Using the Spotify API]]></title>
+        <id>https://www.freecodecamp.org/news/api-testing-with-postman-a-step-by-step-guide-using-the-spotify-api/</id>
+        <link href="https://www.freecodecamp.org/news/api-testing-with-postman-a-step-by-step-guide-using-the-spotify-api/"/>
+        <updated>2024-09-11T17:23:24.000Z</updated>
+        <summary type="html"><![CDATA[🎯 The Objective In this guide, I’ll introduce you to Postman, a popular API development and testing tool. If you are a beginner mainly focused on frontend development, you may not have had much experience fetching data from an API. And in that case ...]]></summary>
+        <author>
+            <name>Matthes B.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Event Handling Works in Vue 3: A Guide for Developers]]></title>
+        <id>https://www.freecodecamp.org/news/how-event-handling-works-in-vue-3-guide-for-devs/</id>
+        <link href="https://www.freecodecamp.org/news/how-event-handling-works-in-vue-3-guide-for-devs/"/>
+        <updated>2024-09-11T17:21:14.000Z</updated>
+        <summary type="html"><![CDATA[Event handling in Vue 3 allows developers to respond to user interactions like clicks, key presses, form submissions, and more. Vue provides simple and flexible ways to manage these interactions, enabling you to build dynamic and engaging application...]]></summary>
+        <author>
+            <name>Asfak Ahmed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Two Ways to Create Custom Translated Messaging for HTML Forms]]></title>
+        <id>https://css-tricks.com/?p=380325</id>
+        <link href="https://css-tricks.com/two-ways-to-create-custom-translated-messaging-for-html-forms/"/>
+        <updated>2024-09-11T14:42:20.000Z</updated>
+        <summary type="html"><![CDATA[HTML forms come with built-in ways to validate form inputs and other controls against predefined rules such as making an input required, setting min and max constraints on range sliders, or establishing a pattern on an email input to check …
+Two Ways to Create Custom Translated Messaging for HTML Forms originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Fatuma Abdullaho</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pass the Azure AI Engineer Associate Certification (AI-102)]]></title>
         <id>https://www.freecodecamp.org/news/pass-the-azure-ai-engineer-associate-certification-ai-102/</id>
@@ -1132,91 +1183,6 @@ I wouldn’t adopt Alvaro’s suggestion without further ado, as I would waste s
 font-size Limbo originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Simplify AWS Multi-Account Management with Terraform and GitOps]]></title>
-        <id>https://www.freecodecamp.org/news/simplify-aws-multi-account-management/</id>
-        <link href="https://www.freecodecamp.org/news/simplify-aws-multi-account-management/"/>
-        <updated>2024-08-13T08:16:05.000Z</updated>
-        <summary type="html"><![CDATA[In the past, in the bustling world of cloud computing, a company's journey often began with a single AWS account. In this unified space, development and testing environments coexisted, while the production environment resided in a separate account. T...]]></summary>
-        <author>
-            <name>Nitheesh Poojary</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Get Your MongoDB URL to Connect to Your Node.js Application – A Step-by-Step Guide]]></title>
-        <id>https://www.freecodecamp.org/news/get-mongodb-url-to-connect-to-a-nodejs-application/</id>
-        <link href="https://www.freecodecamp.org/news/get-mongodb-url-to-connect-to-a-nodejs-application/"/>
-        <updated>2024-08-12T21:21:39.000Z</updated>
-        <summary type="html"><![CDATA[In my previous article about building a Node.js application, I didn’t fully explain how to obtain the MongoDB URL, as I wanted to keep the article concise. However, I realized that this information is essential for saving data to MongoDB. In this art...]]></summary>
-        <author>
-            <name>Ijeoma Igboagu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mental Health in Tech Podcast Interview]]></title>
-        <id>https://css-tricks.com/?p=379717</id>
-        <link href="https://css-tricks.com/mental-health-in-tech-podcast-interview/"/>
-        <updated>2024-08-12T17:11:24.000Z</updated>
-        <summary type="html"><![CDATA[Mental health is always tough to talk about, especially in an industry that, to me, often rewards ego over vulnerability. I still find it tough even after having written about my own chronic depression and exploring UX case studies about …
-Mental Health in Tech Podcast Interview originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Quick Hit #9]]></title>
-        <id>https://css-tricks.com/?p=379747</id>
-        <link href="https://css-tricks.com/quick-hit-9/"/>
-        <updated>2024-08-12T16:19:42.000Z</updated>
-        <summary type="html"><![CDATA[Heydon with a reminder that <address isn’t for, you know, mailing addresses.…
-Quick Hit #9 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Match Parentheses in JavaScript without Using Regex]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-match-parentheses-in-javascript-without-using-regex/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-match-parentheses-in-javascript-without-using-regex/"/>
-        <updated>2024-08-12T15:23:47.000Z</updated>
-        <summary type="html"><![CDATA[While writing my Lisp interpreter (for the Scheme dialect, to be precise), I decided to include support for square brackets. I did this because some of the Scheme books use them interchangeably with parentheses. But I didn't want to make the parser t...]]></summary>
-        <author>
-            <name>Jakub T. Jankiewicz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ultimate AWS Certified Developer Associate (DVA-C02) Course from Andrew Brown]]></title>
-        <id>https://www.freecodecamp.org/news/ultimate-aws-certified-developer-associate-dva-c02-course-from-andrew-brown/</id>
-        <link href="https://www.freecodecamp.org/news/ultimate-aws-certified-developer-associate-dva-c02-course-from-andrew-brown/"/>
-        <updated>2024-08-12T14:33:22.000Z</updated>
-        <summary type="html"><![CDATA[Are you ready to elevate your AWS skills and become a certified AWS Developer Associate? Look no further! The comprehensive AWS Certified Developer Associate (DVA-C02) course by Andrew Brown is now available for free on the freeCodeCamp.org YouTube c...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HTML Attribute to Allow/Disallow Handwriting Input]]></title>
-        <id>https://css-tricks.com/?p=379644</id>
-        <link href="https://css-tricks.com/html-attribute-to-allow-disallow-handwriting-input/"/>
-        <updated>2024-08-12T14:00:47.000Z</updated>
-        <summary type="html"><![CDATA[A new explainer for a new HTML attribute to handle handwritten inputs. Like this:
-<input type="text" handwriting="true" ... <input type="text" handwriting="false" ... <textarea handwriting="" ... <!-- evaluates to "true" --<div contenteditable handwriting="true"...</div<!-- maybe? --
-The primary use …
-HTML Attribute to Allow/Disallow Handwriting Input originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Relative Vs Dynamic Routing in React – Different Routing Methods with Examples]]></title>
-        <id>https://www.freecodecamp.org/news/relative-vs-dynamic-routing-in-react/</id>
-        <link href="https://www.freecodecamp.org/news/relative-vs-dynamic-routing-in-react/"/>
-        <updated>2024-08-12T13:57:55.000Z</updated>
-        <summary type="html"><![CDATA[Single-Page Applications (SPAs) have been growing in popularity as people become accustomed to better user experiences and improved application responsiveness. This is in part thanks to the introduction of Client-Side Routing (CSR). CSR enables navig...]]></summary>
-        <author>
-            <name>Timothy Olanrewaju</name>
         </author>
     </entry>
 </feed>

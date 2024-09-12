@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=380325",
+          "author": "Fatuma Abdullaho",
+          "description": "HTML forms come with built-in ways to validate form inputs and other controls against predefined rules such as making an input required, setting min and max constraints on range sliders, or establishing a pattern on an email input to check …\nTwo Ways to Create Custom Translated Messaging for HTML Forms originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/two-ways-to-create-custom-translated-messaging-for-html-forms/",
+          "publishedOn": "2024-09-11T14:42:20.000Z",
+          "wordCount": 2441,
+          "title": "Two Ways to Create Custom Translated Messaging for HTML Forms",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/380325"
+        },
+        {
           "id": "https://css-tricks.com/?p=380660",
           "author": "Geoff Graham",
           "description": "PSA: Today’s the day that Google’s performance tools officially stops supporting the First Input Delay (FID) metric that was replaced by Interaction to Next Paint (INP).…\nQuick Hit #18 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -360,36 +370,6 @@
           "wordCount": 2283,
           "title": "font-size Limbo",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/379750"
-        },
-        {
-          "id": "https://css-tricks.com/?p=379717",
-          "author": "Geoff Graham",
-          "description": "Mental health is always tough to talk about, especially in an industry that, to me, often rewards ego over vulnerability. I still find it tough even after having written about my own chronic depression and exploring UX case studies about …\nMental Health in Tech Podcast Interview originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/mental-health-in-tech-podcast-interview/",
-          "publishedOn": "2024-08-12T17:11:24.000Z",
-          "wordCount": 1499,
-          "title": "Mental Health in Tech Podcast Interview",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/379717"
-        },
-        {
-          "id": "https://css-tricks.com/?p=379747",
-          "author": "Geoff Graham",
-          "description": "Heydon with a reminder that <address isn’t for, you know, mailing addresses.…\nQuick Hit #9 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/quick-hit-9/",
-          "publishedOn": "2024-08-12T16:19:42.000Z",
-          "wordCount": 1303,
-          "title": "Quick Hit #9",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/379747"
-        },
-        {
-          "id": "https://css-tricks.com/?p=379644",
-          "author": "Geoff Graham",
-          "description": "A new explainer for a new HTML attribute to handle handwritten inputs. Like this:\n<input type=\"text\" handwriting=\"true\" ... <input type=\"text\" handwriting=\"false\" ... <textarea handwriting=\"\" ... <!-- evaluates to \"true\" --<div contenteditable handwriting=\"true\"...</div<!-- maybe? --\nThe primary use …\nHTML Attribute to Allow/Disallow Handwriting Input originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/html-attribute-to-allow-disallow-handwriting-input/",
-          "publishedOn": "2024-08-12T14:00:47.000Z",
-          "wordCount": 1579,
-          "title": "HTML Attribute to Allow/Disallow Handwriting Input",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/379644"
         }
       ]
     },
@@ -570,6 +550,46 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/learn-music-production-for-beginners/",
+          "author": "Beau Carnes",
+          "description": "Are you interested in exploring the world of music production but don't know where to start? We just posted comprehensive course designed for beginners that will guide you through the process of creating music tracks in various styles using FL Studio...",
+          "link": "https://www.freecodecamp.org/news/learn-music-production-for-beginners/",
+          "publishedOn": "2024-09-11T20:08:18.000Z",
+          "wordCount": 1215,
+          "title": "Learn Music Production for Beginners",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1726085276839/735597b4-50a4-4792-be6a-7bca34a732f9.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-build-an-expense-tracker-with-html-css-and-javascript/",
+          "author": "Joan Ayebola",
+          "description": "Building projects is a great way to practice and improve your web development skills. And that's what we'll do in this in-depth tutorial: build a practical project using HTML, CSS, and JavaScript. If you often find yourself wondering where all your m...",
+          "link": "https://www.freecodecamp.org/news/how-to-build-an-expense-tracker-with-html-css-and-javascript/",
+          "publishedOn": "2024-09-11T17:25:59.000Z",
+          "wordCount": 5439,
+          "title": "How to Build an Expense Tracker with HTML, CSS, and JavaScript",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1726055511234/dcaa759f-58f9-477d-92da-c8b98b71d310.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/api-testing-with-postman-a-step-by-step-guide-using-the-spotify-api/",
+          "author": "Matthes B.",
+          "description": "🎯 The Objective In this guide, I’ll introduce you to Postman, a popular API development and testing tool. If you are a beginner mainly focused on frontend development, you may not have had much experience fetching data from an API. And in that case ...",
+          "link": "https://www.freecodecamp.org/news/api-testing-with-postman-a-step-by-step-guide-using-the-spotify-api/",
+          "publishedOn": "2024-09-11T17:23:24.000Z",
+          "wordCount": 4279,
+          "title": "API Testing with Postman: A Step-by-Step Guide Using the Spotify API",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/uv5_bsypFUM/upload/ef5e3375e4ea08db6b5addd47afbc82f.jpeg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-event-handling-works-in-vue-3-guide-for-devs/",
+          "author": "Asfak Ahmed",
+          "description": "Event handling in Vue 3 allows developers to respond to user interactions like clicks, key presses, form submissions, and more. Vue provides simple and flexible ways to manage these interactions, enabling you to build dynamic and engaging application...",
+          "link": "https://www.freecodecamp.org/news/how-event-handling-works-in-vue-3-guide-for-devs/",
+          "publishedOn": "2024-09-11T17:21:14.000Z",
+          "wordCount": 1949,
+          "title": "How Event Handling Works in Vue 3: A Guide for Developers",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1725980520061/87728aa1-f3c5-451d-9f11-5163f527d029.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/pass-the-azure-ai-engineer-associate-certification-ai-102/",
           "author": "Beau Carnes",
@@ -1179,56 +1199,6 @@
           "wordCount": 4952,
           "title": "What is a Component Library? When to Build Your Own and When to Use Someone Else's",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1723543483889/400c638b-4a6f-430a-92c3-4d8a7b750464.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/simplify-aws-multi-account-management/",
-          "author": "Nitheesh Poojary",
-          "description": "In the past, in the bustling world of cloud computing, a company's journey often began with a single AWS account. In this unified space, development and testing environments coexisted, while the production environment resided in a separate account. T...",
-          "link": "https://www.freecodecamp.org/news/simplify-aws-multi-account-management/",
-          "publishedOn": "2024-08-13T08:16:05.000Z",
-          "wordCount": 3461,
-          "title": "How to Simplify AWS Multi-Account Management with Terraform and GitOps",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1723319622530/a9905b60-958a-4953-a960-5c2cdf5268ec.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/get-mongodb-url-to-connect-to-a-nodejs-application/",
-          "author": "Ijeoma Igboagu",
-          "description": "In my previous article about building a Node.js application, I didn’t fully explain how to obtain the MongoDB URL, as I wanted to keep the article concise. However, I realized that this information is essential for saving data to MongoDB. In this art...",
-          "link": "https://www.freecodecamp.org/news/get-mongodb-url-to-connect-to-a-nodejs-application/",
-          "publishedOn": "2024-08-12T21:21:39.000Z",
-          "wordCount": 1315,
-          "title": "How to Get Your MongoDB URL to Connect to Your Node.js Application – A Step-by-Step Guide",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1723497228942/b766b557-8230-4bef-8392-d3f4f020c1f4.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-match-parentheses-in-javascript-without-using-regex/",
-          "author": "Jakub T. Jankiewicz",
-          "description": "While writing my Lisp interpreter (for the Scheme dialect, to be precise), I decided to include support for square brackets. I did this because some of the Scheme books use them interchangeably with parentheses. But I didn't want to make the parser t...",
-          "link": "https://www.freecodecamp.org/news/how-to-match-parentheses-in-javascript-without-using-regex/",
-          "publishedOn": "2024-08-12T15:23:47.000Z",
-          "wordCount": 2124,
-          "title": "How to Match Parentheses in JavaScript without Using Regex",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1723400046627/d6cdb4d5-9c6e-4ce0-92a4-1438e5c998e3.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/ultimate-aws-certified-developer-associate-dva-c02-course-from-andrew-brown/",
-          "author": "Beau Carnes",
-          "description": "Are you ready to elevate your AWS skills and become a certified AWS Developer Associate? Look no further! The comprehensive AWS Certified Developer Associate (DVA-C02) course by Andrew Brown is now available for free on the freeCodeCamp.org YouTube c...",
-          "link": "https://www.freecodecamp.org/news/ultimate-aws-certified-developer-associate-dva-c02-course-from-andrew-brown/",
-          "publishedOn": "2024-08-12T14:33:22.000Z",
-          "wordCount": 909,
-          "title": "Ultimate AWS Certified Developer Associate (DVA-C02) Course from Andrew Brown",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1723473171618/f4faf6dd-6f7e-4b42-bfac-6c6868f35aac.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/relative-vs-dynamic-routing-in-react/",
-          "author": "Timothy Olanrewaju",
-          "description": "Single-Page Applications (SPAs) have been growing in popularity as people become accustomed to better user experiences and improved application responsiveness. This is in part thanks to the introduction of Client-Side Routing (CSR). CSR enables navig...",
-          "link": "https://www.freecodecamp.org/news/relative-vs-dynamic-routing-in-react/",
-          "publishedOn": "2024-08-12T13:57:55.000Z",
-          "wordCount": 1852,
-          "title": "Relative Vs Dynamic Routing in React – Different Routing Methods with Examples",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1723295443613/2cf6a928-b2b1-4f71-a6ba-a307b6c13dc9.png"
         }
       ]
     }
