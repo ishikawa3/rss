@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=380692",
+          "author": "Geoff Graham",
+          "description": "I collect a bunch of links in a bookmarks folder. These are things I fully intend to read, and I do — eventually. It’s a good thing bookmarks are digital, otherwise, I’d need a bigger coffee table to separate them …\nWhat’s Old is New originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/whats-old-is-new-2/",
+          "publishedOn": "2024-09-12T14:05:12.000Z",
+          "wordCount": 3003,
+          "title": "What’s Old is New",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/380692"
+        },
+        {
           "id": "https://css-tricks.com/?p=380325",
           "author": "Fatuma Abdullaho",
           "description": "HTML forms come with built-in ways to validate form inputs and other controls against predefined rules such as making an input required, setting min and max constraints on range sliders, or establishing a pattern on an email input to check …\nTwo Ways to Create Custom Translated Messaging for HTML Forms originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -350,26 +360,6 @@
           "wordCount": 2927,
           "title": "“Smart” Layouts With Container Queries",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/379649"
-        },
-        {
-          "id": "https://css-tricks.com/?p=379846",
-          "author": "Geoff Graham",
-          "description": "“This isn’t a website. Or even a blog. It’s a conversation.”\nThat’s the idea! Jay Hoffman and I’ve been chatting a long time now, back since he began writing a series on web history. It’s easy-going talking with someone …\nDialogues Blog originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/dialogues-blog/",
-          "publishedOn": "2024-08-14T10:34:00.000Z",
-          "wordCount": 1568,
-          "title": "Dialogues Blog",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/379846"
-        },
-        {
-          "id": "https://css-tricks.com/?p=379750",
-          "author": "Geoff Graham",
-          "description": "You might recall that Alvaro suggests bumping up font-size to 1.25rem from the default user agent size of 16px. Sebastian Laube pokes at that:\nI wouldn’t adopt Alvaro’s suggestion without further ado, as I would waste so much space \n…\nfont-size Limbo originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/font-size-limbo/",
-          "publishedOn": "2024-08-13T13:15:58.000Z",
-          "wordCount": 2283,
-          "title": "font-size Limbo",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/379750"
         }
       ]
     },
@@ -378,6 +368,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2024/09/how-build-custom-data-visualizations-luzmo-flex/",
+          "author": "hello@smashingmagazine.com (Paul Scanlon)",
+          "description": "Bringing data to life in your application can be done without the usual headaches. Paul Scanlon shows you how you can build beautiful data visualizations using the Google Analytics API, and you won’t have to spend any time “massaging” the data.",
+          "link": "https://smashingmagazine.com/2024/09/how-build-custom-data-visualizations-luzmo-flex/",
+          "publishedOn": "2024-09-12T11:00:00.000Z",
+          "wordCount": 5778,
+          "title": "How To Build Custom Data Visualizations Using Luzmo Flex",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/how-build-custom-data-visualizations-luzmo-flex/how-build-custom-data-visualizations-luzmo-flex.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/how-build-custom-data-visualizations-luzmo-flex/how-build-custom-data-visualizations-luzmo-flex.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2024/09/why-anticipatory-design-not-working-businesses/",
           "author": "hello@smashingmagazine.com (Joana Cerejo)",
@@ -550,6 +555,16 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-use-chart-js-for-interactive-data-visualization/",
+          "author": "Oluwadamisi Samuel",
+          "description": "Data surrounds us, but its raw form can be overwhelming and difficult to interpret. That's where data visualization comes in. It can help you take your data and turn it into charts and graphs that make sense at a glance. Among the many data visualiza...",
+          "link": "https://www.freecodecamp.org/news/how-to-use-chart-js-for-interactive-data-visualization/",
+          "publishedOn": "2024-09-12T12:57:36.000Z",
+          "wordCount": 6380,
+          "title": "How to Use Chart js for Interactive Data Visualization",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1725821135508/79767987-8760-4626-a924-212e402b051f.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/learn-music-production-for-beginners/",
           "author": "Beau Carnes",
@@ -1159,46 +1174,6 @@
           "wordCount": 830,
           "title": "Learn ml5.js for Machine Learning in JavaScript",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1723646904774/4f225758-a451-4dc5-a06c-287ba2977c55.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-implement-message-queues-in-your-backend-applications/",
-          "author": "Oluwatobi",
-          "description": "The goal of every web developer is to create a product that appeals to a wide range of users. However, this comes with its problems, chief among them being scalability issues to meet overwhelming user demands. If not addressed, this can result in a d...",
-          "link": "https://www.freecodecamp.org/news/how-to-implement-message-queues-in-your-backend-applications/",
-          "publishedOn": "2024-08-14T09:56:07.000Z",
-          "wordCount": 1795,
-          "title": "How to Implement Message Queues in Your Backend Applications",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1723280791863/cdc4faaa-2f95-4219-8753-881dfcafbf45.jpeg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/graceful-shutdowns-k8s-go/",
-          "author": "Alex Pliutau",
-          "description": "Have you ever pulled the power cord out of your computer in frustration? While this might seem like a quick solution to certain problems, it can lead to data loss and system instability. In the world of software, a similar concept exists: the hard sh...",
-          "link": "https://www.freecodecamp.org/news/graceful-shutdowns-k8s-go/",
-          "publishedOn": "2024-08-13T20:30:58.000Z",
-          "wordCount": 1947,
-          "title": "How to Terminate Go Programs Elegantly – A Guide to Graceful Shutdowns",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1723496940277/5fe7a894-9c67-40fd-95c4-64ef32444a4d.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/merge-word-documents-in-python/",
-          "author": "Vikram Aruchamy",
-          "description": "In today's fast-paced work environment, automation is crucial for optimizing your repetitive tasks and enhancing your productivity. Deploying Python functions to automate the merging of multiple Word documents into a single, cohesive file can help yo...",
-          "link": "https://www.freecodecamp.org/news/merge-word-documents-in-python/",
-          "publishedOn": "2024-08-13T17:19:23.000Z",
-          "wordCount": 2137,
-          "title": "How to Merge Word Documents in Python – Three Effective Methods with Examples",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1723552225928/558a428b-d6a1-487c-a563-5aa6bee8e029.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/what-is-a-component-library-when-to-build-your-own/",
-          "author": "Andrico Karoulla",
-          "description": "If you've built a frontend project in the last five years, you will have likely written some components, and maybe even used a component library. Components and libraries have been an important part of the web development landscape for multiple decad...",
-          "link": "https://www.freecodecamp.org/news/what-is-a-component-library-when-to-build-your-own/",
-          "publishedOn": "2024-08-13T14:58:56.000Z",
-          "wordCount": 4952,
-          "title": "What is a Component Library? When to Build Your Own and When to Use Someone Else's",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1723543483889/400c638b-4a6f-430a-92c3-4d8a7b750464.png"
         }
       ]
     }

@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-12T00:12:14.322Z</updated>
+    <updated>2024-09-13T00:12:11.139Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[What’s Old is New]]></title>
+        <id>https://css-tricks.com/?p=380692</id>
+        <link href="https://css-tricks.com/whats-old-is-new-2/"/>
+        <updated>2024-09-12T14:05:12.000Z</updated>
+        <summary type="html"><![CDATA[I collect a bunch of links in a bookmarks folder. These are things I fully intend to read, and I do — eventually. It’s a good thing bookmarks are digital, otherwise, I’d need a bigger coffee table to separate them …
+What’s Old is New originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use Chart js for Interactive Data Visualization]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-use-chart-js-for-interactive-data-visualization/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-chart-js-for-interactive-data-visualization/"/>
+        <updated>2024-09-12T12:57:36.000Z</updated>
+        <summary type="html"><![CDATA[Data surrounds us, but its raw form can be overwhelming and difficult to interpret. That's where data visualization comes in. It can help you take your data and turn it into charts and graphs that make sense at a glance. Among the many data visualiza...]]></summary>
+        <author>
+            <name>Oluwadamisi Samuel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Build Custom Data Visualizations Using Luzmo Flex]]></title>
+        <id>https://smashingmagazine.com/2024/09/how-build-custom-data-visualizations-luzmo-flex/</id>
+        <link href="https://smashingmagazine.com/2024/09/how-build-custom-data-visualizations-luzmo-flex/"/>
+        <updated>2024-09-12T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Bringing data to life in your application can be done without the usual headaches. Paul Scanlon shows you how you can build beautiful data visualizations using the Google Analytics API, and you won’t have to spend any time “massaging” the data.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Paul Scanlon)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Learn Music Production for Beginners]]></title>
         <id>https://www.freecodecamp.org/news/learn-music-production-for-beginners/</id>
@@ -1118,71 +1149,6 @@ Container queries are one of those …
 “Smart” Layouts With Container Queries originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Kevin Powell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dialogues Blog]]></title>
-        <id>https://css-tricks.com/?p=379846</id>
-        <link href="https://css-tricks.com/dialogues-blog/"/>
-        <updated>2024-08-14T10:34:00.000Z</updated>
-        <summary type="html"><![CDATA[“This isn’t a website. Or even a blog. It’s a conversation.”
-That’s the idea! Jay Hoffman and I’ve been chatting a long time now, back since he began writing a series on web history. It’s easy-going talking with someone …
-Dialogues Blog originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Implement Message Queues in Your Backend Applications]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-implement-message-queues-in-your-backend-applications/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-implement-message-queues-in-your-backend-applications/"/>
-        <updated>2024-08-14T09:56:07.000Z</updated>
-        <summary type="html"><![CDATA[The goal of every web developer is to create a product that appeals to a wide range of users. However, this comes with its problems, chief among them being scalability issues to meet overwhelming user demands. If not addressed, this can result in a d...]]></summary>
-        <author>
-            <name>Oluwatobi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Terminate Go Programs Elegantly – A Guide to Graceful Shutdowns]]></title>
-        <id>https://www.freecodecamp.org/news/graceful-shutdowns-k8s-go/</id>
-        <link href="https://www.freecodecamp.org/news/graceful-shutdowns-k8s-go/"/>
-        <updated>2024-08-13T20:30:58.000Z</updated>
-        <summary type="html"><![CDATA[Have you ever pulled the power cord out of your computer in frustration? While this might seem like a quick solution to certain problems, it can lead to data loss and system instability. In the world of software, a similar concept exists: the hard sh...]]></summary>
-        <author>
-            <name>Alex Pliutau</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Merge Word Documents in Python – Three Effective Methods with Examples]]></title>
-        <id>https://www.freecodecamp.org/news/merge-word-documents-in-python/</id>
-        <link href="https://www.freecodecamp.org/news/merge-word-documents-in-python/"/>
-        <updated>2024-08-13T17:19:23.000Z</updated>
-        <summary type="html"><![CDATA[In today's fast-paced work environment, automation is crucial for optimizing your repetitive tasks and enhancing your productivity. Deploying Python functions to automate the merging of multiple Word documents into a single, cohesive file can help yo...]]></summary>
-        <author>
-            <name>Vikram Aruchamy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is a Component Library? When to Build Your Own and When to Use Someone Else's]]></title>
-        <id>https://www.freecodecamp.org/news/what-is-a-component-library-when-to-build-your-own/</id>
-        <link href="https://www.freecodecamp.org/news/what-is-a-component-library-when-to-build-your-own/"/>
-        <updated>2024-08-13T14:58:56.000Z</updated>
-        <summary type="html"><![CDATA[If you've built a frontend project in the last five years, you will have likely written some components, and maybe even used a component library. Components and libraries have been an important part of the web development landscape for multiple decad...]]></summary>
-        <author>
-            <name>Andrico Karoulla</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[font-size Limbo]]></title>
-        <id>https://css-tricks.com/?p=379750</id>
-        <link href="https://css-tricks.com/font-size-limbo/"/>
-        <updated>2024-08-13T13:15:58.000Z</updated>
-        <summary type="html"><![CDATA[You might recall that Alvaro suggests bumping up font-size to 1.25rem from the default user agent size of 16px. Sebastian Laube pokes at that:
-I wouldn’t adopt Alvaro’s suggestion without further ado, as I would waste so much space 
-…
-font-size Limbo originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
         </author>
     </entry>
 </feed>
