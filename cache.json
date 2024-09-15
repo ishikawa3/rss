@@ -330,16 +330,6 @@
           "wordCount": 1771,
           "title": "CSSWG Minutes Telecon (2024-08-14)",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/379881"
-        },
-        {
-          "id": "https://css-tricks.com/?p=379603",
-          "author": "Geoff Graham",
-          "description": "Yes, yes. Functionally, they are different. But heck if I didn’t know about the wacky thresholds until Jens Oliver Meiert tooted a pair of quick polls.\nAccording to the HTML Standard:\nIf the current cell has a colspan attribute, then \n…\nHow are the `colspan` and `rowspan` attributes different? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/how-are-the-colspan-and-rowspan-attributes-different/",
-          "publishedOn": "2024-08-15T13:10:58.000Z",
-          "wordCount": 1740,
-          "title": "How are the `colspan` and `rowspan` attributes different?",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/379603"
         }
       ]
     },
@@ -1099,36 +1089,6 @@
           "wordCount": 3035,
           "title": "VM Data Protection Best Practices: How to Mitigate Risk in a Virtual Environment",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1723559872911/f9953e98-7948-47a0-a054-62028df854b9.jpeg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/rahul-pandey-quit-his-800k-per-year-faang-developer-job-to-build-a-startup-podcast-137/",
-          "author": "Quincy Larson",
-          "description": "On this week's episode of the podcast, freeCodeCamp founder Quincy Larson interviews Rahul Pandey. He's a software engineer who left his $800K / year FAANG job to build his own startup. We talk about: The post-layoff developer job landscape Develop...",
-          "link": "https://www.freecodecamp.org/news/rahul-pandey-quit-his-800k-per-year-faang-developer-job-to-build-a-startup-podcast-137/",
-          "publishedOn": "2024-08-15T21:57:33.000Z",
-          "wordCount": 781,
-          "title": "Rahul Pandey quit his $800,000/year FAANG developer job to build a startup [Podcast #137]",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1723758894150/3f49d5b1-b7bc-4ffe-bfc4-09fdf5a509ac.jpeg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/a-beginners-guide-to-large-language-models/",
-          "author": "Bhavishya Pandit",
-          "description": "ChatGPT was released in November 2022. Since then, we’ve witnessed rapid advancements in the field of AI and technology. But did you know that the journey of AI chatbots began way back in 1966 with ELIZA? ELIZA was not as sophisticated as today’s mod...",
-          "link": "https://www.freecodecamp.org/news/a-beginners-guide-to-large-language-models/",
-          "publishedOn": "2024-08-15T19:41:19.000Z",
-          "wordCount": 2035,
-          "title": "A Beginner's Guide to LLMs – What's a Large-Language Model and How Does it Work?",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1723750839199/0dc3a4ff-3e4e-4055-b3c1-955474946b0f.jpeg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-asynchronous-programming-works-in-rust/",
-          "author": "Oduah Chigozie",
-          "description": "If you're familiar with languages like JavaScript and Python, you may have heard about asynchronous programming. And perhaps you're wondering how it works in Rust. In this article, I'll give you a simple overview of how asynchronous programming works...",
-          "link": "https://www.freecodecamp.org/news/how-asynchronous-programming-works-in-rust/",
-          "publishedOn": "2024-08-15T15:18:18.000Z",
-          "wordCount": 1589,
-          "title": "How Asynchronous Programming Works in Rust – Futures and Async/Await Explained with Examples",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1723746256888/b046d857-161c-41be-96d0-1c05b1e448b8.jpeg"
         }
       ]
     }

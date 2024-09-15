@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-14T00:12:00.267Z</updated>
+    <updated>2024-09-15T00:13:34.367Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
@@ -1062,50 +1062,6 @@ CSSWG Minutes Telecon (2024-08-14) originally published on CSS-Tricks, which is 
         <summary type="html"><![CDATA[Vast amounts of data flow through virtualized environments these days. And that data needs to be protected. So making sure that your virtual machines are secured, along with their associated data, is key for maintaining operational continuity and saf...]]></summary>
         <author>
             <name>Alex Tray</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rahul Pandey quit his $800,000/year FAANG developer job to build a startup [Podcast #137]]]></title>
-        <id>https://www.freecodecamp.org/news/rahul-pandey-quit-his-800k-per-year-faang-developer-job-to-build-a-startup-podcast-137/</id>
-        <link href="https://www.freecodecamp.org/news/rahul-pandey-quit-his-800k-per-year-faang-developer-job-to-build-a-startup-podcast-137/"/>
-        <updated>2024-08-15T21:57:33.000Z</updated>
-        <summary type="html"><![CDATA[On this week's episode of the podcast, freeCodeCamp founder Quincy Larson interviews Rahul Pandey. He's a software engineer who left his $800K / year FAANG job to build his own startup. We talk about: The post-layoff developer job landscape Develop...]]></summary>
-        <author>
-            <name>Quincy Larson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Beginner's Guide to LLMs – What's a Large-Language Model and How Does it Work?]]></title>
-        <id>https://www.freecodecamp.org/news/a-beginners-guide-to-large-language-models/</id>
-        <link href="https://www.freecodecamp.org/news/a-beginners-guide-to-large-language-models/"/>
-        <updated>2024-08-15T19:41:19.000Z</updated>
-        <summary type="html"><![CDATA[ChatGPT was released in November 2022. Since then, we’ve witnessed rapid advancements in the field of AI and technology. But did you know that the journey of AI chatbots began way back in 1966 with ELIZA? ELIZA was not as sophisticated as today’s mod...]]></summary>
-        <author>
-            <name>Bhavishya Pandit</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Asynchronous Programming Works in Rust – Futures and Async/Await Explained with Examples]]></title>
-        <id>https://www.freecodecamp.org/news/how-asynchronous-programming-works-in-rust/</id>
-        <link href="https://www.freecodecamp.org/news/how-asynchronous-programming-works-in-rust/"/>
-        <updated>2024-08-15T15:18:18.000Z</updated>
-        <summary type="html"><![CDATA[If you're familiar with languages like JavaScript and Python, you may have heard about asynchronous programming. And perhaps you're wondering how it works in Rust. In this article, I'll give you a simple overview of how asynchronous programming works...]]></summary>
-        <author>
-            <name>Oduah Chigozie</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How are the `colspan` and `rowspan` attributes different?]]></title>
-        <id>https://css-tricks.com/?p=379603</id>
-        <link href="https://css-tricks.com/how-are-the-colspan-and-rowspan-attributes-different/"/>
-        <updated>2024-08-15T13:10:58.000Z</updated>
-        <summary type="html"><![CDATA[Yes, yes. Functionally, they are different. But heck if I didn’t know about the wacky thresholds until Jens Oliver Meiert tooted a pair of quick polls.
-According to the HTML Standard:
-If the current cell has a colspan attribute, then 
-…
-How are the `colspan` and `rowspan` attributes different? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
         </author>
     </entry>
 </feed>
