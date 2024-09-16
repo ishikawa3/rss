@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-15T00:13:34.367Z</updated>
+    <updated>2024-09-16T00:12:54.963Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
@@ -1031,37 +1031,6 @@ All About JavaScript Loops originally published on CSS-Tricks, which is part of 
         <summary type="html"><![CDATA[Variables and constants are fundamental concepts in most programming languages. They are the building blocks for storing and managing data. In this article, we'll take a look at how variables and constant work in Go. Table of contents: What are Vari...]]></summary>
         <author>
             <name>Temitope Oyedele</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSSWG Minutes Telecon (2024-08-14)]]></title>
-        <id>https://css-tricks.com/?p=379881</id>
-        <link href="https://css-tricks.com/csswg-minutes-telecon-2024-08-14/"/>
-        <updated>2024-08-16T16:12:51.000Z</updated>
-        <summary type="html"><![CDATA[I was just going over the latest CSSWG minutes (you can subscribe to them at W3C.org) and came across a few interesting nuggets I wanted to jot down for another time. The group discussed the CSS Values, CSS Easing, and …
-CSSWG Minutes Telecon (2024-08-14) originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pricing Projects As A Freelancer Or Agency Owner]]></title>
-        <id>https://smashingmagazine.com/2024/08/pricing-projects-freelancer-agency-owner/</id>
-        <link href="https://smashingmagazine.com/2024/08/pricing-projects-freelancer-agency-owner/"/>
-        <updated>2024-08-16T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Discover effective pricing strategies for digital projects. Learn how to balance fixed pricing, time and materials, and value-based approaches while managing client expectations and scope creep.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Paul Boag)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[VM Data Protection Best Practices: How to Mitigate Risk in a Virtual Environment]]></title>
-        <id>https://www.freecodecamp.org/news/vm-data-protection-best-practices/</id>
-        <link href="https://www.freecodecamp.org/news/vm-data-protection-best-practices/"/>
-        <updated>2024-08-16T12:44:31.000Z</updated>
-        <summary type="html"><![CDATA[Vast amounts of data flow through virtualized environments these days. And that data needs to be protected. So making sure that your virtual machines are secured, along with their associated data, is key for maintaining operational continuity and saf...]]></summary>
-        <author>
-            <name>Alex Tray</name>
         </author>
     </entry>
 </feed>

@@ -320,16 +320,6 @@
           "wordCount": 2567,
           "title": "All About JavaScript Loops",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/379851"
-        },
-        {
-          "id": "https://css-tricks.com/?p=379881",
-          "author": "Geoff Graham",
-          "description": "I was just going over the latest CSSWG minutes (you can subscribe to them at W3C.org) and came across a few interesting nuggets I wanted to jot down for another time. The group discussed the CSS Values, CSS Easing, and …\nCSSWG Minutes Telecon (2024-08-14) originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/csswg-minutes-telecon-2024-08-14/",
-          "publishedOn": "2024-08-16T16:12:51.000Z",
-          "wordCount": 1771,
-          "title": "CSSWG Minutes Telecon (2024-08-14)",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/379881"
         }
       ]
     },
@@ -487,21 +477,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/history-future-regular-expressions-javascript/history-future-regular-expressions-javascript.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2024/08/pricing-projects-freelancer-agency-owner/",
-          "author": "hello@smashingmagazine.com (Paul Boag)",
-          "description": "Discover effective pricing strategies for digital projects. Learn how to balance fixed pricing, time and materials, and value-based approaches while managing client expectations and scope creep.",
-          "link": "https://smashingmagazine.com/2024/08/pricing-projects-freelancer-agency-owner/",
-          "publishedOn": "2024-08-16T13:00:00.000Z",
-          "wordCount": 4695,
-          "title": "Pricing Projects As A Freelancer Or Agency Owner",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/pricing-projects-freelancer-agency-owner/pricing-projects-freelancer-agency-owner.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/pricing-projects-freelancer-agency-owner/pricing-projects-freelancer-agency-owner.jpg"
         }
       ]
     },
@@ -1079,16 +1054,6 @@
           "wordCount": 2377,
           "title": "What are Variables and Constants in Go? Explained With Examples",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1724052347929/f54eba57-fa4b-4b81-821e-41826d592933.jpeg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/vm-data-protection-best-practices/",
-          "author": "Alex Tray",
-          "description": "Vast amounts of data flow through virtualized environments these days. And that data needs to be protected. So making sure that your virtual machines are secured, along with their associated data, is key for maintaining operational continuity and saf...",
-          "link": "https://www.freecodecamp.org/news/vm-data-protection-best-practices/",
-          "publishedOn": "2024-08-16T12:44:31.000Z",
-          "wordCount": 3035,
-          "title": "VM Data Protection Best Practices: How to Mitigate Risk in a Virtual Environment",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1723559872911/f9953e98-7948-47a0-a054-62028df854b9.jpeg"
         }
       ]
     }
