@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=380271",
+          "author": "Ryan Trimble",
+          "description": "I’m working on a refresh of my personal website, what I’m calling the HD remaster. Well, I wouldn’t call it a “full” redesign. I’m just cleaning things up, and Polypane is coming in clutch. I wrote about how much …\nClever Polypane Debugging Features I’m Loving originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/clever-polypane-debugging-features-im-loving/",
+          "publishedOn": "2024-09-17T13:49:04.000Z",
+          "wordCount": 1744,
+          "title": "Clever Polypane Debugging Features I’m Loving",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/380271"
+        },
+        {
           "id": "https://css-tricks.com/?p=380763",
           "author": "Geoff Graham",
           "description": "Only Chris, right? You’ll want to view this in a Chromium browser:\nCodePen Embed Fallback\nThis is exactly the sort of thing I love, not for its practicality (cuz it ain’t), but for how it illustrates a concept. Generally, tutorials …\nMultiple Anchors originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -354,6 +364,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2024/09/creating-custom-lottie-animations-svgator/",
+          "author": "hello@smashingmagazine.com (Mihai Cora)",
+          "description": "Creating ready-to-implement Lottie animations with a single tool is now possible thanks to SVGator’s latest feature updates. In this article, you will learn how to create and animate a Lottie using SVGator, an online animation tool that has zero learning curve if you’re familiar with at least one design tool.",
+          "link": "https://smashingmagazine.com/2024/09/creating-custom-lottie-animations-svgator/",
+          "publishedOn": "2024-09-17T11:00:00.000Z",
+          "wordCount": 4797,
+          "title": "Creating Custom Lottie Animations With SVGator",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/creating-custom-lottie-animations-svgator/creating-custom-lottie-animations-svgator.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/creating-custom-lottie-animations-svgator/creating-custom-lottie-animations-svgator.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2024/09/how-build-custom-data-visualizations-luzmo-flex/",
           "author": "hello@smashingmagazine.com (Paul Scanlon)",
           "description": "Bringing data to life in your application can be done without the usual headaches. Paul Scanlon shows you how you can build beautiful data visualizations using the Google Analytics API, and you won’t have to spend any time “massaging” the data.",
@@ -510,6 +535,36 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-handle-side-effects-in-jest/",
+          "author": "ِAya Nabil Othman",
+          "description": "Unit testing is a major topic for every developer. It is a fundamental practice in building software applications. Unit testing helps you to identify bugs early and makes code maintenance easier. By isolating and testing single units or components of...",
+          "link": "https://www.freecodecamp.org/news/how-to-handle-side-effects-in-jest/",
+          "publishedOn": "2024-09-16T21:03:08.000Z",
+          "wordCount": 3205,
+          "title": "How to Handle Side Effects in Jest – A Guide to Effective Mocking",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1726038899380/6210fc66-17fb-4db9-9f91-1e7d38dc256c.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-set-up-eslint-prettier-stylelint-and-lint-staged-in-nextjs/",
+          "author": "Naveed Ausaf",
+          "description": "A linter is a tool that scans code for potential issues. This is invaluable with a programming language like JavaScript which is so loosely typed. Even for TypeScript, which is a strongly typed language whose compiler does a great job of detecting er...",
+          "link": "https://www.freecodecamp.org/news/how-to-set-up-eslint-prettier-stylelint-and-lint-staged-in-nextjs/",
+          "publishedOn": "2024-09-16T19:43:05.000Z",
+          "wordCount": 5976,
+          "title": "How to Set Up ESLint, Prettier, StyleLint, and lint-staged in Next.js",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1726515328917/f3ecbc80-6d06-45ee-b307-89ed1a7bc854.jpeg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/javascript-timer-how-to-set-a-timer-function-in-js/",
+          "author": "Tantoluwa Heritage Alabi NB",
+          "description": "In Javascript, the timer function prevents your code from running everything at once when an event triggers or the page loads. This gives you more control over the timing of your program's actions and can enhance the user experience by creating smoot...",
+          "link": "https://www.freecodecamp.org/news/javascript-timer-how-to-set-a-timer-function-in-js/",
+          "publishedOn": "2024-09-16T18:59:45.000Z",
+          "wordCount": 1277,
+          "title": "JavaScript Timer – How to Set a Timer Function in JS",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1726513174015/54470912-08b3-4a23-9a0c-9b6f9b57617b.jpeg"
+        },
         {
           "id": "https://www.freecodecamp.org/news/use-the-javascript-selection-api-to-build-a-rich-text-editor/",
           "author": "Asfak Ahmed",
@@ -1079,16 +1134,6 @@
           "wordCount": 5898,
           "title": "How to Use Variables and Data Types in JavaScript – Explained With Code Examples",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1723754441356/34416215-e12b-41ec-8c11-332d2c8214e1.jpeg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/variables-and-constants-in-go/",
-          "author": "Temitope Oyedele",
-          "description": "Variables and constants are fundamental concepts in most programming languages. They are the building blocks for storing and managing data. In this article, we'll take a look at how variables and constant work in Go. Table of contents: What are Vari...",
-          "link": "https://www.freecodecamp.org/news/variables-and-constants-in-go/",
-          "publishedOn": "2024-08-19T07:26:50.000Z",
-          "wordCount": 2377,
-          "title": "What are Variables and Constants in Go? Explained With Examples",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1724052347929/f54eba57-fa4b-4b81-821e-41826d592933.jpeg"
         }
       ]
     }
