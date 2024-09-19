@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-18T00:12:13.808Z</updated>
+    <updated>2024-09-19T00:12:30.648Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Use CSS to Improve Web Accessibility]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-use-css-to-improve-web-accessibility/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-css-to-improve-web-accessibility/"/>
+        <updated>2024-09-18T17:13:12.000Z</updated>
+        <summary type="html"><![CDATA[Did you know that CSS can play a significant role in web accessibility? While CSS primarily handles the visual presentation of a webpage, when you use it properly it can enhance the user’s experience and improve accessibility. In this article, I'll s...]]></summary>
+        <author>
+            <name>Elizabeth Lola</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Use the FARM Stack to Develop Full Stack Apps]]></title>
+        <id>https://www.freecodecamp.org/news/use-the-farm-stack-to-develop-full-stack-apps/</id>
+        <link href="https://www.freecodecamp.org/news/use-the-farm-stack-to-develop-full-stack-apps/"/>
+        <updated>2024-09-18T13:55:42.000Z</updated>
+        <summary type="html"><![CDATA[The FARM stack is a modern web development stack that combines three powerful technologies: FastAPI, React, and MongoDB. This full-stack solution provides developers with a robust set of tools to build scalable, efficient, and high-performance web ap...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SVG Coding Examples: Useful Recipes For Writing Vectors By Hand]]></title>
+        <id>https://smashingmagazine.com/2024/09/svg-coding-examples-recipes-writing-vectors-by-hand/</id>
+        <link href="https://smashingmagazine.com/2024/09/svg-coding-examples-recipes-writing-vectors-by-hand/"/>
+        <updated>2024-09-18T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Myriam Frisano explores the basics of hand-coding SVGs with practical examples to demystify the inner workings of common SVG elements. In this guide, you’ll learn about asking the right questions to solve common positioning problems and how to leverage JavaScript so that, by the end, you can add “SVG coding” to your toolbox. You’ll also be able to declare proudly, “I know how to draw literal pictures with words!”]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Myriam Frisano)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Clever Polypane Debugging Features I’m Loving]]></title>
         <id>https://css-tricks.com/?p=380271</id>
@@ -1053,60 +1083,6 @@ RTL Styling 101 originally published on CSS-Tricks, which is part of the Digital
         <summary type="html"><![CDATA[In today’s fast-paced business environment, staying informed about the latest developments in your industry is crucial for making strategic decisions. Companies must know market trends, competitor activities, and potential risks to remain competitive...]]></summary>
         <author>
             <name>Marco Venturi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Secure a Next.js AI Application Deployed on Vercel]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-secure-a-nextjs-ai-application-deployed-on-vercel/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-secure-a-nextjs-ai-application-deployed-on-vercel/"/>
-        <updated>2024-08-19T21:06:52.000Z</updated>
-        <summary type="html"><![CDATA[In this in-depth guide, I’ll be showing how to secure a Next.js AI app deployed on Vercel. We’ll be taking a hands-on approach by starting with a simple AI app riddled with vulnerabilities. This article will guide you through how you can detect vulne...]]></summary>
-        <author>
-            <name>Gideon Akinsanmi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[On the Ground at Frostapalooza]]></title>
-        <id>https://css-tricks.com/?p=379959</id>
-        <link href="https://css-tricks.com/on-the-ground-at-frostapalooza/"/>
-        <updated>2024-08-19T17:01:09.000Z</updated>
-        <summary type="html"><![CDATA[I can’t say I would have ever expected to see Jeremy Keith performing the Yeah Yeah Yeahs song “Maps”, but then again, I don’t know what I expected to happen at Frostapalooza.
-The Event
-Brad Frost, web …
-On the Ground at Frostapalooza originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Ryan Trimble</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[All About JavaScript Loops]]></title>
-        <id>https://css-tricks.com/?p=379851</id>
-        <link href="https://css-tricks.com/all-about-javascript-loops/"/>
-        <updated>2024-08-19T14:21:07.000Z</updated>
-        <summary type="html"><![CDATA[Every programming language has loops. Loops perform an operation (i.e., a chunk of work) a number of times, usually once for every item in an array or list, or to simply repeat an operation until a certain condition is met.…
-All About JavaScript Loops originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Erick Merchant</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Read and Write Files with Node.js]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-read-and-write-files-with-nodejs/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-read-and-write-files-with-nodejs/"/>
-        <updated>2024-08-19T13:41:36.000Z</updated>
-        <summary type="html"><![CDATA[Node.js is a powerful JavaScript runtime environment that lets you run JS code outside the browser. And a fundamental part of many Node.js applications involves reading and writing files – whether that's text, JSON, HTML, or other file formats. So yo...]]></summary>
-        <author>
-            <name>Ashutosh Krishna</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use Variables and Data Types in JavaScript – Explained With Code Examples]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-use-variables-and-data-types-in-javascript/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-variables-and-data-types-in-javascript/"/>
-        <updated>2024-08-19T13:33:18.000Z</updated>
-        <summary type="html"><![CDATA[A variable is like a box where you can store data or a reference to data. In this article, you will learn how to create and use variables. You'll also learn about the different data types in JavaScript and how to use them. Let's get started! Table of...]]></summary>
-        <author>
-            <name>Austin Asoluka</name>
         </author>
     </entry>
 </feed>
