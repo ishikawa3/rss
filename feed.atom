@@ -2,10 +2,75 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-19T00:12:30.648Z</updated>
+    <updated>2024-09-20T00:12:33.839Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Quick Hit #20]]></title>
+        <id>https://css-tricks.com/?p=381079</id>
+        <link href="https://css-tricks.com/quick-hit-20/"/>
+        <updated>2024-09-19T17:13:24.000Z</updated>
+        <summary type="html"><![CDATA[Having fun with Bramus’ new Caniuse CLI tool. This’ll save lots of trips to the Caniuse site!…
+Quick Hit #20 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Master Object-Oriented Programming and Design Patterns in C#]]></title>
+        <id>https://www.freecodecamp.org/news/master-object-oriented-programming-and-design-patterns-in-c/</id>
+        <link href="https://www.freecodecamp.org/news/master-object-oriented-programming-and-design-patterns-in-c/"/>
+        <updated>2024-09-19T15:38:13.000Z</updated>
+        <summary type="html"><![CDATA[Understanding design patterns are important for efficient software development. They offer proven solutions to common coding challenges, promote code reusability, and enhance maintainability. By mastering these patterns, developers can create more ro...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn How To Secure API Servers]]></title>
+        <id>https://www.freecodecamp.org/news/learn-how-to-secure-api-servers/</id>
+        <link href="https://www.freecodecamp.org/news/learn-how-to-secure-api-servers/"/>
+        <updated>2024-09-19T15:30:32.000Z</updated>
+        <summary type="html"><![CDATA[APIs (Application Programming Interfaces) play an important role in enabling communication between different software systems. However, with great power comes great responsibility, and securing these APIs is necessary to protect sensitive data and ma...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Embracing Introversion In UX]]></title>
+        <id>https://smashingmagazine.com/2024/09/embracing-introversion-in-ux/</id>
+        <link href="https://smashingmagazine.com/2024/09/embracing-introversion-in-ux/"/>
+        <updated>2024-09-19T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[This article aims to celebrate the power of introversion in UX research and design. Victor Yocco debunks common misconceptions, explores the unique strengths introverted researchers and designers bring to the table, and offers practical tips for thriving in a field that sometimes seems tailored for extroverts.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Victor Yocco)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Quick Hit #19]]></title>
+        <id>https://css-tricks.com/?p=381057</id>
+        <link href="https://css-tricks.com/quick-hit-19/"/>
+        <updated>2024-09-19T14:31:06.000Z</updated>
+        <summary type="html"><![CDATA[Two possible syntaxes for CSS masonry, one draft specification, and you get to share your opinions.
+…
+Quick Hit #19 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re-Working the CSS Almanac]]></title>
+        <id>https://css-tricks.com/?p=380959</id>
+        <link href="https://css-tricks.com/re-working-the-css-almanac/"/>
+        <updated>2024-09-19T14:19:24.000Z</updated>
+        <summary type="html"><![CDATA[Getting right to it: the CSS-Tricks Almanac got a big refresh this week!
+I’m guessing you’re already familiar with this giant ol’ section of CSS-Tricks called the Almanac. This is where we publish references for CSS selectors and properties…
+Re-Working the CSS Almanac originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Use CSS to Improve Web Accessibility]]></title>
         <id>https://www.freecodecamp.org/news/how-to-use-css-to-improve-web-accessibility/</id>
@@ -1012,77 +1077,6 @@ The Intersection of Speed and Proximity originally published on CSS-Tricks, whic
 Elastic Overflow Scrolling originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Dave Seidman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build Good Coding Habits as a New Python Developer]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-build-good-coding-habits/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-good-coding-habits/"/>
-        <updated>2024-08-20T20:46:01.000Z</updated>
-        <summary type="html"><![CDATA[When you're starting out as a new Python developer, you'll likely develop some habits, both good and bad. Coding is something of an art form. Flexibility and customization are encouraged — and you can usually write code how you want within the contex...]]></summary>
-        <author>
-            <name>Eleanor Hecks</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Effectively Manage Unique Identifiers at Scale: From GUIDs to Snowflake IDs and Other Modern Solutions]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-effectively-manage-unique-identifiers-at-scale/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-effectively-manage-unique-identifiers-at-scale/"/>
-        <updated>2024-08-20T18:21:25.000Z</updated>
-        <summary type="html"><![CDATA[What Are Unique Identifiers? 🪪 Unique identifiers (UIDs) are crucial components in software engineering and data management. They serve as distinct references for entities within a system and ensure that each item – whether a database record, a user...]]></summary>
-        <author>
-            <name>Gor Grigoryan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Regexes Got Good: The History And Future Of Regular Expressions In JavaScript]]></title>
-        <id>https://smashingmagazine.com/2024/08/history-future-regular-expressions-javascript/</id>
-        <link href="https://smashingmagazine.com/2024/08/history-future-regular-expressions-javascript/"/>
-        <updated>2024-08-20T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Although JavaScript regexes used to be underpowered compared to other modern flavors, numerous improvements in recent years mean that’s no longer true. Steven Levithan evaluates the history and present state of regular expressions in JavaScript with tips to make your regexes more readable, maintainable, and resilient.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Steven Levithan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Git Cheat Sheet – Helpful Git Commands with Examples]]></title>
-        <id>https://www.freecodecamp.org/news/git-cheat-sheet-helpful-git-commands-with-examples/</id>
-        <link href="https://www.freecodecamp.org/news/git-cheat-sheet-helpful-git-commands-with-examples/"/>
-        <updated>2024-08-20T14:47:35.000Z</updated>
-        <summary type="html"><![CDATA[This Git Cheat Sheet will provide you with a handy list of common (and not so common) commands that will make your life easier when working with Git. You can also download the Git Cheat Sheet in PDF format (along with some other resources) for free b...]]></summary>
-        <author>
-            <name>Flavio Copes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RTL Styling 101]]></title>
-        <id>https://css-tricks.com/?p=379926</id>
-        <link href="https://css-tricks.com/rtl-styling-101/"/>
-        <updated>2024-08-20T14:16:34.000Z</updated>
-        <summary type="html"><![CDATA[A couple of weeks ago I was super excited about publishing my first CSS-Tricks post: “Letter Spacing is Broken. Forget about that though, what’s important is the post’s topic: letter spacing is broken and doesn’t work as the CSS …
-RTL Styling 101 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Juan Diego Rodríguez</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Master Video Editing with DaVinci Resolve]]></title>
-        <id>https://www.freecodecamp.org/news/master-video-editing-with-davinci-resolve/</id>
-        <link href="https://www.freecodecamp.org/news/master-video-editing-with-davinci-resolve/"/>
-        <updated>2024-08-20T13:01:53.000Z</updated>
-        <summary type="html"><![CDATA[DaVinci Resolve is a popular video editing software that is often used to edit feature films. There is also a super powerful free version. DaVinci Resolve is a great software to use for video editing. We just published a course on the freeCodeCamp.or...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Generate Financial Press Reviews Using AI]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-generate-financial-press-reviews-using-ai/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-generate-financial-press-reviews-using-ai/"/>
-        <updated>2024-08-20T12:39:49.000Z</updated>
-        <summary type="html"><![CDATA[In today’s fast-paced business environment, staying informed about the latest developments in your industry is crucial for making strategic decisions. Companies must know market trends, competitor activities, and potential risks to remain competitive...]]></summary>
-        <author>
-            <name>Marco Venturi</name>
         </author>
     </entry>
 </feed>

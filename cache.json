@@ -12,6 +12,36 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=381079",
+          "author": "Geoff Graham",
+          "description": "Having fun with Bramus’ new Caniuse CLI tool. This’ll save lots of trips to the Caniuse site!…\nQuick Hit #20 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/quick-hit-20/",
+          "publishedOn": "2024-09-19T17:13:24.000Z",
+          "wordCount": 1281,
+          "title": "Quick Hit #20",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/381079"
+        },
+        {
+          "id": "https://css-tricks.com/?p=381057",
+          "author": "Geoff Graham",
+          "description": "Two possible syntaxes for CSS masonry, one draft specification, and you get to share your opinions.\n…\nQuick Hit #19 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/quick-hit-19/",
+          "publishedOn": "2024-09-19T14:31:06.000Z",
+          "wordCount": 1279,
+          "title": "Quick Hit #19",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/381057"
+        },
+        {
+          "id": "https://css-tricks.com/?p=380959",
+          "author": "Geoff Graham",
+          "description": "Getting right to it: the CSS-Tricks Almanac got a big refresh this week!\nI’m guessing you’re already familiar with this giant ol’ section of CSS-Tricks called the Almanac. This is where we publish references for CSS selectors and properties…\nRe-Working the CSS Almanac originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/re-working-the-css-almanac/",
+          "publishedOn": "2024-09-19T14:19:24.000Z",
+          "wordCount": 3406,
+          "title": "Re-Working the CSS Almanac",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/380959"
+        },
+        {
           "id": "https://css-tricks.com/?p=380271",
           "author": "Ryan Trimble",
           "description": "I’m working on a refresh of my personal website, what I’m calling the HD remaster. Well, I wouldn’t call it a “full” redesign. I’m just cleaning things up, and Polypane is coming in clutch. I wrote about how much …\nClever Polypane Debugging Features I’m Loving originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -325,16 +355,6 @@
             "type": "video/mp4"
           },
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/379949"
-        },
-        {
-          "id": "https://css-tricks.com/?p=379926",
-          "author": "Juan Diego Rodríguez",
-          "description": "A couple of weeks ago I was super excited about publishing my first CSS-Tricks post: “Letter Spacing is Broken. Forget about that though, what’s important is the post’s topic: letter spacing is broken and doesn’t work as the CSS …\nRTL Styling 101 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/rtl-styling-101/",
-          "publishedOn": "2024-08-20T14:16:34.000Z",
-          "wordCount": 1556,
-          "title": "RTL Styling 101",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/379926"
         }
       ]
     },
@@ -343,6 +363,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2024/09/embracing-introversion-in-ux/",
+          "author": "hello@smashingmagazine.com (Victor Yocco)",
+          "description": "This article aims to celebrate the power of introversion in UX research and design. Victor Yocco debunks common misconceptions, explores the unique strengths introverted researchers and designers bring to the table, and offers practical tips for thriving in a field that sometimes seems tailored for extroverts.",
+          "link": "https://smashingmagazine.com/2024/09/embracing-introversion-in-ux/",
+          "publishedOn": "2024-09-19T15:00:00.000Z",
+          "wordCount": 8584,
+          "title": "Embracing Introversion In UX",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/embracing-introversion-in-ux/embracing-introversion-in-ux.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/embracing-introversion-in-ux/embracing-introversion-in-ux.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2024/09/svg-coding-examples-recipes-writing-vectors-by-hand/",
           "author": "hello@smashingmagazine.com (Myriam Frisano)",
@@ -507,21 +542,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/mastering-typography-in-logo-design/mastering-typography-in-logo-design.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2024/08/history-future-regular-expressions-javascript/",
-          "author": "hello@smashingmagazine.com (Steven Levithan)",
-          "description": "Although JavaScript regexes used to be underpowered compared to other modern flavors, numerous improvements in recent years mean that’s no longer true. Steven Levithan evaluates the history and present state of regular expressions in JavaScript with tips to make your regexes more readable, maintainable, and resilient.",
-          "link": "https://smashingmagazine.com/2024/08/history-future-regular-expressions-javascript/",
-          "publishedOn": "2024-08-20T15:00:00.000Z",
-          "wordCount": 5716,
-          "title": "Regexes Got Good: The History And Future Of Regular Expressions In JavaScript",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/history-future-regular-expressions-javascript/history-future-regular-expressions-javascript.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/history-future-regular-expressions-javascript/history-future-regular-expressions-javascript.jpg"
         }
       ]
     },
@@ -530,6 +550,26 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/master-object-oriented-programming-and-design-patterns-in-c/",
+          "author": "Beau Carnes",
+          "description": "Understanding design patterns are important for efficient software development. They offer proven solutions to common coding challenges, promote code reusability, and enhance maintainability. By mastering these patterns, developers can create more ro...",
+          "link": "https://www.freecodecamp.org/news/master-object-oriented-programming-and-design-patterns-in-c/",
+          "publishedOn": "2024-09-19T15:38:13.000Z",
+          "wordCount": 964,
+          "title": "Master Object-Oriented Programming and Design Patterns in C#",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1726760279000/2cd9582a-34e1-46dd-8882-d5af45dffe4f.jpeg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/learn-how-to-secure-api-servers/",
+          "author": "Beau Carnes",
+          "description": "APIs (Application Programming Interfaces) play an important role in enabling communication between different software systems. However, with great power comes great responsibility, and securing these APIs is necessary to protect sensitive data and ma...",
+          "link": "https://www.freecodecamp.org/news/learn-how-to-secure-api-servers/",
+          "publishedOn": "2024-09-19T15:30:32.000Z",
+          "wordCount": 1057,
+          "title": "Learn How To Secure API Servers",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1726759818974/98a0ec72-f561-4b36-9bbe-aaceb22026c0.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/how-to-use-css-to-improve-web-accessibility/",
           "author": "Elizabeth Lola",
@@ -1069,56 +1109,6 @@
           "wordCount": 2066,
           "title": "What is CSS Subgrid? A Practical Tutorial",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1724227015705/f55ae862-c81f-4453-af92-cb96acf0d13d.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-build-good-coding-habits/",
-          "author": "Eleanor Hecks",
-          "description": "When you're starting out as a new Python developer, you'll likely develop some habits, both good and bad. Coding is something of an art form. Flexibility and customization are encouraged — and you can usually write code how you want within the contex...",
-          "link": "https://www.freecodecamp.org/news/how-to-build-good-coding-habits/",
-          "publishedOn": "2024-08-20T20:46:01.000Z",
-          "wordCount": 1976,
-          "title": "How to Build Good Coding Habits as a New Python Developer",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1724179204764/68fe386c-336f-4f05-9652-bbf5644b5a1b.jpeg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-effectively-manage-unique-identifiers-at-scale/",
-          "author": "Gor Grigoryan",
-          "description": "What Are Unique Identifiers? 🪪 Unique identifiers (UIDs) are crucial components in software engineering and data management. They serve as distinct references for entities within a system and ensure that each item – whether a database record, a user...",
-          "link": "https://www.freecodecamp.org/news/how-to-effectively-manage-unique-identifiers-at-scale/",
-          "publishedOn": "2024-08-20T18:21:25.000Z",
-          "wordCount": 5957,
-          "title": "How to Effectively Manage Unique Identifiers at Scale: From GUIDs to Snowflake IDs and Other Modern Solutions",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1724012658962/2e754dc4-248a-4a2b-8819-993514474a22.jpeg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/git-cheat-sheet-helpful-git-commands-with-examples/",
-          "author": "Flavio Copes",
-          "description": "This Git Cheat Sheet will provide you with a handy list of common (and not so common) commands that will make your life easier when working with Git. You can also download the Git Cheat Sheet in PDF format (along with some other resources) for free b...",
-          "link": "https://www.freecodecamp.org/news/git-cheat-sheet-helpful-git-commands-with-examples/",
-          "publishedOn": "2024-08-20T14:47:35.000Z",
-          "wordCount": 9581,
-          "title": "Git Cheat Sheet – Helpful Git Commands with Examples",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1723993272242/896730cc-3e03-43be-83d9-06d37ebab5a5.jpeg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/master-video-editing-with-davinci-resolve/",
-          "author": "Beau Carnes",
-          "description": "DaVinci Resolve is a popular video editing software that is often used to edit feature films. There is also a super powerful free version. DaVinci Resolve is a great software to use for video editing. We just published a course on the freeCodeCamp.or...",
-          "link": "https://www.freecodecamp.org/news/master-video-editing-with-davinci-resolve/",
-          "publishedOn": "2024-08-20T13:01:53.000Z",
-          "wordCount": 887,
-          "title": "Master Video Editing with DaVinci Resolve",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1724158572406/4cd99bcb-c8a7-4898-bc78-1dc0f49bcbe6.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-generate-financial-press-reviews-using-ai/",
-          "author": "Marco Venturi",
-          "description": "In today’s fast-paced business environment, staying informed about the latest developments in your industry is crucial for making strategic decisions. Companies must know market trends, competitor activities, and potential risks to remain competitive...",
-          "link": "https://www.freecodecamp.org/news/how-to-generate-financial-press-reviews-using-ai/",
-          "publishedOn": "2024-08-20T12:39:49.000Z",
-          "wordCount": 2388,
-          "title": "How to Generate Financial Press Reviews Using AI",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1724059022091/7ce2eba8-46ff-4d08-8e56-afa814cb68cc.jpeg"
         }
       ]
     }
