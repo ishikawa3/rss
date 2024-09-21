@@ -12,6 +12,26 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=380952",
+          "author": "Geoff Graham",
+          "description": "Seeing a lot more headlines decrying JavaScript and pumping up PHP. Always interesting to see which direction the front-end zeitgeist is leaning.…\nQuick Hit #21 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/quick-hit-21/",
+          "publishedOn": "2024-09-20T16:15:26.000Z",
+          "wordCount": 1293,
+          "title": "Quick Hit #21",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/380952"
+        },
+        {
+          "id": "https://css-tricks.com/?p=381098",
+          "author": "Juan Diego Rodríguez",
+          "description": "For the past two months, all my livelihood has gone towards reading, researching, understanding, writing, and editing about Anchor Positioning, and with many Almanac entries published and a full Guide guide on the way, I thought I was ready to …\nCSSWG Minutes Telecon (2024-09-18) originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/csswg-minutes-telecon-2024-09-18/",
+          "publishedOn": "2024-09-20T15:15:33.000Z",
+          "wordCount": 3073,
+          "title": "CSSWG Minutes Telecon (2024-09-18)",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/381098"
+        },
+        {
           "id": "https://css-tricks.com/?p=381079",
           "author": "Geoff Graham",
           "description": "Having fun with Bramus’ new Caniuse CLI tool. This’ll save lots of trips to the Caniuse site!…\nQuick Hit #20 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -320,41 +340,6 @@
           "wordCount": 1490,
           "title": "Callbacks on Web Components?",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/380029"
-        },
-        {
-          "id": "https://css-tricks.com/?p=380039",
-          "author": "Geoff Graham",
-          "description": "Hey look at that, the State of CSS Survey for 2024 is open and taking submissions. …\nQuick Hit #11 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/quick-hit-11-2/",
-          "publishedOn": "2024-08-21T21:25:08.000Z",
-          "wordCount": 1311,
-          "title": "Quick Hit #11",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/380039"
-        },
-        {
-          "id": "https://css-tricks.com/?p=380016",
-          "author": "Geoff Graham",
-          "description": "You ever find yourself in bumper-to-bumper traffic? I did this morning on the way to work (read: whatever cafe I fancy). There’s a pattern to it, right? Stop, go, stop, go, stop… it’s almost rhythmic and harmonious in the most …\nThe Intersection of Speed and Proximity originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/the-intersection-of-speed-and-proximity/",
-          "publishedOn": "2024-08-21T16:11:31.000Z",
-          "wordCount": 1931,
-          "title": "The Intersection of Speed and Proximity",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/380016"
-        },
-        {
-          "id": "https://css-tricks.com/?p=379949",
-          "author": "Dave Seidman",
-          "description": "A client asked if we could mimic the “rubber band” scrolling behavior on many mobile devices. I’m sure you know what I’m talking about. It’s a behavior that already exists and happens automatically in most browsers. In iOS Safari, for …\nElastic Overflow Scrolling originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/elastic-overflow-scrolling/",
-          "publishedOn": "2024-08-21T14:41:47.000Z",
-          "wordCount": 2019,
-          "title": "Elastic Overflow Scrolling",
-          "enclosure": {
-            "url": "https://css-tricks.com/wp-content/uploads/2024/08/elastic-scroll_1.mp4",
-            "length": "13586939",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/379949"
         }
       ]
     },
@@ -527,21 +512,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/generating-unique-random-numbers-javascript-using-sets/generating-unique-random-numbers-javascript-using-sets.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2024/08/mastering-typography-in-logo-design/",
-          "author": "hello@smashingmagazine.com (Levi Honing)",
-          "description": "Finding the right typeface for a logo is a challenge and can be a very time-consuming process that requires both creativity and a practical approach. Levi Honing provides the essential background and tools to enhance your typography journey and apply this knowledge to your logo design. Let’s dive deep to learn how to create a logo that is not only expressive but also purposeful and well-thought-out.",
-          "link": "https://smashingmagazine.com/2024/08/mastering-typography-in-logo-design/",
-          "publishedOn": "2024-08-22T10:00:00.000Z",
-          "wordCount": 6664,
-          "title": "Mastering Typography In Logo Design",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/mastering-typography-in-logo-design/mastering-typography-in-logo-design.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/mastering-typography-in-logo-design/mastering-typography-in-logo-design.jpg"
         }
       ]
     },
@@ -550,6 +520,16 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/from-phd-drop-out-to-google-data-scientist-with-megan-risdal-podcast-142/",
+          "author": "Quincy Larson",
+          "description": "On this week's episode of the podcast, I interview Megan Risdal. She's a data scientist and Product Manager at Kaggle, Google's Data Science competition platform. Megan works closely with the global data science community, and on Google's Gemma open ...",
+          "link": "https://www.freecodecamp.org/news/from-phd-drop-out-to-google-data-scientist-with-megan-risdal-podcast-142/",
+          "publishedOn": "2024-09-20T12:10:45.000Z",
+          "wordCount": 969,
+          "title": "From PhD drop-out to Google Data Scientist with Megan Risdal [Podcast #142]",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1726834180511/4191b50c-6784-4fe1-98af-0ca74a63ff7b.jpeg"
+        },
         {
           "id": "https://www.freecodecamp.org/news/master-object-oriented-programming-and-design-patterns-in-c/",
           "author": "Beau Carnes",
@@ -1079,36 +1059,6 @@
           "wordCount": 1123,
           "title": "Learn to Use the Gemini AI MultiModal Model",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1724354591577/afcfa42a-2b11-4590-b6f1-06f7837aa7fc.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-build-a-serverless-crud-rest-api/",
-          "author": "Ifeanyi Otuonye",
-          "description": "Serverless computing emerged as a response to the challenges of traditional server-based architectures. With serverless, developers no longer need to manage or scale servers manually. Instead, cloud providers handle infrastructure management, allowin...",
-          "link": "https://www.freecodecamp.org/news/how-to-build-a-serverless-crud-rest-api/",
-          "publishedOn": "2024-08-21T19:22:55.000Z",
-          "wordCount": 5301,
-          "title": "How to Build a Serverless CRUD REST API with the Serverless Framework, Node.js, and GitHub Actions",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1724267592147/e9dc4429-6475-4d35-b0e8-81c116f769b8.jpeg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-create-software-architecture-diagrams-using-the-c4-model/",
-          "author": "Alex Pliutau",
-          "description": "As a developer, you'll likely work on a complex project at some point where deciphering the codebase feels like reading a whole novel. Engineers are code wizards, but even the best get lost in sprawling code. The challenge is that architecture diagra...",
-          "link": "https://www.freecodecamp.org/news/how-to-create-software-architecture-diagrams-using-the-c4-model/",
-          "publishedOn": "2024-08-21T18:50:04.000Z",
-          "wordCount": 2139,
-          "title": "How to Create Software Architecture Diagrams Using the C4 Model",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1724187048778/7d2821c6-c0c9-4d03-999f-37022388210c.jpeg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/what-is-css-subgrid/",
-          "author": "Ophy Boamah",
-          "description": "When designers create layouts in their mockups, everything including the content typically looks perfectly aligned and consistent. But in the real world, user-generated content varies wildly. For example, one testimonial card might have a brief sente...",
-          "link": "https://www.freecodecamp.org/news/what-is-css-subgrid/",
-          "publishedOn": "2024-08-21T18:17:03.000Z",
-          "wordCount": 2066,
-          "title": "What is CSS Subgrid? A Practical Tutorial",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1724227015705/f55ae862-c81f-4453-af92-cb96acf0d13d.png"
         }
       ]
     }

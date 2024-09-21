@@ -2,10 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-20T00:12:33.839Z</updated>
+    <updated>2024-09-21T00:11:58.790Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Quick Hit #21]]></title>
+        <id>https://css-tricks.com/?p=380952</id>
+        <link href="https://css-tricks.com/quick-hit-21/"/>
+        <updated>2024-09-20T16:15:26.000Z</updated>
+        <summary type="html"><![CDATA[Seeing a lot more headlines decrying JavaScript and pumping up PHP. Always interesting to see which direction the front-end zeitgeist is leaning.…
+Quick Hit #21 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSSWG Minutes Telecon (2024-09-18)]]></title>
+        <id>https://css-tricks.com/?p=381098</id>
+        <link href="https://css-tricks.com/csswg-minutes-telecon-2024-09-18/"/>
+        <updated>2024-09-20T15:15:33.000Z</updated>
+        <summary type="html"><![CDATA[For the past two months, all my livelihood has gone towards reading, researching, understanding, writing, and editing about Anchor Positioning, and with many Almanac entries published and a full Guide guide on the way, I thought I was ready to …
+CSSWG Minutes Telecon (2024-09-18) originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Juan Diego Rodríguez</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From PhD drop-out to Google Data Scientist with Megan Risdal [Podcast #142]]]></title>
+        <id>https://www.freecodecamp.org/news/from-phd-drop-out-to-google-data-scientist-with-megan-risdal-podcast-142/</id>
+        <link href="https://www.freecodecamp.org/news/from-phd-drop-out-to-google-data-scientist-with-megan-risdal-podcast-142/"/>
+        <updated>2024-09-20T12:10:45.000Z</updated>
+        <summary type="html"><![CDATA[On this week's episode of the podcast, I interview Megan Risdal. She's a data scientist and Product Manager at Kaggle, Google's Data Science competition platform. Megan works closely with the global data science community, and on Google's Gemma open ...]]></summary>
+        <author>
+            <name>Quincy Larson</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Quick Hit #20]]></title>
         <id>https://css-tricks.com/?p=381079</id>
@@ -1004,79 +1036,6 @@ With a typical JavaScript library, you pass
 Callbacks on Web Components? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mastering Typography In Logo Design]]></title>
-        <id>https://smashingmagazine.com/2024/08/mastering-typography-in-logo-design/</id>
-        <link href="https://smashingmagazine.com/2024/08/mastering-typography-in-logo-design/"/>
-        <updated>2024-08-22T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Finding the right typeface for a logo is a challenge and can be a very time-consuming process that requires both creativity and a practical approach. Levi Honing provides the essential background and tools to enhance your typography journey and apply this knowledge to your logo design. Let’s dive deep to learn how to create a logo that is not only expressive but also purposeful and well-thought-out.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Levi Honing)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Quick Hit #11]]></title>
-        <id>https://css-tricks.com/?p=380039</id>
-        <link href="https://css-tricks.com/quick-hit-11-2/"/>
-        <updated>2024-08-21T21:25:08.000Z</updated>
-        <summary type="html"><![CDATA[Hey look at that, the State of CSS Survey for 2024 is open and taking submissions. …
-Quick Hit #11 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Serverless CRUD REST API with the Serverless Framework, Node.js, and GitHub Actions]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-build-a-serverless-crud-rest-api/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-a-serverless-crud-rest-api/"/>
-        <updated>2024-08-21T19:22:55.000Z</updated>
-        <summary type="html"><![CDATA[Serverless computing emerged as a response to the challenges of traditional server-based architectures. With serverless, developers no longer need to manage or scale servers manually. Instead, cloud providers handle infrastructure management, allowin...]]></summary>
-        <author>
-            <name>Ifeanyi Otuonye</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Create Software Architecture Diagrams Using the C4 Model]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-create-software-architecture-diagrams-using-the-c4-model/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-create-software-architecture-diagrams-using-the-c4-model/"/>
-        <updated>2024-08-21T18:50:04.000Z</updated>
-        <summary type="html"><![CDATA[As a developer, you'll likely work on a complex project at some point where deciphering the codebase feels like reading a whole novel. Engineers are code wizards, but even the best get lost in sprawling code. The challenge is that architecture diagra...]]></summary>
-        <author>
-            <name>Alex Pliutau</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is CSS Subgrid? A Practical Tutorial]]></title>
-        <id>https://www.freecodecamp.org/news/what-is-css-subgrid/</id>
-        <link href="https://www.freecodecamp.org/news/what-is-css-subgrid/"/>
-        <updated>2024-08-21T18:17:03.000Z</updated>
-        <summary type="html"><![CDATA[When designers create layouts in their mockups, everything including the content typically looks perfectly aligned and consistent. But in the real world, user-generated content varies wildly. For example, one testimonial card might have a brief sente...]]></summary>
-        <author>
-            <name>Ophy Boamah</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Intersection of Speed and Proximity]]></title>
-        <id>https://css-tricks.com/?p=380016</id>
-        <link href="https://css-tricks.com/the-intersection-of-speed-and-proximity/"/>
-        <updated>2024-08-21T16:11:31.000Z</updated>
-        <summary type="html"><![CDATA[You ever find yourself in bumper-to-bumper traffic? I did this morning on the way to work (read: whatever cafe I fancy). There’s a pattern to it, right? Stop, go, stop, go, stop… it’s almost rhythmic and harmonious in the most …
-The Intersection of Speed and Proximity originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Elastic Overflow Scrolling]]></title>
-        <id>https://css-tricks.com/?p=379949</id>
-        <link href="https://css-tricks.com/elastic-overflow-scrolling/"/>
-        <updated>2024-08-21T14:41:47.000Z</updated>
-        <summary type="html"><![CDATA[A client asked if we could mimic the “rubber band” scrolling behavior on many mobile devices. I’m sure you know what I’m talking about. It’s a behavior that already exists and happens automatically in most browsers. In iOS Safari, for …
-Elastic Overflow Scrolling originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Dave Seidman</name>
         </author>
     </entry>
 </feed>
