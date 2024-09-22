@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-21T00:11:58.790Z</updated>
+    <updated>2024-09-22T00:13:43.302Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How To Create a Progressive Web App (PWA) Using Next.js]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-create-a-nextjs-pwa/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-create-a-nextjs-pwa/"/>
+        <updated>2024-09-20T21:48:26.000Z</updated>
+        <summary type="html"><![CDATA[Have you ever wanted to create a web app that works smoothly on any device—whether it's on the web, mobile, or desktop? Imagine if your app could load quickly, work without an internet connection, and feel like a native app, all without needing to be...]]></summary>
+        <author>
+            <name>Spruce Emmanuel</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Quick Hit #21]]></title>
         <id>https://css-tricks.com/?p=380952</id>
@@ -1001,39 +1011,6 @@ Quick Hit #12 originally published on CSS-Tricks, which is part of the DigitalOc
 Turns out, there’s a lot!
 That’s an understatement! This is an incredible amount of work, even …
 Basic keyboard shortcut support for focused links originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Create a MacOS App with React Native]]></title>
-        <id>https://www.freecodecamp.org/news/create-a-macos-app-with-react-native/</id>
-        <link href="https://www.freecodecamp.org/news/create-a-macos-app-with-react-native/"/>
-        <updated>2024-08-22T19:30:39.000Z</updated>
-        <summary type="html"><![CDATA[We are excited to announce the release of our latest course on the freeCodeCamp.org YouTube channel that will teach you how to use React Native to build a MacOS application. This course will guide you through the development of a fully integrated Mac...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn to Use the Gemini AI MultiModal Model]]></title>
-        <id>https://www.freecodecamp.org/news/learn-to-use-the-gemini-ai-multimodal-model/</id>
-        <link href="https://www.freecodecamp.org/news/learn-to-use-the-gemini-ai-multimodal-model/"/>
-        <updated>2024-08-22T19:23:26.000Z</updated>
-        <summary type="html"><![CDATA[Gemini is a suite of AI models that can understand and generate human-like responses based on the input it receives. We just published a Gemini course on the freeCodeCamp.org YouTube channel that is designed to guide you through the world of multimod...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Callbacks on Web Components?]]></title>
-        <id>https://css-tricks.com/?p=380029</id>
-        <link href="https://css-tricks.com/callbacks-on-web-components/"/>
-        <updated>2024-08-22T14:01:35.000Z</updated>
-        <summary type="html"><![CDATA[A gem from Chris Ferdinandi that details how to use custom events to hook into Web Components. More importantly, Chris dutifully explains why custom events are a better fit than, say, callback functions.
-With a typical JavaScript library, you pass 
-…
-Callbacks on Web Components? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Geoff Graham</name>
         </author>
