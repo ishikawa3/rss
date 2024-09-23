@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-22T00:13:43.302Z</updated>
+    <updated>2024-09-23T00:12:45.673Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
@@ -969,50 +969,6 @@ Quick Hit #13 originally published on CSS-Tricks, which is part of the DigitalOc
         <summary type="html"><![CDATA[Want to create more randomized effects in your JavaScript code? The `Math.random()` method alone, with its limitations, won’t cut it for generating unique random numbers. Amejimaobari Ollornwi explains how to generate a series of unique random numbers using the `Set` object, how to use these random numbers as indexes for arrays, and explores some practical applications of randomization.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Amejimaobari Ollornwi)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Future-Proof Your Software Engineering Career for the Age of AGI]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-future-proof-your-software-engineering-career-for-the-age-of-agi/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-future-proof-your-software-engineering-career-for-the-age-of-agi/"/>
-        <updated>2024-08-23T23:01:03.000Z</updated>
-        <summary type="html"><![CDATA[In the viral essay The Decade Ahead, Leopold Aschenbrenner predicts that Artificial General Intelligence (AGI) will be a reality in only a few years. But what exactly is AGI, and how does it differ from the AI we have today? AGI refers to a type of a...]]></summary>
-        <author>
-            <name>Victoria Drake</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[From Brain Tumor to Teaching 500,000 Sysadmin Students with Hiroko Nishimura [Podcast #138]]]></title>
-        <id>https://www.freecodecamp.org/news/from-brain-tumor-to-teaching-500000-sysadmin-students-with-hiroko-nishimura-podcast-138/</id>
-        <link href="https://www.freecodecamp.org/news/from-brain-tumor-to-teaching-500000-sysadmin-students-with-hiroko-nishimura-podcast-138/"/>
-        <updated>2024-08-23T16:40:35.000Z</updated>
-        <summary type="html"><![CDATA[On this week's episode of the podcast, freeCodeCamp founder Quincy Larson interviews Hiroko Nishimura. She's a special ed teacher turned system administrator turned technical instructor. Hiroko grew up in Japan and moved to the US as a kid. In her ea...]]></summary>
-        <author>
-            <name>Quincy Larson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Quick Hit #12]]></title>
-        <id>https://css-tricks.com/?p=380064</id>
-        <link href="https://css-tricks.com/quick-hit-12/"/>
-        <updated>2024-08-23T15:43:54.000Z</updated>
-        <summary type="html"><![CDATA[Giant kudos to Scott Jehl on releasing his new Web Components De-Mystified online course! Eight full hours of training from one of the best in the business.…
-Quick Hit #12 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Basic keyboard shortcut support for focused links]]></title>
-        <id>https://css-tricks.com/?p=380042</id>
-        <link href="https://css-tricks.com/basic-keyboard-shortcut-support-for-focused-links/"/>
-        <updated>2024-08-23T13:16:20.000Z</updated>
-        <summary type="html"><![CDATA[Eric gifting us with his research on all the various things that anchors (not links) do when they are in :focus.
-Turns out, there’s a lot!
-That’s an understatement! This is an incredible amount of work, even …
-Basic keyboard shortcut support for focused links originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
         </author>
     </entry>
 </feed>
