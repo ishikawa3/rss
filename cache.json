@@ -12,6 +12,21 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=381060",
+          "author": "Preethi",
+          "description": "The <select> element is a fairly straightforward concept: focus on it to reveal a set of <option>s that can be selected as the input’s value. That’s a great pattern and I’m not suggesting we change it. That said, I …\nHow to Make a “Scroll to Select” Form Control originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/how-to-make-a-scroll-to-select-form-control/",
+          "publishedOn": "2024-09-25T14:31:54.000Z",
+          "wordCount": 2846,
+          "title": "How to Make a “Scroll to Select” Form Control",
+          "enclosure": {
+            "url": "https://css-tricks.com/wp-content/uploads/2024/09/scroll-to-select.mov",
+            "length": "865130",
+            "type": "video/quicktime"
+          },
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/381060"
+        },
+        {
           "id": "https://css-tricks.com/?p=381068",
           "author": "Geoff Graham",
           "description": "Mixing colors in CSS is pretty much a solved deal, thanks to the more recent color-mix() function as it gains support. Pass in two color values — any two color values at all — and optionally set the proportions.\nbackground-color: \n…\nColor Mixing With Animation Composition originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -310,26 +325,6 @@
           "wordCount": 2360,
           "title": "Useful Tools for Creating AVIF Images",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/365579"
-        },
-        {
-          "id": "https://css-tricks.com/?p=380047",
-          "author": "Geoff Graham",
-          "description": "Developers suffer in the great multitudes whom their sacred block-based websites cannot reach.\nJohannes Gutenberg (probably)\n\nLong time WordPresser, first time Gutenberger here. I’m a fan even though I’m still anchored to a classic/block hybrid setup. I believe Johanes himself …\nUnderstanding Gutenberg Blocks, Patterns, and Templates originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/understanding-gutenberg-blocks-patterns-and-templates/",
-          "publishedOn": "2024-08-26T17:27:16.000Z",
-          "wordCount": 1755,
-          "title": "Understanding Gutenberg Blocks, Patterns, and Templates",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/380047"
-        },
-        {
-          "id": "https://css-tricks.com/?p=380087",
-          "author": "Geoff Graham",
-          "description": "Happy birthday, Chris Coyier — and thank you for CSS-Tricks as well as everything you do at CodePen, ShopTalk, Boost, and even your personal blog!…\nQuick Hit #13 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/quick-hit-13/",
-          "publishedOn": "2024-08-26T15:04:35.000Z",
-          "wordCount": 1329,
-          "title": "Quick Hit #13",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/380087"
         }
       ]
     },
@@ -502,21 +497,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/integrating-image-to-text-and-text-to-speech-models-part2/integrating-image-to-text-and-text-to-speech-models.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2024/08/generating-unique-random-numbers-javascript-using-sets/",
-          "author": "hello@smashingmagazine.com (Amejimaobari Ollornwi)",
-          "description": "Want to create more randomized effects in your JavaScript code? The `Math.random()` method alone, with its limitations, won’t cut it for generating unique random numbers. Amejimaobari Ollornwi explains how to generate a series of unique random numbers using the `Set` object, how to use these random numbers as indexes for arrays, and explores some practical applications of randomization.",
-          "link": "https://smashingmagazine.com/2024/08/generating-unique-random-numbers-javascript-using-sets/",
-          "publishedOn": "2024-08-26T15:00:00.000Z",
-          "wordCount": 3851,
-          "title": "Generating Unique Random Numbers In JavaScript Using Sets",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/generating-unique-random-numbers-javascript-using-sets/generating-unique-random-numbers-javascript-using-sets.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/generating-unique-random-numbers-javascript-using-sets/generating-unique-random-numbers-javascript-using-sets.jpg"
         }
       ]
     },
@@ -525,6 +505,36 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/tools-for-code-reuse/",
+          "author": "Oluwadamisi Samuel",
+          "description": "Reusing code is an important part of software development. Instead of writing the same code again and again, developers can save time and effort by using code that already works. This not only speeds up the development process but also helps improve ...",
+          "link": "https://www.freecodecamp.org/news/tools-for-code-reuse/",
+          "publishedOn": "2024-09-25T20:16:50.000Z",
+          "wordCount": 2800,
+          "title": "How AI Tools Can Help You Reuse Code",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1727102263215/bcd245a1-4e4e-4563-8f6c-1715b5f8ed13.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/learn-react-hooks-with-example-code/",
+          "author": "Prankur Pandey",
+          "description": "Web development is a popular field in the tech industry. It involves building web software using HTML, CSS, and JavaScript – sometimes with the help of various frameworks and libraries. Using libraries and frameworks allows developers to focus more o...",
+          "link": "https://www.freecodecamp.org/news/learn-react-hooks-with-example-code/",
+          "publishedOn": "2024-09-25T16:04:35.000Z",
+          "wordCount": 2925,
+          "title": "Learn React Hooks – Common Hooks Explained with Code Examples",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1727212733982/7c9b8ae3-e8ac-4e20-b154-7edc60a6985a.avif"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/flutter-streams-and-services/",
+          "author": "Obum",
+          "description": "Among the many state management architectures in Flutter, combining Dart streams with singleton classes (services) is an unpopular yet easy architecture. In this article, we’ll explore how to achieve this combination for app-wide state in Flutter. Ta...",
+          "link": "https://www.freecodecamp.org/news/flutter-streams-and-services/",
+          "publishedOn": "2024-09-25T09:49:36.000Z",
+          "wordCount": 4545,
+          "title": "How to Use Streams and Services for Flutter State",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1727130776096/a52147fe-e05a-45e7-af73-9f7a9a8510b5.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/how-to-work-with-sql-databases-in-go/",
           "author": "Alex Pliutau",
@@ -1094,26 +1104,6 @@
           "wordCount": 2560,
           "title": "How to Build an Accessible Modal – with Example Code",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1724337698676/aa23c219-2ffb-4424-bb34-3195a905d973.jpeg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-create-interactive-html-prototypes/",
-          "author": "Joan Ayebola",
-          "description": "Interactivity is what makes a website come alive. Whether it's a button that reveals more content or a form that responds to your input, these little touches keep users engaged. Traditionally, we've relied heavily on JavaScript to make websites inter...",
-          "link": "https://www.freecodecamp.org/news/how-to-create-interactive-html-prototypes/",
-          "publishedOn": "2024-08-27T10:55:58.000Z",
-          "wordCount": 4831,
-          "title": "How to Create Interactive HTML Prototypes – How Far Can You Go Without JavaScript?",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1724485095228/2bc8f1c3-d0b8-41a2-a741-f9eaa2b6dde0.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-blend-images-in-rust-using-pixel-math/",
-          "author": "Anshul Sanghi",
-          "description": "For anyone looking to learn about image processing as a programming niche, blending images is a very good place to start. It's one of the simplest yet most rewarding techniques when it comes to image processing. To help your intuition, it's best to i...",
-          "link": "https://www.freecodecamp.org/news/how-to-blend-images-in-rust-using-pixel-math/",
-          "publishedOn": "2024-08-27T10:25:56.000Z",
-          "wordCount": 3385,
-          "title": "How to Blend Images in Rust Using Pixel Math",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1724689572465/f03e4b74-1091-4673-af5b-c8827e74caf0.png"
         }
       ]
     }
