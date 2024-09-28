@@ -2,10 +2,62 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-27T00:13:08.631Z</updated>
+    <updated>2024-09-28T00:12:32.164Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Slide Through Unlimited Dimensions With CSS Scroll Timelines]]></title>
+        <id>https://css-tricks.com/?p=381191</id>
+        <link href="https://css-tricks.com/slide-through-unlimited-dimensions-with-css-scroll-timelines/"/>
+        <updated>2024-09-27T18:39:23.000Z</updated>
+        <summary type="html"><![CDATA[The creator of CSS has said he originally envisaged CSS as the main web technology to control behavior on web pages, with scripting as a fallback when things weren’t possible declaratively in CSS. The rationale for a CSS-first approach was …
+Slide Through Unlimited Dimensions With CSS Scroll Timelines originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Lee Meyer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aggregating my distributed self]]></title>
+        <id>https://css-tricks.com/?p=381293</id>
+        <link href="https://css-tricks.com/aggregating-my-distributed-self/"/>
+        <updated>2024-09-27T15:24:07.000Z</updated>
+        <summary type="html"><![CDATA[Miriam Suzanne’s in the middle of a redesign of her personal website. It began in August 2022. She’s made an entire series out of the work that’s worth your time, but I wanted to call out the fifth and latest …
+Aggregating my distributed self originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Manage Dangerous Actions In User Interfaces]]></title>
+        <id>https://smashingmagazine.com/2024/09/how-manage-dangerous-actions-user-interfaces/</id>
+        <link href="https://smashingmagazine.com/2024/09/how-manage-dangerous-actions-user-interfaces/"/>
+        <updated>2024-09-27T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[One of the main laws that applies to almost everything in our lives, including building digital products, is Murphy’s Law: “Anything that can go wrong will go wrong.” Our goal is to prevent things from going wrong and, if they do, mitigate the consequences. In this article, Victor Ponamarev explores different strategies for preventing users from making mistakes.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Victor Ponamariov)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use SSH to Safely Connect to GitHub: A Simple Guide for Windows OS]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-use-ssh-to-connect-to-github-guide-for-windows/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-ssh-to-connect-to-github-guide-for-windows/"/>
+        <updated>2024-09-27T14:33:54.000Z</updated>
+        <summary type="html"><![CDATA[In this article, we will explore the Secure Shell (SSH) protocol, a vital tool for securing network communications. SSH is widely used for accessing remote servers and managing code repositories securely, particularly in environments like GitHub. You...]]></summary>
+        <author>
+            <name>oghenekparobo Stephen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The reality of the developer job market with ex-Googler YK Sugi [Podcast #143]]]></title>
+        <id>https://www.freecodecamp.org/news/developer-job-market-with-ex-googler-yk-sugi-podcast-143/</id>
+        <link href="https://www.freecodecamp.org/news/developer-job-market-with-ex-googler-yk-sugi-podcast-143/"/>
+        <updated>2024-09-27T13:01:27.000Z</updated>
+        <summary type="html"><![CDATA[On this week's episode of the podcast, I interview YK Sugi. He's a software engineer and prolific YouTube Computer Science tutorial creator. He's worked at Google and Microsoft. He runs the CS Dojo channel where he shares his insights on software dev...]]></summary>
+        <author>
+            <name>Quincy Larson</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Catching Up on the WordPress 🚫 WP Engine Sitch]]></title>
         <id>https://css-tricks.com/?p=381247</id>
@@ -999,70 +1051,6 @@ Shipping Tumblr and WordPress originally published on CSS-Tricks, which is part
         <summary type="html"><![CDATA[Front-end development is the aspect of web development that involves building user-friendly, dynamic and intuitive interfaces. A front-end developer is primarily concerned about the interface design that the user interacts with and the user’s experie...]]></summary>
         <author>
             <name>Timothy Olanrewaju</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Build a Shopping Cart Backend with Spring Boot and Spring Security]]></title>
-        <id>https://www.freecodecamp.org/news/build-a-shopping-cart-backend-with-spring-boot-and-spring-security/</id>
-        <link href="https://www.freecodecamp.org/news/build-a-shopping-cart-backend-with-spring-boot-and-spring-security/"/>
-        <updated>2024-08-28T18:28:12.000Z</updated>
-        <summary type="html"><![CDATA[We just posted a course on the freeCodeCamp.org YouTube channel that is designed to help you master Spring Boot and Spring Security by guiding you through the development of a fully functional shopping cart backend application. Samson Alfred created ...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use GPT to Analyze Large Datasets]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-use-gpt-to-analyze-large-datasets/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-gpt-to-analyze-large-datasets/"/>
-        <updated>2024-08-28T17:57:59.000Z</updated>
-        <summary type="html"><![CDATA[Absorbing and then summarizing very large quantities of content in just a few seconds truly is a big deal. As an example, a while back I received a link to the recording of an important 90 minute business video conference that I'd missed a few hours ...]]></summary>
-        <author>
-            <name>David Clinton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The “Other” C in CSS]]></title>
-        <id>https://css-tricks.com/?p=380061</id>
-        <link href="https://css-tricks.com/the-other-c-in-css/"/>
-        <updated>2024-08-28T14:09:42.000Z</updated>
-        <summary type="html"><![CDATA[I think it’s worth listening to anything Sara Soueidan has to say. That’s especially true if she’s speaking at an event for the first time in four years, which was the case when she took the stage at CSS Day …
-The “Other” C in CSS originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Implement Server-Sent Events in Go]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-implement-server-sent-events-in-go/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-implement-server-sent-events-in-go/"/>
-        <updated>2024-08-28T14:07:51.000Z</updated>
-        <summary type="html"><![CDATA[Server-Sent Events (SSE) is a powerful technology that enables real-time, unidirectional communication from servers to clients. In this article, we'll explore how to implement SSE in Go, discussing its benefits, use cases, and providing practical exa...]]></summary>
-        <author>
-            <name>Alex Pliutau</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Introducing <skelly-wc>]]></title>
-        <id>https://css-tricks.com/?p=380178</id>
-        <link href="https://css-tricks.com/introducing-shelly-wc/"/>
-        <updated>2024-08-28T14:05:00.000Z</updated>
-        <summary type="html"><![CDATA[I created a little library at work to make those “skeleton screens” that I’m not sure anyone likes. […] We named it skellyCSS because… skeletons and CSS, I guess. We still aren’t even really using it very much, but it 
-…
-Introducing <skelly-wc> originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Useful Tools for Creating AVIF Images]]></title>
-        <id>https://css-tricks.com/?p=365579</id>
-        <link href="https://css-tricks.com/useful-tools-for-creating-avif-images/"/>
-        <updated>2024-08-28T14:00:49.000Z</updated>
-        <summary type="html"><![CDATA[AVIF (AV1 Image File Format) is a modern image file format specification for storing images that offer a much more significant file reduction when compared to other formats like JPG, JPEG, PNG, and WebP. Version 1.0.0 of the AVIF specification …
-Useful Tools for Creating AVIF Images originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Sunkanmi Fafowora</name>
         </author>
     </entry>
 </feed>

@@ -12,6 +12,26 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=381191",
+          "author": "Lee Meyer",
+          "description": "The creator of CSS has said he originally envisaged CSS as the main web technology to control behavior on web pages, with scripting as a fallback when things weren’t possible declaratively in CSS. The rationale for a CSS-first approach was …\nSlide Through Unlimited Dimensions With CSS Scroll Timelines originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/slide-through-unlimited-dimensions-with-css-scroll-timelines/",
+          "publishedOn": "2024-09-27T18:39:23.000Z",
+          "wordCount": 2357,
+          "title": "Slide Through Unlimited Dimensions With CSS Scroll Timelines",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/381191"
+        },
+        {
+          "id": "https://css-tricks.com/?p=381293",
+          "author": "Geoff Graham",
+          "description": "Miriam Suzanne’s in the middle of a redesign of her personal website. It began in August 2022. She’s made an entire series out of the work that’s worth your time, but I wanted to call out the fifth and latest …\nAggregating my distributed self originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/aggregating-my-distributed-self/",
+          "publishedOn": "2024-09-27T15:24:07.000Z",
+          "wordCount": 2580,
+          "title": "Aggregating my distributed self",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/381293"
+        },
+        {
           "id": "https://css-tricks.com/?p=381247",
           "author": "Geoff Graham",
           "description": "Many of you — perhaps most of you — have been sitting on the sidelines while WordPress and WP Engine trade legal attacks on one another. It’s been widely covered as we watch it unfold in the open; ironically, in …\nCatching Up on the WordPress 🚫 WP Engine Sitch originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -315,36 +335,6 @@
           "wordCount": 1627,
           "title": "Shipping Tumblr and WordPress",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/380195"
-        },
-        {
-          "id": "https://css-tricks.com/?p=380061",
-          "author": "Geoff Graham",
-          "description": "I think it’s worth listening to anything Sara Soueidan has to say. That’s especially true if she’s speaking at an event for the first time in four years, which was the case when she took the stage at CSS Day …\nThe “Other” C in CSS originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/the-other-c-in-css/",
-          "publishedOn": "2024-08-28T14:09:42.000Z",
-          "wordCount": 3554,
-          "title": "The “Other” C in CSS",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/380061"
-        },
-        {
-          "id": "https://css-tricks.com/?p=380178",
-          "author": "Geoff Graham",
-          "description": "I created a little library at work to make those “skeleton screens” that I’m not sure anyone likes. […] We named it skellyCSS because… skeletons and CSS, I guess. We still aren’t even really using it very much, but it \n…\nIntroducing <skelly-wc> originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/introducing-shelly-wc/",
-          "publishedOn": "2024-08-28T14:05:00.000Z",
-          "wordCount": 1461,
-          "title": "Introducing <skelly-wc>",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/380178"
-        },
-        {
-          "id": "https://css-tricks.com/?p=365579",
-          "author": "Sunkanmi Fafowora",
-          "description": "AVIF (AV1 Image File Format) is a modern image file format specification for storing images that offer a much more significant file reduction when compared to other formats like JPG, JPEG, PNG, and WebP. Version 1.0.0 of the AVIF specification …\nUseful Tools for Creating AVIF Images originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/useful-tools-for-creating-avif-images/",
-          "publishedOn": "2024-08-28T14:00:49.000Z",
-          "wordCount": 2360,
-          "title": "Useful Tools for Creating AVIF Images",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/365579"
         }
       ]
     },
@@ -353,6 +343,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2024/09/how-manage-dangerous-actions-user-interfaces/",
+          "author": "hello@smashingmagazine.com (Victor Ponamariov)",
+          "description": "One of the main laws that applies to almost everything in our lives, including building digital products, is Murphy’s Law: “Anything that can go wrong will go wrong.” Our goal is to prevent things from going wrong and, if they do, mitigate the consequences. In this article, Victor Ponamarev explores different strategies for preventing users from making mistakes.",
+          "link": "https://smashingmagazine.com/2024/09/how-manage-dangerous-actions-user-interfaces/",
+          "publishedOn": "2024-09-27T15:00:00.000Z",
+          "wordCount": 6810,
+          "title": "How To Manage Dangerous Actions In User Interfaces",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/how-manage-dangerous-actions-user-interfaces/how-manage-dangerous-actions-user-interfaces.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/how-manage-dangerous-actions-user-interfaces/how-manage-dangerous-actions-user-interfaces.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2024/09/timeless-power-of-spreadsheets/",
           "author": "hello@smashingmagazine.com (Frederick O’Brien)",
@@ -525,6 +530,26 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-use-ssh-to-connect-to-github-guide-for-windows/",
+          "author": "oghenekparobo Stephen",
+          "description": "In this article, we will explore the Secure Shell (SSH) protocol, a vital tool for securing network communications. SSH is widely used for accessing remote servers and managing code repositories securely, particularly in environments like GitHub. You...",
+          "link": "https://www.freecodecamp.org/news/how-to-use-ssh-to-connect-to-github-guide-for-windows/",
+          "publishedOn": "2024-09-27T14:33:54.000Z",
+          "wordCount": 3351,
+          "title": "How to Use SSH to Safely Connect to GitHub: A Simple Guide for Windows OS",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1727226065318/c1522ad1-df49-4bc9-aa31-567d4012585a.avif"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/developer-job-market-with-ex-googler-yk-sugi-podcast-143/",
+          "author": "Quincy Larson",
+          "description": "On this week's episode of the podcast, I interview YK Sugi. He's a software engineer and prolific YouTube Computer Science tutorial creator. He's worked at Google and Microsoft. He runs the CS Dojo channel where he shares his insights on software dev...",
+          "link": "https://www.freecodecamp.org/news/developer-job-market-with-ex-googler-yk-sugi-podcast-143/",
+          "publishedOn": "2024-09-27T13:01:27.000Z",
+          "wordCount": 1023,
+          "title": "The reality of the developer job market with ex-Googler YK Sugi [Podcast #143]",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1727442035120/b3f30594-e6da-4470-90d0-fcd48ee987f8.jpeg"
+        },
         {
           "id": "https://www.freecodecamp.org/news/pass-the-microsoft-365-certified-fundamentals-ms-900-exam/",
           "author": "Beau Carnes",
@@ -1064,36 +1089,6 @@
           "wordCount": 2323,
           "title": "Design-first vs Logic-first Approach – How Should You Start Your Front-end Projects?",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1724861983210/118e84bc-0153-4b01-b880-e12fe012b7a5.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/build-a-shopping-cart-backend-with-spring-boot-and-spring-security/",
-          "author": "Beau Carnes",
-          "description": "We just posted a course on the freeCodeCamp.org YouTube channel that is designed to help you master Spring Boot and Spring Security by guiding you through the development of a fully functional shopping cart backend application. Samson Alfred created ...",
-          "link": "https://www.freecodecamp.org/news/build-a-shopping-cart-backend-with-spring-boot-and-spring-security/",
-          "publishedOn": "2024-08-28T18:28:12.000Z",
-          "wordCount": 1134,
-          "title": "Build a Shopping Cart Backend with Spring Boot and Spring Security",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1724869670804/390e87e2-487d-410f-84f9-20f636b72439.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-use-gpt-to-analyze-large-datasets/",
-          "author": "David Clinton",
-          "description": "Absorbing and then summarizing very large quantities of content in just a few seconds truly is a big deal. As an example, a while back I received a link to the recording of an important 90 minute business video conference that I'd missed a few hours ...",
-          "link": "https://www.freecodecamp.org/news/how-to-use-gpt-to-analyze-large-datasets/",
-          "publishedOn": "2024-08-28T17:57:59.000Z",
-          "wordCount": 2178,
-          "title": "How to Use GPT to Analyze Large Datasets",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1724798393633/8ad22b7c-646c-4c02-894d-6a6b08447049.jpeg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-implement-server-sent-events-in-go/",
-          "author": "Alex Pliutau",
-          "description": "Server-Sent Events (SSE) is a powerful technology that enables real-time, unidirectional communication from servers to clients. In this article, we'll explore how to implement SSE in Go, discussing its benefits, use cases, and providing practical exa...",
-          "link": "https://www.freecodecamp.org/news/how-to-implement-server-sent-events-in-go/",
-          "publishedOn": "2024-08-28T14:07:51.000Z",
-          "wordCount": 1703,
-          "title": "How to Implement Server-Sent Events in Go",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1724762290560/de9c7afd-2a81-4bd6-aa12-da92a759ebdb.png"
         }
       ]
     }
