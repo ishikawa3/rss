@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-28T00:12:32.164Z</updated>
+    <updated>2024-09-29T00:14:05.374Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
@@ -1018,39 +1018,6 @@ Paragraphs originally published on CSS-Tricks, which is part of the DigitalOcean
         <summary type="html"><![CDATA[Large Language Models are everywhere these days – think ChatGPT – but they have their fair share of challenges. One of the biggest challenges faced by LLMs is hallucination. This occurs when the model generates text that is factually incorrect or mis...]]></summary>
         <author>
             <name>Bhavishya Pandit</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Integrating Image-To-Text And Text-To-Speech Models (Part 2)]]></title>
-        <id>https://smashingmagazine.com/2024/08/integrating-image-to-text-and-text-to-speech-models-part2/</id>
-        <link href="https://smashingmagazine.com/2024/08/integrating-image-to-text-and-text-to-speech-models-part2/"/>
-        <updated>2024-08-30T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In the second part of this series, Joas Pambou aims to build a more advanced version of the previous application that performs conversational analyses on images or videos, much like a chatbot assistant. This means you can ask and learn more about your input content.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Joas Pambou)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Shipping Tumblr and WordPress]]></title>
-        <id>https://css-tricks.com/?p=380195</id>
-        <link href="https://css-tricks.com/shipping-tumblr-and-wordpress/"/>
-        <updated>2024-08-29T15:05:58.000Z</updated>
-        <summary type="html"><![CDATA[Didya see that Tumblr is getting a WordPress makeover? And it’s not a trivial move:
-This won’t be easy. Tumblr hosts over half a billion blogs. We’re talking about one of the largest technical migrations in internet history. Some 
-…
-Shipping Tumblr and WordPress originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Design-first vs Logic-first Approach – How Should You Start Your Front-end Projects?]]></title>
-        <id>https://www.freecodecamp.org/news/design-first-vs-logic-first-approach/</id>
-        <link href="https://www.freecodecamp.org/news/design-first-vs-logic-first-approach/"/>
-        <updated>2024-08-29T12:41:07.000Z</updated>
-        <summary type="html"><![CDATA[Front-end development is the aspect of web development that involves building user-friendly, dynamic and intuitive interfaces. A front-end developer is primarily concerned about the interface design that the user interacts with and the user’s experie...]]></summary>
-        <author>
-            <name>Timothy Olanrewaju</name>
         </author>
     </entry>
 </feed>

@@ -325,16 +325,6 @@
           "wordCount": 1525,
           "title": "Paragraphs",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/380206"
-        },
-        {
-          "id": "https://css-tricks.com/?p=380195",
-          "author": "Geoff Graham",
-          "description": "Didya see that Tumblr is getting a WordPress makeover? And it’s not a trivial move:\nThis won’t be easy. Tumblr hosts over half a billion blogs. We’re talking about one of the largest technical migrations in internet history. Some \n…\nShipping Tumblr and WordPress originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/shipping-tumblr-and-wordpress/",
-          "publishedOn": "2024-08-29T15:05:58.000Z",
-          "wordCount": 1627,
-          "title": "Shipping Tumblr and WordPress",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/380195"
         }
       ]
     },
@@ -507,21 +497,6 @@
             "type": "image/png"
           },
           "imageUrl": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/55161fb1-16dc-47e1-a118-5ecd0f0a3fbb/sept-17-autumn-rains-preview-opt.png"
-        },
-        {
-          "id": "https://smashingmagazine.com/2024/08/integrating-image-to-text-and-text-to-speech-models-part2/",
-          "author": "hello@smashingmagazine.com (Joas Pambou)",
-          "description": "In the second part of this series, Joas Pambou aims to build a more advanced version of the previous application that performs conversational analyses on images or videos, much like a chatbot assistant. This means you can ask and learn more about your input content.",
-          "link": "https://smashingmagazine.com/2024/08/integrating-image-to-text-and-text-to-speech-models-part2/",
-          "publishedOn": "2024-08-30T09:00:00.000Z",
-          "wordCount": 5629,
-          "title": "Integrating Image-To-Text And Text-To-Speech Models (Part 2)",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/integrating-image-to-text-and-text-to-speech-models-part2/integrating-image-to-text-and-text-to-speech-models.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/integrating-image-to-text-and-text-to-speech-models-part2/integrating-image-to-text-and-text-to-speech-models.jpg"
         }
       ]
     },
@@ -1079,16 +1054,6 @@
           "wordCount": 3303,
           "title": "How to Build a RAG Pipeline with LlamaIndex",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1725024307257/62401eea-25ab-4f00-93d7-76d7c49cf330.jpeg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/design-first-vs-logic-first-approach/",
-          "author": "Timothy Olanrewaju",
-          "description": "Front-end development is the aspect of web development that involves building user-friendly, dynamic and intuitive interfaces. A front-end developer is primarily concerned about the interface design that the user interacts with and the user’s experie...",
-          "link": "https://www.freecodecamp.org/news/design-first-vs-logic-first-approach/",
-          "publishedOn": "2024-08-29T12:41:07.000Z",
-          "wordCount": 2323,
-          "title": "Design-first vs Logic-first Approach – How Should You Start Your Front-end Projects?",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1724861983210/118e84bc-0153-4b01-b880-e12fe012b7a5.png"
         }
       ]
     }
