@@ -2,10 +2,61 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-30T00:13:16.644Z</updated>
+    <updated>2024-10-01T00:14:25.490Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Improve Your Data Science Skills by Solving Kaggle Challenges]]></title>
+        <id>https://www.freecodecamp.org/news/improve-your-data-science-skills-by-solving-kaggle-challenges/</id>
+        <link href="https://www.freecodecamp.org/news/improve-your-data-science-skills-by-solving-kaggle-challenges/"/>
+        <updated>2024-09-30T20:08:49.000Z</updated>
+        <summary type="html"><![CDATA[Data science competitions can help you improve your data science skills. We just posted a course on the freeCodeCamp.org YouTube channel that is designed to help you understand and complete Kaggle competitions, from data exploration to model building...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Start Building Projects with LLMs]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-start-building-projects-with-llms/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-start-building-projects-with-llms/"/>
+        <updated>2024-09-30T18:46:25.000Z</updated>
+        <summary type="html"><![CDATA[If you’re an aspiring AI professional, becoming an LLM engineer offers an exciting and promising career path. But where should you start? What should your trajectory look like? How should you learn? In one of my previous posts, I laid out the complet...]]></summary>
+        <author>
+            <name>Harshit Tyagi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New React 19 Features You Should Know –  Explained with Code Examples]]></title>
+        <id>https://www.freecodecamp.org/news/new-react-19-features-you-should-know-with-code-examples/</id>
+        <link href="https://www.freecodecamp.org/news/new-react-19-features-you-should-know-with-code-examples/"/>
+        <updated>2024-09-30T18:36:59.000Z</updated>
+        <summary type="html"><![CDATA[React.js is 11 years old, and it has become one of the most popular JavaScript libraries out there. And now, React is transitioning from version 18 to version 19. So hold onto your hats, React enthusiasts 🎩. React 19 has recently landed, and it’s a ...]]></summary>
+        <author>
+            <name>Prankur Pandey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSS Masonry & CSS Grid]]></title>
+        <id>https://css-tricks.com/?p=381216</id>
+        <link href="https://css-tricks.com/css-masonry-css-grid/"/>
+        <updated>2024-09-30T13:56:11.000Z</updated>
+        <summary type="html"><![CDATA[An approach for creating masonry layouts in vanilla CSS is one of those “holy grail” aspirations. I actually tend to plop masonry and the classic “Holy Grail” layout in the same general era of web design. They’re different types of …
+CSS Masonry & CSS Grid originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Crows, Ghosts, And Autumn Bliss (October 2024 Wallpapers Edition)]]></title>
+        <id>https://smashingmagazine.com/2024/09/desktop-wallpaper-calendars-october-2024/</id>
+        <link href="https://smashingmagazine.com/2024/09/desktop-wallpaper-calendars-october-2024/"/>
+        <updated>2024-09-30T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Could there be a better way to celebrate the beginning of a new month than with a collection of desktop wallpapers? We’ve got some eye-catching designs to sweeten up your October. Enjoy!]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Slide Through Unlimited Dimensions With CSS Scroll Timelines]]></title>
         <id>https://css-tricks.com/?p=381191</id>

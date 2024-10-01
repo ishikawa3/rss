@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=381216",
+          "author": "Geoff Graham",
+          "description": "An approach for creating masonry layouts in vanilla CSS is one of those “holy grail” aspirations. I actually tend to plop masonry and the classic “Holy Grail” layout in the same general era of web design. They’re different types of …\nCSS Masonry & CSS Grid originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/css-masonry-css-grid/",
+          "publishedOn": "2024-09-30T13:56:11.000Z",
+          "wordCount": 3212,
+          "title": "CSS Masonry & CSS Grid",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/381216"
+        },
+        {
           "id": "https://css-tricks.com/?p=381191",
           "author": "Lee Meyer",
           "description": "The creator of CSS has said he originally envisaged CSS as the main web technology to control behavior on web pages, with scripting as a fallback when things weren’t possible declaratively in CSS. The rationale for a CSS-first approach was …\nSlide Through Unlimited Dimensions With CSS Scroll Timelines originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -309,6 +319,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2024/09/desktop-wallpaper-calendars-october-2024/",
+          "author": "hello@smashingmagazine.com (Cosima Mielke)",
+          "description": "Could there be a better way to celebrate the beginning of a new month than with a collection of desktop wallpapers? We’ve got some eye-catching designs to sweeten up your October. Enjoy!",
+          "link": "https://smashingmagazine.com/2024/09/desktop-wallpaper-calendars-october-2024/",
+          "publishedOn": "2024-09-30T09:00:00.000Z",
+          "wordCount": 5090,
+          "title": "Crows, Ghosts, And Autumn Bliss (October 2024 Wallpapers Edition)",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-october-2023/oct-23-the-crow-and-the-ghosts-preview-opt.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "http://files.smashing.media/articles/desktop-wallpaper-calendars-october-2023/oct-23-the-crow-and-the-ghosts-preview-opt.png"
+        },
+        {
           "id": "https://smashingmagazine.com/2024/09/how-manage-dangerous-actions-user-interfaces/",
           "author": "hello@smashingmagazine.com (Victor Ponamariov)",
           "description": "One of the main laws that applies to almost everything in our lives, including building digital products, is Murphy’s Law: “Anything that can go wrong will go wrong.” Our goal is to prevent things from going wrong and, if they do, mitigate the consequences. In this article, Victor Ponamarev explores different strategies for preventing users from making mistakes.",
@@ -465,6 +490,36 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/improve-your-data-science-skills-by-solving-kaggle-challenges/",
+          "author": "Beau Carnes",
+          "description": "Data science competitions can help you improve your data science skills. We just posted a course on the freeCodeCamp.org YouTube channel that is designed to help you understand and complete Kaggle competitions, from data exploration to model building...",
+          "link": "https://www.freecodecamp.org/news/improve-your-data-science-skills-by-solving-kaggle-challenges/",
+          "publishedOn": "2024-09-30T20:08:49.000Z",
+          "wordCount": 1108,
+          "title": "Improve Your Data Science Skills by Solving Kaggle Challenges",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1727726892494/958dce2c-ac80-4bee-87a3-fb8fd5bd2aef.jpeg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-start-building-projects-with-llms/",
+          "author": "Harshit Tyagi",
+          "description": "If you’re an aspiring AI professional, becoming an LLM engineer offers an exciting and promising career path. But where should you start? What should your trajectory look like? How should you learn? In one of my previous posts, I laid out the complet...",
+          "link": "https://www.freecodecamp.org/news/how-to-start-building-projects-with-llms/",
+          "publishedOn": "2024-09-30T18:46:25.000Z",
+          "wordCount": 3167,
+          "title": "How to Start Building Projects with LLMs",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1727442031549/2b9f61f1-d25d-4c10-8a9e-c63fe7ee7cad.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/new-react-19-features-you-should-know-with-code-examples/",
+          "author": "Prankur Pandey",
+          "description": "React.js is 11 years old, and it has become one of the most popular JavaScript libraries out there. And now, React is transitioning from version 18 to version 19. So hold onto your hats, React enthusiasts 🎩. React 19 has recently landed, and it’s a ...",
+          "link": "https://www.freecodecamp.org/news/new-react-19-features-you-should-know-with-code-examples/",
+          "publishedOn": "2024-09-30T18:36:59.000Z",
+          "wordCount": 2612,
+          "title": "New React 19 Features You Should Know –  Explained with Code Examples",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1727367514092/a75164cd-1e2e-4b0d-8c2e-5d000cee01f0.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/how-to-use-ssh-to-connect-to-github-guide-for-windows/",
           "author": "oghenekparobo Stephen",
