@@ -329,6 +329,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2024/10/how-bottom-up-design-approach-enhances-site-accessibility/",
+          "author": "hello@smashingmagazine.com (Eleanor Hecks)",
+          "description": "You can’t overstate the importance of accessible website design. By the same token, bottom-up philosophies are crucial in modern site-building. A detail-oriented approach makes it easier to serve a more diverse audience along several fronts. Making the most of this opportunity will both extend your reach to new niches and make the web a more equitable place.",
+          "link": "https://smashingmagazine.com/2024/10/how-bottom-up-design-approach-enhances-site-accessibility/",
+          "publishedOn": "2024-10-04T09:00:00.000Z",
+          "wordCount": 5161,
+          "title": "How A Bottom-Up Design Approach Enhances Site Accessibility",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/how-bottom-up-design-approach-enhances-site-accessibility/how-bottom-up-design-approach-enhances-site-accessibility.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/how-bottom-up-design-approach-enhances-site-accessibility/how-bottom-up-design-approach-enhances-site-accessibility.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2024/10/interview-bjorn-ottosson-creator-oklab-color-space/",
           "author": "hello@smashingmagazine.com (Philip Jägenstedt)",
           "description": "Go behind the scenes with Björn Ottosson, the Swedish engineer who created Oklab color space, and discover how he developed a simple yet effective model with good hue uniformity while also handling lightness and saturation well — and is “okay” to use.",
@@ -477,21 +492,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/how-create-weekly-google-analytics-report-posts-slack/how-create-weekly-google-analytics-report-posts-slack.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2024/09/sticky-headers-full-height-elements-tricky-combination/",
-          "author": "hello@smashingmagazine.com (Philip Braunen)",
-          "description": "Sticky positioning is one of those CSS features that’s pretty delicate and can be negated by a lot of things, so here’s another one to add to your mental catalog: Sticky elements don’t play nicely if they have to coordinate with other elements to make up a combined height, like `100vh`. Philip Braunen explores why this happens and presents a solution to fix it.",
-          "link": "https://smashingmagazine.com/2024/09/sticky-headers-full-height-elements-tricky-combination/",
-          "publishedOn": "2024-09-05T09:00:00.000Z",
-          "wordCount": 4335,
-          "title": "Sticky Headers And Full-Height Elements: A Tricky Combination",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/sticky-headers-full-height-elements-tricky-combination/sticky-headers-full-height-elements-tricky-combination.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/sticky-headers-full-height-elements-tricky-combination/sticky-headers-full-height-elements-tricky-combination.jpg"
         }
       ]
     },
@@ -500,6 +500,26 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-become-a-street-smart-developer-dennis-ivy-interview-144/",
+          "author": "Quincy Larson",
+          "description": "On this week's episode of the podcast, freeCodeCamp founder Quincy Larson interviews Dennis Ivy, a software engineer and prolific freelancer. Dennis dropped out of college at 18 and taught himself how to build websites. He started his first agency, b...",
+          "link": "https://www.freecodecamp.org/news/how-to-become-a-street-smart-developer-dennis-ivy-interview-144/",
+          "publishedOn": "2024-10-04T13:44:45.000Z",
+          "wordCount": 1081,
+          "title": "How to Become a Street Smart Developer – From Dropout to Selling his Company w/ Dennis Ivy [Podcast #144]",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1728049425954/70835994-ec19-41c3-b2ea-9c3801ef3245.jpeg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/cross-browser-devtools-features/",
+          "author": "Uma Victor",
+          "description": "Building cross-browser web applications can be a difficult task, as many browsers offer few debugging tools that often vary between them. Fortunately, today most browsers support modern standards and provide helpful features for developers. Major bro...",
+          "link": "https://www.freecodecamp.org/news/cross-browser-devtools-features/",
+          "publishedOn": "2024-10-03T22:58:07.000Z",
+          "wordCount": 3005,
+          "title": "How to Boost Your Productivity With Cross-Browser DevTools Features",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/JySoEnr-eOg/upload/e3e1bb6fdf9c408f7506093587114629.jpeg"
+        },
         {
           "id": "https://www.freecodecamp.org/news/hack-your-first-machine-a-guide-for-aspiring-security-enthusiasts/",
           "author": "Manish Shivanandhan",
@@ -1179,66 +1199,6 @@
           "wordCount": 1618,
           "title": "What is Cache Poisoning? How Hackers Manipulate Web Caches and How to Avoid It",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1725456042044/d3744ebe-ad28-42c4-99a2-25d6bd250aee.webp"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-manage-your-open-source-project-with-github/",
-          "author": "Rajdeep Singh",
-          "description": "Managing your repository is one of the most important tasks for every open-source, individual, or proprietary software project. Small open-source project repositories are easily maintained without using additional functionality because few developers...",
-          "link": "https://www.freecodecamp.org/news/how-to-manage-your-open-source-project-with-github/",
-          "publishedOn": "2024-09-05T11:52:11.000Z",
-          "wordCount": 1899,
-          "title": "How to Manage your Open Source Project with GitHub",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1725180872053/0ea74f81-dc72-4f09-976f-4199c2e3893b.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/what-is-speedy-web-compiler/",
-          "author": "Preston Mayieka",
-          "description": "In the evolving landscape of JavaScript development, the need for efficient and powerful tooling has become increasingly important. Developers rely on tools like compilers and bundlers to transform their code, optimize performance, and ensure compati...",
-          "link": "https://www.freecodecamp.org/news/what-is-speedy-web-compiler/",
-          "publishedOn": "2024-09-05T01:07:47.000Z",
-          "wordCount": 1779,
-          "title": "What is Speedy Web Compiler? SWC Explained With Examples",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1725290113209/260f00cb-5bfe-4260-8e45-0c61a1897cae.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/learn-the-mern-stack-by-building-a-store/",
-          "author": "Beau Carnes",
-          "description": "The MERN stack is a popular method to develop full-stack web applications. We just released a new course on the freeCodeCamp.org YouTube channel that will guide you through building dynamic, responsive web applications using the popular MERN stack. T...",
-          "link": "https://www.freecodecamp.org/news/learn-the-mern-stack-by-building-a-store/",
-          "publishedOn": "2024-09-04T21:32:32.000Z",
-          "wordCount": 968,
-          "title": "Learn the MERN Stack by Building a Store",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1725485472834/b95dd94c-7118-4290-91ca-5bb9d0a0db7a.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/master-multimodal-data-analysis-with-llms-and-python/",
-          "author": "Beau Carnes",
-          "description": "Large Language Models (LLMs) can be super helpful for advanced data analysis. We just published a new course on the freeCodeCamp.org YouTube channel that will teach you all about multimodal data analysis using LLMs and Python. This course will teach ...",
-          "link": "https://www.freecodecamp.org/news/master-multimodal-data-analysis-with-llms-and-python/",
-          "publishedOn": "2024-09-04T21:27:23.000Z",
-          "wordCount": 1027,
-          "title": "Master Multimodal Data Analysis with LLMs and Python",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1725485224418/61b7501f-11c6-4ba2-9864-d09d4e4ce37c.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/what-is-rate-limiting-web-apis/",
-          "author": "Oluwatobi",
-          "description": "Back-end servers are the powerhouse of modern-day applications; hence, a high level of expertise goes into building them. However, it's important to ensure that these back-end servers are well-secured from bad actors (hackers, phishers). These bad el...",
-          "link": "https://www.freecodecamp.org/news/what-is-rate-limiting-web-apis/",
-          "publishedOn": "2024-09-04T16:03:10.000Z",
-          "wordCount": 2335,
-          "title": "What is Rate Limiting? Exploring the Role of Rate Limiting in Protecting Web APIs from Attacks",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1725036062594/0efa7e12-c5d5-410f-ad9c-ec6a67a31f7c.jpeg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/low-code-knowledge-transfer/",
-          "author": "Brandon Wozniewicz",
-          "description": "Low-code models, such as Microsoft's Power Platform, make it simple for anyone to start creating applications. The barriers to entry are relatively low, as users need only a work or school email to get started. Developers can also quickly release new...",
-          "link": "https://www.freecodecamp.org/news/low-code-knowledge-transfer/",
-          "publishedOn": "2024-09-04T15:19:15.000Z",
-          "wordCount": 2503,
-          "title": "How to Build Successful Low-Code Apps: The Power of Knowledge Transfer in Development Teams",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1724883531478/4fa7979a-e61a-4268-94dc-a48dfcf17b4b.jpeg"
         }
       ]
     }

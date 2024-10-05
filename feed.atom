@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-04T00:12:32.872Z</updated>
+    <updated>2024-10-05T00:12:44.923Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Become a Street Smart Developer – From Dropout to Selling his Company w/ Dennis Ivy [Podcast #144]]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-become-a-street-smart-developer-dennis-ivy-interview-144/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-become-a-street-smart-developer-dennis-ivy-interview-144/"/>
+        <updated>2024-10-04T13:44:45.000Z</updated>
+        <summary type="html"><![CDATA[On this week's episode of the podcast, freeCodeCamp founder Quincy Larson interviews Dennis Ivy, a software engineer and prolific freelancer. Dennis dropped out of college at 18 and taught himself how to build websites. He started his first agency, b...]]></summary>
+        <author>
+            <name>Quincy Larson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How A Bottom-Up Design Approach Enhances Site Accessibility]]></title>
+        <id>https://smashingmagazine.com/2024/10/how-bottom-up-design-approach-enhances-site-accessibility/</id>
+        <link href="https://smashingmagazine.com/2024/10/how-bottom-up-design-approach-enhances-site-accessibility/"/>
+        <updated>2024-10-04T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[You can’t overstate the importance of accessible website design. By the same token, bottom-up philosophies are crucial in modern site-building. A detail-oriented approach makes it easier to serve a more diverse audience along several fronts. Making the most of this opportunity will both extend your reach to new niches and make the web a more equitable place.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Eleanor Hecks)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Boost Your Productivity With Cross-Browser DevTools Features]]></title>
+        <id>https://www.freecodecamp.org/news/cross-browser-devtools-features/</id>
+        <link href="https://www.freecodecamp.org/news/cross-browser-devtools-features/"/>
+        <updated>2024-10-03T22:58:07.000Z</updated>
+        <summary type="html"><![CDATA[Building cross-browser web applications can be a difficult task, as many browsers offer few debugging tools that often vary between them. Fortunately, today most browsers support modern standards and provide helpful features for developers. Major bro...]]></summary>
+        <author>
+            <name>Uma Victor</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hack Your First Machine – A Guide for Aspiring Security Enthusiasts]]></title>
         <id>https://www.freecodecamp.org/news/hack-your-first-machine-a-guide-for-aspiring-security-enthusiasts/</id>
@@ -1115,76 +1145,6 @@ Quick Hit #15 originally published on CSS-Tricks, which is part of the DigitalOc
         <summary type="html"><![CDATA[Web caches play an important role in speeding up our browsing experience. They save copies of web pages and other resources so that users can access them faster. But what happens when these caches become a tool for hackers? Let’s look at cache poison...]]></summary>
         <author>
             <name>Manish Shivanandhan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Manage your Open Source Project with GitHub]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-manage-your-open-source-project-with-github/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-manage-your-open-source-project-with-github/"/>
-        <updated>2024-09-05T11:52:11.000Z</updated>
-        <summary type="html"><![CDATA[Managing your repository is one of the most important tasks for every open-source, individual, or proprietary software project. Small open-source project repositories are easily maintained without using additional functionality because few developers...]]></summary>
-        <author>
-            <name>Rajdeep Singh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sticky Headers And Full-Height Elements: A Tricky Combination]]></title>
-        <id>https://smashingmagazine.com/2024/09/sticky-headers-full-height-elements-tricky-combination/</id>
-        <link href="https://smashingmagazine.com/2024/09/sticky-headers-full-height-elements-tricky-combination/"/>
-        <updated>2024-09-05T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Sticky positioning is one of those CSS features that’s pretty delicate and can be negated by a lot of things, so here’s another one to add to your mental catalog: Sticky elements don’t play nicely if they have to coordinate with other elements to make up a combined height, like `100vh`. Philip Braunen explores why this happens and presents a solution to fix it.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Philip Braunen)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is Speedy Web Compiler? SWC Explained With Examples]]></title>
-        <id>https://www.freecodecamp.org/news/what-is-speedy-web-compiler/</id>
-        <link href="https://www.freecodecamp.org/news/what-is-speedy-web-compiler/"/>
-        <updated>2024-09-05T01:07:47.000Z</updated>
-        <summary type="html"><![CDATA[In the evolving landscape of JavaScript development, the need for efficient and powerful tooling has become increasingly important. Developers rely on tools like compilers and bundlers to transform their code, optimize performance, and ensure compati...]]></summary>
-        <author>
-            <name>Preston Mayieka</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn the MERN Stack by Building a Store]]></title>
-        <id>https://www.freecodecamp.org/news/learn-the-mern-stack-by-building-a-store/</id>
-        <link href="https://www.freecodecamp.org/news/learn-the-mern-stack-by-building-a-store/"/>
-        <updated>2024-09-04T21:32:32.000Z</updated>
-        <summary type="html"><![CDATA[The MERN stack is a popular method to develop full-stack web applications. We just released a new course on the freeCodeCamp.org YouTube channel that will guide you through building dynamic, responsive web applications using the popular MERN stack. T...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Master Multimodal Data Analysis with LLMs and Python]]></title>
-        <id>https://www.freecodecamp.org/news/master-multimodal-data-analysis-with-llms-and-python/</id>
-        <link href="https://www.freecodecamp.org/news/master-multimodal-data-analysis-with-llms-and-python/"/>
-        <updated>2024-09-04T21:27:23.000Z</updated>
-        <summary type="html"><![CDATA[Large Language Models (LLMs) can be super helpful for advanced data analysis. We just published a new course on the freeCodeCamp.org YouTube channel that will teach you all about multimodal data analysis using LLMs and Python. This course will teach ...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is Rate Limiting? Exploring the Role of Rate Limiting in Protecting Web APIs from Attacks]]></title>
-        <id>https://www.freecodecamp.org/news/what-is-rate-limiting-web-apis/</id>
-        <link href="https://www.freecodecamp.org/news/what-is-rate-limiting-web-apis/"/>
-        <updated>2024-09-04T16:03:10.000Z</updated>
-        <summary type="html"><![CDATA[Back-end servers are the powerhouse of modern-day applications; hence, a high level of expertise goes into building them. However, it's important to ensure that these back-end servers are well-secured from bad actors (hackers, phishers). These bad el...]]></summary>
-        <author>
-            <name>Oluwatobi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build Successful Low-Code Apps: The Power of Knowledge Transfer in Development Teams]]></title>
-        <id>https://www.freecodecamp.org/news/low-code-knowledge-transfer/</id>
-        <link href="https://www.freecodecamp.org/news/low-code-knowledge-transfer/"/>
-        <updated>2024-09-04T15:19:15.000Z</updated>
-        <summary type="html"><![CDATA[Low-code models, such as Microsoft's Power Platform, make it simple for anyone to start creating applications. The barriers to entry are relatively low, as users need only a work or school email to get started. Developers can also quickly release new...]]></summary>
-        <author>
-            <name>Brandon Wozniewicz</name>
         </author>
     </entry>
 </feed>
