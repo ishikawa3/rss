@@ -300,26 +300,6 @@
           "wordCount": 1307,
           "title": "Quick Hit #17",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/380584"
-        },
-        {
-          "id": "https://css-tricks.com/?p=380340",
-          "author": "Geoff Graham",
-          "description": "“Never, ever hire for JavaScript framework skills. Instead, interview and hire only for fundamentals like web standards, accessibility, modern CSS, semantic HTML, and Web Components.” — Alex Russell…\nQuick Hit #16 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/quick-hit-16/",
-          "publishedOn": "2024-09-05T16:04:28.000Z",
-          "wordCount": 1310,
-          "title": "Quick Hit #16",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/380340"
-        },
-        {
-          "id": "https://css-tricks.com/?p=380298",
-          "author": "Geoff Graham",
-          "description": "Almost missed that the WP Twenty Twenty-Five theme was approved a couple weeks ago.…\nQuick Hit #15 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/quick-hit-15/",
-          "publishedOn": "2024-09-05T16:02:26.000Z",
-          "wordCount": 1275,
-          "title": "Quick Hit #15",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/380298"
         }
       ]
     },
@@ -1189,16 +1169,6 @@
           "wordCount": 2935,
           "title": "How to Write Cleaner Code Using Mongoose Schemas",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1725431278897/86823d79-7b9c-4512-a834-edcdd4e11ac3.jpeg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/what-is-cache-poisoning-and-how-to-avoid-it/",
-          "author": "Manish Shivanandhan",
-          "description": "Web caches play an important role in speeding up our browsing experience. They save copies of web pages and other resources so that users can access them faster. But what happens when these caches become a tool for hackers? Let’s look at cache poison...",
-          "link": "https://www.freecodecamp.org/news/what-is-cache-poisoning-and-how-to-avoid-it/",
-          "publishedOn": "2024-09-05T15:00:53.000Z",
-          "wordCount": 1618,
-          "title": "What is Cache Poisoning? How Hackers Manipulate Web Caches and How to Avoid It",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1725456042044/d3744ebe-ad28-42c4-99a2-25d6bd250aee.webp"
         }
       ]
     }
