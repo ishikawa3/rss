@@ -12,6 +12,26 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=381674",
+          "author": "Juan Diego Rodríguez",
+          "description": "The @supports at-rule has been extended several times since its initial release. Once only capable of checking support for property/value pairs, it can now check for a selector using the selector() wrapper function and different font formats and techs using …\nRecipes for Detecting Support for CSS At-Rules originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/recipes-for-detecting-support-for-css-at-rules/",
+          "publishedOn": "2024-10-07T19:46:07.000Z",
+          "wordCount": 2618,
+          "title": "Recipes for Detecting Support for CSS At-Rules",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/381674"
+        },
+        {
+          "id": "https://css-tricks.com/?p=381662",
+          "author": "Ryan Trimble",
+          "description": "There is an amazing community effort happening in search of a new logo for CSS. I was a bit skeptical at first, as I never really considered CSS a “brand.” Why does it need a logo? For starters, the current …\nSearching for a New CSS Logo originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/searching-for-a-new-css-logo/",
+          "publishedOn": "2024-10-07T16:49:59.000Z",
+          "wordCount": 2130,
+          "title": "Searching for a New CSS Logo",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/381662"
+        },
+        {
           "id": "https://css-tricks.com/?p=381210",
           "author": "Geoff Graham",
           "description": "Kate Kaplan hits on something over at Nielsen Norman Group’s blog that’s been bugging me:\nThe challenge with this icon is sparkle ambiguity: Participants in our recent research study generally agreed that it represented something a little special\n…\nThe Proliferation and Problem of the ✨ Sparkles ✨ Icon originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -309,6 +329,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2024/10/build-static-rss-reader-fight-fomo/",
+          "author": "hello@smashingmagazine.com (Karin Hendrikse)",
+          "description": "RSS is a classic technology that fetches content from websites and feeds it to anyone who subscribes to it with a URL. It’s based on XML, and we can use it to consume the feeds in our own apps. Karin Hendrikse demonstrates how to do exactly that with a static site you can use as your personal RSS reader.",
+          "link": "https://smashingmagazine.com/2024/10/build-static-rss-reader-fight-fomo/",
+          "publishedOn": "2024-10-07T13:00:00.000Z",
+          "wordCount": 4685,
+          "title": "Build A Static RSS Reader To Fight Your Inner FOMO",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/build-static-rss-reader-fight-fomo/build-static-rss-reader-fight-fomo.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/build-static-rss-reader-fight-fomo/build-static-rss-reader-fight-fomo.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2024/10/how-bottom-up-design-approach-enhances-site-accessibility/",
           "author": "hello@smashingmagazine.com (Eleanor Hecks)",
           "description": "You can’t overstate the importance of accessible website design. By the same token, bottom-up philosophies are crucial in modern site-building. A detail-oriented approach makes it easier to serve a more diverse audience along several fronts. Making the most of this opportunity will both extend your reach to new niches and make the web a more equitable place.",
@@ -465,6 +500,36 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/create-desktop-apps-with-electron-react-and-typescript/",
+          "author": "Beau Carnes",
+          "description": "Desktop applications remain important for many types of software projects, providing rich, native user experiences. If you're interested in building desktop applications but want to leverage your web development skills, Electron is an excellent solut...",
+          "link": "https://www.freecodecamp.org/news/create-desktop-apps-with-electron-react-and-typescript/",
+          "publishedOn": "2024-10-07T19:41:04.000Z",
+          "wordCount": 1223,
+          "title": "Create Desktop Apps with Electron, React, and TypeScript",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1728330045533/e9a3a017-8a2c-4151-b249-4395bf7e20ea.jpeg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/what-are-pre-rendering-and-hydration-in-web-dev/",
+          "author": "Salvador Villalon Jr",
+          "description": "Have you ever wondered how Frameworks like Next.js, Gatsby.js, and Remix work? These frameworks use the concepts of Pre-rendering and Hydration, which represent significant advancements in the history of web development. These frameworks leverage the...",
+          "link": "https://www.freecodecamp.org/news/what-are-pre-rendering-and-hydration-in-web-dev/",
+          "publishedOn": "2024-10-07T14:21:31.000Z",
+          "wordCount": 3439,
+          "title": "What are Pre-Rendering and Hydration in Web Development? A Deep Dive for Devs",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1727985850590/fdb7eb16-52bd-41ec-8e1a-e4fb9068a535.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-design-and-develop-web-apis-essential-guidelines/",
+          "author": "Anjan Baradwaj",
+          "description": "Software applications have made our lives easier and better in many ways. We use them almost daily, and some people find themselves using applications more frequently than they interact with other people. But how do applications interact with each ot...",
+          "link": "https://www.freecodecamp.org/news/how-to-design-and-develop-web-apis-essential-guidelines/",
+          "publishedOn": "2024-10-07T13:48:24.000Z",
+          "wordCount": 2322,
+          "title": "How to Design and Develop Web APIs: Essential Guidelines for Developers",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/ZM55FiQB8ig/upload/709f2a6f6de426904c95b785196f8736.jpeg"
+        },
         {
           "id": "https://www.freecodecamp.org/news/how-to-become-a-street-smart-developer-dennis-ivy-interview-144/",
           "author": "Quincy Larson",
