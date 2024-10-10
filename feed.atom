@@ -2,10 +2,71 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-09T00:12:46.900Z</updated>
+    <updated>2024-10-10T00:12:29.750Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Learn Databases In-Depth]]></title>
+        <id>https://www.freecodecamp.org/news/learn-databases-in-depth/</id>
+        <link href="https://www.freecodecamp.org/news/learn-databases-in-depth/"/>
+        <updated>2024-10-09T20:44:08.000Z</updated>
+        <summary type="html"><![CDATA[Understanding databases is important for a software developer. We just posted a comprehensive course on the freeCodeCamp.org YouTube channel designed to help you understand the complexities of database architecture and optimization. Whether you're a ...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Prepare to Pass the AWS Certified AI Practitioner Certification]]></title>
+        <id>https://www.freecodecamp.org/news/prepare-to-pass-the-aws-certified-ai-practitioner-certification/</id>
+        <link href="https://www.freecodecamp.org/news/prepare-to-pass-the-aws-certified-ai-practitioner-certification/"/>
+        <updated>2024-10-09T20:35:25.000Z</updated>
+        <summary type="html"><![CDATA[The AWS Certified AI Practitioner certification is a valuable credential that validates your understanding of AI, ML, and generative AI concepts and use cases. We just published a course on the freeCodeCamp.org YouTube channel that will help you prep...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Strengthen Your Code: Essential Secure Design Principles for Developers]]></title>
+        <id>https://www.freecodecamp.org/news/essential-secure-design-principles-for-developers/</id>
+        <link href="https://www.freecodecamp.org/news/essential-secure-design-principles-for-developers/"/>
+        <updated>2024-10-09T20:17:10.000Z</updated>
+        <summary type="html"><![CDATA[Secure design principles have long been the foundation for building secure systems. And they remain a crucial aspect of modern cybersecurity. Introduced in 1975 by Saltzer and Schroeder in their landmark paper The Protection of Information in Compute...]]></summary>
+        <author>
+            <name>Chama Jennane</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Documentation Site using React and Docusaraus]]></title>
+        <id>https://www.freecodecamp.org/news/build-a-documentation-site-using-react-and-docusaraus/</id>
+        <link href="https://www.freecodecamp.org/news/build-a-documentation-site-using-react-and-docusaraus/"/>
+        <updated>2024-10-09T16:56:14.000Z</updated>
+        <summary type="html"><![CDATA[Having a properly designed and comprehensive documentation site is important for any project. But creating good documentation can be challenging, and problems like poor user onboarding experience and increased support tickets can become daily hassles...]]></summary>
+        <author>
+            <name>Chisom Uma</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024: More CSS At-Rules Than the Past Decade Combined]]></title>
+        <id>https://css-tricks.com/?p=381678</id>
+        <link href="https://css-tricks.com/2024-more-css-at-rules-than-the-past-decade-combined/"/>
+        <updated>2024-10-09T14:10:33.000Z</updated>
+        <summary type="html"><![CDATA[More times than I can count, while writing, I get myself into random but interesting topics with little relation to the original post. In the end, I have to make the simple but painful choice of deleting or archiving hours …
+2024: More CSS At-Rules Than the Past Decade Combined originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Juan Diego Rodríguez</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Key Security Concepts to Learn for a Career in Cybersecurity]]></title>
+        <id>https://www.freecodecamp.org/news/key-cybersecurity-concepts-for-career/</id>
+        <link href="https://www.freecodecamp.org/news/key-cybersecurity-concepts-for-career/"/>
+        <updated>2024-10-08T23:35:17.000Z</updated>
+        <summary type="html"><![CDATA[This tutorial is designed to be your stepping stone into the fascinating world of cybersecurity. I’ll introduce you to key concepts and terminology you’ll need to know, giving you a solid foundation to build upon as you continue your learning journey...]]></summary>
+        <author>
+            <name>José Toledo</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Smashing Hour With Heydon Pickering]]></title>
         <id>https://css-tricks.com/?p=381729</id>
@@ -1103,79 +1164,6 @@ The issue? Not the …
 Sanding UI originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Transform an Angular Application with Signals]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-transform-an-angular-appl-with-signals/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-transform-an-angular-appl-with-signals/"/>
-        <updated>2024-09-10T11:49:37.000Z</updated>
-        <summary type="html"><![CDATA[Angular is a famous framework for building robust and complex enterprise applications. It is widely used by large companies. Therefore, having the skills to build a performant application using Angular is one of the top skills for a developer.. Angul...]]></summary>
-        <author>
-            <name>Anujkumarsinh Donvir</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Anticipatory Design Isn’t Working For Businesses]]></title>
-        <id>https://smashingmagazine.com/2024/09/why-anticipatory-design-not-working-businesses/</id>
-        <link href="https://smashingmagazine.com/2024/09/why-anticipatory-design-not-working-businesses/"/>
-        <updated>2024-09-10T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Anticipatory design, powered by Artificial Intelligence (AI), Machine learning (ML), and Big Data (BD), promises to transform user experiences by predicting and fulfilling needs before users even express them. While this proactive approach seems revolutionary, many businesses struggle to meet the high expectations it sets. Joana Cerejo delves into the challenges of anticipatory design, highlights key failures, and offers a framework to help designers and businesses succeed in this complex landscape.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Joana Cerejo)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Essential JavaScript Concepts to Know Before Learning React – With Code Examples]]></title>
-        <id>https://www.freecodecamp.org/news/essential-javascript-concepts-before-react/</id>
-        <link href="https://www.freecodecamp.org/news/essential-javascript-concepts-before-react/"/>
-        <updated>2024-09-10T02:27:06.000Z</updated>
-        <summary type="html"><![CDATA[You may have seen the shiny technologies like React, Vue, and Angular that promise to revolutionize your front-end development. It's tempting to dive headfirst into these frameworks, eager to build stunning user interfaces. But hold on! Before you em...]]></summary>
-        <author>
-            <name>Akande Olalekan Toheeb</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How the Comma Ok Idiom and Package System Work in Go]]></title>
-        <id>https://www.freecodecamp.org/news/how-the-comma-ok-idiom-and-package-system-work-in-go/</id>
-        <link href="https://www.freecodecamp.org/news/how-the-comma-ok-idiom-and-package-system-work-in-go/"/>
-        <updated>2024-09-09T15:54:41.000Z</updated>
-        <summary type="html"><![CDATA[The "comma ok" idiom and the package system are two fundamental concepts in Go. They help enhance the readability of your code, and reflect Go's philosophy of simplicity and explicitness. In this article, you'll learn about both the comma ok idiom an...]]></summary>
-        <author>
-            <name>Temitope Oyedele</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Time Travelling CSS With :target]]></title>
-        <id>https://css-tricks.com/?p=380334</id>
-        <link href="https://css-tricks.com/time-travelling-css-with-target/"/>
-        <updated>2024-09-09T15:16:51.000Z</updated>
-        <summary type="html"><![CDATA[Checkbox and radio button hacks are the (in)famous trick for creating games using just CSS. But it turns out that other elements based on user input can be hacked and gamified. There are very cool examples of developers getting creative with CSS games based on…
-Time Travelling CSS With :target originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Lee Meyer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sticky Headers And Full-Height Elements: A Tricky Combination]]></title>
-        <id>https://css-tricks.com/?p=380517</id>
-        <link href="https://css-tricks.com/sticky-headers-and-full-height-elements-a-tricky-combination/"/>
-        <updated>2024-09-09T14:09:12.000Z</updated>
-        <summary type="html"><![CDATA[Quite a fun article I worked on with Philip Braunen. Do you know that little bit of elasticity you get when scrolling beyond the viewport when browsing the web on a mobile device? iPhone calls it a “rubber-banding” effect. …
-Sticky Headers And Full-Height Elements: A Tricky Combination originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Quick Hit #17]]></title>
-        <id>https://css-tricks.com/?p=380584</id>
-        <link href="https://css-tricks.com/quick-hit-17/"/>
-        <updated>2024-09-09T13:53:42.000Z</updated>
-        <summary type="html"><![CDATA[“Wrapping the <labelaround the <inputis fine, and is sufficient for conformance on its own, however adding explicit association with for and id is still necessary in practice.” —James Edwards…
-Quick Hit #17 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Juan Diego Rodríguez</name>
         </author>
     </entry>
 </feed>
