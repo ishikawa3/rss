@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=381752",
+          "author": "Geoff Graham",
+          "description": "It’s always a gas when a good person doing good work gets a good deal. In this case, Jason’s viral WPGraphQL plugin has not only become a canonical WordPress plugin, but creator Jason Bahl is joining Automattic as well.\nI’m …\nWPGraphQL Becomes a Canonical Plugin: My Move to Automattic originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/wpgraphql-becomes-a-canonical-plugin-my-move-to-automattic/",
+          "publishedOn": "2024-10-10T14:00:32.000Z",
+          "wordCount": 1465,
+          "title": "WPGraphQL Becomes a Canonical Plugin: My Move to Automattic",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/381752"
+        },
+        {
           "id": "https://css-tricks.com/?p=381678",
           "author": "Juan Diego Rodríguez",
           "description": "More times than I can count, while writing, I get myself into random but interesting topics with little relation to the original post. In the end, I have to make the simple but painful choice of deleting or archiving hours …\n2024: More CSS At-Rules Than the Past Decade Combined originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -280,36 +290,6 @@
           "wordCount": 2441,
           "title": "Two Ways to Create Custom Translated Messaging for HTML Forms",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/380325"
-        },
-        {
-          "id": "https://css-tricks.com/?p=380660",
-          "author": "Geoff Graham",
-          "description": "PSA: Today’s the day that Google’s performance tools officially stops supporting the First Input Delay (FID) metric that was replaced by Interaction to Next Paint (INP).…\nQuick Hit #18 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/quick-hit-18/",
-          "publishedOn": "2024-09-10T18:40:28.000Z",
-          "wordCount": 1297,
-          "title": "Quick Hit #18",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/380660"
-        },
-        {
-          "id": "https://css-tricks.com/?p=380521",
-          "author": "Juan Diego Rodríguez",
-          "description": "I am thrilled to say, that from this week onwards, the CSS-tricks Almanac has an entry for each property, function, and at-rule related to the new Anchor Positioning API! For the last month, I have tried to fully understand this …\nAnchor Positioning Quirks originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/anchor-positioning-quirks/",
-          "publishedOn": "2024-09-10T18:33:01.000Z",
-          "wordCount": 2921,
-          "title": "Anchor Positioning Quirks",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/380521"
-        },
-        {
-          "id": "https://css-tricks.com/?p=380662",
-          "author": "Geoff Graham",
-          "description": "Jim hit a snag while working on a form. Placing labels next to inputs is trivial with flexbox, sure, but what happened in Jim’s case was a bit of dead-clicking between the labels and radio buttons.\nThe issue? Not the …\nSanding UI originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/sanding-ui/",
-          "publishedOn": "2024-09-10T13:00:00.000Z",
-          "wordCount": 1472,
-          "title": "Sanding UI",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/380662"
         }
       ]
     },
@@ -475,6 +455,16 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/python-zip-function-explained-with-examples/",
+          "author": "Sahil Mahapatra",
+          "description": "The zip() function in Python is a neat tool that allows you to combine multiple lists or other iterables (like tuples, sets, or even strings) into one iterable of tuples. Think of it like a zipper on a jacket that brings two sides together. In this g...",
+          "link": "https://www.freecodecamp.org/news/python-zip-function-explained-with-examples/",
+          "publishedOn": "2024-10-10T14:58:09.000Z",
+          "wordCount": 1983,
+          "title": "Python’s zip() Function Explained with Simple Examples",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1728351007032/90a321bb-4079-4480-90e7-7aa847c54d9d.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/learn-databases-in-depth/",
           "author": "Beau Carnes",
@@ -1154,66 +1144,6 @@
           "wordCount": 1949,
           "title": "How Event Handling Works in Vue 3: A Guide for Developers",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1725980520061/87728aa1-f3c5-451d-9f11-5163f527d029.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/pass-the-azure-ai-engineer-associate-certification-ai-102/",
-          "author": "Beau Carnes",
-          "description": "Are you ready to take your AI skills to the next level and earn the Azure AI Engineer Associate Certification (AI-102)? We just posted a comprehensive course on the freeCodeCamp.org YouTube channel that is designed to help you prepare for and pass th...",
-          "link": "https://www.freecodecamp.org/news/pass-the-azure-ai-engineer-associate-certification-ai-102/",
-          "publishedOn": "2024-09-10T18:45:40.000Z",
-          "wordCount": 1200,
-          "title": "Pass the Azure AI Engineer Associate Certification (AI-102)",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1725993924398/c2501267-b4ce-42cb-a73a-215d03a50aa0.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/shodan-what-to-know-about-the-internets-most-dangerous-search-engine/",
-          "author": "Manish Shivanandhan",
-          "description": "Shodan is a search engine that discovers devices connected to the internet. In this article, we’ll look at why it’s both a valuable tool and a potential threat. When you hear the term “search engine,” your mind likely jumps to Google, Bing, or Yahoo....",
-          "link": "https://www.freecodecamp.org/news/shodan-what-to-know-about-the-internets-most-dangerous-search-engine/",
-          "publishedOn": "2024-09-10T17:43:12.000Z",
-          "wordCount": 1770,
-          "title": "Shodan – What to Know About the Internet’s Most Dangerous Search Engine",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1725990169364/3181020e-abd0-4943-a461-830c2a416035.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-ai-agents-can-supercharge-language-models-handbook/",
-          "author": "Vahe Aslanyan",
-          "description": "The rapid evolution of artificial intelligence (AI) has resulted in a powerful synergy between large language models (LLMs) and AI agents. This dynamic interplay is sort of like the tale of David and Goliath (without the fighting), where nimble AI ag...",
-          "link": "https://www.freecodecamp.org/news/how-ai-agents-can-supercharge-language-models-handbook/",
-          "publishedOn": "2024-09-10T17:01:16.000Z",
-          "wordCount": 21166,
-          "title": "How AI Agents Can Help Supercharge Language Models – A Handbook for Developers",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1725987639185/f8bf1775-b3d3-415e-b864-4425484600f2.jpeg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/what-are-type-predicates-in-typescript/",
-          "author": "Ashutosh Biswas",
-          "description": "Type predicates are an interesting syntactical feature in TypeScript. While they appear in the same place as return type annotations, they look more like short affirmative sentences than typical annotations. This gives you greater control over type c...",
-          "link": "https://www.freecodecamp.org/news/what-are-type-predicates-in-typescript/",
-          "publishedOn": "2024-09-10T15:43:50.000Z",
-          "wordCount": 1682,
-          "title": "What are Type Predicates in TypeScript? Explained with Code examples",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1725630140316/a95bd310-5465-4d0c-85fe-e42b91c2452e.jpeg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/implement-api-rate-limiting-in-strapi/",
-          "author": "Oluwatobi",
-          "description": "Implementing rate limiting in web applications is a necessary web development best practice. In an article published earlier, I delved deep into the benefits and real life use cases of API rate limiting. Some of the benefits include its use by develo...",
-          "link": "https://www.freecodecamp.org/news/implement-api-rate-limiting-in-strapi/",
-          "publishedOn": "2024-09-10T14:18:17.000Z",
-          "wordCount": 2902,
-          "title": "How to Implement API Rate Limiting in Strapi CMS",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1725233479497/7c12e6e4-a6d7-433a-b23b-f25c33037ffa.jpeg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/golang-statically-and-dynamically-linked-go-binaries/",
-          "author": "Alex Pliutau",
-          "description": "One of the biggest strengths of Go is its compiler. It abstracts many things for you and lets you compile your program easily for almost any platform and architecture. And though it seems easy, there are some nuances to it and multiple ways of compil...",
-          "link": "https://www.freecodecamp.org/news/golang-statically-and-dynamically-linked-go-binaries/",
-          "publishedOn": "2024-09-10T14:14:23.000Z",
-          "wordCount": 2136,
-          "title": "How Statically and Dynamically Linked Go Binaries Work",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1725977444176/20f3bebf-e250-45c3-926e-146d50e4db93.png"
         }
       ]
     }
