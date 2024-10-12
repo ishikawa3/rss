@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=381773",
+          "author": "Temani Afif",
+          "description": "CSS gradients have been so long that there’s no need to rehash what they are and how to use them. You have surely encountered them at some point in your front-end journey, and if you follow me, you also …\nCSS Tricks That Use Only One Gradient originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/css-tricks-that-use-only-one-gradient/",
+          "publishedOn": "2024-10-11T21:48:01.000Z",
+          "wordCount": 3461,
+          "title": "CSS Tricks That Use Only One Gradient",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/381773"
+        },
+        {
           "id": "https://css-tricks.com/?p=381752",
           "author": "Geoff Graham",
           "description": "It’s always a gas when a good person doing good work gets a good deal. In this case, Jason’s viral WPGraphQL plugin has not only become a canonical WordPress plugin, but creator Jason Bahl is joining Automattic as well.\nI’m …\nWPGraphQL Becomes a Canonical Plugin: My Move to Automattic originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -280,16 +290,6 @@
           "wordCount": 3003,
           "title": "What’s Old is New",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/380692"
-        },
-        {
-          "id": "https://css-tricks.com/?p=380325",
-          "author": "Fatuma Abdullaho",
-          "description": "HTML forms come with built-in ways to validate form inputs and other controls against predefined rules such as making an input required, setting min and max constraints on range sliders, or establishing a pattern on an email input to check …\nTwo Ways to Create Custom Translated Messaging for HTML Forms originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/two-ways-to-create-custom-translated-messaging-for-html-forms/",
-          "publishedOn": "2024-09-11T14:42:20.000Z",
-          "wordCount": 2441,
-          "title": "Two Ways to Create Custom Translated Messaging for HTML Forms",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/380325"
         }
       ]
     },
@@ -298,6 +298,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2024/10/using-multimodal-ai-models-applications-part3/",
+          "author": "hello@smashingmagazine.com (Joas Pambou)",
+          "description": "In this third part of the series, you are looking at two models that handle all three modalities — text, images or videos, and audio — without needing a second model for text-to-speech or speech recognition.",
+          "link": "https://smashingmagazine.com/2024/10/using-multimodal-ai-models-applications-part3/",
+          "publishedOn": "2024-10-11T10:00:00.000Z",
+          "wordCount": 5709,
+          "title": "Using Multimodal AI Models For Your Applications (Part 3)",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/using-multimodal-ai-models-applications-part3/using-multimodal-ai-models-applications.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/using-multimodal-ai-models-applications-part3/using-multimodal-ai-models-applications.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2024/10/build-static-rss-reader-fight-fomo/",
           "author": "hello@smashingmagazine.com (Karin Hendrikse)",
@@ -432,21 +447,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/creating-custom-lottie-animations-svgator/creating-custom-lottie-animations-svgator.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2024/09/how-build-custom-data-visualizations-luzmo-flex/",
-          "author": "hello@smashingmagazine.com (Paul Scanlon)",
-          "description": "Bringing data to life in your application can be done without the usual headaches. Paul Scanlon shows you how you can build beautiful data visualizations using the Google Analytics API, and you won’t have to spend any time “massaging” the data.",
-          "link": "https://smashingmagazine.com/2024/09/how-build-custom-data-visualizations-luzmo-flex/",
-          "publishedOn": "2024-09-12T11:00:00.000Z",
-          "wordCount": 5778,
-          "title": "How To Build Custom Data Visualizations Using Luzmo Flex",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/how-build-custom-data-visualizations-luzmo-flex/how-build-custom-data-visualizations-luzmo-flex.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/how-build-custom-data-visualizations-luzmo-flex/how-build-custom-data-visualizations-luzmo-flex.jpg"
         }
       ]
     },
@@ -455,6 +455,66 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-build-a-css-component-library-step-by-step/",
+          "author": "Prankur Pandey",
+          "description": "Application development is a complex, multi-stage process, and it all begins with UI/UX design. Once the design phase is complete, the focus shifts to UI development, where tools like HTML, CSS, and JavaScript come into play. At a higher level, libra...",
+          "link": "https://www.freecodecamp.org/news/how-to-build-a-css-component-library-step-by-step/",
+          "publishedOn": "2024-10-11T19:16:44.000Z",
+          "wordCount": 3315,
+          "title": "How to Build a CSS Component Library and Improve Your Web Development Skills",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1728400677433/de06f432-0861-4ba4-ad7c-6e10157e2822.jpeg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/large-language-models-for-developers-and-businesses/",
+          "author": "Nazneen Ahmad",
+          "description": "Language learning models (LLMs) are evolving rapidly, reshaping AI in various industries. In this article, we’ll go over five LLMs that are currently making an impact with their advanced features and wide-ranging use cases. LLM Basics Before looking ...",
+          "link": "https://www.freecodecamp.org/news/large-language-models-for-developers-and-businesses/",
+          "publishedOn": "2024-10-11T16:01:18.000Z",
+          "wordCount": 2227,
+          "title": "Large Language Models for Developers and Businesses",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1728677455013/ad0471d0-d888-4bfb-a47c-d41eb1b333fc.jpeg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/roadmapsh-founder-kamran-ahmed-podcast-145/",
+          "author": "Quincy Larson",
+          "description": "On this week's episode of the podcast, I interview Kamran Ahmed. He's a software engineer and founder of Roadmap.sh, which has skill tree roadmaps for lots of developer fields, such as DevOps. As a teacher, he's also a Google Developer Expert and a G...",
+          "link": "https://www.freecodecamp.org/news/roadmapsh-founder-kamran-ahmed-podcast-145/",
+          "publishedOn": "2024-10-11T14:14:16.000Z",
+          "wordCount": 1008,
+          "title": "Open Source Superstar and Roadmap.sh Founder Kamran Ahmed [Podcast #145]",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1728655903076/d4966eb0-43d1-4925-9ab6-e811ce6f1783.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-use-git-stash-to-manage-code/",
+          "author": "Okoro Emmanuel Nzube Derek",
+          "description": "Sometimes when you’re coding, you need to leave a particular task incomplete to focus on another task – but you don't want to lose your progress. So what do you do? Fortunately, git stash comes to the rescue. In this article, you’ll learn all about t...",
+          "link": "https://www.freecodecamp.org/news/how-to-use-git-stash-to-manage-code/",
+          "publishedOn": "2024-10-11T13:40:01.000Z",
+          "wordCount": 2519,
+          "title": "How to Use Git Stash to Efficiently Manage Your Code",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1728563160215/147e5b8d-960d-4a90-ad2f-6d71337ac0ce.jpeg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/react-interview-prep-handbook/",
+          "author": "Kunal Nalawade",
+          "description": "Hi everyone! In the ever-changing landscape of web development, React is in very high demand. Companies are often seeking skilled React developers to build dynamic and engaging web applications. If you are a web developer or aspiring to be one, it's ...",
+          "link": "https://www.freecodecamp.org/news/react-interview-prep-handbook/",
+          "publishedOn": "2024-10-11T10:50:19.000Z",
+          "wordCount": 6533,
+          "title": "The React Interview Prep Handbook – Essential Topics and Code Examples",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1728643567956/00c98d19-4694-4942-9ad2-d2f25bcf05c0.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/learn-tailwind-css-by-building-a-responsive-product-card/",
+          "author": "Beau Carnes",
+          "description": "Are you looking to enhance your web design skills and create responsive websites more efficiently? Tailwind CSS, a utility-first CSS framework, has become a favorite among developers for its flexibility and speed in building modern web layouts. One o...",
+          "link": "https://www.freecodecamp.org/news/learn-tailwind-css-by-building-a-responsive-product-card/",
+          "publishedOn": "2024-10-11T01:33:57.000Z",
+          "wordCount": 1131,
+          "title": "Learn Tailwind CSS by Building a Responsive Product Card",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1728610417740/2c081996-9a92-42d5-bee1-a380f2a0c1e4.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/python-zip-function-explained-with-examples/",
           "author": "Sahil Mahapatra",
@@ -1104,46 +1164,6 @@
           "wordCount": 6380,
           "title": "How to Use Chart js for Interactive Data Visualization",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1725821135508/79767987-8760-4626-a924-212e402b051f.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/learn-music-production-for-beginners/",
-          "author": "Beau Carnes",
-          "description": "Are you interested in exploring the world of music production but don't know where to start? We just posted comprehensive course designed for beginners that will guide you through the process of creating music tracks in various styles using FL Studio...",
-          "link": "https://www.freecodecamp.org/news/learn-music-production-for-beginners/",
-          "publishedOn": "2024-09-11T20:08:18.000Z",
-          "wordCount": 1215,
-          "title": "Learn Music Production for Beginners",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1726085276839/735597b4-50a4-4792-be6a-7bca34a732f9.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-build-an-expense-tracker-with-html-css-and-javascript/",
-          "author": "Joan Ayebola",
-          "description": "Building projects is a great way to practice and improve your web development skills. And that's what we'll do in this in-depth tutorial: build a practical project using HTML, CSS, and JavaScript. If you often find yourself wondering where all your m...",
-          "link": "https://www.freecodecamp.org/news/how-to-build-an-expense-tracker-with-html-css-and-javascript/",
-          "publishedOn": "2024-09-11T17:25:59.000Z",
-          "wordCount": 5439,
-          "title": "How to Build an Expense Tracker with HTML, CSS, and JavaScript",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1726055511234/dcaa759f-58f9-477d-92da-c8b98b71d310.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/api-testing-with-postman-a-step-by-step-guide-using-the-spotify-api/",
-          "author": "Matthes B.",
-          "description": "🎯 The Objective In this guide, I’ll introduce you to Postman, a popular API development and testing tool. If you are a beginner mainly focused on frontend development, you may not have had much experience fetching data from an API. And in that case ...",
-          "link": "https://www.freecodecamp.org/news/api-testing-with-postman-a-step-by-step-guide-using-the-spotify-api/",
-          "publishedOn": "2024-09-11T17:23:24.000Z",
-          "wordCount": 4279,
-          "title": "API Testing with Postman: A Step-by-Step Guide Using the Spotify API",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/uv5_bsypFUM/upload/ef5e3375e4ea08db6b5addd47afbc82f.jpeg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-event-handling-works-in-vue-3-guide-for-devs/",
-          "author": "Asfak Ahmed",
-          "description": "Event handling in Vue 3 allows developers to respond to user interactions like clicks, key presses, form submissions, and more. Vue provides simple and flexible ways to manage these interactions, enabling you to build dynamic and engaging application...",
-          "link": "https://www.freecodecamp.org/news/how-event-handling-works-in-vue-3-guide-for-devs/",
-          "publishedOn": "2024-09-11T17:21:14.000Z",
-          "wordCount": 1949,
-          "title": "How Event Handling Works in Vue 3: A Guide for Developers",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1725980520061/87728aa1-f3c5-451d-9f11-5163f527d029.png"
         }
       ]
     }
