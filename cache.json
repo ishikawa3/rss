@@ -280,16 +280,6 @@
           "wordCount": 2780,
           "title": "Two CSS Properties for Trimming Text Box Whitespace",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/380589"
-        },
-        {
-          "id": "https://css-tricks.com/?p=380692",
-          "author": "Geoff Graham",
-          "description": "I collect a bunch of links in a bookmarks folder. These are things I fully intend to read, and I do — eventually. It’s a good thing bookmarks are digital, otherwise, I’d need a bigger coffee table to separate them …\nWhat’s Old is New originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/whats-old-is-new-2/",
-          "publishedOn": "2024-09-12T14:05:12.000Z",
-          "wordCount": 3003,
-          "title": "What’s Old is New",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/380692"
         }
       ]
     },
@@ -1154,16 +1144,6 @@
           "wordCount": 1088,
           "title": "How to Be a Productive Developer",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1726233167534/1e4979fc-9cef-482f-b6b8-6721b290ede1.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-use-chart-js-for-interactive-data-visualization/",
-          "author": "Oluwadamisi Samuel",
-          "description": "Data surrounds us, but its raw form can be overwhelming and difficult to interpret. That's where data visualization comes in. It can help you take your data and turn it into charts and graphs that make sense at a glance. Among the many data visualiza...",
-          "link": "https://www.freecodecamp.org/news/how-to-use-chart-js-for-interactive-data-visualization/",
-          "publishedOn": "2024-09-12T12:57:36.000Z",
-          "wordCount": 6380,
-          "title": "How to Use Chart js for Interactive Data Visualization",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1725821135508/79767987-8760-4626-a924-212e402b051f.png"
         }
       ]
     }
