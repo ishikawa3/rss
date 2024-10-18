@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-17T00:12:41.449Z</updated>
+    <updated>2024-10-18T00:12:43.810Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Code a Sonic Infinite Runner Game in JavaScript]]></title>
+        <id>671140909e01688d7732fd36</id>
+        <link href="https://www.freecodecamp.org/news/code-a-sonic-infinite-runner-game-in-javascript/"/>
+        <updated>2024-10-17T16:51:28.000Z</updated>
+        <summary type="html"><![CDATA[Infinite runner games have been a favorite for gamers and developers alike due to their fast-paced action and replayability. These games often feature engaging mechanics like endless levels, smooth character movement, and dynamic environments that ke...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Solving Background Overflow With Inherited Border Radii]]></title>
+        <id>https://css-tricks.com/?p=381763</id>
+        <link href="https://css-tricks.com/preventing-child-background-overflow-with-inherited-border-radii/"/>
+        <updated>2024-10-17T15:24:02.000Z</updated>
+        <summary type="html"><![CDATA[One of the interesting (but annoying) things about CSS is the background of children’s elements can bleed out of the border radius of the parent element. Here’s an example of a card with an inner element. If the inner element …
+Solving Background Overflow With Inherited Border Radii originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Zell Liew</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSS min() All The Things]]></title>
+        <id>https://smashingmagazine.com/2024/10/css-min-all-the-things/</id>
+        <link href="https://smashingmagazine.com/2024/10/css-min-all-the-things/"/>
+        <updated>2024-10-17T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Victor Ayomipo experiments with the CSS `min()` function, exploring its flexibility with different units to determine if it is the be-all, end-all for responsiveness. Discover the cautions he highlights against dogmatic approaches to web design based on his findings.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Victor Ayomipo)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mobile App Development Course with React Native, Supabase, Next.js]]></title>
         <id>670fce62ee042ff16bdfd24f</id>
@@ -1125,27 +1156,6 @@ Re-Working the CSS Almanac originally published on CSS-Tricks, which is part of 
         <summary type="html"><![CDATA[The FARM stack is a modern web development stack that combines three powerful technologies: FastAPI, React, and MongoDB. This full-stack solution provides developers with a robust set of tools to build scalable, efficient, and high-performance web ap...]]></summary>
         <author>
             <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SVG Coding Examples: Useful Recipes For Writing Vectors By Hand]]></title>
-        <id>https://smashingmagazine.com/2024/09/svg-coding-examples-recipes-writing-vectors-by-hand/</id>
-        <link href="https://smashingmagazine.com/2024/09/svg-coding-examples-recipes-writing-vectors-by-hand/"/>
-        <updated>2024-09-18T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Myriam Frisano explores the basics of hand-coding SVGs with practical examples to demystify the inner workings of common SVG elements. In this guide, you’ll learn about asking the right questions to solve common positioning problems and how to leverage JavaScript so that, by the end, you can add “SVG coding” to your toolbox. You’ll also be able to declare proudly, “I know how to draw literal pictures with words!”]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Myriam Frisano)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Clever Polypane Debugging Features I’m Loving]]></title>
-        <id>https://css-tricks.com/?p=380271</id>
-        <link href="https://css-tricks.com/clever-polypane-debugging-features-im-loving/"/>
-        <updated>2024-09-17T13:49:04.000Z</updated>
-        <summary type="html"><![CDATA[I’m working on a refresh of my personal website, what I’m calling the HD remaster. Well, I wouldn’t call it a “full” redesign. I’m just cleaning things up, and Polypane is coming in clutch. I wrote about how much …
-Clever Polypane Debugging Features I’m Loving originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Ryan Trimble</name>
         </author>
     </entry>
 </feed>
