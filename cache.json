@@ -245,36 +245,6 @@
           "wordCount": 3073,
           "title": "CSSWG Minutes Telecon (2024-09-18)",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/381098"
-        },
-        {
-          "id": "https://css-tricks.com/?p=381079",
-          "author": "Geoff Graham",
-          "description": "Having fun with Bramus’ new Caniuse CLI tool. This’ll save lots of trips to the Caniuse site!…\nQuick Hit #20 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/quick-hit-20/",
-          "publishedOn": "2024-09-19T17:13:24.000Z",
-          "wordCount": 1281,
-          "title": "Quick Hit #20",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/381079"
-        },
-        {
-          "id": "https://css-tricks.com/?p=381057",
-          "author": "Geoff Graham",
-          "description": "Two possible syntaxes for CSS masonry, one draft specification, and you get to share your opinions.\n…\nQuick Hit #19 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/quick-hit-19/",
-          "publishedOn": "2024-09-19T14:31:06.000Z",
-          "wordCount": 1279,
-          "title": "Quick Hit #19",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/381057"
-        },
-        {
-          "id": "https://css-tricks.com/?p=380959",
-          "author": "Geoff Graham",
-          "description": "Getting right to it: the CSS-Tricks Almanac got a big refresh this week!\nI’m guessing you’re already familiar with this giant ol’ section of CSS-Tricks called the Almanac. This is where we publish references for CSS selectors and properties…\nRe-Working the CSS Almanac originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/re-working-the-css-almanac/",
-          "publishedOn": "2024-09-19T14:19:24.000Z",
-          "wordCount": 3406,
-          "title": "Re-Working the CSS Almanac",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/380959"
         }
       ]
     },
@@ -417,21 +387,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/why-you-should-understand-how-work-with-spreadsheets/timeless-power-of-spreadsheets.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2024/09/embracing-introversion-in-ux/",
-          "author": "hello@smashingmagazine.com (Victor Yocco)",
-          "description": "This article aims to celebrate the power of introversion in UX research and design. Victor Yocco debunks common misconceptions, explores the unique strengths introverted researchers and designers bring to the table, and offers practical tips for thriving in a field that sometimes seems tailored for extroverts.",
-          "link": "https://smashingmagazine.com/2024/09/embracing-introversion-in-ux/",
-          "publishedOn": "2024-09-19T15:00:00.000Z",
-          "wordCount": 8584,
-          "title": "Embracing Introversion In UX",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/embracing-introversion-in-ux/embracing-introversion-in-ux.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/embracing-introversion-in-ux/embracing-introversion-in-ux.jpg"
         }
       ]
     },
@@ -440,6 +395,16 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "6712fdc4ad96e38e0b7422ae",
+          "author": "Victoria Nduka",
+          "description": "Over one billion people worldwide live with some form of disability. That is about 16% of the global population. Now, imagine how many of these individuals might be trying to access your website. Would they navigate easily through your site, or would...",
+          "link": "https://www.freecodecamp.org/news/how-to-perform-a-web-accessibility-audit/",
+          "publishedOn": "2024-10-19T00:31:00.000Z",
+          "wordCount": 2626,
+          "title": "How to Perform a Web Accessibility Audit",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1729112018927/8f769e94-9c4b-4651-a0f7-0c99d529c9c3.png"
+        },
         {
           "id": "671271336d32f3591177c37a",
           "author": "Quincy Larson",
@@ -1199,36 +1164,6 @@
           "wordCount": 5183,
           "title": "How To Create a Progressive Web App (PWA) Using Next.js",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1726728761614/ba739b83-78b9-4cd7-9040-13ade8e515f7.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/from-phd-drop-out-to-google-data-scientist-with-megan-risdal-podcast-142/",
-          "author": "Quincy Larson",
-          "description": "On this week's episode of the podcast, I interview Megan Risdal. She's a data scientist and Product Manager at Kaggle, Google's Data Science competition platform. Megan works closely with the global data science community, and on Google's Gemma open ...",
-          "link": "https://www.freecodecamp.org/news/from-phd-drop-out-to-google-data-scientist-with-megan-risdal-podcast-142/",
-          "publishedOn": "2024-09-20T12:10:45.000Z",
-          "wordCount": 969,
-          "title": "From PhD drop-out to Google Data Scientist with Megan Risdal [Podcast #142]",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1726834180511/4191b50c-6784-4fe1-98af-0ca74a63ff7b.jpeg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/master-object-oriented-programming-and-design-patterns-in-c/",
-          "author": "Beau Carnes",
-          "description": "Understanding design patterns are important for efficient software development. They offer proven solutions to common coding challenges, promote code reusability, and enhance maintainability. By mastering these patterns, developers can create more ro...",
-          "link": "https://www.freecodecamp.org/news/master-object-oriented-programming-and-design-patterns-in-c/",
-          "publishedOn": "2024-09-19T15:38:13.000Z",
-          "wordCount": 964,
-          "title": "Master Object-Oriented Programming and Design Patterns in C#",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1726760279000/2cd9582a-34e1-46dd-8882-d5af45dffe4f.jpeg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/learn-how-to-secure-api-servers/",
-          "author": "Beau Carnes",
-          "description": "APIs (Application Programming Interfaces) play an important role in enabling communication between different software systems. However, with great power comes great responsibility, and securing these APIs is necessary to protect sensitive data and ma...",
-          "link": "https://www.freecodecamp.org/news/learn-how-to-secure-api-servers/",
-          "publishedOn": "2024-09-19T15:30:32.000Z",
-          "wordCount": 1057,
-          "title": "Learn How To Secure API Servers",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1726759818974/98a0ec72-f561-4b36-9bbe-aaceb22026c0.png"
         }
       ]
     }
