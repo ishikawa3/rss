@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-20T00:14:05.857Z</updated>
+    <updated>2024-10-21T00:13:23.677Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
@@ -1082,38 +1082,6 @@ The selectmenu Element is No More…Long Live select! originally published on CS
         <summary type="html"><![CDATA[In this age of endless newfangled organizational tools, the spreadsheet holds firm. Frederick O’Brien explains how, from engineering to design, they can still provide a rock-solid foundation for your work.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Frederick O’Brien)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Create a Progressive Web App (PWA) Using Next.js]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-create-a-nextjs-pwa/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-create-a-nextjs-pwa/"/>
-        <updated>2024-09-20T21:48:26.000Z</updated>
-        <summary type="html"><![CDATA[Have you ever wanted to create a web app that works smoothly on any device—whether it's on the web, mobile, or desktop? Imagine if your app could load quickly, work without an internet connection, and feel like a native app, all without needing to be...]]></summary>
-        <author>
-            <name>Spruce Emmanuel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Quick Hit #21]]></title>
-        <id>https://css-tricks.com/?p=380952</id>
-        <link href="https://css-tricks.com/quick-hit-21/"/>
-        <updated>2024-09-20T16:15:26.000Z</updated>
-        <summary type="html"><![CDATA[Seeing a lot more headlines decrying JavaScript and pumping up PHP. Always interesting to see which direction the front-end zeitgeist is leaning.…
-Quick Hit #21 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSSWG Minutes Telecon (2024-09-18)]]></title>
-        <id>https://css-tricks.com/?p=381098</id>
-        <link href="https://css-tricks.com/csswg-minutes-telecon-2024-09-18/"/>
-        <updated>2024-09-20T15:15:33.000Z</updated>
-        <summary type="html"><![CDATA[For the past two months, all my livelihood has gone towards reading, researching, understanding, writing, and editing about Anchor Positioning, and with many Almanac entries published and a full Guide guide on the way, I thought I was ready to …
-CSSWG Minutes Telecon (2024-09-18) originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Juan Diego Rodríguez</name>
         </author>
     </entry>
 </feed>

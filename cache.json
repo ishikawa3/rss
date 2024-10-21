@@ -225,26 +225,6 @@
           "wordCount": 1622,
           "title": "The selectmenu Element is No More…Long Live select!",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/381134"
-        },
-        {
-          "id": "https://css-tricks.com/?p=380952",
-          "author": "Geoff Graham",
-          "description": "Seeing a lot more headlines decrying JavaScript and pumping up PHP. Always interesting to see which direction the front-end zeitgeist is leaning.…\nQuick Hit #21 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/quick-hit-21/",
-          "publishedOn": "2024-09-20T16:15:26.000Z",
-          "wordCount": 1293,
-          "title": "Quick Hit #21",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/380952"
-        },
-        {
-          "id": "https://css-tricks.com/?p=381098",
-          "author": "Juan Diego Rodríguez",
-          "description": "For the past two months, all my livelihood has gone towards reading, researching, understanding, writing, and editing about Anchor Positioning, and with many Almanac entries published and a full Guide guide on the way, I thought I was ready to …\nCSSWG Minutes Telecon (2024-09-18) originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/csswg-minutes-telecon-2024-09-18/",
-          "publishedOn": "2024-09-20T15:15:33.000Z",
-          "wordCount": 3073,
-          "title": "CSSWG Minutes Telecon (2024-09-18)",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/381098"
         }
       ]
     },
@@ -1154,16 +1134,6 @@
           "wordCount": 1564,
           "title": "What is ECS Monitoring? Explained With Examples",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1727103254033/39d8dac3-4e18-46dc-8ad6-129386a165b3.avif"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-create-a-nextjs-pwa/",
-          "author": "Spruce Emmanuel",
-          "description": "Have you ever wanted to create a web app that works smoothly on any device—whether it's on the web, mobile, or desktop? Imagine if your app could load quickly, work without an internet connection, and feel like a native app, all without needing to be...",
-          "link": "https://www.freecodecamp.org/news/how-to-create-a-nextjs-pwa/",
-          "publishedOn": "2024-09-20T21:48:26.000Z",
-          "wordCount": 5183,
-          "title": "How To Create a Progressive Web App (PWA) Using Next.js",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1726728761614/ba739b83-78b9-4cd7-9040-13ade8e515f7.png"
         }
       ]
     }
