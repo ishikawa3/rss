@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=381613",
+          "author": "Geoff Graham",
+          "description": "I’m utterly behind in learning about scroll-driven animations apart from the “reading progress bar” experiments all over CodePen. Well, I’m not exactly “green” on the topic; we’ve published a handful of articles on it including this neat-o one by Lee …\nUnleash the Power of Scroll-Driven Animations originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/unleash-the-power-of-scroll-driven-animations/",
+          "publishedOn": "2024-10-21T13:50:53.000Z",
+          "wordCount": 5808,
+          "title": "Unleash the Power of Scroll-Driven Animations",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/381613"
+        },
+        {
           "id": "https://css-tricks.com/?p=381832",
           "author": "Ryan Trimble",
           "description": "Change can certainly be scary whenever a beloved, independent software library becomes a part of a larger organization. I’m feeling a bit more excitement than concern this time around, though.\nIf you haven’t heard, GSAP (GreenSock Animation Platform) is teaming …\nCombining forces, GSAP & Webflow! originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -375,6 +385,36 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "6716a484c9b0ead280c3a92f",
+          "author": "Saki Basken",
+          "description": "After months of endless job applications, networking, and studying, I accepted an offer in January to work full-time as a developer. It wasn’t smooth sailing, and I won’t lie — the road was very bumpy.  So to help others out, I want to share my story...",
+          "link": "https://www.freecodecamp.org/news/from-stay-at-home-freelancing-parent-to-developer-tips/",
+          "publishedOn": "2024-10-21T18:59:16.000Z",
+          "wordCount": 4796,
+          "title": "How to Transition from Stay-at-Home Freelancing Parent to Developer: A Bootcamp Survivor’s Guide",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1729459143433/56e305bd-b7db-453e-81c9-e30787d6e4cd.jpeg"
+        },
+        {
+          "id": "67169d1456af142bfd7fe418",
+          "author": "Grant Riordan",
+          "description": "Being able to update variables, call particular branches of code, or simply output different code based on a certain condition is a vital part of programming in any language. C# (C Sharp) offers multiple ways to do these things, and I’m about to show...",
+          "link": "https://www.freecodecamp.org/news/conditional-statements-in-csharp-if-switch-and-more/",
+          "publishedOn": "2024-10-21T18:27:32.000Z",
+          "wordCount": 3492,
+          "title": "How to Use Conditional Statements in C#: If, Switch, and More Explained with Example Code",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1729432206658/e802fcca-bf0c-424f-9915-b02fd847bdcc.png"
+        },
+        {
+          "id": "6716909d6cc6de90a6dad8be",
+          "author": "Bhavishya Pandit",
+          "description": "If you’re considering building an application powered by a Large Language Model, you may wonder which tool to use. Well, two well-established frameworks—LangChain and LlamaIndex—have gained significant attention for their unique features and capabili...",
+          "link": "https://www.freecodecamp.org/news/llm-powered-apps-langchain-vs-llamaindex-vs-nim/",
+          "publishedOn": "2024-10-21T17:34:21.000Z",
+          "wordCount": 3420,
+          "title": "Which Tools to Use for LLM-Powered Applications: LangChain vs LlamaIndex vs NIM",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1729527716896/58932669-914c-4380-88c8-33ffbad99b5f.webp"
+        },
         {
           "id": "6712fdc4ad96e38e0b7422ae",
           "author": "Victoria Nduka",
