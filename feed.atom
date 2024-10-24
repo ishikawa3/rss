@@ -2,10 +2,82 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-23T00:12:44.474Z</updated>
+    <updated>2024-10-24T00:12:56.296Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Use Skeleton Screens to Improve Perceived Website Performance]]></title>
+        <id>671955939f7c056f46dd8604</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-skeleton-screens-to-improve-perceived-website-performance/"/>
+        <updated>2024-10-23T19:59:15.000Z</updated>
+        <summary type="html"><![CDATA[When you’re building a website, it’s important to make sure that it’s fast. People have little to no patience for slow-loading websites. So as developers, we need to use all the techniques available to us to speed up our site’s performance. And somet...]]></summary>
+        <author>
+            <name>Timothy Olanrewaju</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Automate Documentation Conversion with Pandoc in CI/CD Pipelines]]></title>
+        <id>671949e0521b33716a071ccc</id>
+        <link href="https://www.freecodecamp.org/news/how-to-automate-documentation-conversion-with-pandoc-in-cicd-pipelines/"/>
+        <updated>2024-10-23T19:09:20.000Z</updated>
+        <summary type="html"><![CDATA[In any software project, documentation plays a crucial role in guiding developers, users, and stakeholders through the project's features and functionalities. As projects grow and evolve, managing documentation across various formats—whether it’s mar...]]></summary>
+        <author>
+            <name>Preston Mayieka</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Create Filling CSS Loaders Using One Element]]></title>
+        <id>6719336f56c24fb7d4fc62b3</id>
+        <link href="https://www.freecodecamp.org/news/filling-css-loaders/"/>
+        <updated>2024-10-23T17:33:35.000Z</updated>
+        <summary type="html"><![CDATA[In a previous article, I showed you how to create two types of CSS loaders: a spinner and a progress bar. In this article, you’ll learn about another variation called a filling CSS loader. I think a demo is worth thousands of words, so check out this...]]></summary>
+        <author>
+            <name>Temani Afif</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build Your Own Wheel of Names with React and TypeScript]]></title>
+        <id>67190fa49a9d435e2ceeafb6</id>
+        <link href="https://www.freecodecamp.org/news/build-your-own-wheel-of-names/"/>
+        <updated>2024-10-23T15:00:52.000Z</updated>
+        <summary type="html"><![CDATA[A while ago, I stumbled upon a website listing various coding challenges, and I decided to give some a try. Last week, I came across one that involved building a "Wheel of Names." It reminded me of a similar project I built years ago using Flash and ...]]></summary>
+        <author>
+            <name>Mihail Gaberov</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use RxStomp with React – Build Chat App with STOMP and React]]></title>
+        <id>671901e20aa5e141c2db418f</id>
+        <link href="https://www.freecodecamp.org/news/build-chat-app-with-stomp-and-react/"/>
+        <updated>2024-10-23T14:02:10.000Z</updated>
+        <summary type="html"><![CDATA[STOMP is an amazingly simple yet powerful protocol for sending messages implemented by popular servers like RabbitMQ, ActiveMQ, and Apollo. Using STOMP over WebSocket is a straightforward protocol, making it a popular choice for sending messages from...]]></summary>
+        <author>
+            <name>Harsh Deep</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Clarifying the Relationship Between Popovers and Dialogs]]></title>
+        <id>https://css-tricks.com/?p=382008</id>
+        <link href="https://css-tricks.com/clarifying-the-relationship-between-popovers-and-dialogs/"/>
+        <updated>2024-10-23T13:20:46.000Z</updated>
+        <summary type="html"><![CDATA[The difference between Popovers (i.e., the popover attribute) and Dialogs (i.e., both the <dialog element and the dialog accessible role) is incredibly confusing — so much that many articles (like this, this, and this) have tried to …
+Clarifying the Relationship Between Popovers and Dialogs originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Zell Liew</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Clamp it! VS Code extension]]></title>
+        <id>https://css-tricks.com/?p=381992</id>
+        <link href="https://css-tricks.com/clamp-it-vs-code-extension/"/>
+        <updated>2024-10-23T13:15:20.000Z</updated>
+        <summary type="html"><![CDATA[There’s a lot of math behind fluid typography. CSS does make the math a lot easier these days, but even if you’re comfortable with that, writing the full declaration can be verbose and tough to remember. I know I often …
+Clamp it! VS Code extension originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Pass Additional Arguments to Next.js Server Actions]]></title>
         <id>6717fde839354c63841ba816</id>
@@ -1092,57 +1164,6 @@ Color Mixing With Animation Composition originally published on CSS-Tricks, whic
         <summary type="html"><![CDATA[When using React, we strive to create reusable components as much as we can to limit the number of components and repetition. This keeps your code “DRY”. DRY is a concept you may have come across—it means “Don’t Repeat Yourself”. DRY is a coding prin...]]></summary>
         <author>
             <name>Grant Riordan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Boost Web Performance with Prefetching – Improve User Experience by Reducing Load Time]]></title>
-        <id>https://www.freecodecamp.org/news/boost-web-performance-with-prefetching/</id>
-        <link href="https://www.freecodecamp.org/news/boost-web-performance-with-prefetching/"/>
-        <updated>2024-09-23T15:48:11.000Z</updated>
-        <summary type="html"><![CDATA[We've all encountered the frustration of waiting through long loading screens, only to find ourselves stuck with unresponsive pages. You see loading spinners everywhere, but nothing seems to move forward. Let me paint a clearer picture for you: This...]]></summary>
-        <author>
-            <name>Keyur Paralkar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The selectmenu Element is No More…Long Live select!]]></title>
-        <id>https://css-tricks.com/?p=381134</id>
-        <link href="https://css-tricks.com/the-selectmenu-element-is-no-morelong-live-select/"/>
-        <updated>2024-09-23T15:43:05.000Z</updated>
-        <summary type="html"><![CDATA[I was looking over an older article Patrick Brosset penned for us introducing <selectmenu>, a new proposal at the time for a more style-able cousin to <select>. From there, I clicked the linked-up <selectmenu> explainer and got… this:…
-The selectmenu Element is No More…Long Live select! originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Write Benchmark Tests for Your Golang Functions]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-write-benchmark-tests-for-your-golang-functions/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-write-benchmark-tests-for-your-golang-functions/"/>
-        <updated>2024-09-23T14:37:10.000Z</updated>
-        <summary type="html"><![CDATA[Hello Gophers 👋 Let me start by asking you a question: How would you test the performance of a piece of code or a function in Go? Well, you could use benchmark tests. In this tutorial, I will show you how to use an awesome benchmarking tool that’s b...]]></summary>
-        <author>
-            <name>Pedro Bertao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build an AI Chatbot with Spring AI, React, and Docker]]></title>
-        <id>https://www.freecodecamp.org/news/ai-chatbot-with-spring-react-docker/</id>
-        <link href="https://www.freecodecamp.org/news/ai-chatbot-with-spring-react-docker/"/>
-        <updated>2024-09-23T14:27:25.000Z</updated>
-        <summary type="html"><![CDATA[Hey Java developers, I’ve got good news: Spring now has official support for building AI applications using the Spring AI module. In this tutorial, we’ll build a chatbot application using Spring Boot, React, Docker, and OpenAI. This app will let user...]]></summary>
-        <author>
-            <name>Vikas Rajput</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Get a Memory Map of Your System using BIOS Interrupts]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-get-a-memory-map-of-your-system-using-bios-interrupts/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-get-a-memory-map-of-your-system-using-bios-interrupts/"/>
-        <updated>2024-09-23T14:14:25.000Z</updated>
-        <summary type="html"><![CDATA[When you are developing a kernel, one of the most important things is memory. The kernel must know how much memory is available and where it's located to avoid overwriting crucial system resources. But not all memory is freely available for use. Some...]]></summary>
-        <author>
-            <name>Nikolaos Panagopoulos</name>
         </author>
     </entry>
 </feed>
