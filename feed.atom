@@ -2,10 +2,93 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-25T00:13:09.818Z</updated>
+    <updated>2024-10-26T00:12:32.163Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Google Dorking: How to Find Hidden Information on the Web]]></title>
+        <id>671bf3858ac006ad747be97f</id>
+        <link href="https://www.freecodecamp.org/news/google-dorking-how-to-find-hidden-information-on-the-web/"/>
+        <updated>2024-10-25T19:37:41.000Z</updated>
+        <summary type="html"><![CDATA[Let’s learn how to find hidden information online by using advanced search operators on Google. The internet holds vast amounts of information. Much of this information is accessible through Google. But did you know you can use Google in ways beyond ...]]></summary>
+        <author>
+            <name>Manish Shivanandhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Deploy Your Project On Vercel With A Custom Domain]]></title>
+        <id>671bf3148df28644ca9012f9</id>
+        <link href="https://www.freecodecamp.org/news/how-to-deploy-your-project-on-vercel/"/>
+        <updated>2024-10-25T19:35:48.000Z</updated>
+        <summary type="html"><![CDATA[Have you ever built a project but found it difficult to make it live on the internet? Well, worry no more because this article will help you do that. In this article, I will introduce you to one of the fastest and easiest deployment platforms for bri...]]></summary>
+        <author>
+            <name>Okoro Emmanuel Nzube</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[freeCodeCamp's Top Open Source Contributors of 2024]]></title>
+        <id>671be68e68f1df3481f20947</id>
+        <link href="https://www.freecodecamp.org/news/freecodecamps-top-open-source-contributors-of-2024/"/>
+        <updated>2024-10-25T18:42:22.000Z</updated>
+        <summary type="html"><![CDATA[2024 has been an extremely productive year for the freeCodeCamp community. We’ve built up an incredible amount of momentum toward our missioncreating open learning resources for everyone. Over the past 12 months, the freeCodeCamp community has: Merg...]]></summary>
+        <author>
+            <name>Quincy Larson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Write Cleaner JavaScript Code with The Ternary Operator]]></title>
+        <id>671bc601bf239575d6efca0c</id>
+        <link href="https://www.freecodecamp.org/news/write-cleaner-javascript-code-with-the-ternary-operator/"/>
+        <updated>2024-10-25T16:23:29.000Z</updated>
+        <summary type="html"><![CDATA[When you're coding in JavaScript, handling decisions through conditional statements is one of the core tasks you'll frequently encounter. One of the most commonly used methods for this is the ternary operator. But what exactly is it, and when should ...]]></summary>
+        <author>
+            <name>Oluwadamisi Samuel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From Stealing Cars to Self-Taught Software Engineer with Dorian Develops [Podcast #147]]]></title>
+        <id>671bb68ab1de10b671182954</id>
+        <link href="https://www.freecodecamp.org/news/from-stealing-cars-to-self-taught-software-engineer-dorian-develops-podcast-147/"/>
+        <updated>2024-10-25T15:17:30.000Z</updated>
+        <summary type="html"><![CDATA[On this week's episode of the podcast, I interview Dorian Develops. He's a software engineer and prolific YouTube creator. Dorian grew up in the Little Havana neighborhood of Miami. He's the child of a single mother that arrived as a refugee from Cub...]]></summary>
+        <author>
+            <name>Quincy Larson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Come to the light-dark() Side]]></title>
+        <id>https://css-tricks.com/?p=382039</id>
+        <link href="https://css-tricks.com/come-to-the-light-dark-side/"/>
+        <updated>2024-10-25T14:08:20.000Z</updated>
+        <summary type="html"><![CDATA[You’d be forgiven for thinking coding up both a dark and a light mode at once is a lot of work. You have to remember @media queries based on prefers-color-scheme as well as extra complications that arise when letting visitors …
+Come to the light-dark() Side originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Sara Joy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Left Half and Right Half Layout – Many Different Ways]]></title>
+        <id>http://css-tricks.com/?p=198099</id>
+        <link href="https://css-tricks.com/left-and-right/"/>
+        <updated>2024-10-25T11:51:02.000Z</updated>
+        <summary type="html"><![CDATA[A whole bunch of years ago, we posted on this idea here on CSS-Tricks. We figured it was time to update that and do the subject justice.
+Imagine a scenario where you need to split a layout in half. Content …
+Left Half and Right Half Layout – Many Different Ways originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use Object-Oriented Programming in Python – Key OOP Concepts and Interview Questions for Beginners]]></title>
+        <id>671aeea7c5f85f75b4b243e8</id>
+        <link href="https://www.freecodecamp.org/news/object-oriented-programming-in-python-interview-questions/"/>
+        <updated>2024-10-25T01:04:39.000Z</updated>
+        <summary type="html"><![CDATA[OOP is a crucial concept that every developer should grasp, especially when getting ready for job interviews. It helps you organize code into modular and reusable sections, which simplifies the development, maintenance, and scaling of software applic...]]></summary>
+        <author>
+            <name>Casmir Onyekani</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Implement Fine-Grained Authorization in Java and SpringBoot]]></title>
         <id>671a85db0db570158155ec00</id>
@@ -1183,37 +1266,6 @@ What BCD Watch does is, it grabs releases of the Browser
 BCD Watch originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How AI Tools Can Help You Reuse Code]]></title>
-        <id>https://www.freecodecamp.org/news/tools-for-code-reuse/</id>
-        <link href="https://www.freecodecamp.org/news/tools-for-code-reuse/"/>
-        <updated>2024-09-25T20:16:50.000Z</updated>
-        <summary type="html"><![CDATA[Reusing code is an important part of software development. Instead of writing the same code again and again, developers can save time and effort by using code that already works. This not only speeds up the development process but also helps improve ...]]></summary>
-        <author>
-            <name>Oluwadamisi Samuel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn React Hooks – Common Hooks Explained with Code Examples]]></title>
-        <id>https://www.freecodecamp.org/news/learn-react-hooks-with-example-code/</id>
-        <link href="https://www.freecodecamp.org/news/learn-react-hooks-with-example-code/"/>
-        <updated>2024-09-25T16:04:35.000Z</updated>
-        <summary type="html"><![CDATA[Web development is a popular field in the tech industry. It involves building web software using HTML, CSS, and JavaScript – sometimes with the help of various frameworks and libraries. Using libraries and frameworks allows developers to focus more o...]]></summary>
-        <author>
-            <name>Prankur Pandey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Make a “Scroll to Select” Form Control]]></title>
-        <id>https://css-tricks.com/?p=381060</id>
-        <link href="https://css-tricks.com/how-to-make-a-scroll-to-select-form-control/"/>
-        <updated>2024-09-25T14:31:54.000Z</updated>
-        <summary type="html"><![CDATA[The <select> element is a fairly straightforward concept: focus on it to reveal a set of <option>s that can be selected as the input’s value. That’s a great pattern and I’m not suggesting we change it. That said, I …
-How to Make a “Scroll to Select” Form Control originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Preethi</name>
         </author>
     </entry>
 </feed>
