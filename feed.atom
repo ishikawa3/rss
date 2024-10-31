@@ -2,10 +2,61 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-30T00:13:03.446Z</updated>
+    <updated>2024-10-31T00:13:03.490Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Remove All Saved Posts from Facebook Using JavaScript]]></title>
+        <id>67228665c48a2523d1dedb0a</id>
+        <link href="https://www.freecodecamp.org/news/remove-all-saved-posts-from-facebook-using-javascript/"/>
+        <updated>2024-10-30T19:17:57.000Z</updated>
+        <summary type="html"><![CDATA[If you're an avid Facebook user, you've probably saved countless posts, videos, and links to revisit later. But sometimes, these saved posts accumulate and become overwhelming. You may decide to un-save them all at once rather than manually uncheckin...]]></summary>
+        <author>
+            <name>Md. Fahim Bin Amin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[State of CSS 2024 Results]]></title>
+        <id>https://css-tricks.com/?p=382144</id>
+        <link href="https://css-tricks.com/state-of-css-2024-results/"/>
+        <updated>2024-10-30T16:43:55.000Z</updated>
+        <summary type="html"><![CDATA[The results from this year's survey are fairly fresh off the presses. We took a little time to sit with them and jot down some things we noticed and found interesting.
+State of CSS 2024 Results originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use Developer Tools to Debug JavaScript in the Browser]]></title>
+        <id>67224a271058ad4196106527</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-developer-tools-to-debug-javascript-in-the-browser/"/>
+        <updated>2024-10-30T15:00:55.000Z</updated>
+        <summary type="html"><![CDATA[The console object is the number one go-to for developers when working with buggy JavaScript code. But if you still rely heavily on the console object alone to debug your JavaScript, then you're missing out on some amazing browser developer tools fea...]]></summary>
+        <author>
+            <name>Kolade Chris</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Designing For Gen Z: Expectations And UX Guidelines]]></title>
+        <id>https://smashingmagazine.com/2024/10/designing-for-gen-z/</id>
+        <link href="https://smashingmagazine.com/2024/10/designing-for-gen-z/"/>
+        <updated>2024-10-30T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[There are many myths revolving around Gen Z and how they use tech. Time to take a look at actual behavior patterns that go beyond heavy use of social media. Part of [Smart Interface Design Patterns](https://smart-interface-design-patterns.com) by yours truly.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What are Smart Pointers in Rust? Explained with Code Examples]]></title>
+        <id>6721aeb8d9c3d37db41183a6</id>
+        <link href="https://www.freecodecamp.org/news/smart-pointers-in-rust-with-code-examples/"/>
+        <updated>2024-10-30T03:57:44.000Z</updated>
+        <summary type="html"><![CDATA[Smart pointers are data structures that act like pointers but contain extra information and have functionalities that make them excel over regular pointers in certain situations. So what are regular pointers? Regular pointers (just called “pointers”)...]]></summary>
+        <author>
+            <name>Oduah Chigozie</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Merge Multiple Google Docs into One Using Apps Script or the Google Docs API]]></title>
         <id>672103feae01d783da13018b</id>
@@ -1180,47 +1231,6 @@ CSS Anchor Positioning Guide originally published on CSS-Tricks, which is part o
         <summary type="html"><![CDATA[If you're looking to build modern web applications using Microsoft's .NET platform, ASP.NET Core MVC and Entity Framework Core are essential technologies to master. ASP.NET Core MVC is a powerful framework for creating web apps following the Model-Vi...]]></summary>
         <author>
             <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Improve Your Data Science Skills by Solving Kaggle Challenges]]></title>
-        <id>https://www.freecodecamp.org/news/improve-your-data-science-skills-by-solving-kaggle-challenges/</id>
-        <link href="https://www.freecodecamp.org/news/improve-your-data-science-skills-by-solving-kaggle-challenges/"/>
-        <updated>2024-09-30T20:08:49.000Z</updated>
-        <summary type="html"><![CDATA[Data science competitions can help you improve your data science skills. We just posted a course on the freeCodeCamp.org YouTube channel that is designed to help you understand and complete Kaggle competitions, from data exploration to model building...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Start Building Projects with LLMs]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-start-building-projects-with-llms/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-start-building-projects-with-llms/"/>
-        <updated>2024-09-30T18:46:25.000Z</updated>
-        <summary type="html"><![CDATA[If you’re an aspiring AI professional, becoming an LLM engineer offers an exciting and promising career path. But where should you start? What should your trajectory look like? How should you learn? In one of my previous posts, I laid out the complet...]]></summary>
-        <author>
-            <name>Harshit Tyagi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New React 19 Features You Should Know –  Explained with Code Examples]]></title>
-        <id>https://www.freecodecamp.org/news/new-react-19-features-you-should-know-with-code-examples/</id>
-        <link href="https://www.freecodecamp.org/news/new-react-19-features-you-should-know-with-code-examples/"/>
-        <updated>2024-09-30T18:36:59.000Z</updated>
-        <summary type="html"><![CDATA[React.js is 11 years old, and it has become one of the most popular JavaScript libraries out there. And now, React is transitioning from version 18 to version 19. So hold onto your hats, React enthusiasts 🎩. React 19 has recently landed, and it’s a ...]]></summary>
-        <author>
-            <name>Prankur Pandey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSS Masonry & CSS Grid]]></title>
-        <id>https://css-tricks.com/?p=381216</id>
-        <link href="https://css-tricks.com/css-masonry-css-grid/"/>
-        <updated>2024-09-30T13:56:11.000Z</updated>
-        <summary type="html"><![CDATA[An approach for creating masonry layouts in vanilla CSS is one of those “holy grail” aspirations. I actually tend to plop masonry and the classic “Holy Grail” layout in the same general era of web design. They’re different types of …
-CSS Masonry & CSS Grid originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
         </author>
     </entry>
 </feed>
