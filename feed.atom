@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-01T00:14:19.346Z</updated>
+    <updated>2024-11-02T00:12:35.952Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Open Source is WILD. The craziest things The Changelog has seen in 15 years. [Podcast #148]]]></title>
+        <id>67251331e678821a22a973f9</id>
+        <link href="https://www.freecodecamp.org/news/open-source-the-changelog-podcast-148/"/>
+        <updated>2024-11-01T17:43:13.000Z</updated>
+        <summary type="html"><![CDATA[On this week's episode of the podcast, I interview Adam Stachoviac and Jerod Santo, co-hosts of The Changelog – the longest-running software podcast in world. They interview devs about Open Source projects, and they also have a weekly news episode th...]]></summary>
+        <author>
+            <name>Quincy Larson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Web-Slinger.css: Like Wow.js But With CSS-y Scroll Animations]]></title>
+        <id>https://css-tricks.com/?p=382156</id>
+        <link href="https://css-tricks.com/web-slinger-css-like-wow-js-but-with-css-y-scroll-animations/"/>
+        <updated>2024-11-01T14:00:36.000Z</updated>
+        <summary type="html"><![CDATA[Can we recreate a JavaScript library for scrolling animations with a modern CSS approach using CSS Scroll-Driven Animations? Yes. Yes, we can.
+Web-Slinger.css: Like Wow.js But With CSS-y Scroll Animations originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Lee Meyer</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Top Cybersecurity Certifications You Should Know About as a Developer]]></title>
         <id>6723aaab6ac0ce6c240da454</id>
@@ -1120,107 +1141,6 @@ The Proliferation and Problem of the ✨ Sparkles ✨ Icon originally published 
         <summary type="html"><![CDATA[Open source software has become the backbone of modern technology, powering everything from small startups to giant corporations. Contributing to open source projects is not just a way to give back to the community – it's also an excellent opportunit...]]></summary>
         <author>
             <name>Sahil Mahapatra</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Retrieve System Information Using The CPUID Instruction]]></title>
-        <id>https://www.freecodecamp.org/news/retrieve-system-information-using-cpuid/</id>
-        <link href="https://www.freecodecamp.org/news/retrieve-system-information-using-cpuid/"/>
-        <updated>2024-10-03T10:13:02.000Z</updated>
-        <summary type="html"><![CDATA[When developing a bootloader/kernel, understanding the underlying architecture is crucial for optimizing performance and compatibility between software and hardware. One important yet sometimes overlooked tool available to engineers for querying and ...]]></summary>
-        <author>
-            <name>Nikolaos Panagopoulos</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Create Linux Device Drivers]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-create-linux-device-drivers/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-create-linux-device-drivers/"/>
-        <updated>2024-10-02T21:27:04.000Z</updated>
-        <summary type="html"><![CDATA[Linux device drivers are critical pieces of software that allow your operating system to communicate with hardware like keyboards, printers, and other peripherals. Developing these drivers is a highly specialized skill that provides deep insights int...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Improve Your Front-End Development Workflow with the ZenUI Library]]></title>
-        <id>https://www.freecodecamp.org/news/improve-front-end-development-workflow-with-zenui-library/</id>
-        <link href="https://www.freecodecamp.org/news/improve-front-end-development-workflow-with-zenui-library/"/>
-        <updated>2024-10-02T18:48:21.000Z</updated>
-        <summary type="html"><![CDATA[Hello everyone! In this guide, you’ll learn about the powerful ZenUI Library. It’s a comprehensive, free collection of UI components and templates designed to enhance your development workflow and elevate your projects. Whether you’re a developer loo...]]></summary>
-        <author>
-            <name>Asfak Ahmed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Power of Wordlists: Why Every Ethical Hacker Needs One]]></title>
-        <id>https://www.freecodecamp.org/news/the-power-of-wordlists-why-every-ethical-hacker-needs-one/</id>
-        <link href="https://www.freecodecamp.org/news/the-power-of-wordlists-why-every-ethical-hacker-needs-one/"/>
-        <updated>2024-10-02T18:34:35.000Z</updated>
-        <summary type="html"><![CDATA[Wordlists are a core component of brute-force attacks. Let's learn what they are and how to use them. Imagine that you’re a security professional who’s performing a penetration test on a client’s website. Your job is to find potential weak points in ...]]></summary>
-        <author>
-            <name>Manish Shivanandhan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How I Built a Custom Video Conferencing App with Stream and Next.js]]></title>
-        <id>https://www.freecodecamp.org/news/how-i-built-a-custom-video-conferencing-app-with-stream-and-nextjs/</id>
-        <link href="https://www.freecodecamp.org/news/how-i-built-a-custom-video-conferencing-app-with-stream-and-nextjs/"/>
-        <updated>2024-10-02T17:46:39.000Z</updated>
-        <summary type="html"><![CDATA[Building full-stack apps can be tough. You have to think about frontend, APIs, databases, auth – plus you have to know how all of these things work together. And building a project like a video conferencing app from scratch can feel even more overwhe...]]></summary>
-        <author>
-            <name>Ankur Tyagi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSS Anchor Positioning Guide]]></title>
-        <id>https://css-tricks.com/?p=381364</id>
-        <link href="https://css-tricks.com/css-anchor-positioning-guide/"/>
-        <updated>2024-10-02T15:26:48.000Z</updated>
-        <summary type="html"><![CDATA[Learn about CSS Anchor Positioning, including its syntax, properties, how it is used to position one element next to another, and even how it's used to resize elements relative to other elements.
-CSS Anchor Positioning Guide originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Juan Diego Rodríguez</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Run Database Migrations in Kubernetes – Different Approaches with Examples]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-run-database-migrations-in-kubernetes/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-run-database-migrations-in-kubernetes/"/>
-        <updated>2024-10-02T15:09:50.000Z</updated>
-        <summary type="html"><![CDATA[In the era of Microservices and Kubernetes, managing database migrations has become more complex than ever. Traditional methods of running migrations during application startup are no longer sufficient. This article explores various approaches to han...]]></summary>
-        <author>
-            <name>Alex Pliutau</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use Medusa for Fast, Multi-Protocol Brute-Force Attacks – Security Tutorial]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-use-medusa-for-fast-multi-protocol-brute-force-attacks-security-tutorial/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-medusa-for-fast-multi-protocol-brute-force-attacks-security-tutorial/"/>
-        <updated>2024-10-02T14:25:10.000Z</updated>
-        <summary type="html"><![CDATA[As a pentester (a fancy term for an ethical hacker), you will often attack systems the same way a malicious hacker does. But your goal will be to find weaknesses – so teams can work to address them. One such system is password-based authentication. B...]]></summary>
-        <author>
-            <name>Manish Shivanandhan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn HTTP Methods like GET, POST, and DELETE – a Handbook with Code Examples]]></title>
-        <id>https://www.freecodecamp.org/news/learn-http-methods-like-get-post-and-delete-a-handbook-with-code-examples/</id>
-        <link href="https://www.freecodecamp.org/news/learn-http-methods-like-get-post-and-delete-a-handbook-with-code-examples/"/>
-        <updated>2024-10-02T14:22:37.000Z</updated>
-        <summary type="html"><![CDATA[When you interact with websites or apps, a lot happens behind the scenes. A key part of this process is how your browser or app talks to a server. HTTPS methods define what action needs to happen – it could be fetching data, sending information, or m...]]></summary>
-        <author>
-            <name>Joan Ayebola</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use Tooltips in Jetpack Compose]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-use-tooltips-in-jetpack-compose/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-tooltips-in-jetpack-compose/"/>
-        <updated>2024-10-02T13:57:57.000Z</updated>
-        <summary type="html"><![CDATA[When I wrote my last article about Jetpack Compose, I stated there that Jetpack Compose is missing some (in my opinion) basic components, and one of them is the tooltip. At the time, there was no built-in composable to display tooltips and there were...]]></summary>
-        <author>
-            <name>Tomer</name>
         </author>
     </entry>
 </feed>
