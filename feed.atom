@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-03T00:14:19.604Z</updated>
+    <updated>2024-11-04T00:13:41.268Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
@@ -1038,16 +1038,6 @@ Searching for a New CSS Logo originally published on CSS-Tricks, which is part o
         <summary type="html"><![CDATA[RSS is a classic technology that fetches content from websites and feeds it to anyone who subscribes to it with a URL. It’s based on XML, and we can use it to consume the feeds in our own apps. Karin Hendrikse demonstrates how to do exactly that with a static site you can use as your personal RSS reader.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Karin Hendrikse)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Become a Street Smart Developer – From Dropout to Selling his Company w/ Dennis Ivy [Podcast #144]]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-become-a-street-smart-developer-dennis-ivy-interview-144/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-become-a-street-smart-developer-dennis-ivy-interview-144/"/>
-        <updated>2024-10-04T13:44:45.000Z</updated>
-        <summary type="html"><![CDATA[On this week's episode of the podcast, freeCodeCamp founder Quincy Larson interviews Dennis Ivy, a software engineer and prolific freelancer. Dennis dropped out of college at 18 and taught himself how to build websites. He started his first agency, b...]]></summary>
-        <author>
-            <name>Quincy Larson</name>
         </author>
     </entry>
 </feed>
