@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=382247",
+          "author": "Juan Diego Rodríguez",
+          "description": "The State of CSS 2024 survey wrapped up and the results are interesting, as always. Even though each section is worth analyzing, we are usually most hyped about the section on the most used CSS features. And if you …\nPopping Comments With CSS Anchor Positioning and View-Driven Animations originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/popping-comments-with-css-anchor-positioning-and-view-driven-animations/",
+          "publishedOn": "2024-11-06T15:31:20.000Z",
+          "wordCount": 2964,
+          "title": "Popping Comments With CSS Anchor Positioning and View-Driven Animations",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/382247"
+        },
+        {
           "id": "https://css-tricks.com/?p=382107",
           "author": "Richard Hubbard",
           "description": "We can apply the concept of fluid typography to almost anything. This way we can have a layout that fluidly changes with the size of its parent container. Few users will ever see the transition, but they will all appreciate the results. Honestly, they will.\nFluid Everything Else originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -195,26 +205,6 @@
           "wordCount": 1492,
           "title": "Smashing Hour With Heydon Pickering",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/381729"
-        },
-        {
-          "id": "https://css-tricks.com/?p=381674",
-          "author": "Juan Diego Rodríguez",
-          "description": "The @supports at-rule has been extended several times since its initial release. Once only capable of checking support for property/value pairs, it can now check for a selector using the selector() wrapper function and different font formats and techs using …\nRecipes for Detecting Support for CSS At-Rules originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/recipes-for-detecting-support-for-css-at-rules/",
-          "publishedOn": "2024-10-07T19:46:07.000Z",
-          "wordCount": 2618,
-          "title": "Recipes for Detecting Support for CSS At-Rules",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/381674"
-        },
-        {
-          "id": "https://css-tricks.com/?p=381662",
-          "author": "Ryan Trimble",
-          "description": "There is an amazing community effort happening in search of a new logo for CSS. I was a bit skeptical at first, as I never really considered CSS a “brand.” Why does it need a logo? For starters, the current …\nSearching for a New CSS Logo originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/searching-for-a-new-css-logo/",
-          "publishedOn": "2024-10-07T16:49:59.000Z",
-          "wordCount": 2130,
-          "title": "Searching for a New CSS Logo",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/381662"
         }
       ]
     },
@@ -312,21 +302,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/using-multimodal-ai-models-applications-part3/using-multimodal-ai-models-applications.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2024/10/build-static-rss-reader-fight-fomo/",
-          "author": "hello@smashingmagazine.com (Karin Hendrikse)",
-          "description": "RSS is a classic technology that fetches content from websites and feeds it to anyone who subscribes to it with a URL. It’s based on XML, and we can use it to consume the feeds in our own apps. Karin Hendrikse demonstrates how to do exactly that with a static site you can use as your personal RSS reader.",
-          "link": "https://smashingmagazine.com/2024/10/build-static-rss-reader-fight-fomo/",
-          "publishedOn": "2024-10-07T13:00:00.000Z",
-          "wordCount": 4685,
-          "title": "Build A Static RSS Reader To Fight Your Inner FOMO",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/build-static-rss-reader-fight-fomo/build-static-rss-reader-fight-fomo.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/build-static-rss-reader-fight-fomo/build-static-rss-reader-fight-fomo.jpg"
         }
       ]
     },
@@ -335,6 +310,16 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "672b941f0c32c8c8cd6159a9",
+          "author": "David Clinton",
+          "description": "Over the past year or so, the developer universe has exploded with ingenious new tools, applications, and processes for working with large language models and generative AI. One particularly versatile example is the LangChain project. The overall goa...",
+          "link": "https://www.freecodecamp.org/news/how-to-use-langchain-and-gpt-to-analyze-multiple-documents/",
+          "publishedOn": "2024-11-06T16:06:55.000Z",
+          "wordCount": 1630,
+          "title": "How to Use LangChain and GPT to Analyze Multiple Documents",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1730909200914/e75f3725-7453-49c0-b4e9-8b14fbc3b783.jpeg"
+        },
         {
           "id": "672a51c02bb94277a075a484",
           "author": "Programming with Shahan",
@@ -1134,46 +1119,6 @@
           "wordCount": 1530,
           "title": "How to Improve Your Hacking Skills by Playing OverTheWire Wargames",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1728392145727/bb646db1-f69a-4654-b01c-15fbe94a9c00.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/getting-started-with-matplotlib/",
-          "author": "Oyedele Tioluwani",
-          "description": "One of the key steps in data analysis is data visualization, as it helps you notice certain features, tendencies, and relevant patterns that may not be obvious in raw data. Matplotlib is one of the most effective libraries for Python, and it allows t...",
-          "link": "https://www.freecodecamp.org/news/getting-started-with-matplotlib/",
-          "publishedOn": "2024-10-07T23:15:31.000Z",
-          "wordCount": 3560,
-          "title": "How to Get Started with Matplotlib – With Code Examples and Visualizations",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1727947002230/9ab7fb41-65fe-4bf5-bb59-8f514a3e9396.jpeg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/create-desktop-apps-with-electron-react-and-typescript/",
-          "author": "Beau Carnes",
-          "description": "Desktop applications remain important for many types of software projects, providing rich, native user experiences. If you're interested in building desktop applications but want to leverage your web development skills, Electron is an excellent solut...",
-          "link": "https://www.freecodecamp.org/news/create-desktop-apps-with-electron-react-and-typescript/",
-          "publishedOn": "2024-10-07T19:41:04.000Z",
-          "wordCount": 1223,
-          "title": "Create Desktop Apps with Electron, React, and TypeScript",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1728330045533/e9a3a017-8a2c-4151-b249-4395bf7e20ea.jpeg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/what-are-pre-rendering-and-hydration-in-web-dev/",
-          "author": "Salvador Villalon Jr",
-          "description": "Have you ever wondered how Frameworks like Next.js, Gatsby.js, and Remix work? These frameworks use the concepts of Pre-rendering and Hydration, which represent significant advancements in the history of web development. These frameworks leverage the...",
-          "link": "https://www.freecodecamp.org/news/what-are-pre-rendering-and-hydration-in-web-dev/",
-          "publishedOn": "2024-10-07T14:21:31.000Z",
-          "wordCount": 3439,
-          "title": "What are Pre-Rendering and Hydration in Web Development? A Deep Dive for Devs",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1727985850590/fdb7eb16-52bd-41ec-8e1a-e4fb9068a535.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-design-and-develop-web-apis-essential-guidelines/",
-          "author": "Anjan Baradwaj",
-          "description": "Software applications have made our lives easier and better in many ways. We use them almost daily, and some people find themselves using applications more frequently than they interact with other people. But how do applications interact with each ot...",
-          "link": "https://www.freecodecamp.org/news/how-to-design-and-develop-web-apis-essential-guidelines/",
-          "publishedOn": "2024-10-07T13:48:24.000Z",
-          "wordCount": 2322,
-          "title": "How to Design and Develop Web APIs: Essential Guidelines for Developers",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/ZM55FiQB8ig/upload/709f2a6f6de426904c95b785196f8736.jpeg"
         }
       ]
     }
