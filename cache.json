@@ -195,16 +195,6 @@
           "wordCount": 2132,
           "title": "2024: More CSS At-Rules Than the Past Decade Combined",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/381678"
-        },
-        {
-          "id": "https://css-tricks.com/?p=381729",
-          "author": "Geoff Graham",
-          "description": "I sat down with Heydon Pickering in the most recent episode of the Smashing Hour. Full transparency: I was nervous as heck. I’ve admired Heydon’s work for years, and even though we run in similar circles, this was our first …\nSmashing Hour With Heydon Pickering originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/smashing-hour-with-heydon-pickering/",
-          "publishedOn": "2024-10-08T15:22:02.000Z",
-          "wordCount": 1492,
-          "title": "Smashing Hour With Heydon Pickering",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/381729"
         }
       ]
     },
@@ -310,6 +300,36 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "672cebbcd4b84c7df59edd79",
+          "author": "Beau Carnes",
+          "description": "Generative AI is rapidly evolving, and with it comes the ability to create powerful applications like chatbots that go beyond static knowledge. Imagine building a chatbot that isn’t limited by outdated training data or predefined responses but can fe...",
+          "link": "https://www.freecodecamp.org/news/build-your-own-rag-chatbot-with-javascript/",
+          "publishedOn": "2024-11-07T16:33:00.000Z",
+          "wordCount": 1425,
+          "title": "Build Your Own RAG Chatbot with JavaScript!",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1730997146044/f942fb19-9cfd-4981-ba89-fe3ae9a156c1.png"
+        },
+        {
+          "id": "672cea4be28457c681419f0d",
+          "author": "Beau Carnes",
+          "description": "As you know, machine learning and artificial intelligence (AI) are transforming the world around us. Mastering these tools can open doors to exciting career opportunities. We just published a course on the freeCodeCamp.org YouTube channel that will t...",
+          "link": "https://www.freecodecamp.org/news/learn-the-foundations-of-machine-learning-and-artificial-intelligence/",
+          "publishedOn": "2024-11-07T16:26:51.000Z",
+          "wordCount": 1301,
+          "title": "Learn the Foundations of Machine Learning and Artificial Intelligence",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1730996755731/ed8f7b95-8e51-4441-b5c9-84afaf95cbb7.png"
+        },
+        {
+          "id": "672cdb23b9bae98eb2d22c19",
+          "author": "Preston Osoro",
+          "description": "Automating workflows is an essential step in helping you maintain code quality in your applications – especially when working on both frontend and backend code in a single repository. In this guide, we’ll walk through setting up automated GitHub work...",
+          "link": "https://www.freecodecamp.org/news/how-to-set-up-automated-github-workflows-for-python-react-apps/",
+          "publishedOn": "2024-11-07T15:22:11.000Z",
+          "wordCount": 1912,
+          "title": "How to Set Up Automated GitHub Workflows for Your Python and React Applications",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1730812659785/2975b117-81ee-4c73-ae24-6fb14e369714.png"
+        },
         {
           "id": "672b941f0c32c8c8cd6159a9",
           "author": "David Clinton",
@@ -1079,46 +1099,6 @@
           "wordCount": 4132,
           "title": "How to Build a Documentation Site using React and Docusaraus",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1728407506914/49f6f7cd-af92-405e-ac89-d71bd74e3f18.avif"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/key-cybersecurity-concepts-for-career/",
-          "author": "José Toledo",
-          "description": "This tutorial is designed to be your stepping stone into the fascinating world of cybersecurity. I’ll introduce you to key concepts and terminology you’ll need to know, giving you a solid foundation to build upon as you continue your learning journey...",
-          "link": "https://www.freecodecamp.org/news/key-cybersecurity-concepts-for-career/",
-          "publishedOn": "2024-10-08T23:35:17.000Z",
-          "wordCount": 3911,
-          "title": "Key Security Concepts to Learn for a Career in Cybersecurity",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1728332788775/d815c2f6-dea0-4c9d-ad33-1715cb0778c5.jpeg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/javascript-refresher-for-react-beginners/",
-          "author": "Niladri S. Jyoti",
-          "description": "The Back Story A few years ago, I was introduced to React and immediately fell in love with its component-based, state-driven approach to building web applications. But as I delved deeper into its ecosystem, I encountered not just React, but a range ...",
-          "link": "https://www.freecodecamp.org/news/javascript-refresher-for-react-beginners/",
-          "publishedOn": "2024-10-08T15:17:20.000Z",
-          "wordCount": 5682,
-          "title": "JavaScript Refresher for React Beginners – Key JS Concepts to Know",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1727978962525/ee0aad46-7497-4c91-9354-dd8b0f9b4ea6.jpeg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-use-switch-case-in-arduino-control-leds/",
-          "author": "Ihechikara Abba",
-          "description": "You can use a switch case statement to execute different blocks of code based on the value of a variable. It offers a more direct and cleaner approach to handling multiple conditions. In this article, you'll learn how to control LEDs using a switch c...",
-          "link": "https://www.freecodecamp.org/news/how-to-use-switch-case-in-arduino-control-leds/",
-          "publishedOn": "2024-10-08T14:39:47.000Z",
-          "wordCount": 1879,
-          "title": "How to Use Switch Case in Arduino – Control LEDs With the Switch Statement",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1728178146204/a1c1a6af-b4ce-4fe4-a73d-8861d63cc01e.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/improve-hacking-skills-by-playing-wargames/",
-          "author": "Manish Shivanandhan",
-          "description": "Hacking is a skill that fascinates many people. You’ve seen hackers in movies. They type at keyboards, breaking into high-security systems in seconds. But real hacking isn’t quite like that. It takes patience, creativity, and most importantly, a lot ...",
-          "link": "https://www.freecodecamp.org/news/improve-hacking-skills-by-playing-wargames/",
-          "publishedOn": "2024-10-08T13:57:34.000Z",
-          "wordCount": 1530,
-          "title": "How to Improve Your Hacking Skills by Playing OverTheWire Wargames",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1728392145727/bb646db1-f69a-4654-b01c-15fbe94a9c00.png"
         }
       ]
     }

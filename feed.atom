@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-07T00:12:36.836Z</updated>
+    <updated>2024-11-08T00:12:34.662Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Build Your Own RAG Chatbot with JavaScript!]]></title>
+        <id>672cebbcd4b84c7df59edd79</id>
+        <link href="https://www.freecodecamp.org/news/build-your-own-rag-chatbot-with-javascript/"/>
+        <updated>2024-11-07T16:33:00.000Z</updated>
+        <summary type="html"><![CDATA[Generative AI is rapidly evolving, and with it comes the ability to create powerful applications like chatbots that go beyond static knowledge. Imagine building a chatbot that isn’t limited by outdated training data or predefined responses but can fe...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn the Foundations of Machine Learning and Artificial Intelligence]]></title>
+        <id>672cea4be28457c681419f0d</id>
+        <link href="https://www.freecodecamp.org/news/learn-the-foundations-of-machine-learning-and-artificial-intelligence/"/>
+        <updated>2024-11-07T16:26:51.000Z</updated>
+        <summary type="html"><![CDATA[As you know, machine learning and artificial intelligence (AI) are transforming the world around us. Mastering these tools can open doors to exciting career opportunities. We just published a course on the freeCodeCamp.org YouTube channel that will t...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Set Up Automated GitHub Workflows for Your Python and React Applications]]></title>
+        <id>672cdb23b9bae98eb2d22c19</id>
+        <link href="https://www.freecodecamp.org/news/how-to-set-up-automated-github-workflows-for-python-react-apps/"/>
+        <updated>2024-11-07T15:22:11.000Z</updated>
+        <summary type="html"><![CDATA[Automating workflows is an essential step in helping you maintain code quality in your applications – especially when working on both frontend and backend code in a single repository. In this guide, we’ll walk through setting up automated GitHub work...]]></summary>
+        <author>
+            <name>Preston Osoro</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Use LangChain and GPT to Analyze Multiple Documents]]></title>
         <id>672b941f0c32c8c8cd6159a9</id>
@@ -1039,57 +1069,6 @@ WPGraphQL Becomes a Canonical Plugin: My Move to Automattic originally published
 2024: More CSS At-Rules Than the Past Decade Combined originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Juan Diego Rodríguez</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Key Security Concepts to Learn for a Career in Cybersecurity]]></title>
-        <id>https://www.freecodecamp.org/news/key-cybersecurity-concepts-for-career/</id>
-        <link href="https://www.freecodecamp.org/news/key-cybersecurity-concepts-for-career/"/>
-        <updated>2024-10-08T23:35:17.000Z</updated>
-        <summary type="html"><![CDATA[This tutorial is designed to be your stepping stone into the fascinating world of cybersecurity. I’ll introduce you to key concepts and terminology you’ll need to know, giving you a solid foundation to build upon as you continue your learning journey...]]></summary>
-        <author>
-            <name>José Toledo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Smashing Hour With Heydon Pickering]]></title>
-        <id>https://css-tricks.com/?p=381729</id>
-        <link href="https://css-tricks.com/smashing-hour-with-heydon-pickering/"/>
-        <updated>2024-10-08T15:22:02.000Z</updated>
-        <summary type="html"><![CDATA[I sat down with Heydon Pickering in the most recent episode of the Smashing Hour. Full transparency: I was nervous as heck. I’ve admired Heydon’s work for years, and even though we run in similar circles, this was our first …
-Smashing Hour With Heydon Pickering originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JavaScript Refresher for React Beginners – Key JS Concepts to Know]]></title>
-        <id>https://www.freecodecamp.org/news/javascript-refresher-for-react-beginners/</id>
-        <link href="https://www.freecodecamp.org/news/javascript-refresher-for-react-beginners/"/>
-        <updated>2024-10-08T15:17:20.000Z</updated>
-        <summary type="html"><![CDATA[The Back Story A few years ago, I was introduced to React and immediately fell in love with its component-based, state-driven approach to building web applications. But as I delved deeper into its ecosystem, I encountered not just React, but a range ...]]></summary>
-        <author>
-            <name>Niladri S. Jyoti</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use Switch Case in Arduino – Control LEDs With the Switch Statement]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-use-switch-case-in-arduino-control-leds/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-switch-case-in-arduino-control-leds/"/>
-        <updated>2024-10-08T14:39:47.000Z</updated>
-        <summary type="html"><![CDATA[You can use a switch case statement to execute different blocks of code based on the value of a variable. It offers a more direct and cleaner approach to handling multiple conditions. In this article, you'll learn how to control LEDs using a switch c...]]></summary>
-        <author>
-            <name>Ihechikara Abba</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Improve Your Hacking Skills by Playing OverTheWire Wargames]]></title>
-        <id>https://www.freecodecamp.org/news/improve-hacking-skills-by-playing-wargames/</id>
-        <link href="https://www.freecodecamp.org/news/improve-hacking-skills-by-playing-wargames/"/>
-        <updated>2024-10-08T13:57:34.000Z</updated>
-        <summary type="html"><![CDATA[Hacking is a skill that fascinates many people. You’ve seen hackers in movies. They type at keyboards, breaking into high-security systems in seconds. But real hacking isn’t quite like that. It takes patience, creativity, and most importantly, a lot ...]]></summary>
-        <author>
-            <name>Manish Shivanandhan</name>
         </author>
     </entry>
 </feed>
