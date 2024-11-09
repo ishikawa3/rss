@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=382363",
+          "author": "Daniel Schwarz",
+          "description": "Let’s spend some time looking at disclosures, the Dialog API, the Popover API, and more. We’ll look at the right time to use each one depending on your needs. Modal or non-modal? JavaScript or pure HTML/CSS? Not sure? Don’t worry, we’ll go into all that.\nThe Different (and Modern) Ways to Toggle Content originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/the-different-and-modern-ways-to-toggle-content/",
+          "publishedOn": "2024-11-08T13:57:09.000Z",
+          "wordCount": 4266,
+          "title": "The Different (and Modern) Ways to Toggle Content",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/382363"
+        },
+        {
           "id": "https://css-tricks.com/?p=382247",
           "author": "Juan Diego Rodríguez",
           "description": "The State of CSS 2024 survey wrapped up and the results are interesting, as always. Even though each section is worth analyzing, we are usually most hyped about the section on the most used CSS features. And if you …\nPopping Comments With CSS Anchor Positioning and View-Driven Animations originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -185,16 +195,6 @@
           "wordCount": 1465,
           "title": "WPGraphQL Becomes a Canonical Plugin: My Move to Automattic",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/381752"
-        },
-        {
-          "id": "https://css-tricks.com/?p=381678",
-          "author": "Juan Diego Rodríguez",
-          "description": "More times than I can count, while writing, I get myself into random but interesting topics with little relation to the original post. In the end, I have to make the simple but painful choice of deleting or archiving hours …\n2024: More CSS At-Rules Than the Past Decade Combined originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/2024-more-css-at-rules-than-the-past-decade-combined/",
-          "publishedOn": "2024-10-09T14:10:33.000Z",
-          "wordCount": 2132,
-          "title": "2024: More CSS At-Rules Than the Past Decade Combined",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/381678"
         }
       ]
     },
@@ -203,6 +203,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2024/11/alternatives-typical-technical-illustrations-data-visualisations/",
+          "author": "hello@smashingmagazine.com (Thomas Bohm)",
+          "description": "Thomas Bohm rethinks technical illustrations and data visualizations, sharing interesting and uncommon examples of how to present data and information. Bar graphs and pie charts are great, but there’s so much more to explore!",
+          "link": "https://smashingmagazine.com/2024/11/alternatives-typical-technical-illustrations-data-visualisations/",
+          "publishedOn": "2024-11-08T09:00:00.000Z",
+          "wordCount": 3668,
+          "title": "Alternatives To Typical Technical Illustrations And Data Visualisations",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/rethinking-technical-illustrations-data-visualisations/alternatives-typical-technical-illustrations-data-visualisations.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/rethinking-technical-illustrations-data-visualisations/alternatives-typical-technical-illustrations-data-visualisations.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2024/11/why-optimizing-lighthouse-score-not-enough-fast-website/",
           "author": "hello@smashingmagazine.com (Geoff Graham)",
@@ -300,6 +315,46 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "672e5a06d7a5828f344ec242",
+          "author": "Kedar Makode",
+          "description": "Are you ready to take your web hosting skills to the next level by using a CSS template? Hosting a professional looking website doesn’t have to be complicated, and with AWS EC2, you can have your website live in no time! In this guide, I’ll show you ...",
+          "link": "https://www.freecodecamp.org/news/host-a-website-on-aws-ec2-using-a-css-template/",
+          "publishedOn": "2024-11-08T18:35:50.000Z",
+          "wordCount": 1619,
+          "title": "How to Host a Website on AWS EC2 Using a CSS Template",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1731090804046/9415a329-c3a7-4caa-9f78-757efc3c8da4.jpeg"
+        },
+        {
+          "id": "672e31c2d0e4fe6467edeb83",
+          "author": "David Jaja",
+          "description": "Building Kreed, my collaborative project management tool, was no easy feat. But it did offer one perk: an endless stream of stress-induced caffeine highs. I don’t have a dedicated team, so I was juggling everything from design and deployment to marke...",
+          "link": "https://www.freecodecamp.org/news/how-to-use-webcurate-to-discover-helpful-developer-tools/",
+          "publishedOn": "2024-11-08T15:44:02.000Z",
+          "wordCount": 2263,
+          "title": "How to Use WebCurate to Discover Helpful Developer Tools",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1730908679140/f7c2ff53-9d06-4b2f-ae08-baaf219cba1f.png"
+        },
+        {
+          "id": "672e23dd41db65fcc7264dc0",
+          "author": "Manish Shivanandhan",
+          "description": "Nmap is short for Network Mapper. It’s an open-source Linux command-line tool for scanning IP addresses and ports in a network and detecting installed applications. Nmap allows network admins to identify devices running on their network, discover ope...",
+          "link": "https://www.freecodecamp.org/news/useful-nmap-scripts-for-ethical-hackers/",
+          "publishedOn": "2024-11-08T14:44:45.000Z",
+          "wordCount": 2011,
+          "title": "Useful Nmap Scripts for Ethical Hackers",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1731077044881/75a0f1c6-0aae-4ed6-bcfd-777b2ae2b1b6.jpeg"
+        },
+        {
+          "id": "672df563eedb451674f63814",
+          "author": "Naveed Ausaf",
+          "description": "Semantic Versioning (or SemVer for short) is a software versioning scheme that stipulates three-part version numbers in the form ..\n, such as 1.0.2, with an optional prerelease suffix in the form -\n, as in 1.0.2-beta. S...",
+          "link": "https://www.freecodecamp.org/news/set-semantic-versioning-for-net/",
+          "publishedOn": "2024-11-08T11:26:27.000Z",
+          "wordCount": 2328,
+          "title": "How to Set Semantic Versioning for .NET Core Apps and Libraries",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1731065367635/f8ce5091-d526-4d09-8282-2ffe63cead40.jpeg"
+        },
         {
           "id": "672cebbcd4b84c7df59edd79",
           "author": "Beau Carnes",
@@ -1059,46 +1114,6 @@
           "wordCount": 1983,
           "title": "Python’s zip() Function Explained with Simple Examples",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1728351007032/90a321bb-4079-4480-90e7-7aa847c54d9d.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/learn-databases-in-depth/",
-          "author": "Beau Carnes",
-          "description": "Understanding databases is important for a software developer. We just posted a comprehensive course on the freeCodeCamp.org YouTube channel designed to help you understand the complexities of database architecture and optimization. Whether you're a ...",
-          "link": "https://www.freecodecamp.org/news/learn-databases-in-depth/",
-          "publishedOn": "2024-10-09T20:44:08.000Z",
-          "wordCount": 1126,
-          "title": "Learn Databases In-Depth",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1728506628887/76e245fd-9613-474c-9df3-626dde99d2fb.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/prepare-to-pass-the-aws-certified-ai-practitioner-certification/",
-          "author": "Beau Carnes",
-          "description": "The AWS Certified AI Practitioner certification is a valuable credential that validates your understanding of AI, ML, and generative AI concepts and use cases. We just published a course on the freeCodeCamp.org YouTube channel that will help you prep...",
-          "link": "https://www.freecodecamp.org/news/prepare-to-pass-the-aws-certified-ai-practitioner-certification/",
-          "publishedOn": "2024-10-09T20:35:25.000Z",
-          "wordCount": 1226,
-          "title": "Prepare to Pass the AWS Certified AI Practitioner Certification",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1728506087133/a2be701f-5b5d-48cb-b80a-3060cbf6ce79.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/essential-secure-design-principles-for-developers/",
-          "author": "Chama Jennane",
-          "description": "Secure design principles have long been the foundation for building secure systems. And they remain a crucial aspect of modern cybersecurity. Introduced in 1975 by Saltzer and Schroeder in their landmark paper The Protection of Information in Compute...",
-          "link": "https://www.freecodecamp.org/news/essential-secure-design-principles-for-developers/",
-          "publishedOn": "2024-10-09T20:17:10.000Z",
-          "wordCount": 2435,
-          "title": "How to Strengthen Your Code: Essential Secure Design Principles for Developers",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1728461315564/0ec07485-8537-475e-8b15-3ab653ababfc.jpeg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/build-a-documentation-site-using-react-and-docusaraus/",
-          "author": "Chisom Uma",
-          "description": "Having a properly designed and comprehensive documentation site is important for any project. But creating good documentation can be challenging, and problems like poor user onboarding experience and increased support tickets can become daily hassles...",
-          "link": "https://www.freecodecamp.org/news/build-a-documentation-site-using-react-and-docusaraus/",
-          "publishedOn": "2024-10-09T16:56:14.000Z",
-          "wordCount": 4132,
-          "title": "How to Build a Documentation Site using React and Docusaraus",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1728407506914/49f6f7cd-af92-405e-ac89-d71bd74e3f18.avif"
         }
       ]
     }

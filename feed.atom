@@ -2,10 +2,73 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-08T00:12:34.662Z</updated>
+    <updated>2024-11-09T00:12:37.260Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Host a Website on AWS EC2 Using a CSS Template]]></title>
+        <id>672e5a06d7a5828f344ec242</id>
+        <link href="https://www.freecodecamp.org/news/host-a-website-on-aws-ec2-using-a-css-template/"/>
+        <updated>2024-11-08T18:35:50.000Z</updated>
+        <summary type="html"><![CDATA[Are you ready to take your web hosting skills to the next level by using a CSS template? Hosting a professional looking website doesn’t have to be complicated, and with AWS EC2, you can have your website live in no time! In this guide, I’ll show you ...]]></summary>
+        <author>
+            <name>Kedar Makode</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use WebCurate to Discover Helpful Developer Tools]]></title>
+        <id>672e31c2d0e4fe6467edeb83</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-webcurate-to-discover-helpful-developer-tools/"/>
+        <updated>2024-11-08T15:44:02.000Z</updated>
+        <summary type="html"><![CDATA[Building Kreed, my collaborative project management tool, was no easy feat. But it did offer one perk: an endless stream of stress-induced caffeine highs. I don’t have a dedicated team, so I was juggling everything from design and deployment to marke...]]></summary>
+        <author>
+            <name>David Jaja</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Useful Nmap Scripts for Ethical Hackers]]></title>
+        <id>672e23dd41db65fcc7264dc0</id>
+        <link href="https://www.freecodecamp.org/news/useful-nmap-scripts-for-ethical-hackers/"/>
+        <updated>2024-11-08T14:44:45.000Z</updated>
+        <summary type="html"><![CDATA[Nmap is short for Network Mapper. It’s an open-source Linux command-line tool for scanning IP addresses and ports in a network and detecting installed applications. Nmap allows network admins to identify devices running on their network, discover ope...]]></summary>
+        <author>
+            <name>Manish Shivanandhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Different (and Modern) Ways to Toggle Content]]></title>
+        <id>https://css-tricks.com/?p=382363</id>
+        <link href="https://css-tricks.com/the-different-and-modern-ways-to-toggle-content/"/>
+        <updated>2024-11-08T13:57:09.000Z</updated>
+        <summary type="html"><![CDATA[Let’s spend some time looking at disclosures, the Dialog API, the Popover API, and more. We’ll look at the right time to use each one depending on your needs. Modal or non-modal? JavaScript or pure HTML/CSS? Not sure? Don’t worry, we’ll go into all that.
+The Different (and Modern) Ways to Toggle Content originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Daniel Schwarz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Set Semantic Versioning for .NET Core Apps and Libraries]]></title>
+        <id>672df563eedb451674f63814</id>
+        <link href="https://www.freecodecamp.org/news/set-semantic-versioning-for-net/"/>
+        <updated>2024-11-08T11:26:27.000Z</updated>
+        <summary type="html"><![CDATA[Semantic Versioning (or SemVer for short) is a software versioning scheme that stipulates three-part version numbers in the form ..
+, such as 1.0.2, with an optional prerelease suffix in the form -
+, as in 1.0.2-beta. S...]]></summary>
+        <author>
+            <name>Naveed Ausaf</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Alternatives To Typical Technical Illustrations And Data Visualisations]]></title>
+        <id>https://smashingmagazine.com/2024/11/alternatives-typical-technical-illustrations-data-visualisations/</id>
+        <link href="https://smashingmagazine.com/2024/11/alternatives-typical-technical-illustrations-data-visualisations/"/>
+        <updated>2024-11-08T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Thomas Bohm rethinks technical illustrations and data visualizations, sharing interesting and uncommon examples of how to present data and information. Bar graphs and pie charts are great, but there’s so much more to explore!]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Thomas Bohm)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Build Your Own RAG Chatbot with JavaScript!]]></title>
         <id>672cebbcd4b84c7df59edd79</id>
@@ -1018,57 +1081,6 @@ I’m …
 WPGraphQL Becomes a Canonical Plugin: My Move to Automattic originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn Databases In-Depth]]></title>
-        <id>https://www.freecodecamp.org/news/learn-databases-in-depth/</id>
-        <link href="https://www.freecodecamp.org/news/learn-databases-in-depth/"/>
-        <updated>2024-10-09T20:44:08.000Z</updated>
-        <summary type="html"><![CDATA[Understanding databases is important for a software developer. We just posted a comprehensive course on the freeCodeCamp.org YouTube channel designed to help you understand the complexities of database architecture and optimization. Whether you're a ...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Prepare to Pass the AWS Certified AI Practitioner Certification]]></title>
-        <id>https://www.freecodecamp.org/news/prepare-to-pass-the-aws-certified-ai-practitioner-certification/</id>
-        <link href="https://www.freecodecamp.org/news/prepare-to-pass-the-aws-certified-ai-practitioner-certification/"/>
-        <updated>2024-10-09T20:35:25.000Z</updated>
-        <summary type="html"><![CDATA[The AWS Certified AI Practitioner certification is a valuable credential that validates your understanding of AI, ML, and generative AI concepts and use cases. We just published a course on the freeCodeCamp.org YouTube channel that will help you prep...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Strengthen Your Code: Essential Secure Design Principles for Developers]]></title>
-        <id>https://www.freecodecamp.org/news/essential-secure-design-principles-for-developers/</id>
-        <link href="https://www.freecodecamp.org/news/essential-secure-design-principles-for-developers/"/>
-        <updated>2024-10-09T20:17:10.000Z</updated>
-        <summary type="html"><![CDATA[Secure design principles have long been the foundation for building secure systems. And they remain a crucial aspect of modern cybersecurity. Introduced in 1975 by Saltzer and Schroeder in their landmark paper The Protection of Information in Compute...]]></summary>
-        <author>
-            <name>Chama Jennane</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Documentation Site using React and Docusaraus]]></title>
-        <id>https://www.freecodecamp.org/news/build-a-documentation-site-using-react-and-docusaraus/</id>
-        <link href="https://www.freecodecamp.org/news/build-a-documentation-site-using-react-and-docusaraus/"/>
-        <updated>2024-10-09T16:56:14.000Z</updated>
-        <summary type="html"><![CDATA[Having a properly designed and comprehensive documentation site is important for any project. But creating good documentation can be challenging, and problems like poor user onboarding experience and increased support tickets can become daily hassles...]]></summary>
-        <author>
-            <name>Chisom Uma</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024: More CSS At-Rules Than the Past Decade Combined]]></title>
-        <id>https://css-tricks.com/?p=381678</id>
-        <link href="https://css-tricks.com/2024-more-css-at-rules-than-the-past-decade-combined/"/>
-        <updated>2024-10-09T14:10:33.000Z</updated>
-        <summary type="html"><![CDATA[More times than I can count, while writing, I get myself into random but interesting topics with little relation to the original post. In the end, I have to make the simple but painful choice of deleting or archiving hours …
-2024: More CSS At-Rules Than the Past Decade Combined originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Juan Diego Rodríguez</name>
         </author>
     </entry>
 </feed>
