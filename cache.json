@@ -185,16 +185,6 @@
           "wordCount": 3461,
           "title": "CSS Tricks That Use Only One Gradient",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/381773"
-        },
-        {
-          "id": "https://css-tricks.com/?p=381752",
-          "author": "Geoff Graham",
-          "description": "It’s always a gas when a good person doing good work gets a good deal. In this case, Jason’s viral WPGraphQL plugin has not only become a canonical WordPress plugin, but creator Jason Bahl is joining Automattic as well.\nI’m …\nWPGraphQL Becomes a Canonical Plugin: My Move to Automattic originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/wpgraphql-becomes-a-canonical-plugin-my-move-to-automattic/",
-          "publishedOn": "2024-10-10T14:00:32.000Z",
-          "wordCount": 1465,
-          "title": "WPGraphQL Becomes a Canonical Plugin: My Move to Automattic",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/381752"
         }
       ]
     },
@@ -292,21 +282,6 @@
             "type": "image/png"
           },
           "imageUrl": "http://files.smashing.media/articles/ux-metrics-video-course-release/ux-metrics-video-course-opt.png"
-        },
-        {
-          "id": "https://smashingmagazine.com/2024/10/using-multimodal-ai-models-applications-part3/",
-          "author": "hello@smashingmagazine.com (Joas Pambou)",
-          "description": "In this third part of the series, you are looking at two models that handle all three modalities — text, images or videos, and audio — without needing a second model for text-to-speech or speech recognition.",
-          "link": "https://smashingmagazine.com/2024/10/using-multimodal-ai-models-applications-part3/",
-          "publishedOn": "2024-10-11T10:00:00.000Z",
-          "wordCount": 5709,
-          "title": "Using Multimodal AI Models For Your Applications (Part 3)",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/using-multimodal-ai-models-applications-part3/using-multimodal-ai-models-applications.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/using-multimodal-ai-models-applications-part3/using-multimodal-ai-models-applications.jpg"
         }
       ]
     },
@@ -315,6 +290,16 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "672e890a430ee66c1750bdbc",
+          "author": "Quincy Larson",
+          "description": "On this week's episode of the podcast, I interview Yifan Mai, a Senior Software Engineer on Google's TensorFlow team who left the private sector to go do AI research at Stanford. He's the lead maintainer of the open source HELM project, where he benc...",
+          "link": "https://www.freecodecamp.org/news/open-weights-vs-open-source-with-google-engineer-and-stanford-researcher-yifan-mai-podcast-149/",
+          "publishedOn": "2024-11-08T21:56:26.000Z",
+          "wordCount": 1127,
+          "title": "The State of AI with Stanford Researcher Yifan Mai (Podcast #149)",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1731102910271/db4e196d-0f6b-4366-8b80-98030f92282e.png"
+        },
         {
           "id": "672e5a06d7a5828f344ec242",
           "author": "Kedar Makode",
@@ -1084,36 +1069,6 @@
           "wordCount": 2519,
           "title": "How to Use Git Stash to Efficiently Manage Your Code",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1728563160215/147e5b8d-960d-4a90-ad2f-6d71337ac0ce.jpeg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/react-interview-prep-handbook/",
-          "author": "Kunal Nalawade",
-          "description": "Hi everyone! In the ever-changing landscape of web development, React is in very high demand. Companies are often seeking skilled React developers to build dynamic and engaging web applications. If you are a web developer or aspiring to be one, it's ...",
-          "link": "https://www.freecodecamp.org/news/react-interview-prep-handbook/",
-          "publishedOn": "2024-10-11T10:50:19.000Z",
-          "wordCount": 6533,
-          "title": "The React Interview Prep Handbook – Essential Topics and Code Examples",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1728643567956/00c98d19-4694-4942-9ad2-d2f25bcf05c0.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/learn-tailwind-css-by-building-a-responsive-product-card/",
-          "author": "Beau Carnes",
-          "description": "Are you looking to enhance your web design skills and create responsive websites more efficiently? Tailwind CSS, a utility-first CSS framework, has become a favorite among developers for its flexibility and speed in building modern web layouts. One o...",
-          "link": "https://www.freecodecamp.org/news/learn-tailwind-css-by-building-a-responsive-product-card/",
-          "publishedOn": "2024-10-11T01:33:57.000Z",
-          "wordCount": 1131,
-          "title": "Learn Tailwind CSS by Building a Responsive Product Card",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1728610417740/2c081996-9a92-42d5-bee1-a380f2a0c1e4.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/python-zip-function-explained-with-examples/",
-          "author": "Sahil Mahapatra",
-          "description": "The zip() function in Python is a neat tool that allows you to combine multiple lists or other iterables (like tuples, sets, or even strings) into one iterable of tuples. Think of it like a zipper on a jacket that brings two sides together. In this g...",
-          "link": "https://www.freecodecamp.org/news/python-zip-function-explained-with-examples/",
-          "publishedOn": "2024-10-10T14:58:09.000Z",
-          "wordCount": 1983,
-          "title": "Python’s zip() Function Explained with Simple Examples",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1728351007032/90a321bb-4079-4480-90e7-7aa847c54d9d.png"
         }
       ]
     }
