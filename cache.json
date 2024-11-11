@@ -175,16 +175,6 @@
           "wordCount": 3431,
           "title": "Close, Exit, Cancel: How to End User Interactions Well",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/381817"
-        },
-        {
-          "id": "https://css-tricks.com/?p=381773",
-          "author": "Temani Afif",
-          "description": "CSS gradients have been so long that there’s no need to rehash what they are and how to use them. You have surely encountered them at some point in your front-end journey, and if you follow me, you also …\nCSS Tricks That Use Only One Gradient originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/css-tricks-that-use-only-one-gradient/",
-          "publishedOn": "2024-10-11T21:48:01.000Z",
-          "wordCount": 3461,
-          "title": "CSS Tricks That Use Only One Gradient",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/381773"
         }
       ]
     },
@@ -1029,46 +1019,6 @@
           "wordCount": 2787,
           "title": "How to Build a Countdown Timer with React – A Step-by-Step Guide",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1724788718279/35a8ba3c-db35-49b6-ae41-14bcda547795.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-build-a-css-component-library-step-by-step/",
-          "author": "Prankur Pandey",
-          "description": "Application development is a complex, multi-stage process, and it all begins with UI/UX design. Once the design phase is complete, the focus shifts to UI development, where tools like HTML, CSS, and JavaScript come into play. At a higher level, libra...",
-          "link": "https://www.freecodecamp.org/news/how-to-build-a-css-component-library-step-by-step/",
-          "publishedOn": "2024-10-11T19:16:44.000Z",
-          "wordCount": 3315,
-          "title": "How to Build a CSS Component Library and Improve Your Web Development Skills",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1728400677433/de06f432-0861-4ba4-ad7c-6e10157e2822.jpeg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/large-language-models-for-developers-and-businesses/",
-          "author": "Nazneen Ahmad",
-          "description": "Language learning models (LLMs) are evolving rapidly, reshaping AI in various industries. In this article, we’ll go over five LLMs that are currently making an impact with their advanced features and wide-ranging use cases. LLM Basics Before looking ...",
-          "link": "https://www.freecodecamp.org/news/large-language-models-for-developers-and-businesses/",
-          "publishedOn": "2024-10-11T16:01:18.000Z",
-          "wordCount": 2227,
-          "title": "Large Language Models for Developers and Businesses",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1728677455013/ad0471d0-d888-4bfb-a47c-d41eb1b333fc.jpeg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/roadmapsh-founder-kamran-ahmed-podcast-145/",
-          "author": "Quincy Larson",
-          "description": "On this week's episode of the podcast, I interview Kamran Ahmed. He's a software engineer and founder of Roadmap.sh, which has skill tree roadmaps for lots of developer fields, such as DevOps. As a teacher, he's also a Google Developer Expert and a G...",
-          "link": "https://www.freecodecamp.org/news/roadmapsh-founder-kamran-ahmed-podcast-145/",
-          "publishedOn": "2024-10-11T14:14:16.000Z",
-          "wordCount": 1008,
-          "title": "Open Source Superstar and Roadmap.sh Founder Kamran Ahmed [Podcast #145]",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1728655903076/d4966eb0-43d1-4925-9ab6-e811ce6f1783.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-use-git-stash-to-manage-code/",
-          "author": "Okoro Emmanuel Nzube Derek",
-          "description": "Sometimes when you’re coding, you need to leave a particular task incomplete to focus on another task – but you don't want to lose your progress. So what do you do? Fortunately, git stash comes to the rescue. In this article, you’ll learn all about t...",
-          "link": "https://www.freecodecamp.org/news/how-to-use-git-stash-to-manage-code/",
-          "publishedOn": "2024-10-11T13:40:01.000Z",
-          "wordCount": 2519,
-          "title": "How to Use Git Stash to Efficiently Manage Your Code",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1728563160215/147e5b8d-960d-4a90-ad2f-6d71337ac0ce.jpeg"
         }
       ]
     }
