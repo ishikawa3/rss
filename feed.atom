@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-11T00:13:05.308Z</updated>
+    <updated>2024-11-12T00:12:28.628Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Tim Brown: Flexible Typesetting is now yours, for free]]></title>
+        <id>https://css-tricks.com/?p=382456</id>
+        <link href="https://css-tricks.com/tim-brown-flexible-typesetting-is-now-yours-for-free/"/>
+        <updated>2024-11-11T14:03:37.000Z</updated>
+        <summary type="html"><![CDATA[Another title from A Book Apart has been re-released for free. The latest? Tim Brown's Flexible Typesetting. I may not be the utmost expert on typography and its best practices but I do remember reading this book (it's still on the shelf next to me!) thinking maybe, just maybe, I might be able to hold a conversation about it with Robin when I finished it.
+Tim Brown: Flexible Typesetting is now yours, for free originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The State of AI with Stanford Researcher Yifan Mai (Podcast #149)]]></title>
         <id>672e890a430ee66c1750bdbc</id>

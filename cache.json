@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=382456",
+          "author": "Geoff Graham",
+          "description": "Another title from A Book Apart has been re-released for free. The latest? Tim Brown's Flexible Typesetting. I may not be the utmost expert on typography and its best practices but I do remember reading this book (it's still on the shelf next to me!) thinking maybe, just maybe, I might be able to hold a conversation about it with Robin when I finished it.\nTim Brown: Flexible Typesetting is now yours, for free originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/tim-brown-flexible-typesetting-is-now-yours-for-free/",
+          "publishedOn": "2024-11-11T14:03:37.000Z",
+          "wordCount": 1599,
+          "title": "Tim Brown: Flexible Typesetting is now yours, for free",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/382456"
+        },
+        {
           "id": "https://css-tricks.com/?p=382363",
           "author": "Daniel Schwarz",
           "description": "Let’s spend some time looking at disclosures, the Dialog API, the Popover API, and more. We’ll look at the right time to use each one depending on your needs. Modal or non-modal? JavaScript or pure HTML/CSS? Not sure? Don’t worry, we’ll go into all that.\nThe Different (and Modern) Ways to Toggle Content originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
