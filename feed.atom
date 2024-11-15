@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-14T00:12:41.826Z</updated>
+    <updated>2024-11-15T00:13:37.454Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Use Design Patterns in Java with Spring Boot – Explained with Code Examples]]></title>
+        <id>673616b2ea38d82d84002cda</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-design-patterns-in-java-with-spring-boot/"/>
+        <updated>2024-11-14T15:26:42.000Z</updated>
+        <summary type="html"><![CDATA[As software projects grow, it becomes increasingly important to keep your code organized, maintainable, and scalable. This is where design patterns come into play. Design patterns provide proven, reusable solutions to common software design challenge...]]></summary>
+        <author>
+            <name>Birks Sachdev</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Install and Configure XAMPP Properly to Avoid Errors When You Close the App]]></title>
+        <id>67360e398a8e3a6a2f6c32cd</id>
+        <link href="https://www.freecodecamp.org/news/how-to-install-and-configure-xampp-properly-to-avoid-errors-when-you-close-the-app/"/>
+        <updated>2024-11-14T14:50:33.000Z</updated>
+        <summary type="html"><![CDATA[XAMPP is popular software for those who use MySQL databases and PHP. It’s free software, and it supports Windows, Linux OS, and MacOS. This makes it quite popular among developers even though it can also present us with many challenges. One common is...]]></summary>
+        <author>
+            <name>Md. Fahim Bin Amin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Open-Source Meets Design Tooling With Penpot]]></title>
+        <id>https://smashingmagazine.com/2024/11/open-source-meets-design-tooling-penpot/</id>
+        <link href="https://smashingmagazine.com/2024/11/open-source-meets-design-tooling-penpot/"/>
+        <updated>2024-11-14T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Penpot helps designers and developers work better together by offering a free, open-source design tool based on open web standards. Today, let’s explore its newly released Penpot Plugin System. So now, if there’s a functionality missing, you don’t need to jump into the code base straight away; you can create a plugin to achieve what you need. And you can even serve it from localhost!]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Atila Fassina)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How JavaScript's Temporal Proposal Will Change Date/Time Functions]]></title>
         <id>67350bbf437f61ba9155860d</id>
@@ -970,76 +1000,6 @@ Solving Background Overflow With Inherited Border Radii originally published on 
 Close, Exit, Cancel: How to End User Interactions Well originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Preethi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use Object Relational Mapping in Node.js – Optimize Database Interactions With Sequelize ORM]]></title>
-        <id>670fa2e2c038b5fdec128d46</id>
-        <link href="https://www.freecodecamp.org/news/object-relational-mapping-in-nodejs-with-sequelize-orm/"/>
-        <updated>2024-10-16T11:26:26.000Z</updated>
-        <summary type="html"><![CDATA[Databases play a vital role in the development of applications across mobile and web platforms. Adequate knowledge of data interactions between the application structure and the database is essential for storing relevant application data. Object-rela...]]></summary>
-        <author>
-            <name>Oluwatobi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Build a Full Stack Book Store App Using React, Node, MongoDB]]></title>
-        <id>670ecbf674f5ce6cffbe5c4c</id>
-        <link href="https://www.freecodecamp.org/news/build-a-full-stack-book-store-app-using-react-node-mongodb/"/>
-        <updated>2024-10-15T20:09:26.000Z</updated>
-        <summary type="html"><![CDATA[Building fullstack web applications is one of the most valuable skills in modern web development. If you're looking for a project that can take you through the complete development process—from setting up the front end to managing a robust back end—t...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft Excel: 14 Time-Saving Keyboard Shortcuts]]></title>
-        <id>https://www.freecodecamp.org/news/microsoft-excel-keyboard-shortcuts/</id>
-        <link href="https://www.freecodecamp.org/news/microsoft-excel-keyboard-shortcuts/"/>
-        <updated>2024-10-15T17:57:43.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft Excel is the quintessential spreadsheet software used everywhere from universities to small businesses to enterprises. It’s a lifesaver for countless financial professionals, data analysts, and teachers. But it’s also one of those programs ...]]></summary>
-        <author>
-            <name>Eamonn Cottrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Self-host a Container Registry]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-self-host-a-container-registry/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-self-host-a-container-registry/"/>
-        <updated>2024-10-15T17:28:30.000Z</updated>
-        <summary type="html"><![CDATA[A container registry is a storage catalog from where you can push and pull container images. There are many public and private registries available to developers such as Docker Hub, Amazon ECR, and Google Cloud Artifact Registry. But sometimes, inste...]]></summary>
-        <author>
-            <name>Alex Pliutau</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Merge Word Files Using NodeJS]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-merge-word-files-using-nodejs/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-merge-word-files-using-nodejs/"/>
-        <updated>2024-10-15T16:22:56.000Z</updated>
-        <summary type="html"><![CDATA[Merging Word files is essential for applications like document automation, where multiple reports, proposals, or forms need to be consolidated into a single document. Content management systems also rely on this functionality to combine documents for...]]></summary>
-        <author>
-            <name>Vikram Aruchamy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Security Specialty Certification: How to Prepare for the Exam]]></title>
-        <id>https://www.freecodecamp.org/news/aws-security-specialty-certification-study-tips/</id>
-        <link href="https://www.freecodecamp.org/news/aws-security-specialty-certification-study-tips/"/>
-        <updated>2024-10-15T15:44:32.000Z</updated>
-        <summary type="html"><![CDATA[Welcome to my latest tutorial! After a three-year hiatus from certifications, I'm thrilled to announce that I've successfully obtained the AWS Certified Security Specialty certification. As someone who strongly believes in the power of community lear...]]></summary>
-        <author>
-            <name>Nitheesh Poojary</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[It’s Here! How To Measure UX &amp; Design Impact, With Vitaly Friedman]]></title>
-        <id>https://smashingmagazine.com/2024/10/new-video-course-how-to-measure-ux-design-impact/</id>
-        <link href="https://smashingmagazine.com/2024/10/new-video-course-how-to-measure-ux-design-impact/"/>
-        <updated>2024-10-15T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Design decisions shouldn’t be a matter of personal preference. We can use reliable design KPIs and UX metrics to guide and shape our design work and measure its impact on business. Meet How To Measure UX and Design Impact, our new video course that helps with just that.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
         </author>
     </entry>
 </feed>
