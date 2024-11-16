@@ -185,16 +185,6 @@
           "wordCount": 1737,
           "title": "Solving Background Overflow With Inherited Border Radii",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/381763"
-        },
-        {
-          "id": "https://css-tricks.com/?p=381817",
-          "author": "Preethi",
-          "description": "What’s in a word? Actions. In the realm of user interfaces, a word is construed as the telltale of a control’s action. Sometimes it points us in the correct direction, and sometimes it leads us astray. We talk a lot …\nClose, Exit, Cancel: How to End User Interactions Well originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/close-exit-cancel-how-to-end-user-interactions-well/",
-          "publishedOn": "2024-10-16T14:12:57.000Z",
-          "wordCount": 3431,
-          "title": "Close, Exit, Cancel: How to End User Interactions Well",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/381817"
         }
       ]
     },
@@ -292,21 +282,6 @@
             "type": "image/png"
           },
           "imageUrl": "http://files.smashing.media/articles/designing-for-gen-z/3-clearleft-case-study-opt.png"
-        },
-        {
-          "id": "https://smashingmagazine.com/2024/10/css-min-all-the-things/",
-          "author": "hello@smashingmagazine.com (Victor Ayomipo)",
-          "description": "Victor Ayomipo experiments with the CSS `min()` function, exploring its flexibility with different units to determine if it is the be-all, end-all for responsiveness. Discover the cautions he highlights against dogmatic approaches to web design based on his findings.",
-          "link": "https://smashingmagazine.com/2024/10/css-min-all-the-things/",
-          "publishedOn": "2024-10-17T10:00:00.000Z",
-          "wordCount": 4707,
-          "title": "CSS min() All The Things",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/css-min-all-the-things/css-min-all-the-things.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/css-min-all-the-things/css-min-all-the-things.jpg"
         }
       ]
     },
@@ -315,6 +290,46 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "6737abf27f9bd5ad3f21cfd7",
+          "author": "Quincy Larson",
+          "description": "On this week's episode of the podcast, I interview Tim Ruscica, the software engineer and prolific programming teacher behind the Tech with Tim YouTube channel. He's also developed courses on freeCodeCamp's YouTube channel. We talk about: How Tim ma...",
+          "link": "https://www.freecodecamp.org/news/tech-with-tim-freecodecamp-podcast-150/",
+          "publishedOn": "2024-11-15T20:15:46.000Z",
+          "wordCount": 1099,
+          "title": "To code is to struggle! I interview Tech with Tim, who got a job at Microsoft at age 19 [Podcast #150]",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1731701715881/82f74a0d-6735-421c-b40d-e1c396393405.png"
+        },
+        {
+          "id": "67378578138bc8b1c027a1e8",
+          "author": "Viviana Yanez",
+          "description": "In this article, I’ll guide you through an overview of what happens when you navigate to a website using your browser. Whether you’re new to web development or have some experience, this post will help you gain a better understanding of how the web a...",
+          "link": "https://www.freecodecamp.org/news/what-happens-when-you-visit-a-website/",
+          "publishedOn": "2024-11-15T17:31:36.000Z",
+          "wordCount": 4985,
+          "title": "What Happens When You Visit a Website? How the Web Works Explained",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1731682843488/32065460-190d-472f-9268-5b181430eef6.jpeg"
+        },
+        {
+          "id": "673783bb1fb7eac514af465b",
+          "author": "Tomer",
+          "description": "When building my own applications, I usually don’t stress about having multiple language support. All of my applications are pet projects of mine and I mostly use them to learn and advance my knowledge. Without any intention, some of the applications...",
+          "link": "https://www.freecodecamp.org/news/how-to-support-multiple-languages-in-flutter/",
+          "publishedOn": "2024-11-15T17:24:11.000Z",
+          "wordCount": 1989,
+          "title": "How to Support Multiple Languages In Your Flutter Application",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/YeO44yVTl20/upload/2ec70e1bfce727903fecba0c2f9b6b8b.jpeg"
+        },
+        {
+          "id": "673677f66aa5d15c65da2de2",
+          "author": "Beau Carnes",
+          "description": "Have you ever wondered how apps like Spotify are built? Now’s your chance to learn! With the power of modern technologies like Flutter, FastAPI, and PostgreSQL, you can create a full-featured music streaming app from scratch. We just published a cour...",
+          "link": "https://www.freecodecamp.org/news/create-a-full-stack-spotify-clone-with-flutter/",
+          "publishedOn": "2024-11-14T22:21:42.000Z",
+          "wordCount": 1307,
+          "title": "Create a Full Stack Spotify Clone with Flutter",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1731622884338/756e3521-d287-4484-856f-9afd634c38dd.png"
+        },
         {
           "id": "673616b2ea38d82d84002cda",
           "author": "Birks Sachdev",
@@ -1014,26 +1029,6 @@
           "wordCount": 1268,
           "title": "Code a Sonic Infinite Runner Game in JavaScript",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1729182842440/b8ec758a-735c-4e23-84c5-aaf15ec7bf75.png"
-        },
-        {
-          "id": "670fce62ee042ff16bdfd24f",
-          "author": "Beau Carnes",
-          "description": "Mobile app development has evolved tremendously, and creating a robust, full-featured app today involves mastering both the front-end and back-end. If you're looking to build something practical, like an e-commerce platform, and want to learn the ins...",
-          "link": "https://www.freecodecamp.org/news/mobile-app-development-course-with-react-native-supabase-nextjs/",
-          "publishedOn": "2024-10-16T14:32:02.000Z",
-          "wordCount": 1409,
-          "title": "Mobile App Development Course with React Native, Supabase, Next.js",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1729089105157/93e64814-1222-433c-839d-69f16fc3220b.png"
-        },
-        {
-          "id": "670fcc1f4de23c1a2f6ab7e1",
-          "author": "Alex Tray",
-          "description": "While it might seem challenging to remain SOC 2 compliant, it is a critical process that helps earn your client’s trust and also ensures the security of your systems. SOC 2 assesses how well a company protects its data based on five trust service cri...",
-          "link": "https://www.freecodecamp.org/news/how-to-maintain-soc-2-compliance/",
-          "publishedOn": "2024-10-16T14:22:23.000Z",
-          "wordCount": 2567,
-          "title": "How to Maintain SOC 2 Compliance: A Step-by-Step Guide",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1728552754176/bc82c080-e6df-4944-ba45-b76540cb1314.png"
         }
       ]
     }
