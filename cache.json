@@ -165,26 +165,6 @@
           "wordCount": 1596,
           "title": "Combining forces, GSAP & Webflow!",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/381832"
-        },
-        {
-          "id": "https://css-tricks.com/?p=381882",
-          "author": "Geoff Graham",
-          "description": "I totally get the goal here: make CSS more modular and scalable in WordPress. Put all your global WordPress theme styles in a single file, including variations. JSON offers a nicely structured syntax that’s easily consumable by JavaScript, thereby allowing …\nMastering theme.json: You might not need CSS originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/mastering-theme-json-you-might-not-need-css/",
-          "publishedOn": "2024-10-18T11:36:04.000Z",
-          "wordCount": 1632,
-          "title": "Mastering theme.json: You might not need CSS",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/381882"
-        },
-        {
-          "id": "https://css-tricks.com/?p=381763",
-          "author": "Zell Liew",
-          "description": "One of the interesting (but annoying) things about CSS is the background of children’s elements can bleed out of the border radius of the parent element. Here’s an example of a card with an inner element. If the inner element …\nSolving Background Overflow With Inherited Border Radii originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/preventing-child-background-overflow-with-inherited-border-radii/",
-          "publishedOn": "2024-10-17T15:24:02.000Z",
-          "wordCount": 1737,
-          "title": "Solving Background Overflow With Inherited Border Radii",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/381763"
         }
       ]
     },
@@ -1019,16 +999,6 @@
           "wordCount": 6052,
           "title": "What is Cloud Computing? Beginner's Guide to Cloud Computing with AWS",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1729159103929/5b4c74fe-3bf5-4ac5-9739-4313d46a8dd1.png"
-        },
-        {
-          "id": "671140909e01688d7732fd36",
-          "author": "Beau Carnes",
-          "description": "Infinite runner games have been a favorite for gamers and developers alike due to their fast-paced action and replayability. These games often feature engaging mechanics like endless levels, smooth character movement, and dynamic environments that ke...",
-          "link": "https://www.freecodecamp.org/news/code-a-sonic-infinite-runner-game-in-javascript/",
-          "publishedOn": "2024-10-17T16:51:28.000Z",
-          "wordCount": 1268,
-          "title": "Code a Sonic Infinite Runner Game in JavaScript",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1729182842440/b8ec758a-735c-4e23-84c5-aaf15ec7bf75.png"
         }
       ]
     }
