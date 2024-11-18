@@ -155,16 +155,6 @@
           "wordCount": 5808,
           "title": "Unleash the Power of Scroll-Driven Animations",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/381613"
-        },
-        {
-          "id": "https://css-tricks.com/?p=381832",
-          "author": "Ryan Trimble",
-          "description": "Change can certainly be scary whenever a beloved, independent software library becomes a part of a larger organization. I’m feeling a bit more excitement than concern this time around, though.\nIf you haven’t heard, GSAP (GreenSock Animation Platform) is teaming …\nCombining forces, GSAP & Webflow! originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/combining-forces-gsap-webflow/",
-          "publishedOn": "2024-10-18T13:09:22.000Z",
-          "wordCount": 1596,
-          "title": "Combining forces, GSAP & Webflow!",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/381832"
         }
       ]
     },
@@ -969,36 +959,6 @@
           "wordCount": 3420,
           "title": "Which Tools to Use for LLM-Powered Applications: LangChain vs LlamaIndex vs NIM",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1729527716896/58932669-914c-4380-88c8-33ffbad99b5f.webp"
-        },
-        {
-          "id": "6712fdc4ad96e38e0b7422ae",
-          "author": "Victoria Nduka",
-          "description": "Over one billion people worldwide live with some form of disability. That is about 16% of the global population. Now, imagine how many of these individuals might be trying to access your website. Would they navigate easily through your site, or would...",
-          "link": "https://www.freecodecamp.org/news/how-to-perform-a-web-accessibility-audit/",
-          "publishedOn": "2024-10-19T00:31:00.000Z",
-          "wordCount": 2626,
-          "title": "How to Perform a Web Accessibility Audit",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1729112018927/8f769e94-9c4b-4651-a0f7-0c99d529c9c3.png"
-        },
-        {
-          "id": "671271336d32f3591177c37a",
-          "author": "Quincy Larson",
-          "description": "On this week's episode of the podcast, I interview Tadas Petra. He's a software engineer and a Senior Developer Advocate at Agora.io. After learning embedded development in university, Tadas switched to building mobile apps. He's gone on to build doz...",
-          "link": "https://www.freecodecamp.org/news/tadas-petra-podcast-146/",
-          "publishedOn": "2024-10-18T14:31:15.000Z",
-          "wordCount": 1183,
-          "title": "From Failing Programming Class to Senior Software Engineer with Tadas Petra [Podcast #146]",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1729261845654/2491f9ad-4c33-446b-bbae-3fa0117b2b47.png"
-        },
-        {
-          "id": "6712601db2117f64c9ba5c68",
-          "author": "Kedar Makode",
-          "description": "Ever wondered what people mean when they say, “It’s stored in the cloud”? If you’re imagining fluffy white clouds up in the sky storing your pictures, documents, or your Netflix favorites, then you’re in for a surprise! Spoiler alert: the cloud is mu...",
-          "link": "https://www.freecodecamp.org/news/beginners-guide-to-cloud-computing-with-aws/",
-          "publishedOn": "2024-10-18T13:18:21.000Z",
-          "wordCount": 6052,
-          "title": "What is Cloud Computing? Beginner's Guide to Cloud Computing with AWS",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1729159103929/5b4c74fe-3bf5-4ac5-9739-4313d46a8dd1.png"
         }
       ]
     }
