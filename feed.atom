@@ -2,10 +2,111 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-19T00:13:29.983Z</updated>
+    <updated>2024-11-20T00:13:16.589Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Understanding Modern Development Frameworks: A Guide for Developers and Technical Decision-makers]]></title>
+        <id>673cc307f6df251b434f7f90</id>
+        <link href="https://www.freecodecamp.org/news/understanding-modern-development-frameworks-guide-for-devs/"/>
+        <updated>2024-11-19T16:55:35.000Z</updated>
+        <summary type="html"><![CDATA[As a developer for over 20 years, I've seen firsthand how choosing the right framework can make or break a project. The term "framework" has become so broad that it's often misunderstood. Let's clear up the confusion and help you make better technica...]]></summary>
+        <author>
+            <name>Jesse Hall</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Scalable URL Shortener with Distributed Caching Using Redis]]></title>
+        <id>673cab723502f2a00d61ece1</id>
+        <link href="https://www.freecodecamp.org/news/build-a-scalable-url-shortener-with-distributed-caching-using-redis/"/>
+        <updated>2024-11-19T15:14:58.000Z</updated>
+        <summary type="html"><![CDATA[In this tutorial, we'll build a scalable URL shortening service using Node.js and Redis. This service will leverage distributed caching to handle high traffic efficiently, reduce latency, and scale seamlessly. We'll explore key concepts such as consi...]]></summary>
+        <author>
+            <name>Birks Sachdev</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Distributed Rate Limiting System Using Redis and Lua Scripts]]></title>
+        <id>673ca31d6c7f56d7a860bbdf</id>
+        <link href="https://www.freecodecamp.org/news/build-rate-limiting-system-using-redis-and-lua/"/>
+        <updated>2024-11-19T14:39:25.000Z</updated>
+        <summary type="html"><![CDATA[In this comprehensive guide, you’ll build a distributed rate limiter using Redis and Lua scripting to control user requests in a high-traffic environment. Rate limiting is crucial in any system to prevent abuse, manage traffic, and protect your resou...]]></summary>
+        <author>
+            <name>Birks Sachdev</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Complete CSS Course]]></title>
+        <id>https://css-tricks.com/?p=382566</id>
+        <link href="https://css-tricks.com/complete-css-course/"/>
+        <updated>2024-11-19T14:21:28.000Z</updated>
+        <summary type="html"><![CDATA[Do you subscribe to Piccalilli? You should. If you're reading that name for the first time, that would be none other than Andy Bell running the ship and he's reimagined the site from the ground-up after coming out of hibernation this year. You're likely familiar with Andy's great writing here on CSS-Tricks.
+Complete CSS Course originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Create a Meme Generator Using HTML Canvas]]></title>
+        <id>673c929fd0881b2b1feaf916</id>
+        <link href="https://www.freecodecamp.org/news/create-meme-generator-using-html-canvas/"/>
+        <updated>2024-11-19T13:29:03.000Z</updated>
+        <summary type="html"><![CDATA[We all come across memes almost every day on the internet. Whether you're scrolling through social media or chatting with friends, there's a good chance you'll stumble on a meme, or even share one yourself. A meme can be an image, a video, or gif tha...]]></summary>
+        <author>
+            <name>Timothy Olanrewaju</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Set Up Zigbee2MQTT with Docker for Home Automation]]></title>
+        <id>673c8cdcb7f79bc9aa2f300f</id>
+        <link href="https://www.freecodecamp.org/news/how-to-set-up-zigbee2mqtt-with-docker/"/>
+        <updated>2024-11-19T13:04:28.000Z</updated>
+        <summary type="html"><![CDATA[Zigbee2MQTT is an open-source tool that lets you manage all of your Zigbee devices locally, so you don’t need cloud services or multiple proprietary hubs. This gives you more control and flexibility, whether used on its own or integrated with platfor...]]></summary>
+        <author>
+            <name>Joyce Lin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Implement Event-Driven Data Processing with Traefik, Kafka, and Docker]]></title>
+        <id>673c7ac360ba8e6675690350</id>
+        <link href="https://www.freecodecamp.org/news/how-to-implement-event-driven-data-processing/"/>
+        <updated>2024-11-19T11:47:15.000Z</updated>
+        <summary type="html"><![CDATA[In modern system design, Event-Driven Architecture (EDA) focuses on creating, detecting, using, and responding to events within a system. Events are significant occurrences that can affect a system’s hardware or software, such as user actions, state ...]]></summary>
+        <author>
+            <name>Abraham Dahunsi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI’s Transformative Impact On Web Design: Supercharging Productivity Across The Industry]]></title>
+        <id>https://smashingmagazine.com/2024/11/ai-transformative-impact-web-design-supercharging-productivity/</id>
+        <link href="https://smashingmagazine.com/2024/11/ai-transformative-impact-web-design-supercharging-productivity/"/>
+        <updated>2024-11-19T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Discover how AI is reshaping web design, boosting productivity in design, coding, UX, and copywriting while amplifying human creativity in a new article by Paul Boag.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Paul Boag)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Benchmark Your Code in C#]]></title>
+        <id>673bdcd6088133abf555d52f</id>
+        <link href="https://www.freecodecamp.org/news/how-to-benchmark-your-code-in-csharp/"/>
+        <updated>2024-11-19T00:33:26.000Z</updated>
+        <summary type="html"><![CDATA[Knowing how your code performs is a crucial part of development. We strive to write the most optimal and performant code whilst keeping readability. In this article, I will show you how to test the performance of your code, benchmark your code, and i...]]></summary>
+        <author>
+            <name>Grant Riordan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build a Real-Time Multiplayer Tic-Tac-Toe Game Using WebSockets and Microservices]]></title>
+        <id>673bb7ca83cab2eb3eafb7af</id>
+        <link href="https://www.freecodecamp.org/news/build-a-real-time-multiplayer-tic-tac-toe-game-using-websockets-and-microservices/"/>
+        <updated>2024-11-18T21:55:22.000Z</updated>
+        <summary type="html"><![CDATA[In this tutorial, we’ll build a real-time multiplayer Tic-Tac-Toe game using Node.js, Socket.IO, and Redis. This game allows two players to connect from different browser tabs, take turns playing, and see real-time updates as they play. We'll use Red...]]></summary>
+        <author>
+            <name>Birks Sachdev</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[To code is to struggle! I interview Tech with Tim, who got a job at Microsoft at age 19 [Podcast #150]]]></title>
         <id>6737abf27f9bd5ad3f21cfd7</id>
