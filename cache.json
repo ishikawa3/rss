@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=382572",
+          "author": "Daniel Schwarz",
+          "description": "Web browsers are experimenting with two HTML attributes — technically, they’re called “invoker commands” — that are designed to invoke popovers, dialogs, and further down the line, all kinds of actions without writing JavaScript. Although, if you do reach for JavaScript, the new attributes come with some new events that we can listen for.\nInvoker Commands: Additional Ways to Work With Dialog, Popover… and More? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/invoker-commands-additional-ways-to-work-with-dialog-popover-and-more/",
+          "publishedOn": "2024-11-20T15:12:34.000Z",
+          "wordCount": 3227,
+          "title": "Invoker Commands: Additional Ways to Work With Dialog, Popover… and More?",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/382572"
+        },
+        {
           "id": "https://css-tricks.com/?p=382566",
           "author": "Geoff Graham",
           "description": "Do you subscribe to Piccalilli? You should. If you're reading that name for the first time, that would be none other than Andy Bell running the ship and he's reimagined the site from the ground-up after coming out of hibernation this year. You're likely familiar with Andy's great writing here on CSS-Tricks.\nComplete CSS Course originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -155,16 +165,6 @@
             "type": "video/mp4"
           },
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/381992"
-        },
-        {
-          "id": "https://css-tricks.com/?p=381613",
-          "author": "Geoff Graham",
-          "description": "I’m utterly behind in learning about scroll-driven animations apart from the “reading progress bar” experiments all over CodePen. Well, I’m not exactly “green” on the topic; we’ve published a handful of articles on it including this neat-o one by Lee …\nUnleash the Power of Scroll-Driven Animations originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/unleash-the-power-of-scroll-driven-animations/",
-          "publishedOn": "2024-10-21T13:50:53.000Z",
-          "wordCount": 5808,
-          "title": "Unleash the Power of Scroll-Driven Animations",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/381613"
         }
       ]
     },
@@ -285,6 +285,36 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "673e03874ee4d6be53b9fe65",
+          "author": "Beau Carnes",
+          "description": "State management is one of the most important aspects of building scalable and efficient React applications. Whether you're managing user interactions, API data, or application-wide settings, having a robust tool for handling state can save time and ...",
+          "link": "https://www.freecodecamp.org/news/learn-redux-and-redux-toolkit-for-state-management/",
+          "publishedOn": "2024-11-20T15:43:03.000Z",
+          "wordCount": 1363,
+          "title": "Learn Redux and Redux Toolkit for State Management",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1732117361940/ab139527-5428-4787-bd2c-c2f1336ece8a.png"
+        },
+        {
+          "id": "673dc0d9ed2a01b66ee9f37c",
+          "author": "Namaswi Chandarana",
+          "description": "Mobile apps are essential tools in daily life, making accessibility a top priority. However, many apps still do not provide inclusive experiences for people with disabilities. This article highlights nine common accessibility challenges in mobile app...",
+          "link": "https://www.freecodecamp.org/news/how-to-address-ios-accessibility-challenges-using-swiftui/",
+          "publishedOn": "2024-11-20T10:58:33.000Z",
+          "wordCount": 1986,
+          "title": "How to Address Common Accessibility Challenges in iOS Mobile Apps Using SwiftUI",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/9e9PD9blAto/upload/43ed1bb84a1c0abad81192c63e920503.jpeg"
+        },
+        {
+          "id": "673d179a27c7af0d174dc2fc",
+          "author": "Pradumna Saraf",
+          "description": "Feature flagging has changed the paradigm of how backend developers can test and modify the things they build. With feature flags, we can enable and disable a feature or change the functionality of something on the fly with a single click (no need to...",
+          "link": "https://www.freecodecamp.org/news/build-a-flexible-api-with-feature-flags-using-open-source-tools/",
+          "publishedOn": "2024-11-19T22:56:26.000Z",
+          "wordCount": 4176,
+          "title": "How to Build a Flexible API with Feature Flags Using Open Source Tools",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1732044691446/abd5596c-3523-4278-957c-109388690bcc.png"
+        },
         {
           "id": "673cc307f6df251b434f7f90",
           "author": "Jesse Hall",
@@ -1024,46 +1054,6 @@
           "wordCount": 2179,
           "title": "How to Build a Callout Component for your Astro Blog",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1728900397885/4c9f906f-e531-4588-9e45-7b56920d676e.png"
-        },
-        {
-          "id": "6717846983737f44dd20e110",
-          "author": "Kedar Makode",
-          "description": "In this article, I’ll walk you through the steps of connecting to your EC2 instance using MobaXterm with a .pem keypair file. Whether you're a beginner dipping your toes into the cloud or an experienced user looking for a quicker method, I’ve got you...",
-          "link": "https://www.freecodecamp.org/news/connect-to-your-ec2-instance-using-mobaxterm/",
-          "publishedOn": "2024-10-22T10:54:33.000Z",
-          "wordCount": 1821,
-          "title": "How to Connect to Your EC2 Instance Using MobaXterm with SSH and a Keypair (.pem) File",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1729574902773/f80eb07d-524a-4fa2-a8d8-29c6438d37aa.png"
-        },
-        {
-          "id": "6716a484c9b0ead280c3a92f",
-          "author": "Saki Basken",
-          "description": "After months of endless job applications, networking, and studying, I accepted an offer in January to work full-time as a developer. It wasn’t smooth sailing, and I won’t lie — the road was very bumpy.  So to help others out, I want to share my story...",
-          "link": "https://www.freecodecamp.org/news/from-stay-at-home-freelancing-parent-to-developer-tips/",
-          "publishedOn": "2024-10-21T18:59:16.000Z",
-          "wordCount": 4796,
-          "title": "How to Transition from Stay-at-Home Freelancing Parent to Developer: A Bootcamp Survivor’s Guide",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1729459143433/56e305bd-b7db-453e-81c9-e30787d6e4cd.jpeg"
-        },
-        {
-          "id": "67169d1456af142bfd7fe418",
-          "author": "Grant Riordan",
-          "description": "Being able to update variables, call particular branches of code, or simply output different code based on a certain condition is a vital part of programming in any language. C# (C Sharp) offers multiple ways to do these things, and I’m about to show...",
-          "link": "https://www.freecodecamp.org/news/conditional-statements-in-csharp-if-switch-and-more/",
-          "publishedOn": "2024-10-21T18:27:32.000Z",
-          "wordCount": 3492,
-          "title": "How to Use Conditional Statements in C#: If, Switch, and More Explained with Example Code",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1729432206658/e802fcca-bf0c-424f-9915-b02fd847bdcc.png"
-        },
-        {
-          "id": "6716909d6cc6de90a6dad8be",
-          "author": "Bhavishya Pandit",
-          "description": "If you’re considering building an application powered by a Large Language Model, you may wonder which tool to use. Well, two well-established frameworks—LangChain and LlamaIndex—have gained significant attention for their unique features and capabili...",
-          "link": "https://www.freecodecamp.org/news/llm-powered-apps-langchain-vs-llamaindex-vs-nim/",
-          "publishedOn": "2024-10-21T17:34:21.000Z",
-          "wordCount": 3420,
-          "title": "Which Tools to Use for LLM-Powered Applications: LangChain vs LlamaIndex vs NIM",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1729527716896/58932669-914c-4380-88c8-33ffbad99b5f.webp"
         }
       ]
     }

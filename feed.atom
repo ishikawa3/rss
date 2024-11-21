@@ -2,10 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-20T00:13:16.589Z</updated>
+    <updated>2024-11-21T00:13:43.529Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Learn Redux and Redux Toolkit for State Management]]></title>
+        <id>673e03874ee4d6be53b9fe65</id>
+        <link href="https://www.freecodecamp.org/news/learn-redux-and-redux-toolkit-for-state-management/"/>
+        <updated>2024-11-20T15:43:03.000Z</updated>
+        <summary type="html"><![CDATA[State management is one of the most important aspects of building scalable and efficient React applications. Whether you're managing user interactions, API data, or application-wide settings, having a robust tool for handling state can save time and ...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Invoker Commands: Additional Ways to Work With Dialog, Popover… and More?]]></title>
+        <id>https://css-tricks.com/?p=382572</id>
+        <link href="https://css-tricks.com/invoker-commands-additional-ways-to-work-with-dialog-popover-and-more/"/>
+        <updated>2024-11-20T15:12:34.000Z</updated>
+        <summary type="html"><![CDATA[Web browsers are experimenting with two HTML attributes — technically, they’re called “invoker commands” — that are designed to invoke popovers, dialogs, and further down the line, all kinds of actions without writing JavaScript. Although, if you do reach for JavaScript, the new attributes come with some new events that we can listen for.
+Invoker Commands: Additional Ways to Work With Dialog, Popover… and More? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Daniel Schwarz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Address Common Accessibility Challenges in iOS Mobile Apps Using SwiftUI]]></title>
+        <id>673dc0d9ed2a01b66ee9f37c</id>
+        <link href="https://www.freecodecamp.org/news/how-to-address-ios-accessibility-challenges-using-swiftui/"/>
+        <updated>2024-11-20T10:58:33.000Z</updated>
+        <summary type="html"><![CDATA[Mobile apps are essential tools in daily life, making accessibility a top priority. However, many apps still do not provide inclusive experiences for people with disabilities. This article highlights nine common accessibility challenges in mobile app...]]></summary>
+        <author>
+            <name>Namaswi Chandarana</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Flexible API with Feature Flags Using Open Source Tools]]></title>
+        <id>673d179a27c7af0d174dc2fc</id>
+        <link href="https://www.freecodecamp.org/news/build-a-flexible-api-with-feature-flags-using-open-source-tools/"/>
+        <updated>2024-11-19T22:56:26.000Z</updated>
+        <summary type="html"><![CDATA[Feature flagging has changed the paradigm of how backend developers can test and modify the things they build. With feature flags, we can enable and disable a feature or change the functionality of something on the fly with a single click (no need to...]]></summary>
+        <author>
+            <name>Pradumna Saraf</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Understanding Modern Development Frameworks: A Guide for Developers and Technical Decision-makers]]></title>
         <id>673cc307f6df251b434f7f90</id>
@@ -975,57 +1016,6 @@ Clamp it! VS Code extension originally published on CSS-Tricks, which is part of
         <summary type="html"><![CDATA[Earlier this year, I became really interested in learning about Astro, so I completely rebuilt my blog using it. The results have been amazing since then: I can easily handle automatic sitemap generation and SEO, and integrating other tools became a ...]]></summary>
         <author>
             <name>Kolade Chris</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Connect to Your EC2 Instance Using MobaXterm with SSH and a Keypair (.pem) File]]></title>
-        <id>6717846983737f44dd20e110</id>
-        <link href="https://www.freecodecamp.org/news/connect-to-your-ec2-instance-using-mobaxterm/"/>
-        <updated>2024-10-22T10:54:33.000Z</updated>
-        <summary type="html"><![CDATA[In this article, I’ll walk you through the steps of connecting to your EC2 instance using MobaXterm with a .pem keypair file. Whether you're a beginner dipping your toes into the cloud or an experienced user looking for a quicker method, I’ve got you...]]></summary>
-        <author>
-            <name>Kedar Makode</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Transition from Stay-at-Home Freelancing Parent to Developer: A Bootcamp Survivor’s Guide]]></title>
-        <id>6716a484c9b0ead280c3a92f</id>
-        <link href="https://www.freecodecamp.org/news/from-stay-at-home-freelancing-parent-to-developer-tips/"/>
-        <updated>2024-10-21T18:59:16.000Z</updated>
-        <summary type="html"><![CDATA[After months of endless job applications, networking, and studying, I accepted an offer in January to work full-time as a developer. It wasn’t smooth sailing, and I won’t lie — the road was very bumpy.  So to help others out, I want to share my story...]]></summary>
-        <author>
-            <name>Saki Basken</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use Conditional Statements in C#: If, Switch, and More Explained with Example Code]]></title>
-        <id>67169d1456af142bfd7fe418</id>
-        <link href="https://www.freecodecamp.org/news/conditional-statements-in-csharp-if-switch-and-more/"/>
-        <updated>2024-10-21T18:27:32.000Z</updated>
-        <summary type="html"><![CDATA[Being able to update variables, call particular branches of code, or simply output different code based on a certain condition is a vital part of programming in any language. C# (C Sharp) offers multiple ways to do these things, and I’m about to show...]]></summary>
-        <author>
-            <name>Grant Riordan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Which Tools to Use for LLM-Powered Applications: LangChain vs LlamaIndex vs NIM]]></title>
-        <id>6716909d6cc6de90a6dad8be</id>
-        <link href="https://www.freecodecamp.org/news/llm-powered-apps-langchain-vs-llamaindex-vs-nim/"/>
-        <updated>2024-10-21T17:34:21.000Z</updated>
-        <summary type="html"><![CDATA[If you’re considering building an application powered by a Large Language Model, you may wonder which tool to use. Well, two well-established frameworks—LangChain and LlamaIndex—have gained significant attention for their unique features and capabili...]]></summary>
-        <author>
-            <name>Bhavishya Pandit</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unleash the Power of Scroll-Driven Animations]]></title>
-        <id>https://css-tricks.com/?p=381613</id>
-        <link href="https://css-tricks.com/unleash-the-power-of-scroll-driven-animations/"/>
-        <updated>2024-10-21T13:50:53.000Z</updated>
-        <summary type="html"><![CDATA[I’m utterly behind in learning about scroll-driven animations apart from the “reading progress bar” experiments all over CodePen. Well, I’m not exactly “green” on the topic; we’ve published a handful of articles on it including this neat-o one by Lee …
-Unleash the Power of Scroll-Driven Animations originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
         </author>
     </entry>
 </feed>
