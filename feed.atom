@@ -2,10 +2,71 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-22T00:13:53.717Z</updated>
+    <updated>2024-11-23T00:12:57.624Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Implement RBAC in a Community Dashboard with Nuxt]]></title>
+        <id>6740bf4cd3bb67c73837c3ef</id>
+        <link href="https://www.freecodecamp.org/news/rbac-community-dashboard-with-nuxt/"/>
+        <updated>2024-11-22T17:28:44.000Z</updated>
+        <summary type="html"><![CDATA[Role Based Access Control (RBAC) is a useful authorization model for users with different access levels, such as those in a community dashboard. In this article, you’ll learn how to integrate this type of authorization with Permit.io in Nuxt. Table o...]]></summary>
+        <author>
+            <name>Obum</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Handle Forms in Next.js with Server Actions and Zod for Validation]]></title>
+        <id>6740b5ae31fc8f5b09184849</id>
+        <link href="https://www.freecodecamp.org/news/handling-forms-nextjs-server-actions-zod/"/>
+        <updated>2024-11-22T16:47:42.000Z</updated>
+        <summary type="html"><![CDATA[Forms are essential in modern websites, as they help you collect your users’ information. So knowing how to handle forms properly is crucial when you’re building web applications. In this article, you will learn how to handle forms in Next.js using s...]]></summary>
+        <author>
+            <name>Chidera Humphrey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Automating a coffee shop chain using self-taught coding skills with Eamonn Cottrell [Interview #151]]]></title>
+        <id>6740ac934465e258a6ed9ff7</id>
+        <link href="https://www.freecodecamp.org/news/self-taught-coding-automating-coffee-shop-chain-eamonn-cottrell-interview-151/"/>
+        <updated>2024-11-22T16:08:51.000Z</updated>
+        <summary type="html"><![CDATA[On this week's episode of the podcast, I interview Eamonn Cottrell. He's a software engineer who also runs a local chain of coffee shops in Knoxville. Eamonn taught himself to code using freeCodeCamp. And he's since published 37 freeCodeCamp tutorial...]]></summary>
+        <author>
+            <name>Quincy Larson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Learn Python for JavaScript Developers [Full Handbook]]]></title>
+        <id>67409b36d94f5ae0c0e97650</id>
+        <link href="https://www.freecodecamp.org/news/learn-python-for-javascript-developers-handbook/"/>
+        <updated>2024-11-22T14:54:46.000Z</updated>
+        <summary type="html"><![CDATA[As a developer with experience in JavaScript, you likely know how versatile the language is, especially when it comes to web development. JavaScript powers both frontend and backend development (thanks to Node.js) and has grown to become one of the m...]]></summary>
+        <author>
+            <name>German Cocca</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Solved by CSS: Donuts Scopes]]></title>
+        <id>https://css-tricks.com/?p=382613</id>
+        <link href="https://css-tricks.com/solved-by-css-donuts-scopes/"/>
+        <updated>2024-11-22T13:50:55.000Z</updated>
+        <summary type="html"><![CDATA[Donut scoping addresses the challenge of preventing parent styles from leaking to nested content. Originating from a 2011 concept by Nicole Sullivan, the issue has evolved, culminating in 2024's @scope at-rule. This allows for more precise CSS styling, safeguarding content from unwanted inheritance while managing global CSS complexities.
+Solved by CSS: Donuts Scopes originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Juan Diego Rodríguez</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why You Should Speak At Events As An Early-Career Professional]]></title>
+        <id>https://smashingmagazine.com/2024/11/why-you-speak-events-early-career-professional/</id>
+        <link href="https://smashingmagazine.com/2024/11/why-you-speak-events-early-career-professional/"/>
+        <updated>2024-11-22T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Many talented professionals hold back from speaking at tech events, believing they need years of experience or expert status first. Drawing from her experience as a first-time speaker at WordPress Accessibility Day 2024, Victoria Nduka discusses how speaking at events benefits both individuals and the tech community.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Victoria Nduka)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Create Zig-Zag CSS Loaders Using One Element]]></title>
         <id>673e738139346c3d3174676e</id>
@@ -924,78 +985,6 @@ You can use text-wrap: balance; on icons originally published on CSS-Tricks, whi
         <summary type="html"><![CDATA[In this hands-on tutorial, you'll learn how to harness the power of Netcat to build practical networking tools. We’ll start with basic message transmission. Then you'll progress to creating a file transfer system, and you’ll ultimately develop a secu...]]></summary>
         <author>
             <name>Hang Hu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use Skeleton Screens to Improve Perceived Website Performance]]></title>
-        <id>671955939f7c056f46dd8604</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-skeleton-screens-to-improve-perceived-website-performance/"/>
-        <updated>2024-10-23T19:59:15.000Z</updated>
-        <summary type="html"><![CDATA[When you’re building a website, it’s important to make sure that it’s fast. People have little to no patience for slow-loading websites. So as developers, we need to use all the techniques available to us to speed up our site’s performance. And somet...]]></summary>
-        <author>
-            <name>Timothy Olanrewaju</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Automate Documentation Conversion with Pandoc in CI/CD Pipelines]]></title>
-        <id>671949e0521b33716a071ccc</id>
-        <link href="https://www.freecodecamp.org/news/how-to-automate-documentation-conversion-with-pandoc-in-cicd-pipelines/"/>
-        <updated>2024-10-23T19:09:20.000Z</updated>
-        <summary type="html"><![CDATA[In any software project, documentation plays a crucial role in guiding developers, users, and stakeholders through the project's features and functionalities. As projects grow and evolve, managing documentation across various formats—whether it’s mar...]]></summary>
-        <author>
-            <name>Preston Mayieka</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Create Filling CSS Loaders Using One Element]]></title>
-        <id>6719336f56c24fb7d4fc62b3</id>
-        <link href="https://www.freecodecamp.org/news/filling-css-loaders/"/>
-        <updated>2024-10-23T17:33:35.000Z</updated>
-        <summary type="html"><![CDATA[In a previous article, I showed you how to create two types of CSS loaders: a spinner and a progress bar. In this article, you’ll learn about another variation called a filling CSS loader. I think a demo is worth thousands of words, so check out this...]]></summary>
-        <author>
-            <name>Temani Afif</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build Your Own Wheel of Names with React and TypeScript]]></title>
-        <id>67190fa49a9d435e2ceeafb6</id>
-        <link href="https://www.freecodecamp.org/news/build-your-own-wheel-of-names/"/>
-        <updated>2024-10-23T15:00:52.000Z</updated>
-        <summary type="html"><![CDATA[A while ago, I stumbled upon a website listing various coding challenges, and I decided to give some a try. Last week, I came across one that involved building a "Wheel of Names." It reminded me of a similar project I built years ago using Flash and ...]]></summary>
-        <author>
-            <name>Mihail Gaberov</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use RxStomp with React – Build Chat App with STOMP and React]]></title>
-        <id>671901e20aa5e141c2db418f</id>
-        <link href="https://www.freecodecamp.org/news/build-chat-app-with-stomp-and-react/"/>
-        <updated>2024-10-23T14:02:10.000Z</updated>
-        <summary type="html"><![CDATA[STOMP is an amazingly simple yet powerful protocol for sending messages implemented by popular servers like RabbitMQ, ActiveMQ, and Apollo. Using STOMP over WebSocket is a straightforward protocol, making it a popular choice for sending messages from...]]></summary>
-        <author>
-            <name>Harsh Deep</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Clarifying the Relationship Between Popovers and Dialogs]]></title>
-        <id>https://css-tricks.com/?p=382008</id>
-        <link href="https://css-tricks.com/clarifying-the-relationship-between-popovers-and-dialogs/"/>
-        <updated>2024-10-23T13:20:46.000Z</updated>
-        <summary type="html"><![CDATA[The difference between Popovers (i.e., the popover attribute) and Dialogs (i.e., both the <dialog element and the dialog accessible role) is incredibly confusing — so much that many articles (like this, this, and this) have tried to …
-Clarifying the Relationship Between Popovers and Dialogs originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Zell Liew</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Clamp it! VS Code extension]]></title>
-        <id>https://css-tricks.com/?p=381992</id>
-        <link href="https://css-tricks.com/clamp-it-vs-code-extension/"/>
-        <updated>2024-10-23T13:15:20.000Z</updated>
-        <summary type="html"><![CDATA[There’s a lot of math behind fluid typography. CSS does make the math a lot easier these days, but even if you’re comfortable with that, writing the full declaration can be verbose and tough to remember. I know I often …
-Clamp it! VS Code extension originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
         </author>
     </entry>
 </feed>

@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=382613",
+          "author": "Juan Diego Rodríguez",
+          "description": "Donut scoping addresses the challenge of preventing parent styles from leaking to nested content. Originating from a 2011 concept by Nicole Sullivan, the issue has evolved, culminating in 2024's @scope at-rule. This allows for more precise CSS styling, safeguarding content from unwanted inheritance while managing global CSS complexities.\nSolved by CSS: Donuts Scopes originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/solved-by-css-donuts-scopes/",
+          "publishedOn": "2024-11-22T13:50:55.000Z",
+          "wordCount": 3026,
+          "title": "Solved by CSS: Donuts Scopes",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2024/11/donut-scope.jpg"
+        },
+        {
           "id": "https://css-tricks.com/?p=382572",
           "author": "Daniel Schwarz",
           "description": "Web browsers are experimenting with two HTML attributes — technically, they’re called “invoker commands” — that are designed to invoke popovers, dialogs, and further down the line, all kinds of actions without writing JavaScript. Although, if you do reach for JavaScript, the new attributes come with some new events that we can listen for.\nInvoker Commands: Additional Ways to Work With Dialog, Popover… and More? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -140,31 +150,6 @@
           "wordCount": 1480,
           "title": "You can use text-wrap: balance; on icons",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/382065"
-        },
-        {
-          "id": "https://css-tricks.com/?p=382008",
-          "author": "Zell Liew",
-          "description": "The difference between Popovers (i.e., the popover attribute) and Dialogs (i.e., both the <dialog element and the dialog accessible role) is incredibly confusing — so much that many articles (like this, this, and this) have tried to …\nClarifying the Relationship Between Popovers and Dialogs originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/clarifying-the-relationship-between-popovers-and-dialogs/",
-          "publishedOn": "2024-10-23T13:20:46.000Z",
-          "wordCount": 2456,
-          "title": "Clarifying the Relationship Between Popovers and Dialogs",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/382008"
-        },
-        {
-          "id": "https://css-tricks.com/?p=381992",
-          "author": "Geoff Graham",
-          "description": "There’s a lot of math behind fluid typography. CSS does make the math a lot easier these days, but even if you’re comfortable with that, writing the full declaration can be verbose and tough to remember. I know I often …\nClamp it! VS Code extension originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/clamp-it-vs-code-extension/",
-          "publishedOn": "2024-10-23T13:15:20.000Z",
-          "wordCount": 1459,
-          "title": "Clamp it! VS Code extension",
-          "enclosure": {
-            "url": "https://css-tricks.com/wp-content/uploads/2024/10/clamp-it_fng4a5.mp4",
-            "length": "549889",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/381992"
         }
       ]
     },
@@ -173,6 +158,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2024/11/why-you-speak-events-early-career-professional/",
+          "author": "hello@smashingmagazine.com (Victoria Nduka)",
+          "description": "Many talented professionals hold back from speaking at tech events, believing they need years of experience or expert status first. Drawing from her experience as a first-time speaker at WordPress Accessibility Day 2024, Victoria Nduka discusses how speaking at events benefits both individuals and the tech community.",
+          "link": "https://smashingmagazine.com/2024/11/why-you-speak-events-early-career-professional/",
+          "publishedOn": "2024-11-22T09:00:00.000Z",
+          "wordCount": 5818,
+          "title": "Why You Should Speak At Events As An Early-Career Professional",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/why-you-speak-events-early-career-professional/why-you-speak-events-early-career-professional.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/why-you-speak-events-early-career-professional/why-you-speak-events-early-career-professional.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2024/11/ai-transformative-impact-web-design-supercharging-productivity/",
           "author": "hello@smashingmagazine.com (Paul Boag)",
@@ -285,6 +285,46 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "6740bf4cd3bb67c73837c3ef",
+          "author": "Obum",
+          "description": "Role Based Access Control (RBAC) is a useful authorization model for users with different access levels, such as those in a community dashboard. In this article, you’ll learn how to integrate this type of authorization with Permit.io in Nuxt. Table o...",
+          "link": "https://www.freecodecamp.org/news/rbac-community-dashboard-with-nuxt/",
+          "publishedOn": "2024-11-22T17:28:44.000Z",
+          "wordCount": 2973,
+          "title": "How to Implement RBAC in a Community Dashboard with Nuxt",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1732043730534/d88680d7-2590-4541-9120-40a43c3724ef.png"
+        },
+        {
+          "id": "6740b5ae31fc8f5b09184849",
+          "author": "Chidera Humphrey",
+          "description": "Forms are essential in modern websites, as they help you collect your users’ information. So knowing how to handle forms properly is crucial when you’re building web applications. In this article, you will learn how to handle forms in Next.js using s...",
+          "link": "https://www.freecodecamp.org/news/handling-forms-nextjs-server-actions-zod/",
+          "publishedOn": "2024-11-22T16:47:42.000Z",
+          "wordCount": 2628,
+          "title": "How to Handle Forms in Next.js with Server Actions and Zod for Validation",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1732137561737/293681e0-d2f4-4d88-9fbe-f7e5e9113554.png"
+        },
+        {
+          "id": "6740ac934465e258a6ed9ff7",
+          "author": "Quincy Larson",
+          "description": "On this week's episode of the podcast, I interview Eamonn Cottrell. He's a software engineer who also runs a local chain of coffee shops in Knoxville. Eamonn taught himself to code using freeCodeCamp. And he's since published 37 freeCodeCamp tutorial...",
+          "link": "https://www.freecodecamp.org/news/self-taught-coding-automating-coffee-shop-chain-eamonn-cottrell-interview-151/",
+          "publishedOn": "2024-11-22T16:08:51.000Z",
+          "wordCount": 1168,
+          "title": "Automating a coffee shop chain using self-taught coding skills with Eamonn Cottrell [Interview #151]",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1732291205597/f1fc0cf3-a295-43be-9dd7-ecc4784bd71a.jpeg"
+        },
+        {
+          "id": "67409b36d94f5ae0c0e97650",
+          "author": "German Cocca",
+          "description": "As a developer with experience in JavaScript, you likely know how versatile the language is, especially when it comes to web development. JavaScript powers both frontend and backend development (thanks to Node.js) and has grown to become one of the m...",
+          "link": "https://www.freecodecamp.org/news/learn-python-for-javascript-developers-handbook/",
+          "publishedOn": "2024-11-22T14:54:46.000Z",
+          "wordCount": 11479,
+          "title": "How to Learn Python for JavaScript Developers [Full Handbook]",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1732278833514/c23ea6ad-25b9-45c9-a7a7-c32499ca1d8b.jpeg"
+        },
         {
           "id": "673e738139346c3d3174676e",
           "author": "Temani Afif",
@@ -984,56 +1024,6 @@
           "wordCount": 2468,
           "title": "How to Build a Simple Secure Chat System Using Netcat",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1729729356682/acf8ca42-3aaa-4ca1-9ebc-10f0f658c678.png"
-        },
-        {
-          "id": "671955939f7c056f46dd8604",
-          "author": "Timothy Olanrewaju",
-          "description": "When you’re building a website, it’s important to make sure that it’s fast. People have little to no patience for slow-loading websites. So as developers, we need to use all the techniques available to us to speed up our site’s performance. And somet...",
-          "link": "https://www.freecodecamp.org/news/how-to-use-skeleton-screens-to-improve-perceived-website-performance/",
-          "publishedOn": "2024-10-23T19:59:15.000Z",
-          "wordCount": 2571,
-          "title": "How to Use Skeleton Screens to Improve Perceived Website Performance",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1729603651952/5f5f3c38-20e0-41ac-a4a0-7190347b3a59.png"
-        },
-        {
-          "id": "671949e0521b33716a071ccc",
-          "author": "Preston Mayieka",
-          "description": "In any software project, documentation plays a crucial role in guiding developers, users, and stakeholders through the project's features and functionalities. As projects grow and evolve, managing documentation across various formats—whether it’s mar...",
-          "link": "https://www.freecodecamp.org/news/how-to-automate-documentation-conversion-with-pandoc-in-cicd-pipelines/",
-          "publishedOn": "2024-10-23T19:09:20.000Z",
-          "wordCount": 3212,
-          "title": "How to Automate Documentation Conversion with Pandoc in CI/CD Pipelines",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1729707865753/d1703b32-ccb4-4cd1-9c3e-3e66fef7e02f.png"
-        },
-        {
-          "id": "6719336f56c24fb7d4fc62b3",
-          "author": "Temani Afif",
-          "description": "In a previous article, I showed you how to create two types of CSS loaders: a spinner and a progress bar. In this article, you’ll learn about another variation called a filling CSS loader. I think a demo is worth thousands of words, so check out this...",
-          "link": "https://www.freecodecamp.org/news/filling-css-loaders/",
-          "publishedOn": "2024-10-23T17:33:35.000Z",
-          "wordCount": 2201,
-          "title": "How to Create Filling CSS Loaders Using One Element",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1729637821745/50ff0461-350c-441c-9726-b838d3ef0a5c.jpeg"
-        },
-        {
-          "id": "67190fa49a9d435e2ceeafb6",
-          "author": "Mihail Gaberov",
-          "description": "A while ago, I stumbled upon a website listing various coding challenges, and I decided to give some a try. Last week, I came across one that involved building a \"Wheel of Names.\" It reminded me of a similar project I built years ago using Flash and ...",
-          "link": "https://www.freecodecamp.org/news/build-your-own-wheel-of-names/",
-          "publishedOn": "2024-10-23T15:00:52.000Z",
-          "wordCount": 3468,
-          "title": "How to Build Your Own Wheel of Names with React and TypeScript",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1729695428229/56ac185a-bed1-4bbc-ab6d-a12f2ac5adee.png"
-        },
-        {
-          "id": "671901e20aa5e141c2db418f",
-          "author": "Harsh Deep",
-          "description": "STOMP is an amazingly simple yet powerful protocol for sending messages implemented by popular servers like RabbitMQ, ActiveMQ, and Apollo. Using STOMP over WebSocket is a straightforward protocol, making it a popular choice for sending messages from...",
-          "link": "https://www.freecodecamp.org/news/build-chat-app-with-stomp-and-react/",
-          "publishedOn": "2024-10-23T14:02:10.000Z",
-          "wordCount": 2764,
-          "title": "How to Use RxStomp with React – Build Chat App with STOMP and React",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1729648105968/2926c346-0058-4a84-981e-2ff4bd6833df.png"
         }
       ]
     }
