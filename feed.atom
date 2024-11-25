@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-24T00:14:33.049Z</updated>
+    <updated>2024-11-25T00:14:05.003Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
@@ -799,67 +799,6 @@ Tooltip Best Practices originally published on CSS-Tricks, which is part of the 
         <summary type="html"><![CDATA[Reliable systems consistently perform their intended functions under various conditions while minimizing downtime and failures. As internet users, we tend to take for granted that the systems that we use daily will operate reliably. In this article, ...]]></summary>
         <author>
             <name>Anant Chowdhary</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google Dorking: How to Find Hidden Information on the Web]]></title>
-        <id>671bf3858ac006ad747be97f</id>
-        <link href="https://www.freecodecamp.org/news/google-dorking-how-to-find-hidden-information-on-the-web/"/>
-        <updated>2024-10-25T19:37:41.000Z</updated>
-        <summary type="html"><![CDATA[Let’s learn how to find hidden information online by using advanced search operators on Google. The internet holds vast amounts of information. Much of this information is accessible through Google. But did you know you can use Google in ways beyond ...]]></summary>
-        <author>
-            <name>Manish Shivanandhan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Deploy Your Project On Vercel With A Custom Domain]]></title>
-        <id>671bf3148df28644ca9012f9</id>
-        <link href="https://www.freecodecamp.org/news/how-to-deploy-your-project-on-vercel/"/>
-        <updated>2024-10-25T19:35:48.000Z</updated>
-        <summary type="html"><![CDATA[Have you ever built a project but found it difficult to make it live on the internet? Well, worry no more because this article will help you do that. In this article, I will introduce you to one of the fastest and easiest deployment platforms for bri...]]></summary>
-        <author>
-            <name>Okoro Emmanuel Nzube</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[freeCodeCamp's Top Open Source Contributors of 2024]]></title>
-        <id>671be68e68f1df3481f20947</id>
-        <link href="https://www.freecodecamp.org/news/freecodecamps-top-open-source-contributors-of-2024/"/>
-        <updated>2024-10-25T18:42:22.000Z</updated>
-        <summary type="html"><![CDATA[2024 has been an extremely productive year for the freeCodeCamp community. We’ve built up an incredible amount of momentum toward our missioncreating open learning resources for everyone. Over the past 12 months, the freeCodeCamp community has: Merg...]]></summary>
-        <author>
-            <name>Quincy Larson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Write Cleaner JavaScript Code with The Ternary Operator]]></title>
-        <id>671bc601bf239575d6efca0c</id>
-        <link href="https://www.freecodecamp.org/news/write-cleaner-javascript-code-with-the-ternary-operator/"/>
-        <updated>2024-10-25T16:23:29.000Z</updated>
-        <summary type="html"><![CDATA[When you're coding in JavaScript, handling decisions through conditional statements is one of the core tasks you'll frequently encounter. One of the most commonly used methods for this is the ternary operator. But what exactly is it, and when should ...]]></summary>
-        <author>
-            <name>Oluwadamisi Samuel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[From Stealing Cars to Self-Taught Software Engineer with Dorian Develops [Podcast #147]]]></title>
-        <id>671bb68ab1de10b671182954</id>
-        <link href="https://www.freecodecamp.org/news/from-stealing-cars-to-self-taught-software-engineer-dorian-develops-podcast-147/"/>
-        <updated>2024-10-25T15:17:30.000Z</updated>
-        <summary type="html"><![CDATA[On this week's episode of the podcast, I interview Dorian Develops. He's a software engineer and prolific YouTube creator. Dorian grew up in the Little Havana neighborhood of Miami. He's the child of a single mother that arrived as a refugee from Cub...]]></summary>
-        <author>
-            <name>Quincy Larson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Come to the light-dark() Side]]></title>
-        <id>https://css-tricks.com/?p=382039</id>
-        <link href="https://css-tricks.com/come-to-the-light-dark-side/"/>
-        <updated>2024-10-25T14:08:20.000Z</updated>
-        <summary type="html"><![CDATA[You’d be forgiven for thinking coding up both a dark and a light mode at once is a lot of work. You have to remember @media queries based on prefers-color-scheme as well as extra complications that arise when letting visitors …
-Come to the light-dark() Side originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Sara Joy</name>
         </author>
     </entry>
 </feed>
