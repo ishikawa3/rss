@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-25T00:14:05.003Z</updated>
+    <updated>2024-11-26T00:13:34.462Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Alt Text: Not Always Needed]]></title>
+        <id>https://css-tricks.com/?p=382593</id>
+        <link href="https://css-tricks.com/alt-text-not-always-needed/"/>
+        <updated>2024-11-25T15:23:39.000Z</updated>
+        <summary type="html"><![CDATA[Most images require description for clarity, there are exceptions. This set of notes looks at different situations and contexts where alt text may not be needed and what to do in those cases.
+Alt Text: Not Always Needed originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Implement RBAC in a Community Dashboard with Nuxt]]></title>
         <id>6740bf4cd3bb67c73837c3ef</id>
