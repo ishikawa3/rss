@@ -12,6 +12,21 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=382697",
+          "author": "Scott Fennell",
+          "description": "What's it look like to create a dashboard within the WordPress admin for analyzing Google Analytics data across 900 blogs across 25 multisite instances? It involves designing a user-friendly interface, leveraging the WordPress REST API, implementing a plugin for data retrieval, and addressing challenges like rate limits and authentication.\nWordPress Multi-Multisite: A Case Study originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/wordpress-multi-multisite-a-case-study/",
+          "publishedOn": "2024-11-27T16:09:14.000Z",
+          "wordCount": 5785,
+          "title": "WordPress Multi-Multisite: A Case Study",
+          "enclosure": {
+            "url": "https://css-tricks.com/wp-content/uploads/2024/11/2b6LXlN.mp4",
+            "length": "783997",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2024/11/wp-multisite.jpg"
+        },
+        {
           "id": "https://css-tricks.com/?p=382773",
           "author": "Ryan Trimble",
           "description": "Adam Argyle wraps up the search for a CSS logo, check out CSS' new look!\nFollow Up: We Officially Have a CSS Logo! originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -149,6 +164,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2024/11/the-hype-around-signals/",
+          "author": "hello@smashingmagazine.com (Atila Fassina)",
+          "description": "From KnockoutJS to modern UI libraries like SolidJS, Vue.js, and Svelte, signals revolutionized how we think about reactivity in UIs. Here’s a deep dive into their history and impact by Atila Fassina.",
+          "link": "https://smashingmagazine.com/2024/11/the-hype-around-signals/",
+          "publishedOn": "2024-11-27T10:00:00.000Z",
+          "wordCount": 4227,
+          "title": "The Hype Around Signals",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/the-hype-around-signals/the-hype-around-signals.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/the-hype-around-signals/the-hype-around-signals.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2024/11/why-you-speak-events-early-career-professional/",
           "author": "hello@smashingmagazine.com (Victoria Nduka)",
           "description": "Many talented professionals hold back from speaking at tech events, believing they need years of experience or expert status first. Drawing from her experience as a first-time speaker at WordPress Accessibility Day 2024, Victoria Nduka discusses how speaking at events benefits both individuals and the tech community.",
@@ -275,6 +305,56 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "674755a7cc41aab7422d5afb",
+          "author": "Mihail Gaberov",
+          "description": "Recently, while watching my kid 🧒🏻 playing free memory games on her tablet, I noticed her struggling with an overwhelming number of ads and annoying pop-up banners. This inspired me to build a similar game for her. Since she's currently into anime,...",
+          "link": "https://www.freecodecamp.org/news/how-to-build-a-memory-card-game-using-react/",
+          "publishedOn": "2024-11-27T17:23:51.000Z",
+          "wordCount": 4499,
+          "title": "How to Build a Memory Card Game Using React",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1732517515517/1ddfb635-6188-492a-9216-4b35ffb92096.png"
+        },
+        {
+          "id": "674742bddd0689ed5ac84f80",
+          "author": "Beau Carnes",
+          "description": "Building modern, scalable web applications requires mastering the tools and patterns that power dynamic, production-ready platforms. Event-driven architecture is one of these patterns, enabling applications to efficiently handle real-time interaction...",
+          "link": "https://www.freecodecamp.org/news/learn-event-driven-architecture-by-building-a-saas-application/",
+          "publishedOn": "2024-11-27T16:03:09.000Z",
+          "wordCount": 1305,
+          "title": "Learn Event Driven Architecture by Building a SaaS Application",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1732723339763/00a52032-bb51-4b07-b666-7bc771e58395.jpeg"
+        },
+        {
+          "id": "67473fd3641b955d44e3795b",
+          "author": "Beau Carnes",
+          "description": "Learning React can feel challenging at first, especially when you're unsure of how to start or find yourself staring at an empty code editor. But the right course can help you understand the core concepts and help you gain practical experience by bui...",
+          "link": "https://www.freecodecamp.org/news/learn-react-2024/",
+          "publishedOn": "2024-11-27T15:50:43.000Z",
+          "wordCount": 1303,
+          "title": "Learn React from Bob Ziroll",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1732722597387/3673fe55-8729-41b5-8517-f59d2e5d9fb8.jpeg"
+        },
+        {
+          "id": "67472c4bfc3f1e96f2028a30",
+          "author": "Manish Shivanandhan",
+          "description": "When learning about cybersecurity, you’ll quickly realize that some vulnerabilities are more dangerous than others. One of the most serious ones is called command execution.  Hackers use it to run harmful commands on a system, gain access to sensitiv...",
+          "link": "https://www.freecodecamp.org/news/how-hackers-use-command-execution-to-break-into-systems/",
+          "publishedOn": "2024-11-27T14:27:23.000Z",
+          "wordCount": 1837,
+          "title": "How Hackers Use Command Execution to Break Into Systems",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1732527958866/65644a19-376f-480b-a46e-d5f204ce9515.jpeg"
+        },
+        {
+          "id": "6747274cb7666002fd1cb1a6",
+          "author": "Orim Dominic Adah",
+          "description": "Database migrations are modifications made to a database. These modifications may include changing the schema of a table, updating the data in a set of records, seeding data or deleting a range of records. Database migrations are usually run before a...",
+          "link": "https://www.freecodecamp.org/news/handle-mongodb-migrations-with-ts-migrate-mongoose/",
+          "publishedOn": "2024-11-27T14:06:04.000Z",
+          "wordCount": 2413,
+          "title": "How to Handle MongoDB Migrations with ts-migrate-mongoose",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1732615343335/0a1b3e5e-bfa7-4f57-81a7-7f4bac9e8b0a.png"
+        },
         {
           "id": "67462204c9e1cbc5414b4e0c",
           "author": "Kedar Makode",
@@ -874,36 +954,6 @@
           "wordCount": 5169,
           "title": "How to Improve and and Restructure Your Codebase with AI Tools & Version Control",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1730194934749/feb606d0-bbbd-43ae-a58c-5932d8c2d76c.png"
-        },
-        {
-          "id": "671fdfa416219baf5b89e52a",
-          "author": "Manish Shivanandhan",
-          "description": "Welcome to the world of Open-Source Intelligence (OSINT). OSINT is all about gathering public information from various online sources. OSINT can come from social media, websites, search engines, and even public databases. You’d be surprised at how mu...",
-          "link": "https://www.freecodecamp.org/news/tools-for-open-source-intelligence-gathering/",
-          "publishedOn": "2024-10-28T19:01:56.000Z",
-          "wordCount": 1921,
-          "title": "Tools You Can Use for Open Source Intelligence (OSINT) Gathering",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1730102596033/092e5f4f-638a-437f-923f-89fba4185a61.jpeg"
-        },
-        {
-          "id": "671fc26234113ef3b02f6bf3",
-          "author": "Quincy Larson",
-          "description": "10 years ago today I sat down in the closet of my San Francisco apartment and coded the first few hundred lines of freeCodeCamp. I didn't know it at the time, but fCC would quickly grow into a global community of busy adults learning to code togethe...",
-          "link": "https://www.freecodecamp.org/news/freecodecamp-turns-10-major-curriculum-updates/",
-          "publishedOn": "2024-10-28T16:57:06.000Z",
-          "wordCount": 3280,
-          "title": "freeCodeCamp Turns 10 + Major Certification Updates",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1730133354055/767f41f9-70e6-4e1c-b0d5-1927a925c9cc.png"
-        },
-        {
-          "id": "671f94819cd90a859ae00b55",
-          "author": "Anant Chowdhary",
-          "description": "Reliable systems consistently perform their intended functions under various conditions while minimizing downtime and failures. As internet users, we tend to take for granted that the systems that we use daily will operate reliably. In this article, ...",
-          "link": "https://www.freecodecamp.org/news/how-message-queues-make-distributed-systems-more-reliable/",
-          "publishedOn": "2024-10-28T13:41:21.000Z",
-          "wordCount": 3369,
-          "title": "How Message Queues Help Make Distributed Systems More Reliable",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1729895479626/5d476c5d-9749-4c2a-977b-bcdd8b2b8199.jpeg"
         }
       ]
     }

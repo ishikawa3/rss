@@ -2,10 +2,81 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-27T00:13:44.203Z</updated>
+    <updated>2024-11-28T00:13:52.983Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Memory Card Game Using React]]></title>
+        <id>674755a7cc41aab7422d5afb</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-a-memory-card-game-using-react/"/>
+        <updated>2024-11-27T17:23:51.000Z</updated>
+        <summary type="html"><![CDATA[Recently, while watching my kid 🧒🏻 playing free memory games on her tablet, I noticed her struggling with an overwhelming number of ads and annoying pop-up banners. This inspired me to build a similar game for her. Since she's currently into anime,...]]></summary>
+        <author>
+            <name>Mihail Gaberov</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WordPress Multi-Multisite: A Case Study]]></title>
+        <id>https://css-tricks.com/?p=382697</id>
+        <link href="https://css-tricks.com/wordpress-multi-multisite-a-case-study/"/>
+        <updated>2024-11-27T16:09:14.000Z</updated>
+        <summary type="html"><![CDATA[What's it look like to create a dashboard within the WordPress admin for analyzing Google Analytics data across 900 blogs across 25 multisite instances? It involves designing a user-friendly interface, leveraging the WordPress REST API, implementing a plugin for data retrieval, and addressing challenges like rate limits and authentication.
+WordPress Multi-Multisite: A Case Study originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Scott Fennell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn Event Driven Architecture by Building a SaaS Application]]></title>
+        <id>674742bddd0689ed5ac84f80</id>
+        <link href="https://www.freecodecamp.org/news/learn-event-driven-architecture-by-building-a-saas-application/"/>
+        <updated>2024-11-27T16:03:09.000Z</updated>
+        <summary type="html"><![CDATA[Building modern, scalable web applications requires mastering the tools and patterns that power dynamic, production-ready platforms. Event-driven architecture is one of these patterns, enabling applications to efficiently handle real-time interaction...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn React from Bob Ziroll]]></title>
+        <id>67473fd3641b955d44e3795b</id>
+        <link href="https://www.freecodecamp.org/news/learn-react-2024/"/>
+        <updated>2024-11-27T15:50:43.000Z</updated>
+        <summary type="html"><![CDATA[Learning React can feel challenging at first, especially when you're unsure of how to start or find yourself staring at an empty code editor. But the right course can help you understand the core concepts and help you gain practical experience by bui...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Hackers Use Command Execution to Break Into Systems]]></title>
+        <id>67472c4bfc3f1e96f2028a30</id>
+        <link href="https://www.freecodecamp.org/news/how-hackers-use-command-execution-to-break-into-systems/"/>
+        <updated>2024-11-27T14:27:23.000Z</updated>
+        <summary type="html"><![CDATA[When learning about cybersecurity, you’ll quickly realize that some vulnerabilities are more dangerous than others. One of the most serious ones is called command execution.  Hackers use it to run harmful commands on a system, gain access to sensitiv...]]></summary>
+        <author>
+            <name>Manish Shivanandhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Handle MongoDB Migrations with ts-migrate-mongoose]]></title>
+        <id>6747274cb7666002fd1cb1a6</id>
+        <link href="https://www.freecodecamp.org/news/handle-mongodb-migrations-with-ts-migrate-mongoose/"/>
+        <updated>2024-11-27T14:06:04.000Z</updated>
+        <summary type="html"><![CDATA[Database migrations are modifications made to a database. These modifications may include changing the schema of a table, updating the data in a set of records, seeding data or deleting a range of records. Database migrations are usually run before a...]]></summary>
+        <author>
+            <name>Orim Dominic Adah</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Hype Around Signals]]></title>
+        <id>https://smashingmagazine.com/2024/11/the-hype-around-signals/</id>
+        <link href="https://smashingmagazine.com/2024/11/the-hype-around-signals/"/>
+        <updated>2024-11-27T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[From KnockoutJS to modern UI libraries like SolidJS, Vue.js, and Svelte, signals revolutionized how we think about reactivity in UIs. Here’s a deep dive into their history and impact by Atila Fassina.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Atila Fassina)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AWS EC2: How to Quickly Host Your Website with User Data Scripts]]></title>
         <id>67462204c9e1cbc5414b4e0c</id>
@@ -831,36 +902,6 @@ State of CSS 2024 Results originally published on CSS-Tricks, which is part of t
 Tooltip Best Practices originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Zell Liew</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tools You Can Use for Open Source Intelligence (OSINT) Gathering]]></title>
-        <id>671fdfa416219baf5b89e52a</id>
-        <link href="https://www.freecodecamp.org/news/tools-for-open-source-intelligence-gathering/"/>
-        <updated>2024-10-28T19:01:56.000Z</updated>
-        <summary type="html"><![CDATA[Welcome to the world of Open-Source Intelligence (OSINT). OSINT is all about gathering public information from various online sources. OSINT can come from social media, websites, search engines, and even public databases. You’d be surprised at how mu...]]></summary>
-        <author>
-            <name>Manish Shivanandhan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[freeCodeCamp Turns 10 + Major Certification Updates]]></title>
-        <id>671fc26234113ef3b02f6bf3</id>
-        <link href="https://www.freecodecamp.org/news/freecodecamp-turns-10-major-curriculum-updates/"/>
-        <updated>2024-10-28T16:57:06.000Z</updated>
-        <summary type="html"><![CDATA[10 years ago today I sat down in the closet of my San Francisco apartment and coded the first few hundred lines of freeCodeCamp. I didn't know it at the time, but fCC would quickly grow into a global community of busy adults learning to code togethe...]]></summary>
-        <author>
-            <name>Quincy Larson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Message Queues Help Make Distributed Systems More Reliable]]></title>
-        <id>671f94819cd90a859ae00b55</id>
-        <link href="https://www.freecodecamp.org/news/how-message-queues-make-distributed-systems-more-reliable/"/>
-        <updated>2024-10-28T13:41:21.000Z</updated>
-        <summary type="html"><![CDATA[Reliable systems consistently perform their intended functions under various conditions while minimizing downtime and failures. As internet users, we tend to take for granted that the systems that we use daily will operate reliably. In this article, ...]]></summary>
-        <author>
-            <name>Anant Chowdhary</name>
         </author>
     </entry>
 </feed>
