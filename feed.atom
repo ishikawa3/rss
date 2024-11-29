@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-28T00:13:52.983Z</updated>
+    <updated>2024-11-29T00:13:49.499Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The Microservices Book – Learn How to Build and Manage Services in the Cloud]]></title>
+        <id>67488780f60a357b6cecd459</id>
+        <link href="https://www.freecodecamp.org/news/the-microservices-book-build-and-manage-services-in-the-cloud/"/>
+        <updated>2024-11-28T15:08:48.000Z</updated>
+        <summary type="html"><![CDATA[In today’s fast-paced tech landscape, microservices have emerged as one of the most efficient ways to architect and manage scalable, flexible, and resilient cloud-based systems. Whether you're working with large-scale applications or building somethi...]]></summary>
+        <author>
+            <name>Adekola Olawale</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Build a Memory Card Game Using React]]></title>
         <id>674755a7cc41aab7422d5afb</id>
@@ -851,57 +861,6 @@ State of CSS 2024 Results originally published on CSS-Tricks, which is part of t
         <summary type="html"><![CDATA[The console object is the number one go-to for developers when working with buggy JavaScript code. But if you still rely heavily on the console object alone to debug your JavaScript, then you're missing out on some amazing browser developer tools fea...]]></summary>
         <author>
             <name>Kolade Chris</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Designing For Gen Z: Expectations And UX Guidelines]]></title>
-        <id>https://smashingmagazine.com/2024/10/designing-for-gen-z/</id>
-        <link href="https://smashingmagazine.com/2024/10/designing-for-gen-z/"/>
-        <updated>2024-10-30T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[There are many myths revolving around Gen Z and how they use tech. Time to take a look at actual behavior patterns that go beyond heavy use of social media. Part of [Smart Interface Design Patterns](https://smart-interface-design-patterns.com) by yours truly.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What are Smart Pointers in Rust? Explained with Code Examples]]></title>
-        <id>6721aeb8d9c3d37db41183a6</id>
-        <link href="https://www.freecodecamp.org/news/smart-pointers-in-rust-with-code-examples/"/>
-        <updated>2024-10-30T03:57:44.000Z</updated>
-        <summary type="html"><![CDATA[Smart pointers are data structures that act like pointers but contain extra information and have functionalities that make them excel over regular pointers in certain situations. So what are regular pointers? Regular pointers (just called “pointers”)...]]></summary>
-        <author>
-            <name>Oduah Chigozie</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Merge Multiple Google Docs into One Using Apps Script or the Google Docs API]]></title>
-        <id>672103feae01d783da13018b</id>
-        <link href="https://www.freecodecamp.org/news/merge-multiple-google-docs-with-apps-script-or-google-docs-api/"/>
-        <updated>2024-10-29T15:49:18.000Z</updated>
-        <summary type="html"><![CDATA[Merging multiple Google Docs into a single document is often essential for compiling reports, gathering information from various sources, or creating unified documents for presentations or sharing. By combining multiple files into one, users can keep...]]></summary>
-        <author>
-            <name>Vikram Aruchamy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Improve and and Restructure Your Codebase with AI Tools & Version Control]]></title>
-        <id>6720f7fb2e452955f9433899</id>
-        <link href="https://www.freecodecamp.org/news/improve-and-restructure-codebase-with-ai-tools/"/>
-        <updated>2024-10-29T14:58:03.000Z</updated>
-        <summary type="html"><![CDATA[A codebase can become messy and hard to manage over time. This happens because of quick fixes, outdated features, or just not enough time to clean things up. When code becomes difficult to read or change, it slows down progress and can even cause bug...]]></summary>
-        <author>
-            <name>Oluwadamisi Samuel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tooltip Best Practices]]></title>
-        <id>https://css-tricks.com/?p=382082</id>
-        <link href="https://css-tricks.com/tooltip-best-practices/"/>
-        <updated>2024-10-29T14:01:18.000Z</updated>
-        <summary type="html"><![CDATA[What are tooltips, exactly? There's two kinds and the one you use has implications on the user experience, as Zell illustrates in this explainer on best practices.
-Tooltip Best Practices originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Zell Liew</name>
         </author>
     </entry>
 </feed>
