@@ -879,36 +879,6 @@
           "wordCount": 1509,
           "title": "Learn Generative AI for Developers",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1730389134951/ded0d27f-ffba-4f33-aa77-cce2eb4a28e0.png"
-        },
-        {
-          "id": "6722f316b717c1a9c6f35b34",
-          "author": "Grant Riordan",
-          "description": "Extension methods are a fundamental part of C# and Object Oriented Programming (OOP). Extension methods in C# allow you to \"extend\" existing types, including classes, interfaces, or structs, without modifying their original code. This is particularly...",
-          "link": "https://www.freecodecamp.org/news/how-to-write-extension-methods-in-csharp/",
-          "publishedOn": "2024-10-31T03:01:42.000Z",
-          "wordCount": 3051,
-          "title": "How to Write Extension Methods in C#",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1730322390431/42cfe64d-0fce-4f36-a4f7-25e1e56267a4.png"
-        },
-        {
-          "id": "67228665c48a2523d1dedb0a",
-          "author": "Md. Fahim Bin Amin",
-          "description": "If you're an avid Facebook user, you've probably saved countless posts, videos, and links to revisit later. But sometimes, these saved posts accumulate and become overwhelming. You may decide to un-save them all at once rather than manually uncheckin...",
-          "link": "https://www.freecodecamp.org/news/remove-all-saved-posts-from-facebook-using-javascript/",
-          "publishedOn": "2024-10-30T19:17:57.000Z",
-          "wordCount": 1568,
-          "title": "How to Remove All Saved Posts from Facebook Using JavaScript",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/PTiQqAKzbmM/upload/94f3490edcd662844a0bf56f2e6b0ce2.jpeg"
-        },
-        {
-          "id": "67224a271058ad4196106527",
-          "author": "Kolade Chris",
-          "description": "The console object is the number one go-to for developers when working with buggy JavaScript code. But if you still rely heavily on the console object alone to debug your JavaScript, then you're missing out on some amazing browser developer tools fea...",
-          "link": "https://www.freecodecamp.org/news/how-to-use-developer-tools-to-debug-javascript-in-the-browser/",
-          "publishedOn": "2024-10-30T15:00:55.000Z",
-          "wordCount": 2366,
-          "title": "How to Use Developer Tools to Debug JavaScript in the Browser",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/gTs2w7bu3Qo/upload/f2ead89e25e967947691c8e4a1f8f862.jpeg"
         }
       ]
     }

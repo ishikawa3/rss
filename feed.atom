@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-29T00:13:49.499Z</updated>
+    <updated>2024-11-30T00:13:13.579Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
@@ -823,26 +823,6 @@ Web-Slinger.css: Like Wow.js But With CSS-y Scroll Animations originally publish
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Write Extension Methods in C#]]></title>
-        <id>6722f316b717c1a9c6f35b34</id>
-        <link href="https://www.freecodecamp.org/news/how-to-write-extension-methods-in-csharp/"/>
-        <updated>2024-10-31T03:01:42.000Z</updated>
-        <summary type="html"><![CDATA[Extension methods are a fundamental part of C# and Object Oriented Programming (OOP). Extension methods in C# allow you to "extend" existing types, including classes, interfaces, or structs, without modifying their original code. This is particularly...]]></summary>
-        <author>
-            <name>Grant Riordan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Remove All Saved Posts from Facebook Using JavaScript]]></title>
-        <id>67228665c48a2523d1dedb0a</id>
-        <link href="https://www.freecodecamp.org/news/remove-all-saved-posts-from-facebook-using-javascript/"/>
-        <updated>2024-10-30T19:17:57.000Z</updated>
-        <summary type="html"><![CDATA[If you're an avid Facebook user, you've probably saved countless posts, videos, and links to revisit later. But sometimes, these saved posts accumulate and become overwhelming. You may decide to un-save them all at once rather than manually uncheckin...]]></summary>
-        <author>
-            <name>Md. Fahim Bin Amin</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[State of CSS 2024 Results]]></title>
         <id>https://css-tricks.com/?p=382144</id>
         <link href="https://css-tricks.com/state-of-css-2024-results/"/>
@@ -851,16 +831,6 @@ Web-Slinger.css: Like Wow.js But With CSS-y Scroll Animations originally publish
 State of CSS 2024 Results originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use Developer Tools to Debug JavaScript in the Browser]]></title>
-        <id>67224a271058ad4196106527</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-developer-tools-to-debug-javascript-in-the-browser/"/>
-        <updated>2024-10-30T15:00:55.000Z</updated>
-        <summary type="html"><![CDATA[The console object is the number one go-to for developers when working with buggy JavaScript code. But if you still rely heavily on the console object alone to debug your JavaScript, then you're missing out on some amazing browser developer tools fea...]]></summary>
-        <author>
-            <name>Kolade Chris</name>
         </author>
     </entry>
 </feed>
