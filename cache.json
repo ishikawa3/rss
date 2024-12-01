@@ -135,16 +135,6 @@
           "wordCount": 2683,
           "title": "Web-Slinger.css: Like Wow.js But With CSS-y Scroll Animations",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/382156"
-        },
-        {
-          "id": "https://css-tricks.com/?p=382144",
-          "author": "Geoff Graham",
-          "description": "The results from this year's survey are fairly fresh off the presses. We took a little time to sit with them and jot down some things we noticed and found interesting.\nState of CSS 2024 Results originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/state-of-css-2024-results/",
-          "publishedOn": "2024-10-30T16:43:55.000Z",
-          "wordCount": 2964,
-          "title": "State of CSS 2024 Results",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/382144"
         }
       ]
     },
@@ -153,6 +143,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2024/11/desktop-wallpaper-calendars-december-2024/",
+          "author": "hello@smashingmagazine.com (Cosima Mielke)",
+          "description": "December is almost here, and that means: It’s time for some new desktop wallpapers! Created with love by creatives from all around the world, they are bound to lighten up the last few weeks of the year and, who knows, maybe even spark new ideas. Enjoy!",
+          "link": "https://smashingmagazine.com/2024/11/desktop-wallpaper-calendars-december-2024/",
+          "publishedOn": "2024-11-30T09:00:00.000Z",
+          "wordCount": 4642,
+          "title": "Dreaming Of Miracles (December 2024 Wallpapers Edition)",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-december-2024/dec-24-paws-itively-festive-preview-opt.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "http://files.smashing.media/articles/desktop-wallpaper-calendars-december-2024/dec-24-paws-itively-festive-preview-opt.png"
+        },
         {
           "id": "https://smashingmagazine.com/2024/11/the-hype-around-signals/",
           "author": "hello@smashingmagazine.com (Atila Fassina)",
@@ -257,21 +262,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/why-optimizing-lighthouse-score-not-enough-fast-website/why-optimizing-lighthouse-score-not-enough-fast-website.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2024/10/desktop-wallpaper-calendars-november-2024/",
-          "author": "hello@smashingmagazine.com (Cosima Mielke)",
-          "description": "November is just around the corner and that means: It’s time for some new desktop wallpapers! Created with love by the community for the community, they are available in versions with and without a calendar. Enjoy!",
-          "link": "https://smashingmagazine.com/2024/10/desktop-wallpaper-calendars-november-2024/",
-          "publishedOn": "2024-10-31T14:00:00.000Z",
-          "wordCount": 5211,
-          "title": "Ingredients For A Cozy November (2024 Wallpapers Edition)",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-november-2024/nov-24-honoring-the-sound-of-jazz-and-soul-preview-opt.png",
-            "length": "0",
-            "type": "image/png"
-          },
-          "imageUrl": "http://files.smashing.media/articles/desktop-wallpaper-calendars-november-2024/nov-24-honoring-the-sound-of-jazz-and-soul-preview-opt.png"
         }
       ]
     },
@@ -859,26 +849,6 @@
           "wordCount": 1214,
           "title": "Open Source is WILD. The craziest things The Changelog has seen in 15 years. [Podcast #148]",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1730482941201/5f5f727f-5676-42ba-a17a-dc973e8b818a.png"
-        },
-        {
-          "id": "6723aaab6ac0ce6c240da454",
-          "author": "Manish Shivanandhan",
-          "description": "Cybersecurity remains one of the fastest-growing fields today, and for a good reason. The need for skilled cyber defenders grows as our lives and businesses go ever more digital. A cybersecurity certification can help you boost your skills and demons...",
-          "link": "https://www.freecodecamp.org/news/top-cybersecurity-certifications-for-devs/",
-          "publishedOn": "2024-10-31T16:04:59.000Z",
-          "wordCount": 2202,
-          "title": "Top Cybersecurity Certifications You Should Know About as a Developer",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1730345266064/3beca7ae-38c1-41f5-a5f6-c3ebd16827b0.png"
-        },
-        {
-          "id": "6723a4a233e12497593c1eae",
-          "author": "Beau Carnes",
-          "description": "Generative AI is reshaping the landscape of artificial intelligence, allowing machines to create text, images, audio, and even answer questions in natural language. But understanding the entire end-to-end process can be complex without structured gui...",
-          "link": "https://www.freecodecamp.org/news/learn-generative-ai-for-developers/",
-          "publishedOn": "2024-10-31T15:39:14.000Z",
-          "wordCount": 1509,
-          "title": "Learn Generative AI for Developers",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1730389134951/ded0d27f-ffba-4f33-aa77-cce2eb4a28e0.png"
         }
       ]
     }

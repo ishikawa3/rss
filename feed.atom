@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-30T00:13:13.579Z</updated>
+    <updated>2024-12-01T00:16:33.842Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Dreaming Of Miracles (December 2024 Wallpapers Edition)]]></title>
+        <id>https://smashingmagazine.com/2024/11/desktop-wallpaper-calendars-december-2024/</id>
+        <link href="https://smashingmagazine.com/2024/11/desktop-wallpaper-calendars-december-2024/"/>
+        <updated>2024-11-30T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[December is almost here, and that means: It’s time for some new desktop wallpapers! Created with love by creatives from all around the world, they are bound to lighten up the last few weeks of the year and, who knows, maybe even spark new ideas. Enjoy!]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Microservices Book – Learn How to Build and Manage Services in the Cloud]]></title>
         <id>67488780f60a357b6cecd459</id>
@@ -790,47 +800,6 @@ Fluid Everything Else originally published on CSS-Tricks, which is part of the D
 Web-Slinger.css: Like Wow.js But With CSS-y Scroll Animations originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Lee Meyer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top Cybersecurity Certifications You Should Know About as a Developer]]></title>
-        <id>6723aaab6ac0ce6c240da454</id>
-        <link href="https://www.freecodecamp.org/news/top-cybersecurity-certifications-for-devs/"/>
-        <updated>2024-10-31T16:04:59.000Z</updated>
-        <summary type="html"><![CDATA[Cybersecurity remains one of the fastest-growing fields today, and for a good reason. The need for skilled cyber defenders grows as our lives and businesses go ever more digital. A cybersecurity certification can help you boost your skills and demons...]]></summary>
-        <author>
-            <name>Manish Shivanandhan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn Generative AI for Developers]]></title>
-        <id>6723a4a233e12497593c1eae</id>
-        <link href="https://www.freecodecamp.org/news/learn-generative-ai-for-developers/"/>
-        <updated>2024-10-31T15:39:14.000Z</updated>
-        <summary type="html"><![CDATA[Generative AI is reshaping the landscape of artificial intelligence, allowing machines to create text, images, audio, and even answer questions in natural language. But understanding the entire end-to-end process can be complex without structured gui...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ingredients For A Cozy November (2024 Wallpapers Edition)]]></title>
-        <id>https://smashingmagazine.com/2024/10/desktop-wallpaper-calendars-november-2024/</id>
-        <link href="https://smashingmagazine.com/2024/10/desktop-wallpaper-calendars-november-2024/"/>
-        <updated>2024-10-31T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[November is just around the corner and that means: It’s time for some new desktop wallpapers! Created with love by the community for the community, they are available in versions with and without a calendar. Enjoy!]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[State of CSS 2024 Results]]></title>
-        <id>https://css-tricks.com/?p=382144</id>
-        <link href="https://css-tricks.com/state-of-css-2024-results/"/>
-        <updated>2024-10-30T16:43:55.000Z</updated>
-        <summary type="html"><![CDATA[The results from this year's survey are fairly fresh off the presses. We took a little time to sit with them and jot down some things we noticed and found interesting.
-State of CSS 2024 Results originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
         </author>
     </entry>
 </feed>
