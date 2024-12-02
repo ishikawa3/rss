@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-01T00:16:33.842Z</updated>
+    <updated>2024-12-02T00:14:38.098Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
@@ -779,27 +779,6 @@ Fluid Everything Else originally published on CSS-Tricks, which is part of the D
         <summary type="html"><![CDATA[When you’re documenting an API reference, there are two main approaches you can follow. You can either use the manual approach of filling in the endpoints via a user interface, or organize a structured document containing all the necessary informatio...]]></summary>
         <author>
             <name>Onyeanuna Prince</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Open Source is WILD. The craziest things The Changelog has seen in 15 years. [Podcast #148]]]></title>
-        <id>67251331e678821a22a973f9</id>
-        <link href="https://www.freecodecamp.org/news/open-source-the-changelog-podcast-148/"/>
-        <updated>2024-11-01T17:43:13.000Z</updated>
-        <summary type="html"><![CDATA[On this week's episode of the podcast, I interview Adam Stachoviac and Jerod Santo, co-hosts of The Changelog – the longest-running software podcast in world. They interview devs about Open Source projects, and they also have a weekly news episode th...]]></summary>
-        <author>
-            <name>Quincy Larson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web-Slinger.css: Like Wow.js But With CSS-y Scroll Animations]]></title>
-        <id>https://css-tricks.com/?p=382156</id>
-        <link href="https://css-tricks.com/web-slinger-css-like-wow-js-but-with-css-y-scroll-animations/"/>
-        <updated>2024-11-01T14:00:36.000Z</updated>
-        <summary type="html"><![CDATA[Can we recreate a JavaScript library for scrolling animations with a modern CSS approach using CSS Scroll-Driven Animations? Yes. Yes, we can.
-Web-Slinger.css: Like Wow.js But With CSS-y Scroll Animations originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Lee Meyer</name>
         </author>
     </entry>
 </feed>
