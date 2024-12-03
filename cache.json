@@ -12,6 +12,21 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=382731",
+          "author": "Ryan Trimble",
+          "description": "We can anchor one element to another. We can also attach one element to multiple anchors. In this experiment, Ryan riffs on those ideas and comes up with a new way to transition between two anchors and the result is a practical use case that would normally require JavaScript.\nOne of Those “Onboarding” UIs, With Anchor Positioning originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/one-of-those-onboarding-uis-with-anchor-positioning/",
+          "publishedOn": "2024-12-02T14:02:13.000Z",
+          "wordCount": 5054,
+          "title": "One of Those “Onboarding” UIs, With Anchor Positioning",
+          "enclosure": {
+            "url": "https://css-tricks.com/wp-content/uploads/2024/11/anchor-view-driven-animation.mov",
+            "length": "7007669",
+            "type": "video/quicktime"
+          },
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2021/08/css-modules-connections.jpg"
+        },
+        {
           "id": "https://css-tricks.com/?p=382697",
           "author": "Scott Fennell",
           "description": "What's it look like to create a dashboard within the WordPress admin for analyzing Google Analytics data across 900 blogs across 25 multisite instances? It involves designing a user-friendly interface, leveraging the WordPress REST API, implementing a plugin for data retrieval, and addressing challenges like rate limits and authentication.\nWordPress Multi-Multisite: A Case Study originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -260,6 +275,16 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "674de68794b89afe5676934e",
+          "author": "Isaiah Clifford Opoku",
+          "description": "Minimal APIs are an exciting feature introduced in .NET 6, designed to revolutionize how you create APIs. Imagine building robust APIs with minimal code and zero boilerplate—no more wrestling with controllers, routing, or middleware. That’s what mini...",
+          "link": "https://www.freecodecamp.org/news/create-a-minimal-api-in-net-core-handbook/",
+          "publishedOn": "2024-12-02T16:55:35.000Z",
+          "wordCount": 10605,
+          "title": "How to Create a Minimal API in .NET Core – A Step By Step Handbook",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1733158500882/9af04a12-2121-4efd-a66f-00330896e358.png"
+        },
         {
           "id": "67488780f60a357b6cecd459",
           "author": "Adekola Olawale",

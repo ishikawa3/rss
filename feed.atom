@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-02T00:14:38.098Z</updated>
+    <updated>2024-12-03T00:15:03.572Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Create a Minimal API in .NET Core – A Step By Step Handbook]]></title>
+        <id>674de68794b89afe5676934e</id>
+        <link href="https://www.freecodecamp.org/news/create-a-minimal-api-in-net-core-handbook/"/>
+        <updated>2024-12-02T16:55:35.000Z</updated>
+        <summary type="html"><![CDATA[Minimal APIs are an exciting feature introduced in .NET 6, designed to revolutionize how you create APIs. Imagine building robust APIs with minimal code and zero boilerplate—no more wrestling with controllers, routing, or middleware. That’s what mini...]]></summary>
+        <author>
+            <name>Isaiah Clifford Opoku</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[One of Those “Onboarding” UIs, With Anchor Positioning]]></title>
+        <id>https://css-tricks.com/?p=382731</id>
+        <link href="https://css-tricks.com/one-of-those-onboarding-uis-with-anchor-positioning/"/>
+        <updated>2024-12-02T14:02:13.000Z</updated>
+        <summary type="html"><![CDATA[We can anchor one element to another. We can also attach one element to multiple anchors. In this experiment, Ryan riffs on those ideas and comes up with a new way to transition between two anchors and the result is a practical use case that would normally require JavaScript.
+One of Those “Onboarding” UIs, With Anchor Positioning originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Ryan Trimble</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Dreaming Of Miracles (December 2024 Wallpapers Edition)]]></title>
         <id>https://smashingmagazine.com/2024/11/desktop-wallpaper-calendars-december-2024/</id>
