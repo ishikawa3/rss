@@ -149,6 +149,36 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2024/12/bundle-up-and-save/",
+          "author": "hello@smashingmagazine.com (The Smashing Team)",
+          "description": "It’s the end of the year, and as we look at our inventory, we thought, “Let’s help everyone in our community get ready for the year ahead!” Get friendly pricing on bundles of books and workshops to dive deep into the subjects you care about most. Let’s bundle up and save!",
+          "link": "https://smashingmagazine.com/2024/12/bundle-up-and-save/",
+          "publishedOn": "2024-12-03T12:00:00.000Z",
+          "wordCount": 3704,
+          "title": "Bundle Up And Save On Smashing Books And Workshops",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/bundle-up/bundle-30-magazine-opt.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "http://files.smashing.media/articles/bundle-up/bundle-30-magazine-opt.png"
+        },
+        {
+          "id": "https://smashingmagazine.com/2024/12/creating-effective-multistep-form-better-user-experience/",
+          "author": "hello@smashingmagazine.com (Amejimaobari Ollornwi)",
+          "description": "Forms are already notoriously tough to customize and style — to the extent that we’re already starting to see new ideas for more flexible control. But what we don’t often discuss is designing good-form experiences beyond validation. That’s what Jima Victor discusses in this article, focusing specifically on creating multi-step forms that involve navigation between sections.",
+          "link": "https://smashingmagazine.com/2024/12/creating-effective-multistep-form-better-user-experience/",
+          "publishedOn": "2024-12-03T10:00:00.000Z",
+          "wordCount": 5222,
+          "title": "Creating An Effective Multistep Form For Better User Experience",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/creating-effective-multistep-form-better-user-experience/creating-effective-multistep-form-better-user-experience.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/creating-effective-multistep-form-better-user-experience/creating-effective-multistep-form-better-user-experience.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2024/11/desktop-wallpaper-calendars-december-2024/",
           "author": "hello@smashingmagazine.com (Cosima Mielke)",
           "description": "December is almost here, and that means: It’s time for some new desktop wallpapers! Created with love by creatives from all around the world, they are bound to lighten up the last few weeks of the year and, who knows, maybe even spark new ideas. Enjoy!",
@@ -275,6 +305,36 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "674f6a16678426d72d800cd5",
+          "author": "Ankur Tyagi",
+          "description": "Okay, I know you may be skeptical: other guides have promised painless code reviews only to reveal that their solution requires some hyper-specific tech stack or a paid developer tool. I won’t do that to you. This guide provides a straightforward and...",
+          "link": "https://www.freecodecamp.org/news/how-to-perform-code-reviews-in-tech-the-painless-way/",
+          "publishedOn": "2024-12-03T20:29:10.000Z",
+          "wordCount": 3187,
+          "title": "How to Perform Code Reviews in Tech – The Painless Way",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1733242289474/def1a314-fe64-448b-9236-f66a529e3f13.png"
+        },
+        {
+          "id": "674f49768f5b31d71eee8f9a",
+          "author": "Beau Carnes",
+          "description": "Spreadsheets are important for modern data management, analysis, and organization. Whether you're tracking personal finances, managing a business, or conducting advanced data analysis, spreadsheets offer a versatile platform for countless tasks. Amon...",
+          "link": "https://www.freecodecamp.org/news/learn-google-sheets-course-for-beginners/",
+          "publishedOn": "2024-12-03T18:09:58.000Z",
+          "wordCount": 1309,
+          "title": "Learn Google Sheets – Course for Beginners",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1733249376070/af3b622d-ff58-446a-ae47-b4dcac71cffe.jpeg"
+        },
+        {
+          "id": "674f227adf280a40b7047b7f",
+          "author": "Abhijeet Dave",
+          "description": "In this digital world, it’s important for your applications to have a smooth and secure authentication process. This helps improve user experience and the overall security of your apps. Google Authentication is among the most trusted and convenient w...",
+          "link": "https://www.freecodecamp.org/news/how-to-set-up-google-auth-in-laravel-apps/",
+          "publishedOn": "2024-12-03T15:23:38.000Z",
+          "wordCount": 2542,
+          "title": "How to Set Up Google Authentication in Laravel Applications",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1732711351776/931a1ade-e652-4a0b-a16e-925482128fc0.png"
+        },
         {
           "id": "674de68794b89afe5676934e",
           "author": "Isaiah Clifford Opoku",

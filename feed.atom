@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-03T00:15:03.572Z</updated>
+    <updated>2024-12-04T00:14:03.763Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Perform Code Reviews in Tech – The Painless Way]]></title>
+        <id>674f6a16678426d72d800cd5</id>
+        <link href="https://www.freecodecamp.org/news/how-to-perform-code-reviews-in-tech-the-painless-way/"/>
+        <updated>2024-12-03T20:29:10.000Z</updated>
+        <summary type="html"><![CDATA[Okay, I know you may be skeptical: other guides have promised painless code reviews only to reveal that their solution requires some hyper-specific tech stack or a paid developer tool. I won’t do that to you. This guide provides a straightforward and...]]></summary>
+        <author>
+            <name>Ankur Tyagi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn Google Sheets – Course for Beginners]]></title>
+        <id>674f49768f5b31d71eee8f9a</id>
+        <link href="https://www.freecodecamp.org/news/learn-google-sheets-course-for-beginners/"/>
+        <updated>2024-12-03T18:09:58.000Z</updated>
+        <summary type="html"><![CDATA[Spreadsheets are important for modern data management, analysis, and organization. Whether you're tracking personal finances, managing a business, or conducting advanced data analysis, spreadsheets offer a versatile platform for countless tasks. Amon...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Set Up Google Authentication in Laravel Applications]]></title>
+        <id>674f227adf280a40b7047b7f</id>
+        <link href="https://www.freecodecamp.org/news/how-to-set-up-google-auth-in-laravel-apps/"/>
+        <updated>2024-12-03T15:23:38.000Z</updated>
+        <summary type="html"><![CDATA[In this digital world, it’s important for your applications to have a smooth and secure authentication process. This helps improve user experience and the overall security of your apps. Google Authentication is among the most trusted and convenient w...]]></summary>
+        <author>
+            <name>Abhijeet Dave</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bundle Up And Save On Smashing Books And Workshops]]></title>
+        <id>https://smashingmagazine.com/2024/12/bundle-up-and-save/</id>
+        <link href="https://smashingmagazine.com/2024/12/bundle-up-and-save/"/>
+        <updated>2024-12-03T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[It’s the end of the year, and as we look at our inventory, we thought, “Let’s help everyone in our community get ready for the year ahead!” Get friendly pricing on bundles of books and workshops to dive deep into the subjects you care about most. Let’s bundle up and save!]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (The Smashing Team)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Creating An Effective Multistep Form For Better User Experience]]></title>
+        <id>https://smashingmagazine.com/2024/12/creating-effective-multistep-form-better-user-experience/</id>
+        <link href="https://smashingmagazine.com/2024/12/creating-effective-multistep-form-better-user-experience/"/>
+        <updated>2024-12-03T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Forms are already notoriously tough to customize and style — to the extent that we’re already starting to see new ideas for more flexible control. But what we don’t often discuss is designing good-form experiences beyond validation. That’s what Jima Victor discusses in this article, focusing specifically on creating multi-step forms that involve navigation between sections.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Amejimaobari Ollornwi)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Create a Minimal API in .NET Core – A Step By Step Handbook]]></title>
         <id>674de68794b89afe5676934e</id>
