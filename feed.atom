@@ -2,10 +2,81 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-04T00:14:03.763Z</updated>
+    <updated>2024-12-05T00:14:10.960Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Contribute to Open Source Projects as a Beginner]]></title>
+        <id>6750bb3aa3b6f30029afad23</id>
+        <link href="https://www.freecodecamp.org/news/how-to-contribute-to-open-source-projects-as-a-beginner/"/>
+        <updated>2024-12-04T20:27:38.000Z</updated>
+        <summary type="html"><![CDATA[Recently, I attended an open-source summit and was struck by an unexpected revelation. During a panel discussion about community contributions, a question was posed to the audience: “How many of you have contributed to an open-source project before?”...]]></summary>
+        <author>
+            <name>Fanny Nyayic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Next.js vs React – Differences and How to Choose the Right One for Your Project]]></title>
+        <id>6750b8d54a1773ff14ce07cd</id>
+        <link href="https://www.freecodecamp.org/news/nextjs-vs-react-differences/"/>
+        <updated>2024-12-04T20:17:25.000Z</updated>
+        <summary type="html"><![CDATA[As a developer, there are many tools, languages, frameworks and open-source packages you have to learn in order to make your job easier and straightforward (though the journey isn’t a straightforward one but you will get there). Some of these tools, ...]]></summary>
+        <author>
+            <name>Okoro Emmanuel Nzube</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build Multilingual Apps with i18n in React]]></title>
+        <id>6750aec5bb4ed9c12f206d7d</id>
+        <link href="https://www.freecodecamp.org/news/build-multilingual-apps-with-i18n-in-react/"/>
+        <updated>2024-12-04T19:34:29.000Z</updated>
+        <summary type="html"><![CDATA[I recently worked on an exciting project that involved creating a website capable of switching between languages to appeal to a broader audience. This made me understand the concept of "localization" better, which typically entails adapting content t...]]></summary>
+        <author>
+            <name>Timilehin Micheal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Write Code That's Easy to Read – Tips for Developers]]></title>
+        <id>675098030c45d94ee71d4e04</id>
+        <link href="https://www.freecodecamp.org/news/how-to-write-code-thats-easy-to-read/"/>
+        <updated>2024-12-04T17:57:23.000Z</updated>
+        <summary type="html"><![CDATA[Programs are meant to be read by humans and only incidentally for computers to execute. - Donald Knuth Have you ever heard that programmers spend more time reading code than writing it? Well, I’ve found that this is often true: as a developer, you’l...]]></summary>
+        <author>
+            <name>Orim Dominic Adah</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Write Better Names for Your Variables, Functions, and Classes – With Examples]]></title>
+        <id>6750922cfe6f3f72caf2624a</id>
+        <link href="https://www.freecodecamp.org/news/how-to-write-better-variable-names/"/>
+        <updated>2024-12-04T17:32:28.000Z</updated>
+        <summary type="html"><![CDATA[Naming is one of the most important and challenging parts of writing clean, maintainable, and scalable code. A well-thought-out variable name, for example, can act as self-documenting code, saving time and effort in understanding the logic. But poorl...]]></summary>
+        <author>
+            <name>Asfak Ahmed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Law of Diminishing Returns]]></title>
+        <id>https://css-tricks.com/?p=382846</id>
+        <link href="https://css-tricks.com/the-law-of-diminishing-returns/"/>
+        <updated>2024-12-04T16:20:24.000Z</updated>
+        <summary type="html"><![CDATA[Striking the right balance can be tough. We don’t want cool mama bear's porridge or hot papa's bear porridge, but something right in the middle, like baby bear’s porridge.
+The Law of Diminishing Returns originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build a Stable Diffusion VAE From Scratch using Pytorch]]></title>
+        <id>67506cfb94f39e7617233d40</id>
+        <link href="https://www.freecodecamp.org/news/build-a-stable-diffusion-vae-from-scratch-using-pytorch/"/>
+        <updated>2024-12-04T14:53:47.000Z</updated>
+        <summary type="html"><![CDATA[We just published a course on the freeCodeCamp.org YouTube channel that will teach you everything you need to know about Variational Autoencoders (VAEs). This course is perfect for anyone looking to dive deep into one of the fundamental concepts behi...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Perform Code Reviews in Tech – The Painless Way]]></title>
         <id>674f6a16678426d72d800cd5</id>
@@ -788,68 +859,6 @@ Fluid Everything Else originally published on CSS-Tricks, which is part of the D
         <summary type="html"><![CDATA[Hey there! Have you ever thought about creating your own web server on the cloud? Well, you’re in for a treat because in this article, we’re going to explore how you can launch an EC2 instance and use HTTPD to host a simple web server. Don’t worry – ...]]></summary>
         <author>
             <name>Kedar Makode</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[API CRUD Course in Spanish – Learn Node.js, Express, MongoDB, and Authentication]]></title>
-        <id>672a09ff678d23ad0f6618bd</id>
-        <link href="https://www.freecodecamp.org/news/api-crud-course-in-spanish-learn-nodejs-express-mongodb-and-authentication/"/>
-        <updated>2024-11-05T12:05:19.000Z</updated>
-        <summary type="html"><![CDATA[CRUD operations are the foundation of back-end web development. CRUD stands for Create, Read, Update, and Delete. They are essential operations for modern web development because they are used to manage data in most web applications. We just publishe...]]></summary>
-        <author>
-            <name>Estefania Cassingena Navone</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Optimizing Your Lighthouse Score Is Not Enough For A Fast Website]]></title>
-        <id>https://smashingmagazine.com/2024/11/why-optimizing-lighthouse-score-not-enough-fast-website/</id>
-        <link href="https://smashingmagazine.com/2024/11/why-optimizing-lighthouse-score-not-enough-fast-website/"/>
-        <updated>2024-11-05T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Feeling good with your Lighthouse score of 100%? You should! But you should also know that you’re only looking at part of the performance picture. Learn how Lighthouse scores are measured differently than other tools, the impact that has on measuring performance metrics, and why you need real-user monitoring for a complete picture.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Geoff Graham)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Fuzz Test Golang HTTP Services]]></title>
-        <id>672941e6066de072ede39685</id>
-        <link href="https://www.freecodecamp.org/news/how-to-fuzz-test-golang-http-services/"/>
-        <updated>2024-11-04T21:51:34.000Z</updated>
-        <summary type="html"><![CDATA[As a developer, you can’t always envision all of the possible inputs your programs or functions might receive. Even though you can define the major edge cases, you still can’t predict how your program will behave in the case of some weird unexpected ...]]></summary>
-        <author>
-            <name>Alex Pliutau</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Become an Open Source Master]]></title>
-        <id>67293d27f76256c5c96d08f9</id>
-        <link href="https://www.freecodecamp.org/news/become-an-open-source-master/"/>
-        <updated>2024-11-04T21:31:19.000Z</updated>
-        <summary type="html"><![CDATA[Open-source software has transformed the tech industry, creating powerful opportunities for learning, growth, and collaboration. By contributing to open-source projects, you can build essential coding skills, gain real-world experience, and make mean...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Less Common HTML Elements and How to Use Them in Your Code]]></title>
-        <id>67292117f26a058bcaa2e19d</id>
-        <link href="https://www.freecodecamp.org/news/less-common-html-elements-and-how-to-use-them/"/>
-        <updated>2024-11-04T19:31:35.000Z</updated>
-        <summary type="html"><![CDATA[HTML has a lot of tags that many people use every day, like 
-, 
-, and . But there are also some hidden gems that often go unnoticed. These tags can help make websites more engaging, accessible, and meaningful without much extra effort. In th...]]></summary>
-        <author>
-            <name>Joan Ayebola</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Handle Complex Use Cases in Your OpenAPI Specifications – API Documentation Guide]]></title>
-        <id>6728f9e02b7cd4e7135f2f39</id>
-        <link href="https://www.freecodecamp.org/news/how-to-handle-complex-use-cases-in-api-specs/"/>
-        <updated>2024-11-04T16:44:16.000Z</updated>
-        <summary type="html"><![CDATA[When you’re documenting an API reference, there are two main approaches you can follow. You can either use the manual approach of filling in the endpoints via a user interface, or organize a structured document containing all the necessary informatio...]]></summary>
-        <author>
-            <name>Onyeanuna Prince</name>
         </author>
     </entry>
 </feed>
