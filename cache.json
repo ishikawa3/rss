@@ -140,16 +140,6 @@
           "wordCount": 2964,
           "title": "Popping Comments With CSS Anchor Positioning and View-Driven Animations",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/382247"
-        },
-        {
-          "id": "https://css-tricks.com/?p=382107",
-          "author": "Richard Hubbard",
-          "description": "We can apply the concept of fluid typography to almost anything. This way we can have a layout that fluidly changes with the size of its parent container. Few users will ever see the transition, but they will all appreciate the results. Honestly, they will.\nFluid Everything Else originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/fluid-everything-else/",
-          "publishedOn": "2024-11-05T20:49:40.000Z",
-          "wordCount": 3585,
-          "title": "Fluid Everything Else",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/382107"
         }
       ]
     },
@@ -300,6 +290,46 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "6752020830d899211b5bda58",
+          "author": "Alex Tray",
+          "description": "Apps are accessible worldwide. This means anyone from anywhere in the world can download your app.  So, if you want to cater to people everywhere, your app needs to support multiple languages.  Fortunately, Svelte is easy to work with, and it makes l...",
+          "link": "https://www.freecodecamp.org/news/svelte-i18n-and-localization-made-easy/",
+          "publishedOn": "2024-12-05T19:42:00.000Z",
+          "wordCount": 2951,
+          "title": "Svelte i18n and Localization Made Easy",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1733421094910/f2f91ab6-0717-4135-9f08-719f041471f6.jpeg"
+        },
+        {
+          "id": "6751e08319cee0c3e45cb876",
+          "author": "Marco Venturi",
+          "description": "Over 40% of the web is powered by WordPress. But this makes this popular CMS an attractive target for hackers. So if you run a WordPress site, you’ll need to make sure it’s secure. And this isn’t just a technical task, but is also a key responsibilit...",
+          "link": "https://www.freecodecamp.org/news/how-to-use-wpscan-to-keep-your-wordpress-site-secure/",
+          "publishedOn": "2024-12-05T17:18:59.000Z",
+          "wordCount": 3728,
+          "title": "How to Use WPScan to Keep Your WordPress Site Secure",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1732705985906/49090646-5b75-40f4-ad55-473d723b4237.jpeg"
+        },
+        {
+          "id": "6751d2f856661d3d5a501466",
+          "author": "Prince Onukwili",
+          "description": "Hey everyone! 🌟 If you’re in the tech space, chances are you’ve come across terms like Continuous Integration (CI), Continuous Delivery (CD), and Continuous Deployment. You’ve probably also heard about automation pipelines, staging environments, pro...",
+          "link": "https://www.freecodecamp.org/news/learn-continuous-integration-delivery-and-deployment/",
+          "publishedOn": "2024-12-05T16:21:12.000Z",
+          "wordCount": 10474,
+          "title": "Learn Continuous Integration, Delivery, and Deployment with GitHub Actions, Docker, and Google Cloud Run",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1733170224698/a712aae3-5973-43c7-855a-4299054fe9e7.png"
+        },
+        {
+          "id": "675194a23929bef2d9561a44",
+          "author": "Estefania Cassingena Navone",
+          "description": "Arduino is an open-source electronics platform that allows you to control the physical world through programming. With Arduino, you can read sensor data, control motors, light LEDs, and much more. It's a great way to learn electronics and programming...",
+          "link": "https://www.freecodecamp.org/news/learn-arduino-in-spanish-course-for-beginners/",
+          "publishedOn": "2024-12-05T11:55:14.000Z",
+          "wordCount": 1337,
+          "title": "Learn Arduino in Spanish - Course for Beginners",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1733088215802/7caee798-7552-4b20-ab4f-41cab4cd24c8.png"
+        },
         {
           "id": "6750bb3aa3b6f30029afad23",
           "author": "Fanny Nyayic",
@@ -889,36 +919,6 @@
           "wordCount": 1630,
           "title": "How to Use LangChain and GPT to Analyze Multiple Documents",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1730909200914/e75f3725-7453-49c0-b4e9-8b14fbc3b783.jpeg"
-        },
-        {
-          "id": "672a51c02bb94277a075a484",
-          "author": "Programming with Shahan",
-          "description": "Imagine a messy room with clothes, books, and other items scattered everywhere. Finding something in that room would be tough, right? Now, think about writing messy code – it’s just as confusing, if not more! On the other hand, clean code is like an ...",
-          "link": "https://www.freecodecamp.org/news/how-to-write-clean-code-tips-for-developers/",
-          "publishedOn": "2024-11-05T17:11:28.000Z",
-          "wordCount": 4822,
-          "title": "How to Write Clean Code – Tips for Developers with Examples",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1730737606075/5cb4369b-9f2e-4f97-9765-ac00a62800c6.png"
-        },
-        {
-          "id": "672a2317dd9236b285ebb527",
-          "author": "Abhijeet Dave",
-          "description": "In modern web development, choosing the right technology is crucial because it impacts both the process and outcome of your projects. Using Django as a backend framework and Tailwind CSS as a utility-first CSS framework offers an efficient way to cre...",
-          "link": "https://www.freecodecamp.org/news/how-to-integrate-tailwind-with-django/",
-          "publishedOn": "2024-11-05T13:52:23.000Z",
-          "wordCount": 2220,
-          "title": "How to Integrate Tailwind with Django – With Code Examples",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1730270888412/a440ff74-6e8b-4879-8b47-15aedca45bc4.png"
-        },
-        {
-          "id": "672a1e5f52317a5d102c0dd9",
-          "author": "Kedar Makode",
-          "description": "Hey there! Have you ever thought about creating your own web server on the cloud? Well, you’re in for a treat because in this article, we’re going to explore how you can launch an EC2 instance and use HTTPD to host a simple web server. Don’t worry – ...",
-          "link": "https://www.freecodecamp.org/news/how-to-launch-an-ec2-instance-and-a-web-server-using-httpd/",
-          "publishedOn": "2024-11-05T13:32:15.000Z",
-          "wordCount": 2533,
-          "title": "How to Launch an EC2 Instance and Set Up a Web Server Using HTTPD",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1730780706184/e2ac9a27-7221-47c6-a8ae-db2f62892036.png"
         }
       ]
     }
