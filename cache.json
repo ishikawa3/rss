@@ -12,6 +12,26 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=382964",
+          "author": "Geoff Graham",
+          "description": "Join the Chrome DevRel team and a skateboarding Chrome Dino on a journey through the latest CSS launched for Chrome and the web platform in 2024, highlighting 17 new features\nThat breaks down (approximately) as:\nComponents\nInteractions\nDeveloper experience\nPlus:…\nCSS Wrapped 2024 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/css-wrapped-2024/",
+          "publishedOn": "2024-12-06T19:22:38.000Z",
+          "wordCount": 1828,
+          "title": "CSS Wrapped 2024",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2024/12/Screenshot-2024-12-06-at-12.23.30%E2%80%AFPM.png"
+        },
+        {
+          "id": "https://css-tricks.com/?p=382956",
+          "author": "Geoff Graham",
+          "description": "Anselm Hannemann on the intersection between frameworks and learning the basics:\nNowadays people can write great React and TypeScript code. Most of the time a component library like MUI, Tailwind and others are used for styling. However, nearly no \n…\nKnowing CSS is Mastery to Frontend Development originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/knowing-css-is-mastery-to-frontend-development/",
+          "publishedOn": "2024-12-06T17:40:36.000Z",
+          "wordCount": 1959,
+          "title": "Knowing CSS is Mastery to Frontend Development",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2020/02/css-mind-blown.png"
+        },
+        {
           "id": "https://css-tricks.com/?p=382846",
           "author": "Geoff Graham",
           "description": "Striking the right balance can be tough. We don’t want cool mama bear's porridge or hot papa's bear porridge, but something right in the middle, like baby bear’s porridge.\nThe Law of Diminishing Returns originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -130,16 +150,6 @@
           "wordCount": 4266,
           "title": "The Different (and Modern) Ways to Toggle Content",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/382363"
-        },
-        {
-          "id": "https://css-tricks.com/?p=382247",
-          "author": "Juan Diego Rodríguez",
-          "description": "The State of CSS 2024 survey wrapped up and the results are interesting, as always. Even though each section is worth analyzing, we are usually most hyped about the section on the most used CSS features. And if you …\nPopping Comments With CSS Anchor Positioning and View-Driven Animations originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/popping-comments-with-css-anchor-positioning-and-view-driven-animations/",
-          "publishedOn": "2024-11-06T15:31:20.000Z",
-          "wordCount": 2964,
-          "title": "Popping Comments With CSS Anchor Positioning and View-Driven Animations",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/382247"
         }
       ]
     },
@@ -148,6 +158,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2024/12/importance-graceful-degradation-accessible-interface-design/",
+          "author": "hello@smashingmagazine.com (Eleanor Hecks)",
+          "description": "Few things are as frustrating to a user as when a site won’t respond. Unfortunately, it’s also an all-too-common scenario. Many websites and apps depend on so many elements that one of any number of errors could cause the whole thing to fail. As prevalent as such instances may be, they’re preventable through the practice of graceful degradation.",
+          "link": "https://smashingmagazine.com/2024/12/importance-graceful-degradation-accessible-interface-design/",
+          "publishedOn": "2024-12-06T09:00:00.000Z",
+          "wordCount": 4351,
+          "title": "The Importance Of Graceful Degradation In Accessible Interface Design",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/importance-graceful-degradation-accessible-interface-design/importance-graceful-degradation-accessible-interface-design.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/importance-graceful-degradation-accessible-interface-design/importance-graceful-degradation-accessible-interface-design.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2024/12/bundle-up-and-save/",
           "author": "hello@smashingmagazine.com (The Smashing Team)",
@@ -290,6 +315,16 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "675350a6e49bb5519b7b5208",
+          "author": "Quincy Larson",
+          "description": "On this week's episode of the podcast, freeCodeCamp founder Quincy Larson interviews Scott Tolinski. He's a developer who 14 years ago - after injuring himself breakdancing – decided to create a programming tutorial YouTube channel called LevelUpTuts...",
+          "link": "https://www.freecodecamp.org/news/scott-tolinski-syntax-podcast-interview/",
+          "publishedOn": "2024-12-06T19:29:42.000Z",
+          "wordCount": 1124,
+          "title": "How a breakdancing injury launched a coding empire with Scott Tolinski [Podcast #152]",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1733513940811/6a3a8fde-fac2-4f66-98e5-da52f16c0586.jpeg"
+        },
         {
           "id": "6752020830d899211b5bda58",
           "author": "Alex Tray",
@@ -909,16 +944,6 @@
           "wordCount": 1912,
           "title": "How to Set Up Automated GitHub Workflows for Your Python and React Applications",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1730812659785/2975b117-81ee-4c73-ae24-6fb14e369714.png"
-        },
-        {
-          "id": "672b941f0c32c8c8cd6159a9",
-          "author": "David Clinton",
-          "description": "Over the past year or so, the developer universe has exploded with ingenious new tools, applications, and processes for working with large language models and generative AI. One particularly versatile example is the LangChain project. The overall goa...",
-          "link": "https://www.freecodecamp.org/news/how-to-use-langchain-and-gpt-to-analyze-multiple-documents/",
-          "publishedOn": "2024-11-06T16:06:55.000Z",
-          "wordCount": 1630,
-          "title": "How to Use LangChain and GPT to Analyze Multiple Documents",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1730909200914/e75f3725-7453-49c0-b4e9-8b14fbc3b783.jpeg"
         }
       ]
     }
