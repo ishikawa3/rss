@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-07T00:13:58.812Z</updated>
+    <updated>2024-12-08T00:15:17.068Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
@@ -834,58 +834,6 @@ Tim Brown: Flexible Typesetting is now yours, for free originally published on C
 The Different (and Modern) Ways to Toggle Content originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Daniel Schwarz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Set Semantic Versioning for .NET Core Apps and Libraries]]></title>
-        <id>672df563eedb451674f63814</id>
-        <link href="https://www.freecodecamp.org/news/set-semantic-versioning-for-net/"/>
-        <updated>2024-11-08T11:26:27.000Z</updated>
-        <summary type="html"><![CDATA[Semantic Versioning (or SemVer for short) is a software versioning scheme that stipulates three-part version numbers in the form ..
-, such as 1.0.2, with an optional prerelease suffix in the form -
-, as in 1.0.2-beta. S...]]></summary>
-        <author>
-            <name>Naveed Ausaf</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Alternatives To Typical Technical Illustrations And Data Visualisations]]></title>
-        <id>https://smashingmagazine.com/2024/11/alternatives-typical-technical-illustrations-data-visualisations/</id>
-        <link href="https://smashingmagazine.com/2024/11/alternatives-typical-technical-illustrations-data-visualisations/"/>
-        <updated>2024-11-08T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Thomas Bohm rethinks technical illustrations and data visualizations, sharing interesting and uncommon examples of how to present data and information. Bar graphs and pie charts are great, but there’s so much more to explore!]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Thomas Bohm)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Build Your Own RAG Chatbot with JavaScript!]]></title>
-        <id>672cebbcd4b84c7df59edd79</id>
-        <link href="https://www.freecodecamp.org/news/build-your-own-rag-chatbot-with-javascript/"/>
-        <updated>2024-11-07T16:33:00.000Z</updated>
-        <summary type="html"><![CDATA[Generative AI is rapidly evolving, and with it comes the ability to create powerful applications like chatbots that go beyond static knowledge. Imagine building a chatbot that isn’t limited by outdated training data or predefined responses but can fe...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn the Foundations of Machine Learning and Artificial Intelligence]]></title>
-        <id>672cea4be28457c681419f0d</id>
-        <link href="https://www.freecodecamp.org/news/learn-the-foundations-of-machine-learning-and-artificial-intelligence/"/>
-        <updated>2024-11-07T16:26:51.000Z</updated>
-        <summary type="html"><![CDATA[As you know, machine learning and artificial intelligence (AI) are transforming the world around us. Mastering these tools can open doors to exciting career opportunities. We just published a course on the freeCodeCamp.org YouTube channel that will t...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Set Up Automated GitHub Workflows for Your Python and React Applications]]></title>
-        <id>672cdb23b9bae98eb2d22c19</id>
-        <link href="https://www.freecodecamp.org/news/how-to-set-up-automated-github-workflows-for-python-react-apps/"/>
-        <updated>2024-11-07T15:22:11.000Z</updated>
-        <summary type="html"><![CDATA[Automating workflows is an essential step in helping you maintain code quality in your applications – especially when working on both frontend and backend code in a single repository. In this guide, we’ll walk through setting up automated GitHub work...]]></summary>
-        <author>
-            <name>Preston Osoro</name>
         </author>
     </entry>
 </feed>
