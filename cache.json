@@ -140,16 +140,6 @@
           "wordCount": 1599,
           "title": "Tim Brown: Flexible Typesetting is now yours, for free",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/382456"
-        },
-        {
-          "id": "https://css-tricks.com/?p=382363",
-          "author": "Daniel Schwarz",
-          "description": "Let’s spend some time looking at disclosures, the Dialog API, the Popover API, and more. We’ll look at the right time to use each one depending on your needs. Modal or non-modal? JavaScript or pure HTML/CSS? Not sure? Don’t worry, we’ll go into all that.\nThe Different (and Modern) Ways to Toggle Content originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/the-different-and-modern-ways-to-toggle-content/",
-          "publishedOn": "2024-11-08T13:57:09.000Z",
-          "wordCount": 4266,
-          "title": "The Different (and Modern) Ways to Toggle Content",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/382363"
         }
       ]
     },
@@ -849,46 +839,6 @@
           "wordCount": 2269,
           "title": "What is Cloud Computing? A Guide for Beginners",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1730228320580/871eed36-be9c-4ca8-a92d-b0329ad91ffe.png"
-        },
-        {
-          "id": "672e890a430ee66c1750bdbc",
-          "author": "Quincy Larson",
-          "description": "On this week's episode of the podcast, I interview Yifan Mai, a Senior Software Engineer on Google's TensorFlow team who left the private sector to go do AI research at Stanford. He's the lead maintainer of the open source HELM project, where he benc...",
-          "link": "https://www.freecodecamp.org/news/open-weights-vs-open-source-with-google-engineer-and-stanford-researcher-yifan-mai-podcast-149/",
-          "publishedOn": "2024-11-08T21:56:26.000Z",
-          "wordCount": 1127,
-          "title": "The State of AI with Stanford Researcher Yifan Mai (Podcast #149)",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1731102910271/db4e196d-0f6b-4366-8b80-98030f92282e.png"
-        },
-        {
-          "id": "672e5a06d7a5828f344ec242",
-          "author": "Kedar Makode",
-          "description": "Are you ready to take your web hosting skills to the next level by using a CSS template? Hosting a professional looking website doesn’t have to be complicated, and with AWS EC2, you can have your website live in no time! In this guide, I’ll show you ...",
-          "link": "https://www.freecodecamp.org/news/host-a-website-on-aws-ec2-using-a-css-template/",
-          "publishedOn": "2024-11-08T18:35:50.000Z",
-          "wordCount": 1619,
-          "title": "How to Host a Website on AWS EC2 Using a CSS Template",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1731090804046/9415a329-c3a7-4caa-9f78-757efc3c8da4.jpeg"
-        },
-        {
-          "id": "672e31c2d0e4fe6467edeb83",
-          "author": "David Jaja",
-          "description": "Building Kreed, my collaborative project management tool, was no easy feat. But it did offer one perk: an endless stream of stress-induced caffeine highs. I don’t have a dedicated team, so I was juggling everything from design and deployment to marke...",
-          "link": "https://www.freecodecamp.org/news/how-to-use-webcurate-to-discover-helpful-developer-tools/",
-          "publishedOn": "2024-11-08T15:44:02.000Z",
-          "wordCount": 2263,
-          "title": "How to Use WebCurate to Discover Helpful Developer Tools",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1730908679140/f7c2ff53-9d06-4b2f-ae08-baaf219cba1f.png"
-        },
-        {
-          "id": "672e23dd41db65fcc7264dc0",
-          "author": "Manish Shivanandhan",
-          "description": "Nmap is short for Network Mapper. It’s an open-source Linux command-line tool for scanning IP addresses and ports in a network and detecting installed applications. Nmap allows network admins to identify devices running on their network, discover ope...",
-          "link": "https://www.freecodecamp.org/news/useful-nmap-scripts-for-ethical-hackers/",
-          "publishedOn": "2024-11-08T14:44:45.000Z",
-          "wordCount": 2011,
-          "title": "Useful Nmap Scripts for Ethical Hackers",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1731077044881/75a0f1c6-0aae-4ed6-bcfd-777b2ae2b1b6.jpeg"
         }
       ]
     }

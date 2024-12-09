@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-08T00:15:17.068Z</updated>
+    <updated>2024-12-09T00:14:30.839Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
@@ -783,57 +783,6 @@ Anchoreum: A New Game for Learning Anchor Positioning originally published on CS
 Tim Brown: Flexible Typesetting is now yours, for free originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The State of AI with Stanford Researcher Yifan Mai (Podcast #149)]]></title>
-        <id>672e890a430ee66c1750bdbc</id>
-        <link href="https://www.freecodecamp.org/news/open-weights-vs-open-source-with-google-engineer-and-stanford-researcher-yifan-mai-podcast-149/"/>
-        <updated>2024-11-08T21:56:26.000Z</updated>
-        <summary type="html"><![CDATA[On this week's episode of the podcast, I interview Yifan Mai, a Senior Software Engineer on Google's TensorFlow team who left the private sector to go do AI research at Stanford. He's the lead maintainer of the open source HELM project, where he benc...]]></summary>
-        <author>
-            <name>Quincy Larson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Host a Website on AWS EC2 Using a CSS Template]]></title>
-        <id>672e5a06d7a5828f344ec242</id>
-        <link href="https://www.freecodecamp.org/news/host-a-website-on-aws-ec2-using-a-css-template/"/>
-        <updated>2024-11-08T18:35:50.000Z</updated>
-        <summary type="html"><![CDATA[Are you ready to take your web hosting skills to the next level by using a CSS template? Hosting a professional looking website doesn’t have to be complicated, and with AWS EC2, you can have your website live in no time! In this guide, I’ll show you ...]]></summary>
-        <author>
-            <name>Kedar Makode</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use WebCurate to Discover Helpful Developer Tools]]></title>
-        <id>672e31c2d0e4fe6467edeb83</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-webcurate-to-discover-helpful-developer-tools/"/>
-        <updated>2024-11-08T15:44:02.000Z</updated>
-        <summary type="html"><![CDATA[Building Kreed, my collaborative project management tool, was no easy feat. But it did offer one perk: an endless stream of stress-induced caffeine highs. I don’t have a dedicated team, so I was juggling everything from design and deployment to marke...]]></summary>
-        <author>
-            <name>David Jaja</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Useful Nmap Scripts for Ethical Hackers]]></title>
-        <id>672e23dd41db65fcc7264dc0</id>
-        <link href="https://www.freecodecamp.org/news/useful-nmap-scripts-for-ethical-hackers/"/>
-        <updated>2024-11-08T14:44:45.000Z</updated>
-        <summary type="html"><![CDATA[Nmap is short for Network Mapper. It’s an open-source Linux command-line tool for scanning IP addresses and ports in a network and detecting installed applications. Nmap allows network admins to identify devices running on their network, discover ope...]]></summary>
-        <author>
-            <name>Manish Shivanandhan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Different (and Modern) Ways to Toggle Content]]></title>
-        <id>https://css-tricks.com/?p=382363</id>
-        <link href="https://css-tricks.com/the-different-and-modern-ways-to-toggle-content/"/>
-        <updated>2024-11-08T13:57:09.000Z</updated>
-        <summary type="html"><![CDATA[Let’s spend some time looking at disclosures, the Dialog API, the Popover API, and more. We’ll look at the right time to use each one depending on your needs. Modal or non-modal? JavaScript or pure HTML/CSS? Not sure? Don’t worry, we’ll go into all that.
-The Different (and Modern) Ways to Toggle Content originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Daniel Schwarz</name>
         </author>
     </entry>
 </feed>
