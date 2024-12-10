@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=382893",
+          "author": "Juan Diego Rodríguez",
+          "description": "As awesome as I think it is, CSS Anchor Positioning has a lot of quirks, some of which are the product of its novelty and others due to its unique way of working. Today, I want to bring you yet another Anchor Positioning quirk that has bugged me since I first saw it.\nYet Another Anchor Positioning Quirk originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/yet-another-anchor-positioning-quirk/",
+          "publishedOn": "2024-12-09T16:54:00.000Z",
+          "wordCount": 2949,
+          "title": "Yet Another Anchor Positioning Quirk",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2024/12/Yet-Another-Anchor-Positioning-Quirk.png"
+        },
+        {
           "id": "https://css-tricks.com/?p=382964",
           "author": "Geoff Graham",
           "description": "Join the Chrome DevRel team and a skateboarding Chrome Dino on a journey through the latest CSS launched for Chrome and the web platform in 2024, highlighting 17 new features\nThat breaks down (approximately) as:\nComponents\nInteractions\nDeveloper experience\nPlus:…\nCSS Wrapped 2024 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -148,6 +158,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2024/12/mastering-svg-arcs/",
+          "author": "hello@smashingmagazine.com (Akshay Gupta)",
+          "description": "SVG arcs demystified! Akshay Gupta explains how to master radii, rotation, and arc direction to create stunning curves. Make arcs a powerful part of your SVG toolkit for creating more dynamic, intricate designs with confidence.",
+          "link": "https://smashingmagazine.com/2024/12/mastering-svg-arcs/",
+          "publishedOn": "2024-12-09T09:00:00.000Z",
+          "wordCount": 4333,
+          "title": "Mastering SVG Arcs",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/mastering-svg-arcs/mastering-svg-arcs.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/mastering-svg-arcs/mastering-svg-arcs.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2024/12/importance-graceful-degradation-accessible-interface-design/",
           "author": "hello@smashingmagazine.com (Eleanor Hecks)",
@@ -290,6 +315,16 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "67570d22e8032cfb3def7b4e",
+          "author": "Elabonga Atuo",
+          "description": "In this tutorial, you’ll learn how to build a weather app in R. Really – a weather app, in R? Wait, hear me out. When you think of R, you probably imagine someone wearing chunky thick prescription glasses and devouring a book. You know, a statisticia...",
+          "link": "https://www.freecodecamp.org/news/how-to-build-a-weather-app-with-r-shiny/",
+          "publishedOn": "2024-12-09T15:30:42.000Z",
+          "wordCount": 4222,
+          "title": "How to Build a Weather App with R Shiny",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1733174501446/a177379f-3c32-424a-9fbe-6608310f2ea6.png"
+        },
         {
           "id": "675350a6e49bb5519b7b5208",
           "author": "Quincy Larson",
