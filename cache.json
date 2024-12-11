@@ -12,6 +12,26 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=382974",
+          "author": "Juan Diego Rodríguez",
+          "description": "The CSSWG met to try and finally squash a debate that has been going on for five years: whether Masonry should be a part of Grid or a separate system. We've got coverage of both presentations for ya.\nCSSWG Minutes Telecon (2024-12-04): Just Use Grid vs. Display: Masonry originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/csswg-minutes-telecon-2024-12-04-just-use-grid-vs-display-masonry/",
+          "publishedOn": "2024-12-10T16:27:32.000Z",
+          "wordCount": 3709,
+          "title": "CSSWG Minutes Telecon (2024-12-04): Just Use Grid vs. Display: Masonry",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/12/css-tricks-logo-gradient-outline.png"
+        },
+        {
+          "id": "https://css-tricks.com/?p=383028",
+          "author": "Geoff Graham",
+          "description": "I had the pleasure of hosting a recent Smashing Magazine workshop on product design, subbing for Vitaly Friedman who usually runs these things.\nWhat? A front-ender interviewing really smart people about their processes for user research, documenting requirements, and …\nSmashing Meets Product Design originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/smashing-meets-product-design/",
+          "publishedOn": "2024-12-10T16:00:24.000Z",
+          "wordCount": 2056,
+          "title": "Smashing Meets Product Design",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2024/12/smashing-meets-product-design.jpg"
+        },
+        {
           "id": "https://css-tricks.com/?p=382893",
           "author": "Juan Diego Rodríguez",
           "description": "As awesome as I think it is, CSS Anchor Positioning has a lot of quirks, some of which are the product of its novelty and others due to its unique way of working. Today, I want to bring you yet another Anchor Positioning quirk that has bugged me since I first saw it.\nYet Another Anchor Positioning Quirk originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
