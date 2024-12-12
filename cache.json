@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=382867",
+          "author": "Lorenz Wöehr",
+          "description": "How much attention do you pay to the alignments of your subscripts and superscripts? Lorenz Wöehr has you covered with a recipe for fluid scaling.\nFluid Superscripts and Subscripts originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/fluid-superscripts-and-subscripts/",
+          "publishedOn": "2024-12-11T20:23:46.000Z",
+          "wordCount": 2618,
+          "title": "Fluid Superscripts and Subscripts",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2024/12/fluid-super-subscripts-1.png"
+        },
+        {
           "id": "https://css-tricks.com/?p=382974",
           "author": "Juan Diego Rodríguez",
           "description": "The CSSWG met to try and finally squash a debate that has been going on for five years: whether Masonry should be a part of Grid or a separate system. We've got coverage of both presentations for ya.\nCSSWG Minutes Telecon (2024-12-04): Just Use Grid vs. Display: Masonry originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -160,16 +170,6 @@
           "wordCount": 1836,
           "title": "Anchoreum: A New Game for Learning Anchor Positioning",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/382469"
-        },
-        {
-          "id": "https://css-tricks.com/?p=382456",
-          "author": "Geoff Graham",
-          "description": "Another title from A Book Apart has been re-released for free. The latest? Tim Brown's Flexible Typesetting. I may not be the utmost expert on typography and its best practices but I do remember reading this book (it's still on the shelf next to me!) thinking maybe, just maybe, I might be able to hold a conversation about it with Robin when I finished it.\nTim Brown: Flexible Typesetting is now yours, for free originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/tim-brown-flexible-typesetting-is-now-yours-for-free/",
-          "publishedOn": "2024-11-11T14:03:37.000Z",
-          "wordCount": 1599,
-          "title": "Tim Brown: Flexible Typesetting is now yours, for free",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/382456"
         }
       ]
     },
@@ -178,6 +178,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2024/12/introduction-css-scroll-driven-animations/",
+          "author": "hello@smashingmagazine.com (Mariana Beldi)",
+          "description": "10 years after scroll-driven animations were first proposed, they’re finally here — no JavaScript, no dependencies, no libraries, just pure CSS.",
+          "link": "https://smashingmagazine.com/2024/12/introduction-css-scroll-driven-animations/",
+          "publishedOn": "2024-12-11T15:00:00.000Z",
+          "wordCount": 6659,
+          "title": "An Introduction To CSS Scroll-Driven Animations: Scroll And View Progress Timelines",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/introduction-css-scroll-driven-animations/introduction-css-scroll-driven-animations.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/introduction-css-scroll-driven-animations/introduction-css-scroll-driven-animations.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2024/12/mastering-svg-arcs/",
           "author": "hello@smashingmagazine.com (Akshay Gupta)",
@@ -335,6 +350,26 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "6759af8bb972ec12da4879d3",
+          "author": "Sanjay R",
+          "description": "In this tutorial, you'll build an AI-powered subtitle generator using Google's Gemini API. We'll create a project called “AI-Subtitle-Generator” using React for the front end and Express for the back end. Get ready for a fun and practical project. Ta...",
+          "link": "https://www.freecodecamp.org/news/build-a-video-subtitle-generator-using-the-gemini-api/",
+          "publishedOn": "2024-12-11T15:28:11.000Z",
+          "wordCount": 3676,
+          "title": "How to Build a Video Subtitle Generator using the Gemini API",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1733638398422/2f468b16-5801-4f8c-bf40-c24d07e219b7.jpeg"
+        },
+        {
+          "id": "6758c1285b5802ad4fa00d45",
+          "author": "Timothy Olanrewaju",
+          "description": "Django is a high-level Python framework. It’s popular for its simplicity and efficiency in building robust web applications. At the heart of Django’s architecture is the Model-View-Template (MVT) pattern. Having a good understanding of how Models, Vi...",
+          "link": "https://www.freecodecamp.org/news/how-django-mvt-architecture-works/",
+          "publishedOn": "2024-12-10T22:31:04.000Z",
+          "wordCount": 3048,
+          "title": "How Django's MVT Architecture Works: A Deep Dive into Models, Views, and Templates",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1733732493858/a06ee65a-de97-4c7f-b3bd-7ca8c1b6fe82.png"
+        },
         {
           "id": "67570d22e8032cfb3def7b4e",
           "author": "Elabonga Atuo",
@@ -874,26 +909,6 @@
           "wordCount": 3161,
           "title": "How to Build Multi-Module Projects in Spring Boot for Scalable Microservices",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/uyfohHiTxho/upload/716c6610c336976df67b833912170336.jpeg"
-        },
-        {
-          "id": "673342b4d519e9b4d12f23d8",
-          "author": "Grant Riordan",
-          "description": "As a developer, you probably use the Git CLI (Command Line Interface) daily. However, writing the same old commands repeatedly can be laborious, especially when the commands are lengthy. This is where Git aliases come in to help out. In this article,...",
-          "link": "https://www.freecodecamp.org/news/how-to-simplify-your-git-commands-with-git-aliases/",
-          "publishedOn": "2024-11-12T11:57:40.000Z",
-          "wordCount": 2403,
-          "title": "How to Simplify Your Git Commands with Git Aliases",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1730061609849/a3f3e8f3-102e-4dde-bec7-660be0121fad.png"
-        },
-        {
-          "id": "6732b0dbe6dfc6edf3fe9c72",
-          "author": "Ijeoma Igboagu",
-          "description": "When I was a kid, I loved looking at clouds and imagining funny shapes. Sometimes, I even wondered if someone was up there! Now that I’m an adult, I still ask, “What’s in the cloud?” When we talk about \"the cloud\" in technology, we’re not referring t...",
-          "link": "https://www.freecodecamp.org/news/cloud-computing-guide-for-beginners/",
-          "publishedOn": "2024-11-12T01:35:23.000Z",
-          "wordCount": 2269,
-          "title": "What is Cloud Computing? A Guide for Beginners",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1730228320580/871eed36-be9c-4ca8-a92d-b0329ad91ffe.png"
         }
       ]
     }
