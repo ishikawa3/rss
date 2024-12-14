@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-13T00:14:11.184Z</updated>
+    <updated>2024-12-14T00:13:42.839Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
@@ -796,46 +796,6 @@ Complete CSS Course originally published on CSS-Tricks, which is part of the Dig
         <summary type="html"><![CDATA[XAMPP is popular software for those who use MySQL databases and PHP. It’s free software, and it supports Windows, Linux OS, and MacOS. This makes it quite popular among developers even though it can also present us with many challenges. One common is...]]></summary>
         <author>
             <name>Md. Fahim Bin Amin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Open-Source Meets Design Tooling With Penpot]]></title>
-        <id>https://smashingmagazine.com/2024/11/open-source-meets-design-tooling-penpot/</id>
-        <link href="https://smashingmagazine.com/2024/11/open-source-meets-design-tooling-penpot/"/>
-        <updated>2024-11-14T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Penpot helps designers and developers work better together by offering a free, open-source design tool based on open web standards. Today, let’s explore its newly released Penpot Plugin System. So now, if there’s a functionality missing, you don’t need to jump into the code base straight away; you can create a plugin to achieve what you need. And you can even serve it from localhost!]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Atila Fassina)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How JavaScript's Temporal Proposal Will Change Date/Time Functions]]></title>
-        <id>67350bbf437f61ba9155860d</id>
-        <link href="https://www.freecodecamp.org/news/how-javascripts-temporal-proposal-will-change-datetime-functions/"/>
-        <updated>2024-11-13T20:27:43.000Z</updated>
-        <summary type="html"><![CDATA[JavaScript's handling of dates and times has long frustrated developers. The built-in Date object, created in JavaScript’s early days, has numerous limitations and quirks that complicate working with dates and times. Fortunately for us, the Temporal ...]]></summary>
-        <author>
-            <name>Jesse Hall</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Reverse Engineer a Website – a Guide for Developers]]></title>
-        <id>6734cea5ae439f84c4b2399b</id>
-        <link href="https://www.freecodecamp.org/news/how-to-reverse-engineer-a-website/"/>
-        <updated>2024-11-13T16:07:01.000Z</updated>
-        <summary type="html"><![CDATA[While using one of your favorite websites, you might have often thought, "What if this website had this particular functionality? That would be great!" If you have ever had such thoughts, this article is for you. In it, you'll learn how websites comm...]]></summary>
-        <author>
-            <name>abdurrahman RAJAB</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Build & Deploy a Full Stack Dating App]]></title>
-        <id>6734bab8a54e29ff5593767c</id>
-        <link href="https://www.freecodecamp.org/news/build-deploy-a-full-stack-dating-app/"/>
-        <updated>2024-11-13T14:42:00.000Z</updated>
-        <summary type="html"><![CDATA[Creating a modern, full-stack web application has never been more exciting, thanks to the wide array of powerful tools available to developers today. If you’ve ever thought about building a dynamic, feature-rich app but weren’t sure where to start, t...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
         </author>
     </entry>
 </feed>
