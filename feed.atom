@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-14T00:13:42.839Z</updated>
+    <updated>2024-12-15T00:15:44.197Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
@@ -766,36 +766,6 @@ Complete CSS Course originally published on CSS-Tricks, which is part of the Dig
         <summary type="html"><![CDATA[When building my own applications, I usually don’t stress about having multiple language support. All of my applications are pet projects of mine and I mostly use them to learn and advance my knowledge. Without any intention, some of the applications...]]></summary>
         <author>
             <name>Tomer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Create a Full Stack Spotify Clone with Flutter]]></title>
-        <id>673677f66aa5d15c65da2de2</id>
-        <link href="https://www.freecodecamp.org/news/create-a-full-stack-spotify-clone-with-flutter/"/>
-        <updated>2024-11-14T22:21:42.000Z</updated>
-        <summary type="html"><![CDATA[Have you ever wondered how apps like Spotify are built? Now’s your chance to learn! With the power of modern technologies like Flutter, FastAPI, and PostgreSQL, you can create a full-featured music streaming app from scratch. We just published a cour...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use Design Patterns in Java with Spring Boot – Explained with Code Examples]]></title>
-        <id>673616b2ea38d82d84002cda</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-design-patterns-in-java-with-spring-boot/"/>
-        <updated>2024-11-14T15:26:42.000Z</updated>
-        <summary type="html"><![CDATA[As software projects grow, it becomes increasingly important to keep your code organized, maintainable, and scalable. This is where design patterns come into play. Design patterns provide proven, reusable solutions to common software design challenge...]]></summary>
-        <author>
-            <name>Birks Sachdev</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Install and Configure XAMPP Properly to Avoid Errors When You Close the App]]></title>
-        <id>67360e398a8e3a6a2f6c32cd</id>
-        <link href="https://www.freecodecamp.org/news/how-to-install-and-configure-xampp-properly-to-avoid-errors-when-you-close-the-app/"/>
-        <updated>2024-11-14T14:50:33.000Z</updated>
-        <summary type="html"><![CDATA[XAMPP is popular software for those who use MySQL databases and PHP. It’s free software, and it supports Windows, Linux OS, and MacOS. This makes it quite popular among developers even though it can also present us with many challenges. One common is...]]></summary>
-        <author>
-            <name>Md. Fahim Bin Amin</name>
         </author>
     </entry>
 </feed>

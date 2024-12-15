@@ -819,36 +819,6 @@
           "wordCount": 1989,
           "title": "How to Support Multiple Languages In Your Flutter Application",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/YeO44yVTl20/upload/2ec70e1bfce727903fecba0c2f9b6b8b.jpeg"
-        },
-        {
-          "id": "673677f66aa5d15c65da2de2",
-          "author": "Beau Carnes",
-          "description": "Have you ever wondered how apps like Spotify are built? Now’s your chance to learn! With the power of modern technologies like Flutter, FastAPI, and PostgreSQL, you can create a full-featured music streaming app from scratch. We just published a cour...",
-          "link": "https://www.freecodecamp.org/news/create-a-full-stack-spotify-clone-with-flutter/",
-          "publishedOn": "2024-11-14T22:21:42.000Z",
-          "wordCount": 1307,
-          "title": "Create a Full Stack Spotify Clone with Flutter",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1731622884338/756e3521-d287-4484-856f-9afd634c38dd.png"
-        },
-        {
-          "id": "673616b2ea38d82d84002cda",
-          "author": "Birks Sachdev",
-          "description": "As software projects grow, it becomes increasingly important to keep your code organized, maintainable, and scalable. This is where design patterns come into play. Design patterns provide proven, reusable solutions to common software design challenge...",
-          "link": "https://www.freecodecamp.org/news/how-to-use-design-patterns-in-java-with-spring-boot/",
-          "publishedOn": "2024-11-14T15:26:42.000Z",
-          "wordCount": 4972,
-          "title": "How to Use Design Patterns in Java with Spring Boot – Explained with Code Examples",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/1td5Iq5IvNc/upload/adaeb0229ea4ed1cd3c985d8eb92d23e.jpeg"
-        },
-        {
-          "id": "67360e398a8e3a6a2f6c32cd",
-          "author": "Md. Fahim Bin Amin",
-          "description": "XAMPP is popular software for those who use MySQL databases and PHP. It’s free software, and it supports Windows, Linux OS, and MacOS. This makes it quite popular among developers even though it can also present us with many challenges. One common is...",
-          "link": "https://www.freecodecamp.org/news/how-to-install-and-configure-xampp-properly-to-avoid-errors-when-you-close-the-app/",
-          "publishedOn": "2024-11-14T14:50:33.000Z",
-          "wordCount": 1296,
-          "title": "How to Install and Configure XAMPP Properly to Avoid Errors When You Close the App",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/cckf4TsHAuw/upload/ab4deba46100e61a5425d817f6406742.jpeg"
         }
       ]
     }
