@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-15T00:15:44.197Z</updated>
+    <updated>2024-12-16T00:14:52.158Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to get a Developer Job – even in this economy – with James Q Quick [Podcast #153]]]></title>
+        <id>675ca1db0e7ab2ab9bd66a40</id>
+        <link href="https://www.freecodecamp.org/news/how-to-get-a-developer-job-even-in-this-economy-james-q-quick-podcast-153/"/>
+        <updated>2024-12-13T21:06:35.000Z</updated>
+        <summary type="html"><![CDATA[On this week's episode of the podcast, freeCodeCamp founder Quincy Larson interviews James Q Quick. He's a developer, speaker, and teacher. James grew up in Memphis. He was an athlete who played violin, and knew nothing about computer science but cho...]]></summary>
+        <author>
+            <name>Quincy Larson</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Create and Send Email Templates Using React Email and Resend in Next.js]]></title>
         <id>675b1981cc99415a548dbe6c</id>
@@ -736,36 +746,6 @@ Complete CSS Course originally published on CSS-Tricks, which is part of the Dig
         <summary type="html"><![CDATA[In this tutorial, we’ll build a real-time multiplayer Tic-Tac-Toe game using Node.js, Socket.IO, and Redis. This game allows two players to connect from different browser tabs, take turns playing, and see real-time updates as they play. We'll use Red...]]></summary>
         <author>
             <name>Birks Sachdev</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[To code is to struggle! I interview Tech with Tim, who got a job at Microsoft at age 19 [Podcast #150]]]></title>
-        <id>6737abf27f9bd5ad3f21cfd7</id>
-        <link href="https://www.freecodecamp.org/news/tech-with-tim-freecodecamp-podcast-150/"/>
-        <updated>2024-11-15T20:15:46.000Z</updated>
-        <summary type="html"><![CDATA[On this week's episode of the podcast, I interview Tim Ruscica, the software engineer and prolific programming teacher behind the Tech with Tim YouTube channel. He's also developed courses on freeCodeCamp's YouTube channel. We talk about: How Tim ma...]]></summary>
-        <author>
-            <name>Quincy Larson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Happens When You Visit a Website? How the Web Works Explained]]></title>
-        <id>67378578138bc8b1c027a1e8</id>
-        <link href="https://www.freecodecamp.org/news/what-happens-when-you-visit-a-website/"/>
-        <updated>2024-11-15T17:31:36.000Z</updated>
-        <summary type="html"><![CDATA[In this article, I’ll guide you through an overview of what happens when you navigate to a website using your browser. Whether you’re new to web development or have some experience, this post will help you gain a better understanding of how the web a...]]></summary>
-        <author>
-            <name>Viviana Yanez</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Support Multiple Languages In Your Flutter Application]]></title>
-        <id>673783bb1fb7eac514af465b</id>
-        <link href="https://www.freecodecamp.org/news/how-to-support-multiple-languages-in-flutter/"/>
-        <updated>2024-11-15T17:24:11.000Z</updated>
-        <summary type="html"><![CDATA[When building my own applications, I usually don’t stress about having multiple language support. All of my applications are pet projects of mine and I mostly use them to learn and advance my knowledge. Without any intention, some of the applications...]]></summary>
-        <author>
-            <name>Tomer</name>
         </author>
     </entry>
 </feed>
