@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-16T00:14:52.158Z</updated>
+    <updated>2024-12-17T00:13:55.231Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Write User Stories for Beginners: Agile in Practice]]></title>
+        <id>676081a802767316a74098de</id>
+        <link href="https://www.freecodecamp.org/news/how-to-write-user-stories-for-beginners/"/>
+        <updated>2024-12-16T19:38:16.000Z</updated>
+        <summary type="html"><![CDATA[In this tutorial, you’ll learn about an important part of the Agile approach to software development: user stories. I’ll take you through what user stories are, common pitfalls that I’ve seen with creating user stories, and the frameworks that exist ...]]></summary>
+        <author>
+            <name>Ben</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Reusable Keyboard Shortcut Listener Component in React]]></title>
+        <id>67606d5e81f45e690a86fe00</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-a-reusable-keyboard-shortcut-listener-component-in-react/"/>
+        <updated>2024-12-16T18:11:42.000Z</updated>
+        <summary type="html"><![CDATA[If you’re like me and you loveeeeee shortcuts, you know how satisfying it is to press a few keys and watch the magic happen. Whether it’s the familiar Ctrl+C – Ctrl+V that devs use to “borrow code” 😉 from LLMs and code pages, or the personalised sho...]]></summary>
+        <author>
+            <name>David Jaja</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Automate Branch-Specific Netlify Configurations with a Bash Script: A Step-by-Step Guide]]></title>
+        <id>6760688b00f110abd3d0f655</id>
+        <link href="https://www.freecodecamp.org/news/how-to-automate-branch-specific-netlify-configurations-with-a-bash-script/"/>
+        <updated>2024-12-16T17:51:07.000Z</updated>
+        <summary type="html"><![CDATA[When you’re working on a project with multiple environments – like staging and production – for your backend APIs and frontend deployments, you’ll want to make sure you have the correct configuration and commands for each branch in your repository. T...]]></summary>
+        <author>
+            <name>Francis Ihejirika</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to get a Developer Job – even in this economy – with James Q Quick [Podcast #153]]]></title>
         <id>675ca1db0e7ab2ab9bd66a40</id>

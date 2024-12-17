@@ -311,6 +311,36 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "676081a802767316a74098de",
+          "author": "Ben",
+          "description": "In this tutorial, you’ll learn about an important part of the Agile approach to software development: user stories. I’ll take you through what user stories are, common pitfalls that I’ve seen with creating user stories, and the frameworks that exist ...",
+          "link": "https://www.freecodecamp.org/news/how-to-write-user-stories-for-beginners/",
+          "publishedOn": "2024-12-16T19:38:16.000Z",
+          "wordCount": 3369,
+          "title": "How to Write User Stories for Beginners: Agile in Practice",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1733997369281/da5556e8-8d3f-40ef-97eb-c140f984e5b3.jpeg"
+        },
+        {
+          "id": "67606d5e81f45e690a86fe00",
+          "author": "David Jaja",
+          "description": "If you’re like me and you loveeeeee shortcuts, you know how satisfying it is to press a few keys and watch the magic happen. Whether it’s the familiar Ctrl+C – Ctrl+V that devs use to “borrow code” 😉 from LLMs and code pages, or the personalised sho...",
+          "link": "https://www.freecodecamp.org/news/how-to-build-a-reusable-keyboard-shortcut-listener-component-in-react/",
+          "publishedOn": "2024-12-16T18:11:42.000Z",
+          "wordCount": 3748,
+          "title": "How to Build a Reusable Keyboard Shortcut Listener Component in React",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1733895763796/17684457-fb85-48d4-b049-ddbaf0b5281e.png"
+        },
+        {
+          "id": "6760688b00f110abd3d0f655",
+          "author": "Francis Ihejirika",
+          "description": "When you’re working on a project with multiple environments – like staging and production – for your backend APIs and frontend deployments, you’ll want to make sure you have the correct configuration and commands for each branch in your repository. T...",
+          "link": "https://www.freecodecamp.org/news/how-to-automate-branch-specific-netlify-configurations-with-a-bash-script/",
+          "publishedOn": "2024-12-16T17:51:07.000Z",
+          "wordCount": 3414,
+          "title": "How to Automate Branch-Specific Netlify Configurations with a Bash Script: A Step-by-Step Guide",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1733871988108/cde4ea9b-705c-40e0-9730-09dbeebdfbae.png"
+        },
+        {
           "id": "675ca1db0e7ab2ab9bd66a40",
           "author": "Quincy Larson",
           "description": "On this week's episode of the podcast, freeCodeCamp founder Quincy Larson interviews James Q Quick. He's a developer, speaker, and teacher. James grew up in Memphis. He was an athlete who played violin, and knew nothing about computer science but cho...",
