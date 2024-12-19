@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=382857",
+          "author": "Fatuma Abdullaho",
+          "description": "When was the last time you developed a multi-step form? There’s so much to think about and so many moving pieces that need to be managed. But doing it by hand can be a good exercise and a great way to polish the basics. Fatuma Abdullaho walks you through her first multi-step form using vanilla HTML, CSS, and JavaScript.\nHow to Create Multi-Step Forms With Vanilla JavaScript and CSS originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/how-to-create-multi-step-forms-with-vanilla-javascript-and-css/",
+          "publishedOn": "2024-12-18T15:03:22.000Z",
+          "wordCount": 4758,
+          "title": "How to Create Multi-Step Forms With Vanilla JavaScript and CSS",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/382857"
+        },
+        {
           "id": "https://css-tricks.com/?p=383250",
           "author": "Geoff Graham",
           "description": "What else do we want or need CSS to do? Chris kept a CSS wishlist, going back as far as 2013 and following back up on it in 2019. We all have things we'd like to see CSS do and we always will no matter how many sparkly new features we get. We'll round things up and put a list together — so let us know!\nWhat ELSE is on your CSS wishlist? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -312,21 +322,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/why-you-speak-events-early-career-professional/why-you-speak-events-early-career-professional.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2024/11/ai-transformative-impact-web-design-supercharging-productivity/",
-          "author": "hello@smashingmagazine.com (Paul Boag)",
-          "description": "Discover how AI is reshaping web design, boosting productivity in design, coding, UX, and copywriting while amplifying human creativity in a new article by Paul Boag.",
-          "link": "https://smashingmagazine.com/2024/11/ai-transformative-impact-web-design-supercharging-productivity/",
-          "publishedOn": "2024-11-19T09:00:00.000Z",
-          "wordCount": 4314,
-          "title": "AI’s Transformative Impact On Web Design: Supercharging Productivity Across The Industry",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/ai-transformative-impact-web-design-supercharging-productivity/ai-transformative-impact-web-design-supercharging-productivity.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/ai-transformative-impact-web-design-supercharging-productivity/ai-transformative-impact-web-design-supercharging-productivity.jpg"
         }
       ]
     },
@@ -335,6 +330,16 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "676307732bca88a1f50e3b28",
+          "author": "Victoria Nduka",
+          "description": "Did you apply to Outreachy and receive a “Your Initial Application Was Not Successful” email? Or maybe you got into the contribution stage but after a rigorous month of contribution, you were not selected as an intern. How disheartening that can be! ...",
+          "link": "https://www.freecodecamp.org/news/what-to-do-if-you-dont-get-into-outreachy/",
+          "publishedOn": "2024-12-18T17:33:39.000Z",
+          "wordCount": 2623,
+          "title": "What to Do If You Don't Get into Outreachy: Exploring Other Paths to Open Source",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1734517208892/dae4a13d-a348-4a8d-831a-8a2f6a1546fa.png"
+        },
         {
           "id": "676081a802767316a74098de",
           "author": "Ben",
@@ -824,36 +829,6 @@
           "wordCount": 2679,
           "title": "How to Set Up Zigbee2MQTT with Docker for Home Automation",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1731778246828/8371f4de-6771-4f57-9e2c-9c57ad651950.png"
-        },
-        {
-          "id": "673c7ac360ba8e6675690350",
-          "author": "Abraham Dahunsi",
-          "description": "In modern system design, Event-Driven Architecture (EDA) focuses on creating, detecting, using, and responding to events within a system. Events are significant occurrences that can affect a system’s hardware or software, such as user actions, state ...",
-          "link": "https://www.freecodecamp.org/news/how-to-implement-event-driven-data-processing/",
-          "publishedOn": "2024-11-19T11:47:15.000Z",
-          "wordCount": 2989,
-          "title": "How to Implement Event-Driven Data Processing with Traefik, Kafka, and Docker",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1731772751529/58ee1304-a5d9-4be4-a709-1026de99ab3e.png"
-        },
-        {
-          "id": "673bdcd6088133abf555d52f",
-          "author": "Grant Riordan",
-          "description": "Knowing how your code performs is a crucial part of development. We strive to write the most optimal and performant code whilst keeping readability. In this article, I will show you how to test the performance of your code, benchmark your code, and i...",
-          "link": "https://www.freecodecamp.org/news/how-to-benchmark-your-code-in-csharp/",
-          "publishedOn": "2024-11-19T00:33:26.000Z",
-          "wordCount": 2856,
-          "title": "How to Benchmark Your Code in C#",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1731752379027/4ec760c3-4183-4852-9d3d-e3a5c75b4bcf.png"
-        },
-        {
-          "id": "673bb7ca83cab2eb3eafb7af",
-          "author": "Birks Sachdev",
-          "description": "In this tutorial, we’ll build a real-time multiplayer Tic-Tac-Toe game using Node.js, Socket.IO, and Redis. This game allows two players to connect from different browser tabs, take turns playing, and see real-time updates as they play. We'll use Red...",
-          "link": "https://www.freecodecamp.org/news/build-a-real-time-multiplayer-tic-tac-toe-game-using-websockets-and-microservices/",
-          "publishedOn": "2024-11-18T21:55:22.000Z",
-          "wordCount": 2765,
-          "title": "Build a Real-Time Multiplayer Tic-Tac-Toe Game Using WebSockets and Microservices",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1731400068976/3c951db9-929a-4d13-ba77-759932833a9a.jpeg"
         }
       ]
     }

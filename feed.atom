@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-18T00:13:35.581Z</updated>
+    <updated>2024-12-19T00:13:42.866Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[What to Do If You Don't Get into Outreachy: Exploring Other Paths to Open Source]]></title>
+        <id>676307732bca88a1f50e3b28</id>
+        <link href="https://www.freecodecamp.org/news/what-to-do-if-you-dont-get-into-outreachy/"/>
+        <updated>2024-12-18T17:33:39.000Z</updated>
+        <summary type="html"><![CDATA[Did you apply to Outreachy and receive a “Your Initial Application Was Not Successful” email? Or maybe you got into the contribution stage but after a rigorous month of contribution, you were not selected as an intern. How disheartening that can be! ...]]></summary>
+        <author>
+            <name>Victoria Nduka</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Create Multi-Step Forms With Vanilla JavaScript and CSS]]></title>
+        <id>https://css-tricks.com/?p=382857</id>
+        <link href="https://css-tricks.com/how-to-create-multi-step-forms-with-vanilla-javascript-and-css/"/>
+        <updated>2024-12-18T15:03:22.000Z</updated>
+        <summary type="html"><![CDATA[When was the last time you developed a multi-step form? There’s so much to think about and so many moving pieces that need to be managed. But doing it by hand can be a good exercise and a great way to polish the basics. Fatuma Abdullaho walks you through her first multi-step form using vanilla HTML, CSS, and JavaScript.
+How to Create Multi-Step Forms With Vanilla JavaScript and CSS originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Fatuma Abdullaho</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What ELSE is on your CSS wishlist?]]></title>
         <id>https://css-tricks.com/?p=383250</id>
@@ -757,46 +778,6 @@ Complete CSS Course originally published on CSS-Tricks, which is part of the Dig
         <summary type="html"><![CDATA[Zigbee2MQTT is an open-source tool that lets you manage all of your Zigbee devices locally, so you don’t need cloud services or multiple proprietary hubs. This gives you more control and flexibility, whether used on its own or integrated with platfor...]]></summary>
         <author>
             <name>Joyce Lin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Implement Event-Driven Data Processing with Traefik, Kafka, and Docker]]></title>
-        <id>673c7ac360ba8e6675690350</id>
-        <link href="https://www.freecodecamp.org/news/how-to-implement-event-driven-data-processing/"/>
-        <updated>2024-11-19T11:47:15.000Z</updated>
-        <summary type="html"><![CDATA[In modern system design, Event-Driven Architecture (EDA) focuses on creating, detecting, using, and responding to events within a system. Events are significant occurrences that can affect a system’s hardware or software, such as user actions, state ...]]></summary>
-        <author>
-            <name>Abraham Dahunsi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI’s Transformative Impact On Web Design: Supercharging Productivity Across The Industry]]></title>
-        <id>https://smashingmagazine.com/2024/11/ai-transformative-impact-web-design-supercharging-productivity/</id>
-        <link href="https://smashingmagazine.com/2024/11/ai-transformative-impact-web-design-supercharging-productivity/"/>
-        <updated>2024-11-19T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Discover how AI is reshaping web design, boosting productivity in design, coding, UX, and copywriting while amplifying human creativity in a new article by Paul Boag.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Paul Boag)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Benchmark Your Code in C#]]></title>
-        <id>673bdcd6088133abf555d52f</id>
-        <link href="https://www.freecodecamp.org/news/how-to-benchmark-your-code-in-csharp/"/>
-        <updated>2024-11-19T00:33:26.000Z</updated>
-        <summary type="html"><![CDATA[Knowing how your code performs is a crucial part of development. We strive to write the most optimal and performant code whilst keeping readability. In this article, I will show you how to test the performance of your code, benchmark your code, and i...]]></summary>
-        <author>
-            <name>Grant Riordan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Build a Real-Time Multiplayer Tic-Tac-Toe Game Using WebSockets and Microservices]]></title>
-        <id>673bb7ca83cab2eb3eafb7af</id>
-        <link href="https://www.freecodecamp.org/news/build-a-real-time-multiplayer-tic-tac-toe-game-using-websockets-and-microservices/"/>
-        <updated>2024-11-18T21:55:22.000Z</updated>
-        <summary type="html"><![CDATA[In this tutorial, we’ll build a real-time multiplayer Tic-Tac-Toe game using Node.js, Socket.IO, and Redis. This game allows two players to connect from different browser tabs, take turns playing, and see real-time updates as they play. We'll use Red...]]></summary>
-        <author>
-            <name>Birks Sachdev</name>
         </author>
     </entry>
 </feed>
