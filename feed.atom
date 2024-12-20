@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-19T00:13:42.866Z</updated>
+    <updated>2024-12-20T00:13:10.963Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Honeypot in Python: A Practical Guide to Security Deception]]></title>
+        <id>676450c555ae44f950ee9c1f</id>
+        <link href="https://www.freecodecamp.org/news/build-a-honeypot-with-python/"/>
+        <updated>2024-12-19T16:58:45.000Z</updated>
+        <summary type="html"><![CDATA[In cybersecurity, a honeypot is a decoy system that’s designed to attract and then detect potential attackers attempting to compromise the system. Just like a pot of honey sitting out in the open would attract flies. Think of these honeypots as secur...]]></summary>
+        <author>
+            <name>Chaitanya Rahalkar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Solutions Architect Professional (SAP-C02) Certification Course]]></title>
+        <id>6764437ed968c624aba9ad9d</id>
+        <link href="https://www.freecodecamp.org/news/aws-solutions-architect-professional-sap-c02-certification-course/"/>
+        <updated>2024-12-19T16:02:06.000Z</updated>
+        <summary type="html"><![CDATA[Earning the AWS Certified Solutions Architect – Professional certification is a significant step for cloud professionals who want to validate their advanced skills in designing and deploying complex solutions on AWS. This credential is highly respect...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn Game Development with JavaScript and Kaplay]]></title>
+        <id>67644277d968c624aba9ad8b</id>
+        <link href="https://www.freecodecamp.org/news/learn-game-development-with-javascript-and-kaplay/"/>
+        <updated>2024-12-19T15:57:43.000Z</updated>
+        <summary type="html"><![CDATA[Game development is an exciting way to bring your creative ideas to life. If you're new to coding or want to expand your skills, JavaScript is one of the best programming languages to learn. JavaScript is versatile and widely used for web-based games...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build Smarter Spring Boot Applications with Spring AI]]></title>
+        <id>67644173f5e203def9a9e2b4</id>
+        <link href="https://www.freecodecamp.org/news/build-smarter-spring-boot-applications-with-spring-ai/"/>
+        <updated>2024-12-19T15:53:23.000Z</updated>
+        <summary type="html"><![CDATA[If you're a Java developer working with Spring Boot, you might wonder how to harness the power of AI in your projects. The good news is that Spring AI, an emerging tool within the Spring ecosystem, offers seamless AI integrations that are both access...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Make LLMs Better at Math Using AI Agents, MathJS, and BaseAI Tool Calls]]></title>
+        <id>6764337a5ad7698ab9779d34</id>
+        <link href="https://www.freecodecamp.org/news/make-llms-better-at-math-with-ai-agents/"/>
+        <updated>2024-12-19T14:53:46.000Z</updated>
+        <summary type="html"><![CDATA[Large Language Models (LLMs) like GPT often struggle to answer mathematical questions. In fact, if you ask a human a tough math question, like what is 185 cm in ft, they’ll struggle as well. They’d likely need a calculator to perform this conversion ...]]></summary>
+        <author>
+            <name>Maham Codes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What to Do If You Don't Get into Outreachy: Exploring Other Paths to Open Source]]></title>
         <id>676307732bca88a1f50e3b28</id>
@@ -697,87 +747,6 @@ Solved by CSS: Donuts Scopes originally published on CSS-Tricks, which is part o
 Invoker Commands: Additional Ways to Work With Dialog, Popover… and More? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Daniel Schwarz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Address Common Accessibility Challenges in iOS Mobile Apps Using SwiftUI]]></title>
-        <id>673dc0d9ed2a01b66ee9f37c</id>
-        <link href="https://www.freecodecamp.org/news/how-to-address-ios-accessibility-challenges-using-swiftui/"/>
-        <updated>2024-11-20T10:58:33.000Z</updated>
-        <summary type="html"><![CDATA[Mobile apps are essential tools in daily life, making accessibility a top priority. However, many apps still do not provide inclusive experiences for people with disabilities. This article highlights nine common accessibility challenges in mobile app...]]></summary>
-        <author>
-            <name>Namaswi Chandarana</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Flexible API with Feature Flags Using Open Source Tools]]></title>
-        <id>673d179a27c7af0d174dc2fc</id>
-        <link href="https://www.freecodecamp.org/news/build-a-flexible-api-with-feature-flags-using-open-source-tools/"/>
-        <updated>2024-11-19T22:56:26.000Z</updated>
-        <summary type="html"><![CDATA[Feature flagging has changed the paradigm of how backend developers can test and modify the things they build. With feature flags, we can enable and disable a feature or change the functionality of something on the fly with a single click (no need to...]]></summary>
-        <author>
-            <name>Pradumna Saraf</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Understanding Modern Development Frameworks: A Guide for Developers and Technical Decision-makers]]></title>
-        <id>673cc307f6df251b434f7f90</id>
-        <link href="https://www.freecodecamp.org/news/understanding-modern-development-frameworks-guide-for-devs/"/>
-        <updated>2024-11-19T16:55:35.000Z</updated>
-        <summary type="html"><![CDATA[As a developer for over 20 years, I've seen firsthand how choosing the right framework can make or break a project. The term "framework" has become so broad that it's often misunderstood. Let's clear up the confusion and help you make better technica...]]></summary>
-        <author>
-            <name>Jesse Hall</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Scalable URL Shortener with Distributed Caching Using Redis]]></title>
-        <id>673cab723502f2a00d61ece1</id>
-        <link href="https://www.freecodecamp.org/news/build-a-scalable-url-shortener-with-distributed-caching-using-redis/"/>
-        <updated>2024-11-19T15:14:58.000Z</updated>
-        <summary type="html"><![CDATA[In this tutorial, we'll build a scalable URL shortening service using Node.js and Redis. This service will leverage distributed caching to handle high traffic efficiently, reduce latency, and scale seamlessly. We'll explore key concepts such as consi...]]></summary>
-        <author>
-            <name>Birks Sachdev</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Distributed Rate Limiting System Using Redis and Lua Scripts]]></title>
-        <id>673ca31d6c7f56d7a860bbdf</id>
-        <link href="https://www.freecodecamp.org/news/build-rate-limiting-system-using-redis-and-lua/"/>
-        <updated>2024-11-19T14:39:25.000Z</updated>
-        <summary type="html"><![CDATA[In this comprehensive guide, you’ll build a distributed rate limiter using Redis and Lua scripting to control user requests in a high-traffic environment. Rate limiting is crucial in any system to prevent abuse, manage traffic, and protect your resou...]]></summary>
-        <author>
-            <name>Birks Sachdev</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Complete CSS Course]]></title>
-        <id>https://css-tricks.com/?p=382566</id>
-        <link href="https://css-tricks.com/complete-css-course/"/>
-        <updated>2024-11-19T14:21:28.000Z</updated>
-        <summary type="html"><![CDATA[Do you subscribe to Piccalilli? You should. If you're reading that name for the first time, that would be none other than Andy Bell running the ship and he's reimagined the site from the ground-up after coming out of hibernation this year. You're likely familiar with Andy's great writing here on CSS-Tricks.
-Complete CSS Course originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Create a Meme Generator Using HTML Canvas]]></title>
-        <id>673c929fd0881b2b1feaf916</id>
-        <link href="https://www.freecodecamp.org/news/create-meme-generator-using-html-canvas/"/>
-        <updated>2024-11-19T13:29:03.000Z</updated>
-        <summary type="html"><![CDATA[We all come across memes almost every day on the internet. Whether you're scrolling through social media or chatting with friends, there's a good chance you'll stumble on a meme, or even share one yourself. A meme can be an image, a video, or gif tha...]]></summary>
-        <author>
-            <name>Timothy Olanrewaju</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Set Up Zigbee2MQTT with Docker for Home Automation]]></title>
-        <id>673c8cdcb7f79bc9aa2f300f</id>
-        <link href="https://www.freecodecamp.org/news/how-to-set-up-zigbee2mqtt-with-docker/"/>
-        <updated>2024-11-19T13:04:28.000Z</updated>
-        <summary type="html"><![CDATA[Zigbee2MQTT is an open-source tool that lets you manage all of your Zigbee devices locally, so you don’t need cloud services or multiple proprietary hubs. This gives you more control and flexibility, whether used on its own or integrated with platfor...]]></summary>
-        <author>
-            <name>Joyce Lin</name>
         </author>
     </entry>
 </feed>
