@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-21T00:12:41.312Z</updated>
+    <updated>2024-12-22T00:14:06.879Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Why developers needn't fear CSS – with the King of CSS himself Kevin Powell [Podcast #154]]]></title>
+        <id>6765e0f59e51f9e8b04f2529</id>
+        <link href="https://www.freecodecamp.org/news/how-to-not-hate-css-kevin-powell-interview-154/"/>
+        <updated>2024-12-20T21:26:13.000Z</updated>
+        <summary type="html"><![CDATA[On this week's episode of the podcast, freeCodeCamp founder Quincy Larson interviews Kevin Powell. He's a designer, a software engineer, and an expert in CSS. He's runs a CSS-focused YouTube channel with nearly a million subscribers. There's nothing ...]]></summary>
+        <author>
+            <name>Quincy Larson</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Run Open Source LLMs on Your Own Computer Using Ollama]]></title>
         <id>6765d8da1ec59713cfa06b50</id>
@@ -737,16 +747,6 @@ Alt Text: Not Always Needed originally published on CSS-Tricks, which is part of
 Solved by CSS: Donuts Scopes originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Juan Diego Rodríguez</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why You Should Speak At Events As An Early-Career Professional]]></title>
-        <id>https://smashingmagazine.com/2024/11/why-you-speak-events-early-career-professional/</id>
-        <link href="https://smashingmagazine.com/2024/11/why-you-speak-events-early-career-professional/"/>
-        <updated>2024-11-22T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Many talented professionals hold back from speaking at tech events, believing they need years of experience or expert status first. Drawing from her experience as a first-time speaker at WordPress Accessibility Day 2024, Victoria Nduka discusses how speaking at events benefits both individuals and the tech community.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Victoria Nduka)</name>
         </author>
     </entry>
 </feed>

@@ -297,21 +297,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/the-hype-around-signals/the-hype-around-signals.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2024/11/why-you-speak-events-early-career-professional/",
-          "author": "hello@smashingmagazine.com (Victoria Nduka)",
-          "description": "Many talented professionals hold back from speaking at tech events, believing they need years of experience or expert status first. Drawing from her experience as a first-time speaker at WordPress Accessibility Day 2024, Victoria Nduka discusses how speaking at events benefits both individuals and the tech community.",
-          "link": "https://smashingmagazine.com/2024/11/why-you-speak-events-early-career-professional/",
-          "publishedOn": "2024-11-22T09:00:00.000Z",
-          "wordCount": 5818,
-          "title": "Why You Should Speak At Events As An Early-Career Professional",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/why-you-speak-events-early-career-professional/why-you-speak-events-early-career-professional.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/why-you-speak-events-early-career-professional/why-you-speak-events-early-career-professional.jpg"
         }
       ]
     },
@@ -320,6 +305,16 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "6765e0f59e51f9e8b04f2529",
+          "author": "Quincy Larson",
+          "description": "On this week's episode of the podcast, freeCodeCamp founder Quincy Larson interviews Kevin Powell. He's a designer, a software engineer, and an expert in CSS. He's runs a CSS-focused YouTube channel with nearly a million subscribers. There's nothing ...",
+          "link": "https://www.freecodecamp.org/news/how-to-not-hate-css-kevin-powell-interview-154/",
+          "publishedOn": "2024-12-20T21:26:13.000Z",
+          "wordCount": 1268,
+          "title": "Why developers needn't fear CSS – with the King of CSS himself Kevin Powell [Podcast #154]",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1734729865195/15498ad9-15f9-4dc3-98cc-8d7f07cec348.png"
+        },
         {
           "id": "6765d8da1ec59713cfa06b50",
           "author": "Krishna Sarathi Ghosh",
