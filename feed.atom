@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-23T00:13:35.564Z</updated>
+    <updated>2024-12-24T00:13:09.052Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[A CSS Wishlist for 2025]]></title>
+        <id>https://css-tricks.com/?p=383249</id>
+        <link href="https://css-tricks.com/a-css-wishlist-for-2025/"/>
+        <updated>2024-12-23T15:07:41.000Z</updated>
+        <summary type="html"><![CDATA[2024 has been one of the greatest years for CSS: cross-document view transitions, scroll-driven animations, anchor positioning, animate to height: auto, and many others. It seems out of touch to ask, but what else do we …
+A CSS Wishlist for 2025 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Juan Diego Rodríguez</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Design Leader Dilemma]]></title>
+        <id>https://smashingmagazine.com/2024/12/the-design-leader-dilemma/</id>
+        <link href="https://smashingmagazine.com/2024/12/the-design-leader-dilemma/"/>
+        <updated>2024-12-23T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Design leaders are expected to deliver the impossible. Instead of trying, we need to redefine our role from implementor to enabler.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Paul Boag)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Become a Web Developer – a Beginner's Guide]]></title>
+        <id>676884d7626250532f8a0785</id>
+        <link href="https://www.freecodecamp.org/news/how-to-become-a-web-developer-beginners-guide/"/>
+        <updated>2024-12-22T21:29:59.000Z</updated>
+        <summary type="html"><![CDATA[Are you considering a career in web development? If so, then you are making an excellent choice. Web Development is one of the most in-demand skills in the market in 2024. With over 5.038 billion Internet users, web development has a promising future...]]></summary>
+        <author>
+            <name>Kunal Nalawade</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Why developers needn't fear CSS – with the King of CSS himself Kevin Powell [Podcast #154]]]></title>
         <id>6765e0f59e51f9e8b04f2529</id>
