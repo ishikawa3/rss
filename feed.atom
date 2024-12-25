@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-24T00:13:09.052Z</updated>
+    <updated>2024-12-25T00:12:54.570Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Major freeCodeCamp Curriculum Updates Going Live in Time for Christmas]]></title>
+        <id>676a0ca777f09ac78ed9802d</id>
+        <link href="https://www.freecodecamp.org/news/christmas-2025-freecodecamp-curriculum-updates/"/>
+        <updated>2024-12-24T01:21:43.000Z</updated>
+        <summary type="html"><![CDATA[Merry Christmas campers! 🎄 freeCodeCamp just shipped a ton of FREE learning tools for you to dig into over the holidays: 🏗️ The new Certified Full Stack Developer curriculum is here! 🗨️ The new English for Developers CEFR Level B1 🤳 Major updates...]]></summary>
+        <author>
+            <name>Quincy Larson</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A CSS Wishlist for 2025]]></title>
         <id>https://css-tricks.com/?p=383249</id>

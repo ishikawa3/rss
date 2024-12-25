@@ -321,6 +321,16 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "676a0ca777f09ac78ed9802d",
+          "author": "Quincy Larson",
+          "description": "Merry Christmas campers! 🎄 freeCodeCamp just shipped a ton of FREE learning tools for you to dig into over the holidays: 🏗️ The new Certified Full Stack Developer curriculum is here! 🗨️ The new English for Developers CEFR Level B1 🤳 Major updates...",
+          "link": "https://www.freecodecamp.org/news/christmas-2025-freecodecamp-curriculum-updates/",
+          "publishedOn": "2024-12-24T01:21:43.000Z",
+          "wordCount": 1417,
+          "title": "Major freeCodeCamp Curriculum Updates Going Live in Time for Christmas",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1735001839858/19f1c48b-0d23-4bdf-882b-9f008e288719.png"
+        },
+        {
           "id": "676884d7626250532f8a0785",
           "author": "Kunal Nalawade",
           "description": "Are you considering a career in web development? If so, then you are making an excellent choice. Web Development is one of the most in-demand skills in the market in 2024. With over 5.038 billion Internet users, web development has a promising future...",
