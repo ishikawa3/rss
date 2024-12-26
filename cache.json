@@ -160,16 +160,6 @@
           "wordCount": 1753,
           "title": "Follow Up: We Officially Have a CSS Logo!",
           "imageUrl": "https://css-tricks.com/wp-content/uploads/2024/11/css-logos.avif"
-        },
-        {
-          "id": "https://css-tricks.com/?p=382593",
-          "author": "Geoff Graham",
-          "description": "Most images require description for clarity, there are exceptions. This set of notes looks at different situations and contexts where alt text may not be needed and what to do in those cases.\nAlt Text: Not Always Needed originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/alt-text-not-always-needed/",
-          "publishedOn": "2024-11-25T15:23:39.000Z",
-          "wordCount": 2876,
-          "title": "Alt Text: Not Always Needed",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/02/image-alt-attribute.png"
         }
       ]
     },
@@ -779,16 +769,6 @@
           "wordCount": 3971,
           "title": "How to Simplify AWS Multi-Account Management with Terraform and GitOps",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1730239127065/317aa4dd-aba9-4a9e-8abb-7cacfbd0e672.png"
-        },
-        {
-          "id": "6745acca09ace2d743c17be9",
-          "author": "Kedar Makode",
-          "description": "In the world of modern software development, efficiency and consistency are key. Developers and operations teams need solutions that help them manage, deploy, and run applications seamlessly across different environments. Containers and Docker are te...",
-          "link": "https://www.freecodecamp.org/news/an-introduction-to-docker-and-containers-for-beginners/",
-          "publishedOn": "2024-11-26T11:11:06.000Z",
-          "wordCount": 2911,
-          "title": "An Introduction to Docker and Containers for Beginners",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1731093934598/6f2fa740-63e6-48e9-8e17-364544d1fcc6.png"
         }
       ]
     }
