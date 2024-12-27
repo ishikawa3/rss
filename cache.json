@@ -150,16 +150,6 @@
             "type": "video/mp4"
           },
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2024/11/wp-multisite.jpg"
-        },
-        {
-          "id": "https://css-tricks.com/?p=382773",
-          "author": "Ryan Trimble",
-          "description": "Adam Argyle wraps up the search for a CSS logo, check out CSS' new look!\nFollow Up: We Officially Have a CSS Logo! originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/follow-up-we-officially-have-a-css-logo/",
-          "publishedOn": "2024-11-26T15:53:39.000Z",
-          "wordCount": 1753,
-          "title": "Follow Up: We Officially Have a CSS Logo!",
-          "imageUrl": "https://css-tricks.com/wp-content/uploads/2024/11/css-logos.avif"
         }
       ]
     },
@@ -287,21 +277,6 @@
             "type": "image/png"
           },
           "imageUrl": "http://files.smashing.media/articles/desktop-wallpaper-calendars-december-2024/dec-24-paws-itively-festive-preview-opt.png"
-        },
-        {
-          "id": "https://smashingmagazine.com/2024/11/the-hype-around-signals/",
-          "author": "hello@smashingmagazine.com (Atila Fassina)",
-          "description": "From KnockoutJS to modern UI libraries like SolidJS, Vue.js, and Svelte, signals revolutionized how we think about reactivity in UIs. Here’s a deep dive into their history and impact by Atila Fassina.",
-          "link": "https://smashingmagazine.com/2024/11/the-hype-around-signals/",
-          "publishedOn": "2024-11-27T10:00:00.000Z",
-          "wordCount": 4227,
-          "title": "The Hype Around Signals",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/the-hype-around-signals/the-hype-around-signals.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/the-hype-around-signals/the-hype-around-signals.jpg"
         }
       ]
     },
@@ -739,36 +714,6 @@
           "wordCount": 2413,
           "title": "How to Handle MongoDB Migrations with ts-migrate-mongoose",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1732615343335/0a1b3e5e-bfa7-4f57-81a7-7f4bac9e8b0a.png"
-        },
-        {
-          "id": "67462204c9e1cbc5414b4e0c",
-          "author": "Kedar Makode",
-          "description": "If you want to practice and improve your web hosting skills, this tutorial is for you. With AWS EC2 and a little magic called user data scripts, you’ll be running a stunning website with a CSS template in no time. And the best part? You don’t need to...",
-          "link": "https://www.freecodecamp.org/news/aws-ec2-how-to-host-a-website-with-user-data-scripts/",
-          "publishedOn": "2024-11-26T19:31:16.000Z",
-          "wordCount": 1872,
-          "title": "AWS EC2: How to Quickly Host Your Website with User Data Scripts",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1732639814571/62719c49-cd15-4f2c-9586-22a5a300bc4a.png"
-        },
-        {
-          "id": "6745ffa3608b32cb4a868bca",
-          "author": "Beau Carnes",
-          "description": "Artificial Intelligence is evolving rapidly, and with tools like Ollama, you can bring cutting-edge AI capabilities directly to your local environment. Learning how to harness local large language models (LLMs) can open up a world of opportunities. L...",
-          "link": "https://www.freecodecamp.org/news/local-ai-development-with-ollama-course/",
-          "publishedOn": "2024-11-26T17:04:35.000Z",
-          "wordCount": 1335,
-          "title": "Local AI Development with Ollama Course",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1732640638451/ecee4cf1-efb6-41cc-823b-4808bc1670df.jpeg"
-        },
-        {
-          "id": "6745e19265a8ceed4a65c3eb",
-          "author": "Nitheesh Poojary",
-          "description": "In the past, in the world of cloud computing, a company's journey often began with a single AWS account. In this unified space, development and testing environments coexisted, while the production environment lived in a separate account. This arrange...",
-          "link": "https://www.freecodecamp.org/news/simplify-aws-multi-account-management-with-terraform-and-gitops/",
-          "publishedOn": "2024-11-26T14:56:18.000Z",
-          "wordCount": 3971,
-          "title": "How to Simplify AWS Multi-Account Management with Terraform and GitOps",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1730239127065/317aa4dd-aba9-4a9e-8abb-7cacfbd0e672.png"
         }
       ]
     }
