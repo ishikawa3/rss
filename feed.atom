@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-27T00:12:56.890Z</updated>
+    <updated>2024-12-28T00:12:34.685Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
@@ -604,67 +604,6 @@ One of Those “Onboarding” UIs, With Anchor Positioning originally published 
         <summary type="html"><![CDATA[In today’s fast-paced tech landscape, microservices have emerged as one of the most efficient ways to architect and manage scalable, flexible, and resilient cloud-based systems. Whether you're working with large-scale applications or building somethi...]]></summary>
         <author>
             <name>Adekola Olawale</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Memory Card Game Using React]]></title>
-        <id>674755a7cc41aab7422d5afb</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-a-memory-card-game-using-react/"/>
-        <updated>2024-11-27T17:23:51.000Z</updated>
-        <summary type="html"><![CDATA[Recently, while watching my kid 🧒🏻 playing free memory games on her tablet, I noticed her struggling with an overwhelming number of ads and annoying pop-up banners. This inspired me to build a similar game for her. Since she's currently into anime,...]]></summary>
-        <author>
-            <name>Mihail Gaberov</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WordPress Multi-Multisite: A Case Study]]></title>
-        <id>https://css-tricks.com/?p=382697</id>
-        <link href="https://css-tricks.com/wordpress-multi-multisite-a-case-study/"/>
-        <updated>2024-11-27T16:09:14.000Z</updated>
-        <summary type="html"><![CDATA[What's it look like to create a dashboard within the WordPress admin for analyzing Google Analytics data across 900 blogs across 25 multisite instances? It involves designing a user-friendly interface, leveraging the WordPress REST API, implementing a plugin for data retrieval, and addressing challenges like rate limits and authentication.
-WordPress Multi-Multisite: A Case Study originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Scott Fennell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn Event Driven Architecture by Building a SaaS Application]]></title>
-        <id>674742bddd0689ed5ac84f80</id>
-        <link href="https://www.freecodecamp.org/news/learn-event-driven-architecture-by-building-a-saas-application/"/>
-        <updated>2024-11-27T16:03:09.000Z</updated>
-        <summary type="html"><![CDATA[Building modern, scalable web applications requires mastering the tools and patterns that power dynamic, production-ready platforms. Event-driven architecture is one of these patterns, enabling applications to efficiently handle real-time interaction...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn React from Bob Ziroll]]></title>
-        <id>67473fd3641b955d44e3795b</id>
-        <link href="https://www.freecodecamp.org/news/learn-react-2024/"/>
-        <updated>2024-11-27T15:50:43.000Z</updated>
-        <summary type="html"><![CDATA[Learning React can feel challenging at first, especially when you're unsure of how to start or find yourself staring at an empty code editor. But the right course can help you understand the core concepts and help you gain practical experience by bui...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Hackers Use Command Execution to Break Into Systems]]></title>
-        <id>67472c4bfc3f1e96f2028a30</id>
-        <link href="https://www.freecodecamp.org/news/how-hackers-use-command-execution-to-break-into-systems/"/>
-        <updated>2024-11-27T14:27:23.000Z</updated>
-        <summary type="html"><![CDATA[When learning about cybersecurity, you’ll quickly realize that some vulnerabilities are more dangerous than others. One of the most serious ones is called command execution.  Hackers use it to run harmful commands on a system, gain access to sensitiv...]]></summary>
-        <author>
-            <name>Manish Shivanandhan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Handle MongoDB Migrations with ts-migrate-mongoose]]></title>
-        <id>6747274cb7666002fd1cb1a6</id>
-        <link href="https://www.freecodecamp.org/news/handle-mongodb-migrations-with-ts-migrate-mongoose/"/>
-        <updated>2024-11-27T14:06:04.000Z</updated>
-        <summary type="html"><![CDATA[Database migrations are modifications made to a database. These modifications may include changing the schema of a table, updating the data in a set of records, seeding data or deleting a range of records. Database migrations are usually run before a...]]></summary>
-        <author>
-            <name>Orim Dominic Adah</name>
         </author>
     </entry>
 </feed>

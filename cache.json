@@ -135,21 +135,6 @@
             "type": "video/quicktime"
           },
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2021/08/css-modules-connections.jpg"
-        },
-        {
-          "id": "https://css-tricks.com/?p=382697",
-          "author": "Scott Fennell",
-          "description": "What's it look like to create a dashboard within the WordPress admin for analyzing Google Analytics data across 900 blogs across 25 multisite instances? It involves designing a user-friendly interface, leveraging the WordPress REST API, implementing a plugin for data retrieval, and addressing challenges like rate limits and authentication.\nWordPress Multi-Multisite: A Case Study originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/wordpress-multi-multisite-a-case-study/",
-          "publishedOn": "2024-11-27T16:09:14.000Z",
-          "wordCount": 5785,
-          "title": "WordPress Multi-Multisite: A Case Study",
-          "enclosure": {
-            "url": "https://css-tricks.com/wp-content/uploads/2024/11/2b6LXlN.mp4",
-            "length": "783997",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2024/11/wp-multisite.jpg"
         }
       ]
     },
@@ -664,56 +649,6 @@
           "wordCount": 31747,
           "title": "The Microservices Book – Learn How to Build and Manage Services in the Cloud",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1732028836710/aedce669-1e41-4bb1-8619-6994ed741b5c.png"
-        },
-        {
-          "id": "674755a7cc41aab7422d5afb",
-          "author": "Mihail Gaberov",
-          "description": "Recently, while watching my kid 🧒🏻 playing free memory games on her tablet, I noticed her struggling with an overwhelming number of ads and annoying pop-up banners. This inspired me to build a similar game for her. Since she's currently into anime,...",
-          "link": "https://www.freecodecamp.org/news/how-to-build-a-memory-card-game-using-react/",
-          "publishedOn": "2024-11-27T17:23:51.000Z",
-          "wordCount": 4499,
-          "title": "How to Build a Memory Card Game Using React",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1732517515517/1ddfb635-6188-492a-9216-4b35ffb92096.png"
-        },
-        {
-          "id": "674742bddd0689ed5ac84f80",
-          "author": "Beau Carnes",
-          "description": "Building modern, scalable web applications requires mastering the tools and patterns that power dynamic, production-ready platforms. Event-driven architecture is one of these patterns, enabling applications to efficiently handle real-time interaction...",
-          "link": "https://www.freecodecamp.org/news/learn-event-driven-architecture-by-building-a-saas-application/",
-          "publishedOn": "2024-11-27T16:03:09.000Z",
-          "wordCount": 1305,
-          "title": "Learn Event Driven Architecture by Building a SaaS Application",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1732723339763/00a52032-bb51-4b07-b666-7bc771e58395.jpeg"
-        },
-        {
-          "id": "67473fd3641b955d44e3795b",
-          "author": "Beau Carnes",
-          "description": "Learning React can feel challenging at first, especially when you're unsure of how to start or find yourself staring at an empty code editor. But the right course can help you understand the core concepts and help you gain practical experience by bui...",
-          "link": "https://www.freecodecamp.org/news/learn-react-2024/",
-          "publishedOn": "2024-11-27T15:50:43.000Z",
-          "wordCount": 1303,
-          "title": "Learn React from Bob Ziroll",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1732722597387/3673fe55-8729-41b5-8517-f59d2e5d9fb8.jpeg"
-        },
-        {
-          "id": "67472c4bfc3f1e96f2028a30",
-          "author": "Manish Shivanandhan",
-          "description": "When learning about cybersecurity, you’ll quickly realize that some vulnerabilities are more dangerous than others. One of the most serious ones is called command execution.  Hackers use it to run harmful commands on a system, gain access to sensitiv...",
-          "link": "https://www.freecodecamp.org/news/how-hackers-use-command-execution-to-break-into-systems/",
-          "publishedOn": "2024-11-27T14:27:23.000Z",
-          "wordCount": 1837,
-          "title": "How Hackers Use Command Execution to Break Into Systems",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1732527958866/65644a19-376f-480b-a46e-d5f204ce9515.jpeg"
-        },
-        {
-          "id": "6747274cb7666002fd1cb1a6",
-          "author": "Orim Dominic Adah",
-          "description": "Database migrations are modifications made to a database. These modifications may include changing the schema of a table, updating the data in a set of records, seeding data or deleting a range of records. Database migrations are usually run before a...",
-          "link": "https://www.freecodecamp.org/news/handle-mongodb-migrations-with-ts-migrate-mongoose/",
-          "publishedOn": "2024-11-27T14:06:04.000Z",
-          "wordCount": 2413,
-          "title": "How to Handle MongoDB Migrations with ts-migrate-mongoose",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1732615343335/0a1b3e5e-bfa7-4f57-81a7-7f4bac9e8b0a.png"
         }
       ]
     }
