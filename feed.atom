@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-28T00:12:34.685Z</updated>
+    <updated>2024-12-29T00:14:25.270Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
@@ -594,16 +594,6 @@ One of Those “Onboarding” UIs, With Anchor Positioning originally published 
         <summary type="html"><![CDATA[December is almost here, and that means: It’s time for some new desktop wallpapers! Created with love by creatives from all around the world, they are bound to lighten up the last few weeks of the year and, who knows, maybe even spark new ideas. Enjoy!]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Cosima Mielke)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Microservices Book – Learn How to Build and Manage Services in the Cloud]]></title>
-        <id>67488780f60a357b6cecd459</id>
-        <link href="https://www.freecodecamp.org/news/the-microservices-book-build-and-manage-services-in-the-cloud/"/>
-        <updated>2024-11-28T15:08:48.000Z</updated>
-        <summary type="html"><![CDATA[In today’s fast-paced tech landscape, microservices have emerged as one of the most efficient ways to architect and manage scalable, flexible, and resilient cloud-based systems. Whether you're working with large-scale applications or building somethi...]]></summary>
-        <author>
-            <name>Adekola Olawale</name>
         </author>
     </entry>
 </feed>
