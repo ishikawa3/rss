@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=383295",
+          "author": "Geoff Graham",
+          "description": "I'm more thankful this time around because, last year, I didn't even get to write this post. But now that I'm back, writing this feels so, so, so good. There's a lot more gusto going into my writing when I say: thank you so very much! Let's tie a bow on this year and round up what happened around here in 2024.\nThank You (2024 Edition) originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/thank-you-2024-edition/",
+          "publishedOn": "2024-12-30T16:15:37.000Z",
+          "wordCount": 3607,
+          "title": "Thank You (2024 Edition)",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/383295"
+        },
+        {
           "id": "https://css-tricks.com/?p=383249",
           "author": "Juan Diego Rodríguez",
           "description": "2024 has been one of the greatest years for CSS: cross-document view transitions, scroll-driven animations, anchor positioning, animate to height: auto, and many others. It seems out of touch to ask, but what else do we …\nA CSS Wishlist for 2025 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -255,6 +265,16 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "6772ae6d57dd031ab1ad4671",
+          "author": "Beau Carnes",
+          "description": "Mobile app development has become an essential skill in today’s digital landscape, and React Native is one of the leading tools for creating powerful, cross-platform mobile apps. React Native combines the best parts of React and native app developmen...",
+          "link": "https://www.freecodecamp.org/news/mobile-app-development-with-react-native/",
+          "publishedOn": "2024-12-30T14:30:05.000Z",
+          "wordCount": 1423,
+          "title": "Mobile App Development with React Native",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1735568898507/db93197c-fbed-454d-8134-49b398c4a5df.png"
+        },
         {
           "id": "676a0ca777f09ac78ed9802d",
           "author": "Quincy Larson",

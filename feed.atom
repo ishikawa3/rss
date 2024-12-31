@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-30T00:13:43.536Z</updated>
+    <updated>2024-12-31T00:12:54.551Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Thank You (2024 Edition)]]></title>
+        <id>https://css-tricks.com/?p=383295</id>
+        <link href="https://css-tricks.com/thank-you-2024-edition/"/>
+        <updated>2024-12-30T16:15:37.000Z</updated>
+        <summary type="html"><![CDATA[I'm more thankful this time around because, last year, I didn't even get to write this post. But now that I'm back, writing this feels so, so, so good. There's a lot more gusto going into my writing when I say: thank you so very much! Let's tie a bow on this year and round up what happened around here in 2024.
+Thank You (2024 Edition) originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mobile App Development with React Native]]></title>
+        <id>6772ae6d57dd031ab1ad4671</id>
+        <link href="https://www.freecodecamp.org/news/mobile-app-development-with-react-native/"/>
+        <updated>2024-12-30T14:30:05.000Z</updated>
+        <summary type="html"><![CDATA[Mobile app development has become an essential skill in today’s digital landscape, and React Native is one of the leading tools for creating powerful, cross-platform mobile apps. React Native combines the best parts of React and native app developmen...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Major freeCodeCamp Curriculum Updates Going Live in Time for Christmas]]></title>
         <id>676a0ca777f09ac78ed9802d</id>
