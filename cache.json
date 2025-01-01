@@ -154,6 +154,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2024/12/desktop-wallpaper-calendars-january-2025/",
+          "author": "hello@smashingmagazine.com (Cosima Mielke)",
+          "description": "Maybe 2025 has already started as you’re reading this, maybe you’re still waiting for the big countdown to begin — either way, it’s never too late or too early for some New Year’s inspiration! Our new collection of desktop wallpapers has got you covered.",
+          "link": "https://smashingmagazine.com/2024/12/desktop-wallpaper-calendars-january-2025/",
+          "publishedOn": "2024-12-31T10:00:00.000Z",
+          "wordCount": 4554,
+          "title": "New Year, New Hopes, New Dreams (January 2025 Wallpapers Edition)",
+          "enclosure": {
+            "url": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/9401740e-29f2-4dc7-828b-a7558c7e82a7/jan-18-open-the-doors-of-the-new-year-preview-opt.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/9401740e-29f2-4dc7-828b-a7558c7e82a7/jan-18-open-the-doors-of-the-new-year-preview-opt.png"
+        },
+        {
           "id": "https://smashingmagazine.com/2024/12/the-design-leader-dilemma/",
           "author": "hello@smashingmagazine.com (Paul Boag)",
           "description": "Design leaders are expected to deliver the impossible. Instead of trying, we need to redefine our role from implementor to enabler.",
