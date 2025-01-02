@@ -130,21 +130,6 @@
           "wordCount": 2039,
           "title": "The Law of Diminishing Returns",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2018/11/cssstacks.png"
-        },
-        {
-          "id": "https://css-tricks.com/?p=382731",
-          "author": "Ryan Trimble",
-          "description": "We can anchor one element to another. We can also attach one element to multiple anchors. In this experiment, Ryan riffs on those ideas and comes up with a new way to transition between two anchors and the result is a practical use case that would normally require JavaScript.\nOne of Those “Onboarding” UIs, With Anchor Positioning originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/one-of-those-onboarding-uis-with-anchor-positioning/",
-          "publishedOn": "2024-12-02T14:02:13.000Z",
-          "wordCount": 5054,
-          "title": "One of Those “Onboarding” UIs, With Anchor Positioning",
-          "enclosure": {
-            "url": "https://css-tricks.com/wp-content/uploads/2024/11/anchor-view-driven-animation.mov",
-            "length": "7007669",
-            "type": "video/quicktime"
-          },
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2021/08/css-modules-connections.jpg"
         }
       ]
     },
@@ -153,6 +138,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2024/12/new-front-end-features-for-designers-in-2025/",
+          "author": "hello@smashingmagazine.com (Cosima Mielke)",
+          "description": "Searching for the most flexible front-end workflows and toolkits, it’s easy to forget how powerful some of the fundamentals on the web have become these days. This post is a journey through new front-end features and what they are capable of.",
+          "link": "https://smashingmagazine.com/2024/12/new-front-end-features-for-designers-in-2025/",
+          "publishedOn": "2024-12-31T12:00:00.000Z",
+          "wordCount": 5508,
+          "title": "New Front-End Features For Designers In 2025",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/new-front-end-features-for-designers-in-2025/anchor-positioning-opt.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "http://files.smashing.media/articles/new-front-end-features-for-designers-in-2025/anchor-positioning-opt.png"
+        },
         {
           "id": "https://smashingmagazine.com/2024/12/desktop-wallpaper-calendars-january-2025/",
           "author": "hello@smashingmagazine.com (Cosima Mielke)",
@@ -242,36 +242,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/importance-graceful-degradation-accessible-interface-design/importance-graceful-degradation-accessible-interface-design.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2024/12/bundle-up-and-save/",
-          "author": "hello@smashingmagazine.com (The Smashing Team)",
-          "description": "It’s the end of the year, and as we look at our inventory, we thought, “Let’s help everyone in our community get ready for the year ahead!” Get friendly pricing on bundles of books and workshops to dive deep into the subjects you care about most. Let’s bundle up and save!",
-          "link": "https://smashingmagazine.com/2024/12/bundle-up-and-save/",
-          "publishedOn": "2024-12-03T12:00:00.000Z",
-          "wordCount": 3704,
-          "title": "Bundle Up And Save On Smashing Books And Workshops",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/bundle-up/bundle-30-magazine-opt.png",
-            "length": "0",
-            "type": "image/png"
-          },
-          "imageUrl": "http://files.smashing.media/articles/bundle-up/bundle-30-magazine-opt.png"
-        },
-        {
-          "id": "https://smashingmagazine.com/2024/12/creating-effective-multistep-form-better-user-experience/",
-          "author": "hello@smashingmagazine.com (Amejimaobari Ollornwi)",
-          "description": "Forms are already notoriously tough to customize and style — to the extent that we’re already starting to see new ideas for more flexible control. But what we don’t often discuss is designing good-form experiences beyond validation. That’s what Jima Victor discusses in this article, focusing specifically on creating multi-step forms that involve navigation between sections.",
-          "link": "https://smashingmagazine.com/2024/12/creating-effective-multistep-form-better-user-experience/",
-          "publishedOn": "2024-12-03T10:00:00.000Z",
-          "wordCount": 5222,
-          "title": "Creating An Effective Multistep Form For Better User Experience",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/creating-effective-multistep-form-better-user-experience/creating-effective-multistep-form-better-user-experience.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/creating-effective-multistep-form-better-user-experience/creating-effective-multistep-form-better-user-experience.jpg"
         }
       ]
     },
@@ -649,16 +619,6 @@
           "wordCount": 2542,
           "title": "How to Set Up Google Authentication in Laravel Applications",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1732711351776/931a1ade-e652-4a0b-a16e-925482128fc0.png"
-        },
-        {
-          "id": "674de68794b89afe5676934e",
-          "author": "Isaiah Clifford Opoku",
-          "description": "Minimal APIs are an exciting feature introduced in .NET 6, designed to revolutionize how you create APIs. Imagine building robust APIs with minimal code and zero boilerplate—no more wrestling with controllers, routing, or middleware. That’s what mini...",
-          "link": "https://www.freecodecamp.org/news/create-a-minimal-api-in-net-core-handbook/",
-          "publishedOn": "2024-12-02T16:55:35.000Z",
-          "wordCount": 10605,
-          "title": "How to Create a Minimal API in .NET Core – A Step By Step Handbook",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1733158500882/9af04a12-2121-4efd-a66f-00330896e358.png"
         }
       ]
     }

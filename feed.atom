@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-01T00:14:28.715Z</updated>
+    <updated>2025-01-02T00:12:55.021Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[New Front-End Features For Designers In 2025]]></title>
+        <id>https://smashingmagazine.com/2024/12/new-front-end-features-for-designers-in-2025/</id>
+        <link href="https://smashingmagazine.com/2024/12/new-front-end-features-for-designers-in-2025/"/>
+        <updated>2024-12-31T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Searching for the most flexible front-end workflows and toolkits, it’s easy to forget how powerful some of the fundamentals on the web have become these days. This post is a journey through new front-end features and what they are capable of.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[New Year, New Hopes, New Dreams (January 2025 Wallpapers Edition)]]></title>
         <id>https://smashingmagazine.com/2024/12/desktop-wallpaper-calendars-january-2025/</id>
@@ -574,47 +584,6 @@ The Law of Diminishing Returns originally published on CSS-Tricks, which is part
         <summary type="html"><![CDATA[In this digital world, it’s important for your applications to have a smooth and secure authentication process. This helps improve user experience and the overall security of your apps. Google Authentication is among the most trusted and convenient w...]]></summary>
         <author>
             <name>Abhijeet Dave</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bundle Up And Save On Smashing Books And Workshops]]></title>
-        <id>https://smashingmagazine.com/2024/12/bundle-up-and-save/</id>
-        <link href="https://smashingmagazine.com/2024/12/bundle-up-and-save/"/>
-        <updated>2024-12-03T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[It’s the end of the year, and as we look at our inventory, we thought, “Let’s help everyone in our community get ready for the year ahead!” Get friendly pricing on bundles of books and workshops to dive deep into the subjects you care about most. Let’s bundle up and save!]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (The Smashing Team)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Creating An Effective Multistep Form For Better User Experience]]></title>
-        <id>https://smashingmagazine.com/2024/12/creating-effective-multistep-form-better-user-experience/</id>
-        <link href="https://smashingmagazine.com/2024/12/creating-effective-multistep-form-better-user-experience/"/>
-        <updated>2024-12-03T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Forms are already notoriously tough to customize and style — to the extent that we’re already starting to see new ideas for more flexible control. But what we don’t often discuss is designing good-form experiences beyond validation. That’s what Jima Victor discusses in this article, focusing specifically on creating multi-step forms that involve navigation between sections.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Amejimaobari Ollornwi)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Create a Minimal API in .NET Core – A Step By Step Handbook]]></title>
-        <id>674de68794b89afe5676934e</id>
-        <link href="https://www.freecodecamp.org/news/create-a-minimal-api-in-net-core-handbook/"/>
-        <updated>2024-12-02T16:55:35.000Z</updated>
-        <summary type="html"><![CDATA[Minimal APIs are an exciting feature introduced in .NET 6, designed to revolutionize how you create APIs. Imagine building robust APIs with minimal code and zero boilerplate—no more wrestling with controllers, routing, or middleware. That’s what mini...]]></summary>
-        <author>
-            <name>Isaiah Clifford Opoku</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[One of Those “Onboarding” UIs, With Anchor Positioning]]></title>
-        <id>https://css-tricks.com/?p=382731</id>
-        <link href="https://css-tricks.com/one-of-those-onboarding-uis-with-anchor-positioning/"/>
-        <updated>2024-12-02T14:02:13.000Z</updated>
-        <summary type="html"><![CDATA[We can anchor one element to another. We can also attach one element to multiple anchors. In this experiment, Ryan riffs on those ideas and comes up with a new way to transition between two anchors and the result is a practical use case that would normally require JavaScript.
-One of Those “Onboarding” UIs, With Anchor Positioning originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Ryan Trimble</name>
         </author>
     </entry>
 </feed>
