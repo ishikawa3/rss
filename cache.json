@@ -251,6 +251,26 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "6776aff4291cde01e8a6dff0",
+          "author": "Spruce Emmanuel",
+          "description": "It’s the beginning of the year again, and perhaps you’re still struggling to learn that programming language. We’ve all been there. Let me share a story from my own journey. In 2016, I thought I wasn’t cut out for programming. After months of trying ...",
+          "link": "https://www.freecodecamp.org/news/how-to-make-learning-to-code-easier-by-focusing-on-the-fundamentals/",
+          "publishedOn": "2025-01-02T15:25:40.000Z",
+          "wordCount": 5009,
+          "title": "How to Make Learning to Code Easier by Focusing on the Fundamentals",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1735830905235/898a0c35-3f2a-4a05-86e8-866bb99eda42.jpeg"
+        },
+        {
+          "id": "6776a323218b455d646035b2",
+          "author": "Ayantunji Timilehin",
+          "description": "As engineers, we often get so carried away with other aspects of development that we overlook how users perceive and interact with our applications. This oversight can result in users leaving the app almost as soon as they arrive, leading to higher b...",
+          "link": "https://www.freecodecamp.org/news/optimize-nextjs-web-apps-for-better-performance/",
+          "publishedOn": "2025-01-02T14:30:59.000Z",
+          "wordCount": 3546,
+          "title": "How to Optimize Next.js Web Apps for Better Performance",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1735828217839/b65374be-d891-4f19-a359-f84f2ac8f3b9.png"
+        },
+        {
           "id": "6772ae6d57dd031ab1ad4671",
           "author": "Beau Carnes",
           "description": "Mobile app development has become an essential skill in today’s digital landscape, and React Native is one of the leading tools for creating powerful, cross-platform mobile apps. React Native combines the best parts of React and native app developmen...",
@@ -589,36 +609,6 @@
           "wordCount": 1327,
           "title": "Build a Stable Diffusion VAE From Scratch using Pytorch",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1733323982008/68d50c5d-0829-4d5c-90d0-c9feeedbd92d.jpeg"
-        },
-        {
-          "id": "674f6a16678426d72d800cd5",
-          "author": "Ankur Tyagi",
-          "description": "Okay, I know you may be skeptical: other guides have promised painless code reviews only to reveal that their solution requires some hyper-specific tech stack or a paid developer tool. I won’t do that to you. This guide provides a straightforward and...",
-          "link": "https://www.freecodecamp.org/news/how-to-perform-code-reviews-in-tech-the-painless-way/",
-          "publishedOn": "2024-12-03T20:29:10.000Z",
-          "wordCount": 3187,
-          "title": "How to Perform Code Reviews in Tech – The Painless Way",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1733242289474/def1a314-fe64-448b-9236-f66a529e3f13.png"
-        },
-        {
-          "id": "674f49768f5b31d71eee8f9a",
-          "author": "Beau Carnes",
-          "description": "Spreadsheets are important for modern data management, analysis, and organization. Whether you're tracking personal finances, managing a business, or conducting advanced data analysis, spreadsheets offer a versatile platform for countless tasks. Amon...",
-          "link": "https://www.freecodecamp.org/news/learn-google-sheets-course-for-beginners/",
-          "publishedOn": "2024-12-03T18:09:58.000Z",
-          "wordCount": 1309,
-          "title": "Learn Google Sheets – Course for Beginners",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1733249376070/af3b622d-ff58-446a-ae47-b4dcac71cffe.jpeg"
-        },
-        {
-          "id": "674f227adf280a40b7047b7f",
-          "author": "Abhijeet Dave",
-          "description": "In this digital world, it’s important for your applications to have a smooth and secure authentication process. This helps improve user experience and the overall security of your apps. Google Authentication is among the most trusted and convenient w...",
-          "link": "https://www.freecodecamp.org/news/how-to-set-up-google-auth-in-laravel-apps/",
-          "publishedOn": "2024-12-03T15:23:38.000Z",
-          "wordCount": 2542,
-          "title": "How to Set Up Google Authentication in Laravel Applications",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1732711351776/931a1ade-e652-4a0b-a16e-925482128fc0.png"
         }
       ]
     }

@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-02T00:12:55.021Z</updated>
+    <updated>2025-01-03T00:13:00.622Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Make Learning to Code Easier by Focusing on the Fundamentals]]></title>
+        <id>6776aff4291cde01e8a6dff0</id>
+        <link href="https://www.freecodecamp.org/news/how-to-make-learning-to-code-easier-by-focusing-on-the-fundamentals/"/>
+        <updated>2025-01-02T15:25:40.000Z</updated>
+        <summary type="html"><![CDATA[It’s the beginning of the year again, and perhaps you’re still struggling to learn that programming language. We’ve all been there. Let me share a story from my own journey. In 2016, I thought I wasn’t cut out for programming. After months of trying ...]]></summary>
+        <author>
+            <name>Spruce Emmanuel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Optimize Next.js Web Apps for Better Performance]]></title>
+        <id>6776a323218b455d646035b2</id>
+        <link href="https://www.freecodecamp.org/news/optimize-nextjs-web-apps-for-better-performance/"/>
+        <updated>2025-01-02T14:30:59.000Z</updated>
+        <summary type="html"><![CDATA[As engineers, we often get so carried away with other aspects of development that we overlook how users perceive and interact with our applications. This oversight can result in users leaving the app almost as soon as they arrive, leading to higher b...]]></summary>
+        <author>
+            <name>Ayantunji Timilehin</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[New Front-End Features For Designers In 2025]]></title>
         <id>https://smashingmagazine.com/2024/12/new-front-end-features-for-designers-in-2025/</id>
@@ -554,36 +574,6 @@ The Law of Diminishing Returns originally published on CSS-Tricks, which is part
         <summary type="html"><![CDATA[We just published a course on the freeCodeCamp.org YouTube channel that will teach you everything you need to know about Variational Autoencoders (VAEs). This course is perfect for anyone looking to dive deep into one of the fundamental concepts behi...]]></summary>
         <author>
             <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Perform Code Reviews in Tech – The Painless Way]]></title>
-        <id>674f6a16678426d72d800cd5</id>
-        <link href="https://www.freecodecamp.org/news/how-to-perform-code-reviews-in-tech-the-painless-way/"/>
-        <updated>2024-12-03T20:29:10.000Z</updated>
-        <summary type="html"><![CDATA[Okay, I know you may be skeptical: other guides have promised painless code reviews only to reveal that their solution requires some hyper-specific tech stack or a paid developer tool. I won’t do that to you. This guide provides a straightforward and...]]></summary>
-        <author>
-            <name>Ankur Tyagi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn Google Sheets – Course for Beginners]]></title>
-        <id>674f49768f5b31d71eee8f9a</id>
-        <link href="https://www.freecodecamp.org/news/learn-google-sheets-course-for-beginners/"/>
-        <updated>2024-12-03T18:09:58.000Z</updated>
-        <summary type="html"><![CDATA[Spreadsheets are important for modern data management, analysis, and organization. Whether you're tracking personal finances, managing a business, or conducting advanced data analysis, spreadsheets offer a versatile platform for countless tasks. Amon...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Set Up Google Authentication in Laravel Applications]]></title>
-        <id>674f227adf280a40b7047b7f</id>
-        <link href="https://www.freecodecamp.org/news/how-to-set-up-google-auth-in-laravel-apps/"/>
-        <updated>2024-12-03T15:23:38.000Z</updated>
-        <summary type="html"><![CDATA[In this digital world, it’s important for your applications to have a smooth and secure authentication process. This helps improve user experience and the overall security of your apps. Google Authentication is among the most trusted and convenient w...]]></summary>
-        <author>
-            <name>Abhijeet Dave</name>
         </author>
     </entry>
 </feed>
