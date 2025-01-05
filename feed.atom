@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-04T00:12:49.189Z</updated>
+    <updated>2025-01-05T00:14:17.587Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Real-time Network Traffic Dashboard with Python and Streamlit]]></title>
+        <id>67786dec9c66c24e89239f0a</id>
+        <link href="https://www.freecodecamp.org/news/build-a-real-time-network-traffic-dashboard-with-python-and-streamlit/"/>
+        <updated>2025-01-03T23:08:28.000Z</updated>
+        <summary type="html"><![CDATA[Have you ever wanted to visualize your network traffic in real-time? In this tutorial, you will be learning how to build an interactive network traffic analysis dashboard with Python and Streamlit. Streamlit is an open-source Python framework you can...]]></summary>
+        <author>
+            <name>Chaitanya Rahalkar</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Server-Sent Events vs WebSockets – How to Choose a Real-Time Data Exchange Protocol]]></title>
         <id>677835cd5280589b2bc82110</id>
@@ -473,46 +483,6 @@ Nowadays people can write great React and TypeScript code. Most of the time a co
 Knowing CSS is Mastery to Frontend Development originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Importance Of Graceful Degradation In Accessible Interface Design]]></title>
-        <id>https://smashingmagazine.com/2024/12/importance-graceful-degradation-accessible-interface-design/</id>
-        <link href="https://smashingmagazine.com/2024/12/importance-graceful-degradation-accessible-interface-design/"/>
-        <updated>2024-12-06T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Few things are as frustrating to a user as when a site won’t respond. Unfortunately, it’s also an all-too-common scenario. Many websites and apps depend on so many elements that one of any number of errors could cause the whole thing to fail. As prevalent as such instances may be, they’re preventable through the practice of graceful degradation.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Eleanor Hecks)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Svelte i18n and Localization Made Easy]]></title>
-        <id>6752020830d899211b5bda58</id>
-        <link href="https://www.freecodecamp.org/news/svelte-i18n-and-localization-made-easy/"/>
-        <updated>2024-12-05T19:42:00.000Z</updated>
-        <summary type="html"><![CDATA[Apps are accessible worldwide. This means anyone from anywhere in the world can download your app.  So, if you want to cater to people everywhere, your app needs to support multiple languages.  Fortunately, Svelte is easy to work with, and it makes l...]]></summary>
-        <author>
-            <name>Alex Tray</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use WPScan to Keep Your WordPress Site Secure]]></title>
-        <id>6751e08319cee0c3e45cb876</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-wpscan-to-keep-your-wordpress-site-secure/"/>
-        <updated>2024-12-05T17:18:59.000Z</updated>
-        <summary type="html"><![CDATA[Over 40% of the web is powered by WordPress. But this makes this popular CMS an attractive target for hackers. So if you run a WordPress site, you’ll need to make sure it’s secure. And this isn’t just a technical task, but is also a key responsibilit...]]></summary>
-        <author>
-            <name>Marco Venturi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn Continuous Integration, Delivery, and Deployment with GitHub Actions, Docker, and Google Cloud Run]]></title>
-        <id>6751d2f856661d3d5a501466</id>
-        <link href="https://www.freecodecamp.org/news/learn-continuous-integration-delivery-and-deployment/"/>
-        <updated>2024-12-05T16:21:12.000Z</updated>
-        <summary type="html"><![CDATA[Hey everyone! 🌟 If you’re in the tech space, chances are you’ve come across terms like Continuous Integration (CI), Continuous Delivery (CD), and Continuous Deployment. You’ve probably also heard about automation pipelines, staging environments, pro...]]></summary>
-        <author>
-            <name>Prince Onukwili</name>
         </author>
     </entry>
 </feed>

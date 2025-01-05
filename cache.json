@@ -217,21 +217,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/mastering-svg-arcs/mastering-svg-arcs.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2024/12/importance-graceful-degradation-accessible-interface-design/",
-          "author": "hello@smashingmagazine.com (Eleanor Hecks)",
-          "description": "Few things are as frustrating to a user as when a site won’t respond. Unfortunately, it’s also an all-too-common scenario. Many websites and apps depend on so many elements that one of any number of errors could cause the whole thing to fail. As prevalent as such instances may be, they’re preventable through the practice of graceful degradation.",
-          "link": "https://smashingmagazine.com/2024/12/importance-graceful-degradation-accessible-interface-design/",
-          "publishedOn": "2024-12-06T09:00:00.000Z",
-          "wordCount": 4351,
-          "title": "The Importance Of Graceful Degradation In Accessible Interface Design",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/importance-graceful-degradation-accessible-interface-design/importance-graceful-degradation-accessible-interface-design.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/importance-graceful-degradation-accessible-interface-design/importance-graceful-degradation-accessible-interface-design.jpg"
         }
       ]
     },
@@ -240,6 +225,16 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "67786dec9c66c24e89239f0a",
+          "author": "Chaitanya Rahalkar",
+          "description": "Have you ever wanted to visualize your network traffic in real-time? In this tutorial, you will be learning how to build an interactive network traffic analysis dashboard with Python and Streamlit. Streamlit is an open-source Python framework you can...",
+          "link": "https://www.freecodecamp.org/news/build-a-real-time-network-traffic-dashboard-with-python-and-streamlit/",
+          "publishedOn": "2025-01-03T23:08:28.000Z",
+          "wordCount": 2797,
+          "title": "How to Build a Real-time Network Traffic Dashboard with Python and Streamlit",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1735280432228/33730b4a-6424-48b0-a7bf-ef029663fb90.png"
+        },
         {
           "id": "677835cd5280589b2bc82110",
           "author": "Svitlana Lorman",
@@ -519,36 +514,6 @@
           "wordCount": 1124,
           "title": "How a breakdancing injury launched a coding empire with Scott Tolinski [Podcast #152]",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1733513940811/6a3a8fde-fac2-4f66-98e5-da52f16c0586.jpeg"
-        },
-        {
-          "id": "6752020830d899211b5bda58",
-          "author": "Alex Tray",
-          "description": "Apps are accessible worldwide. This means anyone from anywhere in the world can download your app.  So, if you want to cater to people everywhere, your app needs to support multiple languages.  Fortunately, Svelte is easy to work with, and it makes l...",
-          "link": "https://www.freecodecamp.org/news/svelte-i18n-and-localization-made-easy/",
-          "publishedOn": "2024-12-05T19:42:00.000Z",
-          "wordCount": 2951,
-          "title": "Svelte i18n and Localization Made Easy",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1733421094910/f2f91ab6-0717-4135-9f08-719f041471f6.jpeg"
-        },
-        {
-          "id": "6751e08319cee0c3e45cb876",
-          "author": "Marco Venturi",
-          "description": "Over 40% of the web is powered by WordPress. But this makes this popular CMS an attractive target for hackers. So if you run a WordPress site, you’ll need to make sure it’s secure. And this isn’t just a technical task, but is also a key responsibilit...",
-          "link": "https://www.freecodecamp.org/news/how-to-use-wpscan-to-keep-your-wordpress-site-secure/",
-          "publishedOn": "2024-12-05T17:18:59.000Z",
-          "wordCount": 3728,
-          "title": "How to Use WPScan to Keep Your WordPress Site Secure",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1732705985906/49090646-5b75-40f4-ad55-473d723b4237.jpeg"
-        },
-        {
-          "id": "6751d2f856661d3d5a501466",
-          "author": "Prince Onukwili",
-          "description": "Hey everyone! 🌟 If you’re in the tech space, chances are you’ve come across terms like Continuous Integration (CI), Continuous Delivery (CD), and Continuous Deployment. You’ve probably also heard about automation pipelines, staging environments, pro...",
-          "link": "https://www.freecodecamp.org/news/learn-continuous-integration-delivery-and-deployment/",
-          "publishedOn": "2024-12-05T16:21:12.000Z",
-          "wordCount": 10474,
-          "title": "Learn Continuous Integration, Delivery, and Deployment with GitHub Actions, Docker, and Google Cloud Run",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1733170224698/a712aae3-5973-43c7-855a-4299054fe9e7.png"
         }
       ]
     }
