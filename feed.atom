@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-05T00:14:17.587Z</updated>
+    <updated>2025-01-06T00:13:55.057Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
@@ -444,45 +444,6 @@ Yet Another Anchor Positioning Quirk originally published on CSS-Tricks, which i
         <summary type="html"><![CDATA[SVG arcs demystified! Akshay Gupta explains how to master radii, rotation, and arc direction to create stunning curves. Make arcs a powerful part of your SVG toolkit for creating more dynamic, intricate designs with confidence.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Akshay Gupta)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How a breakdancing injury launched a coding empire with Scott Tolinski [Podcast #152]]]></title>
-        <id>675350a6e49bb5519b7b5208</id>
-        <link href="https://www.freecodecamp.org/news/scott-tolinski-syntax-podcast-interview/"/>
-        <updated>2024-12-06T19:29:42.000Z</updated>
-        <summary type="html"><![CDATA[On this week's episode of the podcast, freeCodeCamp founder Quincy Larson interviews Scott Tolinski. He's a developer who 14 years ago - after injuring himself breakdancing – decided to create a programming tutorial YouTube channel called LevelUpTuts...]]></summary>
-        <author>
-            <name>Quincy Larson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSS Wrapped 2024]]></title>
-        <id>https://css-tricks.com/?p=382964</id>
-        <link href="https://css-tricks.com/css-wrapped-2024/"/>
-        <updated>2024-12-06T19:22:38.000Z</updated>
-        <summary type="html"><![CDATA[Join the Chrome DevRel team and a skateboarding Chrome Dino on a journey through the latest CSS launched for Chrome and the web platform in 2024, highlighting 17 new features
-That breaks down (approximately) as:
-Components
-Interactions
-Developer experience
-Plus:…
-CSS Wrapped 2024 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Knowing CSS is Mastery to Frontend Development]]></title>
-        <id>https://css-tricks.com/?p=382956</id>
-        <link href="https://css-tricks.com/knowing-css-is-mastery-to-frontend-development/"/>
-        <updated>2024-12-06T17:40:36.000Z</updated>
-        <summary type="html"><![CDATA[Anselm Hannemann on the intersection between frameworks and learning the basics:
-Nowadays people can write great React and TypeScript code. Most of the time a component library like MUI, Tailwind and others are used for styling. However, nearly no 
-…
-Knowing CSS is Mastery to Frontend Development originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
         </author>
     </entry>
 </feed>

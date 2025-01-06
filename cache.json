@@ -100,26 +100,6 @@
           "wordCount": 2949,
           "title": "Yet Another Anchor Positioning Quirk",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2024/12/Yet-Another-Anchor-Positioning-Quirk.png"
-        },
-        {
-          "id": "https://css-tricks.com/?p=382964",
-          "author": "Geoff Graham",
-          "description": "Join the Chrome DevRel team and a skateboarding Chrome Dino on a journey through the latest CSS launched for Chrome and the web platform in 2024, highlighting 17 new features\nThat breaks down (approximately) as:\nComponents\nInteractions\nDeveloper experience\nPlus:…\nCSS Wrapped 2024 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/css-wrapped-2024/",
-          "publishedOn": "2024-12-06T19:22:38.000Z",
-          "wordCount": 1828,
-          "title": "CSS Wrapped 2024",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2024/12/Screenshot-2024-12-06-at-12.23.30%E2%80%AFPM.png"
-        },
-        {
-          "id": "https://css-tricks.com/?p=382956",
-          "author": "Geoff Graham",
-          "description": "Anselm Hannemann on the intersection between frameworks and learning the basics:\nNowadays people can write great React and TypeScript code. Most of the time a component library like MUI, Tailwind and others are used for styling. However, nearly no \n…\nKnowing CSS is Mastery to Frontend Development originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/knowing-css-is-mastery-to-frontend-development/",
-          "publishedOn": "2024-12-06T17:40:36.000Z",
-          "wordCount": 1959,
-          "title": "Knowing CSS is Mastery to Frontend Development",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2020/02/css-mind-blown.png"
         }
       ]
     },
@@ -504,16 +484,6 @@
           "wordCount": 4222,
           "title": "How to Build a Weather App with R Shiny",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1733174501446/a177379f-3c32-424a-9fbe-6608310f2ea6.png"
-        },
-        {
-          "id": "675350a6e49bb5519b7b5208",
-          "author": "Quincy Larson",
-          "description": "On this week's episode of the podcast, freeCodeCamp founder Quincy Larson interviews Scott Tolinski. He's a developer who 14 years ago - after injuring himself breakdancing – decided to create a programming tutorial YouTube channel called LevelUpTuts...",
-          "link": "https://www.freecodecamp.org/news/scott-tolinski-syntax-podcast-interview/",
-          "publishedOn": "2024-12-06T19:29:42.000Z",
-          "wordCount": 1124,
-          "title": "How a breakdancing injury launched a coding empire with Scott Tolinski [Podcast #152]",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1733513940811/6a3a8fde-fac2-4f66-98e5-da52f16c0586.jpeg"
         }
       ]
     }
