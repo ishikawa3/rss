@@ -119,6 +119,16 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2025/01/designing-high-traffic-events-cloudways/",
+          "author": "hello@smashingmagazine.com (Saad Khan)",
+          "description": "Product drops and sales are a great way to increase revenue, but these events can result in traffic spikes that affect a site’s availability and performance. To prevent website crashes, you’ll have to make sure that the sites you design can handle large numbers of server requests at once. Let’s discuss how!",
+          "link": "https://smashingmagazine.com/2025/01/designing-high-traffic-events-cloudways/",
+          "publishedOn": "2025-01-07T14:00:00.000Z",
+          "wordCount": 4063,
+          "title": "How To Design For High-Traffic Events And Prevent Your Website From Crashing",
+          "imageUrl": "https:null"
+        },
+        {
           "id": "https://smashingmagazine.com/2025/01/understanding-ai-meaning/",
           "author": "hello@smashingmagazine.com (Atila Fassina)",
           "description": "We, as human beings, don’t worry too much about making sure the connections land at the right point. Our brain just works that way, declaratively. However, for building AI, we need to be more explicit. Let’s dive in!",
@@ -207,21 +217,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/introduction-css-scroll-driven-animations/introduction-css-scroll-driven-animations.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2024/12/mastering-svg-arcs/",
-          "author": "hello@smashingmagazine.com (Akshay Gupta)",
-          "description": "SVG arcs demystified! Akshay Gupta explains how to master radii, rotation, and arc direction to create stunning curves. Make arcs a powerful part of your SVG toolkit for creating more dynamic, intricate designs with confidence.",
-          "link": "https://smashingmagazine.com/2024/12/mastering-svg-arcs/",
-          "publishedOn": "2024-12-09T09:00:00.000Z",
-          "wordCount": 4333,
-          "title": "Mastering SVG Arcs",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/mastering-svg-arcs/mastering-svg-arcs.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/mastering-svg-arcs/mastering-svg-arcs.jpg"
         }
       ]
     },
@@ -230,6 +225,46 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "677d84ad446398ca6f670bef",
+          "author": "Manish Shivanandhan",
+          "description": "Subdomains are an essential part of a website’s infrastructure. They provide additional functions in a web application, such as APIs, admin portals, and staging environments. As an ethical hacker, discovering subdomains is a critical step in learning...",
+          "link": "https://www.freecodecamp.org/news/how-to-discover-hidden-subdomains-as-an-ethical-hacker/",
+          "publishedOn": "2025-01-07T19:46:53.000Z",
+          "wordCount": 2072,
+          "title": "How to Discover Hidden Subdomains as an Ethical Hacker",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1735806321604/dec39da9-6dd8-4a73-ba64-5cf894ce34f4.webp"
+        },
+        {
+          "id": "677d816db702998ae550cebf",
+          "author": "Naomi Carrigan",
+          "description": "As a programming community, freeCodeCamp helps many people who have questions about their code. It can be quite tempting to simply provide the learner with the answer and move on, but that’s actually detrimental to the learning process. Here’s why: W...",
+          "link": "https://www.freecodecamp.org/news/how-to-help-someone-with-their-code-using-the-socratic-method/",
+          "publishedOn": "2025-01-07T19:33:01.000Z",
+          "wordCount": 2791,
+          "title": "How to Help Someone with Their Code Using the Socratic Method",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/2RRq1BHPq4E/upload/904ec5e77783268f025191b07da29f08.jpeg"
+        },
+        {
+          "id": "677d8125f9b13835118c7958",
+          "author": "Alex Pliutau",
+          "description": "Recently, I published an article about using Testcontainers to emulate external dependencies like a database and cache for backend integration tests. That article also explained the different ways of running the integration tests, environment scaffol...",
+          "link": "https://www.freecodecamp.org/news/how-to-run-integration-tests-with-github-service-containers/",
+          "publishedOn": "2025-01-07T19:31:49.000Z",
+          "wordCount": 2455,
+          "title": "How to Run Integration Tests with GitHub Service Containers",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1735305764768/8e3d8980-456b-4828-abb7-dff749bbf1fd.png"
+        },
+        {
+          "id": "677c5a037d6144e9c5ef49f8",
+          "author": "Josiah Adesola",
+          "description": "Have you ever considered how your phone can recognize handwritten text and convert it into regular computer text? Or how your email can separate messages automatically into spam and non-spam categories? Both of these examples work based on classifica...",
+          "link": "https://www.freecodecamp.org/news/svm-kernels-how-to-tackle-nonlinear-data-in-machine-learning/",
+          "publishedOn": "2025-01-06T22:32:35.000Z",
+          "wordCount": 3974,
+          "title": "SVM Kernels Explained: How to Tackle Nonlinear Data in Machine Learning",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1735894336456/dae0caa1-7c01-4b88-a748-79d682bbed78.png"
+        },
         {
           "id": "67786dec9c66c24e89239f0a",
           "author": "Chaitanya Rahalkar",

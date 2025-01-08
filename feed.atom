@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-07T00:13:36.834Z</updated>
+    <updated>2025-01-08T00:13:05.863Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Discover Hidden Subdomains as an Ethical Hacker]]></title>
+        <id>677d84ad446398ca6f670bef</id>
+        <link href="https://www.freecodecamp.org/news/how-to-discover-hidden-subdomains-as-an-ethical-hacker/"/>
+        <updated>2025-01-07T19:46:53.000Z</updated>
+        <summary type="html"><![CDATA[Subdomains are an essential part of a website’s infrastructure. They provide additional functions in a web application, such as APIs, admin portals, and staging environments. As an ethical hacker, discovering subdomains is a critical step in learning...]]></summary>
+        <author>
+            <name>Manish Shivanandhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Help Someone with Their Code Using the Socratic Method]]></title>
+        <id>677d816db702998ae550cebf</id>
+        <link href="https://www.freecodecamp.org/news/how-to-help-someone-with-their-code-using-the-socratic-method/"/>
+        <updated>2025-01-07T19:33:01.000Z</updated>
+        <summary type="html"><![CDATA[As a programming community, freeCodeCamp helps many people who have questions about their code. It can be quite tempting to simply provide the learner with the answer and move on, but that’s actually detrimental to the learning process. Here’s why: W...]]></summary>
+        <author>
+            <name>Naomi Carrigan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Run Integration Tests with GitHub Service Containers]]></title>
+        <id>677d8125f9b13835118c7958</id>
+        <link href="https://www.freecodecamp.org/news/how-to-run-integration-tests-with-github-service-containers/"/>
+        <updated>2025-01-07T19:31:49.000Z</updated>
+        <summary type="html"><![CDATA[Recently, I published an article about using Testcontainers to emulate external dependencies like a database and cache for backend integration tests. That article also explained the different ways of running the integration tests, environment scaffol...]]></summary>
+        <author>
+            <name>Alex Pliutau</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Design For High-Traffic Events And Prevent Your Website From Crashing]]></title>
+        <id>https://smashingmagazine.com/2025/01/designing-high-traffic-events-cloudways/</id>
+        <link href="https://smashingmagazine.com/2025/01/designing-high-traffic-events-cloudways/"/>
+        <updated>2025-01-07T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Product drops and sales are a great way to increase revenue, but these events can result in traffic spikes that affect a site’s availability and performance. To prevent website crashes, you’ll have to make sure that the sites you design can handle large numbers of server requests at once. Let’s discuss how!]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Saad Khan)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SVM Kernels Explained: How to Tackle Nonlinear Data in Machine Learning]]></title>
+        <id>677c5a037d6144e9c5ef49f8</id>
+        <link href="https://www.freecodecamp.org/news/svm-kernels-how-to-tackle-nonlinear-data-in-machine-learning/"/>
+        <updated>2025-01-06T22:32:35.000Z</updated>
+        <summary type="html"><![CDATA[Have you ever considered how your phone can recognize handwritten text and convert it into regular computer text? Or how your email can separate messages automatically into spam and non-spam categories? Both of these examples work based on classifica...]]></summary>
+        <author>
+            <name>Josiah Adesola</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Importance of Investing in Soft Skills in the Age of AI]]></title>
         <id>https://css-tricks.com/?p=383383</id>
@@ -455,16 +505,6 @@ Yet Another Anchor Positioning Quirk originally published on CSS-Tricks, which i
         <summary type="html"><![CDATA[In this tutorial, you’ll learn how to build a weather app in R. Really – a weather app, in R? Wait, hear me out. When you think of R, you probably imagine someone wearing chunky thick prescription glasses and devouring a book. You know, a statisticia...]]></summary>
         <author>
             <name>Elabonga Atuo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mastering SVG Arcs]]></title>
-        <id>https://smashingmagazine.com/2024/12/mastering-svg-arcs/</id>
-        <link href="https://smashingmagazine.com/2024/12/mastering-svg-arcs/"/>
-        <updated>2024-12-09T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[SVG arcs demystified! Akshay Gupta explains how to master radii, rotation, and arc direction to create stunning curves. Make arcs a powerful part of your SVG toolkit for creating more dynamic, intricate designs with confidence.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Akshay Gupta)</name>
         </author>
     </entry>
 </feed>
