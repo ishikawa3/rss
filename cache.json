@@ -100,16 +100,6 @@
           "wordCount": 2056,
           "title": "Smashing Meets Product Design",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2024/12/smashing-meets-product-design.jpg"
-        },
-        {
-          "id": "https://css-tricks.com/?p=382893",
-          "author": "Juan Diego Rodríguez",
-          "description": "As awesome as I think it is, CSS Anchor Positioning has a lot of quirks, some of which are the product of its novelty and others due to its unique way of working. Today, I want to bring you yet another Anchor Positioning quirk that has bugged me since I first saw it.\nYet Another Anchor Positioning Quirk originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/yet-another-anchor-positioning-quirk/",
-          "publishedOn": "2024-12-09T16:54:00.000Z",
-          "wordCount": 2949,
-          "title": "Yet Another Anchor Positioning Quirk",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2024/12/Yet-Another-Anchor-Positioning-Quirk.png"
         }
       ]
     },
@@ -118,6 +108,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2025/01/lesser-known-uses-better-known-attributes/",
+          "author": "hello@smashingmagazine.com (John Rhea)",
+          "description": "HTML attributes are like little instructions that we add to the markup of elements to make them do certain things or behave in certain ways. For example, most of us know that the `target` attribute with a value of `_blank` opens the link in a new tab or window. But did you know that you can use it on the `form` element, too? John Rhea presents several lesser-known uses for common HTML attributes.",
+          "link": "https://smashingmagazine.com/2025/01/lesser-known-uses-better-known-attributes/",
+          "publishedOn": "2025-01-08T11:00:00.000Z",
+          "wordCount": 4297,
+          "title": "Lesser Known Uses Of Better Known Attributes",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/lesser-known-uses-better-known-attributes/lesser-known-uses-better-known-attributes.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/lesser-known-uses-better-known-attributes/lesser-known-uses-better-known-attributes.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2025/01/designing-high-traffic-events-cloudways/",
           "author": "hello@smashingmagazine.com (Saad Khan)",
@@ -226,6 +231,26 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "677ee5d707323c1a72821397",
+          "author": "Beau Carnes",
+          "description": "Artificial Intelligence is revolutionizing industries and workflows, and learning to work with AI in the cloud is an important skill for modern developers. Whether you're a beginner or looking to deepen your understanding of generative AI, this cours...",
+          "link": "https://www.freecodecamp.org/news/learn-generative-ai-in-23-hours/",
+          "publishedOn": "2025-01-08T20:53:43.000Z",
+          "wordCount": 1316,
+          "title": "Learn Generative AI in 23 Hours",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1736369609882/91a5456e-e10e-4189-a8ea-7896198fdc65.png"
+        },
+        {
+          "id": "677ede843a92814ab28fbf50",
+          "author": "Beau Carnes",
+          "description": "Creating unique projects is one of the best ways to grow as a programmer, and what better way to learn than by building something creative for the holiday season? Imagine crafting a festive Christmas calendar from scratch, generating eye-catching, cu...",
+          "link": "https://www.freecodecamp.org/news/create-christmas-icons-with-javascript-and-html/",
+          "publishedOn": "2025-01-08T20:22:28.000Z",
+          "wordCount": 1304,
+          "title": "Create Christmas Icons with JavaScript and HTML",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1736367725677/3d021d67-d8ee-4bde-af72-1c34b5c3170b.png"
+        },
+        {
           "id": "677d84ad446398ca6f670bef",
           "author": "Manish Shivanandhan",
           "description": "Subdomains are an essential part of a website’s infrastructure. They provide additional functions in a web application, such as APIs, admin portals, and staging environments. As an ethical hacker, discovering subdomains is a critical step in learning...",
@@ -254,6 +279,16 @@
           "wordCount": 2455,
           "title": "How to Run Integration Tests with GitHub Service Containers",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1735305764768/8e3d8980-456b-4828-abb7-dff749bbf1fd.png"
+        },
+        {
+          "id": "677ee4b10bc6d529ee0098b7",
+          "author": "Beau Carnes",
+          "description": "Spreadsheets are an essential tool for managing data, solving problems, and automating workflows, whether you're a student, professional, or hobbyist. Mastering them can unlock countless possibilities in productivity and creativity. Imagine automatin...",
+          "link": "https://www.freecodecamp.org/news/master-spreadsheets-by-building-33-projects/",
+          "publishedOn": "2025-01-07T05:00:00.000Z",
+          "wordCount": 1300,
+          "title": "Master Spreadsheets by Building 33 Projects",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1736369313578/8365821c-999a-4489-8971-dbf733954a26.png"
         },
         {
           "id": "677c5a037d6144e9c5ef49f8",
@@ -534,16 +569,6 @@
           "wordCount": 3048,
           "title": "How Django's MVT Architecture Works: A Deep Dive into Models, Views, and Templates",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1733732493858/a06ee65a-de97-4c7f-b3bd-7ca8c1b6fe82.png"
-        },
-        {
-          "id": "67570d22e8032cfb3def7b4e",
-          "author": "Elabonga Atuo",
-          "description": "In this tutorial, you’ll learn how to build a weather app in R. Really – a weather app, in R? Wait, hear me out. When you think of R, you probably imagine someone wearing chunky thick prescription glasses and devouring a book. You know, a statisticia...",
-          "link": "https://www.freecodecamp.org/news/how-to-build-a-weather-app-with-r-shiny/",
-          "publishedOn": "2024-12-09T15:30:42.000Z",
-          "wordCount": 4222,
-          "title": "How to Build a Weather App with R Shiny",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1733174501446/a177379f-3c32-424a-9fbe-6608310f2ea6.png"
         }
       ]
     }
