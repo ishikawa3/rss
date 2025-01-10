@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=383563",
+          "author": "Geoff Graham",
+          "description": "I wrote a post for Smashing Magazine that was published today about this thing that Chrome and Safari have called “Tight Mode” and how it impacts page performance. I’d never heard the term until DebugBear’s Matt Zeunert mentioned it in …\nTight Mode: Why Browsers Produce Different Performance Results originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/tight-mode-why-browsers-produce-different-performance-results/",
+          "publishedOn": "2025-01-09T16:16:15.000Z",
+          "wordCount": 1927,
+          "title": "Tight Mode: Why Browsers Produce Different Performance Results",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/383563"
+        },
+        {
           "id": "https://css-tricks.com/?p=383383",
           "author": "Andy Bell",
           "description": "I am still an AI skeptic. The biggest risk I foresee is that if your sole responsibility is to write code, your job is at risk. It’s not time to panic, but I do see a lot of value in evolving your soft skills.\nThe Importance of Investing in Soft Skills in the Age of AI originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -80,26 +90,6 @@
           "wordCount": 2618,
           "title": "Fluid Superscripts and Subscripts",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2024/12/fluid-super-subscripts-1.png"
-        },
-        {
-          "id": "https://css-tricks.com/?p=382974",
-          "author": "Juan Diego Rodríguez",
-          "description": "The CSSWG met to try and finally squash a debate that has been going on for five years: whether Masonry should be a part of Grid or a separate system. We've got coverage of both presentations for ya.\nCSSWG Minutes Telecon (2024-12-04): Just Use Grid vs. Display: Masonry originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/csswg-minutes-telecon-2024-12-04-just-use-grid-vs-display-masonry/",
-          "publishedOn": "2024-12-10T16:27:32.000Z",
-          "wordCount": 3709,
-          "title": "CSSWG Minutes Telecon (2024-12-04): Just Use Grid vs. Display: Masonry",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/12/css-tricks-logo-gradient-outline.png"
-        },
-        {
-          "id": "https://css-tricks.com/?p=383028",
-          "author": "Geoff Graham",
-          "description": "I had the pleasure of hosting a recent Smashing Magazine workshop on product design, subbing for Vitaly Friedman who usually runs these things.\nWhat? A front-ender interviewing really smart people about their processes for user research, documenting requirements, and …\nSmashing Meets Product Design originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/smashing-meets-product-design/",
-          "publishedOn": "2024-12-10T16:00:24.000Z",
-          "wordCount": 2056,
-          "title": "Smashing Meets Product Design",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2024/12/smashing-meets-product-design.jpg"
         }
       ]
     },
@@ -108,6 +98,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2025/01/tight-mode-why-browsers-produce-different-performance-results/",
+          "author": "hello@smashingmagazine.com (Geoff Graham)",
+          "description": "We know that browsers do all sorts of different things under the hood. One of those things is the way they not only *fetch* resources like images and scripts from the server but how they [prioritize those resources](https://www.debugbear.com/blog/request-priorities?utm_campaign=sm-7). Chrome and Safari have implemented a “Tight Mode” that constrains which resources are loaded and in what order, but they each take drastically different approaches to it. With so little information about Tight Mode available, this article attempts a high-level explanation of what it is, what triggers it, and how it is treated differently in major browsers.",
+          "link": "https://smashingmagazine.com/2025/01/tight-mode-why-browsers-produce-different-performance-results/",
+          "publishedOn": "2025-01-09T13:00:00.000Z",
+          "wordCount": 4451,
+          "title": "Tight Mode: Why Browsers Produce Different Performance Results",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/tight-mode-why-browsers-produce-different-performance-results/tight-mode-why-browsers-produce-different-performance-results.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/tight-mode-why-browsers-produce-different-performance-results/tight-mode-why-browsers-produce-different-performance-results.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2025/01/lesser-known-uses-better-known-attributes/",
           "author": "hello@smashingmagazine.com (John Rhea)",
@@ -230,6 +235,36 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "67802329a9edea9df0053dd7",
+          "author": "Ibrahim ogunbiyi",
+          "description": "Have you ever found yourself searching a document for a specific word or phrase just to discover that the term you're looking for isn't there? It can be frustrating, right? Sometimes, even though you might not see the exact term you’re looking for, t...",
+          "link": "https://www.freecodecamp.org/news/what-is-semantic-matching-find-words-in-a-document-using-nlp/",
+          "publishedOn": "2025-01-09T19:27:37.000Z",
+          "wordCount": 3088,
+          "title": "What is Semantic Matching? How to Find Words in a Document Using NLP",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/Dh7gzpVpdWQ/upload/4e1e504663acda31b980e6fba0c2d661.jpeg"
+        },
+        {
+          "id": "677ef3f83b47b21899e957c4",
+          "author": "Alex Pliutau",
+          "description": "In the past, many code editors were built just for one specific language. To provide rich and smart code editing, tight integration between the editor and the language tooling was a must. On the other hand, there were (and still are) more general-pur...",
+          "link": "https://www.freecodecamp.org/news/what-is-the-language-server-protocol-easier-code-editing-across-languages/",
+          "publishedOn": "2025-01-08T21:54:00.000Z",
+          "wordCount": 1998,
+          "title": "Understanding the Language Server Protocol – Easier Code Editing Across Languages and Tools",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1736371728078/f1da2e66-4095-44e6-bcdf-de44c92e81ad.jpeg"
+        },
+        {
+          "id": "677ef38c05d7f213e7d2a766",
+          "author": "Prankur Pandey",
+          "description": "Recently, I took a break from writing to focus on my exams. During this time, I had an interesting experience: I had the chance to explain SQL (Structured Query Language) to my peers. While exploring SQL in-depth, I encountered a common frustration: ...",
+          "link": "https://www.freecodecamp.org/news/talk-to-databases-using-ai-build-a-sql-query-data-extractor/",
+          "publishedOn": "2025-01-08T21:52:12.000Z",
+          "wordCount": 5636,
+          "title": "How to Talk to Any Database Using AI – Build Your Own SQL Query Data Extractor",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1733842504544/0e9da173-718c-454e-841c-15c148e0fe93.jpeg"
+        },
         {
           "id": "677ee5d707323c1a72821397",
           "author": "Beau Carnes",
@@ -559,16 +594,6 @@
           "wordCount": 3676,
           "title": "How to Build a Video Subtitle Generator using the Gemini API",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1733638398422/2f468b16-5801-4f8c-bf40-c24d07e219b7.jpeg"
-        },
-        {
-          "id": "6758c1285b5802ad4fa00d45",
-          "author": "Timothy Olanrewaju",
-          "description": "Django is a high-level Python framework. It’s popular for its simplicity and efficiency in building robust web applications. At the heart of Django’s architecture is the Model-View-Template (MVT) pattern. Having a good understanding of how Models, Vi...",
-          "link": "https://www.freecodecamp.org/news/how-django-mvt-architecture-works/",
-          "publishedOn": "2024-12-10T22:31:04.000Z",
-          "wordCount": 3048,
-          "title": "How Django's MVT Architecture Works: A Deep Dive into Models, Views, and Templates",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1733732493858/a06ee65a-de97-4c7f-b3bd-7ca8c1b6fe82.png"
         }
       ]
     }

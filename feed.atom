@@ -2,10 +2,61 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-09T00:13:07.326Z</updated>
+    <updated>2025-01-10T00:13:15.609Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[What is Semantic Matching? How to Find Words in a Document Using NLP]]></title>
+        <id>67802329a9edea9df0053dd7</id>
+        <link href="https://www.freecodecamp.org/news/what-is-semantic-matching-find-words-in-a-document-using-nlp/"/>
+        <updated>2025-01-09T19:27:37.000Z</updated>
+        <summary type="html"><![CDATA[Have you ever found yourself searching a document for a specific word or phrase just to discover that the term you're looking for isn't there? It can be frustrating, right? Sometimes, even though you might not see the exact term you’re looking for, t...]]></summary>
+        <author>
+            <name>Ibrahim ogunbiyi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tight Mode: Why Browsers Produce Different Performance Results]]></title>
+        <id>https://css-tricks.com/?p=383563</id>
+        <link href="https://css-tricks.com/tight-mode-why-browsers-produce-different-performance-results/"/>
+        <updated>2025-01-09T16:16:15.000Z</updated>
+        <summary type="html"><![CDATA[I wrote a post for Smashing Magazine that was published today about this thing that Chrome and Safari have called “Tight Mode” and how it impacts page performance. I’d never heard the term until DebugBear’s Matt Zeunert mentioned it in …
+Tight Mode: Why Browsers Produce Different Performance Results originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tight Mode: Why Browsers Produce Different Performance Results]]></title>
+        <id>https://smashingmagazine.com/2025/01/tight-mode-why-browsers-produce-different-performance-results/</id>
+        <link href="https://smashingmagazine.com/2025/01/tight-mode-why-browsers-produce-different-performance-results/"/>
+        <updated>2025-01-09T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[We know that browsers do all sorts of different things under the hood. One of those things is the way they not only *fetch* resources like images and scripts from the server but how they [prioritize those resources](https://www.debugbear.com/blog/request-priorities?utm_campaign=sm-7). Chrome and Safari have implemented a “Tight Mode” that constrains which resources are loaded and in what order, but they each take drastically different approaches to it. With so little information about Tight Mode available, this article attempts a high-level explanation of what it is, what triggers it, and how it is treated differently in major browsers.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Geoff Graham)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Understanding the Language Server Protocol – Easier Code Editing Across Languages and Tools]]></title>
+        <id>677ef3f83b47b21899e957c4</id>
+        <link href="https://www.freecodecamp.org/news/what-is-the-language-server-protocol-easier-code-editing-across-languages/"/>
+        <updated>2025-01-08T21:54:00.000Z</updated>
+        <summary type="html"><![CDATA[In the past, many code editors were built just for one specific language. To provide rich and smart code editing, tight integration between the editor and the language tooling was a must. On the other hand, there were (and still are) more general-pur...]]></summary>
+        <author>
+            <name>Alex Pliutau</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Talk to Any Database Using AI – Build Your Own SQL Query Data Extractor]]></title>
+        <id>677ef38c05d7f213e7d2a766</id>
+        <link href="https://www.freecodecamp.org/news/talk-to-databases-using-ai-build-a-sql-query-data-extractor/"/>
+        <updated>2025-01-08T21:52:12.000Z</updated>
+        <summary type="html"><![CDATA[Recently, I took a break from writing to focus on my exams. During this time, I had an interesting experience: I had the chance to explain SQL (Structured Query Language) to my peers. While exploring SQL in-depth, I encountered a common frustration: ...]]></summary>
+        <author>
+            <name>Prankur Pandey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Learn Generative AI in 23 Hours]]></title>
         <id>677ee5d707323c1a72821397</id>
@@ -491,39 +542,6 @@ Fluid Superscripts and Subscripts originally published on CSS-Tricks, which is p
         <summary type="html"><![CDATA[10 years after scroll-driven animations were first proposed, they’re finally here — no JavaScript, no dependencies, no libraries, just pure CSS.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Mariana Beldi)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Django's MVT Architecture Works: A Deep Dive into Models, Views, and Templates]]></title>
-        <id>6758c1285b5802ad4fa00d45</id>
-        <link href="https://www.freecodecamp.org/news/how-django-mvt-architecture-works/"/>
-        <updated>2024-12-10T22:31:04.000Z</updated>
-        <summary type="html"><![CDATA[Django is a high-level Python framework. It’s popular for its simplicity and efficiency in building robust web applications. At the heart of Django’s architecture is the Model-View-Template (MVT) pattern. Having a good understanding of how Models, Vi...]]></summary>
-        <author>
-            <name>Timothy Olanrewaju</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSSWG Minutes Telecon (2024-12-04): Just Use Grid vs. Display: Masonry]]></title>
-        <id>https://css-tricks.com/?p=382974</id>
-        <link href="https://css-tricks.com/csswg-minutes-telecon-2024-12-04-just-use-grid-vs-display-masonry/"/>
-        <updated>2024-12-10T16:27:32.000Z</updated>
-        <summary type="html"><![CDATA[The CSSWG met to try and finally squash a debate that has been going on for five years: whether Masonry should be a part of Grid or a separate system. We've got coverage of both presentations for ya.
-CSSWG Minutes Telecon (2024-12-04): Just Use Grid vs. Display: Masonry originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Juan Diego Rodríguez</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Smashing Meets Product Design]]></title>
-        <id>https://css-tricks.com/?p=383028</id>
-        <link href="https://css-tricks.com/smashing-meets-product-design/"/>
-        <updated>2024-12-10T16:00:24.000Z</updated>
-        <summary type="html"><![CDATA[I had the pleasure of hosting a recent Smashing Magazine workshop on product design, subbing for Vitaly Friedman who usually runs these things.
-What? A front-ender interviewing really smart people about their processes for user research, documenting requirements, and …
-Smashing Meets Product Design originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
         </author>
     </entry>
 </feed>
