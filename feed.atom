@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-10T00:13:15.609Z</updated>
+    <updated>2025-01-11T00:13:07.841Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CUDA and GPU Programming with Elliot Arledge [Podcast #155]]]></title>
+        <id>678179c8a470cbfb227dbd02</id>
+        <link href="https://www.freecodecamp.org/news/cuda-gpu-programming-elliot-arledge-podcast-155/"/>
+        <updated>2025-01-10T19:49:28.000Z</updated>
+        <summary type="html"><![CDATA[On this week's episode of the podcast, I interview Elliot Arledge. He's a 20-year old computer science student who's created several popular freeCodeCamp courses on LLMs, the Mojo programming language, and GPU programming with CUDA. He joins us from ...]]></summary>
+        <author>
+            <name>Quincy Larson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Getting Started with RHEL: A Beginner’s Guide to Linux Basics]]></title>
+        <id>67813ff98eada5cd9c2f7dc7</id>
+        <link href="https://www.freecodecamp.org/news/guide-to-rhel-linux-basics/"/>
+        <updated>2025-01-10T15:42:49.000Z</updated>
+        <summary type="html"><![CDATA[Imagine an operating system so reliable that it powers the world’s biggest servers, the fastest supercomputers, and even the cloud infrastructure of leading tech companies. Welcome to Red Hat Enterprise Linux (RHEL) — the backbone of modern IT system...]]></summary>
+        <author>
+            <name>Tanishka Makode</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Solo Development: Learning To Let Go Of Perfection]]></title>
+        <id>https://smashingmagazine.com/2025/01/solo-development-learning-to-let-go-of-perfection/</id>
+        <link href="https://smashingmagazine.com/2025/01/solo-development-learning-to-let-go-of-perfection/"/>
+        <updated>2025-01-10T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The best and worst thing about solo development is the “solo” part. There’s a lot of freedom in working alone, and that freedom can be inspiring, but it can also become a debilitating hindrance to productivity and progress. Victor Ayomipo shares his personal lessons on what it takes to navigate solo development and build the “right” app.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Victor Ayomipo)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What is Semantic Matching? How to Find Words in a Document Using NLP]]></title>
         <id>67802329a9edea9df0053dd7</id>
@@ -511,37 +541,6 @@ What ELSE is on your CSS wishlist? originally published on CSS-Tricks, which is 
         <summary type="html"><![CDATA[Are you someone who’s wondered if math really matters when writing code? Or perhaps you've struggled to keep your code clean and understandable while working on fun projects? This course might just change your perspective! Understanding math concepts...]]></summary>
         <author>
             <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fluid Superscripts and Subscripts]]></title>
-        <id>https://css-tricks.com/?p=382867</id>
-        <link href="https://css-tricks.com/fluid-superscripts-and-subscripts/"/>
-        <updated>2024-12-11T20:23:46.000Z</updated>
-        <summary type="html"><![CDATA[How much attention do you pay to the alignments of your subscripts and superscripts? Lorenz Wöehr has you covered with a recipe for fluid scaling.
-Fluid Superscripts and Subscripts originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Lorenz Wöehr</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Video Subtitle Generator using the Gemini API]]></title>
-        <id>6759af8bb972ec12da4879d3</id>
-        <link href="https://www.freecodecamp.org/news/build-a-video-subtitle-generator-using-the-gemini-api/"/>
-        <updated>2024-12-11T15:28:11.000Z</updated>
-        <summary type="html"><![CDATA[In this tutorial, you'll build an AI-powered subtitle generator using Google's Gemini API. We'll create a project called “AI-Subtitle-Generator” using React for the front end and Express for the back end. Get ready for a fun and practical project. Ta...]]></summary>
-        <author>
-            <name>Sanjay R</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An Introduction To CSS Scroll-Driven Animations: Scroll And View Progress Timelines]]></title>
-        <id>https://smashingmagazine.com/2024/12/introduction-css-scroll-driven-animations/</id>
-        <link href="https://smashingmagazine.com/2024/12/introduction-css-scroll-driven-animations/"/>
-        <updated>2024-12-11T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[10 years after scroll-driven animations were first proposed, they’re finally here — no JavaScript, no dependencies, no libraries, just pure CSS.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Mariana Beldi)</name>
         </author>
     </entry>
 </feed>

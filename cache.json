@@ -80,16 +80,6 @@
           "wordCount": 2136,
           "title": "What ELSE is on your CSS wishlist?",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/383250"
-        },
-        {
-          "id": "https://css-tricks.com/?p=382867",
-          "author": "Lorenz Wöehr",
-          "description": "How much attention do you pay to the alignments of your subscripts and superscripts? Lorenz Wöehr has you covered with a recipe for fluid scaling.\nFluid Superscripts and Subscripts originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/fluid-superscripts-and-subscripts/",
-          "publishedOn": "2024-12-11T20:23:46.000Z",
-          "wordCount": 2618,
-          "title": "Fluid Superscripts and Subscripts",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2024/12/fluid-super-subscripts-1.png"
         }
       ]
     },
@@ -98,6 +88,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2025/01/solo-development-learning-to-let-go-of-perfection/",
+          "author": "hello@smashingmagazine.com (Victor Ayomipo)",
+          "description": "The best and worst thing about solo development is the “solo” part. There’s a lot of freedom in working alone, and that freedom can be inspiring, but it can also become a debilitating hindrance to productivity and progress. Victor Ayomipo shares his personal lessons on what it takes to navigate solo development and build the “right” app.",
+          "link": "https://smashingmagazine.com/2025/01/solo-development-learning-to-let-go-of-perfection/",
+          "publishedOn": "2025-01-10T14:00:00.000Z",
+          "wordCount": 5267,
+          "title": "Solo Development: Learning To Let Go Of Perfection",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/solo-development-learning-to-let-go-of-perfection/solo-development-learning-to-let-go-of-perfection.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/solo-development-learning-to-let-go-of-perfection/solo-development-learning-to-let-go-of-perfection.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2025/01/tight-mode-why-browsers-produce-different-performance-results/",
           "author": "hello@smashingmagazine.com (Geoff Graham)",
@@ -212,21 +217,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/three-approaches-amplify-design-projects/three-approaches-amplify-design-projects.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2024/12/introduction-css-scroll-driven-animations/",
-          "author": "hello@smashingmagazine.com (Mariana Beldi)",
-          "description": "10 years after scroll-driven animations were first proposed, they’re finally here — no JavaScript, no dependencies, no libraries, just pure CSS.",
-          "link": "https://smashingmagazine.com/2024/12/introduction-css-scroll-driven-animations/",
-          "publishedOn": "2024-12-11T15:00:00.000Z",
-          "wordCount": 6659,
-          "title": "An Introduction To CSS Scroll-Driven Animations: Scroll And View Progress Timelines",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/introduction-css-scroll-driven-animations/introduction-css-scroll-driven-animations.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/introduction-css-scroll-driven-animations/introduction-css-scroll-driven-animations.jpg"
         }
       ]
     },
@@ -235,6 +225,26 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "678179c8a470cbfb227dbd02",
+          "author": "Quincy Larson",
+          "description": "On this week's episode of the podcast, I interview Elliot Arledge. He's a 20-year old computer science student who's created several popular freeCodeCamp courses on LLMs, the Mojo programming language, and GPU programming with CUDA. He joins us from ...",
+          "link": "https://www.freecodecamp.org/news/cuda-gpu-programming-elliot-arledge-podcast-155/",
+          "publishedOn": "2025-01-10T19:49:28.000Z",
+          "wordCount": 1095,
+          "title": "CUDA and GPU Programming with Elliot Arledge [Podcast #155]",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1736538155461/7dba1aad-51f1-4c47-b8fb-c99bf77dd18a.png"
+        },
+        {
+          "id": "67813ff98eada5cd9c2f7dc7",
+          "author": "Tanishka Makode",
+          "description": "Imagine an operating system so reliable that it powers the world’s biggest servers, the fastest supercomputers, and even the cloud infrastructure of leading tech companies. Welcome to Red Hat Enterprise Linux (RHEL) — the backbone of modern IT system...",
+          "link": "https://www.freecodecamp.org/news/guide-to-rhel-linux-basics/",
+          "publishedOn": "2025-01-10T15:42:49.000Z",
+          "wordCount": 3710,
+          "title": "Getting Started with RHEL: A Beginner’s Guide to Linux Basics",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1736533985344/a521db07-d7eb-47db-a71c-4949e0761b9e.jpeg"
+        },
         {
           "id": "67802329a9edea9df0053dd7",
           "author": "Ibrahim ogunbiyi",
@@ -584,16 +594,6 @@
           "wordCount": 1179,
           "title": "Learn How Math Can Make Your Code Better By Coding Polyrhythms",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1734015930980/db739231-a258-45bf-a967-2d8d70100bc2.jpeg"
-        },
-        {
-          "id": "6759af8bb972ec12da4879d3",
-          "author": "Sanjay R",
-          "description": "In this tutorial, you'll build an AI-powered subtitle generator using Google's Gemini API. We'll create a project called “AI-Subtitle-Generator” using React for the front end and Express for the back end. Get ready for a fun and practical project. Ta...",
-          "link": "https://www.freecodecamp.org/news/build-a-video-subtitle-generator-using-the-gemini-api/",
-          "publishedOn": "2024-12-11T15:28:11.000Z",
-          "wordCount": 3676,
-          "title": "How to Build a Video Subtitle Generator using the Gemini API",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1733638398422/2f468b16-5801-4f8c-bf40-c24d07e219b7.jpeg"
         }
       ]
     }
