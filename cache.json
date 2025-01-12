@@ -554,46 +554,6 @@
           "wordCount": 1157,
           "title": "How to get a Developer Job – even in this economy – with James Q Quick [Podcast #153]",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1734122680496/979fd4c5-3558-4e24-89c2-9a314afa7523.png"
-        },
-        {
-          "id": "675b1981cc99415a548dbe6c",
-          "author": "David Asaolu",
-          "description": "Modern software applications often rely on email communication to engage with users. They may send authentication codes during sign in attempts, marketing emails, or newsletters, for example. This means that email notifications are typically the most...",
-          "link": "https://www.freecodecamp.org/news/create-and-send-email-templates-using-react-email-and-resend-in-nextjs/",
-          "publishedOn": "2024-12-12T17:12:33.000Z",
-          "wordCount": 2360,
-          "title": "How to Create and Send Email Templates Using React Email and Resend in Next.js",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1733995060570/3450a9b3-e740-4362-b0ab-0269646e725c.png"
-        },
-        {
-          "id": "675b035a23cb72fd28dab52d",
-          "author": "Chaitanya Rahalkar",
-          "description": "In this article, you are going to learn to create a basic security tool that can be helpful in identifying common vulnerabilities in web applications. I have two goals here. The first is to empower you with the skills to develop tools that can help e...",
-          "link": "https://www.freecodecamp.org/news/build-a-web-application-security-scanner-with-python/",
-          "publishedOn": "2024-12-12T15:38:02.000Z",
-          "wordCount": 2616,
-          "title": "Building a Simple Web Application Security Scanner with Python: A Beginner's Guide",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1733929791562/042042e3-56e2-4185-be19-2a0f5fa15d25.png"
-        },
-        {
-          "id": "675afe6e7c306f8d973e7281",
-          "author": "Beau Carnes",
-          "description": "Search functionality is one of the most critical features of modern applications, whether you're building websites, e-commerce platforms, or data-driven applications. But how do you create powerful and efficient search engines that can handle vast am...",
-          "link": "https://www.freecodecamp.org/news/learn-elasticsearch-with-a-comprehensive-beginner-friendly-course/",
-          "publishedOn": "2024-12-12T15:17:02.000Z",
-          "wordCount": 1440,
-          "title": "Learn Elasticsearch with a Comprehensive Beginner-Friendly Course",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1734016608619/82574380-c09a-4442-97b0-3e707a1675d2.jpeg"
-        },
-        {
-          "id": "675afc0f15e89abb3b1a11dd",
-          "author": "Beau Carnes",
-          "description": "Are you someone who’s wondered if math really matters when writing code? Or perhaps you've struggled to keep your code clean and understandable while working on fun projects? This course might just change your perspective! Understanding math concepts...",
-          "link": "https://www.freecodecamp.org/news/learn-how-math-can-make-your-code-better-by-coding-polyrhythms/",
-          "publishedOn": "2024-12-12T15:06:55.000Z",
-          "wordCount": 1179,
-          "title": "Learn How Math Can Make Your Code Better By Coding Polyrhythms",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1734015930980/db739231-a258-45bf-a967-2d8d70100bc2.jpeg"
         }
       ]
     }
