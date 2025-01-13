@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-12T00:14:29.367Z</updated>
+    <updated>2025-01-13T00:14:24.539Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
@@ -491,16 +491,6 @@ What ELSE is on your CSS wishlist? originally published on CSS-Tricks, which is 
         <summary type="html"><![CDATA[When you’re working on a project with multiple environments – like staging and production – for your backend APIs and frontend deployments, you’ll want to make sure you have the correct configuration and commands for each branch in your repository. T...]]></summary>
         <author>
             <name>Francis Ihejirika</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to get a Developer Job – even in this economy – with James Q Quick [Podcast #153]]]></title>
-        <id>675ca1db0e7ab2ab9bd66a40</id>
-        <link href="https://www.freecodecamp.org/news/how-to-get-a-developer-job-even-in-this-economy-james-q-quick-podcast-153/"/>
-        <updated>2024-12-13T21:06:35.000Z</updated>
-        <summary type="html"><![CDATA[On this week's episode of the podcast, freeCodeCamp founder Quincy Larson interviews James Q Quick. He's a developer, speaker, and teacher. James grew up in Memphis. He was an athlete who played violin, and knew nothing about computer science but cho...]]></summary>
-        <author>
-            <name>Quincy Larson</name>
         </author>
     </entry>
 </feed>
