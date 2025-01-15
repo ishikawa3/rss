@@ -2,10 +2,103 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-13T00:14:24.539Z</updated>
+    <updated>2025-01-15T00:12:29.532Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Set Up Social Authentication with Strapi and Nuxt.js]]></title>
+        <id>6786814ce75a85acb18f1d2d</id>
+        <link href="https://www.freecodecamp.org/news/how-to-set-up-social-authentication-with-strapi-and-nuxtjs/"/>
+        <updated>2025-01-14T15:22:52.000Z</updated>
+        <summary type="html"><![CDATA[Enhancing security is a critical aspect of every development process. But it’s crucial to make your apps accessible for users signing up for the application. So, creating a seamless experience for users while they sign up and maintaining security thr...]]></summary>
+        <author>
+            <name>Ashimi0x</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI in Agriculture: How AI-Enhanced Farming Can Increase Crop Yields [Full Book]]]></title>
+        <id>67867ea8a91f104f3f20e6a4</id>
+        <link href="https://www.freecodecamp.org/news/ai-in-agriculture-book/"/>
+        <updated>2025-01-14T15:11:36.000Z</updated>
+        <summary type="html"><![CDATA[Artificial intelligence is revolutionizing the agriculture industry, paving the way for a future of smarter, more efficient farming practices. Imagine a world where crops are grown with precision and care, maximizing yields like never before. With AI...]]></summary>
+        <author>
+            <name>Vahe Aslanyan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Few Ways That Cloudways Makes Running This Site a Little Easier]]></title>
+        <id>https://css-tricks.com/?p=382719</id>
+        <link href="https://css-tricks.com/a-few-ways-that-cloudways-makes-running-this-site-a-little-easier/"/>
+        <updated>2025-01-14T14:49:10.000Z</updated>
+        <summary type="html"><![CDATA[(This is a sponsored post.)
+It’s probably no surprise to you that CSS-Tricks is (proudly) hosted on Cloudways, DigitalOcean’s managed hosting arm. Given both CSS-Tricks and Cloudways are part of DigitalOcean, it was just a matter of time …
+A Few Ways That Cloudways Makes Running This Site a Little Easier originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Role Of Illustration Style In Visual Storytelling]]></title>
+        <id>https://smashingmagazine.com/2025/01/role-illustration-style-visual-storytelling/</id>
+        <link href="https://smashingmagazine.com/2025/01/role-illustration-style-visual-storytelling/"/>
+        <updated>2025-01-14T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[How do we determine the most suitable illustration style? How should illustrations complement and reflect your corporate identity? What will resonate most with your target audience? And regarding the content, what type of illustration would best enhance it, and how would it work for the age range it is primarily for? Thomas Bohm shares insightful examples and discusses the key qualities of effective illustrations, emphasizing the importance of understanding your audience.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Thomas Bohm)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Simple Portfolio Website With HTML and CSS]]></title>
+        <id>67859c6915988a75c229dee2</id>
+        <link href="https://www.freecodecamp.org/news/build-a-simple-portfolio-website-with-html-and-css/"/>
+        <updated>2025-01-13T23:06:17.000Z</updated>
+        <summary type="html"><![CDATA[While browsing through some of my old projects, I stumbled upon a portfolio I worked on a while back. The funny thing? I never used it. So, I decided to give it a fresh look and thought, why not share it with you? As a developer, having a portfolio i...]]></summary>
+        <author>
+            <name>Spruce Emmanuel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn Relational Database Basics – Key Concepts for Beginners]]></title>
+        <id>67853e7ede435f43fdeb589d</id>
+        <link href="https://www.freecodecamp.org/news/learn-relational-database-basics-key-concepts-for-beginners/"/>
+        <updated>2025-01-13T16:25:34.000Z</updated>
+        <summary type="html"><![CDATA[In today’s digital world, data is everywhere, and it’s at the heart of most modern applications. Databases are the unsung heroes that keep it all organised and accessible. Many sites use databases, from social media platforms to online shopping retai...]]></summary>
+        <author>
+            <name>Zubair Idris Aweda</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Wait for the sibling-count() and sibling-index() Functions]]></title>
+        <id>https://css-tricks.com/?p=383435</id>
+        <link href="https://css-tricks.com/how-to-wait-for-the-sibling-count-and-sibling-index-functions/"/>
+        <updated>2025-01-13T15:08:01.000Z</updated>
+        <summary type="html"><![CDATA[Today, I want to look into one of those cases of impatient and how the community has waited for that feature, to be specific, two upcoming functions: sibling-count() and sibling-index().
+How to Wait for the sibling-count() and sibling-index() Functions originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Juan Diego Rodríguez</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use the Mermaid JavaScript Library to Create Flowcharts]]></title>
+        <id>678520dfd55476f9efb1de92</id>
+        <link href="https://www.freecodecamp.org/news/use-mermaid-javascript-library-to-create-flowcharts/"/>
+        <updated>2025-01-13T14:19:11.000Z</updated>
+        <summary type="html"><![CDATA[If you’ve recently searched for an online diagramming tool, you might have noticed that most of them rely on drag-and-drop functionality. While this is helpful for people who can’t code, it can be hard to maintain. It can also be a bit difficult to m...]]></summary>
+        <author>
+            <name>evaristo.c</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Make Flowcharts and Bring Joy to your Coding]]></title>
+        <id>67852099c122b063bd5743eb</id>
+        <link href="https://www.freecodecamp.org/news/how-to-make-flowcharts-with-mermaid/"/>
+        <updated>2025-01-13T14:18:01.000Z</updated>
+        <summary type="html"><![CDATA[Coding can be intense. Especially when you are knee-deep in debugging or trying to map complex projects. For many developers — novice and pros alike — it is not uncommon to spend hours staring at code, looking for answers that won’t come. You may hav...]]></summary>
+        <author>
+            <name>evaristo.c</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CUDA and GPU Programming with Elliot Arledge [Podcast #155]]]></title>
         <id>678179c8a470cbfb227dbd02</id>
