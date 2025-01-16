@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=383533",
+          "author": "Lee Meyer",
+          "description": "Lee Meyer with a super clever idea using scroll-driven animations as an interaction to \"like\" or \"dislike\" something.\nWeb-Slinger.css: Across the Swiper-Verse originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/web-slinger-css-across-the-swiper-verse/",
+          "publishedOn": "2025-01-15T15:03:25.000Z",
+          "wordCount": 2933,
+          "title": "Web-Slinger.css: Across the Swiper-Verse",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/383533"
+        },
+        {
           "id": "https://css-tricks.com/?p=382719",
           "author": "Geoff Graham",
           "description": "(This is a sponsored post.)\nIt’s probably no surprise to you that CSS-Tricks is (proudly) hosted on Cloudways, DigitalOcean’s managed hosting arm. Given both CSS-Tricks and Cloudways are part of DigitalOcean, it was just a matter of time …\nA Few Ways That Cloudways Makes Running This Site a Little Easier originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -237,21 +247,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/the-design-leader-dilemma/the-design-leader-dilemma.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2024/12/three-approaches-amplify-design-projects/",
-          "author": "hello@smashingmagazine.com (Olivia De Alba)",
-          "description": "There are many ways to elevate a design project from good to incredible. For web and product designers, it’s not just about adding more animations and flair. What it truly comes down to is a reframing of your thought processes starting before the project even kicks off. Olivia De Alba presents three approaches that designers can implement and which will change the way they make their projects more successful.",
-          "link": "https://smashingmagazine.com/2024/12/three-approaches-amplify-design-projects/",
-          "publishedOn": "2024-12-17T10:00:00.000Z",
-          "wordCount": 5856,
-          "title": "Three Approaches To Amplify Your Design Projects",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/three-approaches-amplify-design-projects/three-approaches-amplify-design-projects.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/three-approaches-amplify-design-projects/three-approaches-amplify-design-projects.jpg"
         }
       ]
     },
@@ -609,36 +604,6 @@
           "wordCount": 2623,
           "title": "What to Do If You Don't Get into Outreachy: Exploring Other Paths to Open Source",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1734517208892/dae4a13d-a348-4a8d-831a-8a2f6a1546fa.png"
-        },
-        {
-          "id": "676081a802767316a74098de",
-          "author": "Ben",
-          "description": "In this tutorial, you’ll learn about an important part of the Agile approach to software development: user stories. I’ll take you through what user stories are, common pitfalls that I’ve seen with creating user stories, and the frameworks that exist ...",
-          "link": "https://www.freecodecamp.org/news/how-to-write-user-stories-for-beginners/",
-          "publishedOn": "2024-12-16T19:38:16.000Z",
-          "wordCount": 3369,
-          "title": "How to Write User Stories for Beginners: Agile in Practice",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1733997369281/da5556e8-8d3f-40ef-97eb-c140f984e5b3.jpeg"
-        },
-        {
-          "id": "67606d5e81f45e690a86fe00",
-          "author": "David Jaja",
-          "description": "If you’re like me and you loveeeeee shortcuts, you know how satisfying it is to press a few keys and watch the magic happen. Whether it’s the familiar Ctrl+C – Ctrl+V that devs use to “borrow code” 😉 from LLMs and code pages, or the personalised sho...",
-          "link": "https://www.freecodecamp.org/news/how-to-build-a-reusable-keyboard-shortcut-listener-component-in-react/",
-          "publishedOn": "2024-12-16T18:11:42.000Z",
-          "wordCount": 3748,
-          "title": "How to Build a Reusable Keyboard Shortcut Listener Component in React",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1733895763796/17684457-fb85-48d4-b049-ddbaf0b5281e.png"
-        },
-        {
-          "id": "6760688b00f110abd3d0f655",
-          "author": "Francis Ihejirika",
-          "description": "When you’re working on a project with multiple environments – like staging and production – for your backend APIs and frontend deployments, you’ll want to make sure you have the correct configuration and commands for each branch in your repository. T...",
-          "link": "https://www.freecodecamp.org/news/how-to-automate-branch-specific-netlify-configurations-with-a-bash-script/",
-          "publishedOn": "2024-12-16T17:51:07.000Z",
-          "wordCount": 3414,
-          "title": "How to Automate Branch-Specific Netlify Configurations with a Bash Script: A Step-by-Step Guide",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1733871988108/cde4ea9b-705c-40e0-9730-09dbeebdfbae.png"
         }
       ]
     }

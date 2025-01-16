@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-15T00:12:29.532Z</updated>
+    <updated>2025-01-16T00:12:45.028Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Web-Slinger.css: Across the Swiper-Verse]]></title>
+        <id>https://css-tricks.com/?p=383533</id>
+        <link href="https://css-tricks.com/web-slinger-css-across-the-swiper-verse/"/>
+        <updated>2025-01-15T15:03:25.000Z</updated>
+        <summary type="html"><![CDATA[Lee Meyer with a super clever idea using scroll-driven animations as an interaction to "like" or "dislike" something.
+Web-Slinger.css: Across the Swiper-Verse originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Lee Meyer</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Set Up Social Authentication with Strapi and Nuxt.js]]></title>
         <id>6786814ce75a85acb18f1d2d</id>
@@ -544,46 +555,6 @@ How to Create Multi-Step Forms With Vanilla JavaScript and CSS originally publis
 What ELSE is on your CSS wishlist? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Three Approaches To Amplify Your Design Projects]]></title>
-        <id>https://smashingmagazine.com/2024/12/three-approaches-amplify-design-projects/</id>
-        <link href="https://smashingmagazine.com/2024/12/three-approaches-amplify-design-projects/"/>
-        <updated>2024-12-17T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[There are many ways to elevate a design project from good to incredible. For web and product designers, it’s not just about adding more animations and flair. What it truly comes down to is a reframing of your thought processes starting before the project even kicks off. Olivia De Alba presents three approaches that designers can implement and which will change the way they make their projects more successful.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Olivia De Alba)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Write User Stories for Beginners: Agile in Practice]]></title>
-        <id>676081a802767316a74098de</id>
-        <link href="https://www.freecodecamp.org/news/how-to-write-user-stories-for-beginners/"/>
-        <updated>2024-12-16T19:38:16.000Z</updated>
-        <summary type="html"><![CDATA[In this tutorial, you’ll learn about an important part of the Agile approach to software development: user stories. I’ll take you through what user stories are, common pitfalls that I’ve seen with creating user stories, and the frameworks that exist ...]]></summary>
-        <author>
-            <name>Ben</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Reusable Keyboard Shortcut Listener Component in React]]></title>
-        <id>67606d5e81f45e690a86fe00</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-a-reusable-keyboard-shortcut-listener-component-in-react/"/>
-        <updated>2024-12-16T18:11:42.000Z</updated>
-        <summary type="html"><![CDATA[If you’re like me and you loveeeeee shortcuts, you know how satisfying it is to press a few keys and watch the magic happen. Whether it’s the familiar Ctrl+C – Ctrl+V that devs use to “borrow code” 😉 from LLMs and code pages, or the personalised sho...]]></summary>
-        <author>
-            <name>David Jaja</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Automate Branch-Specific Netlify Configurations with a Bash Script: A Step-by-Step Guide]]></title>
-        <id>6760688b00f110abd3d0f655</id>
-        <link href="https://www.freecodecamp.org/news/how-to-automate-branch-specific-netlify-configurations-with-a-bash-script/"/>
-        <updated>2024-12-16T17:51:07.000Z</updated>
-        <summary type="html"><![CDATA[When you’re working on a project with multiple environments – like staging and production – for your backend APIs and frontend deployments, you’ll want to make sure you have the correct configuration and commands for each branch in your repository. T...]]></summary>
-        <author>
-            <name>Francis Ihejirika</name>
         </author>
     </entry>
 </feed>
