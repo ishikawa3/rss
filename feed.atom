@@ -2,10 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-17T00:12:53.944Z</updated>
+    <updated>2025-01-18T00:12:20.174Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Use Langbase Memory Agents to Make Any LLM a Conversational AI for Your Docs]]></title>
+        <id>678ac8f3892c4e60d8af0e95</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-langbase-memory-agents/"/>
+        <updated>2025-01-17T21:17:39.000Z</updated>
+        <summary type="html"><![CDATA[It’s 2025, and Large Language Models (LLMs) still can’t access your private data. Ask them something personal, and they’ll either guess or give you the wrong answer. That’s the limitation—they’re trained on public information and don’t have access to...]]></summary>
+        <author>
+            <name>Maham Codes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Run an Effective Daily Scrum – Tips for Team Members and Managers]]></title>
+        <id>678a7845720a1885d5f75ecd</id>
+        <link href="https://www.freecodecamp.org/news/how-to-run-an-effective-daily-scrum/"/>
+        <updated>2025-01-17T15:33:25.000Z</updated>
+        <summary type="html"><![CDATA[Let’s start with a simple question: Why do we get together for a short meeting each day?  If you work on a Scrum team, you’ve probably heard of a daily scrum, sometimes called a daily stand-up. It’s one of the key events in scrum. The “daily” usually...]]></summary>
+        <author>
+            <name>Ben</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fancy Menu Navigation Using Anchor Positioning]]></title>
+        <id>https://css-tricks.com/?p=383518</id>
+        <link href="https://css-tricks.com/fancy-menu-navigation-using-anchor-positioning/"/>
+        <updated>2025-01-17T14:57:39.000Z</updated>
+        <summary type="html"><![CDATA[Anchor positioning can be great for little interactive effects — as Temani Afif shows off with this clever idea for a menu hover.
+Fancy Menu Navigation Using Anchor Positioning originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Temani Afif</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An Ode To Side Project Time]]></title>
+        <id>https://smashingmagazine.com/2025/01/ode-to-side-project-time/</id>
+        <link href="https://smashingmagazine.com/2025/01/ode-to-side-project-time/"/>
+        <updated>2025-01-17T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A once-revered perk of some tech workplaces, the status of ‘side project time’ seems to have slipped in recent years. Frederick O’Brien believes it deserves a comeback.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Frederick O’Brien)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Understanding Deep Learning Research Tutorial - Theory, Code, and Math]]></title>
         <id>678921f0a510ee899ead3f7c</id>
@@ -613,27 +654,6 @@ The Little Triangle in the Tooltip originally published on CSS-Tricks, which is 
         <summary type="html"><![CDATA[Large Language Models (LLMs) like GPT often struggle to answer mathematical questions. In fact, if you ask a human a tough math question, like what is 185 cm in ft, they’ll struggle as well. They’d likely need a calculator to perform this conversion ...]]></summary>
         <author>
             <name>Maham Codes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What to Do If You Don't Get into Outreachy: Exploring Other Paths to Open Source]]></title>
-        <id>676307732bca88a1f50e3b28</id>
-        <link href="https://www.freecodecamp.org/news/what-to-do-if-you-dont-get-into-outreachy/"/>
-        <updated>2024-12-18T17:33:39.000Z</updated>
-        <summary type="html"><![CDATA[Did you apply to Outreachy and receive a “Your Initial Application Was Not Successful” email? Or maybe you got into the contribution stage but after a rigorous month of contribution, you were not selected as an intern. How disheartening that can be! ...]]></summary>
-        <author>
-            <name>Victoria Nduka</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Create Multi-Step Forms With Vanilla JavaScript and CSS]]></title>
-        <id>https://css-tricks.com/?p=382857</id>
-        <link href="https://css-tricks.com/how-to-create-multi-step-forms-with-vanilla-javascript-and-css/"/>
-        <updated>2024-12-18T15:03:22.000Z</updated>
-        <summary type="html"><![CDATA[When was the last time you developed a multi-step form? There’s so much to think about and so many moving pieces that need to be managed. But doing it by hand can be a good exercise and a great way to polish the basics. Fatuma Abdullaho walks you through her first multi-step form using vanilla HTML, CSS, and JavaScript.
-How to Create Multi-Step Forms With Vanilla JavaScript and CSS originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Fatuma Abdullaho</name>
         </author>
     </entry>
 </feed>

@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=383518",
+          "author": "Temani Afif",
+          "description": "Anchor positioning can be great for little interactive effects — as Temani Afif shows off with this clever idea for a menu hover.\nFancy Menu Navigation Using Anchor Positioning originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/fancy-menu-navigation-using-anchor-positioning/",
+          "publishedOn": "2025-01-17T14:57:39.000Z",
+          "wordCount": 3434,
+          "title": "Fancy Menu Navigation Using Anchor Positioning",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/383518"
+        },
+        {
           "id": "https://css-tricks.com/?p=383533",
           "author": "Lee Meyer",
           "description": "Lee Meyer with a super clever idea using scroll-driven animations as an interaction to \"like\" or \"dislike\" something.\nWeb-Slinger.css: Across the Swiper-Verse originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -90,16 +100,6 @@
           "wordCount": 3240,
           "title": "The Little Triangle in the Tooltip",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/383224"
-        },
-        {
-          "id": "https://css-tricks.com/?p=382857",
-          "author": "Fatuma Abdullaho",
-          "description": "When was the last time you developed a multi-step form? There’s so much to think about and so many moving pieces that need to be managed. But doing it by hand can be a good exercise and a great way to polish the basics. Fatuma Abdullaho walks you through her first multi-step form using vanilla HTML, CSS, and JavaScript.\nHow to Create Multi-Step Forms With Vanilla JavaScript and CSS originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/how-to-create-multi-step-forms-with-vanilla-javascript-and-css/",
-          "publishedOn": "2024-12-18T15:03:22.000Z",
-          "wordCount": 4758,
-          "title": "How to Create Multi-Step Forms With Vanilla JavaScript and CSS",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/382857"
         }
       ]
     },
@@ -108,6 +108,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2025/01/ode-to-side-project-time/",
+          "author": "hello@smashingmagazine.com (Frederick O’Brien)",
+          "description": "A once-revered perk of some tech workplaces, the status of ‘side project time’ seems to have slipped in recent years. Frederick O’Brien believes it deserves a comeback.",
+          "link": "https://smashingmagazine.com/2025/01/ode-to-side-project-time/",
+          "publishedOn": "2025-01-17T08:00:00.000Z",
+          "wordCount": 3692,
+          "title": "An Ode To Side Project Time",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/ode-to-side-project-time/ode-to-side-project-time.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/ode-to-side-project-time/ode-to-side-project-time.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2025/01/on-device-ai-building-smarter-faster-private-applications/",
           "author": "hello@smashingmagazine.com (Joas Pambou)",
@@ -260,6 +275,26 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "678ac8f3892c4e60d8af0e95",
+          "author": "Maham Codes",
+          "description": "It’s 2025, and Large Language Models (LLMs) still can’t access your private data. Ask them something personal, and they’ll either guess or give you the wrong answer. That’s the limitation—they’re trained on public information and don’t have access to...",
+          "link": "https://www.freecodecamp.org/news/how-to-use-langbase-memory-agents/",
+          "publishedOn": "2025-01-17T21:17:39.000Z",
+          "wordCount": 3011,
+          "title": "How to Use Langbase Memory Agents to Make Any LLM a Conversational AI for Your Docs",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1737148633610/45e0af50-6026-4953-8e1a-953a7d5b6df6.png"
+        },
+        {
+          "id": "678a7845720a1885d5f75ecd",
+          "author": "Ben",
+          "description": "Let’s start with a simple question: Why do we get together for a short meeting each day?  If you work on a Scrum team, you’ve probably heard of a daily scrum, sometimes called a daily stand-up. It’s one of the key events in scrum. The “daily” usually...",
+          "link": "https://www.freecodecamp.org/news/how-to-run-an-effective-daily-scrum/",
+          "publishedOn": "2025-01-17T15:33:25.000Z",
+          "wordCount": 2775,
+          "title": "How to Run an Effective Daily Scrum – Tips for Team Members and Managers",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1737127993830/ea473796-6a68-48f2-8643-f533561e12cf.png"
+        },
         {
           "id": "678921f0a510ee899ead3f7c",
           "author": "Beau Carnes",
@@ -679,16 +714,6 @@
           "wordCount": 3015,
           "title": "How to Make LLMs Better at Math Using AI Agents, MathJS, and BaseAI Tool Calls",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1734537732263/2ec966b6-d1d3-4d0f-ae37-982ef26ebc55.jpeg"
-        },
-        {
-          "id": "676307732bca88a1f50e3b28",
-          "author": "Victoria Nduka",
-          "description": "Did you apply to Outreachy and receive a “Your Initial Application Was Not Successful” email? Or maybe you got into the contribution stage but after a rigorous month of contribution, you were not selected as an intern. How disheartening that can be! ...",
-          "link": "https://www.freecodecamp.org/news/what-to-do-if-you-dont-get-into-outreachy/",
-          "publishedOn": "2024-12-18T17:33:39.000Z",
-          "wordCount": 2623,
-          "title": "What to Do If You Don't Get into Outreachy: Exploring Other Paths to Open Source",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1734517208892/dae4a13d-a348-4a8d-831a-8a2f6a1546fa.png"
         }
       ]
     }
