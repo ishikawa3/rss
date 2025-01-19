@@ -276,6 +276,16 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "678ad60f07a0a18254c0d6a9",
+          "author": "Quincy Larson",
+          "description": "On this week's episode of the podcast, I interview Jiquan Ngiam. He's a former Google Brain engineer who's building tools to make AI useful for everyone – not just developers. We talk about the power of AI and it's practical capabilities, and separat...",
+          "link": "https://www.freecodecamp.org/news/ai-reality-vs-speculation-jiquan-ngiam-podcast-156/",
+          "publishedOn": "2025-01-17T22:13:35.000Z",
+          "wordCount": 1076,
+          "title": "AI Reality VS Speculation with Google Machine Learning Engineer Jiquan Ngiam [Podcast #156]",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1737151884317/c5b49f86-1f4a-45fd-bf2f-48ed084c1762.png"
+        },
+        {
           "id": "678ac8f3892c4e60d8af0e95",
           "author": "Maham Codes",
           "description": "It’s 2025, and Large Language Models (LLMs) still can’t access your private data. Ask them something personal, and they’ll either guess or give you the wrong answer. That’s the limitation—they’re trained on public information and don’t have access to...",
@@ -664,56 +674,6 @@
           "wordCount": 6912,
           "title": "The C# Class Handbook – Types of Classes with Code Examples",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1734711601436/b4de90be-1d93-4d8d-a4ed-ae09b192ef5c.png"
-        },
-        {
-          "id": "676450c555ae44f950ee9c1f",
-          "author": "Chaitanya Rahalkar",
-          "description": "In cybersecurity, a honeypot is a decoy system that’s designed to attract and then detect potential attackers attempting to compromise the system. Just like a pot of honey sitting out in the open would attract flies. Think of these honeypots as secur...",
-          "link": "https://www.freecodecamp.org/news/build-a-honeypot-with-python/",
-          "publishedOn": "2024-12-19T16:58:45.000Z",
-          "wordCount": 3933,
-          "title": "How to Build a Honeypot in Python: A Practical Guide to Security Deception",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1734581440876/9b4a1d00-6185-4666-94cc-97131eed03fa.png"
-        },
-        {
-          "id": "6764437ed968c624aba9ad9d",
-          "author": "Beau Carnes",
-          "description": "Earning the AWS Certified Solutions Architect – Professional certification is a significant step for cloud professionals who want to validate their advanced skills in designing and deploying complex solutions on AWS. This credential is highly respect...",
-          "link": "https://www.freecodecamp.org/news/aws-solutions-architect-professional-sap-c02-certification-course/",
-          "publishedOn": "2024-12-19T16:02:06.000Z",
-          "wordCount": 1558,
-          "title": "AWS Solutions Architect Professional (SAP-C02) Certification Course",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1734624111613/72a048e5-3ba2-4c95-b553-086c9110c5d3.png"
-        },
-        {
-          "id": "67644277d968c624aba9ad8b",
-          "author": "Beau Carnes",
-          "description": "Game development is an exciting way to bring your creative ideas to life. If you're new to coding or want to expand your skills, JavaScript is one of the best programming languages to learn. JavaScript is versatile and widely used for web-based games...",
-          "link": "https://www.freecodecamp.org/news/learn-game-development-with-javascript-and-kaplay/",
-          "publishedOn": "2024-12-19T15:57:43.000Z",
-          "wordCount": 1450,
-          "title": "Learn Game Development with JavaScript and Kaplay",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1734623838531/8083f2dd-65f7-49c6-81b0-0a1107d2ee9a.png"
-        },
-        {
-          "id": "67644173f5e203def9a9e2b4",
-          "author": "Beau Carnes",
-          "description": "If you're a Java developer working with Spring Boot, you might wonder how to harness the power of AI in your projects. The good news is that Spring AI, an emerging tool within the Spring ecosystem, offers seamless AI integrations that are both access...",
-          "link": "https://www.freecodecamp.org/news/build-smarter-spring-boot-applications-with-spring-ai/",
-          "publishedOn": "2024-12-19T15:53:23.000Z",
-          "wordCount": 1371,
-          "title": "Build Smarter Spring Boot Applications with Spring AI",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1734623587345/f6f5386a-7315-4507-8c34-99b2ffde1dbe.png"
-        },
-        {
-          "id": "6764337a5ad7698ab9779d34",
-          "author": "Maham Codes",
-          "description": "Large Language Models (LLMs) like GPT often struggle to answer mathematical questions. In fact, if you ask a human a tough math question, like what is 185 cm in ft, they’ll struggle as well. They’d likely need a calculator to perform this conversion ...",
-          "link": "https://www.freecodecamp.org/news/make-llms-better-at-math-with-ai-agents/",
-          "publishedOn": "2024-12-19T14:53:46.000Z",
-          "wordCount": 3015,
-          "title": "How to Make LLMs Better at Math Using AI Agents, MathJS, and BaseAI Tool Calls",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1734537732263/2ec966b6-d1d3-4d0f-ae37-982ef26ebc55.jpeg"
         }
       ]
     }
