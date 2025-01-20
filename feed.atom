@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-19T00:13:58.838Z</updated>
+    <updated>2025-01-20T00:13:05.209Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
@@ -573,47 +573,6 @@ A CSS Wishlist for 2025 originally published on CSS-Tricks, which is part of the
         <summary type="html"><![CDATA[Are you considering a career in web development? If so, then you are making an excellent choice. Web Development is one of the most in-demand skills in the market in 2024. With over 5.038 billion Internet users, web development has a promising future...]]></summary>
         <author>
             <name>Kunal Nalawade</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why developers needn't fear CSS – with the King of CSS himself Kevin Powell [Podcast #154]]]></title>
-        <id>6765e0f59e51f9e8b04f2529</id>
-        <link href="https://www.freecodecamp.org/news/how-to-not-hate-css-kevin-powell-interview-154/"/>
-        <updated>2024-12-20T21:26:13.000Z</updated>
-        <summary type="html"><![CDATA[On this week's episode of the podcast, freeCodeCamp founder Quincy Larson interviews Kevin Powell. He's a designer, a software engineer, and an expert in CSS. He's runs a CSS-focused YouTube channel with nearly a million subscribers. There's nothing ...]]></summary>
-        <author>
-            <name>Quincy Larson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Run Open Source LLMs on Your Own Computer Using Ollama]]></title>
-        <id>6765d8da1ec59713cfa06b50</id>
-        <link href="https://www.freecodecamp.org/news/how-to-run-open-source-llms-on-your-own-computer-using-ollama/"/>
-        <updated>2024-12-20T20:51:38.000Z</updated>
-        <summary type="html"><![CDATA[AI tools have become commonplace these days, and you may use them daily. One of the key ways to secure your confidential data – both personal and business-related – is by running your own AI on your own infrastructure. This guide will explain how to ...]]></summary>
-        <author>
-            <name>Krishna Sarathi Ghosh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Little Triangle in the Tooltip]]></title>
-        <id>https://css-tricks.com/?p=383224</id>
-        <link href="https://css-tricks.com/the-little-triangle-in-the-tooltip/"/>
-        <updated>2024-12-20T16:31:05.000Z</updated>
-        <summary type="html"><![CDATA[Today, I want to focus on what I'll call the little triangle in the tooltip. It receives minimal attention but it amazes you by how many ways there are to make them. Let's start with the simplest and make our way up to the not-so-simple.
-The Little Triangle in the Tooltip originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Juan Diego Rodríguez</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The C# Class Handbook – Types of Classes with Code Examples]]></title>
-        <id>67659959cfcbe6eba5ecf6dc</id>
-        <link href="https://www.freecodecamp.org/news/classes-in-c-sharp-handbook-with-examples/"/>
-        <updated>2024-12-20T16:20:41.000Z</updated>
-        <summary type="html"><![CDATA[Classes are the fundamental building blocks of object-oriented programming in C#. They allow you to create reusable and modular code by grouping related data and functions. Different types of classes serve various purposes. For instance, organizing y...]]></summary>
-        <author>
-            <name>Isaiah Clifford Opoku</name>
         </author>
     </entry>
 </feed>
