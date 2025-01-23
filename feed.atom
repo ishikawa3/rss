@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-22T00:12:46.676Z</updated>
+    <updated>2025-01-23T00:12:43.727Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Create a WordPress Website]]></title>
+        <id>6791307b3bc9c704716dadd4</id>
+        <link href="https://www.freecodecamp.org/news/create-a-wordpress-website/"/>
+        <updated>2025-01-22T17:52:59.000Z</updated>
+        <summary type="html"><![CDATA[Building a website might seem daunting, but WordPress makes it accessible to everyone. With WordPress, you can create a professional website tailored to your needs, whether it’s for a personal blog, a small business, or an online store. The platform’...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Monitor Your Kubernetes Clusters with Prometheus and Grafana on AWS]]></title>
+        <id>6790382dcb2eedbe449b6899</id>
+        <link href="https://www.freecodecamp.org/news/kubernetes-cluster-observability-with-prometheus-and-grafana-on-aws/"/>
+        <updated>2025-01-22T00:13:33.000Z</updated>
+        <summary type="html"><![CDATA[Creating a solid application monitoring and observability strategy is a critical foundational step when deploying infrastructure or software in any environment. Monitoring ensures that your systems are running smoothly, while observability provides i...]]></summary>
+        <author>
+            <name>Eti Ijeoma</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Metasploit for Beginners — A Guide to the Powerful Exploitation Framework]]></title>
+        <id>679037f81f50429b12d52738</id>
+        <link href="https://www.freecodecamp.org/news/learn-metasploit-for-beginners/"/>
+        <updated>2025-01-22T00:12:40.000Z</updated>
+        <summary type="html"><![CDATA[If you’re starting your journey into penetration testing, you’ve likely heard of Metasploit. Metasploit is one of the most versatile tools in cybersecurity. It helps simplify vulnerability testing and exploitation. Metasploit helps us find and fix we...]]></summary>
+        <author>
+            <name>Manish Shivanandhan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Build a Real-Time Intrusion Detection System with Python and Open-Source Libraries]]></title>
         <id>678faf10f366e60cf6e7b6d0</id>
@@ -45,6 +75,16 @@ Creating a “Starred” Feed originally published on CSS-Tricks, which is part 
         <summary type="html"><![CDATA[Alvaro Saburido delves into the current state and challenges of Open-Source authoring, sharing lessons learned from both community- and company-driven initiatives.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Alvaro Saburido)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Prepare for Technical Interviews Using Neetcode 150]]></title>
+        <id>67912f406a65d8a9c9ef9f7e</id>
+        <link href="https://www.freecodecamp.org/news/prepare-for-technical-interviews-using-neetcode-150/"/>
+        <updated>2025-01-21T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Technical interviews can be intimidating, especially when you're preparing for roles at top tech companies. To succeed, you need a solid grasp of algorithms, data structures, and problem-solving strategies. The NeetCode 150 is an invaluable resource—...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
         </author>
     </entry>
     <entry>
@@ -573,27 +613,6 @@ Thank You (2024 Edition) originally published on CSS-Tricks, which is part of th
         <summary type="html"><![CDATA[Mobile app development has become an essential skill in today’s digital landscape, and React Native is one of the leading tools for creating powerful, cross-platform mobile apps. React Native combines the best parts of React and native app developmen...]]></summary>
         <author>
             <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Major freeCodeCamp Curriculum Updates Going Live in Time for Christmas]]></title>
-        <id>676a0ca777f09ac78ed9802d</id>
-        <link href="https://www.freecodecamp.org/news/christmas-2025-freecodecamp-curriculum-updates/"/>
-        <updated>2024-12-24T01:21:43.000Z</updated>
-        <summary type="html"><![CDATA[Merry Christmas campers! 🎄 freeCodeCamp just shipped a ton of FREE learning tools for you to dig into over the holidays: 🏗️ The new Certified Full Stack Developer curriculum is here! 🗨️ The new English for Developers CEFR Level B1 🤳 Major updates...]]></summary>
-        <author>
-            <name>Quincy Larson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A CSS Wishlist for 2025]]></title>
-        <id>https://css-tricks.com/?p=383249</id>
-        <link href="https://css-tricks.com/a-css-wishlist-for-2025/"/>
-        <updated>2024-12-23T15:07:41.000Z</updated>
-        <summary type="html"><![CDATA[2024 has been one of the greatest years for CSS: cross-document view transitions, scroll-driven animations, anchor positioning, animate to height: auto, and many others. It seems out of touch to ask, but what else do we …
-A CSS Wishlist for 2025 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Juan Diego Rodríguez</name>
         </author>
     </entry>
 </feed>

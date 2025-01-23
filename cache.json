@@ -90,16 +90,6 @@
           "wordCount": 3607,
           "title": "Thank You (2024 Edition)",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/383295"
-        },
-        {
-          "id": "https://css-tricks.com/?p=383249",
-          "author": "Juan Diego Rodríguez",
-          "description": "2024 has been one of the greatest years for CSS: cross-document view transitions, scroll-driven animations, anchor positioning, animate to height: auto, and many others. It seems out of touch to ask, but what else do we …\nA CSS Wishlist for 2025 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/a-css-wishlist-for-2025/",
-          "publishedOn": "2024-12-23T15:07:41.000Z",
-          "wordCount": 3342,
-          "title": "A CSS Wishlist for 2025",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/383249"
         }
       ]
     },
@@ -276,6 +266,36 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "6791307b3bc9c704716dadd4",
+          "author": "Beau Carnes",
+          "description": "Building a website might seem daunting, but WordPress makes it accessible to everyone. With WordPress, you can create a professional website tailored to your needs, whether it’s for a personal blog, a small business, or an online store. The platform’...",
+          "link": "https://www.freecodecamp.org/news/create-a-wordpress-website/",
+          "publishedOn": "2025-01-22T17:52:59.000Z",
+          "wordCount": 1329,
+          "title": "Create a WordPress Website",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1737568134192/7ab11a8b-9d79-496b-b5c5-06f324a62670.png"
+        },
+        {
+          "id": "6790382dcb2eedbe449b6899",
+          "author": "Eti Ijeoma",
+          "description": "Creating a solid application monitoring and observability strategy is a critical foundational step when deploying infrastructure or software in any environment. Monitoring ensures that your systems are running smoothly, while observability provides i...",
+          "link": "https://www.freecodecamp.org/news/kubernetes-cluster-observability-with-prometheus-and-grafana-on-aws/",
+          "publishedOn": "2025-01-22T00:13:33.000Z",
+          "wordCount": 3684,
+          "title": "How to Monitor Your Kubernetes Clusters with Prometheus and Grafana on AWS",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1737504669572/017570c6-7676-44e1-aa19-4257dd7d30e7.png"
+        },
+        {
+          "id": "679037f81f50429b12d52738",
+          "author": "Manish Shivanandhan",
+          "description": "If you’re starting your journey into penetration testing, you’ve likely heard of Metasploit. Metasploit is one of the most versatile tools in cybersecurity. It helps simplify vulnerability testing and exploitation. Metasploit helps us find and fix we...",
+          "link": "https://www.freecodecamp.org/news/learn-metasploit-for-beginners/",
+          "publishedOn": "2025-01-22T00:12:40.000Z",
+          "wordCount": 2100,
+          "title": "Metasploit for Beginners — A Guide to the Powerful Exploitation Framework",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1737504731562/ebce2299-d90e-4b17-a1b0-15b4dbe6d844.png"
+        },
+        {
           "id": "678faf10f366e60cf6e7b6d0",
           "author": "Chaitanya Rahalkar",
           "description": "An Intrusion Detection System (IDS) is like a security camera for your network. Just as security cameras help identify suspicious activities in the physical world, an IDS will monitor your network to help detect any potential cyber attacks and securi...",
@@ -294,6 +314,16 @@
           "wordCount": 4090,
           "title": "How to Integrate Discord Webhooks with Next.js 15 – Example Project",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1737468174839/93832182-b4a9-48c0-aee5-cd8d716fc47a.png"
+        },
+        {
+          "id": "67912f406a65d8a9c9ef9f7e",
+          "author": "Beau Carnes",
+          "description": "Technical interviews can be intimidating, especially when you're preparing for roles at top tech companies. To succeed, you need a solid grasp of algorithms, data structures, and problem-solving strategies. The NeetCode 150 is an invaluable resource—...",
+          "link": "https://www.freecodecamp.org/news/prepare-for-technical-interviews-using-neetcode-150/",
+          "publishedOn": "2025-01-21T05:00:00.000Z",
+          "wordCount": 1264,
+          "title": "Prepare for Technical Interviews Using Neetcode 150",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1737567904804/e1f89c98-9264-40e4-8183-f230b2bac811.png"
         },
         {
           "id": "678ad60f07a0a18254c0d6a9",
@@ -644,16 +674,6 @@
           "wordCount": 1423,
           "title": "Mobile App Development with React Native",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1735568898507/db93197c-fbed-454d-8134-49b398c4a5df.png"
-        },
-        {
-          "id": "676a0ca777f09ac78ed9802d",
-          "author": "Quincy Larson",
-          "description": "Merry Christmas campers! 🎄 freeCodeCamp just shipped a ton of FREE learning tools for you to dig into over the holidays: 🏗️ The new Certified Full Stack Developer curriculum is here! 🗨️ The new English for Developers CEFR Level B1 🤳 Major updates...",
-          "link": "https://www.freecodecamp.org/news/christmas-2025-freecodecamp-curriculum-updates/",
-          "publishedOn": "2024-12-24T01:21:43.000Z",
-          "wordCount": 1417,
-          "title": "Major freeCodeCamp Curriculum Updates Going Live in Time for Christmas",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1735001839858/19f1c48b-0d23-4bdf-882b-9f008e288719.png"
         }
       ]
     }
