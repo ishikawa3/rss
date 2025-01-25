@@ -2,10 +2,71 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-24T00:12:35.915Z</updated>
+    <updated>2025-01-25T00:12:22.442Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Positioning Text Around Elements With CSS Offset]]></title>
+        <id>https://css-tricks.com/?p=383506</id>
+        <link href="https://css-tricks.com/positioning-text-around-elements-with-css-offset/"/>
+        <updated>2025-01-24T14:59:25.000Z</updated>
+        <summary type="html"><![CDATA[When it comes to positioning elements on a page, including text, there are many ways to go about it in CSS — the literal position property with corresponding inset-* properties, translate, margin, anchor() (limited browser support at the moment), and so forth. The offset property is another one that belongs in that list.
+Positioning Text Around Elements With CSS Offset originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Preethi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use Collections in C# – Lists, Arrays, Dictionaries, and More]]></title>
+        <id>6793a90ea69c4db6e76c194a</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-collections-in-csharp/"/>
+        <updated>2025-01-24T14:51:58.000Z</updated>
+        <summary type="html"><![CDATA[One of the first challenges beginners face when developing applications in C# is organising and managing data efficiently. Imagine keeping track of a list of items, mapping unique keys to values, or ensuring there are no duplicates in a collection – ...]]></summary>
+        <author>
+            <name>Grant Riordan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Develop with CodeIgniter on Ubuntu – Step-by-Step Environment Setup]]></title>
+        <id>6793a7b71b1cdac77474f13a</id>
+        <link href="https://www.freecodecamp.org/news/how-to-develop-with-codeigniter-on-ubuntu-environment-setup/"/>
+        <updated>2025-01-24T14:46:15.000Z</updated>
+        <summary type="html"><![CDATA[CodeIgniter is a popular open-source PHP framework you can use to build dynamic and robust web applications. It’s simple to use, fast, and flexible. This makes it a good option for any developer who wants to have a light yet powerful framework that w...]]></summary>
+        <author>
+            <name>valentine Gatwiri</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Containerize a Node.js Application Using Docker – A Beginner's Guide]]></title>
+        <id>6793a775498f1e108e0ba05d</id>
+        <link href="https://www.freecodecamp.org/news/containerize-a-nodejs-application-using-docker/"/>
+        <updated>2025-01-24T14:45:09.000Z</updated>
+        <summary type="html"><![CDATA[Over the years, applications and tools have become more complex to keep up with people’s changing requirements and expectations. But this can create issues of code compatibility and remote access. For example, a codebase that functions properly on Wi...]]></summary>
+        <author>
+            <name>Oluwatobi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use Granular Segmentation with Feature Flags]]></title>
+        <id>6793a744fc2bd29e0ece1253</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-granular-segmentation-with-feature-flags/"/>
+        <updated>2025-01-24T14:44:20.000Z</updated>
+        <summary type="html"><![CDATA[These days, SaaS has become an integral part of running many businesses. So rolling out new features that resonate with the user base is key to a business’s growth. Imagine a feature that promises to enhance user experience but that ends up resonatin...]]></summary>
+        <author>
+            <name>Kayode Adeniyi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Start Learning TypeScript – A Beginner's Guide]]></title>
+        <id>6792ea9437616d62ca07fe03</id>
+        <link href="https://www.freecodecamp.org/news/start-learning-typescript-beginners-guide/"/>
+        <updated>2025-01-24T01:19:16.000Z</updated>
+        <summary type="html"><![CDATA[JavaScript is the most widely-used programming language for web development. But it lacks type-checking support, which is an essential feature of modern programming languages. JavaScript was originally designed as a simple scripting language. Its loo...]]></summary>
+        <author>
+            <name>Akande Olalekan Toheeb</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Some Things You Might Not Know About Custom Counter Styles]]></title>
         <id>https://css-tricks.com/?p=383776</id>
