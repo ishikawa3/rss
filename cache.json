@@ -286,6 +286,16 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "67943609f67368a6fc69bdb4",
+          "author": "Quincy Larson",
+          "description": "On this week's episode of the podcast, I interview Lane Wagner. He's a software engineer, prolific contributor to freeCodeCamp, and founder of the Boot.dev online learning platform. We talk about: Lanes thoughts on college and computer science degre...",
+          "link": "https://www.freecodecamp.org/news/getting-a-developer-job-lane-wagner-podcast-157/",
+          "publishedOn": "2025-01-25T00:53:29.000Z",
+          "wordCount": 1148,
+          "title": "Getting a developer job in 2025 with Lane Wagner [Podcast #157]",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1737766278527/f41b773c-a742-43a6-b4b0-e423966f4e52.png"
+        },
+        {
           "id": "6793a90ea69c4db6e76c194a",
           "author": "Grant Riordan",
           "description": "One of the first challenges beginners face when developing applications in C# is organising and managing data efficiently. Imagine keeping track of a list of items, mapping unique keys to values, or ensuring there are no duplicates in a collection – ...",
