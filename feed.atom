@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-27T00:13:09.629Z</updated>
+    <updated>2025-01-28T00:12:46.178Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Revisiting CSS Multi-Column Layout]]></title>
+        <id>https://css-tricks.com/?p=384002</id>
+        <link href="https://css-tricks.com/revisiting-css-multi-column-layout/"/>
+        <updated>2025-01-27T15:35:44.000Z</updated>
+        <summary type="html"><![CDATA[After 20 years since Andy Clarke first published his book about Multi-Column Layout in CSS, he's back to encourage a fresh look at CSS columns for enhanced readability and design flexibility.
+Revisiting CSS Multi-Column Layout originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Andy Clarke</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Are Scripts and How Do They Work? Improve Your Productivity with Scripting]]></title>
+        <id>679798b5c4e8c2bf2c88f7bc</id>
+        <link href="https://www.freecodecamp.org/news/what-are-scripts-and-how-do-they-work/"/>
+        <updated>2025-01-27T14:31:17.000Z</updated>
+        <summary type="html"><![CDATA[Developers who have a lot of experience building rigid, quality software tend to automate most of their work by writing scripts. These scripts range from simple alias bash commands to repetitive cron triggers that run on a server. In this tutorial, y...]]></summary>
+        <author>
+            <name>Arunachalam B</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Getting a developer job in 2025 with Lane Wagner [Podcast #157]]]></title>
         <id>67943609f67368a6fc69bdb4</id>

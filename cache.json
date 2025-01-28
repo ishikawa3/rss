@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=384002",
+          "author": "Andy Clarke",
+          "description": "After 20 years since Andy Clarke first published his book about Multi-Column Layout in CSS, he's back to encourage a fresh look at CSS columns for enhanced readability and design flexibility.\nRevisiting CSS Multi-Column Layout originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/revisiting-css-multi-column-layout/",
+          "publishedOn": "2025-01-27T15:35:44.000Z",
+          "wordCount": 3634,
+          "title": "Revisiting CSS Multi-Column Layout",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/384002"
+        },
+        {
           "id": "https://css-tricks.com/?p=383506",
           "author": "Preethi",
           "description": "When it comes to positioning elements on a page, including text, there are many ways to go about it in CSS — the literal position property with corresponding inset-* properties, translate, margin, anchor() (limited browser support at the moment), and so forth. The offset property is another one that belongs in that list.\nPositioning Text Around Elements With CSS Offset originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -285,6 +295,16 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "679798b5c4e8c2bf2c88f7bc",
+          "author": "Arunachalam B",
+          "description": "Developers who have a lot of experience building rigid, quality software tend to automate most of their work by writing scripts. These scripts range from simple alias bash commands to repetitive cron triggers that run on a server. In this tutorial, y...",
+          "link": "https://www.freecodecamp.org/news/what-are-scripts-and-how-do-they-work/",
+          "publishedOn": "2025-01-27T14:31:17.000Z",
+          "wordCount": 2999,
+          "title": "What Are Scripts and How Do They Work? Improve Your Productivity with Scripting",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1737988076418/347e6d8a-1dd8-45d1-854b-fbc576eeed5f.png"
+        },
         {
           "id": "67943609f67368a6fc69bdb4",
           "author": "Quincy Larson",
