@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-28T00:12:46.178Z</updated>
+    <updated>2025-01-29T00:12:32.541Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Essential CLI/TUI Tools for Developers]]></title>
+        <id>6798fd7b4666e531b7dd7586</id>
+        <link href="https://www.freecodecamp.org/news/essential-cli-tui-tools-for-developers/"/>
+        <updated>2025-01-28T15:53:31.000Z</updated>
+        <summary type="html"><![CDATA[As developers, we spend a lot of time in our terminals. And there are tons of great CLI/TUI tools that can boost our productivity (as well as some that are just fun to use). From managing Git repositories and navigating file systems to monitoring sys...]]></summary>
+        <author>
+            <name>Alex Pliutau</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use the Java Collections Framework – A Guide for Developers]]></title>
+        <id>6798fd38ac05f27ed5691abd</id>
+        <link href="https://www.freecodecamp.org/news/java-collections-framework-reference-guide/"/>
+        <updated>2025-01-28T15:52:24.000Z</updated>
+        <summary type="html"><![CDATA[In your Java applications, you’ll typically work with various types of objects. And you might want to perform operations like sorting, searching, and iterating on these objects. Prior to the introduction of the Collections framework in JDK 1.2, you w...]]></summary>
+        <author>
+            <name>Anjan Baradwaj</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build an Application with AWS Lambda]]></title>
+        <id>6798f596558861e9737fa5af</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-an-application-with-aws-lambda/"/>
+        <updated>2025-01-28T15:19:50.000Z</updated>
+        <summary type="html"><![CDATA[AWS Lambda is a service from Amazon Web Services (AWS) that lets you run your code in response to events without managing servers. It’s a simple and scalable way to build applications. In this tutorial, I’ll show you how to use AWS Lambda with three ...]]></summary>
+        <author>
+            <name>Ijeoma Igboagu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Svelte 5 And The Future Of Frameworks: A Chat With Rich Harris]]></title>
+        <id>https://smashingmagazine.com/2025/01/svelte-5-future-frameworks-chat-rich-harris/</id>
+        <link href="https://smashingmagazine.com/2025/01/svelte-5-future-frameworks-chat-rich-harris/"/>
+        <updated>2025-01-28T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[After months of anticipation, debate, and even a bit of apprehension, Svelte 5 arrived earlier this year. Frederick O’Brien caught up with its creator, Rich Harris, to talk about the path that brought him and his team here and what lies ahead.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Frederick O’Brien)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Revisiting CSS Multi-Column Layout]]></title>
         <id>https://css-tricks.com/?p=384002</id>

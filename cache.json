@@ -129,6 +129,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2025/01/svelte-5-future-frameworks-chat-rich-harris/",
+          "author": "hello@smashingmagazine.com (Frederick O’Brien)",
+          "description": "After months of anticipation, debate, and even a bit of apprehension, Svelte 5 arrived earlier this year. Frederick O’Brien caught up with its creator, Rich Harris, to talk about the path that brought him and his team here and what lies ahead.",
+          "link": "https://smashingmagazine.com/2025/01/svelte-5-future-frameworks-chat-rich-harris/",
+          "publishedOn": "2025-01-28T15:00:00.000Z",
+          "wordCount": 4066,
+          "title": "Svelte 5 And The Future Of Frameworks: A Chat With Rich Harris",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/svelte-5-future-frameworks-chat-rich-harris/svelte-5-future-frameworks-chat-rich-harris.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/svelte-5-future-frameworks-chat-rich-harris/svelte-5-future-frameworks-chat-rich-harris.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2025/01/navigating-challenges-modern-open-source-authoring/",
           "author": "hello@smashingmagazine.com (Alvaro Saburido)",
           "description": "Alvaro Saburido delves into the current state and challenges of Open-Source authoring, sharing lessons learned from both community- and company-driven initiatives.",
@@ -295,6 +310,36 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "6798fd7b4666e531b7dd7586",
+          "author": "Alex Pliutau",
+          "description": "As developers, we spend a lot of time in our terminals. And there are tons of great CLI/TUI tools that can boost our productivity (as well as some that are just fun to use). From managing Git repositories and navigating file systems to monitoring sys...",
+          "link": "https://www.freecodecamp.org/news/essential-cli-tui-tools-for-developers/",
+          "publishedOn": "2025-01-28T15:53:31.000Z",
+          "wordCount": 3254,
+          "title": "Essential CLI/TUI Tools for Developers",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1738077620615/22e3c744-d609-4469-ae10-ef8ad4b515a1.png"
+        },
+        {
+          "id": "6798fd38ac05f27ed5691abd",
+          "author": "Anjan Baradwaj",
+          "description": "In your Java applications, you’ll typically work with various types of objects. And you might want to perform operations like sorting, searching, and iterating on these objects. Prior to the introduction of the Collections framework in JDK 1.2, you w...",
+          "link": "https://www.freecodecamp.org/news/java-collections-framework-reference-guide/",
+          "publishedOn": "2025-01-28T15:52:24.000Z",
+          "wordCount": 3857,
+          "title": "How to Use the Java Collections Framework – A Guide for Developers",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1738077724002/cfbf6a90-f9c2-4853-b1c3-c33774f078c1.png"
+        },
+        {
+          "id": "6798f596558861e9737fa5af",
+          "author": "Ijeoma Igboagu",
+          "description": "AWS Lambda is a service from Amazon Web Services (AWS) that lets you run your code in response to events without managing servers. It’s a simple and scalable way to build applications. In this tutorial, I’ll show you how to use AWS Lambda with three ...",
+          "link": "https://www.freecodecamp.org/news/how-to-build-an-application-with-aws-lambda/",
+          "publishedOn": "2025-01-28T15:19:50.000Z",
+          "wordCount": 3045,
+          "title": "How to Build an Application with AWS Lambda",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1738077341437/939ee844-0f10-4ea6-b031-9c481019e7c6.png"
+        },
         {
           "id": "679798b5c4e8c2bf2c88f7bc",
           "author": "Arunachalam B",
