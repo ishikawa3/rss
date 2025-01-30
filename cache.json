@@ -12,6 +12,21 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=383818",
+          "author": "Juan Diego Rodríguez",
+          "description": "The @view-transition at-rule has two descriptions. One is the commonly used navigation descriptor. The second is types, the lesser-known of the two, and one that probably envies how much attention navigation gets. But read on to learn why we need types and how it opens up new possibilities for custom view transitions when navigating between pages.\nWhat on Earth is the `types` Descriptor in View Transitions? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/what-on-earth-is-the-types-descriptor-in-view-transitions/",
+          "publishedOn": "2025-01-29T14:13:53.000Z",
+          "wordCount": 2838,
+          "title": "What on Earth is the `types` Descriptor in View Transitions?",
+          "enclosure": {
+            "url": "https://css-tricks.com/wp-content/uploads/2025/01/custom-view-transition.mp4",
+            "length": "2633346",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/383818"
+        },
+        {
           "id": "https://css-tricks.com/?p=384002",
           "author": "Andy Clarke",
           "description": "After 20 years since Andy Clarke first published his book about Multi-Column Layout in CSS, he's back to encourage a fresh look at CSS columns for enhanced readability and design flexibility.\nRevisiting CSS Multi-Column Layout originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -110,16 +125,6 @@
           "wordCount": 2629,
           "title": "The Importance of Investing in Soft Skills in the Age of AI",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/383383"
-        },
-        {
-          "id": "https://css-tricks.com/?p=383295",
-          "author": "Geoff Graham",
-          "description": "I'm more thankful this time around because, last year, I didn't even get to write this post. But now that I'm back, writing this feels so, so, so good. There's a lot more gusto going into my writing when I say: thank you so very much! Let's tie a bow on this year and round up what happened around here in 2024.\nThank You (2024 Edition) originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/thank-you-2024-edition/",
-          "publishedOn": "2024-12-30T16:15:37.000Z",
-          "wordCount": 3607,
-          "title": "Thank You (2024 Edition)",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/383295"
         }
       ]
     },
@@ -128,6 +133,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2025/01/transitioning-top-layer-entries-display-property-css/",
+          "author": "hello@smashingmagazine.com (Brecht De Ruyte)",
+          "description": "It’s not always the big features that make our everyday lives easier; sometimes, it’s those ease-of-life features that truly enhance our projects. In this article, Brecht De Ruyte highlights two such features: `@starting-style` and `transition-behavior` — two properties that are absolutely welcome additions to your everyday work with CSS animations.",
+          "link": "https://smashingmagazine.com/2025/01/transitioning-top-layer-entries-display-property-css/",
+          "publishedOn": "2025-01-29T10:00:00.000Z",
+          "wordCount": 5396,
+          "title": "Transitioning Top-Layer Entries And The Display Property In CSS",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/transitioning-top-layer-entries-display-property-css/transitioning-top-layer-entries-display-property-css.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/transitioning-top-layer-entries-display-property-css/transitioning-top-layer-entries-display-property-css.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2025/01/svelte-5-future-frameworks-chat-rich-harris/",
           "author": "hello@smashingmagazine.com (Frederick O’Brien)",
@@ -272,36 +292,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/understanding-ai-meaning/understanding-ai-meaning.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2024/12/new-front-end-features-for-designers-in-2025/",
-          "author": "hello@smashingmagazine.com (Cosima Mielke)",
-          "description": "Searching for the most flexible front-end workflows and toolkits, it’s easy to forget how powerful some of the fundamentals on the web have become these days. This post is a journey through new front-end features and what they are capable of.",
-          "link": "https://smashingmagazine.com/2024/12/new-front-end-features-for-designers-in-2025/",
-          "publishedOn": "2024-12-31T12:00:00.000Z",
-          "wordCount": 5508,
-          "title": "New Front-End Features For Designers In 2025",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/new-front-end-features-for-designers-in-2025/anchor-positioning-opt.png",
-            "length": "0",
-            "type": "image/png"
-          },
-          "imageUrl": "http://files.smashing.media/articles/new-front-end-features-for-designers-in-2025/anchor-positioning-opt.png"
-        },
-        {
-          "id": "https://smashingmagazine.com/2024/12/desktop-wallpaper-calendars-january-2025/",
-          "author": "hello@smashingmagazine.com (Cosima Mielke)",
-          "description": "Maybe 2025 has already started as you’re reading this, maybe you’re still waiting for the big countdown to begin — either way, it’s never too late or too early for some New Year’s inspiration! Our new collection of desktop wallpapers has got you covered.",
-          "link": "https://smashingmagazine.com/2024/12/desktop-wallpaper-calendars-january-2025/",
-          "publishedOn": "2024-12-31T10:00:00.000Z",
-          "wordCount": 4554,
-          "title": "New Year, New Hopes, New Dreams (January 2025 Wallpapers Edition)",
-          "enclosure": {
-            "url": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/9401740e-29f2-4dc7-828b-a7558c7e82a7/jan-18-open-the-doors-of-the-new-year-preview-opt.png",
-            "length": "0",
-            "type": "image/png"
-          },
-          "imageUrl": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/9401740e-29f2-4dc7-828b-a7558c7e82a7/jan-18-open-the-doors-of-the-new-year-preview-opt.png"
         }
       ]
     },
@@ -310,6 +300,46 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "679a5fa86177eb24200d0f7f",
+          "author": "Programming with Shahan",
+          "description": "Building scalable software applications requires writing clean code that’s so simple that any dev can understand it. In this article, I’ll explain and demonstrate what clean code is. Then I’ll share my favorite clean code patterns for building modern...",
+          "link": "https://www.freecodecamp.org/news/the-clean-code-handbook/",
+          "publishedOn": "2025-01-29T17:04:40.000Z",
+          "wordCount": 8321,
+          "title": "The Clean Code Handbook: How to Write Better Code for Agile Software Development",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1738170236859/edacf21e-7180-4f65-9e7e-f7cf95b4f9d8.png"
+        },
+        {
+          "id": "679a5f09bd88c0851092079d",
+          "author": "Ben",
+          "description": "In my twenty years of being in the Software Engineer game, I’ve been through lots of Sprint Reviews. I’ve seen them done well, and I’ve seen them used as no more than a few hours every sprint for people to take a nice break in a meeting room. When do...",
+          "link": "https://www.freecodecamp.org/news/how-to-run-a-great-sprint-review-actionable-insights/",
+          "publishedOn": "2025-01-29T17:02:01.000Z",
+          "wordCount": 2392,
+          "title": "How to Run a Great Sprint Review – Actionable Tips for Developers and Teams",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1738170100236/fcc7407a-3b08-493f-a704-661eed12f369.png"
+        },
+        {
+          "id": "679a52c025db32662cde422f",
+          "author": "Beau Carnes",
+          "description": "Object-oriented programming (OOP) is one of the most essential paradigms in modern software development. It provides a structured way to design and organize code, making it more reusable, maintainable, and scalable. Unlike procedural programming, whi...",
+          "link": "https://www.freecodecamp.org/news/master-object-oriented-programming-in-python/",
+          "publishedOn": "2025-01-29T16:09:36.000Z",
+          "wordCount": 1730,
+          "title": "Master Object Oriented Programming in Python",
+          "imageUrl": "https://cdn.freecodecamp.org/platform/universal/fcc_meta_1920X1080-indigo.png"
+        },
+        {
+          "id": "67995e567a54c877fce42276",
+          "author": "Juan P. Romano",
+          "description": "In the fast-paced world of software development, delivering high-quality applications quickly and reliably is crucial. This is where CI/CD (Continuous Integration and Continuous Delivery/Deployment) comes into play. CI/CD is a set of practices and to...",
+          "link": "https://www.freecodecamp.org/news/create-a-basic-cicd-pipeline-with-webhooks-on-linux/",
+          "publishedOn": "2025-01-28T22:46:46.000Z",
+          "wordCount": 3667,
+          "title": "How to Create a Basic CI/CD Pipeline with Webhooks on Linux",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1737640144719/9035597c-0a69-4146-93cc-8bd659384169.png"
+        },
         {
           "id": "6798fd7b4666e531b7dd7586",
           "author": "Alex Pliutau",
@@ -339,6 +369,36 @@
           "wordCount": 3045,
           "title": "How to Build an Application with AWS Lambda",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1738077341437/939ee844-0f10-4ea6-b031-9c481019e7c6.png"
+        },
+        {
+          "id": "66c376aef278f15f931a3431",
+          "author": "Manoel",
+          "description": "In this article, we’ve compiled 1200+ online courses offered by the 60 best universities in the world for studying computer science in 2024. We first built the list in 2020 using a data-driven approach that we have used each year, including 2024. You...",
+          "link": "https://www.freecodecamp.org/news/free-courses-top-cs-universities/",
+          "publishedOn": "2025-01-28T06:00:00.000Z",
+          "wordCount": 15825,
+          "title": "1200 Free Computer Science Courses from the World’s Top Universities",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1738170135222/602b9c8f-09ff-42ca-ad26-cec5fc06a7ef.jpeg"
+        },
+        {
+          "id": "679a50c7e6ddf5991db7aef0",
+          "author": "Beau Carnes",
+          "description": "Artificial Intelligence (AI) is rapidly evolving, and one of the latest breakthroughs is DeepSeek-R1, a model that has gotten significant attention for its innovative approach to reasoning and problem-solving. Developed by the Chinese AI startup Deep...",
+          "link": "https://www.freecodecamp.org/news/how-to-use-deepseek-r1/",
+          "publishedOn": "2025-01-28T05:00:00.000Z",
+          "wordCount": 1257,
+          "title": "How to Use DeepSeek-R1",
+          "imageUrl": "https://cdn.freecodecamp.org/platform/universal/fcc_meta_1920X1080-indigo.png"
+        },
+        {
+          "id": "679a4f5bb1375fa89b16f391",
+          "author": "Beau Carnes",
+          "description": "Finding your next favorite book can be a challenge, but what if you could build a smart system that recommends books tailored to your interests? With the power of large language models (LLMs) and Python, you can create an intelligent book recommendat...",
+          "link": "https://www.freecodecamp.org/news/build-a-semantic-book-recommender-using-an-llm-and-python/",
+          "publishedOn": "2025-01-28T05:00:00.000Z",
+          "wordCount": 1304,
+          "title": "Build a Semantic Book Recommender Using an LLM and Python",
+          "imageUrl": "https://cdn.freecodecamp.org/platform/universal/fcc_meta_1920X1080-indigo.png"
         },
         {
           "id": "679798b5c4e8c2bf2c88f7bc",
@@ -819,16 +879,6 @@
           "wordCount": 3546,
           "title": "How to Optimize Next.js Web Apps for Better Performance",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1735828217839/b65374be-d891-4f19-a359-f84f2ac8f3b9.png"
-        },
-        {
-          "id": "6772ae6d57dd031ab1ad4671",
-          "author": "Beau Carnes",
-          "description": "Mobile app development has become an essential skill in today’s digital landscape, and React Native is one of the leading tools for creating powerful, cross-platform mobile apps. React Native combines the best parts of React and native app developmen...",
-          "link": "https://www.freecodecamp.org/news/mobile-app-development-with-react-native/",
-          "publishedOn": "2024-12-30T14:30:05.000Z",
-          "wordCount": 1423,
-          "title": "Mobile App Development with React Native",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1735568898507/db93197c-fbed-454d-8134-49b398c4a5df.png"
         }
       ]
     }
