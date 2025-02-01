@@ -12,6 +12,26 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=383910",
+          "author": "Geoff Graham",
+          "description": "Did you see the release notes for Chrome 133? It's currently in beta, but the Chrome team has been publishing a slew of new articles with pretty incredible demos that are tough to ignore. I figured I'd round those up in one place.\nChrome 133 Goodies originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/chrome-133-goodies/",
+          "publishedOn": "2025-01-31T15:27:50.000Z",
+          "wordCount": 2572,
+          "title": "Chrome 133 Goodies",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/383910"
+        },
+        {
+          "id": "https://css-tricks.com/?p=384331",
+          "author": "Geoff Graham",
+          "description": "When using View Transitions you’ll notice the page becomes unresponsive to clicks while a View Transition is running. […] This happens because of the ::view-transition pseudo element – the one that contains all animated snapshots – gets overlayed on top \n…\nKeeping the page interactive while a View Transition is running originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/keeping-the-page-interactive-while-a-view-transition-is-running/",
+          "publishedOn": "2025-01-31T14:11:00.000Z",
+          "wordCount": 1862,
+          "title": "Keeping the page interactive while a View Transition is running",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/384331"
+        },
+        {
           "id": "https://css-tricks.com/?p=384089",
           "author": "Juan Diego Rodríguez",
           "description": "All of the things that the CSS Working Group would change if they had a time-traveling Delorean to go back and do things over.\nThe Mistakes of CSS originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -143,6 +163,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2025/01/desktop-wallpaper-calendars-february-2025/",
+          "author": "hello@smashingmagazine.com (Cosima Mielke)",
+          "description": "Let’s make the most of the shortest of all months, with a new collection of desktop wallpapers celebrating new opportunities, sweet memories, happy little moments, and everything in between. All of them created with love by the community for the community. Enjoy!",
+          "link": "https://smashingmagazine.com/2025/01/desktop-wallpaper-calendars-february-2025/",
+          "publishedOn": "2025-01-31T09:30:00.000Z",
+          "wordCount": 5081,
+          "title": "Look Closer, Inspiration Lies Everywhere (February 2025 Wallpapers Edition)",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-february-2025/feb-25-fall-in-love-with-yourself-preview-opt.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "http://files.smashing.media/articles/desktop-wallpaper-calendars-february-2025/feb-25-fall-in-love-with-yourself-preview-opt.png"
+        },
         {
           "id": "https://smashingmagazine.com/2025/01/digital-playbook-crucial-counterpart-design-system/",
           "author": "hello@smashingmagazine.com (Paul Boag)",
@@ -325,6 +360,26 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "679cf6a3c58e5553aa30c9a3",
+          "author": "Quincy Larson",
+          "description": "On this week's episode of the podcast, freeCodeCamp founder Quincy Larson interviews Rishab Kumar, cloud engineer and developer advocate at Twillio. Rishab grew up in India and moved to Canada for school. But he couldn't afford to finish. He resorted...",
+          "link": "https://www.freecodecamp.org/news/from-gas-station-to-google-self-taught-cloud-engineer-rishab-kumar-podcast-158/",
+          "publishedOn": "2025-01-31T16:13:23.000Z",
+          "wordCount": 1127,
+          "title": "From Gas Station to Google with Self-Taught Cloud Engineer Rishab Kumar [Podcast #158]",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1738339892695/6b303b0a-c99c-4074-b4bd-104f98252c0c.png"
+        },
+        {
+          "id": "679ced2e80ebdc55d3ee44c8",
+          "author": "Isaiah Clifford Opoku",
+          "description": "Async programming is a programming paradigm that allows you to write code that runs asynchronously. In contrast to synchronous programming, which executes code sequentially, async programming allows code to run in the background while the rest of the...",
+          "link": "https://www.freecodecamp.org/news/learn-async-programming-in-typescript-promises-asyncawait-and-callbacks/",
+          "publishedOn": "2025-01-31T15:33:02.000Z",
+          "wordCount": 4465,
+          "title": "Learn Async Programming in TypeScript: Promises, Async/Await, and Callbacks",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1737747600016/f6df015b-cc25-4c37-8c4e-bec9c8c49dc5.png"
+        },
         {
           "id": "679bcc0fa60eb167ae249fba",
           "author": "Maham Codes",
