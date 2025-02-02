@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-01T00:13:46.530Z</updated>
+    <updated>2025-02-02T00:13:46.062Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
@@ -910,26 +910,6 @@ The Importance of Investing in Soft Skills in the Age of AI originally published
         <summary type="html"><![CDATA[Over the years, cloud development has seen a major paradigm shift. Newer and more complex applications are deployed rapidly to the cloud to minimize downtime. And through all of this, the concept of Infrastructure-as-Code and various tools have emerg...]]></summary>
         <author>
             <name>Oluwatobi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Make Learning to Code Easier by Focusing on the Fundamentals]]></title>
-        <id>6776aff4291cde01e8a6dff0</id>
-        <link href="https://www.freecodecamp.org/news/how-to-make-learning-to-code-easier-by-focusing-on-the-fundamentals/"/>
-        <updated>2025-01-02T15:25:40.000Z</updated>
-        <summary type="html"><![CDATA[It’s the beginning of the year again, and perhaps you’re still struggling to learn that programming language. We’ve all been there. Let me share a story from my own journey. In 2016, I thought I wasn’t cut out for programming. After months of trying ...]]></summary>
-        <author>
-            <name>Spruce Emmanuel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Optimize Next.js Web Apps for Better Performance]]></title>
-        <id>6776a323218b455d646035b2</id>
-        <link href="https://www.freecodecamp.org/news/optimize-nextjs-web-apps-for-better-performance/"/>
-        <updated>2025-01-02T14:30:59.000Z</updated>
-        <summary type="html"><![CDATA[As engineers, we often get so carried away with other aspects of development that we overlook how users perceive and interact with our applications. This oversight can result in users leaving the app almost as soon as they arrive, leading to higher b...]]></summary>
-        <author>
-            <name>Ayantunji Timilehin</name>
         </author>
     </entry>
 </feed>

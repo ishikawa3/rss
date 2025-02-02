@@ -979,26 +979,6 @@
           "wordCount": 3056,
           "title": "A Beginner's Guide to Terraform – Infrastructure-as-Code in Practice",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1735900327439/09832fb8-8cc0-4182-b70a-5f54ee6fce7d.jpeg"
-        },
-        {
-          "id": "6776aff4291cde01e8a6dff0",
-          "author": "Spruce Emmanuel",
-          "description": "It’s the beginning of the year again, and perhaps you’re still struggling to learn that programming language. We’ve all been there. Let me share a story from my own journey. In 2016, I thought I wasn’t cut out for programming. After months of trying ...",
-          "link": "https://www.freecodecamp.org/news/how-to-make-learning-to-code-easier-by-focusing-on-the-fundamentals/",
-          "publishedOn": "2025-01-02T15:25:40.000Z",
-          "wordCount": 5009,
-          "title": "How to Make Learning to Code Easier by Focusing on the Fundamentals",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1735830905235/898a0c35-3f2a-4a05-86e8-866bb99eda42.jpeg"
-        },
-        {
-          "id": "6776a323218b455d646035b2",
-          "author": "Ayantunji Timilehin",
-          "description": "As engineers, we often get so carried away with other aspects of development that we overlook how users perceive and interact with our applications. This oversight can result in users leaving the app almost as soon as they arrive, leading to higher b...",
-          "link": "https://www.freecodecamp.org/news/optimize-nextjs-web-apps-for-better-performance/",
-          "publishedOn": "2025-01-02T14:30:59.000Z",
-          "wordCount": 3546,
-          "title": "How to Optimize Next.js Web Apps for Better Performance",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1735828217839/b65374be-d891-4f19-a359-f84f2ac8f3b9.png"
         }
       ]
     }
