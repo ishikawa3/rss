@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=384050",
+          "author": "Ryan Trimble",
+          "description": "Are partials the only thing keeping you writing CSS in Sass? With a little configuration, it's possible to compile partial CSS files without a Sass dependency. Ryan Trimble has the details.\nCompiling CSS With Vite and Lightning CSS originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/compiling-css-with-vite-and-lightning-css/",
+          "publishedOn": "2025-02-03T15:23:37.000Z",
+          "wordCount": 4188,
+          "title": "Compiling CSS With Vite and Lightning CSS",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/384050"
+        },
+        {
           "id": "https://css-tricks.com/?p=383910",
           "author": "Geoff Graham",
           "description": "Did you see the release notes for Chrome 133? It's currently in beta, but the Chrome team has been publishing a slew of new articles with pretty incredible demos that are tough to ignore. I figured I'd round those up in one place.\nChrome 133 Goodies originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
