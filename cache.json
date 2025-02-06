@@ -12,6 +12,21 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=382311",
+          "author": "Geoff Graham",
+          "description": "The steps for how I took the Baseline Status web component and made it into a WordPress block that can be used on any page of post.\nBaseline Status in a WordPress Block originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/baseline-status-in-a-wordpress-block/",
+          "publishedOn": "2025-02-05T14:58:18.000Z",
+          "wordCount": 3717,
+          "title": "Baseline Status in a WordPress Block",
+          "enclosure": {
+            "url": "https://css-tricks.com/wp-content/uploads/2024/11/Screen-Recording-2024-11-05-at-2.56.06 PM.mp4",
+            "length": "17563755",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/382311"
+        },
+        {
           "id": "https://css-tricks.com/?p=384050",
           "author": "Ryan Trimble",
           "description": "Are partials the only thing keeping you writing CSS in Sass? With a little configuration, it's possible to compile partial CSS files without a Sass dependency. Ryan Trimble has the details.\nCompiling CSS With Vite and Lightning CSS originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -155,16 +170,6 @@
           "wordCount": 1927,
           "title": "Tight Mode: Why Browsers Produce Different Performance Results",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/383563"
-        },
-        {
-          "id": "https://css-tricks.com/?p=383383",
-          "author": "Andy Bell",
-          "description": "I am still an AI skeptic. The biggest risk I foresee is that if your sole responsibility is to write code, your job is at risk. It’s not time to panic, but I do see a lot of value in evolving your soft skills.\nThe Importance of Investing in Soft Skills in the Age of AI originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/the-importance-of-investing-in-soft-skills-in-the-age-of-ai/",
-          "publishedOn": "2025-01-06T14:58:46.000Z",
-          "wordCount": 2629,
-          "title": "The Importance of Investing in Soft Skills in the Age of AI",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/383383"
         }
       ]
     },
@@ -370,6 +375,26 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "67a3aa3efc0a24bff2e83e65",
+          "author": "Stefan Muzyka",
+          "description": "If you work with data or plan to in the future, at some point you'll likely need to build a comprehensive analytics dashboard. Sharing data through charts is a great way to provide others with a clearer understanding of this information. Pairing it w...",
+          "link": "https://www.freecodecamp.org/news/build-an-analytical-dashboard-with-nextjs/",
+          "publishedOn": "2025-02-05T18:13:18.000Z",
+          "wordCount": 4081,
+          "title": "How to Build an Analytical Dashboard with Next.js",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1738347998117/46877c78-f5e5-4a94-954e-029b73b8f952.png"
+        },
+        {
+          "id": "67a39f467e716749ae8c7b7e",
+          "author": "EZINNE ANNE EMILIA",
+          "description": "For technical writers, keeping documentation up to date manually can be really frustrating. Issues like outdated guides, broken links, and missing updates are a pain, and they can make writers less productive. These issues can also make it harder for...",
+          "link": "https://www.freecodecamp.org/news/set-up-docs-as-code-with-docusaurus-and-github-actions/",
+          "publishedOn": "2025-02-05T17:26:30.000Z",
+          "wordCount": 3106,
+          "title": "How to Set Up Documentation as Code with Docusaurus and GitHub Actions",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1738248926082/9a2a6855-00d4-4e25-a8bd-c1d645f21de5.png"
+        },
         {
           "id": "67a269edea59b2f402186a7d",
           "author": "Samhitha Rama Prasad",
@@ -989,26 +1014,6 @@
           "wordCount": 2455,
           "title": "How to Run Integration Tests with GitHub Service Containers",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1735305764768/8e3d8980-456b-4828-abb7-dff749bbf1fd.png"
-        },
-        {
-          "id": "677ee4b10bc6d529ee0098b7",
-          "author": "Beau Carnes",
-          "description": "Spreadsheets are an essential tool for managing data, solving problems, and automating workflows, whether you're a student, professional, or hobbyist. Mastering them can unlock countless possibilities in productivity and creativity. Imagine automatin...",
-          "link": "https://www.freecodecamp.org/news/master-spreadsheets-by-building-33-projects/",
-          "publishedOn": "2025-01-07T05:00:00.000Z",
-          "wordCount": 1300,
-          "title": "Master Spreadsheets by Building 33 Projects",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1736369313578/8365821c-999a-4489-8971-dbf733954a26.png"
-        },
-        {
-          "id": "677c5a037d6144e9c5ef49f8",
-          "author": "Josiah Adesola",
-          "description": "Have you ever considered how your phone can recognize handwritten text and convert it into regular computer text? Or how your email can separate messages automatically into spam and non-spam categories? Both of these examples work based on classifica...",
-          "link": "https://www.freecodecamp.org/news/svm-kernels-how-to-tackle-nonlinear-data-in-machine-learning/",
-          "publishedOn": "2025-01-06T22:32:35.000Z",
-          "wordCount": 3974,
-          "title": "SVM Kernels Explained: How to Tackle Nonlinear Data in Machine Learning",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1735894336456/dae0caa1-7c01-4b88-a748-79d682bbed78.png"
         }
       ]
     }
