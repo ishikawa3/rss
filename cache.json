@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=384468",
+          "author": "Geoff Graham",
+          "description": "A little gem from Kevin Powell's \"HTML & CSS Tip of the Week\" website, reminding us that using container queries opens up container query units for sizing things based on the size of the queried container.\nContainer query units: cqi and cqb originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/container-query-units-cqi-and-cqb/",
+          "publishedOn": "2025-02-06T15:29:35.000Z",
+          "wordCount": 1971,
+          "title": "Container query units: cqi and cqb",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/384468"
+        },
+        {
           "id": "https://css-tricks.com/?p=382311",
           "author": "Geoff Graham",
           "description": "The steps for how I took the Baseline Status web component and made it into a WordPress block that can be used on any page of post.\nBaseline Status in a WordPress Block originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -342,31 +352,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/tight-mode-why-browsers-produce-different-performance-results/tight-mode-why-browsers-produce-different-performance-results.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2025/01/lesser-known-uses-better-known-attributes/",
-          "author": "hello@smashingmagazine.com (John Rhea)",
-          "description": "HTML attributes are like little instructions that we add to the markup of elements to make them do certain things or behave in certain ways. For example, most of us know that the `target` attribute with a value of `_blank` opens the link in a new tab or window. But did you know that you can use it on the `form` element, too? John Rhea presents several lesser-known uses for common HTML attributes.",
-          "link": "https://smashingmagazine.com/2025/01/lesser-known-uses-better-known-attributes/",
-          "publishedOn": "2025-01-08T11:00:00.000Z",
-          "wordCount": 4297,
-          "title": "Lesser Known Uses Of Better Known Attributes",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/lesser-known-uses-better-known-attributes/lesser-known-uses-better-known-attributes.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/lesser-known-uses-better-known-attributes/lesser-known-uses-better-known-attributes.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2025/01/designing-high-traffic-events-cloudways/",
-          "author": "hello@smashingmagazine.com (Saad Khan)",
-          "description": "Product drops and sales are a great way to increase revenue, but these events can result in traffic spikes that affect a site’s availability and performance. To prevent website crashes, you’ll have to make sure that the sites you design can handle large numbers of server requests at once. Let’s discuss how!",
-          "link": "https://smashingmagazine.com/2025/01/designing-high-traffic-events-cloudways/",
-          "publishedOn": "2025-01-07T14:00:00.000Z",
-          "wordCount": 4063,
-          "title": "How To Design For High-Traffic Events And Prevent Your Website From Crashing",
-          "imageUrl": "https:null"
         }
       ]
     },
@@ -375,6 +360,46 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "67a4fbc311e2c2609ca60771",
+          "author": "Chidera Humphrey",
+          "description": "Redux is a state management library for JavaScript applications. It lets you create applications that behave in a predictable manner and run on different environments, including server and native environments. Redux Toolkit is the recommended way to ...",
+          "link": "https://www.freecodecamp.org/news/how-to-integrate-rtk-query-with-redux-toolkit/",
+          "publishedOn": "2025-02-06T18:13:23.000Z",
+          "wordCount": 4629,
+          "title": "How to Integrate RTK Query with Redux Toolkit: A Step-by-Step Guide for React Developers",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1738854615563/3357bd11-3fcd-43b3-b459-b0e8b60e853d.png"
+        },
+        {
+          "id": "67a4da7c28544da5426abc94",
+          "author": "Beau Carnes",
+          "description": "Artificial Intelligence is rapidly transforming industries, and AI Engineers are at the forefront of this revolution. If you’re looking to break into AI Engineering or advance your skills, having a clear roadmap is essential. Mastering AI requires a ...",
+          "link": "https://www.freecodecamp.org/news/ai-engineering-roadmap/",
+          "publishedOn": "2025-02-06T15:51:24.000Z",
+          "wordCount": 1233,
+          "title": "AI Engineering Roadmap",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1738857015537/9b6809b3-0846-4891-bfbe-52763398238d.png"
+        },
+        {
+          "id": "67a4d16ab891dd1403996d28",
+          "author": "Danny",
+          "description": "Polymorphism is an object-oriented programming (OOP) principle that helps you write high quality, flexible, maintainable, reusable, testable, and readable software. If you plan to work with object-oriented software, it is crucial to understand polymo...",
+          "link": "https://www.freecodecamp.org/news/what-is-polymorphism-in-python-example/",
+          "publishedOn": "2025-02-06T15:12:42.000Z",
+          "wordCount": 2047,
+          "title": "What is Polymorphism in Python? Explained with an Example",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1738335631634/ef8f79a0-73df-430c-b955-a5325ca22f04.png"
+        },
+        {
+          "id": "67a3eddcb87640f436f52ba3",
+          "author": "Tatev Aslanyan",
+          "description": "Want to learn how to discover and analyze the hidden patterns within your data? Clustering, an essential technique in Unsupervised Machine Learning, holds the key to discovering valuable insights that can revolutionize your understanding of complex d...",
+          "link": "https://www.freecodecamp.org/news/clustering-in-python-a-machine-learning-handbook/",
+          "publishedOn": "2025-02-05T23:01:48.000Z",
+          "wordCount": 11253,
+          "title": "Learn Clustering in Python – A Machine Learning Engineering Handbook",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1738794333226/0f8cd7d3-54d4-49a3-b864-e3e477446089.png"
+        },
         {
           "id": "67a3aa3efc0a24bff2e83e65",
           "author": "Stefan Muzyka",
@@ -394,6 +419,16 @@
           "wordCount": 3106,
           "title": "How to Set Up Documentation as Code with Docusaurus and GitHub Actions",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1738248926082/9a2a6855-00d4-4e25-a8bd-c1d645f21de5.png"
+        },
+        {
+          "id": "67a4d4fb19ce74a3822b3eab",
+          "author": "Beau Carnes",
+          "description": "Building modern, dynamic websites requires a combination of powerful front-end frameworks and flexible content management systems. Whether you're a developer looking to enhance your skills or a beginner wanting to create your first web project, learn...",
+          "link": "https://www.freecodecamp.org/news/build-a-full-stack-app-with-nextjs-and-strapi/",
+          "publishedOn": "2025-02-05T05:00:00.000Z",
+          "wordCount": 1284,
+          "title": "Build a Full Stack App with Next.js and Strapi",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1738855654744/dd05c620-8018-4c3c-9800-3948afe5277a.png"
         },
         {
           "id": "67a269edea59b2f402186a7d",
@@ -984,36 +1019,6 @@
           "wordCount": 1304,
           "title": "Create Christmas Icons with JavaScript and HTML",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1736367725677/3d021d67-d8ee-4bde-af72-1c34b5c3170b.png"
-        },
-        {
-          "id": "677d84ad446398ca6f670bef",
-          "author": "Manish Shivanandhan",
-          "description": "Subdomains are an essential part of a website’s infrastructure. They provide additional functions in a web application, such as APIs, admin portals, and staging environments. As an ethical hacker, discovering subdomains is a critical step in learning...",
-          "link": "https://www.freecodecamp.org/news/how-to-discover-hidden-subdomains-as-an-ethical-hacker/",
-          "publishedOn": "2025-01-07T19:46:53.000Z",
-          "wordCount": 2072,
-          "title": "How to Discover Hidden Subdomains as an Ethical Hacker",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1735806321604/dec39da9-6dd8-4a73-ba64-5cf894ce34f4.webp"
-        },
-        {
-          "id": "677d816db702998ae550cebf",
-          "author": "Naomi Carrigan",
-          "description": "As a programming community, freeCodeCamp helps many people who have questions about their code. It can be quite tempting to simply provide the learner with the answer and move on, but that’s actually detrimental to the learning process. Here’s why: W...",
-          "link": "https://www.freecodecamp.org/news/how-to-help-someone-with-their-code-using-the-socratic-method/",
-          "publishedOn": "2025-01-07T19:33:01.000Z",
-          "wordCount": 2791,
-          "title": "How to Help Someone with Their Code Using the Socratic Method",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/2RRq1BHPq4E/upload/904ec5e77783268f025191b07da29f08.jpeg"
-        },
-        {
-          "id": "677d8125f9b13835118c7958",
-          "author": "Alex Pliutau",
-          "description": "Recently, I published an article about using Testcontainers to emulate external dependencies like a database and cache for backend integration tests. That article also explained the different ways of running the integration tests, environment scaffol...",
-          "link": "https://www.freecodecamp.org/news/how-to-run-integration-tests-with-github-service-containers/",
-          "publishedOn": "2025-01-07T19:31:49.000Z",
-          "wordCount": 2455,
-          "title": "How to Run Integration Tests with GitHub Service Containers",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1735305764768/8e3d8980-456b-4828-abb7-dff749bbf1fd.png"
         }
       ]
     }

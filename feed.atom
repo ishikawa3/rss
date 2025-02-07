@@ -2,10 +2,61 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-06T00:12:48.323Z</updated>
+    <updated>2025-02-07T00:12:52.833Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Integrate RTK Query with Redux Toolkit: A Step-by-Step Guide for React Developers]]></title>
+        <id>67a4fbc311e2c2609ca60771</id>
+        <link href="https://www.freecodecamp.org/news/how-to-integrate-rtk-query-with-redux-toolkit/"/>
+        <updated>2025-02-06T18:13:23.000Z</updated>
+        <summary type="html"><![CDATA[Redux is a state management library for JavaScript applications. It lets you create applications that behave in a predictable manner and run on different environments, including server and native environments. Redux Toolkit is the recommended way to ...]]></summary>
+        <author>
+            <name>Chidera Humphrey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI Engineering Roadmap]]></title>
+        <id>67a4da7c28544da5426abc94</id>
+        <link href="https://www.freecodecamp.org/news/ai-engineering-roadmap/"/>
+        <updated>2025-02-06T15:51:24.000Z</updated>
+        <summary type="html"><![CDATA[Artificial Intelligence is rapidly transforming industries, and AI Engineers are at the forefront of this revolution. If you’re looking to break into AI Engineering or advance your skills, having a clear roadmap is essential. Mastering AI requires a ...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Container query units: cqi and cqb]]></title>
+        <id>https://css-tricks.com/?p=384468</id>
+        <link href="https://css-tricks.com/container-query-units-cqi-and-cqb/"/>
+        <updated>2025-02-06T15:29:35.000Z</updated>
+        <summary type="html"><![CDATA[A little gem from Kevin Powell's "HTML & CSS Tip of the Week" website, reminding us that using container queries opens up container query units for sizing things based on the size of the queried container.
+Container query units: cqi and cqb originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is Polymorphism in Python? Explained with an Example]]></title>
+        <id>67a4d16ab891dd1403996d28</id>
+        <link href="https://www.freecodecamp.org/news/what-is-polymorphism-in-python-example/"/>
+        <updated>2025-02-06T15:12:42.000Z</updated>
+        <summary type="html"><![CDATA[Polymorphism is an object-oriented programming (OOP) principle that helps you write high quality, flexible, maintainable, reusable, testable, and readable software. If you plan to work with object-oriented software, it is crucial to understand polymo...]]></summary>
+        <author>
+            <name>Danny</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn Clustering in Python – A Machine Learning Engineering Handbook]]></title>
+        <id>67a3eddcb87640f436f52ba3</id>
+        <link href="https://www.freecodecamp.org/news/clustering-in-python-a-machine-learning-handbook/"/>
+        <updated>2025-02-05T23:01:48.000Z</updated>
+        <summary type="html"><![CDATA[Want to learn how to discover and analyze the hidden patterns within your data? Clustering, an essential technique in Unsupervised Machine Learning, holds the key to discovering valuable insights that can revolutionize your understanding of complex d...]]></summary>
+        <author>
+            <name>Tatev Aslanyan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Build an Analytical Dashboard with Next.js]]></title>
         <id>67a3aa3efc0a24bff2e83e65</id>
@@ -35,6 +86,16 @@
 Baseline Status in a WordPress Block originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build a Full Stack App with Next.js and Strapi]]></title>
+        <id>67a4d4fb19ce74a3822b3eab</id>
+        <link href="https://www.freecodecamp.org/news/build-a-full-stack-app-with-nextjs-and-strapi/"/>
+        <updated>2025-02-05T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Building modern, dynamic websites requires a combination of powerful front-end frameworks and flexible content management systems. Whether you're a developer looking to enhance your skills or a beginner wanting to create your first web project, learn...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
         </author>
     </entry>
     <entry>
@@ -891,56 +952,6 @@ Tight Mode: Why Browsers Produce Different Performance Results originally publis
         <summary type="html"><![CDATA[Creating unique projects is one of the best ways to grow as a programmer, and what better way to learn than by building something creative for the holiday season? Imagine crafting a festive Christmas calendar from scratch, generating eye-catching, cu...]]></summary>
         <author>
             <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lesser Known Uses Of Better Known Attributes]]></title>
-        <id>https://smashingmagazine.com/2025/01/lesser-known-uses-better-known-attributes/</id>
-        <link href="https://smashingmagazine.com/2025/01/lesser-known-uses-better-known-attributes/"/>
-        <updated>2025-01-08T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[HTML attributes are like little instructions that we add to the markup of elements to make them do certain things or behave in certain ways. For example, most of us know that the `target` attribute with a value of `_blank` opens the link in a new tab or window. But did you know that you can use it on the `form` element, too? John Rhea presents several lesser-known uses for common HTML attributes.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (John Rhea)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Discover Hidden Subdomains as an Ethical Hacker]]></title>
-        <id>677d84ad446398ca6f670bef</id>
-        <link href="https://www.freecodecamp.org/news/how-to-discover-hidden-subdomains-as-an-ethical-hacker/"/>
-        <updated>2025-01-07T19:46:53.000Z</updated>
-        <summary type="html"><![CDATA[Subdomains are an essential part of a website’s infrastructure. They provide additional functions in a web application, such as APIs, admin portals, and staging environments. As an ethical hacker, discovering subdomains is a critical step in learning...]]></summary>
-        <author>
-            <name>Manish Shivanandhan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Help Someone with Their Code Using the Socratic Method]]></title>
-        <id>677d816db702998ae550cebf</id>
-        <link href="https://www.freecodecamp.org/news/how-to-help-someone-with-their-code-using-the-socratic-method/"/>
-        <updated>2025-01-07T19:33:01.000Z</updated>
-        <summary type="html"><![CDATA[As a programming community, freeCodeCamp helps many people who have questions about their code. It can be quite tempting to simply provide the learner with the answer and move on, but that’s actually detrimental to the learning process. Here’s why: W...]]></summary>
-        <author>
-            <name>Naomi Carrigan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Run Integration Tests with GitHub Service Containers]]></title>
-        <id>677d8125f9b13835118c7958</id>
-        <link href="https://www.freecodecamp.org/news/how-to-run-integration-tests-with-github-service-containers/"/>
-        <updated>2025-01-07T19:31:49.000Z</updated>
-        <summary type="html"><![CDATA[Recently, I published an article about using Testcontainers to emulate external dependencies like a database and cache for backend integration tests. That article also explained the different ways of running the integration tests, environment scaffol...]]></summary>
-        <author>
-            <name>Alex Pliutau</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Design For High-Traffic Events And Prevent Your Website From Crashing]]></title>
-        <id>https://smashingmagazine.com/2025/01/designing-high-traffic-events-cloudways/</id>
-        <link href="https://smashingmagazine.com/2025/01/designing-high-traffic-events-cloudways/"/>
-        <updated>2025-01-07T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Product drops and sales are a great way to increase revenue, but these events can result in traffic spikes that affect a site’s availability and performance. To prevent website crashes, you’ll have to make sure that the sites you design can handle large numbers of server requests at once. Let’s discuss how!]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Saad Khan)</name>
         </author>
     </entry>
 </feed>
