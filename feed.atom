@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-07T00:12:52.833Z</updated>
+    <updated>2025-02-08T00:12:33.706Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[What is Penetration Testing in Cybersecurity? A Beginner's Guide]]></title>
+        <id>67a62fc9c3ae66ee9e7a4b3e</id>
+        <link href="https://www.freecodecamp.org/news/beginners-guide-to-penetration-testing-cybersecurity/"/>
+        <updated>2025-02-07T16:07:37.000Z</updated>
+        <summary type="html"><![CDATA[In today's digital world, almost every activity we engage in is intertwined with technology. From making payments via UPI and booking movie or travel tickets online to selling products through e-commerce platforms, technology has become an integral p...]]></summary>
+        <author>
+            <name>P S Mohammed Ali</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Create an npm Library]]></title>
+        <id>67a627bfaf028c3f4ba71a05</id>
+        <link href="https://www.freecodecamp.org/news/how-to-create-an-npm-library/"/>
+        <updated>2025-02-07T15:33:19.000Z</updated>
+        <summary type="html"><![CDATA[In the world of JavaScript development, npm (Node Package Manager) has become an essential tool for managing dependencies and sharing reusable code. Whether you're building a simple website or a complex web application, npm libraries help streamline ...]]></summary>
+        <author>
+            <name>German Cocca</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn TypeScript – A Handbook for Developers]]></title>
+        <id>67a62638dd67e262dbd96da1</id>
+        <link href="https://www.freecodecamp.org/news/learn-typescript-with-react-handbook/"/>
+        <updated>2025-02-07T15:26:48.000Z</updated>
+        <summary type="html"><![CDATA[This handbook will teach you the basics of TypeScript, including what it is, why it is useful, and the key features it offers. TypeScript was created by Anders Hejlsberg, a prominent software engineer at Microsoft who’s also known for his work on C# ...]]></summary>
+        <author>
+            <name>oghenekparobo Stephen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Taking RWD To The Extreme]]></title>
+        <id>https://smashingmagazine.com/2025/02/taking-rwd-to-the-extreme/</id>
+        <link href="https://smashingmagazine.com/2025/02/taking-rwd-to-the-extreme/"/>
+        <updated>2025-02-07T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Tomasz Jakut reflects on the evolution of web design, from the days of table-based layouts and Flash games to the rise of responsive web design (RWD), which often feels like the end of history in web layout. But as 2025 marks the 15th anniversary of Ethan Marcotte’s article, it’s worth asking whether something significant happened after RWD — something so seamless that it went almost unnoticed.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Tomasz Jakut)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Integrate RTK Query with Redux Toolkit: A Step-by-Step Guide for React Developers]]></title>
         <id>67a4fbc311e2c2609ca60771</id>
@@ -912,46 +952,6 @@ Tight Mode: Why Browsers Produce Different Performance Results originally publis
         <summary type="html"><![CDATA[We know that browsers do all sorts of different things under the hood. One of those things is the way they not only *fetch* resources like images and scripts from the server but how they [prioritize those resources](https://www.debugbear.com/blog/request-priorities?utm_campaign=sm-7). Chrome and Safari have implemented a “Tight Mode” that constrains which resources are loaded and in what order, but they each take drastically different approaches to it. With so little information about Tight Mode available, this article attempts a high-level explanation of what it is, what triggers it, and how it is treated differently in major browsers.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Geoff Graham)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Understanding the Language Server Protocol – Easier Code Editing Across Languages and Tools]]></title>
-        <id>677ef3f83b47b21899e957c4</id>
-        <link href="https://www.freecodecamp.org/news/what-is-the-language-server-protocol-easier-code-editing-across-languages/"/>
-        <updated>2025-01-08T21:54:00.000Z</updated>
-        <summary type="html"><![CDATA[In the past, many code editors were built just for one specific language. To provide rich and smart code editing, tight integration between the editor and the language tooling was a must. On the other hand, there were (and still are) more general-pur...]]></summary>
-        <author>
-            <name>Alex Pliutau</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Talk to Any Database Using AI – Build Your Own SQL Query Data Extractor]]></title>
-        <id>677ef38c05d7f213e7d2a766</id>
-        <link href="https://www.freecodecamp.org/news/talk-to-databases-using-ai-build-a-sql-query-data-extractor/"/>
-        <updated>2025-01-08T21:52:12.000Z</updated>
-        <summary type="html"><![CDATA[Recently, I took a break from writing to focus on my exams. During this time, I had an interesting experience: I had the chance to explain SQL (Structured Query Language) to my peers. While exploring SQL in-depth, I encountered a common frustration: ...]]></summary>
-        <author>
-            <name>Prankur Pandey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn Generative AI in 23 Hours]]></title>
-        <id>677ee5d707323c1a72821397</id>
-        <link href="https://www.freecodecamp.org/news/learn-generative-ai-in-23-hours/"/>
-        <updated>2025-01-08T20:53:43.000Z</updated>
-        <summary type="html"><![CDATA[Artificial Intelligence is revolutionizing industries and workflows, and learning to work with AI in the cloud is an important skill for modern developers. Whether you're a beginner or looking to deepen your understanding of generative AI, this cours...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Create Christmas Icons with JavaScript and HTML]]></title>
-        <id>677ede843a92814ab28fbf50</id>
-        <link href="https://www.freecodecamp.org/news/create-christmas-icons-with-javascript-and-html/"/>
-        <updated>2025-01-08T20:22:28.000Z</updated>
-        <summary type="html"><![CDATA[Creating unique projects is one of the best ways to grow as a programmer, and what better way to learn than by building something creative for the holiday season? Imagine crafting a festive Christmas calendar from scratch, generating eye-catching, cu...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
         </author>
     </entry>
 </feed>
