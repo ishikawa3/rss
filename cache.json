@@ -170,16 +170,6 @@
           "wordCount": 4024,
           "title": "How to Wait for the sibling-count() and sibling-index() Functions",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/383435"
-        },
-        {
-          "id": "https://css-tricks.com/?p=383563",
-          "author": "Geoff Graham",
-          "description": "I wrote a post for Smashing Magazine that was published today about this thing that Chrome and Safari have called “Tight Mode” and how it impacts page performance. I’d never heard the term until DebugBear’s Matt Zeunert mentioned it in …\nTight Mode: Why Browsers Produce Different Performance Results originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/tight-mode-why-browsers-produce-different-performance-results/",
-          "publishedOn": "2025-01-09T16:16:15.000Z",
-          "wordCount": 1927,
-          "title": "Tight Mode: Why Browsers Produce Different Performance Results",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/383563"
         }
       ]
     },
@@ -352,21 +342,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/solo-development-learning-to-let-go-of-perfection/solo-development-learning-to-let-go-of-perfection.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2025/01/tight-mode-why-browsers-produce-different-performance-results/",
-          "author": "hello@smashingmagazine.com (Geoff Graham)",
-          "description": "We know that browsers do all sorts of different things under the hood. One of those things is the way they not only *fetch* resources like images and scripts from the server but how they [prioritize those resources](https://www.debugbear.com/blog/request-priorities?utm_campaign=sm-7). Chrome and Safari have implemented a “Tight Mode” that constrains which resources are loaded and in what order, but they each take drastically different approaches to it. With so little information about Tight Mode available, this article attempts a high-level explanation of what it is, what triggers it, and how it is treated differently in major browsers.",
-          "link": "https://smashingmagazine.com/2025/01/tight-mode-why-browsers-produce-different-performance-results/",
-          "publishedOn": "2025-01-09T13:00:00.000Z",
-          "wordCount": 4451,
-          "title": "Tight Mode: Why Browsers Produce Different Performance Results",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/tight-mode-why-browsers-produce-different-performance-results/tight-mode-why-browsers-produce-different-performance-results.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/tight-mode-why-browsers-produce-different-performance-results/tight-mode-why-browsers-produce-different-performance-results.jpg"
         }
       ]
     },
@@ -375,6 +350,16 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "67a689db1b3d34453f8da64a",
+          "author": "Quincy Larson",
+          "description": "On this week's episode of the podcast, I interview Peggy Wang. She used freeCodeCamp to learn coding. She then worked in Big Tech as a robotics engineer. And now she's cofounder and CTO of Ego AI, a Y-Combinator-backed startup that builds human-like ...",
+          "link": "https://www.freecodecamp.org/news/from-freecodecamp-to-cto-with-robotics-engineer-peggy-wang-podcast-159/",
+          "publishedOn": "2025-02-07T22:31:55.000Z",
+          "wordCount": 1144,
+          "title": "From freeCodeCamp to CTO with Robotics Engineer Peggy Wang [Podcast #159]",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1738967132406/6ab8c7bb-397a-42b3-bb91-ff9c4842ead0.png"
+        },
         {
           "id": "67a62fc9c3ae66ee9e7a4b3e",
           "author": "P S Mohammed Ali",
@@ -1014,16 +999,6 @@
           "wordCount": 3710,
           "title": "Getting Started with RHEL: A Beginner’s Guide to Linux Basics",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1736533985344/a521db07-d7eb-47db-a71c-4949e0761b9e.jpeg"
-        },
-        {
-          "id": "67802329a9edea9df0053dd7",
-          "author": "Ibrahim ogunbiyi",
-          "description": "Have you ever found yourself searching a document for a specific word or phrase just to discover that the term you're looking for isn't there? It can be frustrating, right? Sometimes, even though you might not see the exact term you’re looking for, t...",
-          "link": "https://www.freecodecamp.org/news/what-is-semantic-matching-find-words-in-a-document-using-nlp/",
-          "publishedOn": "2025-01-09T19:27:37.000Z",
-          "wordCount": 3088,
-          "title": "What is Semantic Matching? How to Find Words in a Document Using NLP",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/Dh7gzpVpdWQ/upload/4e1e504663acda31b980e6fba0c2d661.jpeg"
         }
       ]
     }

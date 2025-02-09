@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-08T00:12:33.706Z</updated>
+    <updated>2025-02-09T00:14:04.028Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[From freeCodeCamp to CTO with Robotics Engineer Peggy Wang [Podcast #159]]]></title>
+        <id>67a689db1b3d34453f8da64a</id>
+        <link href="https://www.freecodecamp.org/news/from-freecodecamp-to-cto-with-robotics-engineer-peggy-wang-podcast-159/"/>
+        <updated>2025-02-07T22:31:55.000Z</updated>
+        <summary type="html"><![CDATA[On this week's episode of the podcast, I interview Peggy Wang. She used freeCodeCamp to learn coding. She then worked in Big Tech as a robotics engineer. And now she's cofounder and CTO of Ego AI, a Y-Combinator-backed startup that builds human-like ...]]></summary>
+        <author>
+            <name>Quincy Larson</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What is Penetration Testing in Cybersecurity? A Beginner's Guide]]></title>
         <id>67a62fc9c3ae66ee9e7a4b3e</id>
@@ -921,37 +931,6 @@ How to Wait for the sibling-count() and sibling-index() Functions originally pub
         <summary type="html"><![CDATA[The best and worst thing about solo development is the “solo” part. There’s a lot of freedom in working alone, and that freedom can be inspiring, but it can also become a debilitating hindrance to productivity and progress. Victor Ayomipo shares his personal lessons on what it takes to navigate solo development and build the “right” app.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Victor Ayomipo)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is Semantic Matching? How to Find Words in a Document Using NLP]]></title>
-        <id>67802329a9edea9df0053dd7</id>
-        <link href="https://www.freecodecamp.org/news/what-is-semantic-matching-find-words-in-a-document-using-nlp/"/>
-        <updated>2025-01-09T19:27:37.000Z</updated>
-        <summary type="html"><![CDATA[Have you ever found yourself searching a document for a specific word or phrase just to discover that the term you're looking for isn't there? It can be frustrating, right? Sometimes, even though you might not see the exact term you’re looking for, t...]]></summary>
-        <author>
-            <name>Ibrahim ogunbiyi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tight Mode: Why Browsers Produce Different Performance Results]]></title>
-        <id>https://css-tricks.com/?p=383563</id>
-        <link href="https://css-tricks.com/tight-mode-why-browsers-produce-different-performance-results/"/>
-        <updated>2025-01-09T16:16:15.000Z</updated>
-        <summary type="html"><![CDATA[I wrote a post for Smashing Magazine that was published today about this thing that Chrome and Safari have called “Tight Mode” and how it impacts page performance. I’d never heard the term until DebugBear’s Matt Zeunert mentioned it in …
-Tight Mode: Why Browsers Produce Different Performance Results originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tight Mode: Why Browsers Produce Different Performance Results]]></title>
-        <id>https://smashingmagazine.com/2025/01/tight-mode-why-browsers-produce-different-performance-results/</id>
-        <link href="https://smashingmagazine.com/2025/01/tight-mode-why-browsers-produce-different-performance-results/"/>
-        <updated>2025-01-09T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[We know that browsers do all sorts of different things under the hood. One of those things is the way they not only *fetch* resources like images and scripts from the server but how they [prioritize those resources](https://www.debugbear.com/blog/request-priorities?utm_campaign=sm-7). Chrome and Safari have implemented a “Tight Mode” that constrains which resources are loaded and in what order, but they each take drastically different approaches to it. With so little information about Tight Mode available, this article attempts a high-level explanation of what it is, what triggers it, and how it is treated differently in major browsers.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Geoff Graham)</name>
         </author>
     </entry>
 </feed>
