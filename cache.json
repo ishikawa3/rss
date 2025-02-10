@@ -327,21 +327,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/role-illustration-style-visual-storytelling/role-illustration-style-visual-storytelling.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2025/01/solo-development-learning-to-let-go-of-perfection/",
-          "author": "hello@smashingmagazine.com (Victor Ayomipo)",
-          "description": "The best and worst thing about solo development is the “solo” part. There’s a lot of freedom in working alone, and that freedom can be inspiring, but it can also become a debilitating hindrance to productivity and progress. Victor Ayomipo shares his personal lessons on what it takes to navigate solo development and build the “right” app.",
-          "link": "https://smashingmagazine.com/2025/01/solo-development-learning-to-let-go-of-perfection/",
-          "publishedOn": "2025-01-10T14:00:00.000Z",
-          "wordCount": 5267,
-          "title": "Solo Development: Learning To Let Go Of Perfection",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/solo-development-learning-to-let-go-of-perfection/solo-development-learning-to-let-go-of-perfection.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/solo-development-learning-to-let-go-of-perfection/solo-development-learning-to-let-go-of-perfection.jpg"
         }
       ]
     },
@@ -979,26 +964,6 @@
           "wordCount": 7364,
           "title": "How to Make Flowcharts and Bring Joy to your Coding",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1736777856399/98a5d535-280e-4496-b0fb-67ad5a1b401d.png"
-        },
-        {
-          "id": "678179c8a470cbfb227dbd02",
-          "author": "Quincy Larson",
-          "description": "On this week's episode of the podcast, I interview Elliot Arledge. He's a 20-year old computer science student who's created several popular freeCodeCamp courses on LLMs, the Mojo programming language, and GPU programming with CUDA. He joins us from ...",
-          "link": "https://www.freecodecamp.org/news/cuda-gpu-programming-elliot-arledge-podcast-155/",
-          "publishedOn": "2025-01-10T19:49:28.000Z",
-          "wordCount": 1095,
-          "title": "CUDA and GPU Programming with Elliot Arledge [Podcast #155]",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1736538155461/7dba1aad-51f1-4c47-b8fb-c99bf77dd18a.png"
-        },
-        {
-          "id": "67813ff98eada5cd9c2f7dc7",
-          "author": "Tanishka Makode",
-          "description": "Imagine an operating system so reliable that it powers the world’s biggest servers, the fastest supercomputers, and even the cloud infrastructure of leading tech companies. Welcome to Red Hat Enterprise Linux (RHEL) — the backbone of modern IT system...",
-          "link": "https://www.freecodecamp.org/news/guide-to-rhel-linux-basics/",
-          "publishedOn": "2025-01-10T15:42:49.000Z",
-          "wordCount": 3710,
-          "title": "Getting Started with RHEL: A Beginner’s Guide to Linux Basics",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1736533985344/a521db07-d7eb-47db-a71c-4949e0761b9e.jpeg"
         }
       ]
     }
