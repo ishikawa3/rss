@@ -12,6 +12,26 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=384306",
+          "author": "Ryan Trimble",
+          "description": "I enjoy organizing code and find cascade layers a fantastic way to organize code explicitly as the cascade looks at it. The neat part is, that as much as it helps with \"top-level\" organization, cascade layers can be nested, which allows us to author more precise styles based on the cascade and inheritance.\nOrganizing Design System Component Patterns With CSS Cascade Layers originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/organizing-design-system-component-patterns-with-css-cascade-layers/",
+          "publishedOn": "2025-02-10T14:06:52.000Z",
+          "wordCount": 4019,
+          "title": "Organizing Design System Component Patterns With CSS Cascade Layers",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/384306"
+        },
+        {
+          "id": "https://css-tricks.com/?p=384563",
+          "author": "Geoff Graham",
+          "description": "Stationery Pad is a handy way to nix a step in your workflow if you regularly use document templates on your Mac. The long-standing Finder feature essentially tells a file’s parent application to open a copy of it by default, ensuring that the original file remains unedited.\nMake Any File a Template Using This Hidden macOS Tool originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/make-any-file-a-template-using-this-hidden-macos-tool/",
+          "publishedOn": "2025-02-10T13:54:00.000Z",
+          "wordCount": 1894,
+          "title": "Make Any File a Template Using This Hidden macOS Tool",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/384563"
+        },
+        {
           "id": "https://css-tricks.com/?p=384468",
           "author": "Geoff Graham",
           "description": "A little gem from Kevin Powell's \"HTML & CSS Tip of the Week\" website, reminding us that using container queries opens up container query units for sizing things based on the size of the queried container.\nContainer query units: cqi and cqb originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -178,6 +198,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2025/02/popular-wordpress-theme-term-hero-section/",
+          "author": "hello@smashingmagazine.com (Marcel Moerkens)",
+          "description": "In 2013, Marcel Moerkens was working on Brooklyn, his WordPress theme, and he needed a way to make it stand out from the pack of other WordPress themes. Little did he know that the intro section he called a “Hero” would become one of the most recognizable patterns in web design today. Here’s how the idea came to life and how it changed everything.",
+          "link": "https://smashingmagazine.com/2025/02/popular-wordpress-theme-term-hero-section/",
+          "publishedOn": "2025-02-10T13:00:00.000Z",
+          "wordCount": 3866,
+          "title": "How I Created A Popular WordPress Theme And Coined The Term “Hero Section” (Without Realizing It)",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/popular-wordpress-theme-term-hero-section/popular-wordpress-theme-term-hero-section.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/popular-wordpress-theme-term-hero-section/popular-wordpress-theme-term-hero-section.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2025/02/taking-rwd-to-the-extreme/",
           "author": "hello@smashingmagazine.com (Tomasz Jakut)",
