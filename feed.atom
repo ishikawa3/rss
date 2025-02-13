@@ -2,10 +2,61 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-12T00:12:54.505Z</updated>
+    <updated>2025-02-13T00:12:56.146Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[JavaScript Tutorial – How to Set Up a Front End Development Project]]></title>
+        <id>66c4c80d6e4b60b5b844529e</id>
+        <link href="https://www.freecodecamp.org/news/how-to-set-up-a-front-end-development-project/"/>
+        <updated>2025-02-12T21:44:03.000Z</updated>
+        <summary type="html"><![CDATA[Let’s say you plan to build a website. Before you start, you want to set up a few tools to make your life easier. But which tools should you have? The JavaScript ecosystem is changing so fast that it can be overwhelming to pick the best tools to use....]]></summary>
+        <author>
+            <name>Hunor Márton Borbély</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How SSH Authentication with GitHub Works Under the Hood]]></title>
+        <id>67ace33e18a2c0de81d7ffc3</id>
+        <link href="https://www.freecodecamp.org/news/ssh-authentication-with-github-under-the-hood/"/>
+        <updated>2025-02-12T18:06:54.000Z</updated>
+        <summary type="html"><![CDATA[SSH (Secure Shell) is a client-server protocol for connecting and authenticating to a remote server. Authentication means that the remote server can verify that it’s actually you and not somebody else talking on your behalf. You may already be using ...]]></summary>
+        <author>
+            <name>Vivek Agrawal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Time To First Byte: Beyond Server Response Time]]></title>
+        <id>https://smashingmagazine.com/2025/02/time-to-first-byte-beyond-server-response-time/</id>
+        <link href="https://smashingmagazine.com/2025/02/time-to-first-byte-beyond-server-response-time/"/>
+        <updated>2025-02-12T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Optimizing web performance means looking beyond surface-level metrics. Time to First Byte (TTFB) is crucial, but improving it requires more than tweaking server response time. Matt Zeunert breaks down what TTFB is, what causes its poor score, and why reducing server response time alone isn’t enough for optimization and often won’t be the most impactful change you can make to your website.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Matt Zeunert)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Typecasting and Viewport Transitions in CSS With tan(atan2())]]></title>
+        <id>https://css-tricks.com/?p=384339</id>
+        <link href="https://css-tricks.com/typecasting-and-viewport-transitions-in-css-with-tanatan2/"/>
+        <updated>2025-02-12T14:15:28.000Z</updated>
+        <summary type="html"><![CDATA[We’ve been able to get the length of the viewport in CSS since… checks notes… 2013! Surprisingly, that was more than a decade ago. Getting the viewport width is as easy these days as easy as writing 100vw, but …
+Typecasting and Viewport Transitions in CSS With tan(atan2()) originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Juan Diego Rodríguez</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Are Logs in Programming?]]></title>
+        <id>67abe1c4e2819029e77c7459</id>
+        <link href="https://www.freecodecamp.org/news/what-are-logs-in-programming/"/>
+        <updated>2025-02-11T23:48:20.000Z</updated>
+        <summary type="html"><![CDATA[Have you ever run a program, and it crashed? No error messages, no hints, just silence. How do you figure out what went wrong? That's where logging saves the day. Logs keep track of what’s happening inside your code so that when things go wrong, you ...]]></summary>
+        <author>
+            <name>Syeda Maham Fahim</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Organizing Design System Component Patterns With CSS Cascade Layers]]></title>
         <id>https://css-tricks.com/?p=384306</id>
@@ -862,77 +913,6 @@ It’s probably no surprise to you that CSS-Tricks is (proudly) hosted on Cloudw
 A Few Ways That Cloudways Makes Running This Site a Little Easier originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Role Of Illustration Style In Visual Storytelling]]></title>
-        <id>https://smashingmagazine.com/2025/01/role-illustration-style-visual-storytelling/</id>
-        <link href="https://smashingmagazine.com/2025/01/role-illustration-style-visual-storytelling/"/>
-        <updated>2025-01-14T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[How do we determine the most suitable illustration style? How should illustrations complement and reflect your corporate identity? What will resonate most with your target audience? And regarding the content, what type of illustration would best enhance it, and how would it work for the age range it is primarily for? Thomas Bohm shares insightful examples and discusses the key qualities of effective illustrations, emphasizing the importance of understanding your audience.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Thomas Bohm)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Here are 850+ Ivy League Courses You Can Take Right Now for Free]]></title>
-        <id>66d45eb473634435aafcef96</id>
-        <link href="https://www.freecodecamp.org/news/ivy-league-free-online-courses-a0d7ae675869/"/>
-        <updated>2025-01-14T06:00:00.000Z</updated>
-        <summary type="html"><![CDATA[By Dhawal Shah The 8 Ivy League schools - Harvard, Yale, Princeton, Columbia, Cornell, Dartmouth, Brown, and the University of Pennsylvania - are among the most prestigious universities in the world. In 2025, all 8 Ivy League schools are ranked in th...]]></summary>
-        <author>
-            <name>freeCodeCamp</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Simple Portfolio Website With HTML and CSS]]></title>
-        <id>67859c6915988a75c229dee2</id>
-        <link href="https://www.freecodecamp.org/news/build-a-simple-portfolio-website-with-html-and-css/"/>
-        <updated>2025-01-13T23:06:17.000Z</updated>
-        <summary type="html"><![CDATA[While browsing through some of my old projects, I stumbled upon a portfolio I worked on a while back. The funny thing? I never used it. So, I decided to give it a fresh look and thought, why not share it with you? As a developer, having a portfolio i...]]></summary>
-        <author>
-            <name>Spruce Emmanuel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn Relational Database Basics – Key Concepts for Beginners]]></title>
-        <id>67853e7ede435f43fdeb589d</id>
-        <link href="https://www.freecodecamp.org/news/learn-relational-database-basics-key-concepts-for-beginners/"/>
-        <updated>2025-01-13T16:25:34.000Z</updated>
-        <summary type="html"><![CDATA[In today’s digital world, data is everywhere, and it’s at the heart of most modern applications. Databases are the unsung heroes that keep it all organised and accessible. Many sites use databases, from social media platforms to online shopping retai...]]></summary>
-        <author>
-            <name>Zubair Idris Aweda</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Wait for the sibling-count() and sibling-index() Functions]]></title>
-        <id>https://css-tricks.com/?p=383435</id>
-        <link href="https://css-tricks.com/how-to-wait-for-the-sibling-count-and-sibling-index-functions/"/>
-        <updated>2025-01-13T15:08:01.000Z</updated>
-        <summary type="html"><![CDATA[Today, I want to look into one of those cases of impatient and how the community has waited for that feature, to be specific, two upcoming functions: sibling-count() and sibling-index().
-How to Wait for the sibling-count() and sibling-index() Functions originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Juan Diego Rodríguez</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use the Mermaid JavaScript Library to Create Flowcharts]]></title>
-        <id>678520dfd55476f9efb1de92</id>
-        <link href="https://www.freecodecamp.org/news/use-mermaid-javascript-library-to-create-flowcharts/"/>
-        <updated>2025-01-13T14:19:11.000Z</updated>
-        <summary type="html"><![CDATA[If you’ve recently searched for an online diagramming tool, you might have noticed that most of them rely on drag-and-drop functionality. While this is helpful for people who can’t code, it can be hard to maintain. It can also be a bit difficult to m...]]></summary>
-        <author>
-            <name>evaristo.c</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Make Flowcharts and Bring Joy to your Coding]]></title>
-        <id>67852099c122b063bd5743eb</id>
-        <link href="https://www.freecodecamp.org/news/how-to-make-flowcharts-with-mermaid/"/>
-        <updated>2025-01-13T14:18:01.000Z</updated>
-        <summary type="html"><![CDATA[Coding can be intense. Especially when you are knee-deep in debugging or trying to map complex projects. For many developers — novice and pros alike — it is not uncommon to spend hours staring at code, looking for answers that won’t come. You may hav...]]></summary>
-        <author>
-            <name>evaristo.c</name>
         </author>
     </entry>
 </feed>

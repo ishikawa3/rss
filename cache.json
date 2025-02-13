@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=384339",
+          "author": "Juan Diego Rodríguez",
+          "description": "We’ve been able to get the length of the viewport in CSS since… checks notes… 2013! Surprisingly, that was more than a decade ago. Getting the viewport width is as easy these days as easy as writing 100vw, but …\nTypecasting and Viewport Transitions in CSS With tan(atan2()) originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/typecasting-and-viewport-transitions-in-css-with-tanatan2/",
+          "publishedOn": "2025-02-12T14:15:28.000Z",
+          "wordCount": 3292,
+          "title": "Typecasting and Viewport Transitions in CSS With tan(atan2())",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/384339"
+        },
+        {
           "id": "https://css-tricks.com/?p=384306",
           "author": "Ryan Trimble",
           "description": "I enjoy organizing code and find cascade layers a fantastic way to organize code explicitly as the cascade looks at it. The neat part is, that as much as it helps with \"top-level\" organization, cascade layers can be nested, which allows us to author more precise styles based on the cascade and inheritance.\nOrganizing Design System Component Patterns With CSS Cascade Layers originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -180,16 +190,6 @@
           "wordCount": 2434,
           "title": "A Few Ways That Cloudways Makes Running This Site a Little Easier",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/382719"
-        },
-        {
-          "id": "https://css-tricks.com/?p=383435",
-          "author": "Juan Diego Rodríguez",
-          "description": "Today, I want to look into one of those cases of impatient and how the community has waited for that feature, to be specific, two upcoming functions: sibling-count() and sibling-index().\nHow to Wait for the sibling-count() and sibling-index() Functions originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/how-to-wait-for-the-sibling-count-and-sibling-index-functions/",
-          "publishedOn": "2025-01-13T15:08:01.000Z",
-          "wordCount": 4024,
-          "title": "How to Wait for the sibling-count() and sibling-index() Functions",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/383435"
         }
       ]
     },
@@ -198,6 +198,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2025/02/time-to-first-byte-beyond-server-response-time/",
+          "author": "hello@smashingmagazine.com (Matt Zeunert)",
+          "description": "Optimizing web performance means looking beyond surface-level metrics. Time to First Byte (TTFB) is crucial, but improving it requires more than tweaking server response time. Matt Zeunert breaks down what TTFB is, what causes its poor score, and why reducing server response time alone isn’t enough for optimization and often won’t be the most impactful change you can make to your website.",
+          "link": "https://smashingmagazine.com/2025/02/time-to-first-byte-beyond-server-response-time/",
+          "publishedOn": "2025-02-12T17:00:00.000Z",
+          "wordCount": 3656,
+          "title": "Time To First Byte: Beyond Server Response Time",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/time-to-first-byte-beyond-server-response-time/time-to-first-byte-beyond-server-response-time.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/time-to-first-byte-beyond-server-response-time/time-to-first-byte-beyond-server-response-time.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2025/02/popular-wordpress-theme-term-hero-section/",
           "author": "hello@smashingmagazine.com (Marcel Moerkens)",
@@ -347,21 +362,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/on-device-ai-building-smarter-faster-private-applications/on-device-ai-building-smarter-faster-private-applications.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2025/01/role-illustration-style-visual-storytelling/",
-          "author": "hello@smashingmagazine.com (Thomas Bohm)",
-          "description": "How do we determine the most suitable illustration style? How should illustrations complement and reflect your corporate identity? What will resonate most with your target audience? And regarding the content, what type of illustration would best enhance it, and how would it work for the age range it is primarily for? Thomas Bohm shares insightful examples and discusses the key qualities of effective illustrations, emphasizing the importance of understanding your audience.",
-          "link": "https://smashingmagazine.com/2025/01/role-illustration-style-visual-storytelling/",
-          "publishedOn": "2025-01-14T08:00:00.000Z",
-          "wordCount": 4328,
-          "title": "The Role Of Illustration Style In Visual Storytelling",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/role-illustration-style-visual-storytelling/role-illustration-style-visual-storytelling.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/role-illustration-style-visual-storytelling/role-illustration-style-visual-storytelling.jpg"
         }
       ]
     },
@@ -370,6 +370,36 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "66c4c80d6e4b60b5b844529e",
+          "author": "Hunor Márton Borbély",
+          "description": "Let’s say you plan to build a website. Before you start, you want to set up a few tools to make your life easier. But which tools should you have? The JavaScript ecosystem is changing so fast that it can be overwhelming to pick the best tools to use....",
+          "link": "https://www.freecodecamp.org/news/how-to-set-up-a-front-end-development-project/",
+          "publishedOn": "2025-02-12T21:44:03.000Z",
+          "wordCount": 4919,
+          "title": "JavaScript Tutorial – How to Set Up a Front End Development Project",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1739318785959/23632d35-1d5a-4797-8c7d-fbad6c80a879.png"
+        },
+        {
+          "id": "67ace33e18a2c0de81d7ffc3",
+          "author": "Vivek Agrawal",
+          "description": "SSH (Secure Shell) is a client-server protocol for connecting and authenticating to a remote server. Authentication means that the remote server can verify that it’s actually you and not somebody else talking on your behalf. You may already be using ...",
+          "link": "https://www.freecodecamp.org/news/ssh-authentication-with-github-under-the-hood/",
+          "publishedOn": "2025-02-12T18:06:54.000Z",
+          "wordCount": 3454,
+          "title": "How SSH Authentication with GitHub Works Under the Hood",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1739082652213/aba38efa-117c-4ef7-a844-91599c0a4d62.png"
+        },
+        {
+          "id": "67abe1c4e2819029e77c7459",
+          "author": "Syeda Maham Fahim",
+          "description": "Have you ever run a program, and it crashed? No error messages, no hints, just silence. How do you figure out what went wrong? That's where logging saves the day. Logs keep track of what’s happening inside your code so that when things go wrong, you ...",
+          "link": "https://www.freecodecamp.org/news/what-are-logs-in-programming/",
+          "publishedOn": "2025-02-11T23:48:20.000Z",
+          "wordCount": 2169,
+          "title": "What Are Logs in Programming?",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1738685115991/600c01b6-b031-4ce9-a77a-5d88fcdaa68a.png"
+        },
         {
           "id": "67a689db1b3d34453f8da64a",
           "author": "Quincy Larson",
@@ -949,56 +979,6 @@
           "wordCount": 22637,
           "title": "AI in Agriculture: How AI-Enhanced Farming Can Increase Crop Yields [Full Book]",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1736809244328/d4d5d757-b580-4c18-bc21-dad0bbd75f14.png"
-        },
-        {
-          "id": "66d45eb473634435aafcef96",
-          "author": "freeCodeCamp",
-          "description": "By Dhawal Shah The 8 Ivy League schools - Harvard, Yale, Princeton, Columbia, Cornell, Dartmouth, Brown, and the University of Pennsylvania - are among the most prestigious universities in the world. In 2025, all 8 Ivy League schools are ranked in th...",
-          "link": "https://www.freecodecamp.org/news/ivy-league-free-online-courses-a0d7ae675869/",
-          "publishedOn": "2025-01-14T06:00:00.000Z",
-          "wordCount": 10609,
-          "title": "Here are 850+ Ivy League Courses You Can Take Right Now for Free",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/01/collection-ivy-league-moocs-social-2.jpg"
-        },
-        {
-          "id": "67859c6915988a75c229dee2",
-          "author": "Spruce Emmanuel",
-          "description": "While browsing through some of my old projects, I stumbled upon a portfolio I worked on a while back. The funny thing? I never used it. So, I decided to give it a fresh look and thought, why not share it with you? As a developer, having a portfolio i...",
-          "link": "https://www.freecodecamp.org/news/build-a-simple-portfolio-website-with-html-and-css/",
-          "publishedOn": "2025-01-13T23:06:17.000Z",
-          "wordCount": 3633,
-          "title": "How to Build a Simple Portfolio Website With HTML and CSS",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1736809428369/d28ee1e5-c11b-48fa-9ccd-b7fbaedd52da.png"
-        },
-        {
-          "id": "67853e7ede435f43fdeb589d",
-          "author": "Zubair Idris Aweda",
-          "description": "In today’s digital world, data is everywhere, and it’s at the heart of most modern applications. Databases are the unsung heroes that keep it all organised and accessible. Many sites use databases, from social media platforms to online shopping retai...",
-          "link": "https://www.freecodecamp.org/news/learn-relational-database-basics-key-concepts-for-beginners/",
-          "publishedOn": "2025-01-13T16:25:34.000Z",
-          "wordCount": 4076,
-          "title": "Learn Relational Database Basics – Key Concepts for Beginners",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1736785487594/67bc81b6-1af8-46a0-8a7a-489896879828.png"
-        },
-        {
-          "id": "678520dfd55476f9efb1de92",
-          "author": "evaristo.c",
-          "description": "If you’ve recently searched for an online diagramming tool, you might have noticed that most of them rely on drag-and-drop functionality. While this is helpful for people who can’t code, it can be hard to maintain. It can also be a bit difficult to m...",
-          "link": "https://www.freecodecamp.org/news/use-mermaid-javascript-library-to-create-flowcharts/",
-          "publishedOn": "2025-01-13T14:19:11.000Z",
-          "wordCount": 7072,
-          "title": "How to Use the Mermaid JavaScript Library to Create Flowcharts",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1736777930250/cbc8af84-7109-45c9-9ee1-3d10c6b1b475.png"
-        },
-        {
-          "id": "67852099c122b063bd5743eb",
-          "author": "evaristo.c",
-          "description": "Coding can be intense. Especially when you are knee-deep in debugging or trying to map complex projects. For many developers — novice and pros alike — it is not uncommon to spend hours staring at code, looking for answers that won’t come. You may hav...",
-          "link": "https://www.freecodecamp.org/news/how-to-make-flowcharts-with-mermaid/",
-          "publishedOn": "2025-01-13T14:18:01.000Z",
-          "wordCount": 7364,
-          "title": "How to Make Flowcharts and Bring Joy to your Coding",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1736777856399/98a5d535-280e-4496-b0fb-67ad5a1b401d.png"
         }
       ]
     }
