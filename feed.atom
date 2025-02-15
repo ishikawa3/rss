@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-14T00:13:03.019Z</updated>
+    <updated>2025-02-15T00:12:41.717Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Handwriting an SVG Heart, With Our Hearts]]></title>
+        <id>https://css-tricks.com/?p=384495</id>
+        <link href="https://css-tricks.com/handwriting-an-svg-heart-with-our-hearts/"/>
+        <updated>2025-02-14T13:25:12.000Z</updated>
+        <summary type="html"><![CDATA[A while back on CSS-Tricks, we shared several ways to draw hearts, and the response was dreamy. Now, to show my love, I wanted to do something personal, something crafty, something with a mild amount of effort.
+Handwriting an SVG Heart, With Our Hearts originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Ryan Trimble</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Cybersecurity Skills Are Important for Front-End Developers]]></title>
+        <id>67ae836a9d7e6c0ddc4469ad</id>
+        <link href="https://www.freecodecamp.org/news/cybersecurity-for-front-end-developers/"/>
+        <updated>2025-02-13T23:42:34.000Z</updated>
+        <summary type="html"><![CDATA[These days, cyberattacks are growing concerns that everyone on a development team should be aware of. This means that if you’re a developer, you should learn some basic cybersecurity skills. After all, cyber attackers are typically developers themsel...]]></summary>
+        <author>
+            <name>Alex Tray</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Build a Memory Game in React]]></title>
         <id>67ae2e50ada6ade0c6abd144</id>
@@ -871,57 +892,6 @@ Fancy Menu Navigation Using Anchor Positioning originally published on CSS-Trick
         <summary type="html"><![CDATA[Shouldn’t there be a way to keep your apps or project data private and improve performance by reducing server latency? This is what on-device AI is designed to solve. It handles AI processing locally, right on your device, without connecting to the internet and sending data to the cloud. In this article, Joas Pambou explains what on-device AI is, why it’s important, the tools to build this type of technology, and how it can change the way we use technology every day.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Joas Pambou)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The AI Engineering Handbook – How to Start a Career and Excel as an AI Engineer]]></title>
-        <id>67881bffe4f437ad54564e34</id>
-        <link href="https://www.freecodecamp.org/news/the-ai-engineering-handbook-how-to-start-a-career-and-excel-as-an-ai-engineer/"/>
-        <updated>2025-01-15T20:35:11.000Z</updated>
-        <summary type="html"><![CDATA[Have you ever wondered who’s behind the groundbreaking technologies like ChatGPT from OpenAI, Tesla’s autonomous vehicles, or the humanoid robots redefining our perception of artificial intelligence? What does it take to be one of those innovators dr...]]></summary>
-        <author>
-            <name>Tatev T</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Simplify Python Library RPM Packaging with Mock and Podman]]></title>
-        <id>67880c8c282408c6e731883a</id>
-        <link href="https://www.freecodecamp.org/news/simplify-python-library-rpm-packaging-with-mock-and-podman/"/>
-        <updated>2025-01-15T19:29:16.000Z</updated>
-        <summary type="html"><![CDATA[Packaging libraries and applications written in Python comes with its challenges. And while virtual environments are great for controlling and standardizing installations, there are some scenarios where using them may not be the best. For example, sa...]]></summary>
-        <author>
-            <name>Jose Vicente Nunez</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Programmatically Highlight Text with the CSS Custom Highlight API]]></title>
-        <id>6787d62041c11049156708c3</id>
-        <link href="https://www.freecodecamp.org/news/how-to-programmatically-highlight-text-with-the-css-custom-highlight-api/"/>
-        <updated>2025-01-15T15:37:04.000Z</updated>
-        <summary type="html"><![CDATA[You can highlight text in the browser by clicking and dragging through the desired text. And sometimes this works fine. But there are times when you’ll want to programmatically highlight some text in an HTML document. In this article, I’ll discuss a ...]]></summary>
-        <author>
-            <name>Joe Attardi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web-Slinger.css: Across the Swiper-Verse]]></title>
-        <id>https://css-tricks.com/?p=383533</id>
-        <link href="https://css-tricks.com/web-slinger-css-across-the-swiper-verse/"/>
-        <updated>2025-01-15T15:03:25.000Z</updated>
-        <summary type="html"><![CDATA[Lee Meyer with a super clever idea using scroll-driven animations as an interaction to "like" or "dislike" something.
-Web-Slinger.css: Across the Swiper-Verse originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Lee Meyer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Dynamic Web Scraper App with Playwright and React: A Step-by-Step Guide]]></title>
-        <id>6787cb727ee491a35577e9d5</id>
-        <link href="https://www.freecodecamp.org/news/build-a-dynamic-web-scraper-app-with-playwright-and-react/"/>
-        <updated>2025-01-15T14:51:30.000Z</updated>
-        <summary type="html"><![CDATA[Today we are going to build a small web scraper app. This application will scrape data from the Airbnb website and display it in a nice grid view. We will also add a Refresh button that will be able to trigger a new scraping round and update the resu...]]></summary>
-        <author>
-            <name>Mihail Gaberov</name>
         </author>
     </entry>
 </feed>

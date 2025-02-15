@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=384495",
+          "author": "Ryan Trimble",
+          "description": "A while back on CSS-Tricks, we shared several ways to draw hearts, and the response was dreamy. Now, to show my love, I wanted to do something personal, something crafty, something with a mild amount of effort.\nHandwriting an SVG Heart, With Our Hearts originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/handwriting-an-svg-heart-with-our-hearts/",
+          "publishedOn": "2025-02-14T13:25:12.000Z",
+          "wordCount": 2371,
+          "title": "Handwriting an SVG Heart, With Our Hearts",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/384495"
+        },
+        {
           "id": "https://css-tricks.com/?p=384634",
           "author": "Geoff Graham",
           "description": "Adam’s such a mad scientist with CSS. He’s been putting together a series of “notebooks” that make it easy for him to demo code. He’s got one for gradient text, one for a comparison slider, another for accordions…\nScroll Driven Animations Notebook originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -180,16 +190,6 @@
           "wordCount": 3434,
           "title": "Fancy Menu Navigation Using Anchor Positioning",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/383518"
-        },
-        {
-          "id": "https://css-tricks.com/?p=383533",
-          "author": "Lee Meyer",
-          "description": "Lee Meyer with a super clever idea using scroll-driven animations as an interaction to \"like\" or \"dislike\" something.\nWeb-Slinger.css: Across the Swiper-Verse originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/web-slinger-css-across-the-swiper-verse/",
-          "publishedOn": "2025-01-15T15:03:25.000Z",
-          "wordCount": 2933,
-          "title": "Web-Slinger.css: Across the Swiper-Verse",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/383533"
         }
       ]
     },
@@ -385,6 +385,16 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "67ae836a9d7e6c0ddc4469ad",
+          "author": "Alex Tray",
+          "description": "These days, cyberattacks are growing concerns that everyone on a development team should be aware of. This means that if you’re a developer, you should learn some basic cybersecurity skills. After all, cyber attackers are typically developers themsel...",
+          "link": "https://www.freecodecamp.org/news/cybersecurity-for-front-end-developers/",
+          "publishedOn": "2025-02-13T23:42:34.000Z",
+          "wordCount": 5131,
+          "title": "Why Cybersecurity Skills Are Important for Front-End Developers",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1739382570620/c4a57662-4275-4deb-92c1-6ec560d6c30a.png"
+        },
         {
           "id": "67ae2e50ada6ade0c6abd144",
           "author": "Beau Carnes",
@@ -954,46 +964,6 @@
           "wordCount": 3523,
           "title": "Learn to Use GitHub Actions: a Step-by-Step Guide",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1736973439529/e0445f1c-62df-441f-a335-96c468a373da.png"
-        },
-        {
-          "id": "67881bffe4f437ad54564e34",
-          "author": "Tatev T",
-          "description": "Have you ever wondered who’s behind the groundbreaking technologies like ChatGPT from OpenAI, Tesla’s autonomous vehicles, or the humanoid robots redefining our perception of artificial intelligence? What does it take to be one of those innovators dr...",
-          "link": "https://www.freecodecamp.org/news/the-ai-engineering-handbook-how-to-start-a-career-and-excel-as-an-ai-engineer/",
-          "publishedOn": "2025-01-15T20:35:11.000Z",
-          "wordCount": 23586,
-          "title": "The AI Engineering Handbook – How to Start a Career and Excel as an AI Engineer",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1736973272685/95e5c575-58ee-457a-988c-1acf2b60d2aa.png"
-        },
-        {
-          "id": "67880c8c282408c6e731883a",
-          "author": "Jose Vicente Nunez",
-          "description": "Packaging libraries and applications written in Python comes with its challenges. And while virtual environments are great for controlling and standardizing installations, there are some scenarios where using them may not be the best. For example, sa...",
-          "link": "https://www.freecodecamp.org/news/simplify-python-library-rpm-packaging-with-mock-and-podman/",
-          "publishedOn": "2025-01-15T19:29:16.000Z",
-          "wordCount": 3245,
-          "title": "How to Simplify Python Library RPM Packaging with Mock and Podman",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1736952806487/e25f259a-71e0-4998-ad29-b5da286e3fba.png"
-        },
-        {
-          "id": "6787d62041c11049156708c3",
-          "author": "Joe Attardi",
-          "description": "You can highlight text in the browser by clicking and dragging through the desired text. And sometimes this works fine. But there are times when you’ll want to programmatically highlight some text in an HTML document. In this article, I’ll discuss a ...",
-          "link": "https://www.freecodecamp.org/news/how-to-programmatically-highlight-text-with-the-css-custom-highlight-api/",
-          "publishedOn": "2025-01-15T15:37:04.000Z",
-          "wordCount": 2639,
-          "title": "How to Programmatically Highlight Text with the CSS Custom Highlight API",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1736955360118/bd658ef5-734c-4e21-ad0e-be2dac0b7eee.png"
-        },
-        {
-          "id": "6787cb727ee491a35577e9d5",
-          "author": "Mihail Gaberov",
-          "description": "Today we are going to build a small web scraper app. This application will scrape data from the Airbnb website and display it in a nice grid view. We will also add a Refresh button that will be able to trigger a new scraping round and update the resu...",
-          "link": "https://www.freecodecamp.org/news/build-a-dynamic-web-scraper-app-with-playwright-and-react/",
-          "publishedOn": "2025-01-15T14:51:30.000Z",
-          "wordCount": 3422,
-          "title": "How to Build a Dynamic Web Scraper App with Playwright and React: A Step-by-Step Guide",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1736952641440/0aa6255b-45eb-4ae8-b5cb-d87648590e18.png"
         }
       ]
     }
