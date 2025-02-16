@@ -347,36 +347,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/navigating-challenges-modern-open-source-authoring/navigating-challenges-modern-open-source-authoring.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2025/01/ode-to-side-project-time/",
-          "author": "hello@smashingmagazine.com (Frederick O’Brien)",
-          "description": "A once-revered perk of some tech workplaces, the status of ‘side project time’ seems to have slipped in recent years. Frederick O’Brien believes it deserves a comeback.",
-          "link": "https://smashingmagazine.com/2025/01/ode-to-side-project-time/",
-          "publishedOn": "2025-01-17T08:00:00.000Z",
-          "wordCount": 3692,
-          "title": "An Ode To Side Project Time",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/ode-to-side-project-time/ode-to-side-project-time.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/ode-to-side-project-time/ode-to-side-project-time.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2025/01/on-device-ai-building-smarter-faster-private-applications/",
-          "author": "hello@smashingmagazine.com (Joas Pambou)",
-          "description": "Shouldn’t there be a way to keep your apps or project data private and improve performance by reducing server latency? This is what on-device AI is designed to solve. It handles AI processing locally, right on your device, without connecting to the internet and sending data to the cloud. In this article, Joas Pambou explains what on-device AI is, why it’s important, the tools to build this type of technology, and how it can change the way we use technology every day.",
-          "link": "https://smashingmagazine.com/2025/01/on-device-ai-building-smarter-faster-private-applications/",
-          "publishedOn": "2025-01-16T13:00:00.000Z",
-          "wordCount": 4932,
-          "title": "On-Device AI: Building Smarter, Faster, And Private Applications",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/on-device-ai-building-smarter-faster-private-applications/on-device-ai-building-smarter-faster-private-applications.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/on-device-ai-building-smarter-faster-private-applications/on-device-ai-building-smarter-faster-private-applications.jpg"
         }
       ]
     },
@@ -385,6 +355,16 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "67afede38299e397dc71768b",
+          "author": "Quincy Larson",
+          "description": "On this week's episode of the podcast, I interview Julia Undeutsch who is a self-taught software engineer and accessibility specialist. She works at a big European company making software more accessible for people with disabilities. Julia taught her...",
+          "link": "https://www.freecodecamp.org/news/she-taught-herself-coding-at-age-30-for-zero-dollars-podcast-160/",
+          "publishedOn": "2025-02-15T01:29:07.000Z",
+          "wordCount": 1053,
+          "title": "She taught herself coding at age 30 for zero dollars [Podcast #160]",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1739582603136/eebe10ab-edc5-4bf3-af50-38e1c8081415.png"
+        },
         {
           "id": "67ae836a9d7e6c0ddc4469ad",
           "author": "Alex Tray",
@@ -944,26 +924,6 @@
           "wordCount": 2775,
           "title": "How to Run an Effective Daily Scrum – Tips for Team Members and Managers",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1737127993830/ea473796-6a68-48f2-8643-f533561e12cf.png"
-        },
-        {
-          "id": "678921f0a510ee899ead3f7c",
-          "author": "Beau Carnes",
-          "description": "Understanding deep learning research can often feel like unraveling a dense and intricate puzzle. From decoding mathematical notation to navigating complex code bases, the process can be daunting, especially for newcomers. But with the right guidance...",
-          "link": "https://www.freecodecamp.org/news/understanding-deep-learning-research-tutorial-theory-code-and-math/",
-          "publishedOn": "2025-01-16T15:12:48.000Z",
-          "wordCount": 1433,
-          "title": "Understanding Deep Learning Research Tutorial - Theory, Code, and Math",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1737040354258/4ad88afd-82ee-4b59-bc6a-cdc9a5537c59.png"
-        },
-        {
-          "id": "6789193ad7f606e4fbf4d0a0",
-          "author": "Rajdeep Singh",
-          "description": "GitHub Actions are one of the most helpful features of GitHub. Actions help you automate, build, test, and deploy your app from your GitHub. They also help you perform code reviews and tests, manage branches, triage issues, and more. In simple terms,...",
-          "link": "https://www.freecodecamp.org/news/learn-to-use-github-actions-step-by-step-guide/",
-          "publishedOn": "2025-01-16T14:35:38.000Z",
-          "wordCount": 3523,
-          "title": "Learn to Use GitHub Actions: a Step-by-Step Guide",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1736973439529/e0445f1c-62df-441f-a335-96c468a373da.png"
         }
       ]
     }

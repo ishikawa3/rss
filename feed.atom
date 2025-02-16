@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-15T00:12:41.717Z</updated>
+    <updated>2025-02-16T00:14:11.765Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[She taught herself coding at age 30 for zero dollars [Podcast #160]]]></title>
+        <id>67afede38299e397dc71768b</id>
+        <link href="https://www.freecodecamp.org/news/she-taught-herself-coding-at-age-30-for-zero-dollars-podcast-160/"/>
+        <updated>2025-02-15T01:29:07.000Z</updated>
+        <summary type="html"><![CDATA[On this week's episode of the podcast, I interview Julia Undeutsch who is a self-taught software engineer and accessibility specialist. She works at a big European company making software more accessible for people with disabilities. Julia taught her...]]></summary>
+        <author>
+            <name>Quincy Larson</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Handwriting an SVG Heart, With Our Hearts]]></title>
         <id>https://css-tricks.com/?p=384495</id>
@@ -852,46 +862,6 @@ Creating a “Starred” Feed originally published on CSS-Tricks, which is part 
 Fancy Menu Navigation Using Anchor Positioning originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Temani Afif</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An Ode To Side Project Time]]></title>
-        <id>https://smashingmagazine.com/2025/01/ode-to-side-project-time/</id>
-        <link href="https://smashingmagazine.com/2025/01/ode-to-side-project-time/"/>
-        <updated>2025-01-17T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A once-revered perk of some tech workplaces, the status of ‘side project time’ seems to have slipped in recent years. Frederick O’Brien believes it deserves a comeback.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Frederick O’Brien)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Understanding Deep Learning Research Tutorial - Theory, Code, and Math]]></title>
-        <id>678921f0a510ee899ead3f7c</id>
-        <link href="https://www.freecodecamp.org/news/understanding-deep-learning-research-tutorial-theory-code-and-math/"/>
-        <updated>2025-01-16T15:12:48.000Z</updated>
-        <summary type="html"><![CDATA[Understanding deep learning research can often feel like unraveling a dense and intricate puzzle. From decoding mathematical notation to navigating complex code bases, the process can be daunting, especially for newcomers. But with the right guidance...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn to Use GitHub Actions: a Step-by-Step Guide]]></title>
-        <id>6789193ad7f606e4fbf4d0a0</id>
-        <link href="https://www.freecodecamp.org/news/learn-to-use-github-actions-step-by-step-guide/"/>
-        <updated>2025-01-16T14:35:38.000Z</updated>
-        <summary type="html"><![CDATA[GitHub Actions are one of the most helpful features of GitHub. Actions help you automate, build, test, and deploy your app from your GitHub. They also help you perform code reviews and tests, manage branches, triage issues, and more. In simple terms,...]]></summary>
-        <author>
-            <name>Rajdeep Singh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[On-Device AI: Building Smarter, Faster, And Private Applications]]></title>
-        <id>https://smashingmagazine.com/2025/01/on-device-ai-building-smarter-faster-private-applications/</id>
-        <link href="https://smashingmagazine.com/2025/01/on-device-ai-building-smarter-faster-private-applications/"/>
-        <updated>2025-01-16T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Shouldn’t there be a way to keep your apps or project data private and improve performance by reducing server latency? This is what on-device AI is designed to solve. It handles AI processing locally, right on your device, without connecting to the internet and sending data to the cloud. In this article, Joas Pambou explains what on-device AI is, why it’s important, the tools to build this type of technology, and how it can change the way we use technology every day.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Joas Pambou)</name>
         </author>
     </entry>
 </feed>
