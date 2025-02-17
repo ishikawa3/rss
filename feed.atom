@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-16T00:14:11.765Z</updated>
+    <updated>2025-02-17T00:13:59.985Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
@@ -821,47 +821,6 @@ Creating a “Starred” Feed originally published on CSS-Tricks, which is part 
         <summary type="html"><![CDATA[Technical interviews can be intimidating, especially when you're preparing for roles at top tech companies. To succeed, you need a solid grasp of algorithms, data structures, and problem-solving strategies. The NeetCode 150 is an invaluable resource—...]]></summary>
         <author>
             <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI Reality VS Speculation with Google Machine Learning Engineer Jiquan Ngiam [Podcast #156]]]></title>
-        <id>678ad60f07a0a18254c0d6a9</id>
-        <link href="https://www.freecodecamp.org/news/ai-reality-vs-speculation-jiquan-ngiam-podcast-156/"/>
-        <updated>2025-01-17T22:13:35.000Z</updated>
-        <summary type="html"><![CDATA[On this week's episode of the podcast, I interview Jiquan Ngiam. He's a former Google Brain engineer who's building tools to make AI useful for everyone – not just developers. We talk about the power of AI and it's practical capabilities, and separat...]]></summary>
-        <author>
-            <name>Quincy Larson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use Langbase Memory Agents to Make Any LLM a Conversational AI for Your Docs]]></title>
-        <id>678ac8f3892c4e60d8af0e95</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-langbase-memory-agents/"/>
-        <updated>2025-01-17T21:17:39.000Z</updated>
-        <summary type="html"><![CDATA[It’s 2025, and Large Language Models (LLMs) still can’t access your private data. Ask them something personal, and they’ll either guess or give you the wrong answer. That’s the limitation—they’re trained on public information and don’t have access to...]]></summary>
-        <author>
-            <name>Maham Codes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Run an Effective Daily Scrum – Tips for Team Members and Managers]]></title>
-        <id>678a7845720a1885d5f75ecd</id>
-        <link href="https://www.freecodecamp.org/news/how-to-run-an-effective-daily-scrum/"/>
-        <updated>2025-01-17T15:33:25.000Z</updated>
-        <summary type="html"><![CDATA[Let’s start with a simple question: Why do we get together for a short meeting each day?  If you work on a Scrum team, you’ve probably heard of a daily scrum, sometimes called a daily stand-up. It’s one of the key events in scrum. The “daily” usually...]]></summary>
-        <author>
-            <name>Ben</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fancy Menu Navigation Using Anchor Positioning]]></title>
-        <id>https://css-tricks.com/?p=383518</id>
-        <link href="https://css-tricks.com/fancy-menu-navigation-using-anchor-positioning/"/>
-        <updated>2025-01-17T14:57:39.000Z</updated>
-        <summary type="html"><![CDATA[Anchor positioning can be great for little interactive effects — as Temani Afif shows off with this clever idea for a menu hover.
-Fancy Menu Navigation Using Anchor Positioning originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Temani Afif</name>
         </author>
     </entry>
 </feed>

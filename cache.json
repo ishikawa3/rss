@@ -180,16 +180,6 @@
           "wordCount": 3116,
           "title": "Creating a “Starred” Feed",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/382660"
-        },
-        {
-          "id": "https://css-tricks.com/?p=383518",
-          "author": "Temani Afif",
-          "description": "Anchor positioning can be great for little interactive effects — as Temani Afif shows off with this clever idea for a menu hover.\nFancy Menu Navigation Using Anchor Positioning originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/fancy-menu-navigation-using-anchor-positioning/",
-          "publishedOn": "2025-01-17T14:57:39.000Z",
-          "wordCount": 3434,
-          "title": "Fancy Menu Navigation Using Anchor Positioning",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/383518"
         }
       ]
     },
@@ -894,36 +884,6 @@
           "wordCount": 1264,
           "title": "Prepare for Technical Interviews Using Neetcode 150",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1737567904804/e1f89c98-9264-40e4-8183-f230b2bac811.png"
-        },
-        {
-          "id": "678ad60f07a0a18254c0d6a9",
-          "author": "Quincy Larson",
-          "description": "On this week's episode of the podcast, I interview Jiquan Ngiam. He's a former Google Brain engineer who's building tools to make AI useful for everyone – not just developers. We talk about the power of AI and it's practical capabilities, and separat...",
-          "link": "https://www.freecodecamp.org/news/ai-reality-vs-speculation-jiquan-ngiam-podcast-156/",
-          "publishedOn": "2025-01-17T22:13:35.000Z",
-          "wordCount": 1076,
-          "title": "AI Reality VS Speculation with Google Machine Learning Engineer Jiquan Ngiam [Podcast #156]",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1737151884317/c5b49f86-1f4a-45fd-bf2f-48ed084c1762.png"
-        },
-        {
-          "id": "678ac8f3892c4e60d8af0e95",
-          "author": "Maham Codes",
-          "description": "It’s 2025, and Large Language Models (LLMs) still can’t access your private data. Ask them something personal, and they’ll either guess or give you the wrong answer. That’s the limitation—they’re trained on public information and don’t have access to...",
-          "link": "https://www.freecodecamp.org/news/how-to-use-langbase-memory-agents/",
-          "publishedOn": "2025-01-17T21:17:39.000Z",
-          "wordCount": 3011,
-          "title": "How to Use Langbase Memory Agents to Make Any LLM a Conversational AI for Your Docs",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1737148633610/45e0af50-6026-4953-8e1a-953a7d5b6df6.png"
-        },
-        {
-          "id": "678a7845720a1885d5f75ecd",
-          "author": "Ben",
-          "description": "Let’s start with a simple question: Why do we get together for a short meeting each day?  If you work on a Scrum team, you’ve probably heard of a daily scrum, sometimes called a daily stand-up. It’s one of the key events in scrum. The “daily” usually...",
-          "link": "https://www.freecodecamp.org/news/how-to-run-an-effective-daily-scrum/",
-          "publishedOn": "2025-01-17T15:33:25.000Z",
-          "wordCount": 2775,
-          "title": "How to Run an Effective Daily Scrum – Tips for Team Members and Managers",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1737127993830/ea473796-6a68-48f2-8643-f533561e12cf.png"
         }
       ]
     }
