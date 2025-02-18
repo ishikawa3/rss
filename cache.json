@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=384446",
+          "author": "Lee Meyer",
+          "description": "My thesis for today's article offers further reassurance that inline conditionals are probably not the harbinger of the end of civilization: I reckon we can achieve the same functionality right now with style queries, which are gaining pretty good browser support.\nThe What If Machine: Bringing the “Iffy” Future of CSS into the Present originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/the-what-if-machine-bringing-the-iffy-future-of-css-into-the-present/",
+          "publishedOn": "2025-02-17T14:24:40.000Z",
+          "wordCount": 3346,
+          "title": "The What If Machine: Bringing the “Iffy” Future of CSS into the Present",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/384446"
+        },
+        {
           "id": "https://css-tricks.com/?p=384495",
           "author": "Ryan Trimble",
           "description": "A while back on CSS-Tricks, we shared several ways to draw hearts, and the response was dreamy. Now, to show my love, I wanted to do something personal, something crafty, something with a mild amount of effort.\nHandwriting an SVG Heart, With Our Hearts originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -345,6 +355,16 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "67b30da662ec9a593dfeb4a7",
+          "author": "Ijeoma Igboagu",
+          "description": "Building an authentication system can be complex, often requiring a server to store user data. Sometimes, you need a faster, easier solution. For those new to development or without technical expertise, managing servers, databases, and user logins ca...",
+          "link": "https://www.freecodecamp.org/news/backend-as-a-service-beginners-guide/",
+          "publishedOn": "2025-02-17T10:21:26.000Z",
+          "wordCount": 3204,
+          "title": "What is Backend as a Service (BaaS)? A Beginner's Guide",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1739291731037/169ad924-9bcb-4af2-9281-fad2488a868d.png"
+        },
         {
           "id": "67afede38299e397dc71768b",
           "author": "Quincy Larson",
