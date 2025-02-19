@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-18T00:13:04.076Z</updated>
+    <updated>2025-02-19T00:13:12.261Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Set Up a Kubernetes Network Policy and Secure Your Cluster]]></title>
+        <id>67b49d275027eb87a4a1ba21</id>
+        <link href="https://www.freecodecamp.org/news/set-up-kubernetes-network-policy-and-secure-your-cluster/"/>
+        <updated>2025-02-18T14:45:59.000Z</updated>
+        <summary type="html"><![CDATA[In a Kubernetes environment, proper networking allows for seamless communication between various components within the cluster and the external environment. As your applications grow, networking becomes more and more important and helps ensure that t...]]></summary>
+        <author>
+            <name>Eti Ijeoma</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use Classes in JavaScript – A Handbook for Beginners]]></title>
+        <id>67b47d2761b19f350f00901b</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-classes-in-javascript-handbook/"/>
+        <updated>2025-02-18T12:29:27.000Z</updated>
+        <summary type="html"><![CDATA[Are you curious about classes in JavaScript but feel a little puzzled about how they work or why you'd even use them? If that's you, then you're definitely in the right place. Lots of developers find classes a bit tricky at first, and honestly, I was...]]></summary>
+        <author>
+            <name>Spruce Emmanuel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is Shadow AI? The Hidden Risks and Challenges in Modern Organizations]]></title>
+        <id>67b450b56572419f24094c04</id>
+        <link href="https://www.freecodecamp.org/news/shadow-ai-hidden-risks-and-challenges/"/>
+        <updated>2025-02-18T09:19:49.000Z</updated>
+        <summary type="html"><![CDATA[Imagine this: a marketing manager uses ChatGPT to draft a personalized email campaign. Meanwhile, a developer experiments with a machine learning model trained on customer data, and an HR team integrates an artificial intelligence (AI) tool to screen...]]></summary>
+        <author>
+            <name>Sonya Moisset</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How OWASP Helps You Secure Your Full-Stack Web Applications]]></title>
+        <id>https://smashingmagazine.com/2025/02/how-owasp-helps-secure-full-stack-web-applications/</id>
+        <link href="https://smashingmagazine.com/2025/02/how-owasp-helps-secure-full-stack-web-applications/"/>
+        <updated>2025-02-18T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The OWASP vulnerabilities list is the perfect starting point for web developers looking to strengthen their security expertise. Let’s discover how these vulnerabilities materialize in full-stack web applications and how to prevent them.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Eric Burel)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use FakeLogger to Make Testing Easier In .Net]]></title>
+        <id>67b3b736d8f6ac012e312ac5</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-fakelogger-to-make-testing-easier-in-net/"/>
+        <updated>2025-02-17T22:24:54.000Z</updated>
+        <summary type="html"><![CDATA[When writing unit tests in .NET, you may need to verify that methods are logging exceptions, errors, or other key information. You might think, No problem, I'll just mock ILogger using my favourite mocking library – for example Moq, NSubstitute, or F...]]></summary>
+        <author>
+            <name>Grant Riordan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The What If Machine: Bringing the “Iffy” Future of CSS into the Present]]></title>
         <id>https://css-tricks.com/?p=384446</id>

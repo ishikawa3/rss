@@ -199,6 +199,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2025/02/how-owasp-helps-secure-full-stack-web-applications/",
+          "author": "hello@smashingmagazine.com (Eric Burel)",
+          "description": "The OWASP vulnerabilities list is the perfect starting point for web developers looking to strengthen their security expertise. Let’s discover how these vulnerabilities materialize in full-stack web applications and how to prevent them.",
+          "link": "https://smashingmagazine.com/2025/02/how-owasp-helps-secure-full-stack-web-applications/",
+          "publishedOn": "2025-02-18T08:00:00.000Z",
+          "wordCount": 5418,
+          "title": "How OWASP Helps You Secure Your Full-Stack Web Applications",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/how-owasp-helps-secure-full-stack-web-applications/how-owasp-helps-secure-full-stack-web-applications.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/how-owasp-helps-secure-full-stack-web-applications/how-owasp-helps-secure-full-stack-web-applications.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2025/02/how-to-test-and-measure-content-in-ux/",
           "author": "hello@smashingmagazine.com (Vitaly Friedman)",
           "description": "The goal of content design is to reduce confusion and improve clarity. Yet often it’s difficult to pinpoint a problem as user feedback tends to be not specific enough. But: we can use a few simple techniques to assess how users understand and perceive content. Let’s take a look. Part of [Smart Interface Design Patterns](https://smart-interface-design-patterns.com) by yours truly.",
@@ -355,6 +370,46 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "67b49d275027eb87a4a1ba21",
+          "author": "Eti Ijeoma",
+          "description": "In a Kubernetes environment, proper networking allows for seamless communication between various components within the cluster and the external environment. As your applications grow, networking becomes more and more important and helps ensure that t...",
+          "link": "https://www.freecodecamp.org/news/set-up-kubernetes-network-policy-and-secure-your-cluster/",
+          "publishedOn": "2025-02-18T14:45:59.000Z",
+          "wordCount": 3056,
+          "title": "How to Set Up a Kubernetes Network Policy and Secure Your Cluster",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1739889943803/796d97e8-a1c9-41e4-a678-61477514c020.png"
+        },
+        {
+          "id": "67b47d2761b19f350f00901b",
+          "author": "Spruce Emmanuel",
+          "description": "Are you curious about classes in JavaScript but feel a little puzzled about how they work or why you'd even use them? If that's you, then you're definitely in the right place. Lots of developers find classes a bit tricky at first, and honestly, I was...",
+          "link": "https://www.freecodecamp.org/news/how-to-use-classes-in-javascript-handbook/",
+          "publishedOn": "2025-02-18T12:29:27.000Z",
+          "wordCount": 8858,
+          "title": "How to Use Classes in JavaScript – A Handbook for Beginners",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1739878241514/a725b4af-8061-49c2-9575-2aa4096acb74.png"
+        },
+        {
+          "id": "67b450b56572419f24094c04",
+          "author": "Sonya Moisset",
+          "description": "Imagine this: a marketing manager uses ChatGPT to draft a personalized email campaign. Meanwhile, a developer experiments with a machine learning model trained on customer data, and an HR team integrates an artificial intelligence (AI) tool to screen...",
+          "link": "https://www.freecodecamp.org/news/shadow-ai-hidden-risks-and-challenges/",
+          "publishedOn": "2025-02-18T09:19:49.000Z",
+          "wordCount": 3380,
+          "title": "What is Shadow AI? The Hidden Risks and Challenges in Modern Organizations",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1739870232803/7d5d5b43-4ca1-4e51-972b-586c0094854f.png"
+        },
+        {
+          "id": "67b3b736d8f6ac012e312ac5",
+          "author": "Grant Riordan",
+          "description": "When writing unit tests in .NET, you may need to verify that methods are logging exceptions, errors, or other key information. You might think, No problem, I'll just mock ILogger using my favourite mocking library – for example Moq, NSubstitute, or F...",
+          "link": "https://www.freecodecamp.org/news/how-to-use-fakelogger-to-make-testing-easier-in-net/",
+          "publishedOn": "2025-02-17T22:24:54.000Z",
+          "wordCount": 3337,
+          "title": "How to Use FakeLogger to Make Testing Easier In .Net",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1739486043718/2d1e6339-fb93-4719-a89a-5b29e30c2bfc.png"
+        },
         {
           "id": "67b30da662ec9a593dfeb4a7",
           "author": "Ijeoma Igboagu",
