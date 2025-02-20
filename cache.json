@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=382234",
+          "author": "Geoff Graham",
+          "description": "I know, super niche, but it could be any loop, really. The challenge is having multiple tooltips on the same page that make use of the Popover API for toggling goodness and CSS Anchor Positioning for attaching a tooltip to its respective anchor element.\nWorking With Multiple CSS Anchors and Popovers Inside the WordPress Loop originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/working-with-multiple-css-anchors-and-popovers-inside-the-wordpress-loop/",
+          "publishedOn": "2025-02-19T13:55:31.000Z",
+          "wordCount": 3311,
+          "title": "Working With Multiple CSS Anchors and Popovers Inside the WordPress Loop",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/382234"
+        },
+        {
           "id": "https://css-tricks.com/?p=384446",
           "author": "Lee Meyer",
           "description": "My thesis for today's article offers further reassurance that inline conditionals are probably not the harbinger of the end of civilization: I reckon we can achieve the same functionality right now with style queries, which are gaining pretty good browser support.\nThe What If Machine: Bringing the “Iffy” Future of CSS into the Present originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -199,6 +209,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2025/02/human-centered-design-ai-assisted-usability-testing/",
+          "author": "hello@smashingmagazine.com (Eduard Kuric)",
+          "description": "Eduard Kuric discusses the significance and role of context in the creation of relevant follow-up questions for unmoderated usability testing, how an AI tasked with interactive follow-up should be validated for its capability to incorporate such context, and what the potential — along with the risks — of AI interaction in usability testing.",
+          "link": "https://smashingmagazine.com/2025/02/human-centered-design-ai-assisted-usability-testing/",
+          "publishedOn": "2025-02-19T10:00:00.000Z",
+          "wordCount": 5960,
+          "title": "Human-Centered Design Through AI-Assisted Usability Testing: Reality Or Fiction?",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/human-centered-design-ai-assisted-usability-testing/human-centered-design-ai-assisted-usability-testing.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/human-centered-design-ai-assisted-usability-testing/human-centered-design-ai-assisted-usability-testing.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2025/02/how-owasp-helps-secure-full-stack-web-applications/",
           "author": "hello@smashingmagazine.com (Eric Burel)",
           "description": "The OWASP vulnerabilities list is the perfect starting point for web developers looking to strengthen their security expertise. Let’s discover how these vulnerabilities materialize in full-stack web applications and how to prevent them.",
@@ -347,21 +372,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/svelte-5-future-frameworks-chat-rich-harris/svelte-5-future-frameworks-chat-rich-harris.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2025/01/navigating-challenges-modern-open-source-authoring/",
-          "author": "hello@smashingmagazine.com (Alvaro Saburido)",
-          "description": "Alvaro Saburido delves into the current state and challenges of Open-Source authoring, sharing lessons learned from both community- and company-driven initiatives.",
-          "link": "https://smashingmagazine.com/2025/01/navigating-challenges-modern-open-source-authoring/",
-          "publishedOn": "2025-01-21T08:00:00.000Z",
-          "wordCount": 4247,
-          "title": "Navigating The Challenges Of Modern Open-Source Authoring: Lessons Learned",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/navigating-challenges-modern-open-source-authoring/navigating-challenges-modern-open-source-authoring.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/navigating-challenges-modern-open-source-authoring/navigating-challenges-modern-open-source-authoring.jpg"
         }
       ]
     },
@@ -949,16 +959,6 @@
           "wordCount": 4090,
           "title": "How to Integrate Discord Webhooks with Next.js 15 – Example Project",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1737468174839/93832182-b4a9-48c0-aee5-cd8d716fc47a.png"
-        },
-        {
-          "id": "67912f406a65d8a9c9ef9f7e",
-          "author": "Beau Carnes",
-          "description": "Technical interviews can be intimidating, especially when you're preparing for roles at top tech companies. To succeed, you need a solid grasp of algorithms, data structures, and problem-solving strategies. The NeetCode 150 is an invaluable resource—...",
-          "link": "https://www.freecodecamp.org/news/prepare-for-technical-interviews-using-neetcode-150/",
-          "publishedOn": "2025-01-21T05:00:00.000Z",
-          "wordCount": 1264,
-          "title": "Prepare for Technical Interviews Using Neetcode 150",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1737567904804/e1f89c98-9264-40e4-8183-f230b2bac811.png"
         }
       ]
     }

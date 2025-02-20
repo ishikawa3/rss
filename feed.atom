@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-19T00:13:12.261Z</updated>
+    <updated>2025-02-20T00:13:05.656Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Working With Multiple CSS Anchors and Popovers Inside the WordPress Loop]]></title>
+        <id>https://css-tricks.com/?p=382234</id>
+        <link href="https://css-tricks.com/working-with-multiple-css-anchors-and-popovers-inside-the-wordpress-loop/"/>
+        <updated>2025-02-19T13:55:31.000Z</updated>
+        <summary type="html"><![CDATA[I know, super niche, but it could be any loop, really. The challenge is having multiple tooltips on the same page that make use of the Popover API for toggling goodness and CSS Anchor Positioning for attaching a tooltip to its respective anchor element.
+Working With Multiple CSS Anchors and Popovers Inside the WordPress Loop originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Human-Centered Design Through AI-Assisted Usability Testing: Reality Or Fiction?]]></title>
+        <id>https://smashingmagazine.com/2025/02/human-centered-design-ai-assisted-usability-testing/</id>
+        <link href="https://smashingmagazine.com/2025/02/human-centered-design-ai-assisted-usability-testing/"/>
+        <updated>2025-02-19T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Eduard Kuric discusses the significance and role of context in the creation of relevant follow-up questions for unmoderated usability testing, how an AI tasked with interactive follow-up should be validated for its capability to incorporate such context, and what the potential — along with the risks — of AI interaction in usability testing.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Eduard Kuric)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Set Up a Kubernetes Network Policy and Secure Your Cluster]]></title>
         <id>67b49d275027eb87a4a1ba21</id>
@@ -872,26 +893,6 @@ Creating a “Starred” Feed originally published on CSS-Tricks, which is part 
         <summary type="html"><![CDATA[You’ve likely seen (or used) contact forms on websites that ask for customer feedback, potential work opportunities, customer contact info, and so on. But do you know what’s required to get all that feedback, contact info, and data sent to a private ...]]></summary>
         <author>
             <name>Tapas Adhikary</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Navigating The Challenges Of Modern Open-Source Authoring: Lessons Learned]]></title>
-        <id>https://smashingmagazine.com/2025/01/navigating-challenges-modern-open-source-authoring/</id>
-        <link href="https://smashingmagazine.com/2025/01/navigating-challenges-modern-open-source-authoring/"/>
-        <updated>2025-01-21T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Alvaro Saburido delves into the current state and challenges of Open-Source authoring, sharing lessons learned from both community- and company-driven initiatives.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Alvaro Saburido)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Prepare for Technical Interviews Using Neetcode 150]]></title>
-        <id>67912f406a65d8a9c9ef9f7e</id>
-        <link href="https://www.freecodecamp.org/news/prepare-for-technical-interviews-using-neetcode-150/"/>
-        <updated>2025-01-21T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Technical interviews can be intimidating, especially when you're preparing for roles at top tech companies. To succeed, you need a solid grasp of algorithms, data structures, and problem-solving strategies. The NeetCode 150 is an invaluable resource—...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
         </author>
     </entry>
 </feed>
