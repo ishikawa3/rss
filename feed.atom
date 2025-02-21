@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-20T00:13:05.656Z</updated>
+    <updated>2025-02-21T00:13:17.851Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Secure Ways to Access DeepSeek( Third-Party Apps)]]></title>
+        <id>67b746282e12c8160896e071</id>
+        <link href="https://www.freecodecamp.org/news/secure-ways-to-access-deepseek-third-party-apps/"/>
+        <updated>2025-02-20T15:11:36.000Z</updated>
+        <summary type="html"><![CDATA[AI-powered coding assistants have changed the way developers write software. They help automate repetitive tasks, catch errors early, and speed up development. But not all AI coding tools are built with security in mind. One of the most promising fre...]]></summary>
+        <author>
+            <name>Oluwadamisi Samuel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn Kubernetes and EKS for Deployment]]></title>
+        <id>67b743e1674d20deafd5b082</id>
+        <link href="https://www.freecodecamp.org/news/learn-kubernetes-and-eks-for-deployment/"/>
+        <updated>2025-02-20T15:01:53.000Z</updated>
+        <summary type="html"><![CDATA[Kubernetes has become the de facto standard for container orchestration, allowing developers to efficiently deploy, manage, and scale applications. But deploying Kubernetes clusters in the cloud can be complex. That’s where Amazon Elastic Kubernetes ...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build an ASP.NET Core MVC Web App]]></title>
+        <id>67b626105b8a70c6cf85c5be</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-an-aspnet-core-mvc-web-app/"/>
+        <updated>2025-02-19T18:42:24.000Z</updated>
+        <summary type="html"><![CDATA[Building modern web applications requires a solid understanding of both frontend and backend development. ASP.NET Core MVC is a powerful framework for creating full-stack web applications with clean architecture and maintainable code. Whether you're ...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Working With Multiple CSS Anchors and Popovers Inside the WordPress Loop]]></title>
         <id>https://css-tricks.com/?p=382234</id>
@@ -15,6 +45,36 @@
 Working With Multiple CSS Anchors and Popovers Inside the WordPress Loop originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to build a serverless AI agent to generate cold emails for your dream job]]></title>
+        <id>67b5df98970327b4e047537c</id>
+        <link href="https://www.freecodecamp.org/news/build-a-serverless-ai-agent-for-generating-cold-emails/"/>
+        <updated>2025-02-19T13:41:44.000Z</updated>
+        <summary type="html"><![CDATA[Cold emails can make a huge difference in your job search, but writing the perfect one takes time. You need to match your skills with the job description, find the right tone, and do it over and over again—it’s exhausting. This guide will walk you th...]]></summary>
+        <author>
+            <name>Maham Codes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Work with OpenAPI in Go]]></title>
+        <id>67b5da4da9d7e29052110938</id>
+        <link href="https://www.freecodecamp.org/news/how-to-work-with-openapi-in-go/"/>
+        <updated>2025-02-19T13:19:09.000Z</updated>
+        <summary type="html"><![CDATA[Well-structured and well-documented APIs are a pleasure to work with. And nowadays the standard is OpenAPI, which comes with a good methodology for defining an API interface first, and only then constructing everything around it. This makes it easier...]]></summary>
+        <author>
+            <name>Alex Pliutau</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn User Management in RHEL: A Comprehensive Guide]]></title>
+        <id>67b5da0a6db178277c2bebc9</id>
+        <link href="https://www.freecodecamp.org/news/learn-user-management-in-rhel-a-comprehensive-guide/"/>
+        <updated>2025-02-19T13:18:02.000Z</updated>
+        <summary type="html"><![CDATA[Imagine you're throwing a house party. You wouldn’t hand out keys to every guest, right? Some friends can roam freely, some should probably stick to the living room, and a few—well, let’s just say they need supervision. Managing users in RHEL is kind...]]></summary>
+        <author>
+            <name>Tanishka Makode</name>
         </author>
     </entry>
     <entry>
@@ -842,57 +902,6 @@ Some Things You Might Not Know About Custom Counter Styles originally published 
         <summary type="html"><![CDATA[Building a website might seem daunting, but WordPress makes it accessible to everyone. With WordPress, you can create a professional website tailored to your needs, whether it’s for a personal blog, a small business, or an online store. The platform’...]]></summary>
         <author>
             <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Monitor Your Kubernetes Clusters with Prometheus and Grafana on AWS]]></title>
-        <id>6790382dcb2eedbe449b6899</id>
-        <link href="https://www.freecodecamp.org/news/kubernetes-cluster-observability-with-prometheus-and-grafana-on-aws/"/>
-        <updated>2025-01-22T00:13:33.000Z</updated>
-        <summary type="html"><![CDATA[Creating a solid application monitoring and observability strategy is a critical foundational step when deploying infrastructure or software in any environment. Monitoring ensures that your systems are running smoothly, while observability provides i...]]></summary>
-        <author>
-            <name>Eti Ijeoma</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Metasploit for Beginners — A Guide to the Powerful Exploitation Framework]]></title>
-        <id>679037f81f50429b12d52738</id>
-        <link href="https://www.freecodecamp.org/news/learn-metasploit-for-beginners/"/>
-        <updated>2025-01-22T00:12:40.000Z</updated>
-        <summary type="html"><![CDATA[If you’re starting your journey into penetration testing, you’ve likely heard of Metasploit. Metasploit is one of the most versatile tools in cybersecurity. It helps simplify vulnerability testing and exploitation. Metasploit helps us find and fix we...]]></summary>
-        <author>
-            <name>Manish Shivanandhan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Real-Time Intrusion Detection System with Python and Open-Source Libraries]]></title>
-        <id>678faf10f366e60cf6e7b6d0</id>
-        <link href="https://www.freecodecamp.org/news/build-a-real-time-intrusion-detection-system-with-python/"/>
-        <updated>2025-01-21T14:28:32.000Z</updated>
-        <summary type="html"><![CDATA[An Intrusion Detection System (IDS) is like a security camera for your network. Just as security cameras help identify suspicious activities in the physical world, an IDS will monitor your network to help detect any potential cyber attacks and securi...]]></summary>
-        <author>
-            <name>Chaitanya Rahalkar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Creating a “Starred” Feed]]></title>
-        <id>https://css-tricks.com/?p=382660</id>
-        <link href="https://css-tricks.com/creating-a-starred-feed/"/>
-        <updated>2025-01-21T14:21:32.000Z</updated>
-        <summary type="html"><![CDATA[Chris wrote about “Likes” pages a long while back. The idea is rather simple: “Like” an item in your RSS reader and display it in a feed of other liked items. The little example Chris made is still really good.…
-Creating a “Starred” Feed originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Integrate Discord Webhooks with Next.js 15 – Example Project]]></title>
-        <id>678fa927b9b8fe257214e1be</id>
-        <link href="https://www.freecodecamp.org/news/integrate-discord-webhooks-with-nextjs-15-example-project/"/>
-        <updated>2025-01-21T14:03:19.000Z</updated>
-        <summary type="html"><![CDATA[You’ve likely seen (or used) contact forms on websites that ask for customer feedback, potential work opportunities, customer contact info, and so on. But do you know what’s required to get all that feedback, contact info, and data sent to a private ...]]></summary>
-        <author>
-            <name>Tapas Adhikary</name>
         </author>
     </entry>
 </feed>
