@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-22T00:12:39.265Z</updated>
+    <updated>2025-02-23T00:14:14.021Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
@@ -922,37 +922,6 @@ Positioning Text Around Elements With CSS Offset originally published on CSS-Tri
         <summary type="html"><![CDATA[These days, SaaS has become an integral part of running many businesses. So rolling out new features that resonate with the user base is key to a business’s growth. Imagine a feature that promises to enhance user experience but that ends up resonatin...]]></summary>
         <author>
             <name>Kayode Adeniyi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Start Learning TypeScript – A Beginner's Guide]]></title>
-        <id>6792ea9437616d62ca07fe03</id>
-        <link href="https://www.freecodecamp.org/news/start-learning-typescript-beginners-guide/"/>
-        <updated>2025-01-24T01:19:16.000Z</updated>
-        <summary type="html"><![CDATA[JavaScript is the most widely-used programming language for web development. But it lacks type-checking support, which is an essential feature of modern programming languages. JavaScript was originally designed as a simple scripting language. Its loo...]]></summary>
-        <author>
-            <name>Akande Olalekan Toheeb</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Some Things You Might Not Know About Custom Counter Styles]]></title>
-        <id>https://css-tricks.com/?p=383776</id>
-        <link href="https://css-tricks.com/some-things-you-might-not-know-about-custom-counter-styles/"/>
-        <updated>2025-01-23T17:21:15.000Z</updated>
-        <summary type="html"><![CDATA[I was reading through Juan’s recent Almanac entry for the @counter-style at-rule and I’ll be darned if he didn’t uncover and unpack some extremely interesting things that we can do to style lists, notably the list marker. You’re probably already …
-Some Things You Might Not Know About Custom Counter Styles originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use Keycloak for Identity and Access Management]]></title>
-        <id>67924b2d0a4e059db2a7577f</id>
-        <link href="https://www.freecodecamp.org/news/keycloak-identity-and-access-management/"/>
-        <updated>2025-01-23T13:59:09.000Z</updated>
-        <summary type="html"><![CDATA[Whether your deployment requires logins from hundreds of thousands of end users or just a few remote admins, there's no escaping the need to properly control access to your infrastructure. And integrating those logins with industry-standard tools lik...]]></summary>
-        <author>
-            <name>David Clinton</name>
         </author>
     </entry>
 </feed>
