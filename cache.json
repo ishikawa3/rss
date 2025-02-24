@@ -185,16 +185,6 @@
           "wordCount": 3634,
           "title": "Revisiting CSS Multi-Column Layout",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/384002"
-        },
-        {
-          "id": "https://css-tricks.com/?p=383506",
-          "author": "Preethi",
-          "description": "When it comes to positioning elements on a page, including text, there are many ways to go about it in CSS — the literal position property with corresponding inset-* properties, translate, margin, anchor() (limited browser support at the moment), and so forth. The offset property is another one that belongs in that list.\nPositioning Text Around Elements With CSS Offset originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/positioning-text-around-elements-with-css-offset/",
-          "publishedOn": "2025-01-24T14:59:25.000Z",
-          "wordCount": 2761,
-          "title": "Positioning Text Around Elements With CSS Offset",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/383506"
         }
       ]
     },
@@ -944,56 +934,6 @@
           "wordCount": 2999,
           "title": "What Are Scripts and How Do They Work? Improve Your Productivity with Scripting",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1737988076418/347e6d8a-1dd8-45d1-854b-fbc576eeed5f.png"
-        },
-        {
-          "id": "67943609f67368a6fc69bdb4",
-          "author": "Quincy Larson",
-          "description": "On this week's episode of the podcast, I interview Lane Wagner. He's a software engineer, prolific contributor to freeCodeCamp, and founder of the Boot.dev online learning platform. We talk about: Lanes thoughts on college and computer science degre...",
-          "link": "https://www.freecodecamp.org/news/getting-a-developer-job-lane-wagner-podcast-157/",
-          "publishedOn": "2025-01-25T00:53:29.000Z",
-          "wordCount": 1148,
-          "title": "Getting a developer job in 2025 with Lane Wagner [Podcast #157]",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1737766278527/f41b773c-a742-43a6-b4b0-e423966f4e52.png"
-        },
-        {
-          "id": "6793a90ea69c4db6e76c194a",
-          "author": "Grant Riordan",
-          "description": "One of the first challenges beginners face when developing applications in C# is organising and managing data efficiently. Imagine keeping track of a list of items, mapping unique keys to values, or ensuring there are no duplicates in a collection – ...",
-          "link": "https://www.freecodecamp.org/news/how-to-use-collections-in-csharp/",
-          "publishedOn": "2025-01-24T14:51:58.000Z",
-          "wordCount": 3640,
-          "title": "How to Use Collections in C# – Lists, Arrays, Dictionaries, and More",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1737729136643/4cc12d37-da1c-45f0-928f-fbe02d7fdf52.png"
-        },
-        {
-          "id": "6793a7b71b1cdac77474f13a",
-          "author": "valentine Gatwiri",
-          "description": "CodeIgniter is a popular open-source PHP framework you can use to build dynamic and robust web applications. It’s simple to use, fast, and flexible. This makes it a good option for any developer who wants to have a light yet powerful framework that w...",
-          "link": "https://www.freecodecamp.org/news/how-to-develop-with-codeigniter-on-ubuntu-environment-setup/",
-          "publishedOn": "2025-01-24T14:46:15.000Z",
-          "wordCount": 2429,
-          "title": "How to Develop with CodeIgniter on Ubuntu – Step-by-Step Environment Setup",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1737640002689/7c78cd9c-40ef-45b3-82f6-97bc33f713d7.png"
-        },
-        {
-          "id": "6793a775498f1e108e0ba05d",
-          "author": "Oluwatobi",
-          "description": "Over the years, applications and tools have become more complex to keep up with people’s changing requirements and expectations. But this can create issues of code compatibility and remote access. For example, a codebase that functions properly on Wi...",
-          "link": "https://www.freecodecamp.org/news/containerize-a-nodejs-application-using-docker/",
-          "publishedOn": "2025-01-24T14:45:09.000Z",
-          "wordCount": 3101,
-          "title": "How to Containerize a Node.js Application Using Docker – A Beginner's Guide",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1737681497302/0540f730-f1c3-496c-bd47-912fdc95d468.png"
-        },
-        {
-          "id": "6793a744fc2bd29e0ece1253",
-          "author": "Kayode Adeniyi",
-          "description": "These days, SaaS has become an integral part of running many businesses. So rolling out new features that resonate with the user base is key to a business’s growth. Imagine a feature that promises to enhance user experience but that ends up resonatin...",
-          "link": "https://www.freecodecamp.org/news/how-to-use-granular-segmentation-with-feature-flags/",
-          "publishedOn": "2025-01-24T14:44:20.000Z",
-          "wordCount": 3253,
-          "title": "How to Use Granular Segmentation with Feature Flags",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1737681693640/2cd6aa99-94bf-48c6-b657-4cc0743312e3.png"
         }
       ]
     }
