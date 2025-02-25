@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=384565",
+          "author": "Lee Meyer",
+          "description": "The grain of truth was that even if you love your job, it can’t love you back. Yet what I’m hooked on isn’t one job, but the power of code and language.\nApplying the Web Dev Mindset to Dealing With Life Challenges originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/applying-the-web-dev-mindset-to-dealing-with-life-challenges/",
+          "publishedOn": "2025-02-24T13:42:16.000Z",
+          "wordCount": 4733,
+          "title": "Applying the Web Dev Mindset to Dealing With Life Challenges",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2018/06/brain-gears.png"
+        },
+        {
           "id": "https://css-tricks.com/?p=384665",
           "author": "Geoff Graham",
           "description": "The View Transitions API is more a set of features than it is about any one particular thing. And it gets complex fast. But in this post, we’ll cover a couple ways to dip your toes into the waters without having to dive in head-first.\nToe Dipping Into View Transitions originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -365,6 +375,16 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "67bca6f616cf4617f656a33f",
+          "author": "Alex Tray",
+          "description": "Let’s start with an interesting fact: according to research done by Akamai, a 1-second delay in loading a website’s page can decrease the conversion rate by 7%. We are currently living in a fast-paced world, where time is money for everyone. People e...",
+          "link": "https://www.freecodecamp.org/news/speed-up-website-loading/",
+          "publishedOn": "2025-02-24T17:05:58.000Z",
+          "wordCount": 3270,
+          "title": "How to Speed Up Website Loading by Removing Extra Bits and Bytes",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1740094347867/d1097d7b-776f-4228-8088-7726b827271f.png"
+        },
         {
           "id": "67b8d14181f9a2aaa77a646f",
           "author": "Quincy Larson",
