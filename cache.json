@@ -376,6 +376,36 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "67be32ff803613c5edf10387",
+          "author": "Spruce Emmanuel",
+          "description": "Recently, I needed to add a search feature to a React app. Naturally, I did what many developers would do—I turned to Google for help. The first article I found was about building a search and filter component in React. As I read through it, I couldn...",
+          "link": "https://www.freecodecamp.org/news/how-to-build-a-reusable-usesearch-hook-in-react/",
+          "publishedOn": "2025-02-25T21:15:43.000Z",
+          "wordCount": 4008,
+          "title": "How to Build a Reusable useSearch Hook in React",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1740494925672/3a87e5a2-5233-4fae-a652-4fbf5b325ded.png"
+        },
+        {
+          "id": "67be316dd9d7f9374abc151b",
+          "author": "Praise James",
+          "description": "Recommender systems are used to provide personalized experiences for customers in many industries today, including e-commerce, social media, entertainment, and education. These recommender systems make recommendations based on user preferences and co...",
+          "link": "https://www.freecodecamp.org/news/cold-start-problem-in-recommender-systems/",
+          "publishedOn": "2025-02-25T21:09:01.000Z",
+          "wordCount": 2500,
+          "title": "What is the Cold Start Problem in Recommender Systems?",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1740509206117/308696ac-788a-4545-b7dd-0e2352e33436.png"
+        },
+        {
+          "id": "67bde54468de46f577ed25f8",
+          "author": "Md. Fahim Bin Amin",
+          "description": "LaTeX is a high-quality typesetting system that is widely used in technical, academic, and scientific writing. It’s very popular in academia, especially in fields like mathematics, physics, computer science, and engineering. LaTeX is not a word proce...",
+          "link": "https://www.freecodecamp.org/news/how-to-run-latex-projects-locally-for-free-on-windows/",
+          "publishedOn": "2025-02-25T15:44:04.000Z",
+          "wordCount": 1976,
+          "title": "How to Run LaTeX Projects Locally (for Free) On Windows",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1740494599916/ce7cfadb-985c-4245-9cc8-1ccba483ba69.png"
+        },
+        {
           "id": "67bca6f616cf4617f656a33f",
           "author": "Alex Tray",
           "description": "Let’s start with an interesting fact: according to research done by Akamai, a 1-second delay in loading a website’s page can decrease the conversion rate by 7%. We are currently living in a fast-paced world, where time is money for everyone. People e...",

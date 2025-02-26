@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-25T00:13:20.699Z</updated>
+    <updated>2025-02-26T00:13:14.484Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Reusable useSearch Hook in React]]></title>
+        <id>67be32ff803613c5edf10387</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-a-reusable-usesearch-hook-in-react/"/>
+        <updated>2025-02-25T21:15:43.000Z</updated>
+        <summary type="html"><![CDATA[Recently, I needed to add a search feature to a React app. Naturally, I did what many developers would do—I turned to Google for help. The first article I found was about building a search and filter component in React. As I read through it, I couldn...]]></summary>
+        <author>
+            <name>Spruce Emmanuel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is the Cold Start Problem in Recommender Systems?]]></title>
+        <id>67be316dd9d7f9374abc151b</id>
+        <link href="https://www.freecodecamp.org/news/cold-start-problem-in-recommender-systems/"/>
+        <updated>2025-02-25T21:09:01.000Z</updated>
+        <summary type="html"><![CDATA[Recommender systems are used to provide personalized experiences for customers in many industries today, including e-commerce, social media, entertainment, and education. These recommender systems make recommendations based on user preferences and co...]]></summary>
+        <author>
+            <name>Praise James</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Run LaTeX Projects Locally (for Free) On Windows]]></title>
+        <id>67bde54468de46f577ed25f8</id>
+        <link href="https://www.freecodecamp.org/news/how-to-run-latex-projects-locally-for-free-on-windows/"/>
+        <updated>2025-02-25T15:44:04.000Z</updated>
+        <summary type="html"><![CDATA[LaTeX is a high-quality typesetting system that is widely used in technical, academic, and scientific writing. It’s very popular in academia, especially in fields like mathematics, physics, computer science, and engineering. LaTeX is not a word proce...]]></summary>
+        <author>
+            <name>Md. Fahim Bin Amin</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Speed Up Website Loading by Removing Extra Bits and Bytes]]></title>
         <id>67bca6f616cf4617f656a33f</id>
