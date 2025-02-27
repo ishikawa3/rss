@@ -2,10 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-26T00:13:14.484Z</updated>
+    <updated>2025-02-27T00:13:25.788Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Using & Styling the Details Element]]></title>
+        <id>https://css-tricks.com/?p=383813</id>
+        <link href="https://css-tricks.com/using-styling-the-details-element/"/>
+        <updated>2025-02-26T16:07:14.000Z</updated>
+        <summary type="html"><![CDATA[Now that we're 5+ years into 
+, we know more about it than ever before. I thought I'd round that information up so it's in one place I can reference in the future without having to search the site — and other sites — to find it.
+Using & Styling the Details Element originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[If-Else vs Switch Case in JavaScript – Which One is Better?]]></title>
+        <id>67bf38654fdd15eb4db76755</id>
+        <link href="https://www.freecodecamp.org/news/if-else-vs-switch-case-in-javascript/"/>
+        <updated>2025-02-26T15:51:01.000Z</updated>
+        <summary type="html"><![CDATA[JavaScript has been a popular programming language for almost 30 years now. Whether you’re using it for web applications, mobile applications, backend services, or even desktop applications, you’ll find that JavaScript has deep roots. Many of the lib...]]></summary>
+        <author>
+            <name>Tapas Adhikary</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Human Element: Using Research And Psychology To Elevate Data Storytelling]]></title>
+        <id>https://smashingmagazine.com/2025/02/human-element-using-research-psychology-elevate-data-storytelling/</id>
+        <link href="https://smashingmagazine.com/2025/02/human-element-using-research-psychology-elevate-data-storytelling/"/>
+        <updated>2025-02-26T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Effective data storytelling isn’t a black box. By integrating UX research & psychology, you can craft more impactful and persuasive narratives. Victor Yocco and Angelica Lo Duca outline a five-step framework that provides a roadmap for creating data stories that resonate with audiences on both a cognitive and emotional level.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Victor Yocco &amp; Angelica Lo Duca)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Build a Reusable useSearch Hook in React]]></title>
         <id>67be32ff803613c5edf10387</id>
@@ -861,57 +893,6 @@ What on Earth is the `types` Descriptor in View Transitions? originally publis
         <summary type="html"><![CDATA[After months of anticipation, debate, and even a bit of apprehension, Svelte 5 arrived earlier this year. Frederick O’Brien caught up with its creator, Rich Harris, to talk about the path that brought him and his team here and what lies ahead.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Frederick O’Brien)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1200 Free Computer Science Courses from the World’s Top Universities]]></title>
-        <id>66c376aef278f15f931a3431</id>
-        <link href="https://www.freecodecamp.org/news/free-courses-top-cs-universities/"/>
-        <updated>2025-01-28T06:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this article, we’ve compiled 1200+ online courses offered by the 60 best universities in the world for studying computer science in 2024. We first built the list in 2020 using a data-driven approach that we have used each year, including 2024. You...]]></summary>
-        <author>
-            <name>Manoel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use DeepSeek-R1]]></title>
-        <id>679a50c7e6ddf5991db7aef0</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-deepseek-r1/"/>
-        <updated>2025-01-28T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Artificial Intelligence (AI) is rapidly evolving, and one of the latest breakthroughs is DeepSeek-R1, a model that has gotten significant attention for its innovative approach to reasoning and problem-solving. Developed by the Chinese AI startup Deep...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Build a Semantic Book Recommender Using an LLM and Python]]></title>
-        <id>679a4f5bb1375fa89b16f391</id>
-        <link href="https://www.freecodecamp.org/news/build-a-semantic-book-recommender-using-an-llm-and-python/"/>
-        <updated>2025-01-28T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Finding your next favorite book can be a challenge, but what if you could build a smart system that recommends books tailored to your interests? With the power of large language models (LLMs) and Python, you can create an intelligent book recommendat...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Revisiting CSS Multi-Column Layout]]></title>
-        <id>https://css-tricks.com/?p=384002</id>
-        <link href="https://css-tricks.com/revisiting-css-multi-column-layout/"/>
-        <updated>2025-01-27T15:35:44.000Z</updated>
-        <summary type="html"><![CDATA[After 20 years since Andy Clarke first published his book about Multi-Column Layout in CSS, he's back to encourage a fresh look at CSS columns for enhanced readability and design flexibility.
-Revisiting CSS Multi-Column Layout originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Andy Clarke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Are Scripts and How Do They Work? Improve Your Productivity with Scripting]]></title>
-        <id>679798b5c4e8c2bf2c88f7bc</id>
-        <link href="https://www.freecodecamp.org/news/what-are-scripts-and-how-do-they-work/"/>
-        <updated>2025-01-27T14:31:17.000Z</updated>
-        <summary type="html"><![CDATA[Developers who have a lot of experience building rigid, quality software tend to automate most of their work by writing scripts. These scripts range from simple alias bash commands to repetitive cron triggers that run on a server. In this tutorial, y...]]></summary>
-        <author>
-            <name>Arunachalam B</name>
         </author>
     </entry>
 </feed>

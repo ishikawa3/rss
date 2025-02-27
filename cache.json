@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=383813",
+          "author": "Geoff Graham",
+          "description": "Now that we're 5+ years into \n, we know more about it than ever before. I thought I'd round that information up so it's in one place I can reference in the future without having to search the site — and other sites — to find it.\nUsing & Styling the Details Element originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/using-styling-the-details-element/",
+          "publishedOn": "2025-02-26T16:07:14.000Z",
+          "wordCount": 3750,
+          "title": "Using & Styling the Details Element",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2022/09/details-box.jpg"
+        },
+        {
           "id": "https://css-tricks.com/?p=384565",
           "author": "Lee Meyer",
           "description": "The grain of truth was that even if you love your job, it can’t love you back. Yet what I’m hooked on isn’t one job, but the power of code and language.\nApplying the Web Dev Mindset to Dealing With Life Challenges originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -185,16 +195,6 @@
             "type": "video/mp4"
           },
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/383818"
-        },
-        {
-          "id": "https://css-tricks.com/?p=384002",
-          "author": "Andy Clarke",
-          "description": "After 20 years since Andy Clarke first published his book about Multi-Column Layout in CSS, he's back to encourage a fresh look at CSS columns for enhanced readability and design flexibility.\nRevisiting CSS Multi-Column Layout originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/revisiting-css-multi-column-layout/",
-          "publishedOn": "2025-01-27T15:35:44.000Z",
-          "wordCount": 3634,
-          "title": "Revisiting CSS Multi-Column Layout",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/384002"
         }
       ]
     },
@@ -203,6 +203,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2025/02/human-element-using-research-psychology-elevate-data-storytelling/",
+          "author": "hello@smashingmagazine.com (Victor Yocco & Angelica Lo Duca)",
+          "description": "Effective data storytelling isn’t a black box. By integrating UX research & psychology, you can craft more impactful and persuasive narratives. Victor Yocco and Angelica Lo Duca outline a five-step framework that provides a roadmap for creating data stories that resonate with audiences on both a cognitive and emotional level.",
+          "link": "https://smashingmagazine.com/2025/02/human-element-using-research-psychology-elevate-data-storytelling/",
+          "publishedOn": "2025-02-26T10:00:00.000Z",
+          "wordCount": 7282,
+          "title": "The Human Element: Using Research And Psychology To Elevate Data Storytelling",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/human-element-using-research-psychology-elevate-data-storytelling/human-element-using-research-psychology-elevate-data-storytelling.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/human-element-using-research-psychology-elevate-data-storytelling/human-element-using-research-psychology-elevate-data-storytelling.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2025/02/human-centered-design-ai-assisted-usability-testing/",
           "author": "hello@smashingmagazine.com (Eduard Kuric)",
@@ -375,6 +390,16 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "67bf38654fdd15eb4db76755",
+          "author": "Tapas Adhikary",
+          "description": "JavaScript has been a popular programming language for almost 30 years now. Whether you’re using it for web applications, mobile applications, backend services, or even desktop applications, you’ll find that JavaScript has deep roots. Many of the lib...",
+          "link": "https://www.freecodecamp.org/news/if-else-vs-switch-case-in-javascript/",
+          "publishedOn": "2025-02-26T15:51:01.000Z",
+          "wordCount": 2522,
+          "title": "If-Else vs Switch Case in JavaScript – Which One is Better?",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1740585035432/f829418f-0efc-4af9-b1c7-7233b6640abc.png"
+        },
         {
           "id": "67be32ff803613c5edf10387",
           "author": "Spruce Emmanuel",
@@ -944,46 +969,6 @@
           "wordCount": 3045,
           "title": "How to Build an Application with AWS Lambda",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1738077341437/939ee844-0f10-4ea6-b031-9c481019e7c6.png"
-        },
-        {
-          "id": "66c376aef278f15f931a3431",
-          "author": "Manoel",
-          "description": "In this article, we’ve compiled 1200+ online courses offered by the 60 best universities in the world for studying computer science in 2024. We first built the list in 2020 using a data-driven approach that we have used each year, including 2024. You...",
-          "link": "https://www.freecodecamp.org/news/free-courses-top-cs-universities/",
-          "publishedOn": "2025-01-28T06:00:00.000Z",
-          "wordCount": 15825,
-          "title": "1200 Free Computer Science Courses from the World’s Top Universities",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1738170135222/602b9c8f-09ff-42ca-ad26-cec5fc06a7ef.jpeg"
-        },
-        {
-          "id": "679a50c7e6ddf5991db7aef0",
-          "author": "Beau Carnes",
-          "description": "Artificial Intelligence (AI) is rapidly evolving, and one of the latest breakthroughs is DeepSeek-R1, a model that has gotten significant attention for its innovative approach to reasoning and problem-solving. Developed by the Chinese AI startup Deep...",
-          "link": "https://www.freecodecamp.org/news/how-to-use-deepseek-r1/",
-          "publishedOn": "2025-01-28T05:00:00.000Z",
-          "wordCount": 1257,
-          "title": "How to Use DeepSeek-R1",
-          "imageUrl": "https://cdn.freecodecamp.org/platform/universal/fcc_meta_1920X1080-indigo.png"
-        },
-        {
-          "id": "679a4f5bb1375fa89b16f391",
-          "author": "Beau Carnes",
-          "description": "Finding your next favorite book can be a challenge, but what if you could build a smart system that recommends books tailored to your interests? With the power of large language models (LLMs) and Python, you can create an intelligent book recommendat...",
-          "link": "https://www.freecodecamp.org/news/build-a-semantic-book-recommender-using-an-llm-and-python/",
-          "publishedOn": "2025-01-28T05:00:00.000Z",
-          "wordCount": 1304,
-          "title": "Build a Semantic Book Recommender Using an LLM and Python",
-          "imageUrl": "https://cdn.freecodecamp.org/platform/universal/fcc_meta_1920X1080-indigo.png"
-        },
-        {
-          "id": "679798b5c4e8c2bf2c88f7bc",
-          "author": "Arunachalam B",
-          "description": "Developers who have a lot of experience building rigid, quality software tend to automate most of their work by writing scripts. These scripts range from simple alias bash commands to repetitive cron triggers that run on a server. In this tutorial, y...",
-          "link": "https://www.freecodecamp.org/news/what-are-scripts-and-how-do-they-work/",
-          "publishedOn": "2025-01-27T14:31:17.000Z",
-          "wordCount": 2999,
-          "title": "What Are Scripts and How Do They Work? Improve Your Productivity with Scripting",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1737988076418/347e6d8a-1dd8-45d1-854b-fbc576eeed5f.png"
         }
       ]
     }
