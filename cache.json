@@ -352,36 +352,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/digital-playbook-crucial-counterpart-design-system/digital-playbook-crucial-counterpart-design-system.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2025/01/transitioning-top-layer-entries-display-property-css/",
-          "author": "hello@smashingmagazine.com (Brecht De Ruyte)",
-          "description": "It’s not always the big features that make our everyday lives easier; sometimes, it’s those ease-of-life features that truly enhance our projects. In this article, Brecht De Ruyte highlights two such features: `@starting-style` and `transition-behavior` — two properties that are absolutely welcome additions to your everyday work with CSS animations.",
-          "link": "https://smashingmagazine.com/2025/01/transitioning-top-layer-entries-display-property-css/",
-          "publishedOn": "2025-01-29T10:00:00.000Z",
-          "wordCount": 5396,
-          "title": "Transitioning Top-Layer Entries And The Display Property In CSS",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/transitioning-top-layer-entries-display-property-css/transitioning-top-layer-entries-display-property-css.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/transitioning-top-layer-entries-display-property-css/transitioning-top-layer-entries-display-property-css.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2025/01/svelte-5-future-frameworks-chat-rich-harris/",
-          "author": "hello@smashingmagazine.com (Frederick O’Brien)",
-          "description": "After months of anticipation, debate, and even a bit of apprehension, Svelte 5 arrived earlier this year. Frederick O’Brien caught up with its creator, Rich Harris, to talk about the path that brought him and his team here and what lies ahead.",
-          "link": "https://smashingmagazine.com/2025/01/svelte-5-future-frameworks-chat-rich-harris/",
-          "publishedOn": "2025-01-28T15:00:00.000Z",
-          "wordCount": 4066,
-          "title": "Svelte 5 And The Future Of Frameworks: A Chat With Rich Harris",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/svelte-5-future-frameworks-chat-rich-harris/svelte-5-future-frameworks-chat-rich-harris.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/svelte-5-future-frameworks-chat-rich-harris/svelte-5-future-frameworks-chat-rich-harris.jpg"
         }
       ]
     },
@@ -390,6 +360,46 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "67c07627b9cb8c91fbfe2e7c",
+          "author": "Beau Carnes",
+          "description": "Linear algebra is a fundamental building block of machine learning. Whether you are working with deep learning models, optimization algorithms, or computer vision applications, understanding linear algebra concepts can give you a solid mathematical f...",
+          "link": "https://www.freecodecamp.org/news/learn-linear-algebra-for-machine-learning/",
+          "publishedOn": "2025-02-27T14:26:47.000Z",
+          "wordCount": 1397,
+          "title": "Learn Linear Algebra for Machine Learning",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1740666382320/d655b144-61c2-4a24-91b2-fa3ab0cacea9.png"
+        },
+        {
+          "id": "67bf99792e5bf2f98ee2466d",
+          "author": "Beau Carnes",
+          "description": "AI-powered chat applications are becoming an essential part of modern web development, enabling users to interact with intelligent conversational agents. Whether for customer support, virtual assistants, or educational tools, building your own AI cha...",
+          "link": "https://www.freecodecamp.org/news/build-an-ai-chat-application-with-the-mern-stack/",
+          "publishedOn": "2025-02-26T22:45:13.000Z",
+          "wordCount": 1330,
+          "title": "Build an AI Chat Application with the MERN Stack",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1740666306092/460598ee-3036-4395-ad92-7c8db9e70ae0.png"
+        },
+        {
+          "id": "67bf961287f2aad5763d1f78",
+          "author": "Beau Carnes",
+          "description": "Transformers have revolutionized natural language processing, and now they are transforming computer vision as well. Vision Transformers (ViTs) apply the power of self-attention to image processing, offering state-of-the-art performance in tasks like...",
+          "link": "https://www.freecodecamp.org/news/build-a-vision-transformer-from-scratch/",
+          "publishedOn": "2025-02-26T22:30:42.000Z",
+          "wordCount": 1305,
+          "title": "Build a Vision Transformer from Scratch",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1740609022511/e0864dae-cffe-4757-85f9-d4162102a082.png"
+        },
+        {
+          "id": "67bf859b948d001fe6c9ab99",
+          "author": "Hunor Márton Borbély",
+          "description": "In this tutorial, you’ll learn how to create a clone of the mobile game Crossy Road with React Three Fiber. In a previous tutorial, I taught you how to build this game using Three.js and vanilla JavaScript. And here, you’ll learn how to make the same...",
+          "link": "https://www.freecodecamp.org/news/how-to-code-a-crossy-road-game-clone-with-react-three-fiber/",
+          "publishedOn": "2025-02-26T21:20:27.000Z",
+          "wordCount": 8189,
+          "title": "How to Code a Crossy Road Game Clone with React Three Fiber",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1740599557930/dcbb214e-c6d2-400e-8b2a-25fd81ac3c47.png"
+        },
         {
           "id": "67bf38654fdd15eb4db76755",
           "author": "Tapas Adhikary",
@@ -929,46 +939,6 @@
           "wordCount": 1730,
           "title": "Master Object Oriented Programming in Python",
           "imageUrl": "https://cdn.freecodecamp.org/platform/universal/fcc_meta_1920X1080-indigo.png"
-        },
-        {
-          "id": "67995e567a54c877fce42276",
-          "author": "Juan P. Romano",
-          "description": "In the fast-paced world of software development, delivering high-quality applications quickly and reliably is crucial. This is where CI/CD (Continuous Integration and Continuous Delivery/Deployment) comes into play. CI/CD is a set of practices and to...",
-          "link": "https://www.freecodecamp.org/news/create-a-basic-cicd-pipeline-with-webhooks-on-linux/",
-          "publishedOn": "2025-01-28T22:46:46.000Z",
-          "wordCount": 3667,
-          "title": "How to Create a Basic CI/CD Pipeline with Webhooks on Linux",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1737640144719/9035597c-0a69-4146-93cc-8bd659384169.png"
-        },
-        {
-          "id": "6798fd7b4666e531b7dd7586",
-          "author": "Alex Pliutau",
-          "description": "As developers, we spend a lot of time in our terminals. And there are tons of great CLI/TUI tools that can boost our productivity (as well as some that are just fun to use). From managing Git repositories and navigating file systems to monitoring sys...",
-          "link": "https://www.freecodecamp.org/news/essential-cli-tui-tools-for-developers/",
-          "publishedOn": "2025-01-28T15:53:31.000Z",
-          "wordCount": 3254,
-          "title": "Essential CLI/TUI Tools for Developers",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1738077620615/22e3c744-d609-4469-ae10-ef8ad4b515a1.png"
-        },
-        {
-          "id": "6798fd38ac05f27ed5691abd",
-          "author": "Anjan Baradwaj",
-          "description": "In your Java applications, you’ll typically work with various types of objects. And you might want to perform operations like sorting, searching, and iterating on these objects. Prior to the introduction of the Collections framework in JDK 1.2, you w...",
-          "link": "https://www.freecodecamp.org/news/java-collections-framework-reference-guide/",
-          "publishedOn": "2025-01-28T15:52:24.000Z",
-          "wordCount": 3857,
-          "title": "How to Use the Java Collections Framework – A Guide for Developers",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1738077724002/cfbf6a90-f9c2-4853-b1c3-c33774f078c1.png"
-        },
-        {
-          "id": "6798f596558861e9737fa5af",
-          "author": "Ijeoma Igboagu",
-          "description": "AWS Lambda is a service from Amazon Web Services (AWS) that lets you run your code in response to events without managing servers. It’s a simple and scalable way to build applications. In this tutorial, I’ll show you how to use AWS Lambda with three ...",
-          "link": "https://www.freecodecamp.org/news/how-to-build-an-application-with-aws-lambda/",
-          "publishedOn": "2025-01-28T15:19:50.000Z",
-          "wordCount": 3045,
-          "title": "How to Build an Application with AWS Lambda",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1738077341437/939ee844-0f10-4ea6-b031-9c481019e7c6.png"
         }
       ]
     }
