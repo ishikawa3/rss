@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=384906",
+          "author": "Temani Afif",
+          "description": "In this article, you'll learn how to make a full-on star rating component out of nothing but a single input element and vanilla CSS.\nA CSS-Only Star Rating Component and More! (Part 1) originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/a-css-only-star-rating-component-and-more-part-1/",
+          "publishedOn": "2025-02-28T14:03:32.000Z",
+          "wordCount": 4079,
+          "title": "A CSS-Only Star Rating Component and More! (Part 1)",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/07/star-pattern.png"
+        },
+        {
           "id": "https://css-tricks.com/?p=383813",
           "author": "Geoff Graham",
           "description": "Now that we're 5+ years into \n, we know more about it than ever before. I thought I'd round that information up so it's in one place I can reference in the future without having to search the site — and other sites — to find it.\nUsing & Styling the Details Element originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -180,21 +190,6 @@
           "wordCount": 1973,
           "title": "The Mistakes of CSS",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/384089"
-        },
-        {
-          "id": "https://css-tricks.com/?p=383818",
-          "author": "Juan Diego Rodríguez",
-          "description": "The @view-transition at-rule has two descriptions. One is the commonly used navigation descriptor. The second is types, the lesser-known of the two, and one that probably envies how much attention navigation gets. But read on to learn why we need types and how it opens up new possibilities for custom view transitions when navigating between pages.\nWhat on Earth is the `types` Descriptor in View Transitions? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/what-on-earth-is-the-types-descriptor-in-view-transitions/",
-          "publishedOn": "2025-01-29T14:13:53.000Z",
-          "wordCount": 2838,
-          "title": "What on Earth is the `types` Descriptor in View Transitions?",
-          "enclosure": {
-            "url": "https://css-tricks.com/wp-content/uploads/2025/01/custom-view-transition.mp4",
-            "length": "2633346",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/383818"
         }
       ]
     },
@@ -203,6 +198,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2025/02/desktop-wallpaper-calendars-march-2025/",
+          "author": "hello@smashingmagazine.com (Cosima Mielke)",
+          "description": "Do you need a little inspiration boost? Well, then our new batch of desktop wallpapers is for you. Designed by the community for the community, the wallpapers in this collection are the perfect opportunity to get your desktop ready for spring — and, who knows, maybe they’ll spark some new ideas, too. Enjoy!",
+          "link": "https://smashingmagazine.com/2025/02/desktop-wallpaper-calendars-march-2025/",
+          "publishedOn": "2025-02-28T13:00:00.000Z",
+          "wordCount": 4683,
+          "title": "Sunshine And March Vibes (2025 Wallpapers Edition)",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-march-2025/mar-25-bee-utiful-smile-preview-opt.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "http://files.smashing.media/articles/desktop-wallpaper-calendars-march-2025/mar-25-bee-utiful-smile-preview-opt.png"
+        },
         {
           "id": "https://smashingmagazine.com/2025/02/human-element-using-research-psychology-elevate-data-storytelling/",
           "author": "hello@smashingmagazine.com (Victor Yocco & Angelica Lo Duca)",
@@ -337,21 +347,6 @@
             "type": "image/png"
           },
           "imageUrl": "http://files.smashing.media/articles/desktop-wallpaper-calendars-february-2025/feb-25-fall-in-love-with-yourself-preview-opt.png"
-        },
-        {
-          "id": "https://smashingmagazine.com/2025/01/digital-playbook-crucial-counterpart-design-system/",
-          "author": "hello@smashingmagazine.com (Paul Boag)",
-          "description": "Design systems play a crucial role in today’s digital landscape, providing a blueprint for consistent and user-friendly interfaces. But there’s another tool that deserves equal attention: the digital playbook.",
-          "link": "https://smashingmagazine.com/2025/01/digital-playbook-crucial-counterpart-design-system/",
-          "publishedOn": "2025-01-30T08:00:00.000Z",
-          "wordCount": 4055,
-          "title": "The Digital Playbook: A Crucial Counterpart To Your Design System",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/digital-playbook-crucial-counterpart-design-system/digital-playbook-crucial-counterpart-design-system.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/digital-playbook-crucial-counterpart-design-system/digital-playbook-crucial-counterpart-design-system.jpg"
         }
       ]
     },
@@ -360,6 +355,26 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "67c1f994107ebba152ad9e79",
+          "author": "Emore Ogheneyoma Lawrence",
+          "description": "In React applications, handling API (Application Programming Interface) responses can be challenging. You might encounter data that’s missing crucial fields, that’s formatted unexpectedly, or that simply doesn’t match what you anticipated. This incon...",
+          "link": "https://www.freecodecamp.org/news/how-to-use-zod-for-react-api-validation/",
+          "publishedOn": "2025-02-28T17:59:48.000Z",
+          "wordCount": 2777,
+          "title": "How to Use Zod for React API Validation",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1740756200896/a57c4e95-b13e-412a-828e-09e97f22a6c4.png"
+        },
+        {
+          "id": "67c1e77814978ff66bb8a865",
+          "author": "Quincy Larson",
+          "description": "On this week's episode of the podcast, I interview Anjana Vakil. She left academia to learn to code and got her first developer job in her 30s. Anjana was an English teacher who studied computational linguistics, and found building software to be mor...",
+          "link": "https://www.freecodecamp.org/news/how-to-become-a-developer-in-your-30s-anjana-vakil-podcast-162/",
+          "publishedOn": "2025-02-28T16:42:32.000Z",
+          "wordCount": 1124,
+          "title": "How to become a developer in your 30s with Anjana Vakil [Podcast #162]",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1740760825697/bcf3c6af-4c0c-4ec4-8b80-d24bfe131a4d.png"
+        },
         {
           "id": "67c07627b9cb8c91fbfe2e7c",
           "author": "Beau Carnes",
@@ -909,36 +924,6 @@
           "wordCount": 3298,
           "title": "How to Build Dependent Dropdowns in React",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1738246583123/caa07859-2ce8-44b1-9fd2-44b414babe52.png"
-        },
-        {
-          "id": "679a5fa86177eb24200d0f7f",
-          "author": "Programming with Shahan",
-          "description": "Building scalable software applications requires writing clean code that’s so simple that any dev can understand it. In this article, I’ll explain and demonstrate what clean code is. Then I’ll share my favorite clean code patterns for building modern...",
-          "link": "https://www.freecodecamp.org/news/the-clean-code-handbook/",
-          "publishedOn": "2025-01-29T17:04:40.000Z",
-          "wordCount": 8321,
-          "title": "The Clean Code Handbook: How to Write Better Code for Agile Software Development",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1738170236859/edacf21e-7180-4f65-9e7e-f7cf95b4f9d8.png"
-        },
-        {
-          "id": "679a5f09bd88c0851092079d",
-          "author": "Ben",
-          "description": "In my twenty years of being in the Software Engineer game, I’ve been through lots of Sprint Reviews. I’ve seen them done well, and I’ve seen them used as no more than a few hours every sprint for people to take a nice break in a meeting room. When do...",
-          "link": "https://www.freecodecamp.org/news/how-to-run-a-great-sprint-review-actionable-insights/",
-          "publishedOn": "2025-01-29T17:02:01.000Z",
-          "wordCount": 2392,
-          "title": "How to Run a Great Sprint Review – Actionable Tips for Developers and Teams",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1738170100236/fcc7407a-3b08-493f-a704-661eed12f369.png"
-        },
-        {
-          "id": "679a52c025db32662cde422f",
-          "author": "Beau Carnes",
-          "description": "Object-oriented programming (OOP) is one of the most essential paradigms in modern software development. It provides a structured way to design and organize code, making it more reusable, maintainable, and scalable. Unlike procedural programming, whi...",
-          "link": "https://www.freecodecamp.org/news/master-object-oriented-programming-in-python/",
-          "publishedOn": "2025-01-29T16:09:36.000Z",
-          "wordCount": 1730,
-          "title": "Master Object Oriented Programming in Python",
-          "imageUrl": "https://cdn.freecodecamp.org/platform/universal/fcc_meta_1920X1080-indigo.png"
         }
       ]
     }
