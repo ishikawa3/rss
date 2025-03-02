@@ -180,16 +180,6 @@
           "wordCount": 1862,
           "title": "Keeping the page interactive while a View Transition is running",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/384331"
-        },
-        {
-          "id": "https://css-tricks.com/?p=384089",
-          "author": "Juan Diego Rodríguez",
-          "description": "All of the things that the CSS Working Group would change if they had a time-traveling Delorean to go back and do things over.\nThe Mistakes of CSS originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/the-mistakes-of-css/",
-          "publishedOn": "2025-01-30T14:31:08.000Z",
-          "wordCount": 1973,
-          "title": "The Mistakes of CSS",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/384089"
         }
       ]
     },
@@ -332,21 +322,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/integrations-from-simple-data-transfer-to-composable-architectures/integrations-from-simple-data-transfer-to-composable-architectures.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2025/01/desktop-wallpaper-calendars-february-2025/",
-          "author": "hello@smashingmagazine.com (Cosima Mielke)",
-          "description": "Let’s make the most of the shortest of all months, with a new collection of desktop wallpapers celebrating new opportunities, sweet memories, happy little moments, and everything in between. All of them created with love by the community for the community. Enjoy!",
-          "link": "https://smashingmagazine.com/2025/01/desktop-wallpaper-calendars-february-2025/",
-          "publishedOn": "2025-01-31T09:30:00.000Z",
-          "wordCount": 5081,
-          "title": "Look Closer, Inspiration Lies Everywhere (February 2025 Wallpapers Edition)",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-february-2025/feb-25-fall-in-love-with-yourself-preview-opt.png",
-            "length": "0",
-            "type": "image/png"
-          },
-          "imageUrl": "http://files.smashing.media/articles/desktop-wallpaper-calendars-february-2025/feb-25-fall-in-love-with-yourself-preview-opt.png"
         }
       ]
     },
@@ -884,46 +859,6 @@
           "wordCount": 4465,
           "title": "Learn Async Programming in TypeScript: Promises, Async/Await, and Callbacks",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1737747600016/f6df015b-cc25-4c37-8c4e-bec9c8c49dc5.png"
-        },
-        {
-          "id": "679bcc0fa60eb167ae249fba",
-          "author": "Maham Codes",
-          "description": "Building AI and agentic workflows is at the core of modern AI development in 2025. And LangChain has been the go-to framework for creating AI applications for a while now. But some developers are seeking alternatives that offer more flexibility, simp...",
-          "link": "https://www.freecodecamp.org/news/langchain-alternatives-for-building-ai-and-agentic-workflows/",
-          "publishedOn": "2025-01-30T18:59:27.000Z",
-          "wordCount": 3674,
-          "title": "Langchain Alternatives You Can Use to Build AI and Agentic Workflows",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1738263536460/497c1640-fef2-481b-8383-d522a7303c88.png"
-        },
-        {
-          "id": "679bb8262a7ebc3c99ecb6ea",
-          "author": "Syeda Maham Fahim",
-          "description": "Have you ever wondered how a computer knows which program’s output to display, especially when multiple programs are running simultaneously? This is possible because of the Process ID (PID). A PID is a unique identifier that helps the operating syste...",
-          "link": "https://www.freecodecamp.org/news/what-is-a-process-id-process-management-tutorial/",
-          "publishedOn": "2025-01-30T17:34:30.000Z",
-          "wordCount": 1954,
-          "title": "What is a Process ID? How to Use PIDs for Process Management",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1738252940529/8ee6969c-7a74-4b2f-bd33-f2d48332e8e0.png"
-        },
-        {
-          "id": "679b945fe7604181817d149e",
-          "author": "Beau Carnes",
-          "description": "APIs (Application Programming Interfaces) are the backbone of modern software applications, enabling seamless communication between different systems and services. However, this interconnectedness also makes them a prime target for cyberattacks. API ...",
-          "link": "https://www.freecodecamp.org/news/learn-the-basics-of-api-security/",
-          "publishedOn": "2025-01-30T15:01:51.000Z",
-          "wordCount": 1216,
-          "title": "Learn the Basics of API Security",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1738249160616/80af618b-7d5a-442d-a6d9-6ea4dd91cfc4.png"
-        },
-        {
-          "id": "679b92469bbf0da70b05703a",
-          "author": "Timothy Olanrewaju",
-          "description": "In many web applications, we often encounter forms where selecting an option in one dropdown unlocks a new set of options in another. These interconnected dropdowns, commonly known as dependent or cascading dropdowns, play a crucial role in creating ...",
-          "link": "https://www.freecodecamp.org/news/how-to-build-dependent-dropdowns-in-react/",
-          "publishedOn": "2025-01-30T14:52:54.000Z",
-          "wordCount": 3298,
-          "title": "How to Build Dependent Dropdowns in React",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1738246583123/caa07859-2ce8-44b1-9fd2-44b414babe52.png"
         }
       ]
     }

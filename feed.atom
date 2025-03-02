@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-03-01T00:14:47.601Z</updated>
+    <updated>2025-03-02T00:14:36.718Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
@@ -802,67 +802,6 @@ Chrome 133 Goodies originally published on CSS-Tricks, which is part of the Digi
 Keeping the page interactive while a View Transition is running originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Look Closer, Inspiration Lies Everywhere (February 2025 Wallpapers Edition)]]></title>
-        <id>https://smashingmagazine.com/2025/01/desktop-wallpaper-calendars-february-2025/</id>
-        <link href="https://smashingmagazine.com/2025/01/desktop-wallpaper-calendars-february-2025/"/>
-        <updated>2025-01-31T09:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Let’s make the most of the shortest of all months, with a new collection of desktop wallpapers celebrating new opportunities, sweet memories, happy little moments, and everything in between. All of them created with love by the community for the community. Enjoy!]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Langchain Alternatives You Can Use to Build AI and Agentic Workflows]]></title>
-        <id>679bcc0fa60eb167ae249fba</id>
-        <link href="https://www.freecodecamp.org/news/langchain-alternatives-for-building-ai-and-agentic-workflows/"/>
-        <updated>2025-01-30T18:59:27.000Z</updated>
-        <summary type="html"><![CDATA[Building AI and agentic workflows is at the core of modern AI development in 2025. And LangChain has been the go-to framework for creating AI applications for a while now. But some developers are seeking alternatives that offer more flexibility, simp...]]></summary>
-        <author>
-            <name>Maham Codes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is a Process ID? How to Use PIDs for Process Management]]></title>
-        <id>679bb8262a7ebc3c99ecb6ea</id>
-        <link href="https://www.freecodecamp.org/news/what-is-a-process-id-process-management-tutorial/"/>
-        <updated>2025-01-30T17:34:30.000Z</updated>
-        <summary type="html"><![CDATA[Have you ever wondered how a computer knows which program’s output to display, especially when multiple programs are running simultaneously? This is possible because of the Process ID (PID). A PID is a unique identifier that helps the operating syste...]]></summary>
-        <author>
-            <name>Syeda Maham Fahim</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn the Basics of API Security]]></title>
-        <id>679b945fe7604181817d149e</id>
-        <link href="https://www.freecodecamp.org/news/learn-the-basics-of-api-security/"/>
-        <updated>2025-01-30T15:01:51.000Z</updated>
-        <summary type="html"><![CDATA[APIs (Application Programming Interfaces) are the backbone of modern software applications, enabling seamless communication between different systems and services. However, this interconnectedness also makes them a prime target for cyberattacks. API ...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build Dependent Dropdowns in React]]></title>
-        <id>679b92469bbf0da70b05703a</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-dependent-dropdowns-in-react/"/>
-        <updated>2025-01-30T14:52:54.000Z</updated>
-        <summary type="html"><![CDATA[In many web applications, we often encounter forms where selecting an option in one dropdown unlocks a new set of options in another. These interconnected dropdowns, commonly known as dependent or cascading dropdowns, play a crucial role in creating ...]]></summary>
-        <author>
-            <name>Timothy Olanrewaju</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Mistakes of CSS]]></title>
-        <id>https://css-tricks.com/?p=384089</id>
-        <link href="https://css-tricks.com/the-mistakes-of-css/"/>
-        <updated>2025-01-30T14:31:08.000Z</updated>
-        <summary type="html"><![CDATA[All of the things that the CSS Working Group would change if they had a time-traveling Delorean to go back and do things over.
-The Mistakes of CSS originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Juan Diego Rodríguez</name>
         </author>
     </entry>
 </feed>
