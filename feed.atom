@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-03-04T00:13:28.146Z</updated>
+    <updated>2025-03-05T00:13:34.742Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Build a MERN Stack To-Do App]]></title>
+        <id>67c74d6473daa61c95803cfc</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-a-mern-stack-to-do-app/"/>
+        <updated>2025-03-04T18:58:44.000Z</updated>
+        <summary type="html"><![CDATA[This guide will walk you through building a full-stack MERN To-Do application. It covers setting up the environment, writing code to demonstrate core CRUD (Create, Read, Update, Delete) operations, and connecting the application to MongoDB Atlas, a f...]]></summary>
+        <author>
+            <name>Casmir Onyekani</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Build a Social Learning Platform using Next.js, Stream, and Supabase]]></title>
         <id>67c5c657e04393229206983b</id>

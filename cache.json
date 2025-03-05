@@ -336,6 +336,16 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "67c74d6473daa61c95803cfc",
+          "author": "Casmir Onyekani",
+          "description": "This guide will walk you through building a full-stack MERN To-Do application. It covers setting up the environment, writing code to demonstrate core CRUD (Create, Read, Update, Delete) operations, and connecting the application to MongoDB Atlas, a f...",
+          "link": "https://www.freecodecamp.org/news/how-to-build-a-mern-stack-to-do-app/",
+          "publishedOn": "2025-03-04T18:58:44.000Z",
+          "wordCount": 4488,
+          "title": "How to Build a MERN Stack To-Do App",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1741102112733/3aa43545-c095-4a47-8787-130b470f6ce1.png"
+        },
+        {
           "id": "67c5c657e04393229206983b",
           "author": "David Asaolu",
           "description": "Social media and real-time communication have transformed how people interact, making it easier to share ideas, collaborate, and learn from others, regardless of location. From professional networks to online study groups, these platforms allow vario...",
