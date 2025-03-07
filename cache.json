@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=385117",
+          "author": "Geoff Graham",
+          "description": "This easily qualifies as a \"gotcha\" in CSS and is a good reminder that the cascade doesn't know everything all at the same time. If a custom property is invalid, the cascade won't ignore it, and it gets evaluated, which invalidates the declaration.\nMaybe don’t use custom properties in shorthand properties originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/maybe-dont-use-custom-properties-in-shorthand-properties/",
+          "publishedOn": "2025-03-06T16:33:55.000Z",
+          "wordCount": 1833,
+          "title": "Maybe don’t use custom properties in shorthand properties",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/09/custom-properties-code.png"
+        },
+        {
           "id": "https://css-tricks.com/?p=384971",
           "author": "Preethi",
           "description": "Preethi demonstrates how to make a user interface to group selected items using CSS Grid using two different methods: the auto-fill keyword for stable layouts and the span keyword for flexible arrangements.\nGrouping Selection List Items Together With CSS Grid originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -179,6 +189,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2025/03/how-fix-largest-contentful-issues-subpart-analysis/",
+          "author": "hello@smashingmagazine.com (Matt Zeunert)",
+          "description": "Struggling with slow Largest Contentful Paint (LCP)? Newly introduced by Google, LCP subparts help you pinpoint where page load delays come from. Now, in the Chrome UX Report, this data provides real visitor insights to speed up your site and boost rankings. Matt Zeunert unpacks what LCP subparts are, what they mean for your website speed, and how you can measure them.",
+          "link": "https://smashingmagazine.com/2025/03/how-fix-largest-contentful-issues-subpart-analysis/",
+          "publishedOn": "2025-03-06T10:00:00.000Z",
+          "wordCount": 3967,
+          "title": "How To Fix Largest Contentful Issues With Subpart Analysis",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/how-fix-largest-contentful-issues-subpart-analysis/how-fix-largest-contentful-issues-subpart-analysis.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/how-fix-largest-contentful-issues-subpart-analysis/how-fix-largest-contentful-issues-subpart-analysis.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2025/03/case-minimal-wordpress-setups-contrarian-view-theme-frameworks/",
           "author": "hello@smashingmagazine.com (Kevin Leary)",
           "description": "Modern frameworks are supposed to help speed up development while providing modern tools and a developer-friendly workflow. In reality, Kevin Leary has found that they cause far more problems than they solve. This ultimately leads to the big question: why are modern theme frameworks so popular, and do they really benefit developers in the long run?",
@@ -320,6 +345,36 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "67c9e1b1b9163aa35c6dc2ee",
+          "author": "Beau Carnes",
+          "description": "Deep learning has revolutionized the way we approach complex problems like image recognition, natural language processing, and even audio analysis. At the core of many deep learning applications is PyTorch, a powerful and flexible framework that allo...",
+          "link": "https://www.freecodecamp.org/news/learn-pytorch-in-five-projects/",
+          "publishedOn": "2025-03-06T17:56:01.000Z",
+          "wordCount": 1260,
+          "title": "Learn PyTorch in Five Projects",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1741283747402/6d00899f-105f-4c20-97e8-0f789348bacf.png"
+        },
+        {
+          "id": "67c90b95f53d5f98abdef4ce",
+          "author": "Beau Carnes",
+          "description": "Machine learning is revolutionizing industries by enabling computers to learn from data, recognize patterns, and make decisions without explicit programming. If you've ever been curious about how AI systems work, this course provides a structured int...",
+          "link": "https://www.freecodecamp.org/news/learn-machine-learning-concepts-plus-generative-ai/",
+          "publishedOn": "2025-03-06T02:42:29.000Z",
+          "wordCount": 1232,
+          "title": "Learn Machine Learning Concepts plus Generative AI",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1741228930362/5c9e0d40-e79d-4aba-970c-ea5949a92b92.png"
+        },
+        {
+          "id": "67c90a7950860cc5f8cd4d06",
+          "author": "Beau Carnes",
+          "description": "Creating an MMO (Massively Multiplayer Online) game may seem like a daunting task, but with the right tools and guidance, you can bring your game idea to life. Whether you're an aspiring game developer or just curious about how online multiplayer gam...",
+          "link": "https://www.freecodecamp.org/news/create-a-simple-mmo-game-in-unity/",
+          "publishedOn": "2025-03-06T02:37:45.000Z",
+          "wordCount": 1218,
+          "title": "Create a simple MMO Game in Unity",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1741228630313/676dbb39-5da0-421e-aa31-8760b7f994a2.png"
+        },
         {
           "id": "67c74d6473daa61c95803cfc",
           "author": "Casmir Onyekani",
@@ -799,66 +854,6 @@
           "wordCount": 3106,
           "title": "How to Set Up Documentation as Code with Docusaurus and GitHub Actions",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1738248926082/9a2a6855-00d4-4e25-a8bd-c1d645f21de5.png"
-        },
-        {
-          "id": "67a4d4fb19ce74a3822b3eab",
-          "author": "Beau Carnes",
-          "description": "Building modern, dynamic websites requires a combination of powerful front-end frameworks and flexible content management systems. Whether you're a developer looking to enhance your skills or a beginner wanting to create your first web project, learn...",
-          "link": "https://www.freecodecamp.org/news/build-a-full-stack-app-with-nextjs-and-strapi/",
-          "publishedOn": "2025-02-05T05:00:00.000Z",
-          "wordCount": 1284,
-          "title": "Build a Full Stack App with Next.js and Strapi",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1738855654744/dd05c620-8018-4c3c-9800-3948afe5277a.png"
-        },
-        {
-          "id": "67a269edea59b2f402186a7d",
-          "author": "Samhitha Rama Prasad",
-          "description": "Access control is crucial for preventing unauthorized access and ensuring that only the right people can access sensitive data in your application. As your app grows in complexity, so does the challenge of enforcing permissions in a clean and efficie...",
-          "link": "https://www.freecodecamp.org/news/how-to-build-scalable-access-control-for-your-web-app/",
-          "publishedOn": "2025-02-04T19:26:37.000Z",
-          "wordCount": 8744,
-          "title": "Scalable Access Control for Your Web App: The Handbook",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1738695897990/7a5962ce-9c4a-4e7c-bdeb-520dccc5d240.png"
-        },
-        {
-          "id": "67a25a17305bf96e1daeccd4",
-          "author": "Vahe Aslanyan",
-          "description": "Bioengineering stands at the precipice of a transformative era, where the convergence of biology, engineering, and technology promises to redefine the very fabric of human existence. This is not hyperbole. It’s a reflection of the rapid strides being...",
-          "link": "https://www.freecodecamp.org/news/next-gen-healthcare-with-ai-epigenetics-and-bioengineering/",
-          "publishedOn": "2025-02-04T18:19:03.000Z",
-          "wordCount": 12406,
-          "title": "Pioneering Next-Gen Healthcare with AI, Epigenetics, and Bioengineering",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1738685201135/64b476e9-b17b-4788-ba3c-ec23a2576e81.png"
-        },
-        {
-          "id": "67a24bb37e501febb084c852",
-          "author": "Tanishka Makode",
-          "description": "Imagine a carpenter without tools, a writer without a pen, or a chef without a knife—this is like trying to imagine a developer or sysadmin without a reliable text editor. For devs, text editors are the ultimate multitools, shaping how we create, man...",
-          "link": "https://www.freecodecamp.org/news/how-to-use-the-vim-text-editor-intro-for-devs/",
-          "publishedOn": "2025-02-04T17:17:39.000Z",
-          "wordCount": 5148,
-          "title": "How to Use the Vim Text Editor – An Introduction for Developers",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1738684583892/739ec0fa-e8a2-4f08-a265-7fa5034c932d.png"
-        },
-        {
-          "id": "67a2380b9af7e36332fde944",
-          "author": "Nitin Sharma",
-          "description": "Being a developer isn’t as straightforward as many people think. It’s not just about learning a programming language and typing out code to build software. There’s a lot more to it. And one of the most confusing (and often frustrating) topics for dev...",
-          "link": "https://www.freecodecamp.org/news/tips-for-writing-clean-code/",
-          "publishedOn": "2025-02-04T15:53:47.000Z",
-          "wordCount": 2823,
-          "title": "Simple Tips to Help You Write Clean Code",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1738684292390/6e844cd5-28f8-42e9-b9e3-cc6ded9ec72f.png"
-        },
-        {
-          "id": "67a22fc0b7eb4acc424cb220",
-          "author": "Gursimar Singh",
-          "description": "Cloud Development Environments (CDEs) have become essential tools in modern software development, offering enhanced productivity and streamlined workflows. This article compares three leading CDEs: Harness CDE, Gitpod, and Coder. My goal here is to o...",
-          "link": "https://www.freecodecamp.org/news/how-to-choose-a-cloud-development-environment/",
-          "publishedOn": "2025-02-04T15:18:24.000Z",
-          "wordCount": 2954,
-          "title": "How to Choose a Cloud Development Environment – Harness CDE, Gitpod, and Coder Compared",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1738612280310/a3e39db8-66e9-45f5-9bc1-60cfa426a001.png"
         }
       ]
     }
