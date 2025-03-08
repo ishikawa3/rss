@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=384919",
+          "author": "Temani Afif",
+          "description": "In this second article of a two-part series, Temani Afif demonstrates an alternative approach to creating the star rating component from the first article using experimental scroll-driven animations rather than using the border-image property.\nA CSS-Only Star Rating Component and More! (Part 2) originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/a-css-only-star-rating-component-and-more-part-2/",
+          "publishedOn": "2025-03-07T13:14:12.000Z",
+          "wordCount": 4007,
+          "title": "A CSS-Only Star Rating Component and More! (Part 2)",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/07/star-pattern.png"
+        },
+        {
           "id": "https://css-tricks.com/?p=385117",
           "author": "Geoff Graham",
           "description": "This easily qualifies as a \"gotcha\" in CSS and is a good reminder that the cascade doesn't know everything all at the same time. If a custom property is invalid, the cascade won't ignore it, and it gets evaluated, which invalidates the declaration.\nMaybe don’t use custom properties in shorthand properties originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -165,21 +175,6 @@
           "wordCount": 1971,
           "title": "Container query units: cqi and cqb",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/384468"
-        },
-        {
-          "id": "https://css-tricks.com/?p=382311",
-          "author": "Geoff Graham",
-          "description": "The steps for how I took the Baseline Status web component and made it into a WordPress block that can be used on any page of post.\nBaseline Status in a WordPress Block originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/baseline-status-in-a-wordpress-block/",
-          "publishedOn": "2025-02-05T14:58:18.000Z",
-          "wordCount": 3717,
-          "title": "Baseline Status in a WordPress Block",
-          "enclosure": {
-            "url": "https://css-tricks.com/wp-content/uploads/2024/11/Screen-Recording-2024-11-05-at-2.56.06 PM.mp4",
-            "length": "17563755",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/382311"
         }
       ]
     },
@@ -345,6 +340,26 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "67cb4f49e5cd83d2948ab4fe",
+          "author": "Quincy Larson",
+          "description": "On this week's episode of the podcast, I interview Caleb Curry. He's a software engineer and prolific computer science educator. He recently started mentoring dozens of developers directly and helping them with their skills and careers. We talk about...",
+          "link": "https://www.freecodecamp.org/news/learn-fewer-skills-but-go-deeper-the-caleb-curry-interview-podcast-163/",
+          "publishedOn": "2025-03-07T19:55:53.000Z",
+          "wordCount": 1107,
+          "title": "Learn fewer skills but go deeper - the Caleb Curry interview [Podcast #163]",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1741377315559/585b915d-2390-45a7-9f4a-171dc134af5d.png"
+        },
+        {
+          "id": "67cb2cab98825a8b61ca9121",
+          "author": "Chaitanya Rahalkar",
+          "description": "In this tutorial, we’ll build a simplified, AI-flavored SIEM log analysis system using Python. Our focus will be on log analysis and anomaly detection. We’ll walk through ingesting logs, detecting anomalies with a lightweight machine learning model, ...",
+          "link": "https://www.freecodecamp.org/news/how-to-create-a-python-siem-system-using-ai-and-llms/",
+          "publishedOn": "2025-03-07T17:28:11.000Z",
+          "wordCount": 3920,
+          "title": "How to Create a Python SIEM System Using AI and LLMs for Log Analysis and Anomaly Detection",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1741368457380/900d7d5b-cffc-4175-b5a5-4d7361ea383d.png"
+        },
         {
           "id": "67c9e1b1b9163aa35c6dc2ee",
           "author": "Beau Carnes",
@@ -824,36 +839,6 @@
           "wordCount": 2047,
           "title": "What is Polymorphism in Python? Explained with an Example",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1738335631634/ef8f79a0-73df-430c-b955-a5325ca22f04.png"
-        },
-        {
-          "id": "67a3eddcb87640f436f52ba3",
-          "author": "Tatev Aslanyan",
-          "description": "Want to learn how to discover and analyze the hidden patterns within your data? Clustering, an essential technique in Unsupervised Machine Learning, holds the key to discovering valuable insights that can revolutionize your understanding of complex d...",
-          "link": "https://www.freecodecamp.org/news/clustering-in-python-a-machine-learning-handbook/",
-          "publishedOn": "2025-02-05T23:01:48.000Z",
-          "wordCount": 11253,
-          "title": "Learn Clustering in Python – A Machine Learning Engineering Handbook",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1738794333226/0f8cd7d3-54d4-49a3-b864-e3e477446089.png"
-        },
-        {
-          "id": "67a3aa3efc0a24bff2e83e65",
-          "author": "Stefan Muzyka",
-          "description": "If you work with data or plan to in the future, at some point you'll likely need to build a comprehensive analytics dashboard. Sharing data through charts is a great way to provide others with a clearer understanding of this information. Pairing it w...",
-          "link": "https://www.freecodecamp.org/news/build-an-analytical-dashboard-with-nextjs/",
-          "publishedOn": "2025-02-05T18:13:18.000Z",
-          "wordCount": 4081,
-          "title": "How to Build an Analytical Dashboard with Next.js",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1738347998117/46877c78-f5e5-4a94-954e-029b73b8f952.png"
-        },
-        {
-          "id": "67a39f467e716749ae8c7b7e",
-          "author": "EZINNE ANNE EMILIA",
-          "description": "For technical writers, keeping documentation up to date manually can be really frustrating. Issues like outdated guides, broken links, and missing updates are a pain, and they can make writers less productive. These issues can also make it harder for...",
-          "link": "https://www.freecodecamp.org/news/set-up-docs-as-code-with-docusaurus-and-github-actions/",
-          "publishedOn": "2025-02-05T17:26:30.000Z",
-          "wordCount": 3106,
-          "title": "How to Set Up Documentation as Code with Docusaurus and GitHub Actions",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1738248926082/9a2a6855-00d4-4e25-a8bd-c1d645f21de5.png"
         }
       ]
     }

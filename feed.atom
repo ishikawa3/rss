@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-03-07T00:13:29.783Z</updated>
+    <updated>2025-03-08T00:10:47.068Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Learn fewer skills but go deeper - the Caleb Curry interview [Podcast #163]]]></title>
+        <id>67cb4f49e5cd83d2948ab4fe</id>
+        <link href="https://www.freecodecamp.org/news/learn-fewer-skills-but-go-deeper-the-caleb-curry-interview-podcast-163/"/>
+        <updated>2025-03-07T19:55:53.000Z</updated>
+        <summary type="html"><![CDATA[On this week's episode of the podcast, I interview Caleb Curry. He's a software engineer and prolific computer science educator. He recently started mentoring dozens of developers directly and helping them with their skills and careers. We talk about...]]></summary>
+        <author>
+            <name>Quincy Larson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Create a Python SIEM System Using AI and LLMs for Log Analysis and Anomaly Detection]]></title>
+        <id>67cb2cab98825a8b61ca9121</id>
+        <link href="https://www.freecodecamp.org/news/how-to-create-a-python-siem-system-using-ai-and-llms/"/>
+        <updated>2025-03-07T17:28:11.000Z</updated>
+        <summary type="html"><![CDATA[In this tutorial, we’ll build a simplified, AI-flavored SIEM log analysis system using Python. Our focus will be on log analysis and anomaly detection. We’ll walk through ingesting logs, detecting anomalies with a lightweight machine learning model, ...]]></summary>
+        <author>
+            <name>Chaitanya Rahalkar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A CSS-Only Star Rating Component and More! (Part 2)]]></title>
+        <id>https://css-tricks.com/?p=384919</id>
+        <link href="https://css-tricks.com/a-css-only-star-rating-component-and-more-part-2/"/>
+        <updated>2025-03-07T13:14:12.000Z</updated>
+        <summary type="html"><![CDATA[In this second article of a two-part series, Temani Afif demonstrates an alternative approach to creating the star rating component from the first article using experimental scroll-driven animations rather than using the border-image property.
+A CSS-Only Star Rating Component and More! (Part 2) originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Temani Afif</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Learn PyTorch in Five Projects]]></title>
         <id>67c9e1b1b9163aa35c6dc2ee</id>
@@ -750,47 +781,6 @@ Container query units: cqi and cqb originally published on CSS-Tricks, which is 
         <summary type="html"><![CDATA[Polymorphism is an object-oriented programming (OOP) principle that helps you write high quality, flexible, maintainable, reusable, testable, and readable software. If you plan to work with object-oriented software, it is crucial to understand polymo...]]></summary>
         <author>
             <name>Danny</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn Clustering in Python – A Machine Learning Engineering Handbook]]></title>
-        <id>67a3eddcb87640f436f52ba3</id>
-        <link href="https://www.freecodecamp.org/news/clustering-in-python-a-machine-learning-handbook/"/>
-        <updated>2025-02-05T23:01:48.000Z</updated>
-        <summary type="html"><![CDATA[Want to learn how to discover and analyze the hidden patterns within your data? Clustering, an essential technique in Unsupervised Machine Learning, holds the key to discovering valuable insights that can revolutionize your understanding of complex d...]]></summary>
-        <author>
-            <name>Tatev Aslanyan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build an Analytical Dashboard with Next.js]]></title>
-        <id>67a3aa3efc0a24bff2e83e65</id>
-        <link href="https://www.freecodecamp.org/news/build-an-analytical-dashboard-with-nextjs/"/>
-        <updated>2025-02-05T18:13:18.000Z</updated>
-        <summary type="html"><![CDATA[If you work with data or plan to in the future, at some point you'll likely need to build a comprehensive analytics dashboard. Sharing data through charts is a great way to provide others with a clearer understanding of this information. Pairing it w...]]></summary>
-        <author>
-            <name>Stefan Muzyka</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Set Up Documentation as Code with Docusaurus and GitHub Actions]]></title>
-        <id>67a39f467e716749ae8c7b7e</id>
-        <link href="https://www.freecodecamp.org/news/set-up-docs-as-code-with-docusaurus-and-github-actions/"/>
-        <updated>2025-02-05T17:26:30.000Z</updated>
-        <summary type="html"><![CDATA[For technical writers, keeping documentation up to date manually can be really frustrating. Issues like outdated guides, broken links, and missing updates are a pain, and they can make writers less productive. These issues can also make it harder for...]]></summary>
-        <author>
-            <name>EZINNE ANNE EMILIA</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Baseline Status in a WordPress Block]]></title>
-        <id>https://css-tricks.com/?p=382311</id>
-        <link href="https://css-tricks.com/baseline-status-in-a-wordpress-block/"/>
-        <updated>2025-02-05T14:58:18.000Z</updated>
-        <summary type="html"><![CDATA[The steps for how I took the Baseline Status web component and made it into a WordPress block that can be used on any page of post.
-Baseline Status in a WordPress Block originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
         </author>
     </entry>
 </feed>
