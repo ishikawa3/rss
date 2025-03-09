@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-03-08T00:10:47.068Z</updated>
+    <updated>2025-03-09T00:12:08.815Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Learn Software Design Basics: Key Phases and Best Practices]]></title>
+        <id>67cb6446f54b40e1e9144db0</id>
+        <link href="https://www.freecodecamp.org/news/learn-software-design-basics/"/>
+        <updated>2025-03-07T21:25:26.000Z</updated>
+        <summary type="html"><![CDATA[Coding has become one of the most common tasks in modern society. With computers now central to almost every field, more people are designing algorithms and writing code to solve various problems. From healthcare to finance, robust software systems p...]]></summary>
+        <author>
+            <name>Soham Banerjee</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Learn fewer skills but go deeper - the Caleb Curry interview [Podcast #163]]]></title>
         <id>67cb4f49e5cd83d2948ab4fe</id>
@@ -740,47 +750,6 @@ Make Any File a Template Using This Hidden macOS Tool originally published on CS
         <summary type="html"><![CDATA[Tomasz Jakut reflects on the evolution of web design, from the days of table-based layouts and Flash games to the rise of responsive web design (RWD), which often feels like the end of history in web layout. But as 2025 marks the 15th anniversary of Ethan Marcotte’s article, it’s worth asking whether something significant happened after RWD — something so seamless that it went almost unnoticed.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Tomasz Jakut)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Integrate RTK Query with Redux Toolkit: A Step-by-Step Guide for React Developers]]></title>
-        <id>67a4fbc311e2c2609ca60771</id>
-        <link href="https://www.freecodecamp.org/news/how-to-integrate-rtk-query-with-redux-toolkit/"/>
-        <updated>2025-02-06T18:13:23.000Z</updated>
-        <summary type="html"><![CDATA[Redux is a state management library for JavaScript applications. It lets you create applications that behave in a predictable manner and run on different environments, including server and native environments. Redux Toolkit is the recommended way to ...]]></summary>
-        <author>
-            <name>Chidera Humphrey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI Engineering Roadmap]]></title>
-        <id>67a4da7c28544da5426abc94</id>
-        <link href="https://www.freecodecamp.org/news/ai-engineering-roadmap/"/>
-        <updated>2025-02-06T15:51:24.000Z</updated>
-        <summary type="html"><![CDATA[Artificial Intelligence is rapidly transforming industries, and AI Engineers are at the forefront of this revolution. If you’re looking to break into AI Engineering or advance your skills, having a clear roadmap is essential. Mastering AI requires a ...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Container query units: cqi and cqb]]></title>
-        <id>https://css-tricks.com/?p=384468</id>
-        <link href="https://css-tricks.com/container-query-units-cqi-and-cqb/"/>
-        <updated>2025-02-06T15:29:35.000Z</updated>
-        <summary type="html"><![CDATA[A little gem from Kevin Powell's "HTML & CSS Tip of the Week" website, reminding us that using container queries opens up container query units for sizing things based on the size of the queried container.
-Container query units: cqi and cqb originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is Polymorphism in Python? Explained with an Example]]></title>
-        <id>67a4d16ab891dd1403996d28</id>
-        <link href="https://www.freecodecamp.org/news/what-is-polymorphism-in-python-example/"/>
-        <updated>2025-02-06T15:12:42.000Z</updated>
-        <summary type="html"><![CDATA[Polymorphism is an object-oriented programming (OOP) principle that helps you write high quality, flexible, maintainable, reusable, testable, and readable software. If you plan to work with object-oriented software, it is crucial to understand polymo...]]></summary>
-        <author>
-            <name>Danny</name>
         </author>
     </entry>
 </feed>

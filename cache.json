@@ -165,16 +165,6 @@
           "wordCount": 1894,
           "title": "Make Any File a Template Using This Hidden macOS Tool",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/384563"
-        },
-        {
-          "id": "https://css-tricks.com/?p=384468",
-          "author": "Geoff Graham",
-          "description": "A little gem from Kevin Powell's \"HTML & CSS Tip of the Week\" website, reminding us that using container queries opens up container query units for sizing things based on the size of the queried container.\nContainer query units: cqi and cqb originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/container-query-units-cqi-and-cqb/",
-          "publishedOn": "2025-02-06T15:29:35.000Z",
-          "wordCount": 1971,
-          "title": "Container query units: cqi and cqb",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/384468"
         }
       ]
     },
@@ -340,6 +330,16 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "67cb6446f54b40e1e9144db0",
+          "author": "Soham Banerjee",
+          "description": "Coding has become one of the most common tasks in modern society. With computers now central to almost every field, more people are designing algorithms and writing code to solve various problems. From healthcare to finance, robust software systems p...",
+          "link": "https://www.freecodecamp.org/news/learn-software-design-basics/",
+          "publishedOn": "2025-03-07T21:25:26.000Z",
+          "wordCount": 4914,
+          "title": "Learn Software Design Basics: Key Phases and Best Practices",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1741188275855/9858518f-38c0-4e3b-8be1-7c56b68c77a7.png"
+        },
         {
           "id": "67cb4f49e5cd83d2948ab4fe",
           "author": "Quincy Larson",
@@ -809,36 +809,6 @@
           "wordCount": 9940,
           "title": "Learn TypeScript – A Handbook for Developers",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1738941922431/cfb485ae-1c59-415a-ad56-393a9803d4d8.png"
-        },
-        {
-          "id": "67a4fbc311e2c2609ca60771",
-          "author": "Chidera Humphrey",
-          "description": "Redux is a state management library for JavaScript applications. It lets you create applications that behave in a predictable manner and run on different environments, including server and native environments. Redux Toolkit is the recommended way to ...",
-          "link": "https://www.freecodecamp.org/news/how-to-integrate-rtk-query-with-redux-toolkit/",
-          "publishedOn": "2025-02-06T18:13:23.000Z",
-          "wordCount": 4629,
-          "title": "How to Integrate RTK Query with Redux Toolkit: A Step-by-Step Guide for React Developers",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1738854615563/3357bd11-3fcd-43b3-b459-b0e8b60e853d.png"
-        },
-        {
-          "id": "67a4da7c28544da5426abc94",
-          "author": "Beau Carnes",
-          "description": "Artificial Intelligence is rapidly transforming industries, and AI Engineers are at the forefront of this revolution. If you’re looking to break into AI Engineering or advance your skills, having a clear roadmap is essential. Mastering AI requires a ...",
-          "link": "https://www.freecodecamp.org/news/ai-engineering-roadmap/",
-          "publishedOn": "2025-02-06T15:51:24.000Z",
-          "wordCount": 1233,
-          "title": "AI Engineering Roadmap",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1738857015537/9b6809b3-0846-4891-bfbe-52763398238d.png"
-        },
-        {
-          "id": "67a4d16ab891dd1403996d28",
-          "author": "Danny",
-          "description": "Polymorphism is an object-oriented programming (OOP) principle that helps you write high quality, flexible, maintainable, reusable, testable, and readable software. If you plan to work with object-oriented software, it is crucial to understand polymo...",
-          "link": "https://www.freecodecamp.org/news/what-is-polymorphism-in-python-example/",
-          "publishedOn": "2025-02-06T15:12:42.000Z",
-          "wordCount": 2047,
-          "title": "What is Polymorphism in Python? Explained with an Example",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1738335631634/ef8f79a0-73df-430c-b955-a5325ca22f04.png"
         }
       ]
     }
