@@ -307,21 +307,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/popular-wordpress-theme-term-hero-section/popular-wordpress-theme-term-hero-section.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2025/02/taking-rwd-to-the-extreme/",
-          "author": "hello@smashingmagazine.com (Tomasz Jakut)",
-          "description": "Tomasz Jakut reflects on the evolution of web design, from the days of table-based layouts and Flash games to the rise of responsive web design (RWD), which often feels like the end of history in web layout. But as 2025 marks the 15th anniversary of Ethan Marcotte’s article, it’s worth asking whether something significant happened after RWD — something so seamless that it went almost unnoticed.",
-          "link": "https://smashingmagazine.com/2025/02/taking-rwd-to-the-extreme/",
-          "publishedOn": "2025-02-07T13:00:00.000Z",
-          "wordCount": 5720,
-          "title": "Taking RWD To The Extreme",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/taking-rwd-to-the-extreme/taking-rwd-to-the-extreme.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/taking-rwd-to-the-extreme/taking-rwd-to-the-extreme.jpg"
         }
       ]
     },
@@ -769,46 +754,6 @@
           "wordCount": 2169,
           "title": "What Are Logs in Programming?",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1738685115991/600c01b6-b031-4ce9-a77a-5d88fcdaa68a.png"
-        },
-        {
-          "id": "67a689db1b3d34453f8da64a",
-          "author": "Quincy Larson",
-          "description": "On this week's episode of the podcast, I interview Peggy Wang. She used freeCodeCamp to learn coding. She then worked in Big Tech as a robotics engineer. And now she's cofounder and CTO of Ego AI, a Y-Combinator-backed startup that builds human-like ...",
-          "link": "https://www.freecodecamp.org/news/from-freecodecamp-to-cto-with-robotics-engineer-peggy-wang-podcast-159/",
-          "publishedOn": "2025-02-07T22:31:55.000Z",
-          "wordCount": 1144,
-          "title": "From freeCodeCamp to CTO with Robotics Engineer Peggy Wang [Podcast #159]",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1738967132406/6ab8c7bb-397a-42b3-bb91-ff9c4842ead0.png"
-        },
-        {
-          "id": "67a62fc9c3ae66ee9e7a4b3e",
-          "author": "P S Mohammed Ali",
-          "description": "In today's digital world, almost every activity we engage in is intertwined with technology. From making payments via UPI and booking movie or travel tickets online to selling products through e-commerce platforms, technology has become an integral p...",
-          "link": "https://www.freecodecamp.org/news/beginners-guide-to-penetration-testing-cybersecurity/",
-          "publishedOn": "2025-02-07T16:07:37.000Z",
-          "wordCount": 2609,
-          "title": "What is Penetration Testing in Cybersecurity? A Beginner's Guide",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1738941455446/843335c0-35a3-4173-bd4c-7baf0e630e8e.png"
-        },
-        {
-          "id": "67a627bfaf028c3f4ba71a05",
-          "author": "German Cocca",
-          "description": "In the world of JavaScript development, npm (Node Package Manager) has become an essential tool for managing dependencies and sharing reusable code. Whether you're building a simple website or a complex web application, npm libraries help streamline ...",
-          "link": "https://www.freecodecamp.org/news/how-to-create-an-npm-library/",
-          "publishedOn": "2025-02-07T15:33:19.000Z",
-          "wordCount": 4618,
-          "title": "How to Create an npm Library",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1738941301640/7189d889-387d-4bd2-bf5c-2cbcbd17faad.png"
-        },
-        {
-          "id": "67a62638dd67e262dbd96da1",
-          "author": "oghenekparobo Stephen",
-          "description": "This handbook will teach you the basics of TypeScript, including what it is, why it is useful, and the key features it offers. TypeScript was created by Anders Hejlsberg, a prominent software engineer at Microsoft who’s also known for his work on C# ...",
-          "link": "https://www.freecodecamp.org/news/learn-typescript-with-react-handbook/",
-          "publishedOn": "2025-02-07T15:26:48.000Z",
-          "wordCount": 9940,
-          "title": "Learn TypeScript – A Handbook for Developers",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1738941922431/cfb485ae-1c59-415a-ad56-393a9803d4d8.png"
         }
       ]
     }

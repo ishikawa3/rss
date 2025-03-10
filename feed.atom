@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-03-09T00:12:08.815Z</updated>
+    <updated>2025-03-10T00:11:37.392Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
@@ -700,56 +700,6 @@ Make Any File a Template Using This Hidden macOS Tool originally published on CS
         <summary type="html"><![CDATA[In 2013, Marcel Moerkens was working on Brooklyn, his WordPress theme, and he needed a way to make it stand out from the pack of other WordPress themes. Little did he know that the intro section he called a “Hero” would become one of the most recognizable patterns in web design today. Here’s how the idea came to life and how it changed everything.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Marcel Moerkens)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[From freeCodeCamp to CTO with Robotics Engineer Peggy Wang [Podcast #159]]]></title>
-        <id>67a689db1b3d34453f8da64a</id>
-        <link href="https://www.freecodecamp.org/news/from-freecodecamp-to-cto-with-robotics-engineer-peggy-wang-podcast-159/"/>
-        <updated>2025-02-07T22:31:55.000Z</updated>
-        <summary type="html"><![CDATA[On this week's episode of the podcast, I interview Peggy Wang. She used freeCodeCamp to learn coding. She then worked in Big Tech as a robotics engineer. And now she's cofounder and CTO of Ego AI, a Y-Combinator-backed startup that builds human-like ...]]></summary>
-        <author>
-            <name>Quincy Larson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is Penetration Testing in Cybersecurity? A Beginner's Guide]]></title>
-        <id>67a62fc9c3ae66ee9e7a4b3e</id>
-        <link href="https://www.freecodecamp.org/news/beginners-guide-to-penetration-testing-cybersecurity/"/>
-        <updated>2025-02-07T16:07:37.000Z</updated>
-        <summary type="html"><![CDATA[In today's digital world, almost every activity we engage in is intertwined with technology. From making payments via UPI and booking movie or travel tickets online to selling products through e-commerce platforms, technology has become an integral p...]]></summary>
-        <author>
-            <name>P S Mohammed Ali</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Create an npm Library]]></title>
-        <id>67a627bfaf028c3f4ba71a05</id>
-        <link href="https://www.freecodecamp.org/news/how-to-create-an-npm-library/"/>
-        <updated>2025-02-07T15:33:19.000Z</updated>
-        <summary type="html"><![CDATA[In the world of JavaScript development, npm (Node Package Manager) has become an essential tool for managing dependencies and sharing reusable code. Whether you're building a simple website or a complex web application, npm libraries help streamline ...]]></summary>
-        <author>
-            <name>German Cocca</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn TypeScript – A Handbook for Developers]]></title>
-        <id>67a62638dd67e262dbd96da1</id>
-        <link href="https://www.freecodecamp.org/news/learn-typescript-with-react-handbook/"/>
-        <updated>2025-02-07T15:26:48.000Z</updated>
-        <summary type="html"><![CDATA[This handbook will teach you the basics of TypeScript, including what it is, why it is useful, and the key features it offers. TypeScript was created by Anders Hejlsberg, a prominent software engineer at Microsoft who’s also known for his work on C# ...]]></summary>
-        <author>
-            <name>oghenekparobo Stephen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Taking RWD To The Extreme]]></title>
-        <id>https://smashingmagazine.com/2025/02/taking-rwd-to-the-extreme/</id>
-        <link href="https://smashingmagazine.com/2025/02/taking-rwd-to-the-extreme/"/>
-        <updated>2025-02-07T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Tomasz Jakut reflects on the evolution of web design, from the days of table-based layouts and Flash games to the rise of responsive web design (RWD), which often feels like the end of history in web layout. But as 2025 marks the 15th anniversary of Ethan Marcotte’s article, it’s worth asking whether something significant happened after RWD — something so seamless that it went almost unnoticed.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Tomasz Jakut)</name>
         </author>
     </entry>
 </feed>
