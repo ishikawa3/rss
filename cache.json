@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=385112",
+          "author": "Geoff Graham",
+          "description": "The videos from Smashing Magazine's recent event on accessibility were just posted the other day. I was invited to host the panel discussion with the speakers, including a couple of personal heroes of mine, Stéphanie Walter and Sarah Fossheim. But I was just as stoked to meet Kardo Ayoub who shared his deeply personal story as a designer with a major visual impairment.\nSmashing Meets Accessibility originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/smashing-meets-accessibility/",
+          "publishedOn": "2025-03-10T15:08:47.000Z",
+          "wordCount": 1805,
+          "title": "Smashing Meets Accessibility",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/03/smashing-meets-a11y.jpg"
+        },
+        {
           "id": "https://css-tricks.com/?p=384919",
           "author": "Temani Afif",
           "description": "In this second article of a two-part series, Temani Afif demonstrates an alternative approach to creating the star rating component from the first article using experimental scroll-driven animations rather than using the border-image property.\nA CSS-Only Star Rating Component and More! (Part 2) originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -315,6 +325,16 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "67cef1f13c2aba931eee9785",
+          "author": "Olabisi Olaoye",
+          "description": "When working with the FormData interface in JavaScript, where data is appended as key/value pairs, there's no built-in way to enforce type safety on the keys you append. This can lead to typos, missing keys, and unexpected runtime errors. But in Type...",
+          "link": "https://www.freecodecamp.org/news/how-to-enforce-type-safety-in-formdata-with-typescript/",
+          "publishedOn": "2025-03-10T14:06:41.000Z",
+          "wordCount": 1815,
+          "title": "How to Enforce Type Safety in FormData with TypeScript",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1741615550682/6e709ad7-f8bb-4d26-acad-02f168d83acc.png"
+        },
         {
           "id": "67cb6446f54b40e1e9144db0",
           "author": "Soham Banerjee",

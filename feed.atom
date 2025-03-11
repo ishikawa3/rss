@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-03-10T00:11:37.392Z</updated>
+    <updated>2025-03-11T00:13:39.287Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Smashing Meets Accessibility]]></title>
+        <id>https://css-tricks.com/?p=385112</id>
+        <link href="https://css-tricks.com/smashing-meets-accessibility/"/>
+        <updated>2025-03-10T15:08:47.000Z</updated>
+        <summary type="html"><![CDATA[The videos from Smashing Magazine's recent event on accessibility were just posted the other day. I was invited to host the panel discussion with the speakers, including a couple of personal heroes of mine, Stéphanie Walter and Sarah Fossheim. But I was just as stoked to meet Kardo Ayoub who shared his deeply personal story as a designer with a major visual impairment.
+Smashing Meets Accessibility originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Enforce Type Safety in FormData with TypeScript]]></title>
+        <id>67cef1f13c2aba931eee9785</id>
+        <link href="https://www.freecodecamp.org/news/how-to-enforce-type-safety-in-formdata-with-typescript/"/>
+        <updated>2025-03-10T14:06:41.000Z</updated>
+        <summary type="html"><![CDATA[When working with the FormData interface in JavaScript, where data is appended as key/value pairs, there's no built-in way to enforce type safety on the keys you append. This can lead to typos, missing keys, and unexpected runtime errors. But in Type...]]></summary>
+        <author>
+            <name>Olabisi Olaoye</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Learn Software Design Basics: Key Phases and Best Practices]]></title>
         <id>67cb6446f54b40e1e9144db0</id>
