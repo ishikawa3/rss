@@ -165,26 +165,6 @@
           "wordCount": 3292,
           "title": "Typecasting and Viewport Transitions in CSS With tan(atan2())",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/384339"
-        },
-        {
-          "id": "https://css-tricks.com/?p=384306",
-          "author": "Ryan Trimble",
-          "description": "I enjoy organizing code and find cascade layers a fantastic way to organize code explicitly as the cascade looks at it. The neat part is, that as much as it helps with \"top-level\" organization, cascade layers can be nested, which allows us to author more precise styles based on the cascade and inheritance.\nOrganizing Design System Component Patterns With CSS Cascade Layers originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/organizing-design-system-component-patterns-with-css-cascade-layers/",
-          "publishedOn": "2025-02-10T14:06:52.000Z",
-          "wordCount": 4019,
-          "title": "Organizing Design System Component Patterns With CSS Cascade Layers",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/384306"
-        },
-        {
-          "id": "https://css-tricks.com/?p=384563",
-          "author": "Geoff Graham",
-          "description": "Stationery Pad is a handy way to nix a step in your workflow if you regularly use document templates on your Mac. The long-standing Finder feature essentially tells a file’s parent application to open a copy of it by default, ensuring that the original file remains unedited.\nMake Any File a Template Using This Hidden macOS Tool originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/make-any-file-a-template-using-this-hidden-macos-tool/",
-          "publishedOn": "2025-02-10T13:54:00.000Z",
-          "wordCount": 1894,
-          "title": "Make Any File a Template Using This Hidden macOS Tool",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/384563"
         }
       ]
     },
@@ -342,21 +322,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/time-to-first-byte-beyond-server-response-time/time-to-first-byte-beyond-server-response-time.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2025/02/popular-wordpress-theme-term-hero-section/",
-          "author": "hello@smashingmagazine.com (Marcel Moerkens)",
-          "description": "In 2013, Marcel Moerkens was working on Brooklyn, his WordPress theme, and he needed a way to make it stand out from the pack of other WordPress themes. Little did he know that the intro section he called a “Hero” would become one of the most recognizable patterns in web design today. Here’s how the idea came to life and how it changed everything.",
-          "link": "https://smashingmagazine.com/2025/02/popular-wordpress-theme-term-hero-section/",
-          "publishedOn": "2025-02-10T13:00:00.000Z",
-          "wordCount": 3866,
-          "title": "How I Created A Popular WordPress Theme And Coined The Term “Hero Section” (Without Realizing It)",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/popular-wordpress-theme-term-hero-section/popular-wordpress-theme-term-hero-section.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/popular-wordpress-theme-term-hero-section/popular-wordpress-theme-term-hero-section.jpg"
         }
       ]
     },
@@ -365,6 +330,26 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "67d1f8cced96446e8fad7db9",
+          "author": "Prankur Pandey",
+          "description": "Whenever I publish a new article, I receive countless emails and DMs across social media asking, \"How can I become a Full Stack Developer like you? How much DSA do I need to know? How long does it take?\" Well, I always say, \"Wait for my next tutorial...",
+          "link": "https://www.freecodecamp.org/news/become-a-full-stack-developer-and-get-a-job/",
+          "publishedOn": "2025-03-12T21:12:44.000Z",
+          "wordCount": 11498,
+          "title": "How to Become a Full-Stack Developer in 2025 (and Get a Job) – A Handbook for Beginners",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1741296524045/6d9bed13-d3bb-4fb3-95ac-45f5dd4f2033.png"
+        },
+        {
+          "id": "67d1f7a9ed7b17e04fb90aa7",
+          "author": "Ben",
+          "description": "I’ve been writing a lot of articles lately on Agile methodologies. And for this one, I wanted to cover how to get the most out of a Sprint Retrospective. I’ve been participating and running Sprint Retrospectives now for 15 years and I truly believe t...",
+          "link": "https://www.freecodecamp.org/news/how-to-run-a-sprint-retrospective-start-stop-continue-method/",
+          "publishedOn": "2025-03-12T21:07:53.000Z",
+          "wordCount": 2204,
+          "title": "How to Run a Sprint Retrospective Using the Start, Stop, Continue Method",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1740494845460/a0181901-d715-49ce-881b-936b1143d341.png"
+        },
         {
           "id": "67cef1f13c2aba931eee9785",
           "author": "Olabisi Olaoye",
