@@ -174,6 +174,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2025/03/how-prevent-wordpress-sql-injection-attacks/",
+          "author": "hello@smashingmagazine.com (Anders Johansson)",
+          "description": "Have you thought about the security risks WordPress websites face? Anders Johansson explores why they are frequent hacker targets and shares how WordPress SQL injection attacks work and how to remove and prevent them.",
+          "link": "https://smashingmagazine.com/2025/03/how-prevent-wordpress-sql-injection-attacks/",
+          "publishedOn": "2025-03-13T08:00:00.000Z",
+          "wordCount": 5235,
+          "title": "How To Prevent WordPress SQL Injection Attacks",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/how-prevent-wordpress-sql-injection-attacks/how-prevent-wordpress-sql-injection-attacks.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/how-prevent-wordpress-sql-injection-attacks/how-prevent-wordpress-sql-injection-attacks.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2025/03/how-to-build-confidence-in-your-ux-work/",
           "author": "hello@smashingmagazine.com (Vitaly Friedman)",
           "description": "UX initiatives are often seen as a disruption rather than a means to solving existing problems in an organization. In this post, we’ll explore how you can build trust for your UX work, gain support, and make a noticeable impact. Part of [Measure UX and Design Impact](https://measure-ux.com/) by yours truly.",
@@ -330,6 +345,26 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "67d2cc837d28795ed4ea4d3e",
+          "author": "Divya Valsala Saratchandran",
+          "description": "Edge computing is a distributed system design that moves computation and data storage to where it’s most required – at the ‘edge’ of the network. Moving these tasks to the edge of the network enables computing in real time, which reduces the cost of ...",
+          "link": "https://www.freecodecamp.org/news/data-synchronization-for-edge-computing/",
+          "publishedOn": "2025-03-13T12:16:03.000Z",
+          "wordCount": 2797,
+          "title": "Data Synchronization for Edge Computing with SymmetricDS",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1741798507678/d66ed2f3-4116-49ce-a4eb-06fcb7c36dc7.png"
+        },
+        {
+          "id": "67d23a5a68fbee7d6b2ec767",
+          "author": "Beau Carnes",
+          "description": "JavaScript is the backbone of modern web development, powering everything from interactive websites to complex web applications. Object-oriented programming (OOP), prototypical inheritance, ES6 classes, Node.js, and asynchronous programming are all k...",
+          "link": "https://www.freecodecamp.org/news/javascript-essentials/",
+          "publishedOn": "2025-03-13T01:52:26.000Z",
+          "wordCount": 1217,
+          "title": "JavaScript Essentials",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1741830729776/b8ebbaab-f0a4-43ae-a820-e305b72072a9.png"
+        },
         {
           "id": "67d1f8cced96446e8fad7db9",
           "author": "Prankur Pandey",
@@ -789,16 +824,6 @@
           "wordCount": 3454,
           "title": "How SSH Authentication with GitHub Works Under the Hood",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1739082652213/aba38efa-117c-4ef7-a844-91599c0a4d62.png"
-        },
-        {
-          "id": "67abe1c4e2819029e77c7459",
-          "author": "Syeda Maham Fahim",
-          "description": "Have you ever run a program, and it crashed? No error messages, no hints, just silence. How do you figure out what went wrong? That's where logging saves the day. Logs keep track of what’s happening inside your code so that when things go wrong, you ...",
-          "link": "https://www.freecodecamp.org/news/what-are-logs-in-programming/",
-          "publishedOn": "2025-02-11T23:48:20.000Z",
-          "wordCount": 2169,
-          "title": "What Are Logs in Programming?",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1738685115991/600c01b6-b031-4ce9-a77a-5d88fcdaa68a.png"
         }
       ]
     }

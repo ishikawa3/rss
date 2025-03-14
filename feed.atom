@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-03-13T00:13:58.145Z</updated>
+    <updated>2025-03-14T00:13:26.760Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Data Synchronization for Edge Computing with SymmetricDS]]></title>
+        <id>67d2cc837d28795ed4ea4d3e</id>
+        <link href="https://www.freecodecamp.org/news/data-synchronization-for-edge-computing/"/>
+        <updated>2025-03-13T12:16:03.000Z</updated>
+        <summary type="html"><![CDATA[Edge computing is a distributed system design that moves computation and data storage to where it’s most required – at the ‘edge’ of the network. Moving these tasks to the edge of the network enables computing in real time, which reduces the cost of ...]]></summary>
+        <author>
+            <name>Divya Valsala Saratchandran</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Prevent WordPress SQL Injection Attacks]]></title>
+        <id>https://smashingmagazine.com/2025/03/how-prevent-wordpress-sql-injection-attacks/</id>
+        <link href="https://smashingmagazine.com/2025/03/how-prevent-wordpress-sql-injection-attacks/"/>
+        <updated>2025-03-13T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Have you thought about the security risks WordPress websites face? Anders Johansson explores why they are frequent hacker targets and shares how WordPress SQL injection attacks work and how to remove and prevent them.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Anders Johansson)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JavaScript Essentials]]></title>
+        <id>67d23a5a68fbee7d6b2ec767</id>
+        <link href="https://www.freecodecamp.org/news/javascript-essentials/"/>
+        <updated>2025-03-13T01:52:26.000Z</updated>
+        <summary type="html"><![CDATA[JavaScript is the backbone of modern web development, powering everything from interactive websites to complex web applications. Object-oriented programming (OOP), prototypical inheritance, ES6 classes, Node.js, and asynchronous programming are all k...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Become a Full-Stack Developer in 2025 (and Get a Job) – A Handbook for Beginners]]></title>
         <id>67d1f8cced96446e8fad7db9</id>
@@ -730,16 +760,6 @@ Scroll Driven Animations Notebook originally published on CSS-Tricks, which is p
 Typecasting and Viewport Transitions in CSS With tan(atan2()) originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Juan Diego Rodríguez</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Are Logs in Programming?]]></title>
-        <id>67abe1c4e2819029e77c7459</id>
-        <link href="https://www.freecodecamp.org/news/what-are-logs-in-programming/"/>
-        <updated>2025-02-11T23:48:20.000Z</updated>
-        <summary type="html"><![CDATA[Have you ever run a program, and it crashed? No error messages, no hints, just silence. How do you figure out what went wrong? That's where logging saves the day. Logs keep track of what’s happening inside your code so that when things go wrong, you ...]]></summary>
-        <author>
-            <name>Syeda Maham Fahim</name>
         </author>
     </entry>
 </feed>
