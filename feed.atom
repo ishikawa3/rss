@@ -2,10 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-03-14T00:13:26.760Z</updated>
+    <updated>2025-03-15T00:13:21.451Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Connect, Read, and Process Sensor Data on Microcontrollers – A Beginner's Guide]]></title>
+        <id>67d45997c9e7f2d42bb1c540</id>
+        <link href="https://www.freecodecamp.org/news/connect-read-process-sensor-data-on-microcontrollers-for-beginners/"/>
+        <updated>2025-03-14T16:30:15.000Z</updated>
+        <summary type="html"><![CDATA[In today’s world, computers are ubiquitous and generally serve two primary purposes. The first is general-purpose computing, where they handle a wide range of tasks, including running diverse applications and programs. Examples include laptops, deskt...]]></summary>
+        <author>
+            <name>Soham Banerjee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Web Components Demystified]]></title>
+        <id>https://css-tricks.com/?p=383422</id>
+        <link href="https://css-tricks.com/web-components-demystified/"/>
+        <updated>2025-03-14T12:51:59.000Z</updated>
+        <summary type="html"><![CDATA[Scott Jehl released a course called Web Components Demystified. This is my full set of notes from Scott's course. You'll still want to take the course on your own, and I encourage you to because Scott is an excellent teacher who makes all of this stuff extremely accessible, even to noobs like me.
+Web Components Demystified originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn AWS Incognito for Authentication]]></title>
+        <id>67d38995d1f16f987c9eb503</id>
+        <link href="https://www.freecodecamp.org/news/learn-aws-incognito-for-authentication/"/>
+        <updated>2025-03-14T01:42:45.000Z</updated>
+        <summary type="html"><![CDATA[Whether you're building a web app, mobile app, or API, understanding how to implement robust authentication and authorization is a critical skill. AWS Cognito is a powerful ability that simplifies user management, authentication, and access control, ...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Exploit the EternalBlue Vulnerability on Windows – A Step-by-Step Guide]]></title>
+        <id>67d35b3cba576fa68285a197</id>
+        <link href="https://www.freecodecamp.org/news/how-to-exploit-the-eternalblue-vulnerability-on-windows/"/>
+        <updated>2025-03-13T22:25:00.000Z</updated>
+        <summary type="html"><![CDATA[If you’ve followed cybersecurity news over the past few years, you’ve likely come across EternalBlue. This critical Windows exploit played a key role in the widespread WannaCry ransomware attack that affected systems in over 150 countries. In this ar...]]></summary>
+        <author>
+            <name>Manish Shivanandhan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Data Synchronization for Edge Computing with SymmetricDS]]></title>
         <id>67d2cc837d28795ed4ea4d3e</id>
@@ -709,57 +750,6 @@ Handwriting an SVG Heart, With Our Hearts originally published on CSS-Tricks, wh
 Scroll Driven Animations Notebook originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Test And Measure Content In UX]]></title>
-        <id>https://smashingmagazine.com/2025/02/how-to-test-and-measure-content-in-ux/</id>
-        <link href="https://smashingmagazine.com/2025/02/how-to-test-and-measure-content-in-ux/"/>
-        <updated>2025-02-13T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The goal of content design is to reduce confusion and improve clarity. Yet often it’s difficult to pinpoint a problem as user feedback tends to be not specific enough. But: we can use a few simple techniques to assess how users understand and perceive content. Let’s take a look. Part of [Smart Interface Design Patterns](https://smart-interface-design-patterns.com) by yours truly.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JavaScript Tutorial – How to Set Up a Front End Development Project]]></title>
-        <id>66c4c80d6e4b60b5b844529e</id>
-        <link href="https://www.freecodecamp.org/news/how-to-set-up-a-front-end-development-project/"/>
-        <updated>2025-02-12T21:44:03.000Z</updated>
-        <summary type="html"><![CDATA[Let’s say you plan to build a website. Before you start, you want to set up a few tools to make your life easier. But which tools should you have? The JavaScript ecosystem is changing so fast that it can be overwhelming to pick the best tools to use....]]></summary>
-        <author>
-            <name>Hunor Márton Borbély</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How SSH Authentication with GitHub Works Under the Hood]]></title>
-        <id>67ace33e18a2c0de81d7ffc3</id>
-        <link href="https://www.freecodecamp.org/news/ssh-authentication-with-github-under-the-hood/"/>
-        <updated>2025-02-12T18:06:54.000Z</updated>
-        <summary type="html"><![CDATA[SSH (Secure Shell) is a client-server protocol for connecting and authenticating to a remote server. Authentication means that the remote server can verify that it’s actually you and not somebody else talking on your behalf. You may already be using ...]]></summary>
-        <author>
-            <name>Vivek Agrawal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Time To First Byte: Beyond Server Response Time]]></title>
-        <id>https://smashingmagazine.com/2025/02/time-to-first-byte-beyond-server-response-time/</id>
-        <link href="https://smashingmagazine.com/2025/02/time-to-first-byte-beyond-server-response-time/"/>
-        <updated>2025-02-12T17:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Optimizing web performance means looking beyond surface-level metrics. Time to First Byte (TTFB) is crucial, but improving it requires more than tweaking server response time. Matt Zeunert breaks down what TTFB is, what causes its poor score, and why reducing server response time alone isn’t enough for optimization and often won’t be the most impactful change you can make to your website.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Matt Zeunert)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Typecasting and Viewport Transitions in CSS With tan(atan2())]]></title>
-        <id>https://css-tricks.com/?p=384339</id>
-        <link href="https://css-tricks.com/typecasting-and-viewport-transitions-in-css-with-tanatan2/"/>
-        <updated>2025-02-12T14:15:28.000Z</updated>
-        <summary type="html"><![CDATA[We’ve been able to get the length of the viewport in CSS since… checks notes… 2013! Surprisingly, that was more than a decade ago. Getting the viewport width is as easy these days as easy as writing 100vw, but …
-Typecasting and Viewport Transitions in CSS With tan(atan2()) originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Juan Diego Rodríguez</name>
         </author>
     </entry>
 </feed>
