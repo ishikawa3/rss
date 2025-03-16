@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-03-15T00:13:21.451Z</updated>
+    <updated>2025-03-16T00:15:05.847Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to become a self-taught developer while supporting a family [Podcast #164]]]></title>
+        <id>67d4a92df560badb8e1f0360</id>
+        <link href="https://www.freecodecamp.org/news/how-to-become-a-self-taught-developer-while-supporting-a-family-podcast-164/"/>
+        <updated>2025-03-14T22:09:49.000Z</updated>
+        <summary type="html"><![CDATA[On this week's episode of the podcast, I interview Jesse Hall. He's software engineer and a developer advocate at MongoDB. He taught himself to code while raising kids and working on the Best Buy Geek Squad fixing computers. Jesse has created tons of...]]></summary>
+        <author>
+            <name>Quincy Larson</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Connect, Read, and Process Sensor Data on Microcontrollers – A Beginner's Guide]]></title>
         <id>67d45997c9e7f2d42bb1c540</id>
@@ -699,57 +709,6 @@ The What If Machine: Bringing the “Iffy” Future of CSS into the Present orig
 Handwriting an SVG Heart, With Our Hearts originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Ryan Trimble</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Cybersecurity Skills Are Important for Front-End Developers]]></title>
-        <id>67ae836a9d7e6c0ddc4469ad</id>
-        <link href="https://www.freecodecamp.org/news/cybersecurity-for-front-end-developers/"/>
-        <updated>2025-02-13T23:42:34.000Z</updated>
-        <summary type="html"><![CDATA[These days, cyberattacks are growing concerns that everyone on a development team should be aware of. This means that if you’re a developer, you should learn some basic cybersecurity skills. After all, cyber attackers are typically developers themsel...]]></summary>
-        <author>
-            <name>Alex Tray</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Build a Memory Game in React]]></title>
-        <id>67ae2e50ada6ade0c6abd144</id>
-        <link href="https://www.freecodecamp.org/news/build-a-memory-game-in-react/"/>
-        <updated>2025-02-13T17:39:28.000Z</updated>
-        <summary type="html"><![CDATA[Building interactive and accessible web applications is a crucial skill for modern developers. React, one of the most popular JavaScript libraries, provides a powerful way to create dynamic user interfaces. A great way to deepen your understanding of...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn A-Level Computer Science Concepts]]></title>
-        <id>67ae2dae801148b110575d1c</id>
-        <link href="https://www.freecodecamp.org/news/learn-a-level-computer-science-concepts/"/>
-        <updated>2025-02-13T17:36:46.000Z</updated>
-        <summary type="html"><![CDATA[Understanding fundamental programming concepts is crucial for success in computer science, especially for students preparing for the Cambridge A-Level Computer Science exam. Mastering these topics not only helps in exams but also builds a strong foun...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Write Tests Using the Node.js Test Runner and mongodb-memory-server]]></title>
-        <id>67ae1ed03cb7bcfa7a1a3530</id>
-        <link href="https://www.freecodecamp.org/news/how-to-write-tests-using-the-nodejs-test-runner-and-mongodb-memory-server/"/>
-        <updated>2025-02-13T16:33:20.000Z</updated>
-        <summary type="html"><![CDATA[I recently migrated some tests from Jest to the Node.js test runner in two of my projects that use MongoDB. In one of those projects, test runtime was reduced from 107 seconds to 25 seconds (screenshot below). In the other project, test runtime was r...]]></summary>
-        <author>
-            <name>Orim Dominic Adah</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Scroll Driven Animations Notebook]]></title>
-        <id>https://css-tricks.com/?p=384634</id>
-        <link href="https://css-tricks.com/scroll-driven-animations-notebook/"/>
-        <updated>2025-02-13T13:24:29.000Z</updated>
-        <summary type="html"><![CDATA[Adam’s such a mad scientist with CSS. He’s been putting together a series of “notebooks” that make it easy for him to demo code. He’s got one for gradient text, one for a comparison slider, another for accordions…
-Scroll Driven Animations Notebook originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
         </author>
     </entry>
 </feed>
