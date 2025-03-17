@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-03-16T00:15:05.847Z</updated>
+    <updated>2025-03-17T00:14:34.557Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
@@ -688,27 +688,6 @@ The What If Machine: Bringing the “Iffy” Future of CSS into the Present orig
         <summary type="html"><![CDATA[Building an authentication system can be complex, often requiring a server to store user data. Sometimes, you need a faster, easier solution. For those new to development or without technical expertise, managing servers, databases, and user logins ca...]]></summary>
         <author>
             <name>Ijeoma Igboagu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[She taught herself coding at age 30 for zero dollars [Podcast #160]]]></title>
-        <id>67afede38299e397dc71768b</id>
-        <link href="https://www.freecodecamp.org/news/she-taught-herself-coding-at-age-30-for-zero-dollars-podcast-160/"/>
-        <updated>2025-02-15T01:29:07.000Z</updated>
-        <summary type="html"><![CDATA[On this week's episode of the podcast, I interview Julia Undeutsch who is a self-taught software engineer and accessibility specialist. She works at a big European company making software more accessible for people with disabilities. Julia taught her...]]></summary>
-        <author>
-            <name>Quincy Larson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Handwriting an SVG Heart, With Our Hearts]]></title>
-        <id>https://css-tricks.com/?p=384495</id>
-        <link href="https://css-tricks.com/handwriting-an-svg-heart-with-our-hearts/"/>
-        <updated>2025-02-14T13:25:12.000Z</updated>
-        <summary type="html"><![CDATA[A while back on CSS-Tricks, we shared several ways to draw hearts, and the response was dreamy. Now, to show my love, I wanted to do something personal, something crafty, something with a mild amount of effort.
-Handwriting an SVG Heart, With Our Hearts originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Ryan Trimble</name>
         </author>
     </entry>
 </feed>

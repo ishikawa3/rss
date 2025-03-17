@@ -145,16 +145,6 @@
           "wordCount": 3346,
           "title": "The What If Machine: Bringing the “Iffy” Future of CSS into the Present",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/384446"
-        },
-        {
-          "id": "https://css-tricks.com/?p=384495",
-          "author": "Ryan Trimble",
-          "description": "A while back on CSS-Tricks, we shared several ways to draw hearts, and the response was dreamy. Now, to show my love, I wanted to do something personal, something crafty, something with a mild amount of effort.\nHandwriting an SVG Heart, With Our Hearts originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/handwriting-an-svg-heart-with-our-hearts/",
-          "publishedOn": "2025-02-14T13:25:12.000Z",
-          "wordCount": 2371,
-          "title": "Handwriting an SVG Heart, With Our Hearts",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/384495"
         }
       ]
     },
@@ -754,16 +744,6 @@
           "wordCount": 3204,
           "title": "What is Backend as a Service (BaaS)? A Beginner's Guide",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1739291731037/169ad924-9bcb-4af2-9281-fad2488a868d.png"
-        },
-        {
-          "id": "67afede38299e397dc71768b",
-          "author": "Quincy Larson",
-          "description": "On this week's episode of the podcast, I interview Julia Undeutsch who is a self-taught software engineer and accessibility specialist. She works at a big European company making software more accessible for people with disabilities. Julia taught her...",
-          "link": "https://www.freecodecamp.org/news/she-taught-herself-coding-at-age-30-for-zero-dollars-podcast-160/",
-          "publishedOn": "2025-02-15T01:29:07.000Z",
-          "wordCount": 1053,
-          "title": "She taught herself coding at age 30 for zero dollars [Podcast #160]",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1739582603136/eebe10ab-edc5-4bf3-af50-38e1c8081415.png"
         }
       ]
     }
