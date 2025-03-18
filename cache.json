@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=384529",
+          "author": "Juan Diego Rodríguez",
+          "description": "Going from the most basic ways to style lists directly in HTML to advanced customization techniques that are even capable of making things that aren't lists look like lists.\nStyling Counters in CSS originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/styling-counters-in-css/",
+          "publishedOn": "2025-03-17T16:25:04.000Z",
+          "wordCount": 7351,
+          "title": "Styling Counters in CSS",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/03/guide-styling-counters-2.jpg"
+        },
+        {
           "id": "https://css-tricks.com/?p=383422",
           "author": "Geoff Graham",
           "description": "Scott Jehl released a course called Web Components Demystified. This is my full set of notes from Scott's course. You'll still want to take the course on your own, and I encourage you to because Scott is an excellent teacher who makes all of this stuff extremely accessible, even to noobs like me.\nWeb Components Demystified originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -154,6 +164,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2025/03/web-components-vs-framework-components/",
+          "author": "hello@smashingmagazine.com (Gabriel Shoyombo)",
+          "description": "Some critics question the agnostic nature of Web Components, with some even arguing that they are not real components. Gabriel Shoyomboa explores this topic in-depth, comparing Web Components and framework components, highlighting their strengths and trade-offs, and evaluating their performance.",
+          "link": "https://smashingmagazine.com/2025/03/web-components-vs-framework-components/",
+          "publishedOn": "2025-03-17T10:00:00.000Z",
+          "wordCount": 4546,
+          "title": "Web Components Vs. Framework Components: What’s The Difference?",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/web-components-vs-framework-components/web-components-vs-framework-components.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/web-components-vs-framework-components/web-components-vs-framework-components.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2025/03/how-prevent-wordpress-sql-injection-attacks/",
           "author": "hello@smashingmagazine.com (Anders Johansson)",
           "description": "Have you thought about the security risks WordPress websites face? Anders Johansson explores why they are frequent hacker targets and shares how WordPress SQL injection attacks work and how to remove and prevent them.",
@@ -295,6 +320,36 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "67d87353b13a6fd9fb559ada",
+          "author": "Gursimar Singh",
+          "description": "Modern infrastructure requires continuous monitoring and rapid incident response. However, manually configuring and managing alerts is not only labor-intensive but also susceptible to human error. Automating alert provisioning allows you to enforce c...",
+          "link": "https://www.freecodecamp.org/news/automate-alert-provisioning-with-the-signoz-terraform-provider/",
+          "publishedOn": "2025-03-17T19:09:07.000Z",
+          "wordCount": 3137,
+          "title": "How to Automate Alert Provisioning with the SigNoz Terraform Provider",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1742237716002/3e7d07f8-39f7-45ba-aac3-d421f61a8785.png"
+        },
+        {
+          "id": "67d84f228d156200bc7d3d8c",
+          "author": "Soham Banerjee",
+          "description": "Buffer overflows are one of the most serious software bugs, especially in embedded systems, where hardware limitations and real-time execution make them hard to detect and fix. A buffer overflow happens when a program writes more data into a buffer t...",
+          "link": "https://www.freecodecamp.org/news/how-to-debug-and-prevent-buffer-overflows-in-embedded-systems/",
+          "publishedOn": "2025-03-17T16:34:42.000Z",
+          "wordCount": 5194,
+          "title": "How to Debug and Prevent Buffer Overflows in Embedded Systems",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1742229245130/858b21cc-443e-43ee-82ce-091438f6c5c0.png"
+        },
+        {
+          "id": "67d8272af45871e3e821d5fa",
+          "author": "Elabonga Atuo",
+          "description": "Web scraping lets you automatically extract data from websites, so you can store it in a structured format for later use. In this article, you'll explore how to use popular R libraries for web scraping to extract data from a website. The target websi...",
+          "link": "https://www.freecodecamp.org/news/web-scraping-with-rselenium-chrome-driver-and-rvest/",
+          "publishedOn": "2025-03-17T13:44:10.000Z",
+          "wordCount": 3704,
+          "title": "Web Scraping With RSelenium (Chrome Driver) and Rvest",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1742219025681/47c07711-cfa5-482f-a72b-d127bc5b63bc.png"
+        },
         {
           "id": "67d4a92df560badb8e1f0360",
           "author": "Quincy Larson",

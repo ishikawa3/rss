@@ -2,10 +2,61 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-03-17T00:14:34.557Z</updated>
+    <updated>2025-03-18T00:13:29.640Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Automate Alert Provisioning with the SigNoz Terraform Provider]]></title>
+        <id>67d87353b13a6fd9fb559ada</id>
+        <link href="https://www.freecodecamp.org/news/automate-alert-provisioning-with-the-signoz-terraform-provider/"/>
+        <updated>2025-03-17T19:09:07.000Z</updated>
+        <summary type="html"><![CDATA[Modern infrastructure requires continuous monitoring and rapid incident response. However, manually configuring and managing alerts is not only labor-intensive but also susceptible to human error. Automating alert provisioning allows you to enforce c...]]></summary>
+        <author>
+            <name>Gursimar Singh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Debug and Prevent Buffer Overflows in Embedded Systems]]></title>
+        <id>67d84f228d156200bc7d3d8c</id>
+        <link href="https://www.freecodecamp.org/news/how-to-debug-and-prevent-buffer-overflows-in-embedded-systems/"/>
+        <updated>2025-03-17T16:34:42.000Z</updated>
+        <summary type="html"><![CDATA[Buffer overflows are one of the most serious software bugs, especially in embedded systems, where hardware limitations and real-time execution make them hard to detect and fix. A buffer overflow happens when a program writes more data into a buffer t...]]></summary>
+        <author>
+            <name>Soham Banerjee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Styling Counters in CSS]]></title>
+        <id>https://css-tricks.com/?p=384529</id>
+        <link href="https://css-tricks.com/styling-counters-in-css/"/>
+        <updated>2025-03-17T16:25:04.000Z</updated>
+        <summary type="html"><![CDATA[Going from the most basic ways to style lists directly in HTML to advanced customization techniques that are even capable of making things that aren't lists look like lists.
+Styling Counters in CSS originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Juan Diego Rodríguez</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Web Scraping With RSelenium (Chrome Driver) and Rvest]]></title>
+        <id>67d8272af45871e3e821d5fa</id>
+        <link href="https://www.freecodecamp.org/news/web-scraping-with-rselenium-chrome-driver-and-rvest/"/>
+        <updated>2025-03-17T13:44:10.000Z</updated>
+        <summary type="html"><![CDATA[Web scraping lets you automatically extract data from websites, so you can store it in a structured format for later use. In this article, you'll explore how to use popular R libraries for web scraping to extract data from a website. The target websi...]]></summary>
+        <author>
+            <name>Elabonga Atuo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Web Components Vs. Framework Components: What’s The Difference?]]></title>
+        <id>https://smashingmagazine.com/2025/03/web-components-vs-framework-components/</id>
+        <link href="https://smashingmagazine.com/2025/03/web-components-vs-framework-components/"/>
+        <updated>2025-03-17T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Some critics question the agnostic nature of Web Components, with some even arguing that they are not real components. Gabriel Shoyomboa explores this topic in-depth, comparing Web Components and framework components, highlighting their strengths and trade-offs, and evaluating their performance.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Gabriel Shoyombo)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to become a self-taught developer while supporting a family [Podcast #164]]]></title>
         <id>67d4a92df560badb8e1f0360</id>
