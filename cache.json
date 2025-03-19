@@ -321,6 +321,16 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "67d9aa58a50edbbdc70e2941",
+          "author": "Kunal Nalawade",
+          "description": "The web is a great place to access information and connect with people. It has opened up countless opportunities, making life more convenient in many ways. But not everyone experiences the web in the same way. Websites are difficult to use for people...",
+          "link": "https://www.freecodecamp.org/news/the-web-accessibility-handbook/",
+          "publishedOn": "2025-03-18T17:16:08.000Z",
+          "wordCount": 9171,
+          "title": "Everything You Need to Know About Web Acessibility",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1742318086251/103cec5f-3330-4559-8554-4ec76b16ec76.png"
+        },
+        {
           "id": "67d87353b13a6fd9fb559ada",
           "author": "Gursimar Singh",
           "description": "Modern infrastructure requires continuous monitoring and rapid incident response. However, manually configuring and managing alerts is not only labor-intensive but also susceptible to human error. Automating alert provisioning allows you to enforce c...",
@@ -789,16 +799,6 @@
           "wordCount": 3337,
           "title": "How to Use FakeLogger to Make Testing Easier In .Net",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1739486043718/2d1e6339-fb93-4719-a89a-5b29e30c2bfc.png"
-        },
-        {
-          "id": "67b30da662ec9a593dfeb4a7",
-          "author": "Ijeoma Igboagu",
-          "description": "Building an authentication system can be complex, often requiring a server to store user data. Sometimes, you need a faster, easier solution. For those new to development or without technical expertise, managing servers, databases, and user logins ca...",
-          "link": "https://www.freecodecamp.org/news/backend-as-a-service-beginners-guide/",
-          "publishedOn": "2025-02-17T10:21:26.000Z",
-          "wordCount": 3204,
-          "title": "What is Backend as a Service (BaaS)? A Beginner's Guide",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1739291731037/169ad924-9bcb-4af2-9281-fad2488a868d.png"
         }
       ]
     }

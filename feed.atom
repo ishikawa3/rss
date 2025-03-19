@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-03-18T00:13:29.640Z</updated>
+    <updated>2025-03-19T00:14:07.154Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Everything You Need to Know About Web Acessibility]]></title>
+        <id>67d9aa58a50edbbdc70e2941</id>
+        <link href="https://www.freecodecamp.org/news/the-web-accessibility-handbook/"/>
+        <updated>2025-03-18T17:16:08.000Z</updated>
+        <summary type="html"><![CDATA[The web is a great place to access information and connect with people. It has opened up countless opportunities, making life more convenient in many ways. But not everyone experiences the web in the same way. Websites are difficult to use for people...]]></summary>
+        <author>
+            <name>Kunal Nalawade</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Automate Alert Provisioning with the SigNoz Terraform Provider]]></title>
         <id>67d87353b13a6fd9fb559ada</id>
@@ -729,16 +739,6 @@ Working With Multiple CSS Anchors and Popovers Inside the WordPress Loop origina
 The What If Machine: Bringing the “Iffy” Future of CSS into the Present originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Lee Meyer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is Backend as a Service (BaaS)? A Beginner's Guide]]></title>
-        <id>67b30da662ec9a593dfeb4a7</id>
-        <link href="https://www.freecodecamp.org/news/backend-as-a-service-beginners-guide/"/>
-        <updated>2025-02-17T10:21:26.000Z</updated>
-        <summary type="html"><![CDATA[Building an authentication system can be complex, often requiring a server to store user data. Sometimes, you need a faster, easier solution. For those new to development or without technical expertise, managing servers, databases, and user logins ca...]]></summary>
-        <author>
-            <name>Ijeoma Igboagu</name>
         </author>
     </entry>
 </feed>
