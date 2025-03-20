@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-03-19T00:14:07.154Z</updated>
+    <updated>2025-03-20T00:13:30.868Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Why Security Audits Are Important]]></title>
+        <id>67db2704d898a5f4273111cf</id>
+        <link href="https://www.freecodecamp.org/news/why-security-audits-are-important/"/>
+        <updated>2025-03-19T20:20:20.000Z</updated>
+        <summary type="html"><![CDATA[In this digital world, companies rely on the latest technology to run their businesses, and the risk of cyber attacks is high. Every product, whether it’s software or an application, should go through some sort of security testing process. These chec...]]></summary>
+        <author>
+            <name>P S Mohammed Ali</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Write Effective Prompts for AI Agents using Langbase]]></title>
+        <id>67dae1dae49263fce2ef7dc3</id>
+        <link href="https://www.freecodecamp.org/news/how-to-write-effective-prompts-for-ai-agents-using-langbase/"/>
+        <updated>2025-03-19T15:25:14.000Z</updated>
+        <summary type="html"><![CDATA[Prompt engineering isn’t just a skill these days – it gives you an important competitive edge in your development. In 2025, the difference between AI agents that work and those that don’t comes down to how well they’re prompted. Whether you’re a deve...]]></summary>
+        <author>
+            <name>Maham Codes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Everything You Need to Know About Web Acessibility]]></title>
         <id>67d9aa58a50edbbdc70e2941</id>
@@ -698,47 +718,6 @@ Working With Multiple CSS Anchors and Popovers Inside the WordPress Loop origina
         <summary type="html"><![CDATA[Are you curious about classes in JavaScript but feel a little puzzled about how they work or why you'd even use them? If that's you, then you're definitely in the right place. Lots of developers find classes a bit tricky at first, and honestly, I was...]]></summary>
         <author>
             <name>Spruce Emmanuel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is Shadow AI? The Hidden Risks and Challenges in Modern Organizations]]></title>
-        <id>67b450b56572419f24094c04</id>
-        <link href="https://www.freecodecamp.org/news/shadow-ai-hidden-risks-and-challenges/"/>
-        <updated>2025-02-18T09:19:49.000Z</updated>
-        <summary type="html"><![CDATA[Imagine this: a marketing manager uses ChatGPT to draft a personalized email campaign. Meanwhile, a developer experiments with a machine learning model trained on customer data, and an HR team integrates an artificial intelligence (AI) tool to screen...]]></summary>
-        <author>
-            <name>Sonya Moisset</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How OWASP Helps You Secure Your Full-Stack Web Applications]]></title>
-        <id>https://smashingmagazine.com/2025/02/how-owasp-helps-secure-full-stack-web-applications/</id>
-        <link href="https://smashingmagazine.com/2025/02/how-owasp-helps-secure-full-stack-web-applications/"/>
-        <updated>2025-02-18T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The OWASP vulnerabilities list is the perfect starting point for web developers looking to strengthen their security expertise. Let’s discover how these vulnerabilities materialize in full-stack web applications and how to prevent them.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Eric Burel)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use FakeLogger to Make Testing Easier In .Net]]></title>
-        <id>67b3b736d8f6ac012e312ac5</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-fakelogger-to-make-testing-easier-in-net/"/>
-        <updated>2025-02-17T22:24:54.000Z</updated>
-        <summary type="html"><![CDATA[When writing unit tests in .NET, you may need to verify that methods are logging exceptions, errors, or other key information. You might think, No problem, I'll just mock ILogger using my favourite mocking library – for example Moq, NSubstitute, or F...]]></summary>
-        <author>
-            <name>Grant Riordan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The What If Machine: Bringing the “Iffy” Future of CSS into the Present]]></title>
-        <id>https://css-tricks.com/?p=384446</id>
-        <link href="https://css-tricks.com/the-what-if-machine-bringing-the-iffy-future-of-css-into-the-present/"/>
-        <updated>2025-02-17T14:24:40.000Z</updated>
-        <summary type="html"><![CDATA[My thesis for today's article offers further reassurance that inline conditionals are probably not the harbinger of the end of civilization: I reckon we can achieve the same functionality right now with style queries, which are gaining pretty good browser support.
-The What If Machine: Bringing the “Iffy” Future of CSS into the Present originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Lee Meyer</name>
         </author>
     </entry>
 </feed>

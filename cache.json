@@ -145,16 +145,6 @@
           "wordCount": 3311,
           "title": "Working With Multiple CSS Anchors and Popovers Inside the WordPress Loop",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/382234"
-        },
-        {
-          "id": "https://css-tricks.com/?p=384446",
-          "author": "Lee Meyer",
-          "description": "My thesis for today's article offers further reassurance that inline conditionals are probably not the harbinger of the end of civilization: I reckon we can achieve the same functionality right now with style queries, which are gaining pretty good browser support.\nThe What If Machine: Bringing the “Iffy” Future of CSS into the Present originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/the-what-if-machine-bringing-the-iffy-future-of-css-into-the-present/",
-          "publishedOn": "2025-02-17T14:24:40.000Z",
-          "wordCount": 3346,
-          "title": "The What If Machine: Bringing the “Iffy” Future of CSS into the Present",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/384446"
         }
       ]
     },
@@ -297,21 +287,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/human-centered-design-ai-assisted-usability-testing/human-centered-design-ai-assisted-usability-testing.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2025/02/how-owasp-helps-secure-full-stack-web-applications/",
-          "author": "hello@smashingmagazine.com (Eric Burel)",
-          "description": "The OWASP vulnerabilities list is the perfect starting point for web developers looking to strengthen their security expertise. Let’s discover how these vulnerabilities materialize in full-stack web applications and how to prevent them.",
-          "link": "https://smashingmagazine.com/2025/02/how-owasp-helps-secure-full-stack-web-applications/",
-          "publishedOn": "2025-02-18T08:00:00.000Z",
-          "wordCount": 5418,
-          "title": "How OWASP Helps You Secure Your Full-Stack Web Applications",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/how-owasp-helps-secure-full-stack-web-applications/how-owasp-helps-secure-full-stack-web-applications.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/how-owasp-helps-secure-full-stack-web-applications/how-owasp-helps-secure-full-stack-web-applications.jpg"
         }
       ]
     },
@@ -320,6 +295,26 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "67db2704d898a5f4273111cf",
+          "author": "P S Mohammed Ali",
+          "description": "In this digital world, companies rely on the latest technology to run their businesses, and the risk of cyber attacks is high. Every product, whether it’s software or an application, should go through some sort of security testing process. These chec...",
+          "link": "https://www.freecodecamp.org/news/why-security-audits-are-important/",
+          "publishedOn": "2025-03-19T20:20:20.000Z",
+          "wordCount": 2732,
+          "title": "Why Security Audits Are Important",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1742397497226/ec06b7c2-1a2a-4eb1-bbaa-4c1d40e4e60e.png"
+        },
+        {
+          "id": "67dae1dae49263fce2ef7dc3",
+          "author": "Maham Codes",
+          "description": "Prompt engineering isn’t just a skill these days – it gives you an important competitive edge in your development. In 2025, the difference between AI agents that work and those that don’t comes down to how well they’re prompted. Whether you’re a deve...",
+          "link": "https://www.freecodecamp.org/news/how-to-write-effective-prompts-for-ai-agents-using-langbase/",
+          "publishedOn": "2025-03-19T15:25:14.000Z",
+          "wordCount": 3652,
+          "title": "How to Write Effective Prompts for AI Agents using Langbase",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1742397395773/51f66f8f-56a4-418e-a59e-141de64be2b2.png"
+        },
         {
           "id": "67d9aa58a50edbbdc70e2941",
           "author": "Kunal Nalawade",
@@ -779,26 +774,6 @@
           "wordCount": 8858,
           "title": "How to Use Classes in JavaScript – A Handbook for Beginners",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1739878241514/a725b4af-8061-49c2-9575-2aa4096acb74.png"
-        },
-        {
-          "id": "67b450b56572419f24094c04",
-          "author": "Sonya Moisset",
-          "description": "Imagine this: a marketing manager uses ChatGPT to draft a personalized email campaign. Meanwhile, a developer experiments with a machine learning model trained on customer data, and an HR team integrates an artificial intelligence (AI) tool to screen...",
-          "link": "https://www.freecodecamp.org/news/shadow-ai-hidden-risks-and-challenges/",
-          "publishedOn": "2025-02-18T09:19:49.000Z",
-          "wordCount": 3380,
-          "title": "What is Shadow AI? The Hidden Risks and Challenges in Modern Organizations",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1739870232803/7d5d5b43-4ca1-4e51-972b-586c0094854f.png"
-        },
-        {
-          "id": "67b3b736d8f6ac012e312ac5",
-          "author": "Grant Riordan",
-          "description": "When writing unit tests in .NET, you may need to verify that methods are logging exceptions, errors, or other key information. You might think, No problem, I'll just mock ILogger using my favourite mocking library – for example Moq, NSubstitute, or F...",
-          "link": "https://www.freecodecamp.org/news/how-to-use-fakelogger-to-make-testing-easier-in-net/",
-          "publishedOn": "2025-02-17T22:24:54.000Z",
-          "wordCount": 3337,
-          "title": "How to Use FakeLogger to Make Testing Easier In .Net",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1739486043718/2d1e6339-fb93-4719-a89a-5b29e30c2bfc.png"
         }
       ]
     }
