@@ -2,10 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-03-21T00:13:41.232Z</updated>
+    <updated>2025-03-22T00:13:29.261Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[From hating coding to programming satellites at age 37 with Francesco Ciulla [Podcast #165]]]></title>
+        <id>67ddbf930d353b1d4dfa0ebd</id>
+        <link href="https://www.freecodecamp.org/news/programming-satellites-at-age-37-with-francesco-ciulla-podcast-165/"/>
+        <updated>2025-03-21T19:35:47.000Z</updated>
+        <summary type="html"><![CDATA[On this week's episode of the podcast, I interview Francesco Ciulla. He's a software engineer who has worked with the European Space Agency on code that powers the Copernicus satellite program. More Francesco has published courses on learning Docker ...]]></summary>
+        <author>
+            <name>Quincy Larson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn API Fundamentals and Architecture – A Beginner-Friendly Guide]]></title>
+        <id>67dd93c136028f6326576025</id>
+        <link href="https://www.freecodecamp.org/news/learn-api-fundamentals-and-architecture/"/>
+        <updated>2025-03-21T16:28:49.000Z</updated>
+        <summary type="html"><![CDATA[Here are some questions for you: How do you log in to apps with your Google, Apple, or Microsoft account? How do online payments with Paystack or PayPal work? How do apps like Facebook and Instagram share information and notifications? The answer is:...]]></summary>
+        <author>
+            <name>Ikegah Oliver</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Revisiting CSS border-image]]></title>
+        <id>https://css-tricks.com/?p=385158</id>
+        <link href="https://css-tricks.com/revisiting-css-border-image/"/>
+        <updated>2025-03-21T13:24:11.000Z</updated>
+        <summary type="html"><![CDATA[I’ve used border-image regularly. Yet, it remains one of the most underused CSS tools, and I can’t, for the life of me, figure out why. Is it possible that people steer clear of border-image because its syntax is awkward and unintuitive? Perhaps it’s because most explanations don’t solve the type of creative implementation problems that most people need to solve. Most likely, it’s both.
+Revisiting CSS border-image originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Andy Clarke</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Previewing Content Changes In Your Work With document.designMode]]></title>
+        <id>https://smashingmagazine.com/2025/03/previewing-content-changes-work-documentdesignmode/</id>
+        <link href="https://smashingmagazine.com/2025/03/previewing-content-changes-work-documentdesignmode/"/>
+        <updated>2025-03-21T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[You probably already know that you can use developer tools in your browser to make on-the-spot changes to a webpage — simply click the node in the Inspector and make your edits. But have you tried `document.designMode`? Victor Ayomipo explains how it can be used to preview content changes and demonstrates several use cases where it comes in handy for everything from basic content editing to improving team collaboration.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Victor Ayomipo)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Learn ANY Language with AI]]></title>
         <id>67dc708354ef5aaf882f3c39</id>
@@ -680,57 +721,6 @@ Toe Dipping Into View Transitions originally published on CSS-Tricks, which is p
         <summary type="html"><![CDATA[Kubernetes has become the de facto standard for container orchestration, allowing developers to efficiently deploy, manage, and scale applications. But deploying Kubernetes clusters in the cloud can be complex. That’s where Amazon Elastic Kubernetes ...]]></summary>
         <author>
             <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build an ASP.NET Core MVC Web App]]></title>
-        <id>67b626105b8a70c6cf85c5be</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-an-aspnet-core-mvc-web-app/"/>
-        <updated>2025-02-19T18:42:24.000Z</updated>
-        <summary type="html"><![CDATA[Building modern web applications requires a solid understanding of both frontend and backend development. ASP.NET Core MVC is a powerful framework for creating full-stack web applications with clean architecture and maintainable code. Whether you're ...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Working With Multiple CSS Anchors and Popovers Inside the WordPress Loop]]></title>
-        <id>https://css-tricks.com/?p=382234</id>
-        <link href="https://css-tricks.com/working-with-multiple-css-anchors-and-popovers-inside-the-wordpress-loop/"/>
-        <updated>2025-02-19T13:55:31.000Z</updated>
-        <summary type="html"><![CDATA[I know, super niche, but it could be any loop, really. The challenge is having multiple tooltips on the same page that make use of the Popover API for toggling goodness and CSS Anchor Positioning for attaching a tooltip to its respective anchor element.
-Working With Multiple CSS Anchors and Popovers Inside the WordPress Loop originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to build a serverless AI agent to generate cold emails for your dream job]]></title>
-        <id>67b5df98970327b4e047537c</id>
-        <link href="https://www.freecodecamp.org/news/build-a-serverless-ai-agent-for-generating-cold-emails/"/>
-        <updated>2025-02-19T13:41:44.000Z</updated>
-        <summary type="html"><![CDATA[Cold emails can make a huge difference in your job search, but writing the perfect one takes time. You need to match your skills with the job description, find the right tone, and do it over and over again—it’s exhausting. This guide will walk you th...]]></summary>
-        <author>
-            <name>Maham Codes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Work with OpenAPI in Go]]></title>
-        <id>67b5da4da9d7e29052110938</id>
-        <link href="https://www.freecodecamp.org/news/how-to-work-with-openapi-in-go/"/>
-        <updated>2025-02-19T13:19:09.000Z</updated>
-        <summary type="html"><![CDATA[Well-structured and well-documented APIs are a pleasure to work with. And nowadays the standard is OpenAPI, which comes with a good methodology for defining an API interface first, and only then constructing everything around it. This makes it easier...]]></summary>
-        <author>
-            <name>Alex Pliutau</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn User Management in RHEL: A Comprehensive Guide]]></title>
-        <id>67b5da0a6db178277c2bebc9</id>
-        <link href="https://www.freecodecamp.org/news/learn-user-management-in-rhel-a-comprehensive-guide/"/>
-        <updated>2025-02-19T13:18:02.000Z</updated>
-        <summary type="html"><![CDATA[Imagine you're throwing a house party. You wouldn’t hand out keys to every guest, right? Some friends can roam freely, some should probably stick to the living room, and a few—well, let’s just say they need supervision. Managing users in RHEL is kind...]]></summary>
-        <author>
-            <name>Tanishka Makode</name>
         </author>
     </entry>
 </feed>

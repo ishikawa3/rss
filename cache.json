@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=385158",
+          "author": "Andy Clarke",
+          "description": "I’ve used border-image regularly. Yet, it remains one of the most underused CSS tools, and I can’t, for the life of me, figure out why. Is it possible that people steer clear of border-image because its syntax is awkward and unintuitive? Perhaps it’s because most explanations don’t solve the type of creative implementation problems that most people need to solve. Most likely, it’s both.\nRevisiting CSS border-image originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/revisiting-css-border-image/",
+          "publishedOn": "2025-03-21T13:24:11.000Z",
+          "wordCount": 4125,
+          "title": "Revisiting CSS border-image",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/03/border-image-menu.png"
+        },
+        {
           "id": "https://css-tricks.com/?p=385336",
           "author": "Geoff Graham",
           "description": "I’ve seen a handful of recent posts talking about the utility of the :is() relational pseudo-selector. No need to delve into the details other than to say it can help make compound selectors a lot more readable.\n:is(section, article, aside, \n…\nQuick Reminder That :is() and :where() Are Basically the Same With One Key Difference originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -145,16 +155,6 @@
             "type": "video/quicktime"
           },
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/384665"
-        },
-        {
-          "id": "https://css-tricks.com/?p=382234",
-          "author": "Geoff Graham",
-          "description": "I know, super niche, but it could be any loop, really. The challenge is having multiple tooltips on the same page that make use of the Popover API for toggling goodness and CSS Anchor Positioning for attaching a tooltip to its respective anchor element.\nWorking With Multiple CSS Anchors and Popovers Inside the WordPress Loop originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/working-with-multiple-css-anchors-and-popovers-inside-the-wordpress-loop/",
-          "publishedOn": "2025-02-19T13:55:31.000Z",
-          "wordCount": 3311,
-          "title": "Working With Multiple CSS Anchors and Popovers Inside the WordPress Loop",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/382234"
         }
       ]
     },
@@ -163,6 +163,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2025/03/previewing-content-changes-work-documentdesignmode/",
+          "author": "hello@smashingmagazine.com (Victor Ayomipo)",
+          "description": "You probably already know that you can use developer tools in your browser to make on-the-spot changes to a webpage — simply click the node in the Inspector and make your edits. But have you tried `document.designMode`? Victor Ayomipo explains how it can be used to preview content changes and demonstrates several use cases where it comes in handy for everything from basic content editing to improving team collaboration.",
+          "link": "https://smashingmagazine.com/2025/03/previewing-content-changes-work-documentdesignmode/",
+          "publishedOn": "2025-03-21T08:00:00.000Z",
+          "wordCount": 3954,
+          "title": "Previewing Content Changes In Your Work With document.designMode",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/previewing-content-changes-work-documentdesignmode/previewing-content-changes-work-documentdesignmode.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/previewing-content-changes-work-documentdesignmode/previewing-content-changes-work-documentdesignmode.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2025/03/web-components-vs-framework-components/",
           "author": "hello@smashingmagazine.com (Gabriel Shoyombo)",
@@ -290,6 +305,26 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "67ddbf930d353b1d4dfa0ebd",
+          "author": "Quincy Larson",
+          "description": "On this week's episode of the podcast, I interview Francesco Ciulla. He's a software engineer who has worked with the European Space Agency on code that powers the Copernicus satellite program. More Francesco has published courses on learning Docker ...",
+          "link": "https://www.freecodecamp.org/news/programming-satellites-at-age-37-with-francesco-ciulla-podcast-165/",
+          "publishedOn": "2025-03-21T19:35:47.000Z",
+          "wordCount": 1114,
+          "title": "From hating coding to programming satellites at age 37 with Francesco Ciulla [Podcast #165]",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1742585568977/09b25b8e-8c92-4f4b-853f-64b7f7915980.png"
+        },
+        {
+          "id": "67dd93c136028f6326576025",
+          "author": "Ikegah Oliver",
+          "description": "Here are some questions for you: How do you log in to apps with your Google, Apple, or Microsoft account? How do online payments with Paystack or PayPal work? How do apps like Facebook and Instagram share information and notifications? The answer is:...",
+          "link": "https://www.freecodecamp.org/news/learn-api-fundamentals-and-architecture/",
+          "publishedOn": "2025-03-21T16:28:49.000Z",
+          "wordCount": 4703,
+          "title": "Learn API Fundamentals and Architecture – A Beginner-Friendly Guide",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1742310491936/3e9eb6e8-9f7d-424a-821e-b7110e3cf2f0.png"
+        },
         {
           "id": "67dc708354ef5aaf882f3c39",
           "author": "Beau Carnes",
@@ -739,46 +774,6 @@
           "wordCount": 1362,
           "title": "Learn Kubernetes and EKS for Deployment",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1740063597212/95295b26-4334-4875-ba73-c71218c47b67.png"
-        },
-        {
-          "id": "67b626105b8a70c6cf85c5be",
-          "author": "Beau Carnes",
-          "description": "Building modern web applications requires a solid understanding of both frontend and backend development. ASP.NET Core MVC is a powerful framework for creating full-stack web applications with clean architecture and maintainable code. Whether you're ...",
-          "link": "https://www.freecodecamp.org/news/how-to-build-an-aspnet-core-mvc-web-app/",
-          "publishedOn": "2025-02-19T18:42:24.000Z",
-          "wordCount": 1311,
-          "title": "How to Build an ASP.NET Core MVC Web App",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1739990522515/196a648c-bcf1-4ee4-ae29-664c1a7de4eb.png"
-        },
-        {
-          "id": "67b5df98970327b4e047537c",
-          "author": "Maham Codes",
-          "description": "Cold emails can make a huge difference in your job search, but writing the perfect one takes time. You need to match your skills with the job description, find the right tone, and do it over and over again—it’s exhausting. This guide will walk you th...",
-          "link": "https://www.freecodecamp.org/news/build-a-serverless-ai-agent-for-generating-cold-emails/",
-          "publishedOn": "2025-02-19T13:41:44.000Z",
-          "wordCount": 3110,
-          "title": "How to build a serverless AI agent to generate cold emails for your dream job",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1739971173263/869c0c1c-9b45-48af-a1d1-0982436b8630.png"
-        },
-        {
-          "id": "67b5da4da9d7e29052110938",
-          "author": "Alex Pliutau",
-          "description": "Well-structured and well-documented APIs are a pleasure to work with. And nowadays the standard is OpenAPI, which comes with a good methodology for defining an API interface first, and only then constructing everything around it. This makes it easier...",
-          "link": "https://www.freecodecamp.org/news/how-to-work-with-openapi-in-go/",
-          "publishedOn": "2025-02-19T13:19:09.000Z",
-          "wordCount": 3080,
-          "title": "How to Work with OpenAPI in Go",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1739971119374/b444d5f6-6e42-4bc6-9136-84a1fe2f073c.png"
-        },
-        {
-          "id": "67b5da0a6db178277c2bebc9",
-          "author": "Tanishka Makode",
-          "description": "Imagine you're throwing a house party. You wouldn’t hand out keys to every guest, right? Some friends can roam freely, some should probably stick to the living room, and a few—well, let’s just say they need supervision. Managing users in RHEL is kind...",
-          "link": "https://www.freecodecamp.org/news/learn-user-management-in-rhel-a-comprehensive-guide/",
-          "publishedOn": "2025-02-19T13:18:02.000Z",
-          "wordCount": 2746,
-          "title": "Learn User Management in RHEL: A Comprehensive Guide",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1739971027992/d19c4616-4c2e-4cc4-ac45-384e6520d1a8.png"
         }
       ]
     }
