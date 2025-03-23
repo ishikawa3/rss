@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-03-22T00:13:29.261Z</updated>
+    <updated>2025-03-23T00:14:57.466Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
@@ -661,66 +661,6 @@ Applying the Web Dev Mindset to Dealing With Life Challenges originally publishe
 Toe Dipping Into View Transitions originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Code a Crossy Road Game Clone with Three.js]]></title>
-        <id>67b7bad6bcd9ef47aba6001d</id>
-        <link href="https://www.freecodecamp.org/news/how-to-code-a-crossy-road-game-clone-with-threejs/"/>
-        <updated>2025-02-20T23:29:26.000Z</updated>
-        <summary type="html"><![CDATA[In this tutorial, you’ll learn how to create a clone of the mobile game Crossy Road with Three.js. The goal of this game is to move a character through an endless path of static and moving obstacles. You have to go around trees and avoid getting hit ...]]></summary>
-        <author>
-            <name>Hunor Márton Borbély</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Create a DeepSeek R1 API in R with Plumber]]></title>
-        <id>67b7b91a534c03e678009324</id>
-        <link href="https://www.freecodecamp.org/news/how-to-create-a-deepseek-r1-api-in-r-with-plumber/"/>
-        <updated>2025-02-20T23:22:01.000Z</updated>
-        <summary type="html"><![CDATA[To create an AI chatbot and integrate it with another platform, you have to communicate with large language model using an API. This API receives prompts from the client and sends them to the model to generate answers. In this tutorial, you will lear...]]></summary>
-        <author>
-            <name>Adejumo Ridwan Suleiman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Replit Clone with Socket.io, Monaco Editor, and Copilotkit]]></title>
-        <id>67b7b7b46d2a73d146b3a978</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-a-replit-clone-with-socketio-monaco-editor-and-copilotkit/"/>
-        <updated>2025-02-20T23:16:04.000Z</updated>
-        <summary type="html"><![CDATA[I’ve been coding for about a decade now. And over the years, I’ve tried my fair share of development tools—especially IDEs like Sublime Text, Atom, and even NetBeans back in my college days. But when VS Code came along, it completely changed the game...]]></summary>
-        <author>
-            <name>Prankur Pandey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Secure Ways to Access DeepSeek Using Third-Party Apps]]></title>
-        <id>67b746282e12c8160896e071</id>
-        <link href="https://www.freecodecamp.org/news/secure-ways-to-access-deepseek-using-third-party-apps/"/>
-        <updated>2025-02-20T15:11:36.000Z</updated>
-        <summary type="html"><![CDATA[AI-powered coding assistants have changed the way developers write software. They help automate repetitive tasks, catch errors early, and speed up development. But not all AI coding tools are built with security in mind. One of the most promising fre...]]></summary>
-        <author>
-            <name>Oluwadamisi Samuel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Secure Ways to Access DeepSeek( Third-Party Apps)]]></title>
-        <id>67b746282e12c8160896e071</id>
-        <link href="https://www.freecodecamp.org/news/secure-ways-to-access-deepseek-third-party-apps/"/>
-        <updated>2025-02-20T15:11:36.000Z</updated>
-        <summary type="html"><![CDATA[AI-powered coding assistants have changed the way developers write software. They help automate repetitive tasks, catch errors early, and speed up development. But not all AI coding tools are built with security in mind. One of the most promising fre...]]></summary>
-        <author>
-            <name>Oluwadamisi Samuel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn Kubernetes and EKS for Deployment]]></title>
-        <id>67b743e1674d20deafd5b082</id>
-        <link href="https://www.freecodecamp.org/news/learn-kubernetes-and-eks-for-deployment/"/>
-        <updated>2025-02-20T15:01:53.000Z</updated>
-        <summary type="html"><![CDATA[Kubernetes has become the de facto standard for container orchestration, allowing developers to efficiently deploy, manage, and scale applications. But deploying Kubernetes clusters in the cloud can be complex. That’s where Amazon Elastic Kubernetes ...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
         </author>
     </entry>
 </feed>

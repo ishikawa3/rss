@@ -714,66 +714,6 @@
           "wordCount": 1089,
           "title": "How to go full-on Renaissance Man mode in 2025 with Vaughn Gene [Podcast #161]",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1740165379376/d6b72344-45a5-4d95-9f14-a2837b80a6b6.png"
-        },
-        {
-          "id": "67b7bad6bcd9ef47aba6001d",
-          "author": "Hunor Márton Borbély",
-          "description": "In this tutorial, you’ll learn how to create a clone of the mobile game Crossy Road with Three.js. The goal of this game is to move a character through an endless path of static and moving obstacles. You have to go around trees and avoid getting hit ...",
-          "link": "https://www.freecodecamp.org/news/how-to-code-a-crossy-road-game-clone-with-threejs/",
-          "publishedOn": "2025-02-20T23:29:26.000Z",
-          "wordCount": 8226,
-          "title": "How to Code a Crossy Road Game Clone with Three.js",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1740094139765/282432bf-1a5b-40e4-8b74-7aa854fd20ac.png"
-        },
-        {
-          "id": "67b7b91a534c03e678009324",
-          "author": "Adejumo Ridwan Suleiman",
-          "description": "To create an AI chatbot and integrate it with another platform, you have to communicate with large language model using an API. This API receives prompts from the client and sends them to the model to generate answers. In this tutorial, you will lear...",
-          "link": "https://www.freecodecamp.org/news/how-to-create-a-deepseek-r1-api-in-r-with-plumber/",
-          "publishedOn": "2025-02-20T23:22:01.000Z",
-          "wordCount": 2015,
-          "title": "How to Create a DeepSeek R1 API in R with Plumber",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1740093558918/453118b9-3c93-4e57-a1ad-7471e1046ef1.png"
-        },
-        {
-          "id": "67b7b7b46d2a73d146b3a978",
-          "author": "Prankur Pandey",
-          "description": "I’ve been coding for about a decade now. And over the years, I’ve tried my fair share of development tools—especially IDEs like Sublime Text, Atom, and even NetBeans back in my college days. But when VS Code came along, it completely changed the game...",
-          "link": "https://www.freecodecamp.org/news/how-to-build-a-replit-clone-with-socketio-monaco-editor-and-copilotkit/",
-          "publishedOn": "2025-02-20T23:16:04.000Z",
-          "wordCount": 10749,
-          "title": "How to Build a Replit Clone with Socket.io, Monaco Editor, and Copilotkit",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1740064335866/a058fbf3-2d89-4e95-9d3b-07224f3985be.png"
-        },
-        {
-          "id": "67b746282e12c8160896e071",
-          "author": "Oluwadamisi Samuel",
-          "description": "AI-powered coding assistants have changed the way developers write software. They help automate repetitive tasks, catch errors early, and speed up development. But not all AI coding tools are built with security in mind. One of the most promising fre...",
-          "link": "https://www.freecodecamp.org/news/secure-ways-to-access-deepseek-using-third-party-apps/",
-          "publishedOn": "2025-02-20T15:11:36.000Z",
-          "wordCount": 2718,
-          "title": "Secure Ways to Access DeepSeek Using Third-Party Apps",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1740064259806/efd0af33-1df9-415e-8944-6311e75391d0.png"
-        },
-        {
-          "id": "67b746282e12c8160896e071",
-          "author": "Oluwadamisi Samuel",
-          "description": "AI-powered coding assistants have changed the way developers write software. They help automate repetitive tasks, catch errors early, and speed up development. But not all AI coding tools are built with security in mind. One of the most promising fre...",
-          "link": "https://www.freecodecamp.org/news/secure-ways-to-access-deepseek-third-party-apps/",
-          "publishedOn": "2025-02-20T15:11:36.000Z",
-          "wordCount": 2715,
-          "title": "Secure Ways to Access DeepSeek( Third-Party Apps)",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1740064259806/efd0af33-1df9-415e-8944-6311e75391d0.png"
-        },
-        {
-          "id": "67b743e1674d20deafd5b082",
-          "author": "Beau Carnes",
-          "description": "Kubernetes has become the de facto standard for container orchestration, allowing developers to efficiently deploy, manage, and scale applications. But deploying Kubernetes clusters in the cloud can be complex. That’s where Amazon Elastic Kubernetes ...",
-          "link": "https://www.freecodecamp.org/news/learn-kubernetes-and-eks-for-deployment/",
-          "publishedOn": "2025-02-20T15:01:53.000Z",
-          "wordCount": 1362,
-          "title": "Learn Kubernetes and EKS for Deployment",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1740063597212/95295b26-4334-4875-ba73-c71218c47b67.png"
         }
       ]
     }
