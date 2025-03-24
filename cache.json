@@ -140,21 +140,6 @@
           "wordCount": 4733,
           "title": "Applying the Web Dev Mindset to Dealing With Life Challenges",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2018/06/brain-gears.png"
-        },
-        {
-          "id": "https://css-tricks.com/?p=384665",
-          "author": "Geoff Graham",
-          "description": "The View Transitions API is more a set of features than it is about any one particular thing. And it gets complex fast. But in this post, we’ll cover a couple ways to dip your toes into the waters without having to dive in head-first.\nToe Dipping Into View Transitions originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/toe-dipping-into-view-transitions/",
-          "publishedOn": "2025-02-21T14:34:58.000Z",
-          "wordCount": 2478,
-          "title": "Toe Dipping Into View Transitions",
-          "enclosure": {
-            "url": "https://css-tricks.com/wp-content/uploads/2025/02/Screen-Recording-2025-02-14-at-2.22.14 PM.mov",
-            "length": "2794632",
-            "type": "video/quicktime"
-          },
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/384665"
         }
       ]
     },
@@ -704,16 +689,6 @@
           "wordCount": 3270,
           "title": "How to Speed Up Website Loading by Removing Extra Bits and Bytes",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1740094347867/d1097d7b-776f-4228-8088-7726b827271f.png"
-        },
-        {
-          "id": "67b8d14181f9a2aaa77a646f",
-          "author": "Quincy Larson",
-          "description": "On this week's episode of the podcast, I interview Vaughn Gene. He's a self-taught software engineer who works with lots of freelance clients. Vaughn lived in Japan for 10 years, and speaks Japanese, speaks Spanish, plays guitar, plays piano, and is ...",
-          "link": "https://www.freecodecamp.org/news/how-to-go-full-on-renaissance-man-mode-in-2025-with-vaughn-gene-podcast-161/",
-          "publishedOn": "2025-02-21T19:17:21.000Z",
-          "wordCount": 1089,
-          "title": "How to go full-on Renaissance Man mode in 2025 with Vaughn Gene [Podcast #161]",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1740165379376/d6b72344-45a5-4d95-9f14-a2837b80a6b6.png"
         }
       ]
     }
