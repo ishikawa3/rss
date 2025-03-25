@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-03-24T00:14:27.899Z</updated>
+    <updated>2025-03-25T00:14:05.401Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Support Logical Shorthands in CSS]]></title>
+        <id>https://css-tricks.com/?p=385389</id>
+        <link href="https://css-tricks.com/support-logical-shorthands-in-css/"/>
+        <updated>2025-03-24T14:06:19.000Z</updated>
+        <summary type="html"><![CDATA[There’s a bit of a blind spot when working with CSS logical properties concerning shorthands.
+Support Logical Shorthands in CSS originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[From hating coding to programming satellites at age 37 with Francesco Ciulla [Podcast #165]]]></title>
         <id>67ddbf930d353b1d4dfa0ebd</id>

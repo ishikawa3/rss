@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=385389",
+          "author": "Geoff Graham",
+          "description": "There’s a bit of a blind spot when working with CSS logical properties concerning shorthands.\nSupport Logical Shorthands in CSS originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/support-logical-shorthands-in-css/",
+          "publishedOn": "2025-03-24T14:06:19.000Z",
+          "wordCount": 2043,
+          "title": "Support Logical Shorthands in CSS",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/12/css-tricks-logo-gradient-outline.png"
+        },
+        {
           "id": "https://css-tricks.com/?p=385158",
           "author": "Andy Clarke",
           "description": "I’ve used border-image regularly. Yet, it remains one of the most underused CSS tools, and I can’t, for the life of me, figure out why. Is it possible that people steer clear of border-image because its syntax is awkward and unintuitive? Perhaps it’s because most explanations don’t solve the type of creative implementation problems that most people need to solve. Most likely, it’s both.\nRevisiting CSS border-image originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
