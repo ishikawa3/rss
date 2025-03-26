@@ -2,10 +2,91 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-03-25T00:14:05.401Z</updated>
+    <updated>2025-03-26T00:13:51.443Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Connect Your AWS EC2 Instance to VS Code]]></title>
+        <id>67e2ec52cd467794ee79d63e</id>
+        <link href="https://www.freecodecamp.org/news/how-to-connect-your-aws-ec2-instance-to-vs-code/"/>
+        <updated>2025-03-25T17:48:02.000Z</updated>
+        <summary type="html"><![CDATA[As a DevOps engineer, it is crucial to master at least one cloud provider. Cloud services simplify storage, data migration, and CI/CD workflows and help make these tasks easier and more efficient. If you need a basic introduction to cloud computing, ...]]></summary>
+        <author>
+            <name>Ijeoma Igboagu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Beginner's Guide to Observability in Cloud Native Applications]]></title>
+        <id>67e2d66c64d44185d5a6d406</id>
+        <link href="https://www.freecodecamp.org/news/observability-in-cloud-native-applications/"/>
+        <updated>2025-03-25T16:14:36.000Z</updated>
+        <summary type="html"><![CDATA[If you're new to cloud native technologies, you may have heard the term 'observability' before. But what exactly does it mean? Is it simply the ability to observe? And if so, what are we observing and why? I had the same questions when I started lear...]]></summary>
+        <author>
+            <name>Victoria Nduka</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Orchestrating AWS Lambda with GraphQL and Apollo Connectors]]></title>
+        <id>67e2d5e080e11112e050be00</id>
+        <link href="https://www.freecodecamp.org/news/how-to-orchestrate-aws-lambda-with-graphql-and-apollo-connectors/"/>
+        <updated>2025-03-25T16:12:16.000Z</updated>
+        <summary type="html"><![CDATA[AWS Lambda is a computing service that enables you to run arbitrary code functions without needing to provision, manage, or scale servers. It’s often used in the logic tier of a multi-tier architecture to handle tasks such as processing files in S3 o...]]></summary>
+        <author>
+            <name>Rob Walters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use Python's Built-in Profiling Tools: Examples and Best Practices]]></title>
+        <id>67e2d5a9436e3bed610a8a95</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-pythons-built-in-profiling-tools-examples-and-best-practices/"/>
+        <updated>2025-03-25T16:11:21.000Z</updated>
+        <summary type="html"><![CDATA[Python is known for its simplicity and readability, making it a favorite among developers. But this simplicity sometimes comes at the cost of performance. When your Python application grows or needs to handle larger workloads, understanding what's ha...]]></summary>
+        <author>
+            <name>Vivek Sahu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Host a Static Website on AWS S3 and CloudFront]]></title>
+        <id>67e2cd0841be93b03e257b93</id>
+        <link href="https://www.freecodecamp.org/news/host-a-static-website-on-aws-s3-and-cloudfront/"/>
+        <updated>2025-03-25T15:34:32.000Z</updated>
+        <summary type="html"><![CDATA[DevOps might seem like a complex field with various specializations and tools. In this article, I’ll simplify one key aspect by demonstrating how to host a static website using Amazon S3 (Simple Storage Service) and CloudFront, AWS’s Content Delivery...]]></summary>
+        <author>
+            <name>oghenekparobo Stephen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use TestContainers in .Net]]></title>
+        <id>67e2cbfdaa97659cd53cf39f</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-testcontainers-in-net/"/>
+        <updated>2025-03-25T15:30:05.000Z</updated>
+        <summary type="html"><![CDATA[At some point in your development lifecycle, you will need to test that your system can integrate with another system, whether it be another API, a database, or caching service, for example. This can be a laborious task of spinning up other servers h...]]></summary>
+        <author>
+            <name>Grant Riordan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Case Study: Combining Cutting-Edge CSS Features Into a “Course Navigation” Component]]></title>
+        <id>https://css-tricks.com/?p=385070</id>
+        <link href="https://css-tricks.com/case-study-combining-cutting-edge-css-features-into-a-course-navigation-component/"/>
+        <updated>2025-03-25T12:47:18.000Z</updated>
+        <summary type="html"><![CDATA[Having been tasked with creating a UI component for navigating the content of an online course, Daniel found himself neck-deep in a pool of new CSS features that he wound up using on the project.
+Case Study: Combining Cutting-Edge CSS Features Into a “Course Navigation” Component originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Daniel Schwarz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Create a Send Email Function using Nodemailer and OAuth2]]></title>
+        <id>67e1ec8917e7e6a0f12cddf5</id>
+        <link href="https://www.freecodecamp.org/news/create-a-send-email-function-using-nodemailer-and-oauth2/"/>
+        <updated>2025-03-24T23:36:41.000Z</updated>
+        <summary type="html"><![CDATA[Being able to communicate by sending emails through web applications is important these days. It helps businesses stay connected with their potential customers. In this article, you’ll learn how to implement the Send Email function in your web app us...]]></summary>
+        <author>
+            <name>Okoro Emmanuel Nzube</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Support Logical Shorthands in CSS]]></title>
         <id>https://css-tricks.com/?p=385389</id>

@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=385070",
+          "author": "Daniel Schwarz",
+          "description": "Having been tasked with creating a UI component for navigating the content of an online course, Daniel found himself neck-deep in a pool of new CSS features that he wound up using on the project.\nCase Study: Combining Cutting-Edge CSS Features Into a “Course Navigation” Component originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/case-study-combining-cutting-edge-css-features-into-a-course-navigation-component/",
+          "publishedOn": "2025-03-25T12:47:18.000Z",
+          "wordCount": 4276,
+          "title": "Case Study: Combining Cutting-Edge CSS Features Into a “Course Navigation” Component",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/03/course-navigation-ui.png"
+        },
+        {
           "id": "https://css-tricks.com/?p=385389",
           "author": "Geoff Graham",
           "description": "There’s a bit of a blind spot when working with CSS logical properties concerning shorthands.\nSupport Logical Shorthands in CSS originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -300,6 +310,76 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "67e2ec52cd467794ee79d63e",
+          "author": "Ijeoma Igboagu",
+          "description": "As a DevOps engineer, it is crucial to master at least one cloud provider. Cloud services simplify storage, data migration, and CI/CD workflows and help make these tasks easier and more efficient. If you need a basic introduction to cloud computing, ...",
+          "link": "https://www.freecodecamp.org/news/how-to-connect-your-aws-ec2-instance-to-vs-code/",
+          "publishedOn": "2025-03-25T17:48:02.000Z",
+          "wordCount": 2575,
+          "title": "How to Connect Your AWS EC2 Instance to VS Code",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1742397603245/c1ca0496-dbab-4570-8b6b-cb4bac5f72c1.png"
+        },
+        {
+          "id": "67e2d66c64d44185d5a6d406",
+          "author": "Victoria Nduka",
+          "description": "If you're new to cloud native technologies, you may have heard the term 'observability' before. But what exactly does it mean? Is it simply the ability to observe? And if so, what are we observing and why? I had the same questions when I started lear...",
+          "link": "https://www.freecodecamp.org/news/observability-in-cloud-native-applications/",
+          "publishedOn": "2025-03-25T16:14:36.000Z",
+          "wordCount": 2846,
+          "title": "A Beginner's Guide to Observability in Cloud Native Applications",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1742917070693/fa372981-fb20-4230-bd9f-43b7255b8ced.png"
+        },
+        {
+          "id": "67e2d5e080e11112e050be00",
+          "author": "Rob Walters",
+          "description": "AWS Lambda is a computing service that enables you to run arbitrary code functions without needing to provision, manage, or scale servers. It’s often used in the logic tier of a multi-tier architecture to handle tasks such as processing files in S3 o...",
+          "link": "https://www.freecodecamp.org/news/how-to-orchestrate-aws-lambda-with-graphql-and-apollo-connectors/",
+          "publishedOn": "2025-03-25T16:12:16.000Z",
+          "wordCount": 3864,
+          "title": "Orchestrating AWS Lambda with GraphQL and Apollo Connectors",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1742917115054/07184be6-5384-4861-a676-b72c06ff7c65.png"
+        },
+        {
+          "id": "67e2d5a9436e3bed610a8a95",
+          "author": "Vivek Sahu",
+          "description": "Python is known for its simplicity and readability, making it a favorite among developers. But this simplicity sometimes comes at the cost of performance. When your Python application grows or needs to handle larger workloads, understanding what's ha...",
+          "link": "https://www.freecodecamp.org/news/how-to-use-pythons-built-in-profiling-tools-examples-and-best-practices/",
+          "publishedOn": "2025-03-25T16:11:21.000Z",
+          "wordCount": 4519,
+          "title": "How to Use Python's Built-in Profiling Tools: Examples and Best Practices",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1742917060232/7ea623ac-4c4d-4bb9-9edf-f9041a8bc9ae.png"
+        },
+        {
+          "id": "67e2cd0841be93b03e257b93",
+          "author": "oghenekparobo Stephen",
+          "description": "DevOps might seem like a complex field with various specializations and tools. In this article, I’ll simplify one key aspect by demonstrating how to host a static website using Amazon S3 (Simple Storage Service) and CloudFront, AWS’s Content Delivery...",
+          "link": "https://www.freecodecamp.org/news/host-a-static-website-on-aws-s3-and-cloudfront/",
+          "publishedOn": "2025-03-25T15:34:32.000Z",
+          "wordCount": 4787,
+          "title": "How to Host a Static Website on AWS S3 and CloudFront",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1742916792332/9dbf6a18-7260-434f-815d-e38a82c9e47e.png"
+        },
+        {
+          "id": "67e2cbfdaa97659cd53cf39f",
+          "author": "Grant Riordan",
+          "description": "At some point in your development lifecycle, you will need to test that your system can integrate with another system, whether it be another API, a database, or caching service, for example. This can be a laborious task of spinning up other servers h...",
+          "link": "https://www.freecodecamp.org/news/how-to-use-testcontainers-in-net/",
+          "publishedOn": "2025-03-25T15:30:05.000Z",
+          "wordCount": 3516,
+          "title": "How to Use TestContainers in .Net",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1742773343798/44c64acc-3862-4325-af21-6b7de417d300.jpeg"
+        },
+        {
+          "id": "67e1ec8917e7e6a0f12cddf5",
+          "author": "Okoro Emmanuel Nzube",
+          "description": "Being able to communicate by sending emails through web applications is important these days. It helps businesses stay connected with their potential customers. In this article, you’ll learn how to implement the Send Email function in your web app us...",
+          "link": "https://www.freecodecamp.org/news/create-a-send-email-function-using-nodemailer-and-oauth2/",
+          "publishedOn": "2025-03-24T23:36:41.000Z",
+          "wordCount": 4091,
+          "title": "How to Create a Send Email Function using Nodemailer and OAuth2",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1742859346889/dad1b775-f088-4c24-b252-3d85ec9e0bb7.png"
+        },
         {
           "id": "67ddbf930d353b1d4dfa0ebd",
           "author": "Quincy Larson",
