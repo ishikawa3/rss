@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-03-26T00:13:51.443Z</updated>
+    <updated>2025-03-27T00:13:37.344Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Create Microservices with NestJS]]></title>
+        <id>67e434766d7e1561ea4bf0e6</id>
+        <link href="https://www.freecodecamp.org/news/create-microservices-with-nestjs/"/>
+        <updated>2025-03-26T17:08:06.000Z</updated>
+        <summary type="html"><![CDATA[Microservices architecture has become a popular approach for building scalable and maintainable applications. By breaking down large applications into smaller, independent services, developers can improve performance, maintainability, and scalability...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Host Local LLMs in a Docker Container on Azure]]></title>
+        <id>67e42705cb510eea06095d36</id>
+        <link href="https://www.freecodecamp.org/news/host-llms-locally-in-docker-on-azure/"/>
+        <updated>2025-03-26T16:10:45.000Z</updated>
+        <summary type="html"><![CDATA[Have you ever run into a situation where you want to test some local AI models, but your computer doesn't have enough specs to run them? Or maybe you just don't like bloating your computer with a ton of AI models? You're not alone in this. I’ve faced...]]></summary>
+        <author>
+            <name>Shrijal Acharya</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is SRE? A Beginner's Guide to Site Reliability Engineering]]></title>
+        <id>67e4265f7281ac30028843e1</id>
+        <link href="https://www.freecodecamp.org/news/what-is-site-reliability-engineering/"/>
+        <updated>2025-03-26T16:07:59.000Z</updated>
+        <summary type="html"><![CDATA[In today’s digital age, we expect our online experiences to be fast, reliable, and always available. But what happens behind the scenes to make our expectations a reality? The answer is Site Reliability Engineering (SRE). SRE is a discipline that ens...]]></summary>
+        <author>
+            <name>Omolade Ekpeni</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Extract  YouTube Analytics Data and Analyze in Python]]></title>
+        <id>67e425c92a171465d4fb4cce</id>
+        <link href="https://www.freecodecamp.org/news/extract-youtube-analytics-data-and-analyze-in-python/"/>
+        <updated>2025-03-26T16:05:29.000Z</updated>
+        <summary type="html"><![CDATA[If you’re a YouTube content creator, you’ll make data-driven decisions when posting content. This helps you target the right audience when creating your videos. YouTube Studio provides YouTube Analytics, where you can get comprehensive data about you...]]></summary>
+        <author>
+            <name>Adejumo Ridwan Suleiman</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Connect Your AWS EC2 Instance to VS Code]]></title>
         <id>67e2ec52cd467794ee79d63e</id>
@@ -711,27 +751,6 @@ Using & Styling the Details Element originally published on CSS-Tricks, which is
         <summary type="html"><![CDATA[LaTeX is a high-quality typesetting system that is widely used in technical, academic, and scientific writing. It’s very popular in academia, especially in fields like mathematics, physics, computer science, and engineering. LaTeX is not a word proce...]]></summary>
         <author>
             <name>Md. Fahim Bin Amin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Speed Up Website Loading by Removing Extra Bits and Bytes]]></title>
-        <id>67bca6f616cf4617f656a33f</id>
-        <link href="https://www.freecodecamp.org/news/speed-up-website-loading/"/>
-        <updated>2025-02-24T17:05:58.000Z</updated>
-        <summary type="html"><![CDATA[Let’s start with an interesting fact: according to research done by Akamai, a 1-second delay in loading a website’s page can decrease the conversion rate by 7%. We are currently living in a fast-paced world, where time is money for everyone. People e...]]></summary>
-        <author>
-            <name>Alex Tray</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Applying the Web Dev Mindset to Dealing With Life Challenges]]></title>
-        <id>https://css-tricks.com/?p=384565</id>
-        <link href="https://css-tricks.com/applying-the-web-dev-mindset-to-dealing-with-life-challenges/"/>
-        <updated>2025-02-24T13:42:16.000Z</updated>
-        <summary type="html"><![CDATA[The grain of truth was that even if you love your job, it can’t love you back. Yet what I’m hooked on isn’t one job, but the power of code and language.
-Applying the Web Dev Mindset to Dealing With Life Challenges originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Lee Meyer</name>
         </author>
     </entry>
 </feed>

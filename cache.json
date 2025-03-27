@@ -150,16 +150,6 @@
           "wordCount": 3750,
           "title": "Using & Styling the Details Element",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2022/09/details-box.jpg"
-        },
-        {
-          "id": "https://css-tricks.com/?p=384565",
-          "author": "Lee Meyer",
-          "description": "The grain of truth was that even if you love your job, it can’t love you back. Yet what I’m hooked on isn’t one job, but the power of code and language.\nApplying the Web Dev Mindset to Dealing With Life Challenges originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/applying-the-web-dev-mindset-to-dealing-with-life-challenges/",
-          "publishedOn": "2025-02-24T13:42:16.000Z",
-          "wordCount": 4733,
-          "title": "Applying the Web Dev Mindset to Dealing With Life Challenges",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2018/06/brain-gears.png"
         }
       ]
     },
@@ -310,6 +300,46 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "67e434766d7e1561ea4bf0e6",
+          "author": "Beau Carnes",
+          "description": "Microservices architecture has become a popular approach for building scalable and maintainable applications. By breaking down large applications into smaller, independent services, developers can improve performance, maintainability, and scalability...",
+          "link": "https://www.freecodecamp.org/news/create-microservices-with-nestjs/",
+          "publishedOn": "2025-03-26T17:08:06.000Z",
+          "wordCount": 1143,
+          "title": "Create Microservices with NestJS",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1743008871537/ad2be682-1c63-4d10-9cd3-7b33a7451b9b.png"
+        },
+        {
+          "id": "67e42705cb510eea06095d36",
+          "author": "Shrijal Acharya",
+          "description": "Have you ever run into a situation where you want to test some local AI models, but your computer doesn't have enough specs to run them? Or maybe you just don't like bloating your computer with a ton of AI models? You're not alone in this. I’ve faced...",
+          "link": "https://www.freecodecamp.org/news/host-llms-locally-in-docker-on-azure/",
+          "publishedOn": "2025-03-26T16:10:45.000Z",
+          "wordCount": 4208,
+          "title": "How to Host Local LLMs in a Docker Container on Azure",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1743005422195/56c65ac2-7a0d-4bd6-b969-a4c02eb3c42e.png"
+        },
+        {
+          "id": "67e4265f7281ac30028843e1",
+          "author": "Omolade Ekpeni",
+          "description": "In today’s digital age, we expect our online experiences to be fast, reliable, and always available. But what happens behind the scenes to make our expectations a reality? The answer is Site Reliability Engineering (SRE). SRE is a discipline that ens...",
+          "link": "https://www.freecodecamp.org/news/what-is-site-reliability-engineering/",
+          "publishedOn": "2025-03-26T16:07:59.000Z",
+          "wordCount": 3319,
+          "title": "What is SRE? A Beginner's Guide to Site Reliability Engineering",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1743005263079/95dfe528-a274-4172-8a06-46187c1668eb.png"
+        },
+        {
+          "id": "67e425c92a171465d4fb4cce",
+          "author": "Adejumo Ridwan Suleiman",
+          "description": "If you’re a YouTube content creator, you’ll make data-driven decisions when posting content. This helps you target the right audience when creating your videos. YouTube Studio provides YouTube Analytics, where you can get comprehensive data about you...",
+          "link": "https://www.freecodecamp.org/news/extract-youtube-analytics-data-and-analyze-in-python/",
+          "publishedOn": "2025-03-26T16:05:29.000Z",
+          "wordCount": 2822,
+          "title": "How to Extract  YouTube Analytics Data and Analyze in Python",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1743005089726/39e2323d-8f7b-4bf4-94cb-288aeb9cea4f.png"
+        },
         {
           "id": "67e2ec52cd467794ee79d63e",
           "author": "Ijeoma Igboagu",
@@ -769,16 +799,6 @@
           "wordCount": 1976,
           "title": "How to Run LaTeX Projects Locally (for Free) On Windows",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1740494599916/ce7cfadb-985c-4245-9cc8-1ccba483ba69.png"
-        },
-        {
-          "id": "67bca6f616cf4617f656a33f",
-          "author": "Alex Tray",
-          "description": "Let’s start with an interesting fact: according to research done by Akamai, a 1-second delay in loading a website’s page can decrease the conversion rate by 7%. We are currently living in a fast-paced world, where time is money for everyone. People e...",
-          "link": "https://www.freecodecamp.org/news/speed-up-website-loading/",
-          "publishedOn": "2025-02-24T17:05:58.000Z",
-          "wordCount": 3270,
-          "title": "How to Speed Up Website Loading by Removing Extra Bits and Bytes",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1740094347867/d1097d7b-776f-4228-8088-7726b827271f.png"
         }
       ]
     }
