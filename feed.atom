@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-03-27T00:13:37.344Z</updated>
+    <updated>2025-03-28T00:13:32.784Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Learn the top Excel formulas and functions]]></title>
+        <id>67e5643f0a2aebb29e2c2264</id>
+        <link href="https://www.freecodecamp.org/news/learn-the-top-excel-formulas-and-functions/"/>
+        <updated>2025-03-27T14:44:15.000Z</updated>
+        <summary type="html"><![CDATA[Excel is one of the most powerful tools for data analysis, organization, and automation. Whether you're a student, business professional, or data analyst, mastering Excel formulas and functions can significantly boost your productivity. However, with...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Adaptive Video Streaming With Dash.js In React]]></title>
+        <id>https://smashingmagazine.com/2025/03/adaptive-video-streaming-dashjs-react/</id>
+        <link href="https://smashingmagazine.com/2025/03/adaptive-video-streaming-dashjs-react/"/>
+        <updated>2025-03-27T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[HTML `` is the de facto element we turn to for embedding video content, but it comes with constraints. For example, it downloads the video file linearly over HTTP, which leads to performance hiccups, especially for large videos consumed on slower connections. But with adaptive bitrate streaming, we can split the video into multiple segments at different bitrates and resolutions.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Teng Wei Herr)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An Animated Introduction to Programming in C++]]></title>
+        <id>67e48bff04e3150220f40379</id>
+        <link href="https://www.freecodecamp.org/news/learn-programming-in-cpp/"/>
+        <updated>2025-03-26T23:21:35.000Z</updated>
+        <summary type="html"><![CDATA[In this tutorial, I’ll give you a comprehensive introduction to programming in C++. You don't need to have any previous programming experience in order to begin. Along the way, you will learn about the flow of control, variables, conditional statemen...]]></summary>
+        <author>
+            <name>Mark Mahoney</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Move Figma Components to Penpot]]></title>
+        <id>67e48bc10d600bc3806ccf54</id>
+        <link href="https://www.freecodecamp.org/news/how-to-recreate-figma-components-in-penpot/"/>
+        <updated>2025-03-26T23:20:33.000Z</updated>
+        <summary type="html"><![CDATA[Penpot is an open-source design tool for creating complete design systems. It is free, self-hostable, and allows multiple projects. Penpot supports reusable components and assets and allows files and libraries to be shared across projects. Penpot fil...]]></summary>
+        <author>
+            <name>Fatuma Abdullahi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Create Microservices with NestJS]]></title>
         <id>67e434766d7e1561ea4bf0e6</id>
@@ -711,46 +751,6 @@ Using & Styling the Details Element originally published on CSS-Tricks, which is
         <summary type="html"><![CDATA[JavaScript has been a popular programming language for almost 30 years now. Whether you’re using it for web applications, mobile applications, backend services, or even desktop applications, you’ll find that JavaScript has deep roots. Many of the lib...]]></summary>
         <author>
             <name>Tapas Adhikary</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Human Element: Using Research And Psychology To Elevate Data Storytelling]]></title>
-        <id>https://smashingmagazine.com/2025/02/human-element-using-research-psychology-elevate-data-storytelling/</id>
-        <link href="https://smashingmagazine.com/2025/02/human-element-using-research-psychology-elevate-data-storytelling/"/>
-        <updated>2025-02-26T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Effective data storytelling isn’t a black box. By integrating UX research & psychology, you can craft more impactful and persuasive narratives. Victor Yocco and Angelica Lo Duca outline a five-step framework that provides a roadmap for creating data stories that resonate with audiences on both a cognitive and emotional level.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Victor Yocco &amp; Angelica Lo Duca)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Reusable useSearch Hook in React]]></title>
-        <id>67be32ff803613c5edf10387</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-a-reusable-usesearch-hook-in-react/"/>
-        <updated>2025-02-25T21:15:43.000Z</updated>
-        <summary type="html"><![CDATA[Recently, I needed to add a search feature to a React app. Naturally, I did what many developers would do—I turned to Google for help. The first article I found was about building a search and filter component in React. As I read through it, I couldn...]]></summary>
-        <author>
-            <name>Spruce Emmanuel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is the Cold Start Problem in Recommender Systems?]]></title>
-        <id>67be316dd9d7f9374abc151b</id>
-        <link href="https://www.freecodecamp.org/news/cold-start-problem-in-recommender-systems/"/>
-        <updated>2025-02-25T21:09:01.000Z</updated>
-        <summary type="html"><![CDATA[Recommender systems are used to provide personalized experiences for customers in many industries today, including e-commerce, social media, entertainment, and education. These recommender systems make recommendations based on user preferences and co...]]></summary>
-        <author>
-            <name>Praise James</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Run LaTeX Projects Locally (for Free) On Windows]]></title>
-        <id>67bde54468de46f577ed25f8</id>
-        <link href="https://www.freecodecamp.org/news/how-to-run-latex-projects-locally-for-free-on-windows/"/>
-        <updated>2025-02-25T15:44:04.000Z</updated>
-        <summary type="html"><![CDATA[LaTeX is a high-quality typesetting system that is widely used in technical, academic, and scientific writing. It’s very popular in academia, especially in fields like mathematics, physics, computer science, and engineering. LaTeX is not a word proce...]]></summary>
-        <author>
-            <name>Md. Fahim Bin Amin</name>
         </author>
     </entry>
 </feed>

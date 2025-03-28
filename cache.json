@@ -159,6 +159,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2025/03/adaptive-video-streaming-dashjs-react/",
+          "author": "hello@smashingmagazine.com (Teng Wei Herr)",
+          "description": "HTML `` is the de facto element we turn to for embedding video content, but it comes with constraints. For example, it downloads the video file linearly over HTTP, which leads to performance hiccups, especially for large videos consumed on slower connections. But with adaptive bitrate streaming, we can split the video into multiple segments at different bitrates and resolutions.",
+          "link": "https://smashingmagazine.com/2025/03/adaptive-video-streaming-dashjs-react/",
+          "publishedOn": "2025-03-27T13:00:00.000Z",
+          "wordCount": 4475,
+          "title": "Adaptive Video Streaming With Dash.js In React",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/adaptive-video-streaming-dashjs-react/adaptive-video-streaming-dashjs-react.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/adaptive-video-streaming-dashjs-react/adaptive-video-streaming-dashjs-react.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2025/03/previewing-content-changes-work-documentdesignmode/",
           "author": "hello@smashingmagazine.com (Victor Ayomipo)",
           "description": "You probably already know that you can use developer tools in your browser to make on-the-spot changes to a webpage — simply click the node in the Inspector and make your edits. But have you tried `document.designMode`? Victor Ayomipo explains how it can be used to preview content changes and demonstrates several use cases where it comes in handy for everything from basic content editing to improving team collaboration.",
@@ -277,21 +292,6 @@
             "type": "image/png"
           },
           "imageUrl": "http://files.smashing.media/articles/desktop-wallpaper-calendars-march-2025/mar-25-bee-utiful-smile-preview-opt.png"
-        },
-        {
-          "id": "https://smashingmagazine.com/2025/02/human-element-using-research-psychology-elevate-data-storytelling/",
-          "author": "hello@smashingmagazine.com (Victor Yocco & Angelica Lo Duca)",
-          "description": "Effective data storytelling isn’t a black box. By integrating UX research & psychology, you can craft more impactful and persuasive narratives. Victor Yocco and Angelica Lo Duca outline a five-step framework that provides a roadmap for creating data stories that resonate with audiences on both a cognitive and emotional level.",
-          "link": "https://smashingmagazine.com/2025/02/human-element-using-research-psychology-elevate-data-storytelling/",
-          "publishedOn": "2025-02-26T10:00:00.000Z",
-          "wordCount": 7282,
-          "title": "The Human Element: Using Research And Psychology To Elevate Data Storytelling",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/human-element-using-research-psychology-elevate-data-storytelling/human-element-using-research-psychology-elevate-data-storytelling.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/human-element-using-research-psychology-elevate-data-storytelling/human-element-using-research-psychology-elevate-data-storytelling.jpg"
         }
       ]
     },
@@ -300,6 +300,36 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "67e5643f0a2aebb29e2c2264",
+          "author": "Beau Carnes",
+          "description": "Excel is one of the most powerful tools for data analysis, organization, and automation. Whether you're a student, business professional, or data analyst, mastering Excel formulas and functions can significantly boost your productivity. However, with...",
+          "link": "https://www.freecodecamp.org/news/learn-the-top-excel-formulas-and-functions/",
+          "publishedOn": "2025-03-27T14:44:15.000Z",
+          "wordCount": 1220,
+          "title": "Learn the top Excel formulas and functions",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1743086651754/1f008643-281a-452a-bc45-c8247f23ddb9.png"
+        },
+        {
+          "id": "67e48bff04e3150220f40379",
+          "author": "Mark Mahoney",
+          "description": "In this tutorial, I’ll give you a comprehensive introduction to programming in C++. You don't need to have any previous programming experience in order to begin. Along the way, you will learn about the flow of control, variables, conditional statemen...",
+          "link": "https://www.freecodecamp.org/news/learn-programming-in-cpp/",
+          "publishedOn": "2025-03-26T23:21:35.000Z",
+          "wordCount": 6750,
+          "title": "An Animated Introduction to Programming in C++",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1743028744653/12f33ee5-4ef4-47da-b50d-060a9ee327ce.png"
+        },
+        {
+          "id": "67e48bc10d600bc3806ccf54",
+          "author": "Fatuma Abdullahi",
+          "description": "Penpot is an open-source design tool for creating complete design systems. It is free, self-hostable, and allows multiple projects. Penpot supports reusable components and assets and allows files and libraries to be shared across projects. Penpot fil...",
+          "link": "https://www.freecodecamp.org/news/how-to-recreate-figma-components-in-penpot/",
+          "publishedOn": "2025-03-26T23:20:33.000Z",
+          "wordCount": 2463,
+          "title": "How to Move Figma Components to Penpot",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1743028701920/ef200f8f-888d-4658-a5b0-ffa483edbdcf.png"
+        },
         {
           "id": "67e434766d7e1561ea4bf0e6",
           "author": "Beau Carnes",
@@ -769,36 +799,6 @@
           "wordCount": 2522,
           "title": "If-Else vs Switch Case in JavaScript – Which One is Better?",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1740585035432/f829418f-0efc-4af9-b1c7-7233b6640abc.png"
-        },
-        {
-          "id": "67be32ff803613c5edf10387",
-          "author": "Spruce Emmanuel",
-          "description": "Recently, I needed to add a search feature to a React app. Naturally, I did what many developers would do—I turned to Google for help. The first article I found was about building a search and filter component in React. As I read through it, I couldn...",
-          "link": "https://www.freecodecamp.org/news/how-to-build-a-reusable-usesearch-hook-in-react/",
-          "publishedOn": "2025-02-25T21:15:43.000Z",
-          "wordCount": 4008,
-          "title": "How to Build a Reusable useSearch Hook in React",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1740494925672/3a87e5a2-5233-4fae-a652-4fbf5b325ded.png"
-        },
-        {
-          "id": "67be316dd9d7f9374abc151b",
-          "author": "Praise James",
-          "description": "Recommender systems are used to provide personalized experiences for customers in many industries today, including e-commerce, social media, entertainment, and education. These recommender systems make recommendations based on user preferences and co...",
-          "link": "https://www.freecodecamp.org/news/cold-start-problem-in-recommender-systems/",
-          "publishedOn": "2025-02-25T21:09:01.000Z",
-          "wordCount": 2500,
-          "title": "What is the Cold Start Problem in Recommender Systems?",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1740509206117/308696ac-788a-4545-b7dd-0e2352e33436.png"
-        },
-        {
-          "id": "67bde54468de46f577ed25f8",
-          "author": "Md. Fahim Bin Amin",
-          "description": "LaTeX is a high-quality typesetting system that is widely used in technical, academic, and scientific writing. It’s very popular in academia, especially in fields like mathematics, physics, computer science, and engineering. LaTeX is not a word proce...",
-          "link": "https://www.freecodecamp.org/news/how-to-run-latex-projects-locally-for-free-on-windows/",
-          "publishedOn": "2025-02-25T15:44:04.000Z",
-          "wordCount": 1976,
-          "title": "How to Run LaTeX Projects Locally (for Free) On Windows",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1740494599916/ce7cfadb-985c-4245-9cc8-1ccba483ba69.png"
         }
       ]
     }
