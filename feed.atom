@@ -2,10 +2,71 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-03-28T00:13:32.784Z</updated>
+    <updated>2025-03-29T00:13:36.117Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[From broke musician to working dev. How college drop-out Ryan Furrer taught himself to code [Podcast #166]]]></title>
+        <id>67e6f817cd414b8fc3de97c7</id>
+        <link href="https://www.freecodecamp.org/news/from-broke-musician-to-working-dev-ryan-furrer-podcast-166/"/>
+        <updated>2025-03-28T19:27:19.000Z</updated>
+        <summary type="html"><![CDATA[On this week's episode of the podcast, I interview Ryan Furrer. He's a Front End Engineer working on tools that help companies monitor their buildings for energy usage, water leaks, and other environmental factors. Ryan dropped out of college and wor...]]></summary>
+        <author>
+            <name>Quincy Larson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Your Code is Slow: Common  Performance Mistakes Beginners Make]]></title>
+        <id>67e6c26a4c687a76c3f3934d</id>
+        <link href="https://www.freecodecamp.org/news/why-your-code-is-slow-common-performance-mistakes-beginners-make/"/>
+        <updated>2025-03-28T15:38:18.000Z</updated>
+        <summary type="html"><![CDATA[Maybe you’ve experienced something like this before: you’ve written code that works, but when you hit “run,” it takes forever. You stare at the spinner, wondering if it’s faster to just solve the problem by hand. But you end up looking something like...]]></summary>
+        <author>
+            <name>Rahul</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Deploy a Restful Web Service on Microsoft Azure App Service]]></title>
+        <id>67e6c180423cd4f90a6350b5</id>
+        <link href="https://www.freecodecamp.org/news/deploy-a-restful-web-service-on-microsoft-azure-app-service/"/>
+        <updated>2025-03-28T15:34:24.000Z</updated>
+        <summary type="html"><![CDATA[Hey there! 👋, How’s it going? I hope you're doing well. Whether you're a seasoned coder, a curious learner, or just someone browsing through, welcome to my little corner of the internet. In this tutorial, we’ll dive into how you can deploy a web ser...]]></summary>
+        <author>
+            <name>Alaran Ayobami</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Set Up a Home VPN Using Tailscale on a Raspberry Pi]]></title>
+        <id>67e6c11d423cd4f90a6350ab</id>
+        <link href="https://www.freecodecamp.org/news/set-up-a-home-vpn-using-tailscale-on-a-raspberry-pi/"/>
+        <updated>2025-03-28T15:32:45.000Z</updated>
+        <summary type="html"><![CDATA[In this article, you’ll learn how to set up a VPN which you can host on a Raspberry Pi. I am a fan of Raspberry Pis because these small form factor computers are a favourite tool for tinkerers, like me. This VPN will allow you to access your home net...]]></summary>
+        <author>
+            <name>Daniel Anomfueme</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Automated Visual Regression Testing With Playwright]]></title>
+        <id>https://css-tricks.com/?p=385297</id>
+        <link href="https://css-tricks.com/automated-visual-regression-testing-with-playwright/"/>
+        <updated>2025-03-28T15:04:24.000Z</updated>
+        <summary type="html"><![CDATA[With visual regression testing, we can update a page, take screenshots before and after the fact, and compare the results for unintended changes. In this article, learn how to set up visual regression testing using Playwright.
+Automated Visual Regression Testing With Playwright originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Frederik Dohr</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Send Emails in Python using Mailtrap SMTP and the Email API]]></title>
+        <id>67e6ab43aa64aee164e7985e</id>
+        <link href="https://www.freecodecamp.org/news/send-emails-in-python-using-mailtrap-smtp-and-the-email-api/"/>
+        <updated>2025-03-28T13:59:31.000Z</updated>
+        <summary type="html"><![CDATA[In this tutorial, I’ll walk you through the process of sending emails in Python using two different methods:  The traditional SMTP setup with the built-in ‘smtplib’ module.  Mailtrap email API via Mailtrap’s official SDK.  If you’re unfamiliar wi...]]></summary>
+        <author>
+            <name>Alex Tray</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Learn the top Excel formulas and functions]]></title>
         <id>67e5643f0a2aebb29e2c2264</id>
@@ -699,58 +760,6 @@ A CSS-Only Star Rating Component and More! (Part 1) originally published on CSS-
         <summary type="html"><![CDATA[Linear algebra is a fundamental building block of machine learning. Whether you are working with deep learning models, optimization algorithms, or computer vision applications, understanding linear algebra concepts can give you a solid mathematical f...]]></summary>
         <author>
             <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Build an AI Chat Application with the MERN Stack]]></title>
-        <id>67bf99792e5bf2f98ee2466d</id>
-        <link href="https://www.freecodecamp.org/news/build-an-ai-chat-application-with-the-mern-stack/"/>
-        <updated>2025-02-26T22:45:13.000Z</updated>
-        <summary type="html"><![CDATA[AI-powered chat applications are becoming an essential part of modern web development, enabling users to interact with intelligent conversational agents. Whether for customer support, virtual assistants, or educational tools, building your own AI cha...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Build a Vision Transformer from Scratch]]></title>
-        <id>67bf961287f2aad5763d1f78</id>
-        <link href="https://www.freecodecamp.org/news/build-a-vision-transformer-from-scratch/"/>
-        <updated>2025-02-26T22:30:42.000Z</updated>
-        <summary type="html"><![CDATA[Transformers have revolutionized natural language processing, and now they are transforming computer vision as well. Vision Transformers (ViTs) apply the power of self-attention to image processing, offering state-of-the-art performance in tasks like...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Code a Crossy Road Game Clone with React Three Fiber]]></title>
-        <id>67bf859b948d001fe6c9ab99</id>
-        <link href="https://www.freecodecamp.org/news/how-to-code-a-crossy-road-game-clone-with-react-three-fiber/"/>
-        <updated>2025-02-26T21:20:27.000Z</updated>
-        <summary type="html"><![CDATA[In this tutorial, you’ll learn how to create a clone of the mobile game Crossy Road with React Three Fiber. In a previous tutorial, I taught you how to build this game using Three.js and vanilla JavaScript. And here, you’ll learn how to make the same...]]></summary>
-        <author>
-            <name>Hunor Márton Borbély</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Using & Styling the Details Element]]></title>
-        <id>https://css-tricks.com/?p=383813</id>
-        <link href="https://css-tricks.com/using-styling-the-details-element/"/>
-        <updated>2025-02-26T16:07:14.000Z</updated>
-        <summary type="html"><![CDATA[Now that we're 5+ years into 
-, we know more about it than ever before. I thought I'd round that information up so it's in one place I can reference in the future without having to search the site — and other sites — to find it.
-Using & Styling the Details Element originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[If-Else vs Switch Case in JavaScript – Which One is Better?]]></title>
-        <id>67bf38654fdd15eb4db76755</id>
-        <link href="https://www.freecodecamp.org/news/if-else-vs-switch-case-in-javascript/"/>
-        <updated>2025-02-26T15:51:01.000Z</updated>
-        <summary type="html"><![CDATA[JavaScript has been a popular programming language for almost 30 years now. Whether you’re using it for web applications, mobile applications, backend services, or even desktop applications, you’ll find that JavaScript has deep roots. Many of the lib...]]></summary>
-        <author>
-            <name>Tapas Adhikary</name>
         </author>
     </entry>
 </feed>
