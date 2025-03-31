@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-03-30T00:15:06.356Z</updated>
+    <updated>2025-03-31T00:15:08.808Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
@@ -709,47 +709,6 @@ Functions in CSS?! originally published on CSS-Tricks, which is part of the Digi
         <summary type="html"><![CDATA[Git has many concepts and commands that you’ll need to understand before you feel confident using it. Some of these concepts may sound trivial, especially to someone who has worked with Git before. But like most Git and coding concepts, even the “sim...]]></summary>
         <author>
             <name>Jacob Stopak</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use Zod for React API Validation]]></title>
-        <id>67c1f994107ebba152ad9e79</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-zod-for-react-api-validation/"/>
-        <updated>2025-02-28T17:59:48.000Z</updated>
-        <summary type="html"><![CDATA[In React applications, handling API (Application Programming Interface) responses can be challenging. You might encounter data that’s missing crucial fields, that’s formatted unexpectedly, or that simply doesn’t match what you anticipated. This incon...]]></summary>
-        <author>
-            <name>Emore Ogheneyoma Lawrence</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to become a developer in your 30s with Anjana Vakil [Podcast #162]]]></title>
-        <id>67c1e77814978ff66bb8a865</id>
-        <link href="https://www.freecodecamp.org/news/how-to-become-a-developer-in-your-30s-anjana-vakil-podcast-162/"/>
-        <updated>2025-02-28T16:42:32.000Z</updated>
-        <summary type="html"><![CDATA[On this week's episode of the podcast, I interview Anjana Vakil. She left academia to learn to code and got her first developer job in her 30s. Anjana was an English teacher who studied computational linguistics, and found building software to be mor...]]></summary>
-        <author>
-            <name>Quincy Larson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A CSS-Only Star Rating Component and More! (Part 1)]]></title>
-        <id>https://css-tricks.com/?p=384906</id>
-        <link href="https://css-tricks.com/a-css-only-star-rating-component-and-more-part-1/"/>
-        <updated>2025-02-28T14:03:32.000Z</updated>
-        <summary type="html"><![CDATA[In this article, you'll learn how to make a full-on star rating component out of nothing but a single input element and vanilla CSS.
-A CSS-Only Star Rating Component and More! (Part 1) originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Temani Afif</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sunshine And March Vibes (2025 Wallpapers Edition)]]></title>
-        <id>https://smashingmagazine.com/2025/02/desktop-wallpaper-calendars-march-2025/</id>
-        <link href="https://smashingmagazine.com/2025/02/desktop-wallpaper-calendars-march-2025/"/>
-        <updated>2025-02-28T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Do you need a little inspiration boost? Well, then our new batch of desktop wallpapers is for you. Designed by the community for the community, the wallpapers in this collection are the perfect opportunity to get your desktop ready for spring — and, who knows, maybe they’ll spark some new ideas, too. Enjoy!]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
         </author>
     </entry>
 </feed>
