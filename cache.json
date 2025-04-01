@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=385188",
+          "author": "Lee Meyer",
+          "description": "Interactive CSS animations with elements ricocheting off each other seem more plausible in 2025. While it’s unnecessary to implement Pong in CSS, the increasing flexibility and power of CSS reinforce Lee's suspicion that one day it will be a lifestyle choice whether to achieve any given effect with scripting or CSS.\nWorlds Collide: Keyframe Collision Detection Using Style Queries originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/worlds-collide-keyframe-collision-detection-using-style-queries/",
+          "publishedOn": "2025-03-31T14:59:47.000Z",
+          "wordCount": 3934,
+          "title": "Worlds Collide: Keyframe Collision Detection Using Style Queries",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/03/pong.jpg"
+        },
+        {
           "id": "https://css-tricks.com/?p=385297",
           "author": "Frederik Dohr",
           "description": "With visual regression testing, we can update a page, take screenshots before and after the fact, and compare the results for unintended changes. In this article, learn how to set up visual regression testing using Playwright.\nAutomated Visual Regression Testing With Playwright originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -148,6 +158,36 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2025/03/desktop-wallpaper-calendars-april-2025/",
+          "author": "hello@smashingmagazine.com (Cosima Mielke)",
+          "description": "The beginning of the new month is the perfect opportunity to give your desktop a makeover. If you’re looking for some beautiful and unique wallpapers to cater for a bit of inspiration this April, well, this post has got you covered.",
+          "link": "https://smashingmagazine.com/2025/03/desktop-wallpaper-calendars-april-2025/",
+          "publishedOn": "2025-03-31T13:00:00.000Z",
+          "wordCount": 4555,
+          "title": "Blossoms, Flowers, And The Magic Of Spring (April 2025 Wallpapers Edition)",
+          "enclosure": {
+            "url": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0e46f3a5-f552-494c-a790-2ea6e0fefa97/apr-20-spring-awakens-preview-opt.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0e46f3a5-f552-494c-a790-2ea6e0fefa97/apr-20-spring-awakens-preview-opt.png"
+        },
+        {
+          "id": "https://smashingmagazine.com/2025/03/how-to-argue-against-ai-first-research/",
+          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
+          "description": "Companies have been turning their attention to “synthetic,” AI-driven user testing. However, as convenient as it might seem, it’s dangerous, expensive, and usually diminishes user value. Let’s take a closer look at why exactly it is problematic and how we can argue against it to make a case for UX research with real users. Part of [Smart Interface Design Patterns](https://smart-interface-design-patterns.com) by yours truly.",
+          "link": "https://smashingmagazine.com/2025/03/how-to-argue-against-ai-first-research/",
+          "publishedOn": "2025-03-28T09:00:00.000Z",
+          "wordCount": 3824,
+          "title": "How To Argue Against AI-First Research",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/how-to-argue-against-ai-first-research/user-research-without-users-opt.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "http://files.smashing.media/articles/how-to-argue-against-ai-first-research/user-research-without-users-opt.png"
+        },
         {
           "id": "https://smashingmagazine.com/2025/03/adaptive-video-streaming-dashjs-react/",
           "author": "hello@smashingmagazine.com (Teng Wei Herr)",
@@ -744,16 +784,6 @@
           "wordCount": 7341,
           "title": "How to Build a Social Learning Platform using Next.js, Stream, and Supabase",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1741009946459/dba65929-1b65-4278-9601-4d047042753a.png"
-        },
-        {
-          "id": "67c1cfa78df3594301bc3fef",
-          "author": "Jacob Stopak",
-          "description": "Git has many concepts and commands that you’ll need to understand before you feel confident using it. Some of these concepts may sound trivial, especially to someone who has worked with Git before. But like most Git and coding concepts, even the “sim...",
-          "link": "https://www.freecodecamp.org/news/learn-git-through-gamification/",
-          "publishedOn": "2025-03-02T06:00:00.000Z",
-          "wordCount": 2613,
-          "title": "Learn Git through Gamification – A Visual Guide to Key Version Control Concepts",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1740686401633/ffd9ac3c-668a-47bf-b2ba-f7cee14e74a8.webp"
         }
       ]
     }
