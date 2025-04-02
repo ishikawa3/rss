@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-04-01T00:16:12.803Z</updated>
+    <updated>2025-04-02T00:14:19.250Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Understand and Code DeepSeek V3]]></title>
+        <id>67ec22879f76b0cdc2046ddb</id>
+        <link href="https://www.freecodecamp.org/news/understand-and-code-deepseek-v3/"/>
+        <updated>2025-04-01T17:29:43.000Z</updated>
+        <summary type="html"><![CDATA[DeepSeek V3 is a cutting-edge large language model. It leverages sophisticated techniques like a unique Multi-Head Latent Attention mechanism and a Mixture of Experts architecture for enhanced efficiency and capability. Understanding this model provi...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Crafting Strong DX With Astro Components and TypeScript]]></title>
+        <id>https://css-tricks.com/?p=385086</id>
+        <link href="https://css-tricks.com/crafting-strong-dx-with-astro-components-and-typescript/"/>
+        <updated>2025-04-01T13:50:58.000Z</updated>
+        <summary type="html"><![CDATA[One thing we can do to help teams code consistently is provide type-checking so that all of the configurable options for a specific component are available while coding. Bryan demonstrates how he does this with TypeScript when working with Astro components.
+Crafting Strong DX With Astro Components and TypeScript originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Bryan Robinson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Team of AI Agents for Your Website for Free Using Agno and Groq]]></title>
+        <id>67eb1b3398e2cf5154940366</id>
+        <link href="https://www.freecodecamp.org/news/build-a-team-of-ai-agents-for-your-website-for-free/"/>
+        <updated>2025-03-31T22:46:11.000Z</updated>
+        <summary type="html"><![CDATA[AI is quickly changing the way we work, and more and more companies are using it to help them get and retain clients. Teams are also using AI to create innovative and responsive websites capable of engaging visitors while also providing helpful infor...]]></summary>
+        <author>
+            <name>Andrew Baisden</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Worlds Collide: Keyframe Collision Detection Using Style Queries]]></title>
         <id>https://css-tricks.com/?p=385188</id>
@@ -720,16 +751,6 @@ Grouping Selection List Items Together With CSS Grid originally published 
 Functions in CSS?! originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Juan Diego Rodríguez</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Case For Minimal WordPress Setups: A Contrarian View On Theme Frameworks]]></title>
-        <id>https://smashingmagazine.com/2025/03/case-minimal-wordpress-setups-contrarian-view-theme-frameworks/</id>
-        <link href="https://smashingmagazine.com/2025/03/case-minimal-wordpress-setups-contrarian-view-theme-frameworks/"/>
-        <updated>2025-03-03T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Modern frameworks are supposed to help speed up development while providing modern tools and a developer-friendly workflow. In reality, Kevin Leary has found that they cause far more problems than they solve. This ultimately leads to the big question: why are modern theme frameworks so popular, and do they really benefit developers in the long run?]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Kevin Leary)</name>
         </author>
     </entry>
 </feed>
