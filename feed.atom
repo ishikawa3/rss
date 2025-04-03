@@ -2,10 +2,61 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-04-02T00:14:19.250Z</updated>
+    <updated>2025-04-03T00:13:52.780Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Deploy a Node.js Application on AWS]]></title>
+        <id>67ed67823b8c37d192779b99</id>
+        <link href="https://www.freecodecamp.org/news/how-to-deploy-a-nodejs-application-on-aws/"/>
+        <updated>2025-04-02T16:36:18.000Z</updated>
+        <summary type="html"><![CDATA[Cloud platforms and infrastructure allow you to easily deploy and host backend services and applications. In this article, you’ll learn how to run a Node.js/Express application away from the confines of your local personal computer to make it accessi...]]></summary>
+        <author>
+            <name>Oluwatobi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Code a full stack Instagram Clone with Laravel and MongoDB]]></title>
+        <id>67ed4efef1d155fc22688c46</id>
+        <link href="https://www.freecodecamp.org/news/code-a-full-stack-instagram-clone-with-laravel-and-mongodb/"/>
+        <updated>2025-04-02T14:51:42.000Z</updated>
+        <summary type="html"><![CDATA[Are you ready to transform your web development skills by building a complex, real-world application? We just posted a course on the freeCodeCamp.org YouTube channel that will teach you how to use Laravel and MongoDB to create a full stack Instagram ...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fetch API vs. Axios vs. Alova: Which HTTP Client Should You Use in 2025?]]></title>
+        <id>67ed4e54f03ad9ca955f36d0</id>
+        <link href="https://www.freecodecamp.org/news/fetch-api-vs-axios-vs-alova/"/>
+        <updated>2025-04-02T14:48:52.000Z</updated>
+        <summary type="html"><![CDATA[Before the days of the Fetch API and Axios, developers used callback-based HTTP requests. They manually managed requests with asynchronous operations and, in the process, wrote deeply nested code. This was known as callback hell. Then, in 2015, a pro...]]></summary>
+        <author>
+            <name>Abdullah Salaudeen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From Failure to International Success: How Online Learning Platforms Saved My Life]]></title>
+        <id>67ed3edd597c0ff6bdcf4c45</id>
+        <link href="https://www.freecodecamp.org/news/how-online-learning-platforms-saved-my-life/"/>
+        <updated>2025-04-02T13:42:53.000Z</updated>
+        <summary type="html"><![CDATA[It is better to be a samurai in a garden than an agricultural worker in a war - Miyamoto Musashi In this article, I’ll share my story. When I was younger, I thought I was destined to be a failure in life. To be isolated from everyone. But years late...]]></summary>
+        <author>
+            <name>Tiago Capelo Monteiro</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SMIL on?]]></title>
+        <id>https://css-tricks.com/?p=385540</id>
+        <link href="https://css-tricks.com/smil-on/"/>
+        <updated>2025-04-02T12:37:19.000Z</updated>
+        <summary type="html"><![CDATA[Well, it turns out that SVG's built-in animation features were never deprecated as planned. Sure, CSS and JavaScript are more than capable of carrying the load, but it's good to know that SMIL is not dead in the water as previously thought, and is actually well-supported.
+SMIL on? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Understand and Code DeepSeek V3]]></title>
         <id>67ec22879f76b0cdc2046ddb</id>
@@ -730,27 +781,6 @@ Grouping Selection List Items Together With CSS Grid originally published 
         <summary type="html"><![CDATA[This guide will walk you through building a full-stack MERN To-Do application. It covers setting up the environment, writing code to demonstrate core CRUD (Create, Read, Update, Delete) operations, and connecting the application to MongoDB Atlas, a f...]]></summary>
         <author>
             <name>Casmir Onyekani</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Social Learning Platform using Next.js, Stream, and Supabase]]></title>
-        <id>67c5c657e04393229206983b</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-a-social-learning-platform-using-nextjs-stream-and-supabase/"/>
-        <updated>2025-03-03T15:10:15.000Z</updated>
-        <summary type="html"><![CDATA[Social media and real-time communication have transformed how people interact, making it easier to share ideas, collaborate, and learn from others, regardless of location. From professional networks to online study groups, these platforms allow vario...]]></summary>
-        <author>
-            <name>David Asaolu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Functions in CSS?!]]></title>
-        <id>https://css-tricks.com/?p=384685</id>
-        <link href="https://css-tricks.com/functions-in-css/"/>
-        <updated>2025-03-03T13:34:22.000Z</updated>
-        <summary type="html"><![CDATA[Arguments?! Return values?! What's crazier, you can use functions right now in Chrome Canary! So, after reading and playing around, here are my key insights on what you need to know about CSS Functions.
-Functions in CSS?! originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Juan Diego Rodríguez</name>
         </author>
     </entry>
 </feed>

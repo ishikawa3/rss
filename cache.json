@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=385540",
+          "author": "Geoff Graham",
+          "description": "Well, it turns out that SVG's built-in animation features were never deprecated as planned. Sure, CSS and JavaScript are more than capable of carrying the load, but it's good to know that SMIL is not dead in the water as previously thought, and is actually well-supported.\nSMIL on? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/smil-on/",
+          "publishedOn": "2025-04-02T12:37:19.000Z",
+          "wordCount": 2135,
+          "title": "SMIL on?",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/12/cube-pattern-svg.png"
+        },
+        {
           "id": "https://css-tricks.com/?p=385086",
           "author": "Bryan Robinson",
           "description": "One thing we can do to help teams code consistently is provide type-checking so that all of the configurable options for a specific component are available while coding. Bryan demonstrates how he does this with TypeScript when working with Astro components.\nCrafting Strong DX With Astro Components and TypeScript originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -155,16 +165,6 @@
           "wordCount": 2602,
           "title": "Grouping Selection List Items Together With CSS Grid",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/02/selection-list.jpg"
-        },
-        {
-          "id": "https://css-tricks.com/?p=384685",
-          "author": "Juan Diego Rodríguez",
-          "description": "Arguments?! Return values?! What's crazier, you can use functions right now in Chrome Canary! So, after reading and playing around, here are my key insights on what you need to know about CSS Functions.\nFunctions in CSS?! originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/functions-in-css/",
-          "publishedOn": "2025-03-03T13:34:22.000Z",
-          "wordCount": 3474,
-          "title": "Functions in CSS?!",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2024/07/css-functions-mixins.png"
         }
       ]
     },
@@ -315,6 +315,46 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "67ed67823b8c37d192779b99",
+          "author": "Oluwatobi",
+          "description": "Cloud platforms and infrastructure allow you to easily deploy and host backend services and applications. In this article, you’ll learn how to run a Node.js/Express application away from the confines of your local personal computer to make it accessi...",
+          "link": "https://www.freecodecamp.org/news/how-to-deploy-a-nodejs-application-on-aws/",
+          "publishedOn": "2025-04-02T16:36:18.000Z",
+          "wordCount": 2600,
+          "title": "How to Deploy a Node.js Application on AWS",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1743611764466/96a89440-1c72-4ac0-861d-0ea29aeb90bf.png"
+        },
+        {
+          "id": "67ed4efef1d155fc22688c46",
+          "author": "Beau Carnes",
+          "description": "Are you ready to transform your web development skills by building a complex, real-world application? We just posted a course on the freeCodeCamp.org YouTube channel that will teach you how to use Laravel and MongoDB to create a full stack Instagram ...",
+          "link": "https://www.freecodecamp.org/news/code-a-full-stack-instagram-clone-with-laravel-and-mongodb/",
+          "publishedOn": "2025-04-02T14:51:42.000Z",
+          "wordCount": 1613,
+          "title": "Code a full stack Instagram Clone with Laravel and MongoDB",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1743605110164/9ae2ed21-4956-4b0e-b7c4-4ccc14e9df9f.png"
+        },
+        {
+          "id": "67ed4e54f03ad9ca955f36d0",
+          "author": "Abdullah Salaudeen",
+          "description": "Before the days of the Fetch API and Axios, developers used callback-based HTTP requests. They manually managed requests with asynchronous operations and, in the process, wrote deeply nested code. This was known as callback hell. Then, in 2015, a pro...",
+          "link": "https://www.freecodecamp.org/news/fetch-api-vs-axios-vs-alova/",
+          "publishedOn": "2025-04-02T14:48:52.000Z",
+          "wordCount": 5398,
+          "title": "Fetch API vs. Axios vs. Alova: Which HTTP Client Should You Use in 2025?",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1743605319873/9f7583a0-1b01-4714-9fe6-f39bed3954e8.png"
+        },
+        {
+          "id": "67ed3edd597c0ff6bdcf4c45",
+          "author": "Tiago Capelo Monteiro",
+          "description": "It is better to be a samurai in a garden than an agricultural worker in a war - Miyamoto Musashi In this article, I’ll share my story. When I was younger, I thought I was destined to be a failure in life. To be isolated from everyone. But years late...",
+          "link": "https://www.freecodecamp.org/news/how-online-learning-platforms-saved-my-life/",
+          "publishedOn": "2025-04-02T13:42:53.000Z",
+          "wordCount": 4460,
+          "title": "From Failure to International Success: How Online Learning Platforms Saved My Life",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1743601355025/2f8c32a4-c451-4860-b4e2-f02b690fb928.png"
+        },
         {
           "id": "67ec22879f76b0cdc2046ddb",
           "author": "Beau Carnes",
@@ -794,16 +834,6 @@
           "wordCount": 4488,
           "title": "How to Build a MERN Stack To-Do App",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1741102112733/3aa43545-c095-4a47-8787-130b470f6ce1.png"
-        },
-        {
-          "id": "67c5c657e04393229206983b",
-          "author": "David Asaolu",
-          "description": "Social media and real-time communication have transformed how people interact, making it easier to share ideas, collaborate, and learn from others, regardless of location. From professional networks to online study groups, these platforms allow vario...",
-          "link": "https://www.freecodecamp.org/news/how-to-build-a-social-learning-platform-using-nextjs-stream-and-supabase/",
-          "publishedOn": "2025-03-03T15:10:15.000Z",
-          "wordCount": 7341,
-          "title": "How to Build a Social Learning Platform using Next.js, Stream, and Supabase",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1741009946459/dba65929-1b65-4278-9601-4d047042753a.png"
         }
       ]
     }
