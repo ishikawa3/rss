@@ -12,6 +12,21 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=385268",
+          "author": "Juan Diego Rodríguez",
+          "description": "HTML 5 Readiness was a site that showed through a rainbow of colors the browser support for several web features. What about a new version?\nA New “Web” Readiness Report originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/a-new-web-readiness-report/",
+          "publishedOn": "2025-04-04T13:05:22.000Z",
+          "wordCount": 2990,
+          "title": "A New “Web” Readiness Report",
+          "enclosure": {
+            "url": "https://css-tricks.com/wp-content/uploads/2025/03/juandivideo2.mp4",
+            "length": "3719731",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/03/A-New-HTML-5-Readiness.png"
+        },
+        {
           "id": "https://css-tricks.com/?p=385540",
           "author": "Geoff Graham",
           "description": "Well, it turns out that SVG's built-in animation features were never deprecated as planned. Sure, CSS and JavaScript are more than capable of carrying the load, but it's good to know that SMIL is not dead in the water as previously thought, and is actually well-supported.\nSMIL on? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -155,16 +170,6 @@
           "wordCount": 1833,
           "title": "Maybe don’t use custom properties in shorthand properties",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/09/custom-properties-code.png"
-        },
-        {
-          "id": "https://css-tricks.com/?p=384971",
-          "author": "Preethi",
-          "description": "Preethi demonstrates how to make a user interface to group selected items using CSS Grid using two different methods: the auto-fill keyword for stable layouts and the span keyword for flexible arrangements.\nGrouping Selection List Items Together With CSS Grid originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/grouping-selection-list-items-together-with-css-grid/",
-          "publishedOn": "2025-03-05T13:16:32.000Z",
-          "wordCount": 2602,
-          "title": "Grouping Selection List Items Together With CSS Grid",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/02/selection-list.jpg"
         }
       ]
     },
@@ -173,6 +178,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2025/04/how-build-business-case-promote-accessibility-b2b-products/",
+          "author": "hello@smashingmagazine.com (Gloria Diaz Alonso)",
+          "description": "When passion for accessibility meets business indifference, what bridges the gap? Gloria Diaz Alonso shares how she turned frustration into strategy — by learning to speak the language of business.",
+          "link": "https://smashingmagazine.com/2025/04/how-build-business-case-promote-accessibility-b2b-products/",
+          "publishedOn": "2025-04-04T12:00:00.000Z",
+          "wordCount": 8313,
+          "title": "How To Build A Business Case To Promote Accessibility In Your B2B Products",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/how-build-business-case-promote-accessibility-b2b-products/how-build-business-case-promote-accessibility-b2b-products.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/how-build-business-case-promote-accessibility-b2b-products/how-build-business-case-promote-accessibility-b2b-products.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2025/04/building-drupal-storyblok-migration-tool-engineering-perspective/",
           "author": "hello@smashingmagazine.com (Edoardo Dusi)",
@@ -292,36 +312,6 @@
             "type": "image/png"
           },
           "imageUrl": "http://files.smashing.media/articles/how-to-build-confidence-in-your-ux-work/onion-layers-opt.png"
-        },
-        {
-          "id": "https://smashingmagazine.com/2025/03/how-to-fix-largest-contentful-issues-with-subpart-analysis/",
-          "author": "hello@smashingmagazine.com (Matt Zeunert)",
-          "description": "Struggling with slow Largest Contentful Paint (LCP)? Newly introduced by Google, LCP subparts help you pinpoint where page load delays come from. Now, in the Chrome UX Report, this data provides real visitor insights to speed up your site and boost rankings. Matt Zeunert unpacks what LCP subparts are, what they mean for your website speed, and how you can measure them.",
-          "link": "https://smashingmagazine.com/2025/03/how-to-fix-largest-contentful-issues-with-subpart-analysis/",
-          "publishedOn": "2025-03-06T10:00:00.000Z",
-          "wordCount": 3969,
-          "title": "How To Fix Largest Contentful Paint Issues With Subpart Analysis",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/how-fix-largest-contentful-issues-subpart-analysis/how-fix-largest-contentful-issues-subpart-analysis.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/how-fix-largest-contentful-issues-subpart-analysis/how-fix-largest-contentful-issues-subpart-analysis.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2025/03/how-fix-largest-contentful-issues-subpart-analysis/",
-          "author": "hello@smashingmagazine.com (Matt Zeunert)",
-          "description": "Struggling with slow Largest Contentful Paint (LCP)? Newly introduced by Google, LCP subparts help you pinpoint where page load delays come from. Now, in the Chrome UX Report, this data provides real visitor insights to speed up your site and boost rankings. Matt Zeunert unpacks what LCP subparts are, what they mean for your website speed, and how you can measure them.",
-          "link": "https://smashingmagazine.com/2025/03/how-fix-largest-contentful-issues-subpart-analysis/",
-          "publishedOn": "2025-03-06T10:00:00.000Z",
-          "wordCount": 3967,
-          "title": "How To Fix Largest Contentful Issues With Subpart Analysis",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/how-fix-largest-contentful-issues-subpart-analysis/how-fix-largest-contentful-issues-subpart-analysis.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/how-fix-largest-contentful-issues-subpart-analysis/how-fix-largest-contentful-issues-subpart-analysis.jpg"
         }
       ]
     },
@@ -330,6 +320,26 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "67f041c2f87b5fbfcc550e46",
+          "author": "Quincy Larson",
+          "description": "On this week's episode of the podcast, I interview Jason Lengstorf. He learned to code out of necessity building websites for local emo bands. He dropped out of college but eventually worked as an engineer at IBM and has gone on to roles at many othe...",
+          "link": "https://www.freecodecamp.org/news/from-drop-out-to-software-architect-with-jason-lengstorf-podcast-167/",
+          "publishedOn": "2025-04-04T20:32:02.000Z",
+          "wordCount": 1106,
+          "title": "From drop-out to software architect with Jason Lengstorf [Podcast #167]",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1743796461357/f3d19cd7-e6f5-4d7c-8bfc-eb974bc8da68.png"
+        },
+        {
+          "id": "67eff5fe4b8a95f016459cda",
+          "author": "Manish Shivanandhan",
+          "description": "Understanding vulnerabilities and exploits is crucial for anyone interested in cybersecurity. Let's learn what they are. What Are Vulnerabilities? A vulnerability is a flaw in software or hardware that attackers can exploit. These flaws can range fro...",
+          "link": "https://www.freecodecamp.org/news/vulnerabilities-vs-exploits-for-ethical-hackers/",
+          "publishedOn": "2025-04-04T15:08:46.000Z",
+          "wordCount": 2068,
+          "title": "Understanding Vulnerabilities and Exploits for Ethical Hackers",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1743631883009/63a15afa-c901-4445-b646-cd9a4c44e964.png"
+        },
         {
           "id": "67ee83d004f007db33e0f920",
           "author": "Hang Hu",
@@ -839,26 +849,6 @@
           "wordCount": 1260,
           "title": "Learn PyTorch in Five Projects",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1741283747402/6d00899f-105f-4c20-97e8-0f789348bacf.png"
-        },
-        {
-          "id": "67c90b95f53d5f98abdef4ce",
-          "author": "Beau Carnes",
-          "description": "Machine learning is revolutionizing industries by enabling computers to learn from data, recognize patterns, and make decisions without explicit programming. If you've ever been curious about how AI systems work, this course provides a structured int...",
-          "link": "https://www.freecodecamp.org/news/learn-machine-learning-concepts-plus-generative-ai/",
-          "publishedOn": "2025-03-06T02:42:29.000Z",
-          "wordCount": 1232,
-          "title": "Learn Machine Learning Concepts plus Generative AI",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1741228930362/5c9e0d40-e79d-4aba-970c-ea5949a92b92.png"
-        },
-        {
-          "id": "67c90a7950860cc5f8cd4d06",
-          "author": "Beau Carnes",
-          "description": "Creating an MMO (Massively Multiplayer Online) game may seem like a daunting task, but with the right tools and guidance, you can bring your game idea to life. Whether you're an aspiring game developer or just curious about how online multiplayer gam...",
-          "link": "https://www.freecodecamp.org/news/create-a-simple-mmo-game-in-unity/",
-          "publishedOn": "2025-03-06T02:37:45.000Z",
-          "wordCount": 1218,
-          "title": "Create a simple MMO Game in Unity",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1741228630313/676dbb39-5da0-421e-aa31-8760b7f994a2.png"
         }
       ]
     }
