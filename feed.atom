@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-04-05T00:13:36.400Z</updated>
+    <updated>2025-04-06T00:15:02.812Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
@@ -770,27 +770,6 @@ Smashing Meets Accessibility originally published on CSS-Tricks, which is part o
 A CSS-Only Star Rating Component and More! (Part 2) originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Temani Afif</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn PyTorch in Five Projects]]></title>
-        <id>67c9e1b1b9163aa35c6dc2ee</id>
-        <link href="https://www.freecodecamp.org/news/learn-pytorch-in-five-projects/"/>
-        <updated>2025-03-06T17:56:01.000Z</updated>
-        <summary type="html"><![CDATA[Deep learning has revolutionized the way we approach complex problems like image recognition, natural language processing, and even audio analysis. At the core of many deep learning applications is PyTorch, a powerful and flexible framework that allo...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Maybe don’t use custom properties in shorthand properties]]></title>
-        <id>https://css-tricks.com/?p=385117</id>
-        <link href="https://css-tricks.com/maybe-dont-use-custom-properties-in-shorthand-properties/"/>
-        <updated>2025-03-06T16:33:55.000Z</updated>
-        <summary type="html"><![CDATA[This easily qualifies as a "gotcha" in CSS and is a good reminder that the cascade doesn't know everything all at the same time. If a custom property is invalid, the cascade won't ignore it, and it gets evaluated, which invalidates the declaration.
-Maybe don’t use custom properties in shorthand properties originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
         </author>
     </entry>
 </feed>
