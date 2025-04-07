@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-04-06T00:15:02.812Z</updated>
+    <updated>2025-04-07T00:14:45.618Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
@@ -729,47 +729,6 @@ Smashing Meets Accessibility originally published on CSS-Tricks, which is part o
         <summary type="html"><![CDATA[When working with the FormData interface in JavaScript, where data is appended as key/value pairs, there's no built-in way to enforce type safety on the keys you append. This can lead to typos, missing keys, and unexpected runtime errors. But in Type...]]></summary>
         <author>
             <name>Olabisi Olaoye</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn Software Design Basics: Key Phases and Best Practices]]></title>
-        <id>67cb6446f54b40e1e9144db0</id>
-        <link href="https://www.freecodecamp.org/news/learn-software-design-basics/"/>
-        <updated>2025-03-07T21:25:26.000Z</updated>
-        <summary type="html"><![CDATA[Coding has become one of the most common tasks in modern society. With computers now central to almost every field, more people are designing algorithms and writing code to solve various problems. From healthcare to finance, robust software systems p...]]></summary>
-        <author>
-            <name>Soham Banerjee</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn fewer skills but go deeper - the Caleb Curry interview [Podcast #163]]]></title>
-        <id>67cb4f49e5cd83d2948ab4fe</id>
-        <link href="https://www.freecodecamp.org/news/learn-fewer-skills-but-go-deeper-the-caleb-curry-interview-podcast-163/"/>
-        <updated>2025-03-07T19:55:53.000Z</updated>
-        <summary type="html"><![CDATA[On this week's episode of the podcast, I interview Caleb Curry. He's a software engineer and prolific computer science educator. He recently started mentoring dozens of developers directly and helping them with their skills and careers. We talk about...]]></summary>
-        <author>
-            <name>Quincy Larson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Create a Python SIEM System Using AI and LLMs for Log Analysis and Anomaly Detection]]></title>
-        <id>67cb2cab98825a8b61ca9121</id>
-        <link href="https://www.freecodecamp.org/news/how-to-create-a-python-siem-system-using-ai-and-llms/"/>
-        <updated>2025-03-07T17:28:11.000Z</updated>
-        <summary type="html"><![CDATA[In this tutorial, we’ll build a simplified, AI-flavored SIEM log analysis system using Python. Our focus will be on log analysis and anomaly detection. We’ll walk through ingesting logs, detecting anomalies with a lightweight machine learning model, ...]]></summary>
-        <author>
-            <name>Chaitanya Rahalkar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A CSS-Only Star Rating Component and More! (Part 2)]]></title>
-        <id>https://css-tricks.com/?p=384919</id>
-        <link href="https://css-tricks.com/a-css-only-star-rating-component-and-more-part-2/"/>
-        <updated>2025-03-07T13:14:12.000Z</updated>
-        <summary type="html"><![CDATA[In this second article of a two-part series, Temani Afif demonstrates an alternative approach to creating the star rating component from the first article using experimental scroll-driven animations rather than using the border-image property.
-A CSS-Only Star Rating Component and More! (Part 2) originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Temani Afif</name>
         </author>
     </entry>
 </feed>

@@ -150,16 +150,6 @@
           "wordCount": 1805,
           "title": "Smashing Meets Accessibility",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/03/smashing-meets-a11y.jpg"
-        },
-        {
-          "id": "https://css-tricks.com/?p=384919",
-          "author": "Temani Afif",
-          "description": "In this second article of a two-part series, Temani Afif demonstrates an alternative approach to creating the star rating component from the first article using experimental scroll-driven animations rather than using the border-image property.\nA CSS-Only Star Rating Component and More! (Part 2) originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/a-css-only-star-rating-component-and-more-part-2/",
-          "publishedOn": "2025-03-07T13:14:12.000Z",
-          "wordCount": 4007,
-          "title": "A CSS-Only Star Rating Component and More! (Part 2)",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/07/star-pattern.png"
         }
       ]
     },
@@ -799,36 +789,6 @@
           "wordCount": 1815,
           "title": "How to Enforce Type Safety in FormData with TypeScript",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1741615550682/6e709ad7-f8bb-4d26-acad-02f168d83acc.png"
-        },
-        {
-          "id": "67cb6446f54b40e1e9144db0",
-          "author": "Soham Banerjee",
-          "description": "Coding has become one of the most common tasks in modern society. With computers now central to almost every field, more people are designing algorithms and writing code to solve various problems. From healthcare to finance, robust software systems p...",
-          "link": "https://www.freecodecamp.org/news/learn-software-design-basics/",
-          "publishedOn": "2025-03-07T21:25:26.000Z",
-          "wordCount": 4914,
-          "title": "Learn Software Design Basics: Key Phases and Best Practices",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1741188275855/9858518f-38c0-4e3b-8be1-7c56b68c77a7.png"
-        },
-        {
-          "id": "67cb4f49e5cd83d2948ab4fe",
-          "author": "Quincy Larson",
-          "description": "On this week's episode of the podcast, I interview Caleb Curry. He's a software engineer and prolific computer science educator. He recently started mentoring dozens of developers directly and helping them with their skills and careers. We talk about...",
-          "link": "https://www.freecodecamp.org/news/learn-fewer-skills-but-go-deeper-the-caleb-curry-interview-podcast-163/",
-          "publishedOn": "2025-03-07T19:55:53.000Z",
-          "wordCount": 1107,
-          "title": "Learn fewer skills but go deeper - the Caleb Curry interview [Podcast #163]",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1741377315559/585b915d-2390-45a7-9f4a-171dc134af5d.png"
-        },
-        {
-          "id": "67cb2cab98825a8b61ca9121",
-          "author": "Chaitanya Rahalkar",
-          "description": "In this tutorial, we’ll build a simplified, AI-flavored SIEM log analysis system using Python. Our focus will be on log analysis and anomaly detection. We’ll walk through ingesting logs, detecting anomalies with a lightweight machine learning model, ...",
-          "link": "https://www.freecodecamp.org/news/how-to-create-a-python-siem-system-using-ai-and-llms/",
-          "publishedOn": "2025-03-07T17:28:11.000Z",
-          "wordCount": 3920,
-          "title": "How to Create a Python SIEM System Using AI and LLMs for Log Analysis and Anomaly Detection",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1741368457380/900d7d5b-cffc-4175-b5a5-4d7361ea383d.png"
         }
       ]
     }
