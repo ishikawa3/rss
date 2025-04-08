@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=385271",
+          "author": "Lee Meyer",
+          "description": "Deploying like an idiot comes down to a mismatch between the tools you use to deploy and the reward in complexity reduced versus complexity added.\nFeeling Like I Have No Release: A Journey Towards Sane Deployments originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/feeling-like-i-have-no-release-a-journey-towards-sane-deployments/",
+          "publishedOn": "2025-04-07T14:41:53.000Z",
+          "wordCount": 4780,
+          "title": "Feeling Like I Have No Release: A Journey Towards Sane Deployments",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/03/database-server.jpg"
+        },
+        {
           "id": "https://css-tricks.com/?p=385268",
           "author": "Juan Diego Rodríguez",
           "description": "HTML 5 Readiness was a site that showed through a rainbow of colors the browser support for several web features. What about a new version?\nA New “Web” Readiness Report originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -300,6 +310,16 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "67f3d275332a812ead444418",
+          "author": "Spruce Emmanuel",
+          "description": "The fastest way to gather valuable information about your site’s users is still by talking to them. And what better way to do this than by adding a chat system to your app? For my case, I just wanted to add a chat system to my portfolio website so I",
+          "link": "https://www.freecodecamp.org/news/add-live-chat-to-your-applications-with-rocketchat/",
+          "publishedOn": "2025-04-07T13:26:13.000Z",
+          "wordCount": 2200,
+          "title": "How to Add Live Chat to Your Applications with Rocket.chat",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1744032217209/1ad8ea61-a8bd-4bea-9bec-152e52db7377.png"
+        },
         {
           "id": "67f041c2f87b5fbfcc550e46",
           "author": "Quincy Larson",

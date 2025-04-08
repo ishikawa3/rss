@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-04-07T00:14:45.618Z</updated>
+    <updated>2025-04-08T00:14:04.358Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Feeling Like I Have No Release: A Journey Towards Sane Deployments]]></title>
+        <id>https://css-tricks.com/?p=385271</id>
+        <link href="https://css-tricks.com/feeling-like-i-have-no-release-a-journey-towards-sane-deployments/"/>
+        <updated>2025-04-07T14:41:53.000Z</updated>
+        <summary type="html"><![CDATA[Deploying like an idiot comes down to a mismatch between the tools you use to deploy and the reward in complexity reduced versus complexity added.
+Feeling Like I Have No Release: A Journey Towards Sane Deployments originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Lee Meyer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Add Live Chat to Your Applications with Rocket.chat]]></title>
+        <id>67f3d275332a812ead444418</id>
+        <link href="https://www.freecodecamp.org/news/add-live-chat-to-your-applications-with-rocketchat/"/>
+        <updated>2025-04-07T13:26:13.000Z</updated>
+        <summary type="html"><![CDATA[The fastest way to gather valuable information about your site’s users is still by talking to them. And what better way to do this than by adding a chat system to your app? For my case, I just wanted to add a chat system to my portfolio website so I]]></summary>
+        <author>
+            <name>Spruce Emmanuel</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[From drop-out to software architect with Jason Lengstorf [Podcast #167]]]></title>
         <id>67f041c2f87b5fbfcc550e46</id>
