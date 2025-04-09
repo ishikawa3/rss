@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-04-08T00:14:04.358Z</updated>
+    <updated>2025-04-09T00:14:08.991Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[C++ Setup and Installation Tools – CMake, vcpkg, Docker & Copilot]]></title>
+        <id>67f5418259aa448cc705cefd</id>
+        <link href="https://www.freecodecamp.org/news/c-setup-and-installation-tools-cmake-vcpkg-docker-and-copilot/"/>
+        <updated>2025-04-08T15:32:18.000Z</updated>
+        <summary type="html"><![CDATA[Setting up a C++ development environment can be one of the most challenging aspects for newcomers, especially when juggling different operating systems and toolchains. Whether you’re aiming to build robust applications or contribute to professional-g...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using Manim For Making UI Animations]]></title>
+        <id>https://smashingmagazine.com/2025/04/using-manim-making-ui-animations/</id>
+        <link href="https://smashingmagazine.com/2025/04/using-manim-making-ui-animations/"/>
+        <updated>2025-04-08T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Animation makes things clearer, especially for designers and front-end developers working on UI, prototypes, or interactive visuals. Manim is a tool that lets you create smooth and dynamic animations, not just for the design field but also in math, coding, and beyond, to explain complex ideas or simply make everything a little bit more interactive.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Joas Pambou)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Feeling Like I Have No Release: A Journey Towards Sane Deployments]]></title>
         <id>https://css-tricks.com/?p=385271</id>

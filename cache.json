@@ -169,6 +169,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2025/04/using-manim-making-ui-animations/",
+          "author": "hello@smashingmagazine.com (Joas Pambou)",
+          "description": "Animation makes things clearer, especially for designers and front-end developers working on UI, prototypes, or interactive visuals. Manim is a tool that lets you create smooth and dynamic animations, not just for the design field but also in math, coding, and beyond, to explain complex ideas or simply make everything a little bit more interactive.",
+          "link": "https://smashingmagazine.com/2025/04/using-manim-making-ui-animations/",
+          "publishedOn": "2025-04-08T15:00:00.000Z",
+          "wordCount": 4861,
+          "title": "Using Manim For Making UI Animations",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/using-manim-making-ui-animations/using-manim-making-ui-animations.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/using-manim-making-ui-animations/using-manim-making-ui-animations.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2025/04/how-build-business-case-promote-accessibility-b2b-products/",
           "author": "hello@smashingmagazine.com (Gloria Diaz Alonso)",
           "description": "When passion for accessibility meets business indifference, what bridges the gap? Gloria Diaz Alonso shares how she turned frustration into strategy — by learning to speak the language of business.",
@@ -310,6 +325,16 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "67f5418259aa448cc705cefd",
+          "author": "Beau Carnes",
+          "description": "Setting up a C++ development environment can be one of the most challenging aspects for newcomers, especially when juggling different operating systems and toolchains. Whether you’re aiming to build robust applications or contribute to professional-g...",
+          "link": "https://www.freecodecamp.org/news/c-setup-and-installation-tools-cmake-vcpkg-docker-and-copilot/",
+          "publishedOn": "2025-04-08T15:32:18.000Z",
+          "wordCount": 1525,
+          "title": "C++ Setup and Installation Tools – CMake, vcpkg, Docker & Copilot",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1744126327420/6ec2b56c-d226-4fea-935c-ab78d6b83951.png"
+        },
         {
           "id": "67f3d275332a812ead444418",
           "author": "Spruce Emmanuel",
