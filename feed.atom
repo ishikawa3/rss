@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-04-09T00:14:08.991Z</updated>
+    <updated>2025-04-10T00:14:10.056Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Learn Lynx to Create JavaScript Mobile Apps]]></title>
+        <id>67f6a2b6a00282687c8e224d</id>
+        <link href="https://www.freecodecamp.org/news/learn-lynx-to-create-javascript-mobile-apps/"/>
+        <updated>2025-04-09T16:39:18.000Z</updated>
+        <summary type="html"><![CDATA[In the rapidly evolving landscape of cross-platform development, a new player has emerged that promises to revolutionize the way developers create applications: Lynx. Developed by ByteDance, the company behind TikTok, Lynx is an open-source framework...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSS Carousels]]></title>
+        <id>https://css-tricks.com/?p=385672</id>
+        <link href="https://css-tricks.com/css-carousels/"/>
+        <updated>2025-04-09T13:00:24.000Z</updated>
+        <summary type="html"><![CDATA[Chrome has prototyped these features and released them in Chrome 135. Adam Argyle has a wonderful explainer over at the Chrome Developer blog. Kevin Powell has an equally wonderful video where he follows the explainer. This post is me taking notes from them.
+CSS Carousels originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Multilingual Social Recipe Application with Flutter and Strapi]]></title>
+        <id>67f59a4c27d15057ec14c438</id>
+        <link href="https://www.freecodecamp.org/news/build-a-multilingual-social-recipe-app-with-flutter-and-strapi/"/>
+        <updated>2025-04-08T21:51:08.000Z</updated>
+        <summary type="html"><![CDATA[Hey there! In this project, you will build a multilingual social recipe application using Flutter and Strapi. Flutter is an open-source UI software development kit created by Google. It allows you to build beautiful and highly interactive user interf...]]></summary>
+        <author>
+            <name>Kevine Nzapdi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[C++ Setup and Installation Tools – CMake, vcpkg, Docker & Copilot]]></title>
         <id>67f5418259aa448cc705cefd</id>
@@ -749,27 +780,6 @@ Powering Search With Astro Actions and Fuse.js originally published on CSS-Trick
         <summary type="html"><![CDATA[UX initiatives are often seen as a disruption rather than a means to solving existing problems in an organization. In this post, we’ll explore how you can build trust for your UX work, gain support, and make a noticeable impact. Part of [Measure UX and Design Impact](https://measure-ux.com/) by yours truly.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Smashing Meets Accessibility]]></title>
-        <id>https://css-tricks.com/?p=385112</id>
-        <link href="https://css-tricks.com/smashing-meets-accessibility/"/>
-        <updated>2025-03-10T15:08:47.000Z</updated>
-        <summary type="html"><![CDATA[The videos from Smashing Magazine's recent event on accessibility were just posted the other day. I was invited to host the panel discussion with the speakers, including a couple of personal heroes of mine, Stéphanie Walter and Sarah Fossheim. But I was just as stoked to meet Kardo Ayoub who shared his deeply personal story as a designer with a major visual impairment.
-Smashing Meets Accessibility originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Enforce Type Safety in FormData with TypeScript]]></title>
-        <id>67cef1f13c2aba931eee9785</id>
-        <link href="https://www.freecodecamp.org/news/how-to-enforce-type-safety-in-formdata-with-typescript/"/>
-        <updated>2025-03-10T14:06:41.000Z</updated>
-        <summary type="html"><![CDATA[When working with the FormData interface in JavaScript, where data is appended as key/value pairs, there's no built-in way to enforce type safety on the keys you append. This can lead to typos, missing keys, and unexpected runtime errors. But in Type...]]></summary>
-        <author>
-            <name>Olabisi Olaoye</name>
         </author>
     </entry>
 </feed>

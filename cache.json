@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=385672",
+          "author": "Geoff Graham",
+          "description": "Chrome has prototyped these features and released them in Chrome 135. Adam Argyle has a wonderful explainer over at the Chrome Developer blog. Kevin Powell has an equally wonderful video where he follows the explainer. This post is me taking notes from them.\nCSS Carousels originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/css-carousels/",
+          "publishedOn": "2025-04-09T13:00:24.000Z",
+          "wordCount": 3001,
+          "title": "CSS Carousels",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/12/carousel-slides.png"
+        },
+        {
           "id": "https://css-tricks.com/?p=385271",
           "author": "Lee Meyer",
           "description": "Deploying like an idiot comes down to a mismatch between the tools you use to deploy and the reward in complexity reduced versus complexity added.\nFeeling Like I Have No Release: A Journey Towards Sane Deployments originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -150,16 +160,6 @@
           "wordCount": 5170,
           "title": "Powering Search With Astro Actions and Fuse.js",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/02/astro-search.jpg"
-        },
-        {
-          "id": "https://css-tricks.com/?p=385112",
-          "author": "Geoff Graham",
-          "description": "The videos from Smashing Magazine's recent event on accessibility were just posted the other day. I was invited to host the panel discussion with the speakers, including a couple of personal heroes of mine, Stéphanie Walter and Sarah Fossheim. But I was just as stoked to meet Kardo Ayoub who shared his deeply personal story as a designer with a major visual impairment.\nSmashing Meets Accessibility originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/smashing-meets-accessibility/",
-          "publishedOn": "2025-03-10T15:08:47.000Z",
-          "wordCount": 1805,
-          "title": "Smashing Meets Accessibility",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/03/smashing-meets-a11y.jpg"
         }
       ]
     },
@@ -325,6 +325,26 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "67f6a2b6a00282687c8e224d",
+          "author": "Beau Carnes",
+          "description": "In the rapidly evolving landscape of cross-platform development, a new player has emerged that promises to revolutionize the way developers create applications: Lynx. Developed by ByteDance, the company behind TikTok, Lynx is an open-source framework...",
+          "link": "https://www.freecodecamp.org/news/learn-lynx-to-create-javascript-mobile-apps/",
+          "publishedOn": "2025-04-09T16:39:18.000Z",
+          "wordCount": 1303,
+          "title": "Learn Lynx to Create JavaScript Mobile Apps",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1744216738661/fb1664d6-011e-4d79-8236-c6999f0acab6.png"
+        },
+        {
+          "id": "67f59a4c27d15057ec14c438",
+          "author": "Kevine Nzapdi",
+          "description": "Hey there! In this project, you will build a multilingual social recipe application using Flutter and Strapi. Flutter is an open-source UI software development kit created by Google. It allows you to build beautiful and highly interactive user interf...",
+          "link": "https://www.freecodecamp.org/news/build-a-multilingual-social-recipe-app-with-flutter-and-strapi/",
+          "publishedOn": "2025-04-08T21:51:08.000Z",
+          "wordCount": 8996,
+          "title": "How to Build a Multilingual Social Recipe Application with Flutter and Strapi",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1743509325302/fd7d5d6c-9a48-4037-9cc2-3b35a92b6006.png"
+        },
         {
           "id": "67f5418259aa448cc705cefd",
           "author": "Beau Carnes",
@@ -824,16 +844,6 @@
           "wordCount": 2204,
           "title": "How to Run a Sprint Retrospective Using the Start, Stop, Continue Method",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1740494845460/a0181901-d715-49ce-881b-936b1143d341.png"
-        },
-        {
-          "id": "67cef1f13c2aba931eee9785",
-          "author": "Olabisi Olaoye",
-          "description": "When working with the FormData interface in JavaScript, where data is appended as key/value pairs, there's no built-in way to enforce type safety on the keys you append. This can lead to typos, missing keys, and unexpected runtime errors. But in Type...",
-          "link": "https://www.freecodecamp.org/news/how-to-enforce-type-safety-in-formdata-with-typescript/",
-          "publishedOn": "2025-03-10T14:06:41.000Z",
-          "wordCount": 1815,
-          "title": "How to Enforce Type Safety in FormData with TypeScript",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1741615550682/6e709ad7-f8bb-4d26-acad-02f168d83acc.png"
         }
       ]
     }
