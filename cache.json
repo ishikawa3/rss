@@ -12,6 +12,26 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=385232",
+          "author": "Zell Liew",
+          "description": "Most of the time, people showcase Tailwind's @apply feature with one of Tailwind's single-property utilities (which changes a single CSS declaration). When showcased this way, @apply doesn't sound promising at all. So obviously, nobody wants to use it. Personally, I think Tailwind's @apply feature is better than described.\nTailwind’s @apply Feature is Better Than it Sounds originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/tailwinds-apply-feature-is-better-than-it-sounds/",
+          "publishedOn": "2025-04-10T12:39:43.000Z",
+          "wordCount": 3126,
+          "title": "Tailwind’s @apply Feature is Better Than it Sounds",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/03/tailwind-apply.jpg"
+        },
+        {
+          "id": "https://css-tricks.com/?p=385758",
+          "author": "Geoff Graham",
+          "description": "If I were starting with CSS today for the very first time, I would first want to spend time understanding writing modes because that’s a great place to wrap your head around direction and document flow. But right after that, …\nCascading Layouts: A Workshop on Resilient CSS Layouts originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/cascading-layouts-a-workshop-on-resilient-css-layouts/",
+          "publishedOn": "2025-04-10T11:26:00.000Z",
+          "wordCount": 1913,
+          "title": "Cascading Layouts: A Workshop on Resilient CSS Layouts",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/04/cascading-workshop-cat-1600w.webp"
+        },
+        {
           "id": "https://css-tricks.com/?p=385672",
           "author": "Geoff Graham",
           "description": "Chrome has prototyped these features and released them in Chrome 135. Adam Argyle has a wonderful explainer over at the Chrome Developer blog. Kevin Powell has an equally wonderful video where he follows the explainer. This post is me taking notes from them.\nCSS Carousels originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -150,16 +170,6 @@
           "wordCount": 9122,
           "title": "Web Components Demystified",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/02/web-components-demystified.jpg"
-        },
-        {
-          "id": "https://css-tricks.com/?p=384941",
-          "author": "Bryan Robinson",
-          "description": "With Astro, we can generate most of our site during our build, but have a small bit of server-side code that can handle search functionality using something like Fuse.js. In this demo, we’ll use Fuse to search through a set of personal “bookmarks” that are generated at build time, but return back proper results from a server call.\nPowering Search With Astro Actions and Fuse.js originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/powering-search-with-astro-actions-and-fuse-js/",
-          "publishedOn": "2025-03-11T15:26:10.000Z",
-          "wordCount": 5170,
-          "title": "Powering Search With Astro Actions and Fuse.js",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/02/astro-search.jpg"
         }
       ]
     },
@@ -168,6 +178,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2025/04/gild-just-one-lily/",
+          "author": "hello@smashingmagazine.com (Steven Garrity)",
+          "description": "“Gilding the lily” isn’t always bad. In design, a touch of metaphorical gold — a subtle animated transition, a hint of color, or added depth in a drop shadow — can help communicate a level of care and attention that builds trust. But first? You need a lily. Nail the fundamentals. Then, gild it carefully.",
+          "link": "https://smashingmagazine.com/2025/04/gild-just-one-lily/",
+          "publishedOn": "2025-04-10T15:00:00.000Z",
+          "wordCount": 4216,
+          "title": "Gild Just One Lily",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/gild-just-one-lily/gild-just-one-lily.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/gild-just-one-lily/gild-just-one-lily.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2025/04/using-manim-making-ui-animations/",
           "author": "hello@smashingmagazine.com (Joas Pambou)",
@@ -302,21 +327,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/how-prevent-wordpress-sql-injection-attacks/how-prevent-wordpress-sql-injection-attacks.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2025/03/how-to-build-confidence-in-your-ux-work/",
-          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
-          "description": "UX initiatives are often seen as a disruption rather than a means to solving existing problems in an organization. In this post, we’ll explore how you can build trust for your UX work, gain support, and make a noticeable impact. Part of [Measure UX and Design Impact](https://measure-ux.com/) by yours truly.",
-          "link": "https://smashingmagazine.com/2025/03/how-to-build-confidence-in-your-ux-work/",
-          "publishedOn": "2025-03-11T15:00:00.000Z",
-          "wordCount": 3834,
-          "title": "How To Build Confidence In Your UX Work",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/how-to-build-confidence-in-your-ux-work/onion-layers-opt.png",
-            "length": "0",
-            "type": "image/png"
-          },
-          "imageUrl": "http://files.smashing.media/articles/how-to-build-confidence-in-your-ux-work/onion-layers-opt.png"
         }
       ]
     },
@@ -325,6 +335,46 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "67f8338f0d301512a59fb77f",
+          "author": "Beau Carnes",
+          "description": "Ever wondered how large language models like ChatGPT are actually built? Behind these impressive AI tools lies a complex but fascinating process of data preparation, model training, and fine-tuning. While it might seem like something only experts wit...",
+          "link": "https://www.freecodecamp.org/news/train-your-own-llm/",
+          "publishedOn": "2025-04-10T21:09:35.000Z",
+          "wordCount": 1338,
+          "title": "Train Your Own LLM",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1744319158160/c3734576-b102-498b-a078-8b7acb19b2df.png"
+        },
+        {
+          "id": "67f7ccb69fc8333e720a4185",
+          "author": "Udemezue John",
+          "description": "If you're working with Django and building anything that involves user accounts – like a blog, a store, or a membership site – you’ll likely hit a point where the default user model just isn’t enough. Maybe you want to add a profile picture, a phone ...",
+          "link": "https://www.freecodecamp.org/news/how-to-extend-the-django-user-model/",
+          "publishedOn": "2025-04-10T13:50:46.000Z",
+          "wordCount": 2172,
+          "title": "How to Extend the Django User Model",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1744293031605/8b4f148d-2e5f-49bd-90a8-7c295be2c2db.png"
+        },
+        {
+          "id": "67f7cc7aaf72aa46d378eaa0",
+          "author": "Rajdeep Singh",
+          "description": "Lazygit is an open-source command line terminal UI for Git commands that I’ve used for the last couple of years, and it’s become my new best friend. Basically, the Lazygit tool is a wrapper for the Git command line that replaces it with a UI. Instead...",
+          "link": "https://www.freecodecamp.org/news/how-to-use-lazygit-to-improve-your-git-workflow/",
+          "publishedOn": "2025-04-10T13:49:46.000Z",
+          "wordCount": 2612,
+          "title": "How to Use Lazygit to Improve Your Git Workflow",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1744293114488/5332db88-bff6-4aef-91eb-3423f3b95e1a.png"
+        },
+        {
+          "id": "67f7044b8d28cad83fb095a2",
+          "author": "Mark Mahoney",
+          "description": "This tutorial introduces the programming language, Clojure. Clojure is an awesome functional programming language that runs on Java's Virtual Machine (JVM). It is sometimes called a LISP, which is short for 'LISt Processing'. You'll need to have some...",
+          "link": "https://www.freecodecamp.org/news/learn-clojure-programming-basics/",
+          "publishedOn": "2025-04-09T23:35:39.000Z",
+          "wordCount": 3316,
+          "title": "An Animated Introduction to Clojure – Learn Clojure Programming Basics",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1744240649396/3e68ef22-3109-4b43-841e-e947f1821a76.png"
+        },
         {
           "id": "67f6a2b6a00282687c8e224d",
           "author": "Beau Carnes",
