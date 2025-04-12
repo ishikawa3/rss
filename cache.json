@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=385404",
+          "author": "Geoff Graham",
+          "description": "This CSS-Tricks update highlights significant progress in the Almanac, recent podcast appearances, a new CSS counters guide, and the addition of several new authors contributing valuable content.\nCSS-Tricks Chronicles XLIII originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/css-tricks-chronicles-xliii/",
+          "publishedOn": "2025-04-11T12:39:26.000Z",
+          "wordCount": 2715,
+          "title": "CSS-Tricks Chronicles XLIII",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/03/chronicles-XXXVIII.jpg"
+        },
+        {
           "id": "https://css-tricks.com/?p=385232",
           "author": "Zell Liew",
           "description": "Most of the time, people showcase Tailwind's @apply feature with one of Tailwind's single-property utilities (which changes a single CSS declaration). When showcased this way, @apply doesn't sound promising at all. So obviously, nobody wants to use it. Personally, I think Tailwind's @apply feature is better than described.\nTailwind’s @apply Feature is Better Than it Sounds originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -312,21 +322,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/web-components-vs-framework-components/web-components-vs-framework-components.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2025/03/how-prevent-wordpress-sql-injection-attacks/",
-          "author": "hello@smashingmagazine.com (Anders Johansson)",
-          "description": "Have you thought about the security risks WordPress websites face? Anders Johansson explores why they are frequent hacker targets and shares how WordPress SQL injection attacks work and how to remove and prevent them.",
-          "link": "https://smashingmagazine.com/2025/03/how-prevent-wordpress-sql-injection-attacks/",
-          "publishedOn": "2025-03-13T08:00:00.000Z",
-          "wordCount": 5235,
-          "title": "How To Prevent WordPress SQL Injection Attacks",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/how-prevent-wordpress-sql-injection-attacks/how-prevent-wordpress-sql-injection-attacks.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/how-prevent-wordpress-sql-injection-attacks/how-prevent-wordpress-sql-injection-attacks.jpg"
         }
       ]
     },
@@ -335,6 +330,16 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "67f96c998b09f2bdfa144c8b",
+          "author": "Adalbert Pungu",
+          "description": "If you're curious and passionate about technology like I am, and you’re looking for clarity in your code, you've likely already experienced the limitations of conventional tools for documenting and modeling APIs. Tools such as Swagger, JSON Schema, o...",
+          "link": "https://www.freecodecamp.org/news/use-typespec-for-documenting-and-modeling-apis/",
+          "publishedOn": "2025-04-11T19:25:13.000Z",
+          "wordCount": 4490,
+          "title": "How to Use TypeSpec for Documenting and Modeling APIs",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1744399481891/de5db16a-2eea-46d8-820d-50c1e66d5019.png"
+        },
         {
           "id": "67f8338f0d301512a59fb77f",
           "author": "Beau Carnes",
@@ -864,36 +869,6 @@
           "wordCount": 2797,
           "title": "Data Synchronization for Edge Computing with SymmetricDS",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1741798507678/d66ed2f3-4116-49ce-a4eb-06fcb7c36dc7.png"
-        },
-        {
-          "id": "67d23a5a68fbee7d6b2ec767",
-          "author": "Beau Carnes",
-          "description": "JavaScript is the backbone of modern web development, powering everything from interactive websites to complex web applications. Object-oriented programming (OOP), prototypical inheritance, ES6 classes, Node.js, and asynchronous programming are all k...",
-          "link": "https://www.freecodecamp.org/news/javascript-essentials/",
-          "publishedOn": "2025-03-13T01:52:26.000Z",
-          "wordCount": 1217,
-          "title": "JavaScript Essentials",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1741830729776/b8ebbaab-f0a4-43ae-a820-e305b72072a9.png"
-        },
-        {
-          "id": "67d1f8cced96446e8fad7db9",
-          "author": "Prankur Pandey",
-          "description": "Whenever I publish a new article, I receive countless emails and DMs across social media asking, \"How can I become a Full Stack Developer like you? How much DSA do I need to know? How long does it take?\" Well, I always say, \"Wait for my next tutorial...",
-          "link": "https://www.freecodecamp.org/news/become-a-full-stack-developer-and-get-a-job/",
-          "publishedOn": "2025-03-12T21:12:44.000Z",
-          "wordCount": 11498,
-          "title": "How to Become a Full-Stack Developer in 2025 (and Get a Job) – A Handbook for Beginners",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1741296524045/6d9bed13-d3bb-4fb3-95ac-45f5dd4f2033.png"
-        },
-        {
-          "id": "67d1f7a9ed7b17e04fb90aa7",
-          "author": "Ben",
-          "description": "I’ve been writing a lot of articles lately on Agile methodologies. And for this one, I wanted to cover how to get the most out of a Sprint Retrospective. I’ve been participating and running Sprint Retrospectives now for 15 years and I truly believe t...",
-          "link": "https://www.freecodecamp.org/news/how-to-run-a-sprint-retrospective-start-stop-continue-method/",
-          "publishedOn": "2025-03-12T21:07:53.000Z",
-          "wordCount": 2204,
-          "title": "How to Run a Sprint Retrospective Using the Start, Stop, Continue Method",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1740494845460/a0181901-d715-49ce-881b-936b1143d341.png"
         }
       ]
     }
