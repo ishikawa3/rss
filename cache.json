@@ -331,6 +331,16 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "67f9c04b3e25f02ff9a26b80",
+          "author": "Quincy Larson",
+          "description": "On this week's episode of the podcast, freeCodeCamp founder Quincy Larson interviews Alyson La. She taught herself how to code while working as an accountant at GitHub and was able to transition to a data scientist there, then ultimately a software e...",
+          "link": "https://www.freecodecamp.org/news/from-accountant-to-data-engineer-with-alyson-la-podcast-168/",
+          "publishedOn": "2025-04-12T01:22:19.000Z",
+          "wordCount": 1133,
+          "title": "From Accountant to Data Engineer with Alyson La [Podcast #168]",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1744420903260/fae4b593-d653-41eb-b70b-031591aa2f35.png"
+        },
+        {
           "id": "67f96c998b09f2bdfa144c8b",
           "author": "Adalbert Pungu",
           "description": "If you're curious and passionate about technology like I am, and you’re looking for clarity in your code, you've likely already experienced the limitations of conventional tools for documenting and modeling APIs. Tools such as Swagger, JSON Schema, o...",
@@ -839,36 +849,6 @@
           "wordCount": 5102,
           "title": "How to Connect, Read, and Process Sensor Data on Microcontrollers – A Beginner's Guide",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1741902732575/fd41a2d5-ed4f-445d-b186-936625837c8d.png"
-        },
-        {
-          "id": "67d38995d1f16f987c9eb503",
-          "author": "Beau Carnes",
-          "description": "Whether you're building a web app, mobile app, or API, understanding how to implement robust authentication and authorization is a critical skill. AWS Cognito is a powerful ability that simplifies user management, authentication, and access control, ...",
-          "link": "https://www.freecodecamp.org/news/learn-aws-incognito-for-authentication/",
-          "publishedOn": "2025-03-14T01:42:45.000Z",
-          "wordCount": 1292,
-          "title": "Learn AWS Incognito for Authentication",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1741916554049/a4eaed0e-83d3-4507-96eb-6ef7830de076.png"
-        },
-        {
-          "id": "67d35b3cba576fa68285a197",
-          "author": "Manish Shivanandhan",
-          "description": "If you’ve followed cybersecurity news over the past few years, you’ve likely come across EternalBlue. This critical Windows exploit played a key role in the widespread WannaCry ransomware attack that affected systems in over 150 countries. In this ar...",
-          "link": "https://www.freecodecamp.org/news/how-to-exploit-the-eternalblue-vulnerability-on-windows/",
-          "publishedOn": "2025-03-13T22:25:00.000Z",
-          "wordCount": 1777,
-          "title": "How to Exploit the EternalBlue Vulnerability on Windows – A Step-by-Step Guide",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1737564552005/119beff1-e8fb-489c-931b-903421473464.png"
-        },
-        {
-          "id": "67d2cc837d28795ed4ea4d3e",
-          "author": "Divya Valsala Saratchandran",
-          "description": "Edge computing is a distributed system design that moves computation and data storage to where it’s most required – at the ‘edge’ of the network. Moving these tasks to the edge of the network enables computing in real time, which reduces the cost of ...",
-          "link": "https://www.freecodecamp.org/news/data-synchronization-for-edge-computing/",
-          "publishedOn": "2025-03-13T12:16:03.000Z",
-          "wordCount": 2797,
-          "title": "Data Synchronization for Edge Computing with SymmetricDS",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1741798507678/d66ed2f3-4116-49ce-a4eb-06fcb7c36dc7.png"
         }
       ]
     }

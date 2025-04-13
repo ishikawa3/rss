@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-04-12T00:13:48.324Z</updated>
+    <updated>2025-04-13T00:39:03.167Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[From Accountant to Data Engineer with Alyson La [Podcast #168]]]></title>
+        <id>67f9c04b3e25f02ff9a26b80</id>
+        <link href="https://www.freecodecamp.org/news/from-accountant-to-data-engineer-with-alyson-la-podcast-168/"/>
+        <updated>2025-04-12T01:22:19.000Z</updated>
+        <summary type="html"><![CDATA[On this week's episode of the podcast, freeCodeCamp founder Quincy Larson interviews Alyson La. She taught herself how to code while working as an accountant at GitHub and was able to transition to a data scientist there, then ultimately a software e...]]></summary>
+        <author>
+            <name>Quincy Larson</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Use TypeSpec for Documenting and Modeling APIs]]></title>
         <id>67f96c998b09f2bdfa144c8b</id>
@@ -782,36 +792,6 @@ Styling Counters in CSS originally published on CSS-Tricks, which is part of the
 Web Components Demystified originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn AWS Incognito for Authentication]]></title>
-        <id>67d38995d1f16f987c9eb503</id>
-        <link href="https://www.freecodecamp.org/news/learn-aws-incognito-for-authentication/"/>
-        <updated>2025-03-14T01:42:45.000Z</updated>
-        <summary type="html"><![CDATA[Whether you're building a web app, mobile app, or API, understanding how to implement robust authentication and authorization is a critical skill. AWS Cognito is a powerful ability that simplifies user management, authentication, and access control, ...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Exploit the EternalBlue Vulnerability on Windows – A Step-by-Step Guide]]></title>
-        <id>67d35b3cba576fa68285a197</id>
-        <link href="https://www.freecodecamp.org/news/how-to-exploit-the-eternalblue-vulnerability-on-windows/"/>
-        <updated>2025-03-13T22:25:00.000Z</updated>
-        <summary type="html"><![CDATA[If you’ve followed cybersecurity news over the past few years, you’ve likely come across EternalBlue. This critical Windows exploit played a key role in the widespread WannaCry ransomware attack that affected systems in over 150 countries. In this ar...]]></summary>
-        <author>
-            <name>Manish Shivanandhan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Data Synchronization for Edge Computing with SymmetricDS]]></title>
-        <id>67d2cc837d28795ed4ea4d3e</id>
-        <link href="https://www.freecodecamp.org/news/data-synchronization-for-edge-computing/"/>
-        <updated>2025-03-13T12:16:03.000Z</updated>
-        <summary type="html"><![CDATA[Edge computing is a distributed system design that moves computation and data storage to where it’s most required – at the ‘edge’ of the network. Moving these tasks to the edge of the network enables computing in real time, which reduces the cost of ...]]></summary>
-        <author>
-            <name>Divya Valsala Saratchandran</name>
         </author>
     </entry>
 </feed>
