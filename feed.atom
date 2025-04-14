@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-04-13T00:39:03.167Z</updated>
+    <updated>2025-04-14T00:15:17.839Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
@@ -761,37 +761,6 @@ Styling Counters in CSS originally published on CSS-Tricks, which is part of the
         <summary type="html"><![CDATA[Some critics question the agnostic nature of Web Components, with some even arguing that they are not real components. Gabriel Shoyomboa explores this topic in-depth, comparing Web Components and framework components, highlighting their strengths and trade-offs, and evaluating their performance.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Gabriel Shoyombo)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to become a self-taught developer while supporting a family [Podcast #164]]]></title>
-        <id>67d4a92df560badb8e1f0360</id>
-        <link href="https://www.freecodecamp.org/news/how-to-become-a-self-taught-developer-while-supporting-a-family-podcast-164/"/>
-        <updated>2025-03-14T22:09:49.000Z</updated>
-        <summary type="html"><![CDATA[On this week's episode of the podcast, I interview Jesse Hall. He's software engineer and a developer advocate at MongoDB. He taught himself to code while raising kids and working on the Best Buy Geek Squad fixing computers. Jesse has created tons of...]]></summary>
-        <author>
-            <name>Quincy Larson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Connect, Read, and Process Sensor Data on Microcontrollers – A Beginner's Guide]]></title>
-        <id>67d45997c9e7f2d42bb1c540</id>
-        <link href="https://www.freecodecamp.org/news/connect-read-process-sensor-data-on-microcontrollers-for-beginners/"/>
-        <updated>2025-03-14T16:30:15.000Z</updated>
-        <summary type="html"><![CDATA[In today’s world, computers are ubiquitous and generally serve two primary purposes. The first is general-purpose computing, where they handle a wide range of tasks, including running diverse applications and programs. Examples include laptops, deskt...]]></summary>
-        <author>
-            <name>Soham Banerjee</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web Components Demystified]]></title>
-        <id>https://css-tricks.com/?p=383422</id>
-        <link href="https://css-tricks.com/web-components-demystified/"/>
-        <updated>2025-03-14T12:51:59.000Z</updated>
-        <summary type="html"><![CDATA[Scott Jehl released a course called Web Components Demystified. This is my full set of notes from Scott's course. You'll still want to take the course on your own, and I encourage you to because Scott is an excellent teacher who makes all of this stuff extremely accessible, even to noobs like me.
-Web Components Demystified originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
         </author>
     </entry>
 </feed>
