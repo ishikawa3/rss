@@ -2,10 +2,71 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-04-14T00:15:17.839Z</updated>
+    <updated>2025-04-15T00:14:33.844Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Local RAG App with Ollama and ChromaDB in the R Programming Language]]></title>
+        <id>67fd5ac89a2c2895da61d799</id>
+        <link href="https://www.freecodecamp.org/news/build-a-local-rag-app-with-ollama-and-chromadb-in-r/"/>
+        <updated>2025-04-14T18:58:16.000Z</updated>
+        <summary type="html"><![CDATA[A Large Language Model (LLM) is a type of machine learning model that is trained to understand and generate human-like text. These models are trained on vast datasets to capture the nuances of human language, enabling them to generate coherent and co...]]></summary>
+        <author>
+            <name>Elabonga Atuo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Automate CI/CD with GitHub Actions and Streamline Your Workflow]]></title>
+        <id>67fd2db6c741f3f1aec5ecd2</id>
+        <link href="https://www.freecodecamp.org/news/automate-cicd-with-github-actions-streamline-workflow/"/>
+        <updated>2025-04-14T15:45:58.000Z</updated>
+        <summary type="html"><![CDATA[CI/CD stands for Continuous Integration and Continuous Delivery. It is a system or set of processes and methodologies that help developers quickly update codebases and deploy applications. The Continuous Integration (CI) part of CI/CD means that deve...]]></summary>
+        <author>
+            <name>Chidiadi Anyanwu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use the CSS text-wrap Property to Create Balanced Text Layouts on Your Websites]]></title>
+        <id>67fd1442fd23722b0a451053</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-css-text-wrap-property/"/>
+        <updated>2025-04-14T13:57:22.000Z</updated>
+        <summary type="html"><![CDATA[An inconsistent text layout can really ruin the look of your website’s design. Maybe a heading has an extra word that wraps to another line, or in a paragraph some lines are longer than others. This can leave the whole thing looking messy and hard to...]]></summary>
+        <author>
+            <name>Azubuike Duru</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Set Up a Proxmox Cluster for Free – Virtualization Basics]]></title>
+        <id>67fd1282e4687cd6aa7dcd1e</id>
+        <link href="https://www.freecodecamp.org/news/set-up-a-proxmox-cluster-virtualization-basics/"/>
+        <updated>2025-04-14T13:49:54.000Z</updated>
+        <summary type="html"><![CDATA[Virtualization is a game-changer for developers, hobbyists, and IT enthusiasts. It lets you run multiple operating systems on one machine, which is perfect for testing apps, hosting servers, or learning new tech. If you want to take it further, clust...]]></summary>
+        <author>
+            <name>Shamsuddoha Ranju</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use Django Signals in Your Projects]]></title>
+        <id>67fd101ad7ec2850d2df790d</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-django-signals-in-your-projects/"/>
+        <updated>2025-04-14T13:39:38.000Z</updated>
+        <summary type="html"><![CDATA[Django signals can be a lifesaver if you're building anything with Django and want your code to stay clean and organized. They help you connect different parts of your app without everything getting tangled together. Think of them like walkie-talkies...]]></summary>
+        <author>
+            <name>Udemezue John</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Next Level CSS Styling for Cursors]]></title>
+        <id>https://css-tricks.com/?p=385604</id>
+        <link href="https://css-tricks.com/next-level-css-styling-for-cursors/"/>
+        <updated>2025-04-14T12:40:46.000Z</updated>
+        <summary type="html"><![CDATA[Custom cursors with CSS are great, but we can take things to the next level with JavaScript. Using JavaScript, we can transition between cursor states, place dynamic text within the cursor, apply complex animations, and apply filters.
+Next Level CSS Styling for Cursors originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Declan Chidlow</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[From Accountant to Data Engineer with Alyson La [Podcast #168]]]></title>
         <id>67f9c04b3e25f02ff9a26b80</id>
