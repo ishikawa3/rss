@@ -189,6 +189,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2025/04/inclusive-dark-mode-designing-accessible-dark-themes/",
+          "author": "hello@smashingmagazine.com (Alex Williams)",
+          "description": "Dark mode isn’t just a trendy aesthetic. It’s a gateway to more inclusive digital experiences, but only if designed thoughtfully. Discover how to craft dark modes that don’t just look good but work for everyone, from those with light sensitivity to machine learning algorithms.",
+          "link": "https://smashingmagazine.com/2025/04/inclusive-dark-mode-designing-accessible-dark-themes/",
+          "publishedOn": "2025-04-15T13:00:00.000Z",
+          "wordCount": 4970,
+          "title": "Inclusive Dark Mode: Designing Accessible Dark Themes For All Users",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/inclusive-dark-mode-designing-accessible-dark-themes/inclusive-dark-mode-designing-accessible-dark-themes.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/inclusive-dark-mode-designing-accessible-dark-themes/inclusive-dark-mode-designing-accessible-dark-themes.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2025/04/gild-just-one-lily/",
           "author": "hello@smashingmagazine.com (Steven Garrity)",
           "description": "“Gilding the lily” isn’t always bad. In design, a touch of metaphorical gold — a subtle animated transition, a hint of color, or added depth in a drop shadow — can help communicate a level of care and attention that builds trust. But first? You need a lily. Nail the fundamentals. Then, gild it carefully.",
@@ -307,21 +322,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/previewing-content-changes-work-documentdesignmode/previewing-content-changes-work-documentdesignmode.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2025/03/web-components-vs-framework-components/",
-          "author": "hello@smashingmagazine.com (Gabriel Shoyombo)",
-          "description": "Some critics question the agnostic nature of Web Components, with some even arguing that they are not real components. Gabriel Shoyomboa explores this topic in-depth, comparing Web Components and framework components, highlighting their strengths and trade-offs, and evaluating their performance.",
-          "link": "https://smashingmagazine.com/2025/03/web-components-vs-framework-components/",
-          "publishedOn": "2025-03-17T10:00:00.000Z",
-          "wordCount": 4546,
-          "title": "Web Components Vs. Framework Components: What’s The Difference?",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/web-components-vs-framework-components/web-components-vs-framework-components.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/web-components-vs-framework-components/web-components-vs-framework-components.jpg"
         }
       ]
     },
