@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=385721",
+          "author": "Preethi",
+          "description": "Tips and tricks on utilizing the CSS backdrop-filter property to style user interfaces. You’ll learn how to layer backdrop filters among multiple elements, and integrate them with other CSS graphical effects to create elaborate designs.\nUsing CSS backdrop-filter for UI Effects originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/using-css-backdrop-filter-for-ui-effects/",
+          "publishedOn": "2025-04-16T12:34:50.000Z",
+          "wordCount": 2678,
+          "title": "Using CSS backdrop-filter for UI Effects",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/04/backdrop-filter-weather-widget.jpeg"
+        },
+        {
           "id": "https://css-tricks.com/?p=385604",
           "author": "Declan Chidlow",
           "description": "Custom cursors with CSS are great, but we can take things to the next level with JavaScript. Using JavaScript, we can transition between cursor states, place dynamic text within the cursor, apply complex animations, and apply filters.\nNext Level CSS Styling for Cursors originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -170,16 +180,6 @@
           "wordCount": 2067,
           "title": "Quick Reminder That :is() and :where() Are Basically the Same With One Key Difference",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2022/11/is-where-funnels.jpg"
-        },
-        {
-          "id": "https://css-tricks.com/?p=384529",
-          "author": "Juan Diego Rodríguez",
-          "description": "Going from the most basic ways to style lists directly in HTML to advanced customization techniques that are even capable of making things that aren't lists look like lists.\nStyling Counters in CSS originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/styling-counters-in-css/",
-          "publishedOn": "2025-03-17T16:25:04.000Z",
-          "wordCount": 7351,
-          "title": "Styling Counters in CSS",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/03/guide-styling-counters-2.jpg"
         }
       ]
     },
@@ -330,6 +330,76 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "67ffffdf95672e11eaf7719b",
+          "author": "Udemezue John",
+          "description": "When you're building an API, security should be at the top of your list. You want to make sure only the right people can access the right stuff – and that’s where authentication comes in. One of the most common and reliable ways to handle authenticat...",
+          "link": "https://www.freecodecamp.org/news/how-to-create-a-json-web-token-in-the-django-rest-framework/",
+          "publishedOn": "2025-04-16T19:07:11.000Z",
+          "wordCount": 2644,
+          "title": "How to Create a JSON Web Token in the Django Rest Framework",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1744827939254/f99ab71c-f3a6-4858-8682-592e2e41bd45.png"
+        },
+        {
+          "id": "67ffd01c61bb8e3a320b1eac",
+          "author": "Mark Mahoney",
+          "description": "In this tutorial, you’ll learn about the Structured Query Language (SQL), the standard language used to query relational databases. SQL is not a traditional programming language. In Python or Java, you write step-by-step instructions that tell the co...",
+          "link": "https://www.freecodecamp.org/news/an-animated-introduction-to-sql-learn-to-query-relational-databases/",
+          "publishedOn": "2025-04-16T15:43:24.000Z",
+          "wordCount": 4441,
+          "title": "An Animated Introduction to SQL – Learn to Query Relational Databases",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1744818155429/10b16956-a249-4815-b50a-594b58330a01.png"
+        },
+        {
+          "id": "67ffc4588a19b331e60a51d2",
+          "author": "Udemezue John",
+          "description": "If you’re building a web or mobile app, chances are you’re going to need a way to send and receive data between your app and a server. That’s where REST APIs come in. They help apps talk to each other – kind of like a waiter taking your order and",
+          "link": "https://www.freecodecamp.org/news/how-to-build-a-rest-api-in-django/",
+          "publishedOn": "2025-04-16T14:53:12.000Z",
+          "wordCount": 2581,
+          "title": "How to Build a REST API in Django",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1744814822505/5195929b-c1d8-4c9e-a12b-44697db44c5b.png"
+        },
+        {
+          "id": "67ffc2a75667d9e59ef9bc61",
+          "author": "Maham Codes",
+          "description": "The most powerful AI systems don’t just generate – they also retrieve, reason, and respond with context. Retrieval-Augmented Generation (RAG) is how we get there. It combines the strengths of search and generation to build more accurate, reliable, an...",
+          "link": "https://www.freecodecamp.org/news/how-to-build-rag-ai-agents-with-typescript/",
+          "publishedOn": "2025-04-16T14:45:59.000Z",
+          "wordCount": 4290,
+          "title": "How to Build RAG AI Agents with TypeScript",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1744814746615/72626297-def9-466a-8c1a-2cdb1b411300.png"
+        },
+        {
+          "id": "67ffc1695667d9e59ef9bc46",
+          "author": "Gordan Tan",
+          "description": "Recently, I have been writing unit tests and E2E tests for a NestJS project. This was my first time writing tests for a backend project, and I found the process different from my experience with frontend testing, making it challenging to begin. After...",
+          "link": "https://www.freecodecamp.org/news/nestjs-unit-testing-e2e-testing-guide/",
+          "publishedOn": "2025-04-16T14:40:41.000Z",
+          "wordCount": 4047,
+          "title": "How to Write Unit Tests and E2E Tests for NestJS Applications",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1744738441654/1bb2b329-d363-46d7-b091-e0e95ad22c9e.png"
+        },
+        {
+          "id": "67ffaf1dde58821be3496dfb",
+          "author": "Udemezue John",
+          "description": "If you're building an app with Django and thinking about using GraphQL, you're not alone. REST has been the go-to for years, but GraphQL is quickly becoming a favourite option for developers who want more flexibility and less back-and-forth between f...",
+          "link": "https://www.freecodecamp.org/news/how-to-build-a-graphql-api-in-django/",
+          "publishedOn": "2025-04-16T13:22:37.000Z",
+          "wordCount": 2313,
+          "title": "How to Build a GraphQL API in Django",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1744809748866/9a626cc9-4e67-4d63-bdde-1834180db645.png"
+        },
+        {
+          "id": "67fed115c3894cfa21b37d64",
+          "author": "Michael Para",
+          "description": "PHP is a dynamically typed language. This means that variable types are determined at runtime, and you don’t need to explicitly define types when declaring variables. One of PHP’s unique features is type juggling, a concept that can be both fascinati...",
+          "link": "https://www.freecodecamp.org/news/how-php-type-juggling-works-explained-with-code-examples/",
+          "publishedOn": "2025-04-15T21:35:17.000Z",
+          "wordCount": 1931,
+          "title": "How PHP Type Juggling Works – Explained with Code Examples",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1744752144618/3f40dca7-3148-44fc-8cc0-c10315e706e3.png"
+        },
         {
           "id": "67fd5ac89a2c2895da61d799",
           "author": "Elabonga Atuo",
@@ -849,36 +919,6 @@
           "wordCount": 9171,
           "title": "Everything You Need to Know About Web Acessibility",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1742318086251/103cec5f-3330-4559-8554-4ec76b16ec76.png"
-        },
-        {
-          "id": "67d87353b13a6fd9fb559ada",
-          "author": "Gursimar Singh",
-          "description": "Modern infrastructure requires continuous monitoring and rapid incident response. However, manually configuring and managing alerts is not only labor-intensive but also susceptible to human error. Automating alert provisioning allows you to enforce c...",
-          "link": "https://www.freecodecamp.org/news/automate-alert-provisioning-with-the-signoz-terraform-provider/",
-          "publishedOn": "2025-03-17T19:09:07.000Z",
-          "wordCount": 3137,
-          "title": "How to Automate Alert Provisioning with the SigNoz Terraform Provider",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1742237716002/3e7d07f8-39f7-45ba-aac3-d421f61a8785.png"
-        },
-        {
-          "id": "67d84f228d156200bc7d3d8c",
-          "author": "Soham Banerjee",
-          "description": "Buffer overflows are one of the most serious software bugs, especially in embedded systems, where hardware limitations and real-time execution make them hard to detect and fix. A buffer overflow happens when a program writes more data into a buffer t...",
-          "link": "https://www.freecodecamp.org/news/how-to-debug-and-prevent-buffer-overflows-in-embedded-systems/",
-          "publishedOn": "2025-03-17T16:34:42.000Z",
-          "wordCount": 5194,
-          "title": "How to Debug and Prevent Buffer Overflows in Embedded Systems",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1742229245130/858b21cc-443e-43ee-82ce-091438f6c5c0.png"
-        },
-        {
-          "id": "67d8272af45871e3e821d5fa",
-          "author": "Elabonga Atuo",
-          "description": "Web scraping lets you automatically extract data from websites, so you can store it in a structured format for later use. In this article, you'll explore how to use popular R libraries for web scraping to extract data from a website. The target websi...",
-          "link": "https://www.freecodecamp.org/news/web-scraping-with-rselenium-chrome-driver-and-rvest/",
-          "publishedOn": "2025-03-17T13:44:10.000Z",
-          "wordCount": 3704,
-          "title": "Web Scraping With RSelenium (Chrome Driver) and Rvest",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1742219025681/47c07711-cfa5-482f-a72b-d127bc5b63bc.png"
         }
       ]
     }
