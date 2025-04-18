@@ -2,10 +2,121 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-04-17T00:14:20.872Z</updated>
+    <updated>2025-04-18T00:14:11.525Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Learn Laravel by Building a Medium Clone]]></title>
+        <id>68016b821cf57215a14fca5c</id>
+        <link href="https://www.freecodecamp.org/news/learn-laravel-by-building-a-medium-clone/"/>
+        <updated>2025-04-17T20:58:42.000Z</updated>
+        <summary type="html"><![CDATA[Laravel is a popular PHP web development framework known for its elegant syntax, developer-friendly tools, and built-in features for routing, authentication, and database interactions. It's an excellent choice for both beginners and experienced devel...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Data Loading with Python and AI]]></title>
+        <id>68016ae0a7699ff474c9f1d0</id>
+        <link href="https://www.freecodecamp.org/news/data-loading-with-python-and-ai/"/>
+        <updated>2025-04-17T20:56:00.000Z</updated>
+        <summary type="html"><![CDATA[Modern data pipelines are the backbone of data engineering, enabling organizations to collect, process, and leverage massive volumes of information efficiently. But building and maintaining these pipelines isn't always straightforward. From API rate ...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Copy Objects in Python]]></title>
+        <id>68014f101e21d8d8454b2cf5</id>
+        <link href="https://www.freecodecamp.org/news/how-to-copy-objects-in-python/"/>
+        <updated>2025-04-17T18:57:20.000Z</updated>
+        <summary type="html"><![CDATA[In this tutorial, you’ll learn about copying objects in Python using the copy module. We’ll cover how to use the copy module and when to use its copy() function and deepcopy() function, depending on the scenario. You’ll also learn which way of copyin...]]></summary>
+        <author>
+            <name>Sara Jadhav</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Scale TestOps for Global Software Development Teams]]></title>
+        <id>6801211371255f2b14ea901b</id>
+        <link href="https://www.freecodecamp.org/news/scale-testops-for-global-software-development-teams/"/>
+        <updated>2025-04-17T15:41:07.000Z</updated>
+        <summary type="html"><![CDATA[Imagine that your software team is spread across the globe—developers in the US, testers in Asia, and managers in Europe. Exciting, right? But managing this setup is no walk in the park. Coordinating testing across time zones, tools, and workflows ca...]]></summary>
+        <author>
+            <name>Nazneen Ahmad</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Public Grafana-based Solar Monitoring Dashboard in Home Assistant]]></title>
+        <id>68010bea439877985a5bf3e2</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-a-public-grafana-based-solar-monitoring-dashboard-in-home-assistant/"/>
+        <updated>2025-04-17T14:10:50.000Z</updated>
+        <summary type="html"><![CDATA[If you have a solar inverter setup, one thing you would agree on with me is that data from your solar inverter setup is really important. Another thing that is also important is having a way to show what your energy generation, consumption, and so on...]]></summary>
+        <author>
+            <name>Daniel Anomfueme</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Developer's Guide to Protecting Personal Data: Best Practices and Tools]]></title>
+        <id>680102ccf67e471495d5a624</id>
+        <link href="https://www.freecodecamp.org/news/developers-guide-to-protecting-personal-data/"/>
+        <updated>2025-04-17T13:31:56.000Z</updated>
+        <summary type="html"><![CDATA[Think about it: you're sitting there enjoying your morning coffee, reading the headlines when again another data breach is making headlines. Millions of users' personal information – gone. You can't help but cringe as a developer at the prospect. Cou...]]></summary>
+        <author>
+            <name>Alex Tray</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[So, You Want to Give Up CSS Pre- and Post-Processors…]]></title>
+        <id>https://css-tricks.com/?p=385199</id>
+        <link href="https://css-tricks.com/so-you-want-to-give-up-css-pre-and-post-processors/"/>
+        <updated>2025-04-17T12:38:05.000Z</updated>
+        <summary type="html"><![CDATA[There was once upon a time when native CSS lacked many essential features, leaving developers to come up with all sorts of ways to make CSS easier to write over the years.
+So, You Want to Give Up CSS Pre- and Post-Processors… originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Zell Liew</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fostering An Accessibility Culture]]></title>
+        <id>https://smashingmagazine.com/2025/04/fostering-accessibility-culture/</id>
+        <link href="https://smashingmagazine.com/2025/04/fostering-accessibility-culture/"/>
+        <updated>2025-04-17T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[While there’s no definitive playbook for building an accessibility culture, Dani shares lessons from his experience in shaping it through habits rather than mandates.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Daniel Devesa Derksen-Staats)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Send Emails With Django]]></title>
+        <id>6800668866f05d926e4a7820</id>
+        <link href="https://www.freecodecamp.org/news/how-to-send-emails-with-django/"/>
+        <updated>2025-04-17T02:25:12.000Z</updated>
+        <summary type="html"><![CDATA[If you're building a Django app and you want to connect with users – maybe to welcome them, send password reset links, or deliver updates – email is one of the best tools you’ve got. Setting up email in Django might sound tricky at first, but it's pr...]]></summary>
+        <author>
+            <name>Udemezue John</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CTO vs. CPO: Roles and Responsibilities of Chief Technical Officer & Chief Product Officer]]></title>
+        <id>6800667b5221d22444debb70</id>
+        <link href="https://www.freecodecamp.org/news/cto-vs-cpo-roles-and-responsibilities-of-chief-technical-officer-and-chief-product-officer/"/>
+        <updated>2025-04-17T02:24:59.000Z</updated>
+        <summary type="html"><![CDATA[In the IT and product industries, the positions of Chief Technology Officer (CTO) and Chief Product Officer (CPO) are crucial. Although they take distinct approaches, they both prioritize customer satisfaction and corporate success. This article will...]]></summary>
+        <author>
+            <name>Nazneen Ahmad</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Serverless Architecture Handbook: How to Publish a Node Js Docker Image to AWS ECR and Deploy the Container to AWS Lambda]]></title>
+        <id>68006521c1f51bf42a74f4b0</id>
+        <link href="https://www.freecodecamp.org/news/serverless-architecture-with-aws-lambda/"/>
+        <updated>2025-04-17T02:19:13.000Z</updated>
+        <summary type="html"><![CDATA[Imagine you’re tasked with building a web application that can handle incoming traffic surges as your users grow without accumulating too much cost. Sounds like a dream, right? But here’s the thing: traditionally, to do this, you would have to manage...]]></summary>
+        <author>
+            <name>Prince Onukwili</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Create a JSON Web Token in the Django Rest Framework]]></title>
         <id>67ffffdf95672e11eaf7719b</id>
@@ -852,16 +963,6 @@ Quick Reminder That :is() and :where() Are Basically the Same With One Key Diffe
         <summary type="html"><![CDATA[Prompt engineering isn’t just a skill these days – it gives you an important competitive edge in your development. In 2025, the difference between AI agents that work and those that don’t comes down to how well they’re prompted. Whether you’re a deve...]]></summary>
         <author>
             <name>Maham Codes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Everything You Need to Know About Web Acessibility]]></title>
-        <id>67d9aa58a50edbbdc70e2941</id>
-        <link href="https://www.freecodecamp.org/news/the-web-accessibility-handbook/"/>
-        <updated>2025-03-18T17:16:08.000Z</updated>
-        <summary type="html"><![CDATA[The web is a great place to access information and connect with people. It has opened up countless opportunities, making life more convenient in many ways. But not everyone experiences the web in the same way. Websites are difficult to use for people...]]></summary>
-        <author>
-            <name>Kunal Nalawade</name>
         </author>
     </entry>
 </feed>
