@@ -2,10 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-04-18T00:14:11.525Z</updated>
+    <updated>2025-04-19T00:13:53.868Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Dockerize Your Django Project]]></title>
+        <id>68027fe54ea28168254d68b0</id>
+        <link href="https://www.freecodecamp.org/news/how-to-dockerize-your-django-project/"/>
+        <updated>2025-04-18T16:37:57.000Z</updated>
+        <summary type="html"><![CDATA[If you're working on a Django project and you want to make your life easier – especially when it comes to running your app across different environments – Docker is your new best friend. Docker makes it possible to package your Django app, along with...]]></summary>
+        <author>
+            <name>Udemezue John</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use Celery in Django]]></title>
+        <id>68027fc44d4422c6f797b252</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-celery-in-django/"/>
+        <updated>2025-04-18T16:37:24.000Z</updated>
+        <summary type="html"><![CDATA[You’ve probably noticed that some tasks in your Django app seem to take a long time. For example, maybe sending confirmation emails, resizing images, or processing large data files slows things down. The good news? You don’t have to sit around waitin...]]></summary>
+        <author>
+            <name>Udemezue John</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Does It Really Mean For A Site To Be Keyboard Navigable]]></title>
+        <id>https://smashingmagazine.com/2025/04/what-mean-site-be-keyboard-navigable/</id>
+        <link href="https://smashingmagazine.com/2025/04/what-mean-site-be-keyboard-navigable/"/>
+        <updated>2025-04-18T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Keyboard navigation is a vital aspect of accessible web design, and a detail-oriented approach is crucial. Prioritizing keyboard navigation prioritizes the user experience for a diverse audience, extending your reach while simultaneously fostering a more inclusive web environment.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Eleanor Hecks)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“Pretty” is in the eye of the beholder]]></title>
+        <id>https://css-tricks.com/?p=385848</id>
+        <link href="https://css-tricks.com/pretty-is-in-the-eye-of-the-beholder/"/>
+        <updated>2025-04-18T12:12:35.000Z</updated>
+        <summary type="html"><![CDATA[Yay, let's jump for text-wrap: pretty landing in Safari Technology Preview! But beware that it's different from how it works in Chromium browsers.
+“Pretty” is in the eye of the beholder originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Learn Laravel by Building a Medium Clone]]></title>
         <id>68016b821cf57215a14fca5c</id>
@@ -943,26 +984,6 @@ Revisiting CSS border-image originally published on CSS-Tricks, which is part of
 Quick Reminder That :is() and :where() Are Basically the Same With One Key Difference originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Security Audits Are Important]]></title>
-        <id>67db2704d898a5f4273111cf</id>
-        <link href="https://www.freecodecamp.org/news/why-security-audits-are-important/"/>
-        <updated>2025-03-19T20:20:20.000Z</updated>
-        <summary type="html"><![CDATA[In this digital world, companies rely on the latest technology to run their businesses, and the risk of cyber attacks is high. Every product, whether it’s software or an application, should go through some sort of security testing process. These chec...]]></summary>
-        <author>
-            <name>P S Mohammed Ali</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Write Effective Prompts for AI Agents using Langbase]]></title>
-        <id>67dae1dae49263fce2ef7dc3</id>
-        <link href="https://www.freecodecamp.org/news/how-to-write-effective-prompts-for-ai-agents-using-langbase/"/>
-        <updated>2025-03-19T15:25:14.000Z</updated>
-        <summary type="html"><![CDATA[Prompt engineering isn’t just a skill these days – it gives you an important competitive edge in your development. In 2025, the difference between AI agents that work and those that don’t comes down to how well they’re prompted. Whether you’re a deve...]]></summary>
-        <author>
-            <name>Maham Codes</name>
         </author>
     </entry>
 </feed>

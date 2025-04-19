@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=385848",
+          "author": "Geoff Graham",
+          "description": "Yay, let's jump for text-wrap: pretty landing in Safari Technology Preview! But beware that it's different from how it works in Chromium browsers.\n“Pretty” is in the eye of the beholder originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/pretty-is-in-the-eye-of-the-beholder/",
+          "publishedOn": "2025-04-18T12:12:35.000Z",
+          "wordCount": 2232,
+          "title": "“Pretty” is in the eye of the beholder",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/04/bad-typography-SM-light.png"
+        },
+        {
           "id": "https://css-tricks.com/?p=385199",
           "author": "Zell Liew",
           "description": "There was once upon a time when native CSS lacked many essential features, leaving developers to come up with all sorts of ways to make CSS easier to write over the years.\nSo, You Want to Give Up CSS Pre- and Post-Processors… originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -199,6 +209,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2025/04/what-mean-site-be-keyboard-navigable/",
+          "author": "hello@smashingmagazine.com (Eleanor Hecks)",
+          "description": "Keyboard navigation is a vital aspect of accessible web design, and a detail-oriented approach is crucial. Prioritizing keyboard navigation prioritizes the user experience for a diverse audience, extending your reach while simultaneously fostering a more inclusive web environment.",
+          "link": "https://smashingmagazine.com/2025/04/what-mean-site-be-keyboard-navigable/",
+          "publishedOn": "2025-04-18T13:00:00.000Z",
+          "wordCount": 4303,
+          "title": "What Does It Really Mean For A Site To Be Keyboard Navigable",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/what-mean-site-be-keyboard-navigable/what-mean-site-be-keyboard-navigable.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/what-mean-site-be-keyboard-navigable/what-mean-site-be-keyboard-navigable.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2025/04/fostering-accessibility-culture/",
           "author": "hello@smashingmagazine.com (Daniel Devesa Derksen-Staats)",
           "description": "While there’s no definitive playbook for building an accessibility culture, Dani shares lessons from his experience in shaping it through habits rather than mandates.",
@@ -355,6 +380,26 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "68027fe54ea28168254d68b0",
+          "author": "Udemezue John",
+          "description": "If you're working on a Django project and you want to make your life easier – especially when it comes to running your app across different environments – Docker is your new best friend. Docker makes it possible to package your Django app, along with...",
+          "link": "https://www.freecodecamp.org/news/how-to-dockerize-your-django-project/",
+          "publishedOn": "2025-04-18T16:37:57.000Z",
+          "wordCount": 1828,
+          "title": "How to Dockerize Your Django Project",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1744994272728/248cef70-5f8e-46fd-a640-66852ffda7d2.png"
+        },
+        {
+          "id": "68027fc44d4422c6f797b252",
+          "author": "Udemezue John",
+          "description": "You’ve probably noticed that some tasks in your Django app seem to take a long time. For example, maybe sending confirmation emails, resizing images, or processing large data files slows things down. The good news? You don’t have to sit around waitin...",
+          "link": "https://www.freecodecamp.org/news/how-to-use-celery-in-django/",
+          "publishedOn": "2025-04-18T16:37:24.000Z",
+          "wordCount": 1895,
+          "title": "How to Use Celery in Django",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1744994231247/63228755-1929-4474-9930-15f8ff1a5631.png"
+        },
         {
           "id": "68016b821cf57215a14fca5c",
           "author": "Beau Carnes",
@@ -1004,26 +1049,6 @@
           "wordCount": 5980,
           "title": "How Python Magic Methods Work: A Practical Guide",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1742482738702/0b357de2-855d-47c2-960f-453e0bfd9a3d.png"
-        },
-        {
-          "id": "67db2704d898a5f4273111cf",
-          "author": "P S Mohammed Ali",
-          "description": "In this digital world, companies rely on the latest technology to run their businesses, and the risk of cyber attacks is high. Every product, whether it’s software or an application, should go through some sort of security testing process. These chec...",
-          "link": "https://www.freecodecamp.org/news/why-security-audits-are-important/",
-          "publishedOn": "2025-03-19T20:20:20.000Z",
-          "wordCount": 2732,
-          "title": "Why Security Audits Are Important",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1742397497226/ec06b7c2-1a2a-4eb1-bbaa-4c1d40e4e60e.png"
-        },
-        {
-          "id": "67dae1dae49263fce2ef7dc3",
-          "author": "Maham Codes",
-          "description": "Prompt engineering isn’t just a skill these days – it gives you an important competitive edge in your development. In 2025, the difference between AI agents that work and those that don’t comes down to how well they’re prompted. Whether you’re a deve...",
-          "link": "https://www.freecodecamp.org/news/how-to-write-effective-prompts-for-ai-agents-using-langbase/",
-          "publishedOn": "2025-03-19T15:25:14.000Z",
-          "wordCount": 3652,
-          "title": "How to Write Effective Prompts for AI Agents using Langbase",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1742397395773/51f66f8f-56a4-418e-a59e-141de64be2b2.png"
         }
       ]
     }
