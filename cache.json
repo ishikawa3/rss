@@ -180,16 +180,6 @@
           "wordCount": 2043,
           "title": "Support Logical Shorthands in CSS",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/12/css-tricks-logo-gradient-outline.png"
-        },
-        {
-          "id": "https://css-tricks.com/?p=385158",
-          "author": "Andy Clarke",
-          "description": "I’ve used border-image regularly. Yet, it remains one of the most underused CSS tools, and I can’t, for the life of me, figure out why. Is it possible that people steer clear of border-image because its syntax is awkward and unintuitive? Perhaps it’s because most explanations don’t solve the type of creative implementation problems that most people need to solve. Most likely, it’s both.\nRevisiting CSS border-image originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/revisiting-css-border-image/",
-          "publishedOn": "2025-03-21T13:24:11.000Z",
-          "wordCount": 4125,
-          "title": "Revisiting CSS border-image",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/03/border-image-menu.png"
         }
       ]
     },
@@ -974,26 +964,6 @@
           "wordCount": 4091,
           "title": "How to Create a Send Email Function using Nodemailer and OAuth2",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1742859346889/dad1b775-f088-4c24-b252-3d85ec9e0bb7.png"
-        },
-        {
-          "id": "67ddbf930d353b1d4dfa0ebd",
-          "author": "Quincy Larson",
-          "description": "On this week's episode of the podcast, I interview Francesco Ciulla. He's a software engineer who has worked with the European Space Agency on code that powers the Copernicus satellite program. More Francesco has published courses on learning Docker ...",
-          "link": "https://www.freecodecamp.org/news/programming-satellites-at-age-37-with-francesco-ciulla-podcast-165/",
-          "publishedOn": "2025-03-21T19:35:47.000Z",
-          "wordCount": 1114,
-          "title": "From hating coding to programming satellites at age 37 with Francesco Ciulla [Podcast #165]",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1742585568977/09b25b8e-8c92-4f4b-853f-64b7f7915980.png"
-        },
-        {
-          "id": "67dd93c136028f6326576025",
-          "author": "Ikegah Oliver",
-          "description": "Here are some questions for you: How do you log in to apps with your Google, Apple, or Microsoft account? How do online payments with Paystack or PayPal work? How do apps like Facebook and Instagram share information and notifications? The answer is:...",
-          "link": "https://www.freecodecamp.org/news/learn-api-fundamentals-and-architecture/",
-          "publishedOn": "2025-03-21T16:28:49.000Z",
-          "wordCount": 4703,
-          "title": "Learn API Fundamentals and Architecture – A Beginner-Friendly Guide",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1742310491936/3e9eb6e8-9f7d-424a-821e-b7110e3cf2f0.png"
         }
       ]
     }

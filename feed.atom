@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-04-20T00:15:47.615Z</updated>
+    <updated>2025-04-21T00:15:16.179Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
@@ -900,37 +900,6 @@ Case Study: Combining Cutting-Edge CSS Features Into a “Course Navigation” C
 Support Logical Shorthands in CSS originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[From hating coding to programming satellites at age 37 with Francesco Ciulla [Podcast #165]]]></title>
-        <id>67ddbf930d353b1d4dfa0ebd</id>
-        <link href="https://www.freecodecamp.org/news/programming-satellites-at-age-37-with-francesco-ciulla-podcast-165/"/>
-        <updated>2025-03-21T19:35:47.000Z</updated>
-        <summary type="html"><![CDATA[On this week's episode of the podcast, I interview Francesco Ciulla. He's a software engineer who has worked with the European Space Agency on code that powers the Copernicus satellite program. More Francesco has published courses on learning Docker ...]]></summary>
-        <author>
-            <name>Quincy Larson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn API Fundamentals and Architecture – A Beginner-Friendly Guide]]></title>
-        <id>67dd93c136028f6326576025</id>
-        <link href="https://www.freecodecamp.org/news/learn-api-fundamentals-and-architecture/"/>
-        <updated>2025-03-21T16:28:49.000Z</updated>
-        <summary type="html"><![CDATA[Here are some questions for you: How do you log in to apps with your Google, Apple, or Microsoft account? How do online payments with Paystack or PayPal work? How do apps like Facebook and Instagram share information and notifications? The answer is:...]]></summary>
-        <author>
-            <name>Ikegah Oliver</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Revisiting CSS border-image]]></title>
-        <id>https://css-tricks.com/?p=385158</id>
-        <link href="https://css-tricks.com/revisiting-css-border-image/"/>
-        <updated>2025-03-21T13:24:11.000Z</updated>
-        <summary type="html"><![CDATA[I’ve used border-image regularly. Yet, it remains one of the most underused CSS tools, and I can’t, for the life of me, figure out why. Is it possible that people steer clear of border-image because its syntax is awkward and unintuitive? Perhaps it’s because most explanations don’t solve the type of creative implementation problems that most people need to solve. Most likely, it’s both.
-Revisiting CSS border-image originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Andy Clarke</name>
         </author>
     </entry>
 </feed>
