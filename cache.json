@@ -346,6 +346,56 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "680679690b7357fefc92cf6b",
+          "author": "Manish Shivanandhan",
+          "description": "Writing code is relatively easy. But writing secure code is much harder. The truth is, most developers don’t realize their code is vulnerable until something breaks. Or, worse, until someone attacks it. So if you want secure code, you first have to k...",
+          "link": "https://www.freecodecamp.org/news/what-makes-code-vulnerable-and-how-to-fix-it/",
+          "publishedOn": "2025-04-21T16:59:21.000Z",
+          "wordCount": 2376,
+          "title": "What Makes Code Vulnerable – And How to Fix It",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1745251285687/7ce5aca0-1edc-49e4-879d-b5690cbb64ea.png"
+        },
+        {
+          "id": "680663026f6aa321e86950fd",
+          "author": "Udemezue John",
+          "description": "When you're working on a Django project – whether it's a small side project or a growing web app – there comes a point where you need to export your database. Maybe you’re switching hosting providers. Maybe you're backing things up or sharing data wi...",
+          "link": "https://www.freecodecamp.org/news/how-to-export-your-database-in-django/",
+          "publishedOn": "2025-04-21T15:23:46.000Z",
+          "wordCount": 1907,
+          "title": "How to Export Your Database in Django",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1745248996492/6d3f5665-3329-4894-9f99-3ba257867e0d.png"
+        },
+        {
+          "id": "680662c3d6b81962a8fc5351",
+          "author": "Maham Codes",
+          "description": "Autonomous agents might sound complex, but they don’t have to be. These are AI systems that can make decisions and take actions on their own to achieve a goal – usually by using LLMs, various tools, and memory to reason through a task. You can build ...",
+          "link": "https://www.freecodecamp.org/news/build-autonomous-agents-using-prompt-chaining-with-ai-primitives/",
+          "publishedOn": "2025-04-21T15:22:42.000Z",
+          "wordCount": 3307,
+          "title": "How to Build Autonomous Agents using Prompt Chaining with AI Primitives (No Frameworks)",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1745248868960/12efd5ab-3d9b-4c93-979f-45bde796639b.png"
+        },
+        {
+          "id": "68066255e4a48bef99b3c63e",
+          "author": "Ikegah Oliver",
+          "description": "Web development revolves around communication – communication between browsers and servers, as well as frontend applications and backends. At the centre of this is the API. And the REST architecture has become a popular way to design APIs that are cl...",
+          "link": "https://www.freecodecamp.org/news/learn-rest-api-principles-by-building-an-express-app/",
+          "publishedOn": "2025-04-21T15:20:53.000Z",
+          "wordCount": 3756,
+          "title": "Learn REST API Principles by Building an Express App",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1745003938509/442fd99e-d098-4a5a-98d7-94c4af9a5d55.png"
+        },
+        {
+          "id": "68064ada755dfd259536f463",
+          "author": "Quincy Larson",
+          "description": "On this week's episode of the podcast, I interview Tae'lur Alexis. She's a developer and security analyst. Instead of going to college, Tae'lur spent years working various fast food and retail jobs. Tae'lur taught herself Python and JavaScript using ...",
+          "link": "https://www.freecodecamp.org/news/from-fast-food-worker-to-cybersecurity-engineer-with-taelur-alexis-podcast-169/",
+          "publishedOn": "2025-04-21T13:40:42.000Z",
+          "wordCount": 1055,
+          "title": "From fast food worker to cybersecurity engineer with Tae'lur Alexis [Podcast #169]",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1745242807605/8a6cf71c-144f-4c91-9532-62d7c92c0f65.png"
+        },
+        {
           "id": "68027fe54ea28168254d68b0",
           "author": "Udemezue John",
           "description": "If you're working on a Django project and you want to make your life easier – especially when it comes to running your app across different environments – Docker is your new best friend. Docker makes it possible to package your Django app, along with...",
