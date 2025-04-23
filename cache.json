@@ -346,6 +346,56 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "6807be591920ce8f50e00175",
+          "author": "Beau Carnes",
+          "description": "Understanding artificial intelligence (AI) and machine learning (ML) is becoming essential for software developers. But to truly grasp how these technologies work, it’s important to understand the core concepts and terminology that form their foundat...",
+          "link": "https://www.freecodecamp.org/news/essential-machine-learning-concepts-animated/",
+          "publishedOn": "2025-04-22T16:05:45.000Z",
+          "wordCount": 1332,
+          "title": "Essential Machine Learning Concepts Animated",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1745337916808/108914f8-f399-4359-9bb5-75e9fee9c0aa.png"
+        },
+        {
+          "id": "6807a27399db81a7d80529fe",
+          "author": "Pedro Bertao",
+          "description": "When you’re working with data in Go, especially when you need to handle dynamic inputs like JSON from third-party APIs, understanding how to properly convert between data types is key. This helps you avoid bugs and crashes. Often times, the values re...",
+          "link": "https://www.freecodecamp.org/news/what-is-typecasting-in-go/",
+          "publishedOn": "2025-04-22T14:06:43.000Z",
+          "wordCount": 2681,
+          "title": "What is Typecasting in Go? Explained with Code Examples",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1745329132242/7af1f157-973f-4375-8b09-b79a4f444805.png"
+        },
+        {
+          "id": "6807a227b77713cc8e0f6059",
+          "author": "Udemezue John",
+          "description": "When you're building something in Django – whether it's a blog, a to-do app, or even something way more complex – at some point, you'll want to connect different pieces of data. That’s where ForeignKey comes in. It helps link one model to another, li...",
+          "link": "https://www.freecodecamp.org/news/how-to-use-a-foreign-key-in-django/",
+          "publishedOn": "2025-04-22T14:05:27.000Z",
+          "wordCount": 2055,
+          "title": "How to Use a Foreign Key in Django",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1745330646960/e2fc7f1d-73f9-4e25-b870-e0928833e7a5.png"
+        },
+        {
+          "id": "68079d18a34a9e3143fe9e56",
+          "author": "Udemezue John",
+          "description": "If you’re building a Django project and wondering which database to use, PostgreSQL is a great choice. It’s reliable, fast, packed with powerful features, and works beautifully with Django. I’ve used it across multiple projects – from small web apps ...",
+          "link": "https://www.freecodecamp.org/news/how-to-use-postgresql-in-django/",
+          "publishedOn": "2025-04-22T13:43:52.000Z",
+          "wordCount": 1866,
+          "title": "How to Use PostgreSQL in Django",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1745329406033/4d3cb010-d612-4ca8-8039-2d922e8b0337.png"
+        },
+        {
+          "id": "68079cde283b1638560a2135",
+          "author": "Sule-Balogun Olanrewaju",
+          "description": "When conferences organize events, they seek knowledgeable speakers to share insights that educate, inspire, and engage attendees. They discover and select speakers through a Call for Proposals (CFP), an open invitation for experts to submit talk idea...",
+          "link": "https://www.freecodecamp.org/news/how-to-write-a-good-conference-talk-proposal/",
+          "publishedOn": "2025-04-22T13:42:54.000Z",
+          "wordCount": 3714,
+          "title": "How to Write a Good Conference Talk Proposal – CFP Guide",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1745329255973/f4fbb77f-8cab-4c29-bdd0-2791037bc6fd.png"
+        },
+        {
           "id": "680679690b7357fefc92cf6b",
           "author": "Manish Shivanandhan",
           "description": "Writing code is relatively easy. But writing secure code is much harder. The truth is, most developers don’t realize their code is vulnerable until something breaks. Or, worse, until someone attacks it. So if you want secure code, you first have to k...",

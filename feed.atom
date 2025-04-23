@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-04-22T00:14:20.725Z</updated>
+    <updated>2025-04-23T00:14:24.888Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Essential Machine Learning Concepts Animated]]></title>
+        <id>6807be591920ce8f50e00175</id>
+        <link href="https://www.freecodecamp.org/news/essential-machine-learning-concepts-animated/"/>
+        <updated>2025-04-22T16:05:45.000Z</updated>
+        <summary type="html"><![CDATA[Understanding artificial intelligence (AI) and machine learning (ML) is becoming essential for software developers. But to truly grasp how these technologies work, it’s important to understand the core concepts and terminology that form their foundat...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is Typecasting in Go? Explained with Code Examples]]></title>
+        <id>6807a27399db81a7d80529fe</id>
+        <link href="https://www.freecodecamp.org/news/what-is-typecasting-in-go/"/>
+        <updated>2025-04-22T14:06:43.000Z</updated>
+        <summary type="html"><![CDATA[When you’re working with data in Go, especially when you need to handle dynamic inputs like JSON from third-party APIs, understanding how to properly convert between data types is key. This helps you avoid bugs and crashes. Often times, the values re...]]></summary>
+        <author>
+            <name>Pedro Bertao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use a Foreign Key in Django]]></title>
+        <id>6807a227b77713cc8e0f6059</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-a-foreign-key-in-django/"/>
+        <updated>2025-04-22T14:05:27.000Z</updated>
+        <summary type="html"><![CDATA[When you're building something in Django – whether it's a blog, a to-do app, or even something way more complex – at some point, you'll want to connect different pieces of data. That’s where ForeignKey comes in. It helps link one model to another, li...]]></summary>
+        <author>
+            <name>Udemezue John</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use PostgreSQL in Django]]></title>
+        <id>68079d18a34a9e3143fe9e56</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-postgresql-in-django/"/>
+        <updated>2025-04-22T13:43:52.000Z</updated>
+        <summary type="html"><![CDATA[If you’re building a Django project and wondering which database to use, PostgreSQL is a great choice. It’s reliable, fast, packed with powerful features, and works beautifully with Django. I’ve used it across multiple projects – from small web apps ...]]></summary>
+        <author>
+            <name>Udemezue John</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Write a Good Conference Talk Proposal – CFP Guide]]></title>
+        <id>68079cde283b1638560a2135</id>
+        <link href="https://www.freecodecamp.org/news/how-to-write-a-good-conference-talk-proposal/"/>
+        <updated>2025-04-22T13:42:54.000Z</updated>
+        <summary type="html"><![CDATA[When conferences organize events, they seek knowledgeable speakers to share insights that educate, inspire, and engage attendees. They discover and select speakers through a Call for Proposals (CFP), an open invitation for experts to submit talk idea...]]></summary>
+        <author>
+            <name>Sule-Balogun Olanrewaju</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What Makes Code Vulnerable – And How to Fix It]]></title>
         <id>680679690b7357fefc92cf6b</id>
