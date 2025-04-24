@@ -170,16 +170,6 @@
           "wordCount": 4276,
           "title": "Case Study: Combining Cutting-Edge CSS Features Into a “Course Navigation” Component",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/03/course-navigation-ui.png"
-        },
-        {
-          "id": "https://css-tricks.com/?p=385389",
-          "author": "Geoff Graham",
-          "description": "There’s a bit of a blind spot when working with CSS logical properties concerning shorthands.\nSupport Logical Shorthands in CSS originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/support-logical-shorthands-in-css/",
-          "publishedOn": "2025-03-24T14:06:19.000Z",
-          "wordCount": 2043,
-          "title": "Support Logical Shorthands in CSS",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/12/css-tricks-logo-gradient-outline.png"
         }
       ]
     },
@@ -188,6 +178,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2025/04/building-offline-friendly-image-upload-system/",
+          "author": "hello@smashingmagazine.com (Amejimaobari Ollornwi)",
+          "description": "Poor internet connectivity doesn’t have to mean poor UX. With PWA technologies like `IndexedDB`, service workers, and the Background Sync API, you can build an offline-friendly image upload system that queues uploads and retries them automatically — so your users can upload stress-free, even when offline.",
+          "link": "https://smashingmagazine.com/2025/04/building-offline-friendly-image-upload-system/",
+          "publishedOn": "2025-04-23T10:00:00.000Z",
+          "wordCount": 4456,
+          "title": "Building An Offline-Friendly Image Upload System",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/building-offline-friendly-image-upload-system/building-offline-friendly-image-upload-system.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/building-offline-friendly-image-upload-system/building-offline-friendly-image-upload-system.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2025/04/what-mean-site-be-keyboard-navigable/",
           "author": "hello@smashingmagazine.com (Eleanor Hecks)",
@@ -345,6 +350,36 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "680931204adb8ffdef48642a",
+          "author": "Arunachalam B",
+          "description": "These days, everyone wants to be a content creator. But it can be hard to find time to create and curate content, post on social media, build engagement, and grow your brand. And I’m not an exception to this. I wanted to create more content, and had ...",
+          "link": "https://www.freecodecamp.org/news/how-to-create-an-ai-powered-bot/",
+          "publishedOn": "2025-04-23T18:27:44.000Z",
+          "wordCount": 2643,
+          "title": "How to Create an AI-Powered Bot that Can Post on Twitter/X",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1745416845372/5eb9963d-e092-4844-99d9-01fa70032169.png"
+        },
+        {
+          "id": "68092fcdc537d7b2fea4ebbb",
+          "author": "Beau Carnes",
+          "description": "JavaScript arrays are one of the most essential tools in any developer’s toolkit. Whether you're managing lists of items, transforming data, or creating complex data pipelines, arrays play an important role in how we build and think about application...",
+          "link": "https://www.freecodecamp.org/news/all-about-javascript-arrays/",
+          "publishedOn": "2025-04-23T18:22:05.000Z",
+          "wordCount": 1156,
+          "title": "All About JavaScript Arrays",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1745432506798/1066c340-85a3-407c-b378-69d1e3e77447.png"
+        },
+        {
+          "id": "6808f23b332c138efcea040d",
+          "author": "Udemezue John",
+          "description": "Changing a superuser password in Django might sound like a big task, but it’s one of the easiest things to do once you know how. If you’re working on a Django project – whether it’s a hobby blog, a client’s website, or a bigger web application – mana...",
+          "link": "https://www.freecodecamp.org/news/how-to-change-the-password-of-a-superuser-in-django/",
+          "publishedOn": "2025-04-23T13:59:23.000Z",
+          "wordCount": 1829,
+          "title": "How to Change the Password of a Superuser in Django",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1745416742960/89cce35f-2e91-4329-8fea-0d1551bea2c7.png"
+        },
         {
           "id": "6807be591920ce8f50e00175",
           "author": "Beau Carnes",
@@ -1054,16 +1089,6 @@
           "wordCount": 3516,
           "title": "How to Use TestContainers in .Net",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1742773343798/44c64acc-3862-4325-af21-6b7de417d300.jpeg"
-        },
-        {
-          "id": "67e1ec8917e7e6a0f12cddf5",
-          "author": "Okoro Emmanuel Nzube",
-          "description": "Being able to communicate by sending emails through web applications is important these days. It helps businesses stay connected with their potential customers. In this article, you’ll learn how to implement the Send Email function in your web app us...",
-          "link": "https://www.freecodecamp.org/news/create-a-send-email-function-using-nodemailer-and-oauth2/",
-          "publishedOn": "2025-03-24T23:36:41.000Z",
-          "wordCount": 4091,
-          "title": "How to Create a Send Email Function using Nodemailer and OAuth2",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1742859346889/dad1b775-f088-4c24-b252-3d85ec9e0bb7.png"
         }
       ]
     }
