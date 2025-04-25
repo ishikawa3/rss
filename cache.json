@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=385855",
+          "author": "Blackle Mori",
+          "description": "In this post, Blackle Mori shows you a few of the hacks found while trying to push the limits of Cohost’s HTML support. Use these if you dare, lest you too get labelled a CSS criminal.\nThe Lost CSS Tricks of Cohost.org originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/the-lost-css-tricks-of-cohost-org/",
+          "publishedOn": "2025-04-24T12:49:42.000Z",
+          "wordCount": 3800,
+          "title": "The Lost CSS Tricks of Cohost.org",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/12/css-star-variations.jpg"
+        },
+        {
           "id": "https://css-tricks.com/?p=385848",
           "author": "Geoff Graham",
           "description": "Yay, let's jump for text-wrap: pretty landing in Safari Technology Preview! But beware that it's different from how it works in Chromium browsers.\n“Pretty” is in the eye of the beholder originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -160,16 +170,6 @@
           "wordCount": 3669,
           "title": "Automated Visual Regression Testing With Playwright",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/03/playwright-browsers.jpg"
-        },
-        {
-          "id": "https://css-tricks.com/?p=385070",
-          "author": "Daniel Schwarz",
-          "description": "Having been tasked with creating a UI component for navigating the content of an online course, Daniel found himself neck-deep in a pool of new CSS features that he wound up using on the project.\nCase Study: Combining Cutting-Edge CSS Features Into a “Course Navigation” Component originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/case-study-combining-cutting-edge-css-features-into-a-course-navigation-component/",
-          "publishedOn": "2025-03-25T12:47:18.000Z",
-          "wordCount": 4276,
-          "title": "Case Study: Combining Cutting-Edge CSS Features Into a “Course Navigation” Component",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/03/course-navigation-ui.png"
         }
       ]
     },
@@ -178,6 +178,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2025/04/neuroscience-designers-boost-creativity-endless-reference-scrolling/",
+          "author": "hello@smashingmagazine.com (Marina Chernyshova)",
+          "description": "While it is clear that creativity is driven by both the left and right hemispheres, an important question remains: how can we boost creativity while keeping the process enjoyable? It may not be obvious, but non-design-related activities can, in fact, be an opportunity to enhance creativity.",
+          "link": "https://smashingmagazine.com/2025/04/neuroscience-designers-boost-creativity-endless-reference-scrolling/",
+          "publishedOn": "2025-04-24T10:00:00.000Z",
+          "wordCount": 6606,
+          "title": "Boosting Up Your Creativity Without Endless Reference Scrolling",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/neuroscience-designers-boost-creativity-endless-reference-scrolling/neuroscience-designers-boost-creativity-endless-reference-scrolling.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/neuroscience-designers-boost-creativity-endless-reference-scrolling/neuroscience-designers-boost-creativity-endless-reference-scrolling.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2025/04/building-offline-friendly-image-upload-system/",
           "author": "hello@smashingmagazine.com (Amejimaobari Ollornwi)",
@@ -350,6 +365,46 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "680aa2e68a164048d5799e47",
+          "author": "Anamol Rajbhandari",
+          "description": "Could it be that the key to designing a great product experience might be hidden in a 60-year-old marketing playbook? Well, for years, marketing and user experience (UX) have been treated as separate worlds. Marketing grabs attention and drives sales...",
+          "link": "https://www.freecodecamp.org/news/how-ux-and-marketing-are-saying-the-same-things-differently/",
+          "publishedOn": "2025-04-24T20:45:26.000Z",
+          "wordCount": 3325,
+          "title": "How UX and Marketing Are Saying the Same Things, Differently",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1745520497294/c0cac6d6-feaf-4633-a8eb-18baf7f7f479.png"
+        },
+        {
+          "id": "680a97a8966c1c2bc7a60b19",
+          "author": "Beau Carnes",
+          "description": "Large language models (LLMs) are at the forefront of modern artificial intelligence, enabling applications that can understand and generate human-like language. Meta's latest release, Llama 4, represents a significant advancement in this field, intro...",
+          "link": "https://www.freecodecamp.org/news/code-your-own-llama-4-llm-from-scratch/",
+          "publishedOn": "2025-04-24T19:57:28.000Z",
+          "wordCount": 1212,
+          "title": "Code Your Own Llama 4 LLM from Scratch",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1745524611092/1d8941fe-1797-4a24-a294-91505999489e.png"
+        },
+        {
+          "id": "680a540ef12791f5c752af5e",
+          "author": "Manish Shivanandhan",
+          "description": "When you’re doing a penetration test, your first job is to understand the target. Before you touch a single exploit or send a single payload, you need to know what services are running, what ports are open, what technologies are in play, and where th...",
+          "link": "https://www.freecodecamp.org/news/how-to-automate-information-gathering-for-ethical-hackers-autorecon-tutorial/",
+          "publishedOn": "2025-04-24T15:09:02.000Z",
+          "wordCount": 1921,
+          "title": "How to Automate Information Gathering for Ethical Hackers — AutoRecon Tutorial",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1745507318904/b27dc949-dbbb-43c2-85e1-072f91f3971f.png"
+        },
+        {
+          "id": "680a4adad2926105c84b08ae",
+          "author": "Udemezue John",
+          "description": "If you're working with Django and writing queries, chances are you’ve bumped into a situation where you need to combine filters in a way that’s just... not straightforward. Maybe you're trying to search for users with a username or an email that matc...",
+          "link": "https://www.freecodecamp.org/news/what-is-q-in-django-and-why-its-super-useful/",
+          "publishedOn": "2025-04-24T14:29:46.000Z",
+          "wordCount": 2066,
+          "title": "What Is Q in Django? (And Why It's Super Useful)",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1745504806983/58c92bf9-b2e6-486a-8722-d364decc5d1a.png"
+        },
         {
           "id": "680931204adb8ffdef48642a",
           "author": "Arunachalam B",
@@ -1029,66 +1084,6 @@
           "wordCount": 2822,
           "title": "How to Extract  YouTube Analytics Data and Analyze in Python",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1743005089726/39e2323d-8f7b-4bf4-94cb-288aeb9cea4f.png"
-        },
-        {
-          "id": "67e2ec52cd467794ee79d63e",
-          "author": "Ijeoma Igboagu",
-          "description": "As a DevOps engineer, it is crucial to master at least one cloud provider. Cloud services simplify storage, data migration, and CI/CD workflows and help make these tasks easier and more efficient. If you need a basic introduction to cloud computing, ...",
-          "link": "https://www.freecodecamp.org/news/how-to-connect-your-aws-ec2-instance-to-vs-code/",
-          "publishedOn": "2025-03-25T17:48:02.000Z",
-          "wordCount": 2575,
-          "title": "How to Connect Your AWS EC2 Instance to VS Code",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1742397603245/c1ca0496-dbab-4570-8b6b-cb4bac5f72c1.png"
-        },
-        {
-          "id": "67e2d66c64d44185d5a6d406",
-          "author": "Victoria Nduka",
-          "description": "If you're new to cloud native technologies, you may have heard the term 'observability' before. But what exactly does it mean? Is it simply the ability to observe? And if so, what are we observing and why? I had the same questions when I started lear...",
-          "link": "https://www.freecodecamp.org/news/observability-in-cloud-native-applications/",
-          "publishedOn": "2025-03-25T16:14:36.000Z",
-          "wordCount": 2846,
-          "title": "A Beginner's Guide to Observability in Cloud Native Applications",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1742917070693/fa372981-fb20-4230-bd9f-43b7255b8ced.png"
-        },
-        {
-          "id": "67e2d5e080e11112e050be00",
-          "author": "Rob Walters",
-          "description": "AWS Lambda is a computing service that enables you to run arbitrary code functions without needing to provision, manage, or scale servers. It’s often used in the logic tier of a multi-tier architecture to handle tasks such as processing files in S3 o...",
-          "link": "https://www.freecodecamp.org/news/how-to-orchestrate-aws-lambda-with-graphql-and-apollo-connectors/",
-          "publishedOn": "2025-03-25T16:12:16.000Z",
-          "wordCount": 3864,
-          "title": "Orchestrating AWS Lambda with GraphQL and Apollo Connectors",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1742917115054/07184be6-5384-4861-a676-b72c06ff7c65.png"
-        },
-        {
-          "id": "67e2d5a9436e3bed610a8a95",
-          "author": "Vivek Sahu",
-          "description": "Python is known for its simplicity and readability, making it a favorite among developers. But this simplicity sometimes comes at the cost of performance. When your Python application grows or needs to handle larger workloads, understanding what's ha...",
-          "link": "https://www.freecodecamp.org/news/how-to-use-pythons-built-in-profiling-tools-examples-and-best-practices/",
-          "publishedOn": "2025-03-25T16:11:21.000Z",
-          "wordCount": 4519,
-          "title": "How to Use Python's Built-in Profiling Tools: Examples and Best Practices",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1742917060232/7ea623ac-4c4d-4bb9-9edf-f9041a8bc9ae.png"
-        },
-        {
-          "id": "67e2cd0841be93b03e257b93",
-          "author": "oghenekparobo Stephen",
-          "description": "DevOps might seem like a complex field with various specializations and tools. In this article, I’ll simplify one key aspect by demonstrating how to host a static website using Amazon S3 (Simple Storage Service) and CloudFront, AWS’s Content Delivery...",
-          "link": "https://www.freecodecamp.org/news/host-a-static-website-on-aws-s3-and-cloudfront/",
-          "publishedOn": "2025-03-25T15:34:32.000Z",
-          "wordCount": 4787,
-          "title": "How to Host a Static Website on AWS S3 and CloudFront",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1742916792332/9dbf6a18-7260-434f-815d-e38a82c9e47e.png"
-        },
-        {
-          "id": "67e2cbfdaa97659cd53cf39f",
-          "author": "Grant Riordan",
-          "description": "At some point in your development lifecycle, you will need to test that your system can integrate with another system, whether it be another API, a database, or caching service, for example. This can be a laborious task of spinning up other servers h...",
-          "link": "https://www.freecodecamp.org/news/how-to-use-testcontainers-in-net/",
-          "publishedOn": "2025-03-25T15:30:05.000Z",
-          "wordCount": 3516,
-          "title": "How to Use TestContainers in .Net",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1742773343798/44c64acc-3862-4325-af21-6b7de417d300.jpeg"
         }
       ]
     }

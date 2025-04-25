@@ -2,10 +2,71 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-04-24T00:14:25.166Z</updated>
+    <updated>2025-04-25T00:14:36.992Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How UX and Marketing Are Saying the Same Things, Differently]]></title>
+        <id>680aa2e68a164048d5799e47</id>
+        <link href="https://www.freecodecamp.org/news/how-ux-and-marketing-are-saying-the-same-things-differently/"/>
+        <updated>2025-04-24T20:45:26.000Z</updated>
+        <summary type="html"><![CDATA[Could it be that the key to designing a great product experience might be hidden in a 60-year-old marketing playbook? Well, for years, marketing and user experience (UX) have been treated as separate worlds. Marketing grabs attention and drives sales...]]></summary>
+        <author>
+            <name>Anamol Rajbhandari</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Code Your Own Llama 4 LLM from Scratch]]></title>
+        <id>680a97a8966c1c2bc7a60b19</id>
+        <link href="https://www.freecodecamp.org/news/code-your-own-llama-4-llm-from-scratch/"/>
+        <updated>2025-04-24T19:57:28.000Z</updated>
+        <summary type="html"><![CDATA[Large language models (LLMs) are at the forefront of modern artificial intelligence, enabling applications that can understand and generate human-like language. Meta's latest release, Llama 4, represents a significant advancement in this field, intro...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Automate Information Gathering for Ethical Hackers — AutoRecon Tutorial]]></title>
+        <id>680a540ef12791f5c752af5e</id>
+        <link href="https://www.freecodecamp.org/news/how-to-automate-information-gathering-for-ethical-hackers-autorecon-tutorial/"/>
+        <updated>2025-04-24T15:09:02.000Z</updated>
+        <summary type="html"><![CDATA[When you’re doing a penetration test, your first job is to understand the target. Before you touch a single exploit or send a single payload, you need to know what services are running, what ports are open, what technologies are in play, and where th...]]></summary>
+        <author>
+            <name>Manish Shivanandhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Is Q in Django? (And Why It's Super Useful)]]></title>
+        <id>680a4adad2926105c84b08ae</id>
+        <link href="https://www.freecodecamp.org/news/what-is-q-in-django-and-why-its-super-useful/"/>
+        <updated>2025-04-24T14:29:46.000Z</updated>
+        <summary type="html"><![CDATA[If you're working with Django and writing queries, chances are you’ve bumped into a situation where you need to combine filters in a way that’s just... not straightforward. Maybe you're trying to search for users with a username or an email that matc...]]></summary>
+        <author>
+            <name>Udemezue John</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Lost CSS Tricks of Cohost.org]]></title>
+        <id>https://css-tricks.com/?p=385855</id>
+        <link href="https://css-tricks.com/the-lost-css-tricks-of-cohost-org/"/>
+        <updated>2025-04-24T12:49:42.000Z</updated>
+        <summary type="html"><![CDATA[In this post, Blackle Mori shows you a few of the hacks found while trying to push the limits of Cohost’s HTML support. Use these if you dare, lest you too get labelled a CSS criminal.
+The Lost CSS Tricks of Cohost.org originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Blackle Mori</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Boosting Up Your Creativity Without Endless Reference Scrolling]]></title>
+        <id>https://smashingmagazine.com/2025/04/neuroscience-designers-boost-creativity-endless-reference-scrolling/</id>
+        <link href="https://smashingmagazine.com/2025/04/neuroscience-designers-boost-creativity-endless-reference-scrolling/"/>
+        <updated>2025-04-24T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[While it is clear that creativity is driven by both the left and right hemispheres, an important question remains: how can we boost creativity while keeping the process enjoyable? It may not be obvious, but non-design-related activities can, in fact, be an opportunity to enhance creativity.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Marina Chernyshova)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Create an AI-Powered Bot that Can Post on Twitter/X]]></title>
         <id>680931204adb8ffdef48642a</id>
@@ -948,77 +1009,6 @@ Automated Visual Regression Testing With Playwright originally published on CSS-
         <summary type="html"><![CDATA[If you’re a YouTube content creator, you’ll make data-driven decisions when posting content. This helps you target the right audience when creating your videos. YouTube Studio provides YouTube Analytics, where you can get comprehensive data about you...]]></summary>
         <author>
             <name>Adejumo Ridwan Suleiman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Connect Your AWS EC2 Instance to VS Code]]></title>
-        <id>67e2ec52cd467794ee79d63e</id>
-        <link href="https://www.freecodecamp.org/news/how-to-connect-your-aws-ec2-instance-to-vs-code/"/>
-        <updated>2025-03-25T17:48:02.000Z</updated>
-        <summary type="html"><![CDATA[As a DevOps engineer, it is crucial to master at least one cloud provider. Cloud services simplify storage, data migration, and CI/CD workflows and help make these tasks easier and more efficient. If you need a basic introduction to cloud computing, ...]]></summary>
-        <author>
-            <name>Ijeoma Igboagu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Beginner's Guide to Observability in Cloud Native Applications]]></title>
-        <id>67e2d66c64d44185d5a6d406</id>
-        <link href="https://www.freecodecamp.org/news/observability-in-cloud-native-applications/"/>
-        <updated>2025-03-25T16:14:36.000Z</updated>
-        <summary type="html"><![CDATA[If you're new to cloud native technologies, you may have heard the term 'observability' before. But what exactly does it mean? Is it simply the ability to observe? And if so, what are we observing and why? I had the same questions when I started lear...]]></summary>
-        <author>
-            <name>Victoria Nduka</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Orchestrating AWS Lambda with GraphQL and Apollo Connectors]]></title>
-        <id>67e2d5e080e11112e050be00</id>
-        <link href="https://www.freecodecamp.org/news/how-to-orchestrate-aws-lambda-with-graphql-and-apollo-connectors/"/>
-        <updated>2025-03-25T16:12:16.000Z</updated>
-        <summary type="html"><![CDATA[AWS Lambda is a computing service that enables you to run arbitrary code functions without needing to provision, manage, or scale servers. It’s often used in the logic tier of a multi-tier architecture to handle tasks such as processing files in S3 o...]]></summary>
-        <author>
-            <name>Rob Walters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use Python's Built-in Profiling Tools: Examples and Best Practices]]></title>
-        <id>67e2d5a9436e3bed610a8a95</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-pythons-built-in-profiling-tools-examples-and-best-practices/"/>
-        <updated>2025-03-25T16:11:21.000Z</updated>
-        <summary type="html"><![CDATA[Python is known for its simplicity and readability, making it a favorite among developers. But this simplicity sometimes comes at the cost of performance. When your Python application grows or needs to handle larger workloads, understanding what's ha...]]></summary>
-        <author>
-            <name>Vivek Sahu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Host a Static Website on AWS S3 and CloudFront]]></title>
-        <id>67e2cd0841be93b03e257b93</id>
-        <link href="https://www.freecodecamp.org/news/host-a-static-website-on-aws-s3-and-cloudfront/"/>
-        <updated>2025-03-25T15:34:32.000Z</updated>
-        <summary type="html"><![CDATA[DevOps might seem like a complex field with various specializations and tools. In this article, I’ll simplify one key aspect by demonstrating how to host a static website using Amazon S3 (Simple Storage Service) and CloudFront, AWS’s Content Delivery...]]></summary>
-        <author>
-            <name>oghenekparobo Stephen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use TestContainers in .Net]]></title>
-        <id>67e2cbfdaa97659cd53cf39f</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-testcontainers-in-net/"/>
-        <updated>2025-03-25T15:30:05.000Z</updated>
-        <summary type="html"><![CDATA[At some point in your development lifecycle, you will need to test that your system can integrate with another system, whether it be another API, a database, or caching service, for example. This can be a laborious task of spinning up other servers h...]]></summary>
-        <author>
-            <name>Grant Riordan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Case Study: Combining Cutting-Edge CSS Features Into a “Course Navigation” Component]]></title>
-        <id>https://css-tricks.com/?p=385070</id>
-        <link href="https://css-tricks.com/case-study-combining-cutting-edge-css-features-into-a-course-navigation-component/"/>
-        <updated>2025-03-25T12:47:18.000Z</updated>
-        <summary type="html"><![CDATA[Having been tasked with creating a UI component for navigating the content of an online course, Daniel found himself neck-deep in a pool of new CSS features that he wound up using on the project.
-Case Study: Combining Cutting-Edge CSS Features Into a “Course Navigation” Component originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Daniel Schwarz</name>
         </author>
     </entry>
 </feed>
