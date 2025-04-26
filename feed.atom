@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-04-25T00:14:36.992Z</updated>
+    <updated>2025-04-26T00:14:10.547Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Create Models in Your Django Project]]></title>
+        <id>680be6e3dfe4e9c64b6b0997</id>
+        <link href="https://www.freecodecamp.org/news/how-to-create-models-in-your-django-project/"/>
+        <updated>2025-04-25T19:47:47.000Z</updated>
+        <summary type="html"><![CDATA[If you're building something with Django, there's one thing you can't skip: creating models. Models are the heart of any Django app. They define how your data is structured, how it's stored in the database, and how Django can interact with it. Now, i...]]></summary>
+        <author>
+            <name>Udemezue John</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Harden Your Node.js APIs – Security Best Practices]]></title>
+        <id>680bb2b3917896a550779bcb</id>
+        <link href="https://www.freecodecamp.org/news/how-to-harden-your-nodejs-apis-security-best-practices/"/>
+        <updated>2025-04-25T16:05:07.000Z</updated>
+        <summary type="html"><![CDATA[If you’ve built an API with Node.js, chances are you’ve thought about security – at least a little. Maybe you’ve heard about SQL injection, brute force attacks, or data leaks. But here’s the thing: it’s not just about big hacks. Even small gaps in yo...]]></summary>
+        <author>
+            <name>Manish Shivanandhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Change Your Django Secret Key (Without Breaking Your App)]]></title>
+        <id>680b9ed80564f7c150cbf95b</id>
+        <link href="https://www.freecodecamp.org/news/how-to-change-your-django-secret-key-without-breaking-your-app/"/>
+        <updated>2025-04-25T14:40:23.000Z</updated>
+        <summary type="html"><![CDATA[If you're working on a Django project, you've probably come across the SECRET_KEY in your settings file. It might seem like just another line of code, but it's one of the most important pieces of your project. SECRET_KEY keeps your app secure by sign...]]></summary>
+        <author>
+            <name>Udemezue John</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“Product Kondo”: A Guide To Evaluating Your Organizational Product Portfolio]]></title>
+        <id>https://smashingmagazine.com/2025/04/product-kondo-guide-evaluating-organizational-product-portfolio/</id>
+        <link href="https://smashingmagazine.com/2025/04/product-kondo-guide-evaluating-organizational-product-portfolio/"/>
+        <updated>2025-04-25T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[It starts with good intentions — a quick fix here, a shiny feature there — and suddenly, your product portfolio’s bursting at the seams. In this guide, Talke Hoppmann-Walton walks you through a “Product Kondo” exercise to declutter, realign, and spark some serious product joy for both your business and your customers.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Talke Hoppmann-Walton)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How UX and Marketing Are Saying the Same Things, Differently]]></title>
         <id>680aa2e68a164048d5799e47</id>
@@ -949,66 +989,6 @@ Automated Visual Regression Testing With Playwright originally published on CSS-
         <summary type="html"><![CDATA[HTML `` is the de facto element we turn to for embedding video content, but it comes with constraints. For example, it downloads the video file linearly over HTTP, which leads to performance hiccups, especially for large videos consumed on slower connections. But with adaptive bitrate streaming, we can split the video into multiple segments at different bitrates and resolutions.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Teng Wei Herr)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An Animated Introduction to Programming in C++]]></title>
-        <id>67e48bff04e3150220f40379</id>
-        <link href="https://www.freecodecamp.org/news/learn-programming-in-cpp/"/>
-        <updated>2025-03-26T23:21:35.000Z</updated>
-        <summary type="html"><![CDATA[In this tutorial, I’ll give you a comprehensive introduction to programming in C++. You don't need to have any previous programming experience in order to begin. Along the way, you will learn about the flow of control, variables, conditional statemen...]]></summary>
-        <author>
-            <name>Mark Mahoney</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Move Figma Components to Penpot]]></title>
-        <id>67e48bc10d600bc3806ccf54</id>
-        <link href="https://www.freecodecamp.org/news/how-to-recreate-figma-components-in-penpot/"/>
-        <updated>2025-03-26T23:20:33.000Z</updated>
-        <summary type="html"><![CDATA[Penpot is an open-source design tool for creating complete design systems. It is free, self-hostable, and allows multiple projects. Penpot supports reusable components and assets and allows files and libraries to be shared across projects. Penpot fil...]]></summary>
-        <author>
-            <name>Fatuma Abdullahi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Create Microservices with NestJS]]></title>
-        <id>67e434766d7e1561ea4bf0e6</id>
-        <link href="https://www.freecodecamp.org/news/create-microservices-with-nestjs/"/>
-        <updated>2025-03-26T17:08:06.000Z</updated>
-        <summary type="html"><![CDATA[Microservices architecture has become a popular approach for building scalable and maintainable applications. By breaking down large applications into smaller, independent services, developers can improve performance, maintainability, and scalability...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Host Local LLMs in a Docker Container on Azure]]></title>
-        <id>67e42705cb510eea06095d36</id>
-        <link href="https://www.freecodecamp.org/news/host-llms-locally-in-docker-on-azure/"/>
-        <updated>2025-03-26T16:10:45.000Z</updated>
-        <summary type="html"><![CDATA[Have you ever run into a situation where you want to test some local AI models, but your computer doesn't have enough specs to run them? Or maybe you just don't like bloating your computer with a ton of AI models? You're not alone in this. I’ve faced...]]></summary>
-        <author>
-            <name>Shrijal Acharya</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is SRE? A Beginner's Guide to Site Reliability Engineering]]></title>
-        <id>67e4265f7281ac30028843e1</id>
-        <link href="https://www.freecodecamp.org/news/what-is-site-reliability-engineering/"/>
-        <updated>2025-03-26T16:07:59.000Z</updated>
-        <summary type="html"><![CDATA[In today’s digital age, we expect our online experiences to be fast, reliable, and always available. But what happens behind the scenes to make our expectations a reality? The answer is Site Reliability Engineering (SRE). SRE is a discipline that ens...]]></summary>
-        <author>
-            <name>Omolade Ekpeni</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Extract  YouTube Analytics Data and Analyze in Python]]></title>
-        <id>67e425c92a171465d4fb4cce</id>
-        <link href="https://www.freecodecamp.org/news/extract-youtube-analytics-data-and-analyze-in-python/"/>
-        <updated>2025-03-26T16:05:29.000Z</updated>
-        <summary type="html"><![CDATA[If you’re a YouTube content creator, you’ll make data-driven decisions when posting content. This helps you target the right audience when creating your videos. YouTube Studio provides YouTube Analytics, where you can get comprehensive data about you...]]></summary>
-        <author>
-            <name>Adejumo Ridwan Suleiman</name>
         </author>
     </entry>
 </feed>
