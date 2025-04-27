@@ -342,36 +342,6 @@
             "type": "image/png"
           },
           "imageUrl": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0e46f3a5-f552-494c-a790-2ea6e0fefa97/apr-20-spring-awakens-preview-opt.png"
-        },
-        {
-          "id": "https://smashingmagazine.com/2025/03/how-to-argue-against-ai-first-research/",
-          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
-          "description": "Companies have been turning their attention to “synthetic,” AI-driven user testing. However, as convenient as it might seem, it’s dangerous, expensive, and usually diminishes user value. Let’s take a closer look at why exactly it is problematic and how we can argue against it to make a case for UX research with real users. Part of [Smart Interface Design Patterns](https://smart-interface-design-patterns.com) by yours truly.",
-          "link": "https://smashingmagazine.com/2025/03/how-to-argue-against-ai-first-research/",
-          "publishedOn": "2025-03-28T09:00:00.000Z",
-          "wordCount": 3824,
-          "title": "How To Argue Against AI-First Research",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/how-to-argue-against-ai-first-research/user-research-without-users-opt.png",
-            "length": "0",
-            "type": "image/png"
-          },
-          "imageUrl": "http://files.smashing.media/articles/how-to-argue-against-ai-first-research/user-research-without-users-opt.png"
-        },
-        {
-          "id": "https://smashingmagazine.com/2025/03/adaptive-video-streaming-dashjs-react/",
-          "author": "hello@smashingmagazine.com (Teng Wei Herr)",
-          "description": "HTML `` is the de facto element we turn to for embedding video content, but it comes with constraints. For example, it downloads the video file linearly over HTTP, which leads to performance hiccups, especially for large videos consumed on slower connections. But with adaptive bitrate streaming, we can split the video into multiple segments at different bitrates and resolutions.",
-          "link": "https://smashingmagazine.com/2025/03/adaptive-video-streaming-dashjs-react/",
-          "publishedOn": "2025-03-27T13:00:00.000Z",
-          "wordCount": 4475,
-          "title": "Adaptive Video Streaming With Dash.js In React",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/adaptive-video-streaming-dashjs-react/adaptive-video-streaming-dashjs-react.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/adaptive-video-streaming-dashjs-react/adaptive-video-streaming-dashjs-react.jpg"
         }
       ]
     },
@@ -1059,16 +1029,6 @@
           "wordCount": 3539,
           "title": "How to Send Emails in Python using Mailtrap SMTP and the Email API",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1743110284000/6fb2a037-ddca-4625-acfb-cffbd167ec55.png"
-        },
-        {
-          "id": "67e5643f0a2aebb29e2c2264",
-          "author": "Beau Carnes",
-          "description": "Excel is one of the most powerful tools for data analysis, organization, and automation. Whether you're a student, business professional, or data analyst, mastering Excel formulas and functions can significantly boost your productivity. However, with...",
-          "link": "https://www.freecodecamp.org/news/learn-the-top-excel-formulas-and-functions/",
-          "publishedOn": "2025-03-27T14:44:15.000Z",
-          "wordCount": 1220,
-          "title": "Learn the top Excel formulas and functions",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1743086651754/1f008643-281a-452a-bc45-c8247f23ddb9.png"
         }
       ]
     }

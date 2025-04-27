@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-04-26T00:14:10.547Z</updated>
+    <updated>2025-04-27T00:15:48.511Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
@@ -959,36 +959,6 @@ Automated Visual Regression Testing With Playwright originally published on CSS-
         <summary type="html"><![CDATA[In this tutorial, I’ll walk you through the process of sending emails in Python using two different methods:  The traditional SMTP setup with the built-in ‘smtplib’ module.  Mailtrap email API via Mailtrap’s official SDK.  If you’re unfamiliar wi...]]></summary>
         <author>
             <name>Alex Tray</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Argue Against AI-First Research]]></title>
-        <id>https://smashingmagazine.com/2025/03/how-to-argue-against-ai-first-research/</id>
-        <link href="https://smashingmagazine.com/2025/03/how-to-argue-against-ai-first-research/"/>
-        <updated>2025-03-28T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Companies have been turning their attention to “synthetic,” AI-driven user testing. However, as convenient as it might seem, it’s dangerous, expensive, and usually diminishes user value. Let’s take a closer look at why exactly it is problematic and how we can argue against it to make a case for UX research with real users. Part of [Smart Interface Design Patterns](https://smart-interface-design-patterns.com) by yours truly.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn the top Excel formulas and functions]]></title>
-        <id>67e5643f0a2aebb29e2c2264</id>
-        <link href="https://www.freecodecamp.org/news/learn-the-top-excel-formulas-and-functions/"/>
-        <updated>2025-03-27T14:44:15.000Z</updated>
-        <summary type="html"><![CDATA[Excel is one of the most powerful tools for data analysis, organization, and automation. Whether you're a student, business professional, or data analyst, mastering Excel formulas and functions can significantly boost your productivity. However, with...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Adaptive Video Streaming With Dash.js In React]]></title>
-        <id>https://smashingmagazine.com/2025/03/adaptive-video-streaming-dashjs-react/</id>
-        <link href="https://smashingmagazine.com/2025/03/adaptive-video-streaming-dashjs-react/"/>
-        <updated>2025-03-27T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[HTML `` is the de facto element we turn to for embedding video content, but it comes with constraints. For example, it downloads the video file linearly over HTTP, which leads to performance hiccups, especially for large videos consumed on slower connections. But with adaptive bitrate streaming, we can split the video into multiple segments at different bitrates and resolutions.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Teng Wei Herr)</name>
         </author>
     </entry>
 </feed>
