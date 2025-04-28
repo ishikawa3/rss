@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-04-27T00:15:48.511Z</updated>
+    <updated>2025-04-28T00:15:12.319Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
@@ -898,67 +898,6 @@ Worlds Collide: Keyframe Collision Detection Using Style Queries originally publ
         <summary type="html"><![CDATA[The beginning of the new month is the perfect opportunity to give your desktop a makeover. If you’re looking for some beautiful and unique wallpapers to cater for a bit of inspiration this April, well, this post has got you covered.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Cosima Mielke)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[From broke musician to working dev. How college drop-out Ryan Furrer taught himself to code [Podcast #166]]]></title>
-        <id>67e6f817cd414b8fc3de97c7</id>
-        <link href="https://www.freecodecamp.org/news/from-broke-musician-to-working-dev-ryan-furrer-podcast-166/"/>
-        <updated>2025-03-28T19:27:19.000Z</updated>
-        <summary type="html"><![CDATA[On this week's episode of the podcast, I interview Ryan Furrer. He's a Front End Engineer working on tools that help companies monitor their buildings for energy usage, water leaks, and other environmental factors. Ryan dropped out of college and wor...]]></summary>
-        <author>
-            <name>Quincy Larson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Your Code is Slow: Common  Performance Mistakes Beginners Make]]></title>
-        <id>67e6c26a4c687a76c3f3934d</id>
-        <link href="https://www.freecodecamp.org/news/why-your-code-is-slow-common-performance-mistakes-beginners-make/"/>
-        <updated>2025-03-28T15:38:18.000Z</updated>
-        <summary type="html"><![CDATA[Maybe you’ve experienced something like this before: you’ve written code that works, but when you hit “run,” it takes forever. You stare at the spinner, wondering if it’s faster to just solve the problem by hand. But you end up looking something like...]]></summary>
-        <author>
-            <name>Rahul</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Deploy a Restful Web Service on Microsoft Azure App Service]]></title>
-        <id>67e6c180423cd4f90a6350b5</id>
-        <link href="https://www.freecodecamp.org/news/deploy-a-restful-web-service-on-microsoft-azure-app-service/"/>
-        <updated>2025-03-28T15:34:24.000Z</updated>
-        <summary type="html"><![CDATA[Hey there! 👋, How’s it going? I hope you're doing well. Whether you're a seasoned coder, a curious learner, or just someone browsing through, welcome to my little corner of the internet. In this tutorial, we’ll dive into how you can deploy a web ser...]]></summary>
-        <author>
-            <name>Alaran Ayobami</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Set Up a Home VPN Using Tailscale on a Raspberry Pi]]></title>
-        <id>67e6c11d423cd4f90a6350ab</id>
-        <link href="https://www.freecodecamp.org/news/set-up-a-home-vpn-using-tailscale-on-a-raspberry-pi/"/>
-        <updated>2025-03-28T15:32:45.000Z</updated>
-        <summary type="html"><![CDATA[In this article, you’ll learn how to set up a VPN which you can host on a Raspberry Pi. I am a fan of Raspberry Pis because these small form factor computers are a favourite tool for tinkerers, like me. This VPN will allow you to access your home net...]]></summary>
-        <author>
-            <name>Daniel Anomfueme</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Automated Visual Regression Testing With Playwright]]></title>
-        <id>https://css-tricks.com/?p=385297</id>
-        <link href="https://css-tricks.com/automated-visual-regression-testing-with-playwright/"/>
-        <updated>2025-03-28T15:04:24.000Z</updated>
-        <summary type="html"><![CDATA[With visual regression testing, we can update a page, take screenshots before and after the fact, and compare the results for unintended changes. In this article, learn how to set up visual regression testing using Playwright.
-Automated Visual Regression Testing With Playwright originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Frederik Dohr</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Send Emails in Python using Mailtrap SMTP and the Email API]]></title>
-        <id>67e6ab43aa64aee164e7985e</id>
-        <link href="https://www.freecodecamp.org/news/send-emails-in-python-using-mailtrap-smtp-and-the-email-api/"/>
-        <updated>2025-03-28T13:59:31.000Z</updated>
-        <summary type="html"><![CDATA[In this tutorial, I’ll walk you through the process of sending emails in Python using two different methods:  The traditional SMTP setup with the built-in ‘smtplib’ module.  Mailtrap email API via Mailtrap’s official SDK.  If you’re unfamiliar wi...]]></summary>
-        <author>
-            <name>Alex Tray</name>
         </author>
     </entry>
 </feed>
