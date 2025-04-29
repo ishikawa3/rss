@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=385394",
+          "author": "Geoff Graham",
+          "description": "The fact that anchor positioning eschews HTML source order is so CSS-y because it's another separation of concerns between content and presentation. \nAnchor Positioning Just Don’t Care About Source Order originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/anchor-positioning-just-dont-care-about-source-order/",
+          "publishedOn": "2025-04-28T12:43:01.000Z",
+          "wordCount": 2256,
+          "title": "Anchor Positioning Just Don’t Care About Source Order",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2024/12/Yet-Another-Anchor-Positioning-Quirk.png"
+        },
+        {
           "id": "https://css-tricks.com/?p=385855",
           "author": "Blackle Mori",
           "description": "In this post, Blackle Mori shows you a few of the hacks found while trying to push the limits of Cohost’s HTML support. Use these if you dare, lest you too get labelled a CSS criminal.\nThe Lost CSS Tricks of Cohost.org originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -168,6 +178,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2025/04/ux-design-files-organization-template/",
+          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
+          "description": "Lost in a sea of UX files, docs, PDFs, and scattered decisions across Slack, Dropbox, Notion, and Figma? We talk a lot about organizing Figma, but what about a sensible folder structure for all UX assets? Let’s fix that. Kindly powered by [Smart Interface Design Patterns](https://smart-interface-design-patterns.com).",
+          "link": "https://smashingmagazine.com/2025/04/ux-design-files-organization-template/",
+          "publishedOn": "2025-04-28T13:00:00.000Z",
+          "wordCount": 3784,
+          "title": "UX And Design Files Organization Template",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/ux-design-files-organization-template/ux-design-files-organization-template.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/ux-design-files-organization-template/ux-design-files-organization-template.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2025/04/product-kondo-guide-evaluating-organizational-product-portfolio/",
           "author": "hello@smashingmagazine.com (Talke Hoppmann-Walton)",
@@ -340,6 +365,56 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "680fe1e69418a1165cb184a2",
+          "author": "Opaluwa Emidowojo",
+          "description": "A few months ago, I dove into DevOps, expecting it to be an expensive journey requiring costly tools and infrastructure. But I discovered you can build professional-grade pipelines using entirely free resources. If DevOps feels out of reach because y...",
+          "link": "https://www.freecodecamp.org/news/how-to-build-a-production-ready-devops-pipeline-with-free-tools/",
+          "publishedOn": "2025-04-28T20:15:34.000Z",
+          "wordCount": 6670,
+          "title": "How to Build a Production-Ready DevOps Pipeline with Free Tools",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1745864420670/f36eb4a7-a24e-4d6e-859f-db7249ae0da0.png"
+        },
+        {
+          "id": "680fd51ef631538076304a73",
+          "author": "Kunal Nalawade",
+          "description": "Hi, fellow developers! Building a website can feel overwhelming at first – especially when you're staring at a blank HTML file, wondering how it ever turns into a real website on the internet. If you're new to web development, you've probably asked y...",
+          "link": "https://www.freecodecamp.org/news/how-to-build-a-website-from-scratch-start-to-finish-walkthrough/",
+          "publishedOn": "2025-04-28T19:21:02.000Z",
+          "wordCount": 3179,
+          "title": "How to Build a Website from Scratch – Start to Finish Walkthrough",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1745260046049/62b5c730-dc06-49de-8bdd-2cd44facb9e9.png"
+        },
+        {
+          "id": "680fa40e9096ceb5eeedd90e",
+          "author": "Udemezue John",
+          "description": "If you've ever tried to connect your frontend app to your Django backend and suddenly hit an error that looks something like \"has been blocked by CORS policy\", you're not alone. It’s frustrating, especially when your code seems fine. So what’s going ...",
+          "link": "https://www.freecodecamp.org/news/how-to-enable-cors-in-django/",
+          "publishedOn": "2025-04-28T15:51:42.000Z",
+          "wordCount": 1981,
+          "title": "How to Enable CORS in Django",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1745855234567/f09d3338-c824-4cd8-a26f-93bb485f925a.png"
+        },
+        {
+          "id": "680fa285102a9fb019d4fa34",
+          "author": "Shamsuddoha Ranju",
+          "description": "Virtualization lets you run multiple operating systems on one machine. It’s perfect for testing apps, hosting servers, or learning DevOps. A hypervisor is the software that lets you run multiple virtual machines on a single physical machine, and the ...",
+          "link": "https://www.freecodecamp.org/news/turn-ubuntu-2404-into-a-kvm-hypervisor/",
+          "publishedOn": "2025-04-28T15:45:09.000Z",
+          "wordCount": 2817,
+          "title": "How to Turn Ubuntu 24.04 into a KVM Hypervisor – Quick Setup with Web Management",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1745591647377/613d9a44-cc2b-45b7-b1d1-5fc3154b9623.png"
+        },
+        {
+          "id": "680fa2440e43e5b002c3c7f4",
+          "author": "Nazneen Ahmad",
+          "description": "Mobile test automation uses tools and frameworks to test mobile applications automatically. It replicates user interactions to evaluate the app's functions and detect possible issues early on. This automated approach is helpful since it accelerates t...",
+          "link": "https://www.freecodecamp.org/news/how-to-automate-mobile-testing-strategies/",
+          "publishedOn": "2025-04-28T15:44:04.000Z",
+          "wordCount": 4286,
+          "title": "How to Automate Mobile Testing: Strategies for Reliable, Scalable Tests",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1745597617701/f0b2682a-f2ca-425b-bacc-b5a432145aa7.png"
+        },
         {
           "id": "680be6e3dfe4e9c64b6b0997",
           "author": "Udemezue John",
