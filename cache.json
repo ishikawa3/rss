@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=386325",
+          "author": "Geoff Graham",
+          "description": "Brad Frost is running this new little podcast called Open Up. Folks write in with questions about the “other” side of web design and front-end development — not so much about tools and best practices as it is about …\nOpen Up With Brad Frost, Episode 2 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/open-up-with-brad-frost-episode-2/",
+          "publishedOn": "2025-04-29T14:27:25.000Z",
+          "wordCount": 1871,
+          "title": "Open Up With Brad Frost, Episode 2",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/04/smashing-open-up-brad-frost-2.png"
+        },
+        {
           "id": "https://css-tricks.com/?p=385394",
           "author": "Geoff Graham",
           "description": "The fact that anchor positioning eschews HTML source order is so CSS-y because it's another separation of concerns between content and presentation. \nAnchor Positioning Just Don’t Care About Source Order originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -178,6 +188,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2025/04/anima-playground-figma-designs-live-apps/",
+          "author": "hello@smashingmagazine.com (Anima Team)",
+          "description": "As designers, it’s important to be able to transform visual ideas into concepts within minutes and into fully functional products within hours. Well, today we’re bringing you closer to AnimaApp, an app designed to make your life easier — whether you’re a designer, developer, product team member or entrepreneur.",
+          "link": "https://smashingmagazine.com/2025/04/anima-playground-figma-designs-live-apps/",
+          "publishedOn": "2025-04-29T10:00:00.000Z",
+          "wordCount": 3626,
+          "title": "How To Turn Your Figma Designs Into Live Apps With Anima Playground",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/anima-playground-figma-designs-live-apps/anima-playground-figma-designs-live-apps.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/anima-playground-figma-designs-live-apps/anima-playground-figma-designs-live-apps.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2025/04/ux-design-files-organization-template/",
           "author": "hello@smashingmagazine.com (Vitaly Friedman)",
@@ -365,6 +390,36 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "6810f59e8deee87383c1bc46",
+          "author": "Grant Riordan",
+          "description": "When designing web applications, you’ll often be asked the age old question “How accessible is your website” and “Does it offer the best user experience?”. These are both very valid questions, but they are often overlooked in favour of rich or fancy ...",
+          "link": "https://www.freecodecamp.org/news/how-to-create-accessible-and-user-friendly-forms-in-react/",
+          "publishedOn": "2025-04-29T15:51:58.000Z",
+          "wordCount": 4820,
+          "title": "How to Create Accessible and User-Friendly Forms in React",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1745789677789/c386af23-39d6-4421-9f26-f98d75a30d61.jpeg"
+        },
+        {
+          "id": "6810eebd43aa3d16a14700eb",
+          "author": "Beau Carnes",
+          "description": "Calculus is one of the cornerstones of higher mathematics and a powerful tool for understanding change, motion, and growth across countless disciplines. But for many students, Calculus can seem intimidating or abstract. What if you could learn it ste...",
+          "link": "https://www.freecodecamp.org/news/learn-college-calculus-and-implement-with-python/",
+          "publishedOn": "2025-04-29T15:22:37.000Z",
+          "wordCount": 1245,
+          "title": "Learn College Calculus and Implement with Python",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1745940136487/3bf6eb1d-4ffa-4d41-9ac7-89a9f3836915.png"
+        },
+        {
+          "id": "6810e5a2dc9845a2ab207f06",
+          "author": "Udemezue John",
+          "description": "When you're building a website or an app with Django, one of the most exciting moments is when your database models finally come to life. But to manage your data easily – adding, editing, or deleting entries – you need Django’s Admin panel. Now, here...",
+          "link": "https://www.freecodecamp.org/news/how-to-register-models-in-django-admin/",
+          "publishedOn": "2025-04-29T14:43:46.000Z",
+          "wordCount": 1769,
+          "title": "How to Register Models in Django Admin",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1745937579596/e8aed227-b7c3-4bf6-a448-a66782aeea42.png"
+        },
         {
           "id": "680fe1e69418a1165cb184a2",
           "author": "Opaluwa Emidowojo",
