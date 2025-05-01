@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=385783",
+          "author": "Andy Clarke",
+          "description": "Let’s run through a quick refresher. Image maps date all the way back to HTML 3.2, where, first, server-side maps and then client-side maps defined clickable regions over an image using map and area elements.\nRevisiting Image Maps originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/revisiting-image-maps/",
+          "publishedOn": "2025-04-30T12:12:45.000Z",
+          "wordCount": 3215,
+          "title": "Revisiting Image Maps",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/04/image-maps-thumb.jpg"
+        },
+        {
           "id": "https://css-tricks.com/?p=386325",
           "author": "Geoff Graham",
           "description": "Brad Frost is running this new little podcast called Open Up. Folks write in with questions about the “other” side of web design and front-end development — not so much about tools and best practices as it is about …\nOpen Up With Brad Frost, Episode 2 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -170,16 +180,6 @@
             "type": "video/mp4"
           },
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/03/type-checking-astro.jpg"
-        },
-        {
-          "id": "https://css-tricks.com/?p=385188",
-          "author": "Lee Meyer",
-          "description": "Interactive CSS animations with elements ricocheting off each other seem more plausible in 2025. While it’s unnecessary to implement Pong in CSS, the increasing flexibility and power of CSS reinforce Lee's suspicion that one day it will be a lifestyle choice whether to achieve any given effect with scripting or CSS.\nWorlds Collide: Keyframe Collision Detection Using Style Queries originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/worlds-collide-keyframe-collision-detection-using-style-queries/",
-          "publishedOn": "2025-03-31T14:59:47.000Z",
-          "wordCount": 3934,
-          "title": "Worlds Collide: Keyframe Collision Detection Using Style Queries",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/03/pong.jpg"
         }
       ]
     },
@@ -188,6 +188,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2025/04/desktop-wallpaper-calendars-may-2025/",
+          "author": "hello@smashingmagazine.com (Cosima Mielke)",
+          "description": "The new month is just around the corner, and that means: It’s time for some new desktop wallpapers! All of them are designed with love by the community for the community and can be downloaded for free. Enjoy!",
+          "link": "https://smashingmagazine.com/2025/04/desktop-wallpaper-calendars-may-2025/",
+          "publishedOn": "2025-04-30T10:00:00.000Z",
+          "wordCount": 5141,
+          "title": "Make Every Day Count (May 2025 Wallpapers Edition)",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-may-2023/may-22-hello-may-nocal-preview-opt.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "http://files.smashing.media/articles/desktop-wallpaper-calendars-may-2023/may-22-hello-may-nocal-preview-opt.png"
+        },
         {
           "id": "https://smashingmagazine.com/2025/04/anima-playground-figma-designs-live-apps/",
           "author": "hello@smashingmagazine.com (Anima Team)",
@@ -367,21 +382,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/building-drupal-storyblok-migration-tool-engineering-perspective/building-drupal-storyblok-migration-tool-engineering-perspective.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2025/03/desktop-wallpaper-calendars-april-2025/",
-          "author": "hello@smashingmagazine.com (Cosima Mielke)",
-          "description": "The beginning of the new month is the perfect opportunity to give your desktop a makeover. If you’re looking for some beautiful and unique wallpapers to cater for a bit of inspiration this April, well, this post has got you covered.",
-          "link": "https://smashingmagazine.com/2025/03/desktop-wallpaper-calendars-april-2025/",
-          "publishedOn": "2025-03-31T13:00:00.000Z",
-          "wordCount": 4555,
-          "title": "Blossoms, Flowers, And The Magic Of Spring (April 2025 Wallpapers Edition)",
-          "enclosure": {
-            "url": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0e46f3a5-f552-494c-a790-2ea6e0fefa97/apr-20-spring-awakens-preview-opt.png",
-            "length": "0",
-            "type": "image/png"
-          },
-          "imageUrl": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0e46f3a5-f552-494c-a790-2ea6e0fefa97/apr-20-spring-awakens-preview-opt.png"
         }
       ]
     },
@@ -390,6 +390,46 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "68124752fa6fa6a9a91d9994",
+          "author": "Omer Rosenbaum",
+          "description": "The Internet Protocol version 4 (IPv4) is one of the core protocols of standards-based internetworking methods in the Internet and other packet-switched networks. IPv4 is still the most widely deployed Internet protocol. Google’s IPv6 Statistics show...",
+          "link": "https://www.freecodecamp.org/news/how-ipv4-works-a-handbook-for-developers/",
+          "publishedOn": "2025-04-30T15:52:50.000Z",
+          "wordCount": 7538,
+          "title": "How IPv4 Works – A Handbook for Developers",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1746028336196/79d97781-a9b8-4be3-86a1-47322e9640ff.png"
+        },
+        {
+          "id": "681242328ca367c7e5d58873",
+          "author": "Udemezue John",
+          "description": "Starting a SaaS (Software as a Service) business is exciting. You’ve put in the long hours building something you believe people will love. But now comes the big question: How do you get your first customers? Getting those first few users can feel li...",
+          "link": "https://www.freecodecamp.org/news/how-to-get-your-first-saas-customers/",
+          "publishedOn": "2025-04-30T15:30:58.000Z",
+          "wordCount": 1964,
+          "title": "How to Get Your First SaaS Customers",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1746027034713/42b1e6bd-3f5f-4e41-b3d0-ead8168661a6.png"
+        },
+        {
+          "id": "68123f859249b83d2215937d",
+          "author": "Udemezue John",
+          "description": "When I’m working with Django, one of the first things I often need to do is work with users – like getting the logged-in user, creating a new one, or extending the default user model to add more information. Now, Django has a built-in User model, but...",
+          "link": "https://www.freecodecamp.org/news/how-to-get-user-model-in-django/",
+          "publishedOn": "2025-04-30T15:19:33.000Z",
+          "wordCount": 1934,
+          "title": "How to Get User Model in Django – A Simple Guide With Examples",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1746026362647/7b47e9e7-6baf-409a-8654-0ad1eb528e31.png"
+        },
+        {
+          "id": "68123ef3b70ffa1e4ce467ae",
+          "author": "Nazneen Ahmad",
+          "description": "Oracle Enterprise Resource Planning helps businesses manage finance and supply chains. It also supports human resources and brings different functions together. Many growing businesses rely on it to handle complex tasks, as system failures or errors ...",
+          "link": "https://www.freecodecamp.org/news/oracle-erp-test-automation-guide/",
+          "publishedOn": "2025-04-30T15:17:07.000Z",
+          "wordCount": 7094,
+          "title": "Oracle ERP Test Automation Guide – Examples and Best Practices",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1745527550725/45d7f400-d345-4448-ab84-d3327dc425a6.png"
+        },
         {
           "id": "6810f59e8deee87383c1bc46",
           "author": "Grant Riordan",
@@ -1089,16 +1129,6 @@
           "wordCount": 1245,
           "title": "Understand and Code DeepSeek V3",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1743528561674/7a60918e-265c-4201-a8a6-eec530f3149a.png"
-        },
-        {
-          "id": "67eb1b3398e2cf5154940366",
-          "author": "Andrew Baisden",
-          "description": "AI is quickly changing the way we work, and more and more companies are using it to help them get and retain clients. Teams are also using AI to create innovative and responsive websites capable of engaging visitors while also providing helpful infor...",
-          "link": "https://www.freecodecamp.org/news/build-a-team-of-ai-agents-for-your-website-for-free/",
-          "publishedOn": "2025-03-31T22:46:11.000Z",
-          "wordCount": 14889,
-          "title": "How to Build a Team of AI Agents for Your Website for Free Using Agno and Groq",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1742397437476/0ffa13b0-c668-40d7-864f-596f523f6101.png"
         }
       ]
     }
