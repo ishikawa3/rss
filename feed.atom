@@ -2,10 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-01T00:16:26.159Z</updated>
+    <updated>2025-05-02T00:14:34.017Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Django Crash Course for Beginners]]></title>
+        <id>6813a8237eaea66216eb6819</id>
+        <link href="https://www.freecodecamp.org/news/django-crash-course-for-beginners/"/>
+        <updated>2025-05-01T16:58:11.000Z</updated>
+        <summary type="html"><![CDATA[Django is a high-level web framework built with Python that encourages rapid development and clean, pragmatic design. Django handles much of the heavy lifting involved in web development, so you can focus more on writing your app and less on reinvent...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Incremental Static Regeneration (ISR) Works in Next.js]]></title>
+        <id>68139db5555c3ab781a6e0a1</id>
+        <link href="https://www.freecodecamp.org/news/how-incremental-static-regeneration-isr-works-in-nextjs/"/>
+        <updated>2025-05-01T16:13:41.000Z</updated>
+        <summary type="html"><![CDATA[When you build a website, you often have two main choices for how pages are created: statically or dynamically. Static pages are created once when you build your project. They’re fast because the server doesn’t have to do any extra work when someone ...]]></summary>
+        <author>
+            <name>Joan Ayebola</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Brief Introduction to React]]></title>
+        <id>681397cd1168f254478cd514</id>
+        <link href="https://www.freecodecamp.org/news/a-brief-introduction-to-react/"/>
+        <updated>2025-05-01T15:48:29.000Z</updated>
+        <summary type="html"><![CDATA[This tutorial introduces the basics of using React components in your web apps. React is a JavaScript library used to build user interfaces, especially for single-page applications where parts of the page need to update without a full page reload. It...]]></summary>
+        <author>
+            <name>Mark Mahoney</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[State of Devs: A Survey for Every Developer]]></title>
+        <id>https://css-tricks.com/?p=386334</id>
+        <link href="https://css-tricks.com/state-of-devs-a-survey-for-every-developer/"/>
+        <updated>2025-05-01T12:34:58.000Z</updated>
+        <summary type="html"><![CDATA[The State of Devs survey is now open to participation, and unlike previous surveys it covers everything except code: career, workplace, but also health, hobbies, and more. 
+State of Devs: A Survey for Every Developer originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Sacha Greif</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How IPv4 Works – A Handbook for Developers]]></title>
         <id>68124752fa6fa6a9a91d9994</id>
@@ -75,6 +116,16 @@ Revisiting Image Maps originally published on CSS-Tricks, which is part of the D
         <summary type="html"><![CDATA[When designing web applications, you’ll often be asked the age old question “How accessible is your website” and “Does it offer the best user experience?”. These are both very valid questions, but they are often overlooked in favour of rich or fancy ...]]></summary>
         <author>
             <name>Grant Riordan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn Calculus by Coding in Python]]></title>
+        <id>6810eebd43aa3d16a14700eb</id>
+        <link href="https://www.freecodecamp.org/news/learn-calculus-by-coding-in-python/"/>
+        <updated>2025-04-29T15:22:37.000Z</updated>
+        <summary type="html"><![CDATA[Calculus is one of the cornerstones of higher mathematics and a powerful tool for understanding change, motion, and growth across countless disciplines. But for many students, Calculus can seem intimidating or abstract. What if you could learn it ste...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
         </author>
     </entry>
     <entry>
@@ -1019,37 +1070,6 @@ A New “Web” Readiness Report originally published on CSS-Tricks, which is pa
 SMIL on? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building A Drupal To Storyblok Migration Tool: An Engineering Perspective]]></title>
-        <id>https://smashingmagazine.com/2025/04/building-drupal-storyblok-migration-tool-engineering-perspective/</id>
-        <link href="https://smashingmagazine.com/2025/04/building-drupal-storyblok-migration-tool-engineering-perspective/"/>
-        <updated>2025-04-02T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this article, Edoardo Dusi shares the engineering and architectural choices made by the team at Storyblok and how real-world migration challenges were addressed using modern PHP practices.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Edoardo Dusi)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Understand and Code DeepSeek V3]]></title>
-        <id>67ec22879f76b0cdc2046ddb</id>
-        <link href="https://www.freecodecamp.org/news/understand-and-code-deepseek-v3/"/>
-        <updated>2025-04-01T17:29:43.000Z</updated>
-        <summary type="html"><![CDATA[DeepSeek V3 is a cutting-edge large language model. It leverages sophisticated techniques like a unique Multi-Head Latent Attention mechanism and a Mixture of Experts architecture for enhanced efficiency and capability. Understanding this model provi...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crafting Strong DX With Astro Components and TypeScript]]></title>
-        <id>https://css-tricks.com/?p=385086</id>
-        <link href="https://css-tricks.com/crafting-strong-dx-with-astro-components-and-typescript/"/>
-        <updated>2025-04-01T13:50:58.000Z</updated>
-        <summary type="html"><![CDATA[One thing we can do to help teams code consistently is provide type-checking so that all of the configurable options for a specific component are available while coding. Bryan demonstrates how he does this with TypeScript when working with Astro components.
-Crafting Strong DX With Astro Components and TypeScript originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Bryan Robinson</name>
         </author>
     </entry>
 </feed>
