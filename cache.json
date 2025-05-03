@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=386291",
+          "author": "Geoff Graham",
+          "description": "The CSS shape() function recently gained support in both Chromium and WebKit browsers. It's a way of drawing complex shapes when clipping elements with the clip-path property.\nCSS shape() Commands originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/css-shape-commands/",
+          "publishedOn": "2025-05-02T12:36:10.000Z",
+          "wordCount": 2577,
+          "title": "CSS shape() Commands",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2018/09/css-shapes.jpg"
+        },
+        {
           "id": "https://css-tricks.com/?p=386334",
           "author": "Sacha Greif",
           "description": "The State of Devs survey is now open to participation, and unlike previous surveys it covers everything except code: career, workplace, but also health, hobbies, and more. \nState of Devs: A Survey for Every Developer originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -165,16 +175,6 @@
             "type": "video/mp4"
           },
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/03/A-New-HTML-5-Readiness.png"
-        },
-        {
-          "id": "https://css-tricks.com/?p=385540",
-          "author": "Geoff Graham",
-          "description": "Well, it turns out that SVG's built-in animation features were never deprecated as planned. Sure, CSS and JavaScript are more than capable of carrying the load, but it's good to know that SMIL is not dead in the water as previously thought, and is actually well-supported.\nSMIL on? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/smil-on/",
-          "publishedOn": "2025-04-02T12:37:19.000Z",
-          "wordCount": 2135,
-          "title": "SMIL on?",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/12/cube-pattern-svg.png"
         }
       ]
     },
@@ -183,6 +183,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2025/05/wcag-3-proposed-scoring-model-shift-accessibility-evaluation/",
+          "author": "hello@smashingmagazine.com (Mikhail Prosmitskiy)",
+          "description": "WCAG is evolving. Since 1999, the Web Content Accessibility Guidelines have defined accessibility in binary terms: either a success criterion is met or not. But real user experience is rarely that simple. WCAG 3.0 rethinks the model — prioritizing usability over compliance and shifting the focus toward the quality of access rather than the mere presence of features. Could this be the start of a new era in accessibility?",
+          "link": "https://smashingmagazine.com/2025/05/wcag-3-proposed-scoring-model-shift-accessibility-evaluation/",
+          "publishedOn": "2025-05-02T11:00:00.000Z",
+          "wordCount": 4618,
+          "title": "WCAG 3.0’s Proposed Scoring Model: A Shift In Accessibility Evaluation",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/wcag-3-proposed-scoring-model-shift-accessibility-evaluation/wcag-3-proposed-scoring-model-shift-accessibility-evaluation.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/wcag-3-proposed-scoring-model-shift-accessibility-evaluation/wcag-3-proposed-scoring-model-shift-accessibility-evaluation.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2025/04/desktop-wallpaper-calendars-may-2025/",
           "author": "hello@smashingmagazine.com (Cosima Mielke)",
@@ -370,6 +385,46 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "68151f0be5850fcb8543375a",
+          "author": "Okoro Emmanuel Nzube",
+          "description": "Imagine purchasing a standing fan straight out of the box, all parts dismantled, and you have no manual or guide to put them together. Did you imagine that just now? Cool. Here is another scenario: imagine purchasing an LG product, such as a smart TV...",
+          "link": "https://www.freecodecamp.org/news/how-to-write-good-api-docs/",
+          "publishedOn": "2025-05-02T19:37:47.000Z",
+          "wordCount": 3968,
+          "title": "API Documentation: The Importance of Clear and Concise API Documentation",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1746108055356/29f327c1-60a5-4d0c-baef-431c0e61c1b4.png"
+        },
+        {
+          "id": "6815023dec2e34790eeb71a8",
+          "author": "Divya Valsala Saratchandran",
+          "description": "SonarQube is a powerful open-source tool that helps you maintain code quality and security by analyzing your codebase for bugs and vulnerabilities. And it can play a major role when integrated into your CI/CD pipeline. In this tutorial, we will cover...",
+          "link": "https://www.freecodecamp.org/news/how-to-improve-your-code-quality-with-sonarqube/",
+          "publishedOn": "2025-05-02T17:34:53.000Z",
+          "wordCount": 1619,
+          "title": "How to improve your code quality with SonarQube",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1746207275407/7b0da6c9-9bd7-40ca-853e-b1f7957acf3b.png"
+        },
+        {
+          "id": "68150214fd424d0874293171",
+          "author": "Prince Onukwili",
+          "description": "You’ve probably heard the word Kubernetes floating around, or it’s cooler nickname k8s (pronounced “kates“). Maybe in a job post, a tech podcast, or from that one DevOps friend who always brings it up like it’s the secret sauce to everything 😅. It s...",
+          "link": "https://www.freecodecamp.org/news/learn-kubernetes-handbook-devs-startups-businesses/",
+          "publishedOn": "2025-05-02T17:34:12.000Z",
+          "wordCount": 7908,
+          "title": "Learn Kubernetes – Full Handbook for Developers, Startups, and Businesses",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1746205417767/d9d6b0d3-f2a5-44eb-83b5-d1a614bead9f.png"
+        },
+        {
+          "id": "6814f2ab33857abe499038b0",
+          "author": "Quincy Larson",
+          "description": "On this week's episode of the podcast, I interview Shashi Lo. He's a software engineer at Microsoft. He grew up the child of refugees. He wanted to start earning money and build his family so he abandoned his art school degree and taught himself how ...",
+          "link": "https://www.freecodecamp.org/news/from-art-school-drop-out-to-microsoft-engineer-with-shashi-lo-podcast-170/",
+          "publishedOn": "2025-05-02T16:28:27.000Z",
+          "wordCount": 1071,
+          "title": "From Art School Drop-out to Microsoft Engineer with Shashi Lo [Podcast #170]",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1746216807651/c24ce5d2-07cd-4b30-9681-a36e50b3a834.png"
+        },
         {
           "id": "6813a8237eaea66216eb6819",
           "author": "Beau Carnes",
@@ -1089,56 +1144,6 @@
           "wordCount": 4330,
           "title": "How to Use Wireshark Filters to Analyze Your Network Traffic",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1743684532493/cc26aa99-fc7a-4b47-ab16-60dac77561fd.png"
-        },
-        {
-          "id": "67edb47680c0ce2ff2faebb9",
-          "author": "Hamdaan Ali",
-          "description": "The RSA algorithm was introduced in 1978 in the seminal paper, \"A Method for Obtaining Digital Signatures and Public-Key Cryptosystems\". Over the decades, as RSA became integral to secure communications, various vulnerabilities and attacks have emerg...",
-          "link": "https://www.freecodecamp.org/news/the-cryptography-handbook-rsa-algorithm/",
-          "publishedOn": "2025-04-02T22:04:38.000Z",
-          "wordCount": 11316,
-          "title": "The Cryptography Handbook: Exploring RSA PKCSv1.5, OAEP, and PSS",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1743630655223/f7e0c094-2103-42cd-97bd-be79d14fff67.png"
-        },
-        {
-          "id": "67ed67823b8c37d192779b99",
-          "author": "Oluwatobi",
-          "description": "Cloud platforms and infrastructure allow you to easily deploy and host backend services and applications. In this article, you’ll learn how to run a Node.js/Express application away from the confines of your local personal computer to make it accessi...",
-          "link": "https://www.freecodecamp.org/news/how-to-deploy-a-nodejs-application-on-aws/",
-          "publishedOn": "2025-04-02T16:36:18.000Z",
-          "wordCount": 2600,
-          "title": "How to Deploy a Node.js Application on AWS",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1743611764466/96a89440-1c72-4ac0-861d-0ea29aeb90bf.png"
-        },
-        {
-          "id": "67ed4efef1d155fc22688c46",
-          "author": "Beau Carnes",
-          "description": "Are you ready to transform your web development skills by building a complex, real-world application? We just posted a course on the freeCodeCamp.org YouTube channel that will teach you how to use Laravel and MongoDB to create a full stack Instagram ...",
-          "link": "https://www.freecodecamp.org/news/code-a-full-stack-instagram-clone-with-laravel-and-mongodb/",
-          "publishedOn": "2025-04-02T14:51:42.000Z",
-          "wordCount": 1613,
-          "title": "Code a full stack Instagram Clone with Laravel and MongoDB",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1743605110164/9ae2ed21-4956-4b0e-b7c4-4ccc14e9df9f.png"
-        },
-        {
-          "id": "67ed4e54f03ad9ca955f36d0",
-          "author": "Abdullah Salaudeen",
-          "description": "Before the days of the Fetch API and Axios, developers used callback-based HTTP requests. They manually managed requests with asynchronous operations and, in the process, wrote deeply nested code. This was known as callback hell. Then, in 2015, a pro...",
-          "link": "https://www.freecodecamp.org/news/fetch-api-vs-axios-vs-alova/",
-          "publishedOn": "2025-04-02T14:48:52.000Z",
-          "wordCount": 5398,
-          "title": "Fetch API vs. Axios vs. Alova: Which HTTP Client Should You Use in 2025?",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1743605319873/9f7583a0-1b01-4714-9fe6-f39bed3954e8.png"
-        },
-        {
-          "id": "67ed3edd597c0ff6bdcf4c45",
-          "author": "Tiago Capelo Monteiro",
-          "description": "It is better to be a samurai in a garden than an agricultural worker in a war - Miyamoto Musashi In this article, I’ll share my story. When I was younger, I thought I was destined to be a failure in life. To be isolated from everyone. But years late...",
-          "link": "https://www.freecodecamp.org/news/how-online-learning-platforms-saved-my-life/",
-          "publishedOn": "2025-04-02T13:42:53.000Z",
-          "wordCount": 4460,
-          "title": "From Failure to International Success: How Online Learning Platforms Saved My Life",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1743601355025/2f8c32a4-c451-4860-b4e2-f02b690fb928.png"
         }
       ]
     }
