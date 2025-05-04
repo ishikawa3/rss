@@ -362,21 +362,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/using-manim-making-ui-animations/using-manim-making-ui-animations.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2025/04/how-build-business-case-promote-accessibility-b2b-products/",
-          "author": "hello@smashingmagazine.com (Gloria Diaz Alonso)",
-          "description": "When passion for accessibility meets business indifference, what bridges the gap? Gloria Diaz Alonso shares how she turned frustration into strategy — by learning to speak the language of business.",
-          "link": "https://smashingmagazine.com/2025/04/how-build-business-case-promote-accessibility-b2b-products/",
-          "publishedOn": "2025-04-04T12:00:00.000Z",
-          "wordCount": 8313,
-          "title": "How To Build A Business Case To Promote Accessibility In Your B2B Products",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/how-build-business-case-promote-accessibility-b2b-products/how-build-business-case-promote-accessibility-b2b-products.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/how-build-business-case-promote-accessibility-b2b-products/how-build-business-case-promote-accessibility-b2b-products.jpg"
         }
       ]
     },
@@ -1134,16 +1119,6 @@
           "wordCount": 2068,
           "title": "Understanding Vulnerabilities and Exploits for Ethical Hackers",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1743631883009/63a15afa-c901-4445-b646-cd9a4c44e964.png"
-        },
-        {
-          "id": "67ee83d004f007db33e0f920",
-          "author": "Hang Hu",
-          "description": "Wireshark is an open-source tool widely regarded as the gold standard for network packet analysis. It allows you to capture live network traffic or inspect pre-recorded capture files, breaking down the data into individual packets for detailed examin...",
-          "link": "https://www.freecodecamp.org/news/use-wireshark-filters-to-analyze-network-traffic/",
-          "publishedOn": "2025-04-03T12:49:20.000Z",
-          "wordCount": 4330,
-          "title": "How to Use Wireshark Filters to Analyze Your Network Traffic",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1743684532493/cc26aa99-fc7a-4b47-ab16-60dac77561fd.png"
         }
       ]
     }

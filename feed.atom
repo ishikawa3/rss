@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-03T00:14:08.968Z</updated>
+    <updated>2025-05-04T00:16:17.119Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
@@ -1050,26 +1050,6 @@ Feeling Like I Have No Release: A Journey Towards Sane Deployments originally pu
 A New “Web” Readiness Report originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Juan Diego Rodríguez</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Build A Business Case To Promote Accessibility In Your B2B Products]]></title>
-        <id>https://smashingmagazine.com/2025/04/how-build-business-case-promote-accessibility-b2b-products/</id>
-        <link href="https://smashingmagazine.com/2025/04/how-build-business-case-promote-accessibility-b2b-products/"/>
-        <updated>2025-04-04T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[When passion for accessibility meets business indifference, what bridges the gap? Gloria Diaz Alonso shares how she turned frustration into strategy — by learning to speak the language of business.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Gloria Diaz Alonso)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use Wireshark Filters to Analyze Your Network Traffic]]></title>
-        <id>67ee83d004f007db33e0f920</id>
-        <link href="https://www.freecodecamp.org/news/use-wireshark-filters-to-analyze-network-traffic/"/>
-        <updated>2025-04-03T12:49:20.000Z</updated>
-        <summary type="html"><![CDATA[Wireshark is an open-source tool widely regarded as the gold standard for network packet analysis. It allows you to capture live network traffic or inspect pre-recorded capture files, breaking down the data into individual packets for detailed examin...]]></summary>
-        <author>
-            <name>Hang Hu</name>
         </author>
     </entry>
 </feed>
