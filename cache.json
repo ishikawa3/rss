@@ -160,21 +160,6 @@
           "wordCount": 4780,
           "title": "Feeling Like I Have No Release: A Journey Towards Sane Deployments",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/03/database-server.jpg"
-        },
-        {
-          "id": "https://css-tricks.com/?p=385268",
-          "author": "Juan Diego Rodríguez",
-          "description": "HTML 5 Readiness was a site that showed through a rainbow of colors the browser support for several web features. What about a new version?\nA New “Web” Readiness Report originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/a-new-web-readiness-report/",
-          "publishedOn": "2025-04-04T13:05:22.000Z",
-          "wordCount": 2990,
-          "title": "A New “Web” Readiness Report",
-          "enclosure": {
-            "url": "https://css-tricks.com/wp-content/uploads/2025/03/juandivideo2.mp4",
-            "length": "3719731",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/03/A-New-HTML-5-Readiness.png"
         }
       ]
     },
@@ -1099,26 +1084,6 @@
           "wordCount": 2200,
           "title": "How to Add Live Chat to Your Applications with Rocket.chat",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1744032217209/1ad8ea61-a8bd-4bea-9bec-152e52db7377.png"
-        },
-        {
-          "id": "67f041c2f87b5fbfcc550e46",
-          "author": "Quincy Larson",
-          "description": "On this week's episode of the podcast, I interview Jason Lengstorf. He learned to code out of necessity building websites for local emo bands. He dropped out of college but eventually worked as an engineer at IBM and has gone on to roles at many othe...",
-          "link": "https://www.freecodecamp.org/news/from-drop-out-to-software-architect-with-jason-lengstorf-podcast-167/",
-          "publishedOn": "2025-04-04T20:32:02.000Z",
-          "wordCount": 1106,
-          "title": "From drop-out to software architect with Jason Lengstorf [Podcast #167]",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1743796461357/f3d19cd7-e6f5-4d7c-8bfc-eb974bc8da68.png"
-        },
-        {
-          "id": "67eff5fe4b8a95f016459cda",
-          "author": "Manish Shivanandhan",
-          "description": "Understanding vulnerabilities and exploits is crucial for anyone interested in cybersecurity. Let's learn what they are. What Are Vulnerabilities? A vulnerability is a flaw in software or hardware that attackers can exploit. These flaws can range fro...",
-          "link": "https://www.freecodecamp.org/news/vulnerabilities-vs-exploits-for-ethical-hackers/",
-          "publishedOn": "2025-04-04T15:08:46.000Z",
-          "wordCount": 2068,
-          "title": "Understanding Vulnerabilities and Exploits for Ethical Hackers",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1743631883009/63a15afa-c901-4445-b646-cd9a4c44e964.png"
         }
       ]
     }

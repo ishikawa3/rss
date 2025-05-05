@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-04T00:16:17.119Z</updated>
+    <updated>2025-05-05T00:15:41.168Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
@@ -1019,37 +1019,6 @@ Feeling Like I Have No Release: A Journey Towards Sane Deployments originally pu
         <summary type="html"><![CDATA[The fastest way to gather valuable information about your site’s users is still by talking to them. And what better way to do this than by adding a chat system to your app? For my case, I just wanted to add a chat system to my portfolio website so I]]></summary>
         <author>
             <name>Spruce Emmanuel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[From drop-out to software architect with Jason Lengstorf [Podcast #167]]]></title>
-        <id>67f041c2f87b5fbfcc550e46</id>
-        <link href="https://www.freecodecamp.org/news/from-drop-out-to-software-architect-with-jason-lengstorf-podcast-167/"/>
-        <updated>2025-04-04T20:32:02.000Z</updated>
-        <summary type="html"><![CDATA[On this week's episode of the podcast, I interview Jason Lengstorf. He learned to code out of necessity building websites for local emo bands. He dropped out of college but eventually worked as an engineer at IBM and has gone on to roles at many othe...]]></summary>
-        <author>
-            <name>Quincy Larson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Understanding Vulnerabilities and Exploits for Ethical Hackers]]></title>
-        <id>67eff5fe4b8a95f016459cda</id>
-        <link href="https://www.freecodecamp.org/news/vulnerabilities-vs-exploits-for-ethical-hackers/"/>
-        <updated>2025-04-04T15:08:46.000Z</updated>
-        <summary type="html"><![CDATA[Understanding vulnerabilities and exploits is crucial for anyone interested in cybersecurity. Let's learn what they are. What Are Vulnerabilities? A vulnerability is a flaw in software or hardware that attackers can exploit. These flaws can range fro...]]></summary>
-        <author>
-            <name>Manish Shivanandhan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A New “Web” Readiness Report]]></title>
-        <id>https://css-tricks.com/?p=385268</id>
-        <link href="https://css-tricks.com/a-new-web-readiness-report/"/>
-        <updated>2025-04-04T13:05:22.000Z</updated>
-        <summary type="html"><![CDATA[HTML 5 Readiness was a site that showed through a rainbow of colors the browser support for several web features. What about a new version?
-A New “Web” Readiness Report originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Juan Diego Rodríguez</name>
         </author>
     </entry>
 </feed>
