@@ -2,10 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-05T00:15:41.168Z</updated>
+    <updated>2025-05-06T00:14:54.576Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Improve you C++ skills by coding an audio plugin]]></title>
+        <id>68190b8f1abafc5ea9d7efbf</id>
+        <link href="https://www.freecodecamp.org/news/improve-you-c-skills-by-coding-an-audio-plugin/"/>
+        <updated>2025-05-05T19:03:43.000Z</updated>
+        <summary type="html"><![CDATA[Do you want to build a practical project to help improve your C++ skills? Have you ever wanted to create your own unique audio effects? Then diving into C++ audio plugin development with the JUCE framework might be your next great step We just publis...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Dynamic Wardrobe App with React Drag and Drop]]></title>
+        <id>6818d1793c6be4514080aea9</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-a-dynamic-wardrobe-app-with-react-drag-and-drop/"/>
+        <updated>2025-05-05T14:55:53.000Z</updated>
+        <summary type="html"><![CDATA[Have you ever found yourself stuck deciding what color outfit to wear? Maybe you’re mixing and matching different tops and bottoms, unsure if the colors go together. It’s a common dilemma – so common that many of us turn to friends or family for a se...]]></summary>
+        <author>
+            <name>Timothy Olanrewaju</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Modern Scroll Shadows Using Scroll-Driven Animations]]></title>
+        <id>https://css-tricks.com/?p=385733</id>
+        <link href="https://css-tricks.com/modern-scroll-shadows-using-scroll-driven-animations/"/>
+        <updated>2025-05-05T13:01:43.000Z</updated>
+        <summary type="html"><![CDATA[Using scroll shadows, especially for mobile devices, is a subtle bit of UX that Chris has covered before. Geoff covered a newer approach that uses the animation-timeline property. Here’s yet another way.
+Modern Scroll Shadows Using Scroll-Driven Animations originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Kevin Hamer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Launch Big Complex Projects]]></title>
+        <id>https://smashingmagazine.com/2025/05/how-launch-big-complex-projects/</id>
+        <link href="https://smashingmagazine.com/2025/05/how-launch-big-complex-projects/"/>
+        <updated>2025-05-05T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[When was the last time your project wrapped up smoothly — no delays, no surprises, no last-minute compromises? In reality, most UX projects drift as timelines slip, budgets stretch, and features morph. How do we get better at navigating the chaos? An upcoming part of How To Measure UX and Design Impact by yours truly.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[API Documentation: The Importance of Clear and Concise API Documentation]]></title>
         <id>68151f0be5850fcb8543375a</id>
