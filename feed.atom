@@ -2,10 +2,71 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-06T00:14:54.576Z</updated>
+    <updated>2025-05-07T00:14:45.827Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Secure Mobile APIs in Flutter]]></title>
+        <id>681a707658599a397b11b418</id>
+        <link href="https://www.freecodecamp.org/news/how-to-secure-mobile-apis-in-flutter/"/>
+        <updated>2025-05-06T20:26:30.000Z</updated>
+        <summary type="html"><![CDATA[As mobile applications continue to evolve in functionality and scope, securing the APIs that power these apps has become more critical than ever. In the context of Flutter, a framework that enables cross-platform development, understanding how to sec...]]></summary>
+        <author>
+            <name>Atuoha Anthony</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Create Documentation with docs.page – A Beginner's Tutorial]]></title>
+        <id>681a558b9791d0e469b84519</id>
+        <link href="https://www.freecodecamp.org/news/how-to-create-documentation-with-docspage/"/>
+        <updated>2025-05-06T18:31:39.000Z</updated>
+        <summary type="html"><![CDATA[One of the most tedious tasks for every startup, company, and open-source project is often building and managing documentation – especially for medium to large-scale documentation websites. docs.page is an open-source documentation tool that helps yo...]]></summary>
+        <author>
+            <name>Rajdeep Singh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build Your Own Local AI: Create Free RAG and AI Agents with Qwen 3 and Ollama]]></title>
+        <id>681a35d4d5da806f5e9467b1</id>
+        <link href="https://www.freecodecamp.org/news/build-a-local-ai/"/>
+        <updated>2025-05-06T16:16:20.000Z</updated>
+        <summary type="html"><![CDATA[The landscape of Artificial Intelligence is rapidly evolving, and one of the most exciting trends is the ability to run powerful Large Language Models (LLMs) directly on your local machine. This shift away from reliance on cloud-based APIs offers sig...]]></summary>
+        <author>
+            <name>Chaitanya Rahalkar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Create Serverless AI Agents with Langbase Docs MCP Server in Minutes]]></title>
+        <id>681a2ce0aebfc718f4e6da03</id>
+        <link href="https://www.freecodecamp.org/news/how-to-create-serverless-ai-agents-with-langbase-docs-mcp-server-in-minutes/"/>
+        <updated>2025-05-06T15:38:08.000Z</updated>
+        <summary type="html"><![CDATA[Building serverless AI agents has recently become a lot simpler. With the Langbase Docs MCP server, you can instantly connect AI models to Langbase documentation – making it easy to build composable, agentic AI systems with memory without complex inf...]]></summary>
+        <author>
+            <name>Maham Codes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GSAP is Now Completely Free, Even for Commercial Use!]]></title>
+        <id>https://css-tricks.com/?p=386482</id>
+        <link href="https://css-tricks.com/gsap-is-now-completely-free-even-for-commercial-use/"/>
+        <updated>2025-05-06T14:14:41.000Z</updated>
+        <summary type="html"><![CDATA[Along with the version 3.13 release, GSAP, and all its awesome plugins, are now freely available to everyone.
+GSAP is Now Completely Free, Even for Commercial Use! originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Ryan Trimble</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Masonry In CSS: Should Grid Evolve Or Stand Aside For A New Module?]]></title>
+        <id>https://smashingmagazine.com/2025/05/masonry-css-should-grid-evolve-stand-aside-new-module/</id>
+        <link href="https://smashingmagazine.com/2025/05/masonry-css-should-grid-evolve-stand-aside-new-module/"/>
+        <updated>2025-05-06T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[There were duelling proposals floating around for adding support for masonry-style layouts in CSS. In one corner is a proposal that extends the existing CSS Grid specification. In the other corner is a second proposal that sets up masonry as a standalone module. Well, not until recently. Now, there are three proposals with Apple WebKit’s “Item Flow” as the third option. The first two sides make strong points, and the third one merges them into one, all of which you will learn about in this article.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Gabriel Shoyombo)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Improve you C++ skills by coding an audio plugin]]></title>
         <id>68190b8f1abafc5ea9d7efbf</id>
