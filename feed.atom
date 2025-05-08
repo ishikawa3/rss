@@ -2,10 +2,61 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-07T00:14:45.827Z</updated>
+    <updated>2025-05-08T00:14:51.477Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Code a Dropbox Clone with NextJS]]></title>
+        <id>681b80ee1a1a4e16cffa1a50</id>
+        <link href="https://www.freecodecamp.org/news/code-a-dropbox-clone-with-nextjs/"/>
+        <updated>2025-05-07T15:49:02.000Z</updated>
+        <summary type="html"><![CDATA[Building modern full-stack applications requires a strong grasp of various interconnected technologies. And what better way to learn than by creating a real-world project that mimics a widely used tool like Dropbox? That’s exactly what this new cours...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Recursive Types in TypeScript: A Brief Exploration]]></title>
+        <id>681b77a47396438eaee0c5ce</id>
+        <link href="https://www.freecodecamp.org/news/recursive-types-in-typescript-a-brief-exploration/"/>
+        <updated>2025-05-07T15:09:24.000Z</updated>
+        <summary type="html"><![CDATA[It is said that there are two different worlds in TypeScript that exist side by side: the type world and the value world. Consider this line of code: const firstName: string = 'Maynard'; While firstName and 'Maynard' live in the value world, string ...]]></summary>
+        <author>
+            <name>Eda Eren</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Front-End Performance Optimization Handbook – Tips and Strategies for Devs]]></title>
+        <id>681b5e61b1ed0b90facd0adf</id>
+        <link href="https://www.freecodecamp.org/news/the-front-end-performance-optimization-handbook/"/>
+        <updated>2025-05-07T13:21:37.000Z</updated>
+        <summary type="html"><![CDATA[When you’re building a website, you’ll want it to be responsive, fast, and efficient. This means making sure the site loads quickly, runs smoothly, and provides a seamless experience for your users, among other things. So as you build, you’ll want to...]]></summary>
+        <author>
+            <name>Gordan Tan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why is Nobody Using the hwb() Color Function?]]></title>
+        <id>https://css-tricks.com/?p=386463</id>
+        <link href="https://css-tricks.com/why-is-nobody-using-the-hwb-color-function/"/>
+        <updated>2025-05-07T12:25:19.000Z</updated>
+        <summary type="html"><![CDATA[Okay, nobody is an exaggeration, but have you seen the stats for hwb()? They show a steep decline, and after working a lot on color in the CSS-Tricks almanac, I’ve just been wondering why that is.
+Why is Nobody Using the hwb() Color Function? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Sunkanmi Fafowora</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Smashing Animations Part 1: How Classic Cartoons Inspire Modern CSS]]></title>
+        <id>https://smashingmagazine.com/2025/05/smashing-animations-part-1-classic-cartoons-inspire-css/</id>
+        <link href="https://smashingmagazine.com/2025/05/smashing-animations-part-1-classic-cartoons-inspire-css/"/>
+        <updated>2025-05-07T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Have you ever thought about how the limitations of early cartoon animations might relate to web design today? From looping backgrounds to minimal frame changes, these retro animation techniques have surprising parallels to modern CSS. In this article, pioneering author and web designer [Andy Clarke](https://stuffandnonsense.co.uk) shows how he applied these principles to Emmy-winning composer Mike Worth’s new website, using CSS to craft engaging and fun animations that bring his world to life.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Andy Clarke)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Secure Mobile APIs in Flutter]]></title>
         <id>681a707658599a397b11b418</id>
@@ -1100,27 +1151,6 @@ CSS Carousels originally published on CSS-Tricks, which is part of the DigitalOc
         <summary type="html"><![CDATA[Animation makes things clearer, especially for designers and front-end developers working on UI, prototypes, or interactive visuals. Manim is a tool that lets you create smooth and dynamic animations, not just for the design field but also in math, coding, and beyond, to explain complex ideas or simply make everything a little bit more interactive.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Joas Pambou)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Feeling Like I Have No Release: A Journey Towards Sane Deployments]]></title>
-        <id>https://css-tricks.com/?p=385271</id>
-        <link href="https://css-tricks.com/feeling-like-i-have-no-release-a-journey-towards-sane-deployments/"/>
-        <updated>2025-04-07T14:41:53.000Z</updated>
-        <summary type="html"><![CDATA[Deploying like an idiot comes down to a mismatch between the tools you use to deploy and the reward in complexity reduced versus complexity added.
-Feeling Like I Have No Release: A Journey Towards Sane Deployments originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Lee Meyer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Add Live Chat to Your Applications with Rocket.chat]]></title>
-        <id>67f3d275332a812ead444418</id>
-        <link href="https://www.freecodecamp.org/news/add-live-chat-to-your-applications-with-rocketchat/"/>
-        <updated>2025-04-07T13:26:13.000Z</updated>
-        <summary type="html"><![CDATA[The fastest way to gather valuable information about your site’s users is still by talking to them. And what better way to do this than by adding a chat system to your app? For my case, I just wanted to add a chat system to my portfolio website so I]]></summary>
-        <author>
-            <name>Spruce Emmanuel</name>
         </author>
     </entry>
 </feed>

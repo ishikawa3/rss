@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=386463",
+          "author": "Sunkanmi Fafowora",
+          "description": "Okay, nobody is an exaggeration, but have you seen the stats for hwb()? They show a steep decline, and after working a lot on color in the CSS-Tricks almanac, I’ve just been wondering why that is.\nWhy is Nobody Using the hwb() Color Function? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/why-is-nobody-using-the-hwb-color-function/",
+          "publishedOn": "2025-05-07T12:25:19.000Z",
+          "wordCount": 2541,
+          "title": "Why is Nobody Using the hwb() Color Function?",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/10/stripe-accessible-colors.png"
+        },
+        {
           "id": "https://css-tricks.com/?p=386482",
           "author": "Ryan Trimble",
           "description": "Along with the version 3.13 release, GSAP, and all its awesome plugins, are now freely available to everyone.\nGSAP is Now Completely Free, Even for Commercial Use! originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -170,16 +180,6 @@
           "wordCount": 3001,
           "title": "CSS Carousels",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/12/carousel-slides.png"
-        },
-        {
-          "id": "https://css-tricks.com/?p=385271",
-          "author": "Lee Meyer",
-          "description": "Deploying like an idiot comes down to a mismatch between the tools you use to deploy and the reward in complexity reduced versus complexity added.\nFeeling Like I Have No Release: A Journey Towards Sane Deployments originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/feeling-like-i-have-no-release-a-journey-towards-sane-deployments/",
-          "publishedOn": "2025-04-07T14:41:53.000Z",
-          "wordCount": 4780,
-          "title": "Feeling Like I Have No Release: A Journey Towards Sane Deployments",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/03/database-server.jpg"
         }
       ]
     },
@@ -188,6 +188,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2025/05/smashing-animations-part-1-classic-cartoons-inspire-css/",
+          "author": "hello@smashingmagazine.com (Andy Clarke)",
+          "description": "Have you ever thought about how the limitations of early cartoon animations might relate to web design today? From looping backgrounds to minimal frame changes, these retro animation techniques have surprising parallels to modern CSS. In this article, pioneering author and web designer [Andy Clarke](https://stuffandnonsense.co.uk) shows how he applied these principles to Emmy-winning composer Mike Worth’s new website, using CSS to craft engaging and fun animations that bring his world to life.",
+          "link": "https://smashingmagazine.com/2025/05/smashing-animations-part-1-classic-cartoons-inspire-css/",
+          "publishedOn": "2025-05-07T08:00:00.000Z",
+          "wordCount": 5508,
+          "title": "Smashing Animations Part 1: How Classic Cartoons Inspire Modern CSS",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/smashing-animations-part-1-classic-cartoons-inspire-css/smashing-animations-part-1-classic-cartoons-inspire-css.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/smashing-animations-part-1-classic-cartoons-inspire-css/smashing-animations-part-1-classic-cartoons-inspire-css.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2025/05/masonry-css-should-grid-evolve-stand-aside-new-module/",
           "author": "hello@smashingmagazine.com (Gabriel Shoyombo)",
@@ -405,6 +420,36 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "681b80ee1a1a4e16cffa1a50",
+          "author": "Beau Carnes",
+          "description": "Building modern full-stack applications requires a strong grasp of various interconnected technologies. And what better way to learn than by creating a real-world project that mimics a widely used tool like Dropbox? That’s exactly what this new cours...",
+          "link": "https://www.freecodecamp.org/news/code-a-dropbox-clone-with-nextjs/",
+          "publishedOn": "2025-05-07T15:49:02.000Z",
+          "wordCount": 1278,
+          "title": "Code a Dropbox Clone with NextJS",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1746632864462/6865d2b6-8c07-424e-afd2-9200550a976d.png"
+        },
+        {
+          "id": "681b77a47396438eaee0c5ce",
+          "author": "Eda Eren",
+          "description": "It is said that there are two different worlds in TypeScript that exist side by side: the type world and the value world. Consider this line of code: const firstName: string = 'Maynard'; While firstName and 'Maynard' live in the value world, string ...",
+          "link": "https://www.freecodecamp.org/news/recursive-types-in-typescript-a-brief-exploration/",
+          "publishedOn": "2025-05-07T15:09:24.000Z",
+          "wordCount": 2585,
+          "title": "Recursive Types in TypeScript: A Brief Exploration",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1746625684891/6a4e2dae-a7b2-415d-a65d-be47c5d73253.png"
+        },
+        {
+          "id": "681b5e61b1ed0b90facd0adf",
+          "author": "Gordan Tan",
+          "description": "When you’re building a website, you’ll want it to be responsive, fast, and efficient. This means making sure the site loads quickly, runs smoothly, and provides a seamless experience for your users, among other things. So as you build, you’ll want to...",
+          "link": "https://www.freecodecamp.org/news/the-front-end-performance-optimization-handbook/",
+          "publishedOn": "2025-05-07T13:21:37.000Z",
+          "wordCount": 10977,
+          "title": "The Front-End Performance Optimization Handbook – Tips and Strategies for Devs",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1746468304666/ca24ac6b-1591-4abf-a544-739fbfaecf49.png"
+        },
         {
           "id": "681a707658599a397b11b418",
           "author": "Atuoha Anthony",
@@ -1184,16 +1229,6 @@
           "wordCount": 1525,
           "title": "C++ Setup and Installation Tools – CMake, vcpkg, Docker & Copilot",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1744126327420/6ec2b56c-d226-4fea-935c-ab78d6b83951.png"
-        },
-        {
-          "id": "67f3d275332a812ead444418",
-          "author": "Spruce Emmanuel",
-          "description": "The fastest way to gather valuable information about your site’s users is still by talking to them. And what better way to do this than by adding a chat system to your app? For my case, I just wanted to add a chat system to my portfolio website so I",
-          "link": "https://www.freecodecamp.org/news/add-live-chat-to-your-applications-with-rocketchat/",
-          "publishedOn": "2025-04-07T13:26:13.000Z",
-          "wordCount": 2200,
-          "title": "How to Add Live Chat to Your Applications with Rocket.chat",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1744032217209/1ad8ea61-a8bd-4bea-9bec-152e52db7377.png"
         }
       ]
     }
