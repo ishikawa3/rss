@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-09T00:14:40.028Z</updated>
+    <updated>2025-05-10T00:14:05.632Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Make IT Operations More Efficient with AIOps: Build Smarter, Faster Systems]]></title>
+        <id>681e7192df44ab8496bca883</id>
+        <link href="https://www.freecodecamp.org/news/make-it-operations-more-efficient-with-aiops/"/>
+        <updated>2025-05-09T21:20:18.000Z</updated>
+        <summary type="html"><![CDATA[In the rapidly evolving IT landscape, development teams have to operate at their best and manage complex systems while minimizing downtime. And having to do many routine tasks manually can really slow down operations and reduce efficiency. These days...]]></summary>
+        <author>
+            <name>Balajee Asish Brahmandam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is Technical Debt and How Do You Manage it?]]></title>
+        <id>681e31e668aa6f9f0c37bb12</id>
+        <link href="https://www.freecodecamp.org/news/what-is-technical-debt-and-how-do-you-manage-it/"/>
+        <updated>2025-05-09T16:48:38.000Z</updated>
+        <summary type="html"><![CDATA[You’ve probably heard someone say, “We’ll fix it later.” Maybe you’ve said it yourself. In the rush to launch a feature, meet a deadline, or impress a client, you take a shortcut. The code works – for now. The design passes – for now. But over time, ...]]></summary>
+        <author>
+            <name>Manish Shivanandhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ditching a Microsoft Job to Enter Startup Hell with Lonewolf Engineer Sam Crombie [Podcast #171]]]></title>
+        <id>681dc8d07dcd2a77c4bbe048</id>
+        <link href="https://www.freecodecamp.org/news/ditching-a-microsoft-job-to-enter-startup-hell-with-lonewolf-engineer-sam-crombie-podcast-171/"/>
+        <updated>2025-05-09T09:20:16.000Z</updated>
+        <summary type="html"><![CDATA[On this week's episode of the podcast, freeCodeCamp founder Quincy Larson interviews Sam Crombie. He's a software engineer and prolific open source contributor to freeCodeCamp. He abandon his job at Microsoft, got into Y Combinator, and is currently ...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Prepare for your iOS interview]]></title>
         <id>681d1bbfb1018a470d0d8a02</id>
@@ -1140,48 +1170,6 @@ CSS-Tricks Chronicles XLIII originally published on CSS-Tricks, which is part of
 Tailwind’s @apply Feature is Better Than it Sounds originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Zell Liew</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cascading Layouts: A Workshop on Resilient CSS Layouts]]></title>
-        <id>https://css-tricks.com/?p=385758</id>
-        <link href="https://css-tricks.com/cascading-layouts-a-workshop-on-resilient-css-layouts/"/>
-        <updated>2025-04-10T11:26:00.000Z</updated>
-        <summary type="html"><![CDATA[If I were starting with CSS today for the very first time, I would first want to spend time understanding writing modes because that’s a great place to wrap your head around direction and document flow. But right after that, …
-Cascading Layouts: A Workshop on Resilient CSS Layouts originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An Animated Introduction to Clojure – Learn Clojure Programming Basics]]></title>
-        <id>67f7044b8d28cad83fb095a2</id>
-        <link href="https://www.freecodecamp.org/news/learn-clojure-programming-basics/"/>
-        <updated>2025-04-09T23:35:39.000Z</updated>
-        <summary type="html"><![CDATA[This tutorial introduces the programming language, Clojure. Clojure is an awesome functional programming language that runs on Java's Virtual Machine (JVM). It is sometimes called a LISP, which is short for 'LISt Processing'. You'll need to have some...]]></summary>
-        <author>
-            <name>Mark Mahoney</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn Lynx to Create JavaScript Mobile Apps]]></title>
-        <id>67f6a2b6a00282687c8e224d</id>
-        <link href="https://www.freecodecamp.org/news/learn-lynx-to-create-javascript-mobile-apps/"/>
-        <updated>2025-04-09T16:39:18.000Z</updated>
-        <summary type="html"><![CDATA[In the rapidly evolving landscape of cross-platform development, a new player has emerged that promises to revolutionize the way developers create applications: Lynx. Developed by ByteDance, the company behind TikTok, Lynx is an open-source framework...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSS Carousels]]></title>
-        <id>https://css-tricks.com/?p=385672</id>
-        <link href="https://css-tricks.com/css-carousels/"/>
-        <updated>2025-04-09T13:00:24.000Z</updated>
-        <summary type="html"><![CDATA[Chrome has prototyped these features and released them in Chrome 135. Adam Argyle has a wonderful explainer over at the Chrome Developer blog. Kevin Powell has an equally wonderful video where he follows the explainer. This post is me taking notes from them.
-CSS Carousels originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
         </author>
     </entry>
 </feed>
