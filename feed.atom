@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-10T00:14:05.632Z</updated>
+    <updated>2025-05-11T00:16:01.196Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
@@ -1119,57 +1119,6 @@ Next Level CSS Styling for Cursors originally published on CSS-Tricks, which is 
 CSS-Tricks Chronicles XLIII originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Train Your Own LLM]]></title>
-        <id>67f8338f0d301512a59fb77f</id>
-        <link href="https://www.freecodecamp.org/news/train-your-own-llm/"/>
-        <updated>2025-04-10T21:09:35.000Z</updated>
-        <summary type="html"><![CDATA[Ever wondered how large language models like ChatGPT are actually built? Behind these impressive AI tools lies a complex but fascinating process of data preparation, model training, and fine-tuning. While it might seem like something only experts wit...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gild Just One Lily]]></title>
-        <id>https://smashingmagazine.com/2025/04/gild-just-one-lily/</id>
-        <link href="https://smashingmagazine.com/2025/04/gild-just-one-lily/"/>
-        <updated>2025-04-10T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[“Gilding the lily” isn’t always bad. In design, a touch of metaphorical gold — a subtle animated transition, a hint of color, or added depth in a drop shadow — can help communicate a level of care and attention that builds trust. But first? You need a lily. Nail the fundamentals. Then, gild it carefully.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Steven Garrity)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Extend the Django User Model]]></title>
-        <id>67f7ccb69fc8333e720a4185</id>
-        <link href="https://www.freecodecamp.org/news/how-to-extend-the-django-user-model/"/>
-        <updated>2025-04-10T13:50:46.000Z</updated>
-        <summary type="html"><![CDATA[If you're working with Django and building anything that involves user accounts – like a blog, a store, or a membership site – you’ll likely hit a point where the default user model just isn’t enough. Maybe you want to add a profile picture, a phone ...]]></summary>
-        <author>
-            <name>Udemezue John</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use Lazygit to Improve Your Git Workflow]]></title>
-        <id>67f7cc7aaf72aa46d378eaa0</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-lazygit-to-improve-your-git-workflow/"/>
-        <updated>2025-04-10T13:49:46.000Z</updated>
-        <summary type="html"><![CDATA[Lazygit is an open-source command line terminal UI for Git commands that I’ve used for the last couple of years, and it’s become my new best friend. Basically, the Lazygit tool is a wrapper for the Git command line that replaces it with a UI. Instead...]]></summary>
-        <author>
-            <name>Rajdeep Singh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tailwind’s @apply Feature is Better Than it Sounds]]></title>
-        <id>https://css-tricks.com/?p=385232</id>
-        <link href="https://css-tricks.com/tailwinds-apply-feature-is-better-than-it-sounds/"/>
-        <updated>2025-04-10T12:39:43.000Z</updated>
-        <summary type="html"><![CDATA[Most of the time, people showcase Tailwind's @apply feature with one of Tailwind's single-property utilities (which changes a single CSS declaration). When showcased this way, @apply doesn't sound promising at all. So obviously, nobody wants to use it. Personally, I think Tailwind's @apply feature is better than described.
-Tailwind’s @apply Feature is Better Than it Sounds originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Zell Liew</name>
         </author>
     </entry>
 </feed>

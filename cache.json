@@ -160,16 +160,6 @@
           "wordCount": 2715,
           "title": "CSS-Tricks Chronicles XLIII",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/03/chronicles-XXXVIII.jpg"
-        },
-        {
-          "id": "https://css-tricks.com/?p=385232",
-          "author": "Zell Liew",
-          "description": "Most of the time, people showcase Tailwind's @apply feature with one of Tailwind's single-property utilities (which changes a single CSS declaration). When showcased this way, @apply doesn't sound promising at all. So obviously, nobody wants to use it. Personally, I think Tailwind's @apply feature is better than described.\nTailwind’s @apply Feature is Better Than it Sounds originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/tailwinds-apply-feature-is-better-than-it-sounds/",
-          "publishedOn": "2025-04-10T12:39:43.000Z",
-          "wordCount": 3126,
-          "title": "Tailwind’s @apply Feature is Better Than it Sounds",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/03/tailwind-apply.jpg"
         }
       ]
     },
@@ -387,21 +377,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/inclusive-dark-mode-designing-accessible-dark-themes/inclusive-dark-mode-designing-accessible-dark-themes.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2025/04/gild-just-one-lily/",
-          "author": "hello@smashingmagazine.com (Steven Garrity)",
-          "description": "“Gilding the lily” isn’t always bad. In design, a touch of metaphorical gold — a subtle animated transition, a hint of color, or added depth in a drop shadow — can help communicate a level of care and attention that builds trust. But first? You need a lily. Nail the fundamentals. Then, gild it carefully.",
-          "link": "https://smashingmagazine.com/2025/04/gild-just-one-lily/",
-          "publishedOn": "2025-04-10T15:00:00.000Z",
-          "wordCount": 4216,
-          "title": "Gild Just One Lily",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/gild-just-one-lily/gild-just-one-lily.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/gild-just-one-lily/gild-just-one-lily.jpg"
         }
       ]
     },
@@ -1219,36 +1194,6 @@
           "wordCount": 4490,
           "title": "How to Use TypeSpec for Documenting and Modeling APIs",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1744399481891/de5db16a-2eea-46d8-820d-50c1e66d5019.png"
-        },
-        {
-          "id": "67f8338f0d301512a59fb77f",
-          "author": "Beau Carnes",
-          "description": "Ever wondered how large language models like ChatGPT are actually built? Behind these impressive AI tools lies a complex but fascinating process of data preparation, model training, and fine-tuning. While it might seem like something only experts wit...",
-          "link": "https://www.freecodecamp.org/news/train-your-own-llm/",
-          "publishedOn": "2025-04-10T21:09:35.000Z",
-          "wordCount": 1338,
-          "title": "Train Your Own LLM",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1744319158160/c3734576-b102-498b-a078-8b7acb19b2df.png"
-        },
-        {
-          "id": "67f7ccb69fc8333e720a4185",
-          "author": "Udemezue John",
-          "description": "If you're working with Django and building anything that involves user accounts – like a blog, a store, or a membership site – you’ll likely hit a point where the default user model just isn’t enough. Maybe you want to add a profile picture, a phone ...",
-          "link": "https://www.freecodecamp.org/news/how-to-extend-the-django-user-model/",
-          "publishedOn": "2025-04-10T13:50:46.000Z",
-          "wordCount": 2172,
-          "title": "How to Extend the Django User Model",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1744293031605/8b4f148d-2e5f-49bd-90a8-7c295be2c2db.png"
-        },
-        {
-          "id": "67f7cc7aaf72aa46d378eaa0",
-          "author": "Rajdeep Singh",
-          "description": "Lazygit is an open-source command line terminal UI for Git commands that I’ve used for the last couple of years, and it’s become my new best friend. Basically, the Lazygit tool is a wrapper for the Git command line that replaces it with a UI. Instead...",
-          "link": "https://www.freecodecamp.org/news/how-to-use-lazygit-to-improve-your-git-workflow/",
-          "publishedOn": "2025-04-10T13:49:46.000Z",
-          "wordCount": 2612,
-          "title": "How to Use Lazygit to Improve Your Git Workflow",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1744293114488/5332db88-bff6-4aef-91eb-3423f3b95e1a.png"
         }
       ]
     }
