@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-11T00:16:01.196Z</updated>
+    <updated>2025-05-12T00:15:52.796Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
@@ -1088,37 +1088,6 @@ Using CSS backdrop-filter for UI Effects originally published on CSS-Tricks, whi
 Next Level CSS Styling for Cursors originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Declan Chidlow</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[From Accountant to Data Engineer with Alyson La [Podcast #168]]]></title>
-        <id>67f9c04b3e25f02ff9a26b80</id>
-        <link href="https://www.freecodecamp.org/news/from-accountant-to-data-engineer-with-alyson-la-podcast-168/"/>
-        <updated>2025-04-12T01:22:19.000Z</updated>
-        <summary type="html"><![CDATA[On this week's episode of the podcast, freeCodeCamp founder Quincy Larson interviews Alyson La. She taught herself how to code while working as an accountant at GitHub and was able to transition to a data scientist there, then ultimately a software e...]]></summary>
-        <author>
-            <name>Quincy Larson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use TypeSpec for Documenting and Modeling APIs]]></title>
-        <id>67f96c998b09f2bdfa144c8b</id>
-        <link href="https://www.freecodecamp.org/news/use-typespec-for-documenting-and-modeling-apis/"/>
-        <updated>2025-04-11T19:25:13.000Z</updated>
-        <summary type="html"><![CDATA[If you're curious and passionate about technology like I am, and you’re looking for clarity in your code, you've likely already experienced the limitations of conventional tools for documenting and modeling APIs. Tools such as Swagger, JSON Schema, o...]]></summary>
-        <author>
-            <name>Adalbert Pungu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSS-Tricks Chronicles XLIII]]></title>
-        <id>https://css-tricks.com/?p=385404</id>
-        <link href="https://css-tricks.com/css-tricks-chronicles-xliii/"/>
-        <updated>2025-04-11T12:39:26.000Z</updated>
-        <summary type="html"><![CDATA[This CSS-Tricks update highlights significant progress in the Almanac, recent podcast appearances, a new CSS counters guide, and the addition of several new authors contributing valuable content.
-CSS-Tricks Chronicles XLIII originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
         </author>
     </entry>
 </feed>
