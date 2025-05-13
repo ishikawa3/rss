@@ -2,10 +2,61 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-12T00:15:52.796Z</updated>
+    <updated>2025-05-13T00:15:04.223Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Automate Compliance and Fraud Detection in Finance with MLOps]]></title>
+        <id>68222009a8daed5c1fbf1692</id>
+        <link href="https://www.freecodecamp.org/news/automate-compliance-and-fraud-detection-in-finance-with-mlops/"/>
+        <updated>2025-05-12T16:21:29.000Z</updated>
+        <summary type="html"><![CDATA[These days, businesses are under increasing pressure to comply with stringent regulations while also combating fraudulent activities. The high volume of data and the intricate requirements of real-time fraud detection and compliance reporting are fre...]]></summary>
+        <author>
+            <name>Balajee Asish Brahmandam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn Object-Oriented Programming in TypeScript]]></title>
+        <id>682201c8ba77730da04e15a8</id>
+        <link href="https://www.freecodecamp.org/news/learn-object-oriented-programming-in-typescript/"/>
+        <updated>2025-05-12T14:12:24.000Z</updated>
+        <summary type="html"><![CDATA[Object-Oriented Programming (OOP) is one of the most widely used programming paradigms in software development. But is also one of the most misunderstood. This article will help you gain a solid grasp of OOP in TypeScript by walking you through the l...]]></summary>
+        <author>
+            <name>Lucas</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Become an Analytical Programmer – Solve the "Rock, Paper, Scissors" Game 5 Ways Using JavaScript & Mermaid.js]]></title>
+        <id>6822006162f6347293451e07</id>
+        <link href="https://www.freecodecamp.org/news/how-to-become-an-analytical-programmer-compare-five-projects/"/>
+        <updated>2025-05-12T14:06:25.000Z</updated>
+        <summary type="html"><![CDATA[Over the past year, I’ve explored tools and practices that help developers build an analytical mindset. One recurring theme is how experienced programmers often describe understanding code as forming a mental picture – a conceptual map of the program...]]></summary>
+        <author>
+            <name>evaristo.c</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using Pages CMS for Static Site Content Management]]></title>
+        <id>https://css-tricks.com/?p=386522</id>
+        <link href="https://css-tricks.com/using-pages-cms-for-static-site-content-management/"/>
+        <updated>2025-05-12T12:42:10.000Z</updated>
+        <summary type="html"><![CDATA[I know, I know: there are a ton of content management system options available, and while I've tested several, none have really been the one, y'know? Weird pricing models, difficult customization, some even end up becoming a whole 'nother thing to manage.
+Using Pages CMS for Static Site Content Management originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Ryan Trimble</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Integrating Localization Into Design Systems]]></title>
+        <id>https://smashingmagazine.com/2025/05/integrating-localization-into-design-systems/</id>
+        <link href="https://smashingmagazine.com/2025/05/integrating-localization-into-design-systems/"/>
+        <updated>2025-05-12T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Learn how two designers tackled the challenges of building a localization-ready design system for a global audience. This case study dives into how Rebecca and Mark combined Figma Variables and design tokens to address multilingual design issues, such as text overflow, RTL layouts, and font inconsistencies.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Rebecca Hemstad &amp; Mark Malek)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Make IT Operations More Efficient with AIOps: Build Smarter, Faster Systems]]></title>
         <id>681e7192df44ab8496bca883</id>
