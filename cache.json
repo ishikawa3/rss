@@ -401,6 +401,16 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "682354c58b3805ff1d2335d0",
+          "author": "Manish Shivanandhan",
+          "description": "Every website that takes user input is a potential target for an attacker. You might think your app is too small or too new to get noticed, but attackers use tools to scan the web for common security mistakes. If your site is online and has a login f...",
+          "link": "https://www.freecodecamp.org/news/how-hackers-exploit-web-applications-and-how-to-prevent-them/",
+          "publishedOn": "2025-05-13T14:18:45.000Z",
+          "wordCount": 2012,
+          "title": "Top Ways Hackers Exploit Web Applications (and How to Prevent Them)",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1747060147180/03146ca3-bc12-4d00-bdde-985817a0893c.png"
+        },
+        {
           "id": "68222009a8daed5c1fbf1692",
           "author": "Balajee Asish Brahmandam",
           "description": "These days, businesses are under increasing pressure to comply with stringent regulations while also combating fraudulent activities. The high volume of data and the intricate requirements of real-time fraud detection and compliance reporting are fre...",

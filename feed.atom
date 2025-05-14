@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-13T00:15:04.223Z</updated>
+    <updated>2025-05-14T00:14:42.651Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Top Ways Hackers Exploit Web Applications (and How to Prevent Them)]]></title>
+        <id>682354c58b3805ff1d2335d0</id>
+        <link href="https://www.freecodecamp.org/news/how-hackers-exploit-web-applications-and-how-to-prevent-them/"/>
+        <updated>2025-05-13T14:18:45.000Z</updated>
+        <summary type="html"><![CDATA[Every website that takes user input is a potential target for an attacker. You might think your app is too small or too new to get noticed, but attackers use tools to scan the web for common security mistakes. If your site is online and has a login f...]]></summary>
+        <author>
+            <name>Manish Shivanandhan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Automate Compliance and Fraud Detection in Finance with MLOps]]></title>
         <id>68222009a8daed5c1fbf1692</id>
