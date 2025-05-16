@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=386537",
+          "author": "Geoff Graham",
+          "description": "Hey, isn't there a fairly new CSS feature that works with scroll regions? Oh yes, that's Scroll-Driven Animations. Shouldn't that mean we can trigger an animation while scrolling through the items in a CSS carousel?\nScroll-Driven Animations Inside a CSS Carousel originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/scroll-driven-animations-inside-a-css-carousel/",
+          "publishedOn": "2025-05-15T12:30:59.000Z",
+          "wordCount": 1918,
+          "title": "Scroll-Driven Animations Inside a CSS Carousel",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/12/carousel-slides.png"
+        },
+        {
           "id": "https://css-tricks.com/?p=386415",
           "author": "John Rhea",
           "description": "What it looks like to troubleshoot one of those impossible issues that turns out to be something totally else you never thought of.\nThis Isn’t Supposed to Happen: Troubleshooting the Impossible originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -173,6 +183,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2025/05/fewer-ideas-unconventional-approach-creativity/",
+          "author": "hello@smashingmagazine.com (Eric Olive)",
+          "description": "Remember that last team brainstorming session where you were supposed to generate a long list of brilliant ideas? How many of those ideas actually stuck? Did leadership act on any of those ideas? In this article, Eric Olive challenges the value of exercises like brainstorming and explores more effective methods for sparking creativity to improve design and enhance the user’s experience.",
+          "link": "https://smashingmagazine.com/2025/05/fewer-ideas-unconventional-approach-creativity/",
+          "publishedOn": "2025-05-15T10:00:00.000Z",
+          "wordCount": 4901,
+          "title": "Fewer Ideas: An Unconventional Approach To Creativity",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/fewer-ideas-unconventional-approach-creativity/fewer-ideas-unconventional-approach-creativity.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/fewer-ideas-unconventional-approach-creativity/fewer-ideas-unconventional-approach-creativity.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2025/05/smashing-animations-part-2-css-masking-add-extra-dimension/",
           "author": "hello@smashingmagazine.com (Andy Clarke)",
@@ -397,21 +422,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/fostering-accessibility-culture/fostering-accessibility-culture.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2025/04/inclusive-dark-mode-designing-accessible-dark-themes/",
-          "author": "hello@smashingmagazine.com (Alex Williams)",
-          "description": "Dark mode isn’t just a trendy aesthetic. It’s a gateway to more inclusive digital experiences, but only if designed thoughtfully. Discover how to craft dark modes that don’t just look good but work for everyone, from those with light sensitivity to machine learning algorithms.",
-          "link": "https://smashingmagazine.com/2025/04/inclusive-dark-mode-designing-accessible-dark-themes/",
-          "publishedOn": "2025-04-15T13:00:00.000Z",
-          "wordCount": 4970,
-          "title": "Inclusive Dark Mode: Designing Accessible Dark Themes For All Users",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/inclusive-dark-mode-designing-accessible-dark-themes/inclusive-dark-mode-designing-accessible-dark-themes.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/inclusive-dark-mode-designing-accessible-dark-themes/inclusive-dark-mode-designing-accessible-dark-themes.jpg"
         }
       ]
     },
@@ -1249,16 +1259,6 @@
           "wordCount": 2313,
           "title": "How to Build a GraphQL API in Django",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1744809748866/9a626cc9-4e67-4d63-bdde-1834180db645.png"
-        },
-        {
-          "id": "67fed115c3894cfa21b37d64",
-          "author": "Michael Para",
-          "description": "PHP is a dynamically typed language. This means that variable types are determined at runtime, and you don’t need to explicitly define types when declaring variables. One of PHP’s unique features is type juggling, a concept that can be both fascinati...",
-          "link": "https://www.freecodecamp.org/news/how-php-type-juggling-works-explained-with-code-examples/",
-          "publishedOn": "2025-04-15T21:35:17.000Z",
-          "wordCount": 1931,
-          "title": "How PHP Type Juggling Works – Explained with Code Examples",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1744752144618/3f40dca7-3148-44fc-8cc0-c10315e706e3.png"
         }
       ]
     }

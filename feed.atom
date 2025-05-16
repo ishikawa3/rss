@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-15T00:13:25.317Z</updated>
+    <updated>2025-05-16T00:15:08.266Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Scroll-Driven Animations Inside a CSS Carousel]]></title>
+        <id>https://css-tricks.com/?p=386537</id>
+        <link href="https://css-tricks.com/scroll-driven-animations-inside-a-css-carousel/"/>
+        <updated>2025-05-15T12:30:59.000Z</updated>
+        <summary type="html"><![CDATA[Hey, isn't there a fairly new CSS feature that works with scroll regions? Oh yes, that's Scroll-Driven Animations. Shouldn't that mean we can trigger an animation while scrolling through the items in a CSS carousel?
+Scroll-Driven Animations Inside a CSS Carousel originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fewer Ideas: An Unconventional Approach To Creativity]]></title>
+        <id>https://smashingmagazine.com/2025/05/fewer-ideas-unconventional-approach-creativity/</id>
+        <link href="https://smashingmagazine.com/2025/05/fewer-ideas-unconventional-approach-creativity/"/>
+        <updated>2025-05-15T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Remember that last team brainstorming session where you were supposed to generate a long list of brilliant ideas? How many of those ideas actually stuck? Did leadership act on any of those ideas? In this article, Eric Olive challenges the value of exercises like brainstorming and explores more effective methods for sparking creativity to improve design and enhance the user’s experience.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Eric Olive)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How DNS Works: A Guide to Understanding the Internet's Address Book]]></title>
         <id>6824f1ac04a60b4a58654ddc</id>
@@ -1149,26 +1170,6 @@ So, You Want to Give Up CSS Pre- and Post-Processors… originally published on 
 Using CSS backdrop-filter for UI Effects originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Preethi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How PHP Type Juggling Works – Explained with Code Examples]]></title>
-        <id>67fed115c3894cfa21b37d64</id>
-        <link href="https://www.freecodecamp.org/news/how-php-type-juggling-works-explained-with-code-examples/"/>
-        <updated>2025-04-15T21:35:17.000Z</updated>
-        <summary type="html"><![CDATA[PHP is a dynamically typed language. This means that variable types are determined at runtime, and you don’t need to explicitly define types when declaring variables. One of PHP’s unique features is type juggling, a concept that can be both fascinati...]]></summary>
-        <author>
-            <name>Michael Para</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Inclusive Dark Mode: Designing Accessible Dark Themes For All Users]]></title>
-        <id>https://smashingmagazine.com/2025/04/inclusive-dark-mode-designing-accessible-dark-themes/</id>
-        <link href="https://smashingmagazine.com/2025/04/inclusive-dark-mode-designing-accessible-dark-themes/"/>
-        <updated>2025-04-15T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Dark mode isn’t just a trendy aesthetic. It’s a gateway to more inclusive digital experiences, but only if designed thoughtfully. Discover how to craft dark modes that don’t just look good but work for everyone, from those with light sensitivity to machine learning algorithms.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Alex Williams)</name>
         </author>
     </entry>
 </feed>
