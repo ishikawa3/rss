@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=386631",
+          "author": "Geoff Graham",
+          "description": "Some weekend reading on the heels of Global Accessibility Awareness Day (GAADM), which took place yesterday. The Email Markup Consortium (EMC) released its 2025 study on the accessibility in HTML emails, and the TL;DR is …\nHTML Email Accessibility Report 2025 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/html-email-accessibility-report-2025/",
+          "publishedOn": "2025-05-16T14:38:19.000Z",
+          "wordCount": 2109,
+          "title": "HTML Email Accessibility Report 2025",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2022/09/email-envelope.jpg"
+        },
+        {
           "id": "https://css-tricks.com/?p=386537",
           "author": "Geoff Graham",
           "description": "Hey, isn't there a fairly new CSS feature that works with scroll regions? Oh yes, that's Scroll-Driven Animations. Shouldn't that mean we can trigger an animation while scrolling through the items in a CSS carousel?\nScroll-Driven Animations Inside a CSS Carousel originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -165,16 +175,6 @@
           "wordCount": 3069,
           "title": "So, You Want to Give Up CSS Pre- and Post-Processors…",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/09/sass-logo.png"
-        },
-        {
-          "id": "https://css-tricks.com/?p=385721",
-          "author": "Preethi",
-          "description": "Tips and tricks on utilizing the CSS backdrop-filter property to style user interfaces. You’ll learn how to layer backdrop filters among multiple elements, and integrate them with other CSS graphical effects to create elaborate designs.\nUsing CSS backdrop-filter for UI Effects originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/using-css-backdrop-filter-for-ui-effects/",
-          "publishedOn": "2025-04-16T12:34:50.000Z",
-          "wordCount": 2678,
-          "title": "Using CSS backdrop-filter for UI Effects",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/04/backdrop-filter-weather-widget.jpeg"
         }
       ]
     },
@@ -183,6 +183,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2025/05/building-practical-ux-strategy-framework/",
+          "author": "hello@smashingmagazine.com (Paul Boag)",
+          "description": "Learn how to create and implement a UX strategy framework that shapes work and drives real business value.",
+          "link": "https://smashingmagazine.com/2025/05/building-practical-ux-strategy-framework/",
+          "publishedOn": "2025-05-16T11:00:00.000Z",
+          "wordCount": 4417,
+          "title": "Building A Practical UX Strategy Framework",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/building-practical-ux-strategy-framework/building-practical-ux-strategy-framework.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/building-practical-ux-strategy-framework/building-practical-ux-strategy-framework.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2025/05/fewer-ideas-unconventional-approach-creativity/",
           "author": "hello@smashingmagazine.com (Eric Olive)",
@@ -407,21 +422,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/what-mean-site-be-keyboard-navigable/what-mean-site-be-keyboard-navigable.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2025/04/fostering-accessibility-culture/",
-          "author": "hello@smashingmagazine.com (Daniel Devesa Derksen-Staats)",
-          "description": "While there’s no definitive playbook for building an accessibility culture, Dani shares lessons from his experience in shaping it through habits rather than mandates.",
-          "link": "https://smashingmagazine.com/2025/04/fostering-accessibility-culture/",
-          "publishedOn": "2025-04-17T08:00:00.000Z",
-          "wordCount": 5764,
-          "title": "Fostering An Accessibility Culture",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/fostering-accessibility-culture/fostering-accessibility-culture.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/fostering-accessibility-culture/fostering-accessibility-culture.jpg"
         }
       ]
     },
@@ -1169,96 +1169,6 @@
           "wordCount": 2358,
           "title": "A Developer's Guide to Protecting Personal Data: Best Practices and Tools",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1744839185611/b3e49efc-6eee-4a0b-9522-20407b1782e3.png"
-        },
-        {
-          "id": "6800668866f05d926e4a7820",
-          "author": "Udemezue John",
-          "description": "If you're building a Django app and you want to connect with users – maybe to welcome them, send password reset links, or deliver updates – email is one of the best tools you’ve got. Setting up email in Django might sound tricky at first, but it's pr...",
-          "link": "https://www.freecodecamp.org/news/how-to-send-emails-with-django/",
-          "publishedOn": "2025-04-17T02:25:12.000Z",
-          "wordCount": 1757,
-          "title": "How to Send Emails With Django",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1744856526204/09de1f52-e08a-4b4c-a5fe-199aea652e20.png"
-        },
-        {
-          "id": "6800667b5221d22444debb70",
-          "author": "Nazneen Ahmad",
-          "description": "In the IT and product industries, the positions of Chief Technology Officer (CTO) and Chief Product Officer (CPO) are crucial. Although they take distinct approaches, they both prioritize customer satisfaction and corporate success. This article will...",
-          "link": "https://www.freecodecamp.org/news/cto-vs-cpo-roles-and-responsibilities-of-chief-technical-officer-and-chief-product-officer/",
-          "publishedOn": "2025-04-17T02:24:59.000Z",
-          "wordCount": 2458,
-          "title": "CTO vs. CPO: Roles and Responsibilities of Chief Technical Officer & Chief Product Officer",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1744856661504/99e98175-7eba-4ca9-ac99-548f149741c4.png"
-        },
-        {
-          "id": "68006521c1f51bf42a74f4b0",
-          "author": "Prince Onukwili",
-          "description": "Imagine you’re tasked with building a web application that can handle incoming traffic surges as your users grow without accumulating too much cost. Sounds like a dream, right? But here’s the thing: traditionally, to do this, you would have to manage...",
-          "link": "https://www.freecodecamp.org/news/serverless-architecture-with-aws-lambda/",
-          "publishedOn": "2025-04-17T02:19:13.000Z",
-          "wordCount": 8030,
-          "title": "The Serverless Architecture Handbook: How to Publish a Node Js Docker Image to AWS ECR and Deploy the Container to AWS Lambda",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1744843935296/c359998f-1657-482f-adf4-5ab023cb1c02.png"
-        },
-        {
-          "id": "67ffffdf95672e11eaf7719b",
-          "author": "Udemezue John",
-          "description": "When you're building an API, security should be at the top of your list. You want to make sure only the right people can access the right stuff – and that’s where authentication comes in. One of the most common and reliable ways to handle authenticat...",
-          "link": "https://www.freecodecamp.org/news/how-to-create-a-json-web-token-in-the-django-rest-framework/",
-          "publishedOn": "2025-04-16T19:07:11.000Z",
-          "wordCount": 2644,
-          "title": "How to Create a JSON Web Token in the Django Rest Framework",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1744827939254/f99ab71c-f3a6-4858-8682-592e2e41bd45.png"
-        },
-        {
-          "id": "67ffd01c61bb8e3a320b1eac",
-          "author": "Mark Mahoney",
-          "description": "In this tutorial, you’ll learn about the Structured Query Language (SQL), the standard language used to query relational databases. SQL is not a traditional programming language. In Python or Java, you write step-by-step instructions that tell the co...",
-          "link": "https://www.freecodecamp.org/news/an-animated-introduction-to-sql-learn-to-query-relational-databases/",
-          "publishedOn": "2025-04-16T15:43:24.000Z",
-          "wordCount": 4441,
-          "title": "An Animated Introduction to SQL – Learn to Query Relational Databases",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1744818155429/10b16956-a249-4815-b50a-594b58330a01.png"
-        },
-        {
-          "id": "67ffc4588a19b331e60a51d2",
-          "author": "Udemezue John",
-          "description": "If you’re building a web or mobile app, chances are you’re going to need a way to send and receive data between your app and a server. That’s where REST APIs come in. They help apps talk to each other – kind of like a waiter taking your order and",
-          "link": "https://www.freecodecamp.org/news/how-to-build-a-rest-api-in-django/",
-          "publishedOn": "2025-04-16T14:53:12.000Z",
-          "wordCount": 2581,
-          "title": "How to Build a REST API in Django",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1744814822505/5195929b-c1d8-4c9e-a12b-44697db44c5b.png"
-        },
-        {
-          "id": "67ffc2a75667d9e59ef9bc61",
-          "author": "Maham Codes",
-          "description": "The most powerful AI systems don’t just generate – they also retrieve, reason, and respond with context. Retrieval-Augmented Generation (RAG) is how we get there. It combines the strengths of search and generation to build more accurate, reliable, an...",
-          "link": "https://www.freecodecamp.org/news/how-to-build-rag-ai-agents-with-typescript/",
-          "publishedOn": "2025-04-16T14:45:59.000Z",
-          "wordCount": 4290,
-          "title": "How to Build RAG AI Agents with TypeScript",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1744814746615/72626297-def9-466a-8c1a-2cdb1b411300.png"
-        },
-        {
-          "id": "67ffc1695667d9e59ef9bc46",
-          "author": "Gordan Tan",
-          "description": "Recently, I have been writing unit tests and E2E tests for a NestJS project. This was my first time writing tests for a backend project, and I found the process different from my experience with frontend testing, making it challenging to begin. After...",
-          "link": "https://www.freecodecamp.org/news/nestjs-unit-testing-e2e-testing-guide/",
-          "publishedOn": "2025-04-16T14:40:41.000Z",
-          "wordCount": 4047,
-          "title": "How to Write Unit Tests and E2E Tests for NestJS Applications",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1744738441654/1bb2b329-d363-46d7-b091-e0e95ad22c9e.png"
-        },
-        {
-          "id": "67ffaf1dde58821be3496dfb",
-          "author": "Udemezue John",
-          "description": "If you're building an app with Django and thinking about using GraphQL, you're not alone. REST has been the go-to for years, but GraphQL is quickly becoming a favourite option for developers who want more flexibility and less back-and-forth between f...",
-          "link": "https://www.freecodecamp.org/news/how-to-build-a-graphql-api-in-django/",
-          "publishedOn": "2025-04-16T13:22:37.000Z",
-          "wordCount": 2313,
-          "title": "How to Build a GraphQL API in Django",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1744809748866/9a626cc9-4e67-4d63-bdde-1834180db645.png"
         }
       ]
     }

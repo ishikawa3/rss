@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-16T00:15:08.266Z</updated>
+    <updated>2025-05-17T00:14:36.431Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[HTML Email Accessibility Report 2025]]></title>
+        <id>https://css-tricks.com/?p=386631</id>
+        <link href="https://css-tricks.com/html-email-accessibility-report-2025/"/>
+        <updated>2025-05-16T14:38:19.000Z</updated>
+        <summary type="html"><![CDATA[Some weekend reading on the heels of Global Accessibility Awareness Day (GAADM), which took place yesterday. The Email Markup Consortium (EMC) released its 2025 study on the accessibility in HTML emails, and the TL;DR is …
+HTML Email Accessibility Report 2025 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building A Practical UX Strategy Framework]]></title>
+        <id>https://smashingmagazine.com/2025/05/building-practical-ux-strategy-framework/</id>
+        <link href="https://smashingmagazine.com/2025/05/building-practical-ux-strategy-framework/"/>
+        <updated>2025-05-16T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Learn how to create and implement a UX strategy framework that shapes work and drives real business value.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Paul Boag)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Scroll-Driven Animations Inside a CSS Carousel]]></title>
         <id>https://css-tricks.com/?p=386537</id>
@@ -1059,117 +1080,6 @@ The Lost CSS Tricks of Cohost.org originally published on CSS-Tricks, which is p
 So, You Want to Give Up CSS Pre- and Post-Processors… originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Zell Liew</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fostering An Accessibility Culture]]></title>
-        <id>https://smashingmagazine.com/2025/04/fostering-accessibility-culture/</id>
-        <link href="https://smashingmagazine.com/2025/04/fostering-accessibility-culture/"/>
-        <updated>2025-04-17T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[While there’s no definitive playbook for building an accessibility culture, Dani shares lessons from his experience in shaping it through habits rather than mandates.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Daniel Devesa Derksen-Staats)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Send Emails With Django]]></title>
-        <id>6800668866f05d926e4a7820</id>
-        <link href="https://www.freecodecamp.org/news/how-to-send-emails-with-django/"/>
-        <updated>2025-04-17T02:25:12.000Z</updated>
-        <summary type="html"><![CDATA[If you're building a Django app and you want to connect with users – maybe to welcome them, send password reset links, or deliver updates – email is one of the best tools you’ve got. Setting up email in Django might sound tricky at first, but it's pr...]]></summary>
-        <author>
-            <name>Udemezue John</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CTO vs. CPO: Roles and Responsibilities of Chief Technical Officer & Chief Product Officer]]></title>
-        <id>6800667b5221d22444debb70</id>
-        <link href="https://www.freecodecamp.org/news/cto-vs-cpo-roles-and-responsibilities-of-chief-technical-officer-and-chief-product-officer/"/>
-        <updated>2025-04-17T02:24:59.000Z</updated>
-        <summary type="html"><![CDATA[In the IT and product industries, the positions of Chief Technology Officer (CTO) and Chief Product Officer (CPO) are crucial. Although they take distinct approaches, they both prioritize customer satisfaction and corporate success. This article will...]]></summary>
-        <author>
-            <name>Nazneen Ahmad</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Serverless Architecture Handbook: How to Publish a Node Js Docker Image to AWS ECR and Deploy the Container to AWS Lambda]]></title>
-        <id>68006521c1f51bf42a74f4b0</id>
-        <link href="https://www.freecodecamp.org/news/serverless-architecture-with-aws-lambda/"/>
-        <updated>2025-04-17T02:19:13.000Z</updated>
-        <summary type="html"><![CDATA[Imagine you’re tasked with building a web application that can handle incoming traffic surges as your users grow without accumulating too much cost. Sounds like a dream, right? But here’s the thing: traditionally, to do this, you would have to manage...]]></summary>
-        <author>
-            <name>Prince Onukwili</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Create a JSON Web Token in the Django Rest Framework]]></title>
-        <id>67ffffdf95672e11eaf7719b</id>
-        <link href="https://www.freecodecamp.org/news/how-to-create-a-json-web-token-in-the-django-rest-framework/"/>
-        <updated>2025-04-16T19:07:11.000Z</updated>
-        <summary type="html"><![CDATA[When you're building an API, security should be at the top of your list. You want to make sure only the right people can access the right stuff – and that’s where authentication comes in. One of the most common and reliable ways to handle authenticat...]]></summary>
-        <author>
-            <name>Udemezue John</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An Animated Introduction to SQL – Learn to Query Relational Databases]]></title>
-        <id>67ffd01c61bb8e3a320b1eac</id>
-        <link href="https://www.freecodecamp.org/news/an-animated-introduction-to-sql-learn-to-query-relational-databases/"/>
-        <updated>2025-04-16T15:43:24.000Z</updated>
-        <summary type="html"><![CDATA[In this tutorial, you’ll learn about the Structured Query Language (SQL), the standard language used to query relational databases. SQL is not a traditional programming language. In Python or Java, you write step-by-step instructions that tell the co...]]></summary>
-        <author>
-            <name>Mark Mahoney</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a REST API in Django]]></title>
-        <id>67ffc4588a19b331e60a51d2</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-a-rest-api-in-django/"/>
-        <updated>2025-04-16T14:53:12.000Z</updated>
-        <summary type="html"><![CDATA[If you’re building a web or mobile app, chances are you’re going to need a way to send and receive data between your app and a server. That’s where REST APIs come in. They help apps talk to each other – kind of like a waiter taking your order and]]></summary>
-        <author>
-            <name>Udemezue John</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build RAG AI Agents with TypeScript]]></title>
-        <id>67ffc2a75667d9e59ef9bc61</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-rag-ai-agents-with-typescript/"/>
-        <updated>2025-04-16T14:45:59.000Z</updated>
-        <summary type="html"><![CDATA[The most powerful AI systems don’t just generate – they also retrieve, reason, and respond with context. Retrieval-Augmented Generation (RAG) is how we get there. It combines the strengths of search and generation to build more accurate, reliable, an...]]></summary>
-        <author>
-            <name>Maham Codes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Write Unit Tests and E2E Tests for NestJS Applications]]></title>
-        <id>67ffc1695667d9e59ef9bc46</id>
-        <link href="https://www.freecodecamp.org/news/nestjs-unit-testing-e2e-testing-guide/"/>
-        <updated>2025-04-16T14:40:41.000Z</updated>
-        <summary type="html"><![CDATA[Recently, I have been writing unit tests and E2E tests for a NestJS project. This was my first time writing tests for a backend project, and I found the process different from my experience with frontend testing, making it challenging to begin. After...]]></summary>
-        <author>
-            <name>Gordan Tan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a GraphQL API in Django]]></title>
-        <id>67ffaf1dde58821be3496dfb</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-a-graphql-api-in-django/"/>
-        <updated>2025-04-16T13:22:37.000Z</updated>
-        <summary type="html"><![CDATA[If you're building an app with Django and thinking about using GraphQL, you're not alone. REST has been the go-to for years, but GraphQL is quickly becoming a favourite option for developers who want more flexibility and less back-and-forth between f...]]></summary>
-        <author>
-            <name>Udemezue John</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Using CSS backdrop-filter for UI Effects]]></title>
-        <id>https://css-tricks.com/?p=385721</id>
-        <link href="https://css-tricks.com/using-css-backdrop-filter-for-ui-effects/"/>
-        <updated>2025-04-16T12:34:50.000Z</updated>
-        <summary type="html"><![CDATA[Tips and tricks on utilizing the CSS backdrop-filter property to style user interfaces. You’ll learn how to layer backdrop filters among multiple elements, and integrate them with other CSS graphical effects to create elaborate designs.
-Using CSS backdrop-filter for UI Effects originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Preethi</name>
         </author>
     </entry>
 </feed>
