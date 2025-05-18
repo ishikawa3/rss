@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-17T00:14:36.431Z</updated>
+    <updated>2025-05-18T00:16:22.190Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Canvas App Components: A Crash Course for Power Apps Developers]]></title>
+        <id>682779afad5694b25984f6b1</id>
+        <link href="https://www.freecodecamp.org/news/powerapps-component-crash-course/"/>
+        <updated>2025-05-16T17:45:19.000Z</updated>
+        <summary type="html"><![CDATA[If you have experience in traditional software development, low-code tools may feel a bit sparse at first. But to many people’s surprise, traditional techniques often translate quite well to low-code development. Not always one-for-one – but usually ...]]></summary>
+        <author>
+            <name>Brandon Wozniewicz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Write Math Equations in Google Docs]]></title>
+        <id>68275cf15ed8a1db0cf8769b</id>
+        <link href="https://www.freecodecamp.org/news/write-math-equations-in-google-docs/"/>
+        <updated>2025-05-16T15:42:41.000Z</updated>
+        <summary type="html"><![CDATA[Math equations are a critical part of academic papers, research reports, and technical documentation. While LaTeX is widely used for professional typesetting, Google Docs offers a robust set of features for inserting and formatting math equations and...]]></summary>
+        <author>
+            <name>Vikram Aruchamy</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[HTML Email Accessibility Report 2025]]></title>
         <id>https://css-tricks.com/?p=386631</id>
@@ -18,6 +38,16 @@ HTML Email Accessibility Report 2025 originally published on CSS-Tricks, which i
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[How to make Developer Friends When You Don't Live in Silicon Valley, with Iraqi Engineer Code;Life [Podcast #172]]]></title>
+        <id>68271ae2c90fa4a071c44a2b</id>
+        <link href="https://www.freecodecamp.org/news/how-to-make-developer-friends-when-you-dont-live-in-silicon-valley-with-iraqi-engineer-codelife-podcast-172/"/>
+        <updated>2025-05-16T11:00:50.000Z</updated>
+        <summary type="html"><![CDATA[On this week's episode of the podcast, freeCodeCamp founder Quincy Larson interviews software engineer and live coding streamer Code;Life.   For those of you watching the video version of this interview, she lives in Iraq and she uses a 3D avatar to ...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Building A Practical UX Strategy Framework]]></title>
         <id>https://smashingmagazine.com/2025/05/building-practical-ux-strategy-framework/</id>
         <link href="https://smashingmagazine.com/2025/05/building-practical-ux-strategy-framework/"/>
@@ -25,6 +55,16 @@ HTML Email Accessibility Report 2025 originally published on CSS-Tricks, which i
         <summary type="html"><![CDATA[Learn how to create and implement a UX strategy framework that shapes work and drives real business value.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Paul Boag)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn A1 Level Spanish]]></title>
+        <id>68269a8eb0cc91a6c87a682d</id>
+        <link href="https://www.freecodecamp.org/news/learn-a1-level-spanish/"/>
+        <updated>2025-05-16T01:53:18.000Z</updated>
+        <summary type="html"><![CDATA[Learning a new language can open doors to new cultures, connections, and opportunities, and Spanish is one of the most widely spoken languages in the world. Whether you're dreaming of traveling to Spanish-speaking countries, connecting with Spanish-s...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
         </author>
     </entry>
     <entry>
@@ -998,88 +1038,6 @@ The Lost CSS Tricks of Cohost.org originally published on CSS-Tricks, which is p
         <summary type="html"><![CDATA[Keyboard navigation is a vital aspect of accessible web design, and a detail-oriented approach is crucial. Prioritizing keyboard navigation prioritizes the user experience for a diverse audience, extending your reach while simultaneously fostering a more inclusive web environment.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Eleanor Hecks)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“Pretty” is in the eye of the beholder]]></title>
-        <id>https://css-tricks.com/?p=385848</id>
-        <link href="https://css-tricks.com/pretty-is-in-the-eye-of-the-beholder/"/>
-        <updated>2025-04-18T12:12:35.000Z</updated>
-        <summary type="html"><![CDATA[Yay, let's jump for text-wrap: pretty landing in Safari Technology Preview! But beware that it's different from how it works in Chromium browsers.
-“Pretty” is in the eye of the beholder originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn Laravel by Building a Medium Clone]]></title>
-        <id>68016b821cf57215a14fca5c</id>
-        <link href="https://www.freecodecamp.org/news/learn-laravel-by-building-a-medium-clone/"/>
-        <updated>2025-04-17T20:58:42.000Z</updated>
-        <summary type="html"><![CDATA[Laravel is a popular PHP web development framework known for its elegant syntax, developer-friendly tools, and built-in features for routing, authentication, and database interactions. It's an excellent choice for both beginners and experienced devel...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Data Loading with Python and AI]]></title>
-        <id>68016ae0a7699ff474c9f1d0</id>
-        <link href="https://www.freecodecamp.org/news/data-loading-with-python-and-ai/"/>
-        <updated>2025-04-17T20:56:00.000Z</updated>
-        <summary type="html"><![CDATA[Modern data pipelines are the backbone of data engineering, enabling organizations to collect, process, and leverage massive volumes of information efficiently. But building and maintaining these pipelines isn't always straightforward. From API rate ...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Copy Objects in Python]]></title>
-        <id>68014f101e21d8d8454b2cf5</id>
-        <link href="https://www.freecodecamp.org/news/how-to-copy-objects-in-python/"/>
-        <updated>2025-04-17T18:57:20.000Z</updated>
-        <summary type="html"><![CDATA[In this tutorial, you’ll learn about copying objects in Python using the copy module. We’ll cover how to use the copy module and when to use its copy() function and deepcopy() function, depending on the scenario. You’ll also learn which way of copyin...]]></summary>
-        <author>
-            <name>Sara Jadhav</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Scale TestOps for Global Software Development Teams]]></title>
-        <id>6801211371255f2b14ea901b</id>
-        <link href="https://www.freecodecamp.org/news/scale-testops-for-global-software-development-teams/"/>
-        <updated>2025-04-17T15:41:07.000Z</updated>
-        <summary type="html"><![CDATA[Imagine that your software team is spread across the globe—developers in the US, testers in Asia, and managers in Europe. Exciting, right? But managing this setup is no walk in the park. Coordinating testing across time zones, tools, and workflows ca...]]></summary>
-        <author>
-            <name>Nazneen Ahmad</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Public Grafana-based Solar Monitoring Dashboard in Home Assistant]]></title>
-        <id>68010bea439877985a5bf3e2</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-a-public-grafana-based-solar-monitoring-dashboard-in-home-assistant/"/>
-        <updated>2025-04-17T14:10:50.000Z</updated>
-        <summary type="html"><![CDATA[If you have a solar inverter setup, one thing you would agree on with me is that data from your solar inverter setup is really important. Another thing that is also important is having a way to show what your energy generation, consumption, and so on...]]></summary>
-        <author>
-            <name>Daniel Anomfueme</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Developer's Guide to Protecting Personal Data: Best Practices and Tools]]></title>
-        <id>680102ccf67e471495d5a624</id>
-        <link href="https://www.freecodecamp.org/news/developers-guide-to-protecting-personal-data/"/>
-        <updated>2025-04-17T13:31:56.000Z</updated>
-        <summary type="html"><![CDATA[Think about it: you're sitting there enjoying your morning coffee, reading the headlines when again another data breach is making headlines. Millions of users' personal information – gone. You can't help but cringe as a developer at the prospect. Cou...]]></summary>
-        <author>
-            <name>Alex Tray</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[So, You Want to Give Up CSS Pre- and Post-Processors…]]></title>
-        <id>https://css-tricks.com/?p=385199</id>
-        <link href="https://css-tricks.com/so-you-want-to-give-up-css-pre-and-post-processors/"/>
-        <updated>2025-04-17T12:38:05.000Z</updated>
-        <summary type="html"><![CDATA[There was once upon a time when native CSS lacked many essential features, leaving developers to come up with all sorts of ways to make CSS easier to write over the years.
-So, You Want to Give Up CSS Pre- and Post-Processors… originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Zell Liew</name>
         </author>
     </entry>
 </feed>

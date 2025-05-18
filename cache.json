@@ -155,26 +155,6 @@
           "wordCount": 3800,
           "title": "The Lost CSS Tricks of Cohost.org",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/12/css-star-variations.jpg"
-        },
-        {
-          "id": "https://css-tricks.com/?p=385848",
-          "author": "Geoff Graham",
-          "description": "Yay, let's jump for text-wrap: pretty landing in Safari Technology Preview! But beware that it's different from how it works in Chromium browsers.\n“Pretty” is in the eye of the beholder originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/pretty-is-in-the-eye-of-the-beholder/",
-          "publishedOn": "2025-04-18T12:12:35.000Z",
-          "wordCount": 2232,
-          "title": "“Pretty” is in the eye of the beholder",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/04/bad-typography-SM-light.png"
-        },
-        {
-          "id": "https://css-tricks.com/?p=385199",
-          "author": "Zell Liew",
-          "description": "There was once upon a time when native CSS lacked many essential features, leaving developers to come up with all sorts of ways to make CSS easier to write over the years.\nSo, You Want to Give Up CSS Pre- and Post-Processors… originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/so-you-want-to-give-up-css-pre-and-post-processors/",
-          "publishedOn": "2025-04-17T12:38:05.000Z",
-          "wordCount": 3069,
-          "title": "So, You Want to Give Up CSS Pre- and Post-Processors…",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/09/sass-logo.png"
         }
       ]
     },
@@ -430,6 +410,46 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "682779afad5694b25984f6b1",
+          "author": "Brandon Wozniewicz",
+          "description": "If you have experience in traditional software development, low-code tools may feel a bit sparse at first. But to many people’s surprise, traditional techniques often translate quite well to low-code development. Not always one-for-one – but usually ...",
+          "link": "https://www.freecodecamp.org/news/powerapps-component-crash-course/",
+          "publishedOn": "2025-05-16T17:45:19.000Z",
+          "wordCount": 2022,
+          "title": "Canvas App Components: A Crash Course for Power Apps Developers",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1747410099474/8471a651-503f-4ced-a172-7dadac930039.png"
+        },
+        {
+          "id": "68275cf15ed8a1db0cf8769b",
+          "author": "Vikram Aruchamy",
+          "description": "Math equations are a critical part of academic papers, research reports, and technical documentation. While LaTeX is widely used for professional typesetting, Google Docs offers a robust set of features for inserting and formatting math equations and...",
+          "link": "https://www.freecodecamp.org/news/write-math-equations-in-google-docs/",
+          "publishedOn": "2025-05-16T15:42:41.000Z",
+          "wordCount": 2830,
+          "title": "How to Write Math Equations in Google Docs",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1747410133881/93c8cf6e-6cbb-4890-8023-fcc2fdaa0fa2.png"
+        },
+        {
+          "id": "68271ae2c90fa4a071c44a2b",
+          "author": "Beau Carnes",
+          "description": "On this week's episode of the podcast, freeCodeCamp founder Quincy Larson interviews software engineer and live coding streamer Code;Life.   For those of you watching the video version of this interview, she lives in Iraq and she uses a 3D avatar to ...",
+          "link": "https://www.freecodecamp.org/news/how-to-make-developer-friends-when-you-dont-live-in-silicon-valley-with-iraqi-engineer-codelife-podcast-172/",
+          "publishedOn": "2025-05-16T11:00:50.000Z",
+          "wordCount": 1128,
+          "title": "How to make Developer Friends When You Don't Live in Silicon Valley, with Iraqi Engineer Code;Life [Podcast #172]",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1747360508340/f07040cd-3eeb-443c-b4fb-370f6a4a14da.png"
+        },
+        {
+          "id": "68269a8eb0cc91a6c87a682d",
+          "author": "Beau Carnes",
+          "description": "Learning a new language can open doors to new cultures, connections, and opportunities, and Spanish is one of the most widely spoken languages in the world. Whether you're dreaming of traveling to Spanish-speaking countries, connecting with Spanish-s...",
+          "link": "https://www.freecodecamp.org/news/learn-a1-level-spanish/",
+          "publishedOn": "2025-05-16T01:53:18.000Z",
+          "wordCount": 1172,
+          "title": "Learn A1 Level Spanish",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1747360364930/078ee25a-9943-44c8-bef0-85626aa97515.png"
+        },
         {
           "id": "6824f1ac04a60b4a58654ddc",
           "author": "Dhruv Prajapati",
@@ -1109,66 +1129,6 @@
           "wordCount": 1895,
           "title": "How to Use Celery in Django",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1744994231247/63228755-1929-4474-9930-15f8ff1a5631.png"
-        },
-        {
-          "id": "68016b821cf57215a14fca5c",
-          "author": "Beau Carnes",
-          "description": "Laravel is a popular PHP web development framework known for its elegant syntax, developer-friendly tools, and built-in features for routing, authentication, and database interactions. It's an excellent choice for both beginners and experienced devel...",
-          "link": "https://www.freecodecamp.org/news/learn-laravel-by-building-a-medium-clone/",
-          "publishedOn": "2025-04-17T20:58:42.000Z",
-          "wordCount": 1231,
-          "title": "Learn Laravel by Building a Medium Clone",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1744923486796/26044ea1-7eaf-4e33-b20f-8519ea197d44.png"
-        },
-        {
-          "id": "68016ae0a7699ff474c9f1d0",
-          "author": "Beau Carnes",
-          "description": "Modern data pipelines are the backbone of data engineering, enabling organizations to collect, process, and leverage massive volumes of information efficiently. But building and maintaining these pipelines isn't always straightforward. From API rate ...",
-          "link": "https://www.freecodecamp.org/news/data-loading-with-python-and-ai/",
-          "publishedOn": "2025-04-17T20:56:00.000Z",
-          "wordCount": 1287,
-          "title": "Data Loading with Python and AI",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1744923345695/c75fb9d7-4552-439a-9550-9c2d63be940d.png"
-        },
-        {
-          "id": "68014f101e21d8d8454b2cf5",
-          "author": "Sara Jadhav",
-          "description": "In this tutorial, you’ll learn about copying objects in Python using the copy module. We’ll cover how to use the copy module and when to use its copy() function and deepcopy() function, depending on the scenario. You’ll also learn which way of copyin...",
-          "link": "https://www.freecodecamp.org/news/how-to-copy-objects-in-python/",
-          "publishedOn": "2025-04-17T18:57:20.000Z",
-          "wordCount": 2956,
-          "title": "How to Copy Objects in Python",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1744913871670/5ed210bd-1d42-436e-907b-5b304010dbd7.png"
-        },
-        {
-          "id": "6801211371255f2b14ea901b",
-          "author": "Nazneen Ahmad",
-          "description": "Imagine that your software team is spread across the globe—developers in the US, testers in Asia, and managers in Europe. Exciting, right? But managing this setup is no walk in the park. Coordinating testing across time zones, tools, and workflows ca...",
-          "link": "https://www.freecodecamp.org/news/scale-testops-for-global-software-development-teams/",
-          "publishedOn": "2025-04-17T15:41:07.000Z",
-          "wordCount": 5965,
-          "title": "How to Scale TestOps for Global Software Development Teams",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1744904445449/18f469d0-b066-4709-a463-4f378802615d.png"
-        },
-        {
-          "id": "68010bea439877985a5bf3e2",
-          "author": "Daniel Anomfueme",
-          "description": "If you have a solar inverter setup, one thing you would agree on with me is that data from your solar inverter setup is really important. Another thing that is also important is having a way to show what your energy generation, consumption, and so on...",
-          "link": "https://www.freecodecamp.org/news/how-to-build-a-public-grafana-based-solar-monitoring-dashboard-in-home-assistant/",
-          "publishedOn": "2025-04-17T14:10:50.000Z",
-          "wordCount": 2826,
-          "title": "How to Build a Public Grafana-based Solar Monitoring Dashboard in Home Assistant",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1744899028552/8ad3f3c4-9b25-473d-b539-14dcb2f2b241.png"
-        },
-        {
-          "id": "680102ccf67e471495d5a624",
-          "author": "Alex Tray",
-          "description": "Think about it: you're sitting there enjoying your morning coffee, reading the headlines when again another data breach is making headlines. Millions of users' personal information – gone. You can't help but cringe as a developer at the prospect. Cou...",
-          "link": "https://www.freecodecamp.org/news/developers-guide-to-protecting-personal-data/",
-          "publishedOn": "2025-04-17T13:31:56.000Z",
-          "wordCount": 2358,
-          "title": "A Developer's Guide to Protecting Personal Data: Best Practices and Tools",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1744839185611/b3e49efc-6eee-4a0b-9522-20407b1782e3.png"
         }
       ]
     }
