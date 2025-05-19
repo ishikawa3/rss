@@ -387,21 +387,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/building-offline-friendly-image-upload-system/building-offline-friendly-image-upload-system.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2025/04/what-mean-site-be-keyboard-navigable/",
-          "author": "hello@smashingmagazine.com (Eleanor Hecks)",
-          "description": "Keyboard navigation is a vital aspect of accessible web design, and a detail-oriented approach is crucial. Prioritizing keyboard navigation prioritizes the user experience for a diverse audience, extending your reach while simultaneously fostering a more inclusive web environment.",
-          "link": "https://smashingmagazine.com/2025/04/what-mean-site-be-keyboard-navigable/",
-          "publishedOn": "2025-04-18T13:00:00.000Z",
-          "wordCount": 4303,
-          "title": "What Does It Really Mean For A Site To Be Keyboard Navigable",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/what-mean-site-be-keyboard-navigable/what-mean-site-be-keyboard-navigable.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/what-mean-site-be-keyboard-navigable/what-mean-site-be-keyboard-navigable.jpg"
         }
       ]
     },
@@ -1109,26 +1094,6 @@
           "wordCount": 1055,
           "title": "From fast food worker to cybersecurity engineer with Tae'lur Alexis [Podcast #169]",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1745242807605/8a6cf71c-144f-4c91-9532-62d7c92c0f65.png"
-        },
-        {
-          "id": "68027fe54ea28168254d68b0",
-          "author": "Udemezue John",
-          "description": "If you're working on a Django project and you want to make your life easier – especially when it comes to running your app across different environments – Docker is your new best friend. Docker makes it possible to package your Django app, along with...",
-          "link": "https://www.freecodecamp.org/news/how-to-dockerize-your-django-project/",
-          "publishedOn": "2025-04-18T16:37:57.000Z",
-          "wordCount": 1828,
-          "title": "How to Dockerize Your Django Project",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1744994272728/248cef70-5f8e-46fd-a640-66852ffda7d2.png"
-        },
-        {
-          "id": "68027fc44d4422c6f797b252",
-          "author": "Udemezue John",
-          "description": "You’ve probably noticed that some tasks in your Django app seem to take a long time. For example, maybe sending confirmation emails, resizing images, or processing large data files slows things down. The good news? You don’t have to sit around waitin...",
-          "link": "https://www.freecodecamp.org/news/how-to-use-celery-in-django/",
-          "publishedOn": "2025-04-18T16:37:24.000Z",
-          "wordCount": 1895,
-          "title": "How to Use Celery in Django",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1744994231247/63228755-1929-4474-9930-15f8ff1a5631.png"
         }
       ]
     }

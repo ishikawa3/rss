@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-18T00:16:22.190Z</updated>
+    <updated>2025-05-19T00:16:15.043Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
@@ -1008,36 +1008,6 @@ The Lost CSS Tricks of Cohost.org originally published on CSS-Tricks, which is p
         <summary type="html"><![CDATA[On this week's episode of the podcast, I interview Tae'lur Alexis. She's a developer and security analyst. Instead of going to college, Tae'lur spent years working various fast food and retail jobs. Tae'lur taught herself Python and JavaScript using ...]]></summary>
         <author>
             <name>Quincy Larson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Dockerize Your Django Project]]></title>
-        <id>68027fe54ea28168254d68b0</id>
-        <link href="https://www.freecodecamp.org/news/how-to-dockerize-your-django-project/"/>
-        <updated>2025-04-18T16:37:57.000Z</updated>
-        <summary type="html"><![CDATA[If you're working on a Django project and you want to make your life easier – especially when it comes to running your app across different environments – Docker is your new best friend. Docker makes it possible to package your Django app, along with...]]></summary>
-        <author>
-            <name>Udemezue John</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use Celery in Django]]></title>
-        <id>68027fc44d4422c6f797b252</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-celery-in-django/"/>
-        <updated>2025-04-18T16:37:24.000Z</updated>
-        <summary type="html"><![CDATA[You’ve probably noticed that some tasks in your Django app seem to take a long time. For example, maybe sending confirmation emails, resizing images, or processing large data files slows things down. The good news? You don’t have to sit around waitin...]]></summary>
-        <author>
-            <name>Udemezue John</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Does It Really Mean For A Site To Be Keyboard Navigable]]></title>
-        <id>https://smashingmagazine.com/2025/04/what-mean-site-be-keyboard-navigable/</id>
-        <link href="https://smashingmagazine.com/2025/04/what-mean-site-be-keyboard-navigable/"/>
-        <updated>2025-04-18T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Keyboard navigation is a vital aspect of accessible web design, and a detail-oriented approach is crucial. Prioritizing keyboard navigation prioritizes the user experience for a diverse audience, extending your reach while simultaneously fostering a more inclusive web environment.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Eleanor Hecks)</name>
         </author>
     </entry>
 </feed>
