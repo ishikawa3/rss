@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=386580",
+          "author": "Juan Diego Rodríguez",
+          "description": "Answering a reader's question about how to create a complex numbering system with CSS list counters.\nA Reader’s Question on Nested Lists originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/a-readers-question-on-nested-lists/",
+          "publishedOn": "2025-05-19T12:32:22.000Z",
+          "wordCount": 3109,
+          "title": "A Reader’s Question on Nested Lists",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2022/11/html-lists.jpg"
+        },
+        {
           "id": "https://css-tricks.com/?p=386631",
           "author": "Geoff Graham",
           "description": "Some weekend reading on the heels of Global Accessibility Awareness Day (GAADM), which took place yesterday. The Email Markup Consortium (EMC) released its 2025 study on the accessibility in HTML emails, and the TL;DR is …\nHTML Email Accessibility Report 2025 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -163,6 +173,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2025/05/design-system-in-90-days/",
+          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
+          "description": "Helpful PDF worksheets and tools to get the design system effort up and running — and adopted! Kindly powered by How To Measure UX and Design Impact, a friendly course on how to show the impact of your incredible UX work on business.",
+          "link": "https://smashingmagazine.com/2025/05/design-system-in-90-days/",
+          "publishedOn": "2025-05-19T10:00:00.000Z",
+          "wordCount": 3367,
+          "title": "Design System In 90 Days",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/design-system-in-90-days/design-system-in-90-days.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/design-system-in-90-days/design-system-in-90-days.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2025/05/building-practical-ux-strategy-framework/",
           "author": "hello@smashingmagazine.com (Paul Boag)",
@@ -395,6 +420,16 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "682b3930e99a22ce9f9199c8",
+          "author": "Manish Shivanandhan",
+          "description": "Passwords are the keys to your digital life  –  email, bank accounts, social media, and even your workplace systems. Unfortunately, they’re also one of the weakest links in cybersecurity.  Every year, billions of credentials are stolen and sold on th...",
+          "link": "https://www.freecodecamp.org/news/how-cybercriminals-crack-your-passwords-and-how-to-stay-one-step-ahead/",
+          "publishedOn": "2025-05-19T13:59:12.000Z",
+          "wordCount": 1975,
+          "title": "How Cybercriminals Crack Your Passwords (And How to Stay One Step Ahead)",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1747663111032/84a5cdc6-3d13-49e9-bc65-f2b7d0a51ad9.png"
+        },
         {
           "id": "682779afad5694b25984f6b1",
           "author": "Brandon Wozniewicz",
