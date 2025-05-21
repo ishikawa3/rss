@@ -421,6 +421,16 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "682ca2c574938e5428551845",
+          "author": "Beau Carnes",
+          "description": "If you're building conversational AI and tired of messy logic or hard-to-scale workflows, LangGraph makes it easier. It uses graphs to manage dialogue flow, so your bots stay organized even as they get more complex. Great for anything from support ag...",
+          "link": "https://www.freecodecamp.org/news/learn-langgraph-and-build-conversational-ai-with-python/",
+          "publishedOn": "2025-05-20T15:41:57.000Z",
+          "wordCount": 1133,
+          "title": "Learn LangGraph and Build Conversational AI with Python",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1747755679385/a984244e-b0a8-4431-8090-75db806e9616.png"
+        },
+        {
           "id": "682b3930e99a22ce9f9199c8",
           "author": "Manish Shivanandhan",
           "description": "Passwords are the keys to your digital life  –  email, bank accounts, social media, and even your workplace systems. Unfortunately, they’re also one of the weakest links in cybersecurity.  Every year, billions of credentials are stolen and sold on th...",

@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-20T00:15:39.354Z</updated>
+    <updated>2025-05-21T00:15:25.656Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Learn LangGraph and Build Conversational AI with Python]]></title>
+        <id>682ca2c574938e5428551845</id>
+        <link href="https://www.freecodecamp.org/news/learn-langgraph-and-build-conversational-ai-with-python/"/>
+        <updated>2025-05-20T15:41:57.000Z</updated>
+        <summary type="html"><![CDATA[If you're building conversational AI and tired of messy logic or hard-to-scale workflows, LangGraph makes it easier. It uses graphs to manage dialogue flow, so your bots stay organized even as they get more complex. Great for anything from support ag...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How Cybercriminals Crack Your Passwords (And How to Stay One Step Ahead)]]></title>
         <id>682b3930e99a22ce9f9199c8</id>
