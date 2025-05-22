@@ -2,10 +2,71 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-21T00:15:25.656Z</updated>
+    <updated>2025-05-22T00:15:12.327Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Master Database Management Systems]]></title>
+        <id>682e3c04117e792e5f46edc3</id>
+        <link href="https://www.freecodecamp.org/news/master-database-management-systems/"/>
+        <updated>2025-05-21T20:48:04.000Z</updated>
+        <summary type="html"><![CDATA[Understanding how to manage data effectively is a critical skill for anyone pursuing a career in tech. And we just published a course on the freeCodeCamp.org YouTube channel that will teach you all about Database Management Systems (DBMS). This in-de...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Refactor Complex Codebases – A Practical Guide for Devs]]></title>
+        <id>682df5a0f2057ab279952dbe</id>
+        <link href="https://www.freecodecamp.org/news/how-to-refactor-complex-codebases/"/>
+        <updated>2025-05-21T15:47:44.000Z</updated>
+        <summary type="html"><![CDATA[Developers often see refactoring as a secondary concern that they can delay indefinitely because it doesn’t immediately contribute to revenue or feature development. And managers frequently view refactoring as "not a business need" until it boils ove...]]></summary>
+        <author>
+            <name>Ankur Tyagi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Will “Vibe Coders” Take Our Dev Jobs?]]></title>
+        <id>682df55da72360814bcae9ef</id>
+        <link href="https://www.freecodecamp.org/news/will-vibe-coders-take-our-dev-jobs/"/>
+        <updated>2025-05-21T15:46:37.000Z</updated>
+        <summary type="html"><![CDATA[AI is disrupting all industries at a pace not seen at any time in history. Technologies and industries that were once dominated by one or two companies or were very much “human-focused” are coming under threat. Google is losing ground to AI search, t...]]></summary>
+        <author>
+            <name>Ben</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How JavaScript Lint Rules Work (and Why Abstract Syntax Trees Matter)]]></title>
+        <id>682def7ddd9c9fdc3dae95cf</id>
+        <link href="https://www.freecodecamp.org/news/how-javascript-lint-rules-work-and-why-abstract-syntax-trees-matter/"/>
+        <updated>2025-05-21T15:21:33.000Z</updated>
+        <summary type="html"><![CDATA[Before I started to contribute to eslint-plugin-react, I didn’t think too deeply about the linters I used every day while writing code. Like many developers, I installed them at the start of a project, appreciated the red underlines or auto-fixes, an...]]></summary>
+        <author>
+            <name>Tilda Udufo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SVG to CSS Shape Converter]]></title>
+        <id>https://css-tricks.com/?p=386716</id>
+        <link href="https://css-tricks.com/svg-to-css-shape-converter/"/>
+        <updated>2025-05-21T15:09:29.000Z</updated>
+        <summary type="html"><![CDATA[Shape master Temani Afif has what might be the largest collection of CSS shapes on the planet with all the tools to generate them on the fly. There’s a mix of clever techniques he’s typically used to make those shapes, …
+SVG to CSS Shape Converter originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Smashing Animations Part 3: SMIL’s Not Dead Baby, SMIL’s Not Dead]]></title>
+        <id>https://smashingmagazine.com/2025/05/smashing-animations-part-3-smil-not-dead/</id>
+        <link href="https://smashingmagazine.com/2025/05/smashing-animations-part-3-smil-not-dead/"/>
+        <updated>2025-05-21T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[While there are plenty of ways that CSS animations can bring designs to life, adding simple SMIL (Synchronized Multimedia Integration Language) animations in SVG can help them do much more. Andy Clarke explains where SMIL animations in SVG take over where CSS leaves off.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Andy Clarke)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Learn LangGraph and Build Conversational AI with Python]]></title>
         <id>682ca2c574938e5428551845</id>
@@ -999,56 +1060,6 @@ The Lost CSS Tricks of Cohost.org originally published on CSS-Tricks, which is p
         <summary type="html"><![CDATA[When conferences organize events, they seek knowledgeable speakers to share insights that educate, inspire, and engage attendees. They discover and select speakers through a Call for Proposals (CFP), an open invitation for experts to submit talk idea...]]></summary>
         <author>
             <name>Sule-Balogun Olanrewaju</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Makes Code Vulnerable – And How to Fix It]]></title>
-        <id>680679690b7357fefc92cf6b</id>
-        <link href="https://www.freecodecamp.org/news/what-makes-code-vulnerable-and-how-to-fix-it/"/>
-        <updated>2025-04-21T16:59:21.000Z</updated>
-        <summary type="html"><![CDATA[Writing code is relatively easy. But writing secure code is much harder. The truth is, most developers don’t realize their code is vulnerable until something breaks. Or, worse, until someone attacks it. So if you want secure code, you first have to k...]]></summary>
-        <author>
-            <name>Manish Shivanandhan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Export Your Database in Django]]></title>
-        <id>680663026f6aa321e86950fd</id>
-        <link href="https://www.freecodecamp.org/news/how-to-export-your-database-in-django/"/>
-        <updated>2025-04-21T15:23:46.000Z</updated>
-        <summary type="html"><![CDATA[When you're working on a Django project – whether it's a small side project or a growing web app – there comes a point where you need to export your database. Maybe you’re switching hosting providers. Maybe you're backing things up or sharing data wi...]]></summary>
-        <author>
-            <name>Udemezue John</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build Autonomous Agents using Prompt Chaining with AI Primitives (No Frameworks)]]></title>
-        <id>680662c3d6b81962a8fc5351</id>
-        <link href="https://www.freecodecamp.org/news/build-autonomous-agents-using-prompt-chaining-with-ai-primitives/"/>
-        <updated>2025-04-21T15:22:42.000Z</updated>
-        <summary type="html"><![CDATA[Autonomous agents might sound complex, but they don’t have to be. These are AI systems that can make decisions and take actions on their own to achieve a goal – usually by using LLMs, various tools, and memory to reason through a task. You can build ...]]></summary>
-        <author>
-            <name>Maham Codes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn REST API Principles by Building an Express App]]></title>
-        <id>68066255e4a48bef99b3c63e</id>
-        <link href="https://www.freecodecamp.org/news/learn-rest-api-principles-by-building-an-express-app/"/>
-        <updated>2025-04-21T15:20:53.000Z</updated>
-        <summary type="html"><![CDATA[Web development revolves around communication – communication between browsers and servers, as well as frontend applications and backends. At the centre of this is the API. And the REST architecture has become a popular way to design APIs that are cl...]]></summary>
-        <author>
-            <name>Ikegah Oliver</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[From fast food worker to cybersecurity engineer with Tae'lur Alexis [Podcast #169]]]></title>
-        <id>68064ada755dfd259536f463</id>
-        <link href="https://www.freecodecamp.org/news/from-fast-food-worker-to-cybersecurity-engineer-with-taelur-alexis-podcast-169/"/>
-        <updated>2025-04-21T13:40:42.000Z</updated>
-        <summary type="html"><![CDATA[On this week's episode of the podcast, I interview Tae'lur Alexis. She's a developer and security analyst. Instead of going to college, Tae'lur spent years working various fast food and retail jobs. Tae'lur taught herself Python and JavaScript using ...]]></summary>
-        <author>
-            <name>Quincy Larson</name>
         </author>
     </entry>
 </feed>

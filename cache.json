@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=386716",
+          "author": "Geoff Graham",
+          "description": "Shape master Temani Afif has what might be the largest collection of CSS shapes on the planet with all the tools to generate them on the fly. There’s a mix of clever techniques he’s typically used to make those shapes, …\nSVG to CSS Shape Converter originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/svg-to-css-shape-converter/",
+          "publishedOn": "2025-05-21T15:09:29.000Z",
+          "wordCount": 2052,
+          "title": "SVG to CSS Shape Converter",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/08/adaptive-icons.png"
+        },
+        {
           "id": "https://css-tricks.com/?p=386580",
           "author": "Juan Diego Rodríguez",
           "description": "Answering a reader's question about how to create a complex numbering system with CSS list counters.\nA Reader’s Question on Nested Lists originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -173,6 +183,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2025/05/smashing-animations-part-3-smil-not-dead/",
+          "author": "hello@smashingmagazine.com (Andy Clarke)",
+          "description": "While there are plenty of ways that CSS animations can bring designs to life, adding simple SMIL (Synchronized Multimedia Integration Language) animations in SVG can help them do much more. Andy Clarke explains where SMIL animations in SVG take over where CSS leaves off.",
+          "link": "https://smashingmagazine.com/2025/05/smashing-animations-part-3-smil-not-dead/",
+          "publishedOn": "2025-05-21T08:00:00.000Z",
+          "wordCount": 5462,
+          "title": "Smashing Animations Part 3: SMIL’s Not Dead Baby, SMIL’s Not Dead",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/smashing-animations-part-3-smil-not-dead/smashing-animations-part-3-smil-not-dead.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/smashing-animations-part-3-smil-not-dead/smashing-animations-part-3-smil-not-dead.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2025/05/design-system-in-90-days/",
           "author": "hello@smashingmagazine.com (Vitaly Friedman)",
@@ -420,6 +445,46 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "682e3c04117e792e5f46edc3",
+          "author": "Beau Carnes",
+          "description": "Understanding how to manage data effectively is a critical skill for anyone pursuing a career in tech. And we just published a course on the freeCodeCamp.org YouTube channel that will teach you all about Database Management Systems (DBMS). This in-de...",
+          "link": "https://www.freecodecamp.org/news/master-database-management-systems/",
+          "publishedOn": "2025-05-21T20:48:04.000Z",
+          "wordCount": 1140,
+          "title": "Master Database Management Systems",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1747860464669/5108d573-7180-45da-83d5-0144ce3e26ea.png"
+        },
+        {
+          "id": "682df5a0f2057ab279952dbe",
+          "author": "Ankur Tyagi",
+          "description": "Developers often see refactoring as a secondary concern that they can delay indefinitely because it doesn’t immediately contribute to revenue or feature development. And managers frequently view refactoring as \"not a business need\" until it boils ove...",
+          "link": "https://www.freecodecamp.org/news/how-to-refactor-complex-codebases/",
+          "publishedOn": "2025-05-21T15:47:44.000Z",
+          "wordCount": 6094,
+          "title": "How to Refactor Complex Codebases – A Practical Guide for Devs",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1747835131515/f6ea465a-9b14-4918-8943-87ec225b19b3.png"
+        },
+        {
+          "id": "682df55da72360814bcae9ef",
+          "author": "Ben",
+          "description": "AI is disrupting all industries at a pace not seen at any time in history. Technologies and industries that were once dominated by one or two companies or were very much “human-focused” are coming under threat. Google is losing ground to AI search, t...",
+          "link": "https://www.freecodecamp.org/news/will-vibe-coders-take-our-dev-jobs/",
+          "publishedOn": "2025-05-21T15:46:37.000Z",
+          "wordCount": 3408,
+          "title": "Will “Vibe Coders” Take Our Dev Jobs?",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1747835351675/3d178f26-c528-48b8-8ac2-32811a5672cf.png"
+        },
+        {
+          "id": "682def7ddd9c9fdc3dae95cf",
+          "author": "Tilda Udufo",
+          "description": "Before I started to contribute to eslint-plugin-react, I didn’t think too deeply about the linters I used every day while writing code. Like many developers, I installed them at the start of a project, appreciated the red underlines or auto-fixes, an...",
+          "link": "https://www.freecodecamp.org/news/how-javascript-lint-rules-work-and-why-abstract-syntax-trees-matter/",
+          "publishedOn": "2025-05-21T15:21:33.000Z",
+          "wordCount": 2900,
+          "title": "How JavaScript Lint Rules Work (and Why Abstract Syntax Trees Matter)",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1747835156597/f30994d4-f4da-4100-af25-9f858c015aa8.png"
+        },
         {
           "id": "682ca2c574938e5428551845",
           "author": "Beau Carnes",
@@ -1089,56 +1154,6 @@
           "wordCount": 3714,
           "title": "How to Write a Good Conference Talk Proposal – CFP Guide",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1745329255973/f4fbb77f-8cab-4c29-bdd0-2791037bc6fd.png"
-        },
-        {
-          "id": "680679690b7357fefc92cf6b",
-          "author": "Manish Shivanandhan",
-          "description": "Writing code is relatively easy. But writing secure code is much harder. The truth is, most developers don’t realize their code is vulnerable until something breaks. Or, worse, until someone attacks it. So if you want secure code, you first have to k...",
-          "link": "https://www.freecodecamp.org/news/what-makes-code-vulnerable-and-how-to-fix-it/",
-          "publishedOn": "2025-04-21T16:59:21.000Z",
-          "wordCount": 2376,
-          "title": "What Makes Code Vulnerable – And How to Fix It",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1745251285687/7ce5aca0-1edc-49e4-879d-b5690cbb64ea.png"
-        },
-        {
-          "id": "680663026f6aa321e86950fd",
-          "author": "Udemezue John",
-          "description": "When you're working on a Django project – whether it's a small side project or a growing web app – there comes a point where you need to export your database. Maybe you’re switching hosting providers. Maybe you're backing things up or sharing data wi...",
-          "link": "https://www.freecodecamp.org/news/how-to-export-your-database-in-django/",
-          "publishedOn": "2025-04-21T15:23:46.000Z",
-          "wordCount": 1907,
-          "title": "How to Export Your Database in Django",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1745248996492/6d3f5665-3329-4894-9f99-3ba257867e0d.png"
-        },
-        {
-          "id": "680662c3d6b81962a8fc5351",
-          "author": "Maham Codes",
-          "description": "Autonomous agents might sound complex, but they don’t have to be. These are AI systems that can make decisions and take actions on their own to achieve a goal – usually by using LLMs, various tools, and memory to reason through a task. You can build ...",
-          "link": "https://www.freecodecamp.org/news/build-autonomous-agents-using-prompt-chaining-with-ai-primitives/",
-          "publishedOn": "2025-04-21T15:22:42.000Z",
-          "wordCount": 3307,
-          "title": "How to Build Autonomous Agents using Prompt Chaining with AI Primitives (No Frameworks)",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1745248868960/12efd5ab-3d9b-4c93-979f-45bde796639b.png"
-        },
-        {
-          "id": "68066255e4a48bef99b3c63e",
-          "author": "Ikegah Oliver",
-          "description": "Web development revolves around communication – communication between browsers and servers, as well as frontend applications and backends. At the centre of this is the API. And the REST architecture has become a popular way to design APIs that are cl...",
-          "link": "https://www.freecodecamp.org/news/learn-rest-api-principles-by-building-an-express-app/",
-          "publishedOn": "2025-04-21T15:20:53.000Z",
-          "wordCount": 3756,
-          "title": "Learn REST API Principles by Building an Express App",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1745003938509/442fd99e-d098-4a5a-98d7-94c4af9a5d55.png"
-        },
-        {
-          "id": "68064ada755dfd259536f463",
-          "author": "Quincy Larson",
-          "description": "On this week's episode of the podcast, I interview Tae'lur Alexis. She's a developer and security analyst. Instead of going to college, Tae'lur spent years working various fast food and retail jobs. Tae'lur taught herself Python and JavaScript using ...",
-          "link": "https://www.freecodecamp.org/news/from-fast-food-worker-to-cybersecurity-engineer-with-taelur-alexis-podcast-169/",
-          "publishedOn": "2025-04-21T13:40:42.000Z",
-          "wordCount": 1055,
-          "title": "From fast food worker to cybersecurity engineer with Tae'lur Alexis [Podcast #169]",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1745242807605/8a6cf71c-144f-4c91-9532-62d7c92c0f65.png"
         }
       ]
     }
