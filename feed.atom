@@ -2,10 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-22T00:15:12.327Z</updated>
+    <updated>2025-05-23T00:15:01.576Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Learn Vue.js in This Beginner's Course]]></title>
+        <id>682f84537a13a40bfa336307</id>
+        <link href="https://www.freecodecamp.org/news/learn-vuejs-in-this-beginners-course/"/>
+        <updated>2025-05-22T20:08:51.000Z</updated>
+        <summary type="html"><![CDATA[If you’ve been meaning to add Vue.js to your front-end toolbelt, today’s your day. We just published a full, 6-hour Vue 3 course on the freeCodeCamp.org YouTube channel. Instructor Bhrugen Patel walks you through everything you need to build modern, ...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Deploy Your FastAPI + PostgreSQL App on Render: A Beginner's Guide]]></title>
+        <id>682f4900bcc94cb9bccbf905</id>
+        <link href="https://www.freecodecamp.org/news/deploy-fastapi-postgresql-app-on-render/"/>
+        <updated>2025-05-22T15:55:44.000Z</updated>
+        <summary type="html"><![CDATA[This guide is a comprehensive roadmap for deploying a FastAPI backend connected to a PostgreSQL database using Render, a cloud platform that supports hosting Python web apps and managed PostgreSQL databases.   You can find the complete source code he...]]></summary>
+        <author>
+            <name>Preston Osoro</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An Animated Introduction to Elixir]]></title>
+        <id>682f44e3dcb21c615cf1a12d</id>
+        <link href="https://www.freecodecamp.org/news/an-animated-introduction-to-elixir/"/>
+        <updated>2025-05-22T15:38:11.000Z</updated>
+        <summary type="html"><![CDATA[Elixir is a dynamic, functional programming language designed for building scalable and maintainable applications. It leverages the battle-tested Erlang VM, known for running low-latency, distributed, and fault-tolerant systems. Elixir is based on an...]]></summary>
+        <author>
+            <name>Mark Mahoney</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[You can style alt text like any other text]]></title>
+        <id>https://css-tricks.com/?p=386724</id>
+        <link href="https://css-tricks.com/you-can-style-alt-text-like-any-other-text/"/>
+        <updated>2025-05-22T14:43:09.000Z</updated>
+        <summary type="html"><![CDATA[Clever, clever that Andy Bell. He shares a technique for displaying image alt text when the image fails to load. Well, more precisely, it's a technique to apply styles to the alt when the image doesn't load, offering a nice UI fallback for what would otherwise be a busted-looking error.
+You can style alt text like any other text originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Master Database Management Systems]]></title>
         <id>682e3c04117e792e5f46edc3</id>
@@ -24,6 +65,16 @@
         <summary type="html"><![CDATA[Developers often see refactoring as a secondary concern that they can delay indefinitely because it doesn’t immediately contribute to revenue or feature development. And managers frequently view refactoring as "not a business need" until it boils ove...]]></summary>
         <author>
             <name>Ankur Tyagi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Vibe Coding Won't Destroy Software Engineering]]></title>
+        <id>682df55da72360814bcae9ef</id>
+        <link href="https://www.freecodecamp.org/news/why-vibe-coding-wont-destroy-software-engineering/"/>
+        <updated>2025-05-21T15:46:37.000Z</updated>
+        <summary type="html"><![CDATA[AI is disrupting all industries at a pace not seen at any time in history. Technologies and industries that were once dominated by one or two companies or were very much “human-focused” are coming under threat. Google is losing ground to AI search, t...]]></summary>
+        <author>
+            <name>Ben</name>
         </author>
     </entry>
     <entry>
@@ -1000,66 +1051,6 @@ The Lost CSS Tricks of Cohost.org originally published on CSS-Tricks, which is p
         <summary type="html"><![CDATA[Changing a superuser password in Django might sound like a big task, but it’s one of the easiest things to do once you know how. If you’re working on a Django project – whether it’s a hobby blog, a client’s website, or a bigger web application – mana...]]></summary>
         <author>
             <name>Udemezue John</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building An Offline-Friendly Image Upload System]]></title>
-        <id>https://smashingmagazine.com/2025/04/building-offline-friendly-image-upload-system/</id>
-        <link href="https://smashingmagazine.com/2025/04/building-offline-friendly-image-upload-system/"/>
-        <updated>2025-04-23T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Poor internet connectivity doesn’t have to mean poor UX. With PWA technologies like `IndexedDB`, service workers, and the Background Sync API, you can build an offline-friendly image upload system that queues uploads and retries them automatically — so your users can upload stress-free, even when offline.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Amejimaobari Ollornwi)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Essential Machine Learning Concepts Animated]]></title>
-        <id>6807be591920ce8f50e00175</id>
-        <link href="https://www.freecodecamp.org/news/essential-machine-learning-concepts-animated/"/>
-        <updated>2025-04-22T16:05:45.000Z</updated>
-        <summary type="html"><![CDATA[Understanding artificial intelligence (AI) and machine learning (ML) is becoming essential for software developers. But to truly grasp how these technologies work, it’s important to understand the core concepts and terminology that form their foundat...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is Typecasting in Go? Explained with Code Examples]]></title>
-        <id>6807a27399db81a7d80529fe</id>
-        <link href="https://www.freecodecamp.org/news/what-is-typecasting-in-go/"/>
-        <updated>2025-04-22T14:06:43.000Z</updated>
-        <summary type="html"><![CDATA[When you’re working with data in Go, especially when you need to handle dynamic inputs like JSON from third-party APIs, understanding how to properly convert between data types is key. This helps you avoid bugs and crashes. Often times, the values re...]]></summary>
-        <author>
-            <name>Pedro Bertao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use a Foreign Key in Django]]></title>
-        <id>6807a227b77713cc8e0f6059</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-a-foreign-key-in-django/"/>
-        <updated>2025-04-22T14:05:27.000Z</updated>
-        <summary type="html"><![CDATA[When you're building something in Django – whether it's a blog, a to-do app, or even something way more complex – at some point, you'll want to connect different pieces of data. That’s where ForeignKey comes in. It helps link one model to another, li...]]></summary>
-        <author>
-            <name>Udemezue John</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use PostgreSQL in Django]]></title>
-        <id>68079d18a34a9e3143fe9e56</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-postgresql-in-django/"/>
-        <updated>2025-04-22T13:43:52.000Z</updated>
-        <summary type="html"><![CDATA[If you’re building a Django project and wondering which database to use, PostgreSQL is a great choice. It’s reliable, fast, packed with powerful features, and works beautifully with Django. I’ve used it across multiple projects – from small web apps ...]]></summary>
-        <author>
-            <name>Udemezue John</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Write a Good Conference Talk Proposal – CFP Guide]]></title>
-        <id>68079cde283b1638560a2135</id>
-        <link href="https://www.freecodecamp.org/news/how-to-write-a-good-conference-talk-proposal/"/>
-        <updated>2025-04-22T13:42:54.000Z</updated>
-        <summary type="html"><![CDATA[When conferences organize events, they seek knowledgeable speakers to share insights that educate, inspire, and engage attendees. They discover and select speakers through a Call for Proposals (CFP), an open invitation for experts to submit talk idea...]]></summary>
-        <author>
-            <name>Sule-Balogun Olanrewaju</name>
         </author>
     </entry>
 </feed>
