@@ -2,10 +2,71 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-23T00:15:01.576Z</updated>
+    <updated>2025-05-24T00:14:49.199Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Testing Framework for E-Commerce Checkout and Payments]]></title>
+        <id>68308f32f4205e3b843cfb37</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-a-testing-framework-for-e-commerce-checkout-and-payments/"/>
+        <updated>2025-05-23T15:07:30.000Z</updated>
+        <summary type="html"><![CDATA[When I first started working on E-commerce applications, I assumed testing checkout flows and payments would be straightforward. My expectation was simple: users select items, provide an address, pay, and receive confirmation. But I quickly learned t...]]></summary>
+        <author>
+            <name>Venkata Sai Sandeep</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Architecture of Mathematics – And How Developers Can Use it in Code]]></title>
+        <id>68308ee8ccde6bc325c82393</id>
+        <link href="https://www.freecodecamp.org/news/the-architecture-of-mathematics-and-how-developers-can-use-it-in-code/"/>
+        <updated>2025-05-23T15:06:16.000Z</updated>
+        <summary type="html"><![CDATA["To understand is to perceive patterns." - Isaiah Berlin Math is not just numbers. It is the science of finding complex patterns that shape our world. This means that to truly understand it, we need to see beyond numbers, formulas, and theorems and ...]]></summary>
+        <author>
+            <name>Tiago Capelo Monteiro</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use React 19 in Power Apps PCF Components]]></title>
+        <id>6830767c62d9a28c0de11007</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-react-19-in-pcf-components/"/>
+        <updated>2025-05-23T13:22:04.000Z</updated>
+        <summary type="html"><![CDATA[The Power Apps Component Framework – PCF for short – lets you create complex custom components using traditional web development tools like HTML, CSS, and JavaScript. When creating a new PCF project, you can choose from two types of controls: standar...]]></summary>
+        <author>
+            <name>Brandon Wozniewicz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Better CSS Shapes Using shape() — Part 1: Lines and Arcs]]></title>
+        <id>https://css-tricks.com/?p=386640</id>
+        <link href="https://css-tricks.com/better-css-shapes-using-shape-part-1-lines-and-arcs/"/>
+        <updated>2025-05-23T13:02:32.000Z</updated>
+        <summary type="html"><![CDATA[This is the first part of a series that dives deep into the shape function, starting with shapes that use lines and arcs.
+Better CSS Shapes Using shape() — Part 1: Lines and Arcs originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Temani Afif</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Zen And The Art Of Motorcycle Maintenance Can Teach Us About Web Design]]></title>
+        <id>https://smashingmagazine.com/2025/05/what-zen-art-motorcycle-maintenance-teach-web-design/</id>
+        <link href="https://smashingmagazine.com/2025/05/what-zen-art-motorcycle-maintenance-teach-web-design/"/>
+        <updated>2025-05-23T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Road-tripping along the line between engineering and spirituality, Robert M. Pirsig’s musings on the arts, sciences, and Quality ring as true now as they ever have.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Frederick O’Brien)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Laid off but not afraid with X-senior Microsoft Dev MacKevin Fey [Podcast #173]]]></title>
+        <id>68304756ecdb03ab557f3974</id>
+        <link href="https://www.freecodecamp.org/news/laid-off-but-not-afraid-with-x-senior-microsoft-dev-mackevin-fey-podcast-173/"/>
+        <updated>2025-05-23T10:00:54.000Z</updated>
+        <summary type="html"><![CDATA[On this week's episode of the podcast, freeCodeCamp founder Quincy Larson interviews MacKevin Fey. He just got laid off last week from his senior engineering role at Microsoft. We talk about: How Mack's approaching the job search after being laid of...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Learn Vue.js in This Beginner's Course]]></title>
         <id>682f84537a13a40bfa336307</id>
@@ -1011,46 +1072,6 @@ Anchor Positioning Just Don’t Care About Source Order originally published on 
 The Lost CSS Tricks of Cohost.org originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Blackle Mori</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Boosting Up Your Creativity Without Endless Reference Scrolling]]></title>
-        <id>https://smashingmagazine.com/2025/04/neuroscience-designers-boost-creativity-endless-reference-scrolling/</id>
-        <link href="https://smashingmagazine.com/2025/04/neuroscience-designers-boost-creativity-endless-reference-scrolling/"/>
-        <updated>2025-04-24T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[While it is clear that creativity is driven by both the left and right hemispheres, an important question remains: how can we boost creativity while keeping the process enjoyable? It may not be obvious, but non-design-related activities can, in fact, be an opportunity to enhance creativity.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Marina Chernyshova)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Create an AI-Powered Bot that Can Post on Twitter/X]]></title>
-        <id>680931204adb8ffdef48642a</id>
-        <link href="https://www.freecodecamp.org/news/how-to-create-an-ai-powered-bot/"/>
-        <updated>2025-04-23T18:27:44.000Z</updated>
-        <summary type="html"><![CDATA[These days, everyone wants to be a content creator. But it can be hard to find time to create and curate content, post on social media, build engagement, and grow your brand. And I’m not an exception to this. I wanted to create more content, and had ...]]></summary>
-        <author>
-            <name>Arunachalam B</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[All About JavaScript Arrays]]></title>
-        <id>68092fcdc537d7b2fea4ebbb</id>
-        <link href="https://www.freecodecamp.org/news/all-about-javascript-arrays/"/>
-        <updated>2025-04-23T18:22:05.000Z</updated>
-        <summary type="html"><![CDATA[JavaScript arrays are one of the most essential tools in any developer’s toolkit. Whether you're managing lists of items, transforming data, or creating complex data pipelines, arrays play an important role in how we build and think about application...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Change the Password of a Superuser in Django]]></title>
-        <id>6808f23b332c138efcea040d</id>
-        <link href="https://www.freecodecamp.org/news/how-to-change-the-password-of-a-superuser-in-django/"/>
-        <updated>2025-04-23T13:59:23.000Z</updated>
-        <summary type="html"><![CDATA[Changing a superuser password in Django might sound like a big task, but it’s one of the easiest things to do once you know how. If you’re working on a Django project – whether it’s a hobby blog, a client’s website, or a bigger web application – mana...]]></summary>
-        <author>
-            <name>Udemezue John</name>
         </author>
     </entry>
 </feed>
