@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-24T00:14:49.199Z</updated>
+    <updated>2025-05-25T00:16:53.990Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
@@ -1021,57 +1021,6 @@ Anchor Positioning Just Don’t Care About Source Order originally published on 
         <summary type="html"><![CDATA[It starts with good intentions — a quick fix here, a shiny feature there — and suddenly, your product portfolio’s bursting at the seams. In this guide, Talke Hoppmann-Walton walks you through a “Product Kondo” exercise to declutter, realign, and spark some serious product joy for both your business and your customers.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Talke Hoppmann-Walton)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How UX and Marketing Are Saying the Same Things, Differently]]></title>
-        <id>680aa2e68a164048d5799e47</id>
-        <link href="https://www.freecodecamp.org/news/how-ux-and-marketing-are-saying-the-same-things-differently/"/>
-        <updated>2025-04-24T20:45:26.000Z</updated>
-        <summary type="html"><![CDATA[Could it be that the key to designing a great product experience might be hidden in a 60-year-old marketing playbook? Well, for years, marketing and user experience (UX) have been treated as separate worlds. Marketing grabs attention and drives sales...]]></summary>
-        <author>
-            <name>Anamol Rajbhandari</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Code Your Own Llama 4 LLM from Scratch]]></title>
-        <id>680a97a8966c1c2bc7a60b19</id>
-        <link href="https://www.freecodecamp.org/news/code-your-own-llama-4-llm-from-scratch/"/>
-        <updated>2025-04-24T19:57:28.000Z</updated>
-        <summary type="html"><![CDATA[Large language models (LLMs) are at the forefront of modern artificial intelligence, enabling applications that can understand and generate human-like language. Meta's latest release, Llama 4, represents a significant advancement in this field, intro...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Automate Information Gathering for Ethical Hackers — AutoRecon Tutorial]]></title>
-        <id>680a540ef12791f5c752af5e</id>
-        <link href="https://www.freecodecamp.org/news/how-to-automate-information-gathering-for-ethical-hackers-autorecon-tutorial/"/>
-        <updated>2025-04-24T15:09:02.000Z</updated>
-        <summary type="html"><![CDATA[When you’re doing a penetration test, your first job is to understand the target. Before you touch a single exploit or send a single payload, you need to know what services are running, what ports are open, what technologies are in play, and where th...]]></summary>
-        <author>
-            <name>Manish Shivanandhan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Is Q in Django? (And Why It's Super Useful)]]></title>
-        <id>680a4adad2926105c84b08ae</id>
-        <link href="https://www.freecodecamp.org/news/what-is-q-in-django-and-why-its-super-useful/"/>
-        <updated>2025-04-24T14:29:46.000Z</updated>
-        <summary type="html"><![CDATA[If you're working with Django and writing queries, chances are you’ve bumped into a situation where you need to combine filters in a way that’s just... not straightforward. Maybe you're trying to search for users with a username or an email that matc...]]></summary>
-        <author>
-            <name>Udemezue John</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Lost CSS Tricks of Cohost.org]]></title>
-        <id>https://css-tricks.com/?p=385855</id>
-        <link href="https://css-tricks.com/the-lost-css-tricks-of-cohost-org/"/>
-        <updated>2025-04-24T12:49:42.000Z</updated>
-        <summary type="html"><![CDATA[In this post, Blackle Mori shows you a few of the hacks found while trying to push the limits of Cohost’s HTML support. Use these if you dare, lest you too get labelled a CSS criminal.
-The Lost CSS Tricks of Cohost.org originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Blackle Mori</name>
         </author>
     </entry>
 </feed>
