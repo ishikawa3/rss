@@ -417,21 +417,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/ux-design-files-organization-template/ux-design-files-organization-template.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2025/04/product-kondo-guide-evaluating-organizational-product-portfolio/",
-          "author": "hello@smashingmagazine.com (Talke Hoppmann-Walton)",
-          "description": "It starts with good intentions — a quick fix here, a shiny feature there — and suddenly, your product portfolio’s bursting at the seams. In this guide, Talke Hoppmann-Walton walks you through a “Product Kondo” exercise to declutter, realign, and spark some serious product joy for both your business and your customers.",
-          "link": "https://smashingmagazine.com/2025/04/product-kondo-guide-evaluating-organizational-product-portfolio/",
-          "publishedOn": "2025-04-25T13:00:00.000Z",
-          "wordCount": 6315,
-          "title": "“Product Kondo”: A Guide To Evaluating Your Organizational Product Portfolio",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/product-kondo-guide-evaluating-organizational-product-portfolio/product-kondo-guide-evaluating-organizational-product-portfolio.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/product-kondo-guide-evaluating-organizational-product-portfolio/product-kondo-guide-evaluating-organizational-product-portfolio.jpg"
         }
       ]
     },
@@ -1079,36 +1064,6 @@
           "wordCount": 4286,
           "title": "How to Automate Mobile Testing: Strategies for Reliable, Scalable Tests",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1745597617701/f0b2682a-f2ca-425b-bacc-b5a432145aa7.png"
-        },
-        {
-          "id": "680be6e3dfe4e9c64b6b0997",
-          "author": "Udemezue John",
-          "description": "If you're building something with Django, there's one thing you can't skip: creating models. Models are the heart of any Django app. They define how your data is structured, how it's stored in the database, and how Django can interact with it. Now, i...",
-          "link": "https://www.freecodecamp.org/news/how-to-create-models-in-your-django-project/",
-          "publishedOn": "2025-04-25T19:47:47.000Z",
-          "wordCount": 1836,
-          "title": "How to Create Models in Your Django Project",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1745610452559/e009644b-bfef-4e43-9f1b-5f2e4deebdfa.png"
-        },
-        {
-          "id": "680bb2b3917896a550779bcb",
-          "author": "Manish Shivanandhan",
-          "description": "If you’ve built an API with Node.js, chances are you’ve thought about security – at least a little. Maybe you’ve heard about SQL injection, brute force attacks, or data leaks. But here’s the thing: it’s not just about big hacks. Even small gaps in yo...",
-          "link": "https://www.freecodecamp.org/news/how-to-harden-your-nodejs-apis-security-best-practices/",
-          "publishedOn": "2025-04-25T16:05:07.000Z",
-          "wordCount": 1728,
-          "title": "How to Harden Your Node.js APIs – Security Best Practices",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1745597082780/c803850d-f482-4fcc-a744-4de8fd8a02d8.png"
-        },
-        {
-          "id": "680b9ed80564f7c150cbf95b",
-          "author": "Udemezue John",
-          "description": "If you're working on a Django project, you've probably come across the SECRET_KEY in your settings file. It might seem like just another line of code, but it's one of the most important pieces of your project. SECRET_KEY keeps your app secure by sign...",
-          "link": "https://www.freecodecamp.org/news/how-to-change-your-django-secret-key-without-breaking-your-app/",
-          "publishedOn": "2025-04-25T14:40:23.000Z",
-          "wordCount": 1677,
-          "title": "How to Change Your Django Secret Key (Without Breaking Your App)",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1745592003292/023f4ddd-61d7-4e06-b616-31de7924f6a9.png"
         }
       ]
     }

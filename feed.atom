@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-25T00:16:53.990Z</updated>
+    <updated>2025-05-26T00:15:46.571Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
@@ -981,46 +981,6 @@ Open Up With Brad Frost, Episode 2 originally published on CSS-Tricks, which is 
 Anchor Positioning Just Don’t Care About Source Order originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Create Models in Your Django Project]]></title>
-        <id>680be6e3dfe4e9c64b6b0997</id>
-        <link href="https://www.freecodecamp.org/news/how-to-create-models-in-your-django-project/"/>
-        <updated>2025-04-25T19:47:47.000Z</updated>
-        <summary type="html"><![CDATA[If you're building something with Django, there's one thing you can't skip: creating models. Models are the heart of any Django app. They define how your data is structured, how it's stored in the database, and how Django can interact with it. Now, i...]]></summary>
-        <author>
-            <name>Udemezue John</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Harden Your Node.js APIs – Security Best Practices]]></title>
-        <id>680bb2b3917896a550779bcb</id>
-        <link href="https://www.freecodecamp.org/news/how-to-harden-your-nodejs-apis-security-best-practices/"/>
-        <updated>2025-04-25T16:05:07.000Z</updated>
-        <summary type="html"><![CDATA[If you’ve built an API with Node.js, chances are you’ve thought about security – at least a little. Maybe you’ve heard about SQL injection, brute force attacks, or data leaks. But here’s the thing: it’s not just about big hacks. Even small gaps in yo...]]></summary>
-        <author>
-            <name>Manish Shivanandhan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Change Your Django Secret Key (Without Breaking Your App)]]></title>
-        <id>680b9ed80564f7c150cbf95b</id>
-        <link href="https://www.freecodecamp.org/news/how-to-change-your-django-secret-key-without-breaking-your-app/"/>
-        <updated>2025-04-25T14:40:23.000Z</updated>
-        <summary type="html"><![CDATA[If you're working on a Django project, you've probably come across the SECRET_KEY in your settings file. It might seem like just another line of code, but it's one of the most important pieces of your project. SECRET_KEY keeps your app secure by sign...]]></summary>
-        <author>
-            <name>Udemezue John</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“Product Kondo”: A Guide To Evaluating Your Organizational Product Portfolio]]></title>
-        <id>https://smashingmagazine.com/2025/04/product-kondo-guide-evaluating-organizational-product-portfolio/</id>
-        <link href="https://smashingmagazine.com/2025/04/product-kondo-guide-evaluating-organizational-product-portfolio/"/>
-        <updated>2025-04-25T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[It starts with good intentions — a quick fix here, a shiny feature there — and suddenly, your product portfolio’s bursting at the seams. In this guide, Talke Hoppmann-Walton walks you through a “Product Kondo” exercise to declutter, realign, and spark some serious product joy for both your business and your customers.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Talke Hoppmann-Walton)</name>
         </author>
     </entry>
 </feed>
