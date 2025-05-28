@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-27T00:15:02.366Z</updated>
+    <updated>2025-05-28T00:15:33.763Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Use Your Raspberry Pi Headlessly with VS Code and SSH (No Monitor Needed)]]></title>
+        <id>6835cf3101fd0876c3c66de0</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-your-raspberry-pi-headlessly-with-vs-code-and-ssh/"/>
+        <updated>2025-05-27T14:41:53.000Z</updated>
+        <summary type="html"><![CDATA[The Raspberry Pi is a portable computer with an onboard processor that fits comfortably in the palm of your hand. Compared with general purpose computers, it’s an affordable option developed by the Raspberry Pi Foundation. The Raspberry Pi Model B wa...]]></summary>
+        <author>
+            <name>Josiah Adesola</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What We Know (So Far) About CSS Reading Order]]></title>
+        <id>https://css-tricks.com/?p=386654</id>
+        <link href="https://css-tricks.com/what-we-know-so-far-about-css-reading-order/"/>
+        <updated>2025-05-27T13:02:32.000Z</updated>
+        <summary type="html"><![CDATA[The reading-flow and reading-order proposed CSS properties are designed to specify the source order of HTML elements in the DOM tree, or in simpler terms, how accessibility tools deduce the order of elements. You’d use them to make the focus order of focusable elements match the visual order, as outlined in the Web Content Accessibility Guidelines (WCAG 2.2).
+What We Know (So Far) About CSS Reading Order originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Daniel Schwarz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Data Vs. Findings Vs. Insights In UX]]></title>
+        <id>https://smashingmagazine.com/2025/05/data-vs-findings-vs-insights-ux/</id>
+        <link href="https://smashingmagazine.com/2025/05/data-vs-findings-vs-insights-ux/"/>
+        <updated>2025-05-27T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[What’s the difference between data, findings, and UX insights? And how do you argue for statistical significance in your UX research? Let’s unpack it.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Build a Testing Framework for E-Commerce Checkout and Payments]]></title>
         <id>68308f32f4205e3b843cfb37</id>
