@@ -2,10 +2,70 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-28T00:15:33.763Z</updated>
+    <updated>2025-05-29T00:15:20.183Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How Attackers Target Travelers – and How to Defend Yourself]]></title>
+        <id>68372f981dca8ddfbed5d732</id>
+        <link href="https://www.freecodecamp.org/news/how-attackers-target-travelers-and-how-to-defend-yourself/"/>
+        <updated>2025-05-28T15:45:28.000Z</updated>
+        <summary type="html"><![CDATA[Traveling is one of life’s greatest joys  –  but it also puts a big target on your back for cybercriminals. Tourists are often rushed, distracted, or unfamiliar with local providers. That’s exactly what hackers count on. From fake Wi-Fi networks to s...]]></summary>
+        <author>
+            <name>Manish Shivanandhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Agentic AI Handbook: A Beginner's Guide to Autonomous Intelligent Agents]]></title>
+        <id>68371c1c13269a460c440e6c</id>
+        <link href="https://www.freecodecamp.org/news/the-agentic-ai-handbook/"/>
+        <updated>2025-05-28T14:22:20.000Z</updated>
+        <summary type="html"><![CDATA[You may have heard about “Agentic AI” systems and wondered what they’re all about. Well, in basic terms, the idea behind Agentic AI is that it can see its surroundings, set and pursue goals, plan and reason through many processes, and learn from expe...]]></summary>
+        <author>
+            <name>Balajee Asish Brahmandam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Master REST API Development with .NET 9]]></title>
+        <id>6837137d733fa231f684d399</id>
+        <link href="https://www.freecodecamp.org/news/master-rest-api-development-with-net-9/"/>
+        <updated>2025-05-28T13:45:33.000Z</updated>
+        <summary type="html"><![CDATA[Building robust web applications and services requires a solid understanding of REST APIs, the backbone of modern web communication. Whether you're looking to create mobile app backends, integrate different systems, or build scalable web services, RE...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build Your Own ViT Model from Scratch]]></title>
+        <id>68371245a0ad7212aa3fe103</id>
+        <link href="https://www.freecodecamp.org/news/build-your-own-vit-model-from-scratch/"/>
+        <updated>2025-05-28T13:40:21.000Z</updated>
+        <summary type="html"><![CDATA[Vision Transformers have fundamentally changed how we approach computer vision problems, delivering state-of-the-art results that often surpass traditional convolutional neural networks. As the industry shifts toward transformer-based architectures f...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reliably Detecting Third-Party Cookie Blocking In 2025]]></title>
+        <id>https://smashingmagazine.com/2025/05/reliably-detecting-third-party-cookie-blocking-2025/</id>
+        <link href="https://smashingmagazine.com/2025/05/reliably-detecting-third-party-cookie-blocking-2025/"/>
+        <updated>2025-05-28T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The web is mired in a struggle to eliminate third-party cookies, with the World Wide Web Consortium Technical Architecture Group leading the charge. But there are obstacles preventing this from happening, and, as a result, many essential web features continue to rely on cookies to function properly. That’s why detecting third-party cookie blocking isn’t just good technical hygiene but a frontline defense for user experience.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Mikhail Prosmitskiy)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Best AWS Services to Deploy Front-End Applications in 2025]]></title>
+        <id>68363d68d27e47d637cc580b</id>
+        <link href="https://www.freecodecamp.org/news/best-aws-services-for-frontend-deployment/"/>
+        <updated>2025-05-27T22:32:08.000Z</updated>
+        <summary type="html"><![CDATA[As front-end development evolves, finding the right deployment service is more important than ever. Amazon Web Services (AWS), a cloud-based service, offers a number of helpful tools and platforms for hosting modern front-end applications. Although i...]]></summary>
+        <author>
+            <name>Ijeoma Igboagu</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Use Your Raspberry Pi Headlessly with VS Code and SSH (No Monitor Needed)]]></title>
         <id>6835cf3101fd0876c3c66de0</id>
@@ -929,87 +989,6 @@ Revisiting Image Maps originally published on CSS-Tricks, which is part of the D
         <updated>2025-04-29T14:27:25.000Z</updated>
         <summary type="html"><![CDATA[Brad Frost is running this new little podcast called Open Up. Folks write in with questions about the “other” side of web design and front-end development — not so much about tools and best practices as it is about …
 Open Up With Brad Frost, Episode 2 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Turn Your Figma Designs Into Live Apps With Anima Playground]]></title>
-        <id>https://smashingmagazine.com/2025/04/anima-playground-figma-designs-live-apps/</id>
-        <link href="https://smashingmagazine.com/2025/04/anima-playground-figma-designs-live-apps/"/>
-        <updated>2025-04-29T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[As designers, it’s important to be able to transform visual ideas into concepts within minutes and into fully functional products within hours. Well, today we’re bringing you closer to AnimaApp, an app designed to make your life easier — whether you’re a designer, developer, product team member or entrepreneur.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Anima Team)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Production-Ready DevOps Pipeline with Free Tools]]></title>
-        <id>680fe1e69418a1165cb184a2</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-a-production-ready-devops-pipeline-with-free-tools/"/>
-        <updated>2025-04-28T20:15:34.000Z</updated>
-        <summary type="html"><![CDATA[A few months ago, I dove into DevOps, expecting it to be an expensive journey requiring costly tools and infrastructure. But I discovered you can build professional-grade pipelines using entirely free resources. If DevOps feels out of reach because y...]]></summary>
-        <author>
-            <name>Opaluwa Emidowojo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Website from Scratch – Start to Finish Walkthrough]]></title>
-        <id>680fd51ef631538076304a73</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-a-website-from-scratch-start-to-finish-walkthrough/"/>
-        <updated>2025-04-28T19:21:02.000Z</updated>
-        <summary type="html"><![CDATA[Hi, fellow developers! Building a website can feel overwhelming at first – especially when you're staring at a blank HTML file, wondering how it ever turns into a real website on the internet. If you're new to web development, you've probably asked y...]]></summary>
-        <author>
-            <name>Kunal Nalawade</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Enable CORS in Django]]></title>
-        <id>680fa40e9096ceb5eeedd90e</id>
-        <link href="https://www.freecodecamp.org/news/how-to-enable-cors-in-django/"/>
-        <updated>2025-04-28T15:51:42.000Z</updated>
-        <summary type="html"><![CDATA[If you've ever tried to connect your frontend app to your Django backend and suddenly hit an error that looks something like "has been blocked by CORS policy", you're not alone. It’s frustrating, especially when your code seems fine. So what’s going ...]]></summary>
-        <author>
-            <name>Udemezue John</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Turn Ubuntu 24.04 into a KVM Hypervisor – Quick Setup with Web Management]]></title>
-        <id>680fa285102a9fb019d4fa34</id>
-        <link href="https://www.freecodecamp.org/news/turn-ubuntu-2404-into-a-kvm-hypervisor/"/>
-        <updated>2025-04-28T15:45:09.000Z</updated>
-        <summary type="html"><![CDATA[Virtualization lets you run multiple operating systems on one machine. It’s perfect for testing apps, hosting servers, or learning DevOps. A hypervisor is the software that lets you run multiple virtual machines on a single physical machine, and the ...]]></summary>
-        <author>
-            <name>Shamsuddoha Ranju</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Automate Mobile Testing: Strategies for Reliable, Scalable Tests]]></title>
-        <id>680fa2440e43e5b002c3c7f4</id>
-        <link href="https://www.freecodecamp.org/news/how-to-automate-mobile-testing-strategies/"/>
-        <updated>2025-04-28T15:44:04.000Z</updated>
-        <summary type="html"><![CDATA[Mobile test automation uses tools and frameworks to test mobile applications automatically. It replicates user interactions to evaluate the app's functions and detect possible issues early on. This automated approach is helpful since it accelerates t...]]></summary>
-        <author>
-            <name>Nazneen Ahmad</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UX And Design Files Organization Template]]></title>
-        <id>https://smashingmagazine.com/2025/04/ux-design-files-organization-template/</id>
-        <link href="https://smashingmagazine.com/2025/04/ux-design-files-organization-template/"/>
-        <updated>2025-04-28T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Lost in a sea of UX files, docs, PDFs, and scattered decisions across Slack, Dropbox, Notion, and Figma? We talk a lot about organizing Figma, but what about a sensible folder structure for all UX assets? Let’s fix that. Kindly powered by [Smart Interface Design Patterns](https://smart-interface-design-patterns.com).]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Anchor Positioning Just Don’t Care About Source Order]]></title>
-        <id>https://css-tricks.com/?p=385394</id>
-        <link href="https://css-tricks.com/anchor-positioning-just-dont-care-about-source-order/"/>
-        <updated>2025-04-28T12:43:01.000Z</updated>
-        <summary type="html"><![CDATA[The fact that anchor positioning eschews HTML source order is so CSS-y because it's another separation of concerns between content and presentation. 
-Anchor Positioning Just Don’t Care About Source Order originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Geoff Graham</name>
         </author>
