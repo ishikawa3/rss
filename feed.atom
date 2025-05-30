@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-29T00:15:20.183Z</updated>
+    <updated>2025-05-30T00:15:24.339Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[LeetCode Meditations: A Visualized Tour of DSA Concepts (A Handbook)]]></title>
+        <id>6838baed0c839b0170a2e731</id>
+        <link href="https://www.freecodecamp.org/news/leetcode-dsa-concepts-handbook/"/>
+        <updated>2025-05-29T19:52:13.000Z</updated>
+        <summary type="html"><![CDATA[It may seem like an oxymoron when the words "LeetCode" and "meditation" are used together – after all, one thing that almost everyone can agree is that LeetCode is challenging. It's called grinding LeetCode for a reason. It doesn't have anything to d...]]></summary>
+        <author>
+            <name>Eda Eren</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn Python for Data Science – Full Course for Beginners]]></title>
+        <id>6838a96337f76032ee644b85</id>
+        <link href="https://www.freecodecamp.org/news/learn-python-for-data-science-full-course/"/>
+        <updated>2025-05-29T18:37:23.000Z</updated>
+        <summary type="html"><![CDATA[Data science has become one of the most sought-after skills in today's technology-driven world. Whether you're looking to advance your career, make data-driven decisions, or simply understand the patterns hidden in everyday information, Python offers...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build an AI-Powered Cooking Assistant with Flutter and Gemini]]></title>
+        <id>68388c4c973615b7f6864e63</id>
+        <link href="https://www.freecodecamp.org/news/build-an-ai-powered-cooking-assistant-with-flutter-and-gemini/"/>
+        <updated>2025-05-29T16:33:16.000Z</updated>
+        <summary type="html"><![CDATA[After soaking in everything shared at GoogleIO, I can’t lie – I feel supercharged! From What’s New in Flutter to Building Agentic Apps with Flutter and Firebase AI Logic, and the deep dive into How Flutter Makes the Most of Your Platforms, it felt li...]]></summary>
+        <author>
+            <name>Atuoha Anthony</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How Attackers Target Travelers – and How to Defend Yourself]]></title>
         <id>68372f981dca8ddfbed5d732</id>
@@ -919,78 +949,6 @@ State of Devs: A Survey for Every Developer originally published on CSS-Tricks, 
         <summary type="html"><![CDATA[Oracle Enterprise Resource Planning helps businesses manage finance and supply chains. It also supports human resources and brings different functions together. Many growing businesses rely on it to handle complex tasks, as system failures or errors ...]]></summary>
         <author>
             <name>Nazneen Ahmad</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Revisiting Image Maps]]></title>
-        <id>https://css-tricks.com/?p=385783</id>
-        <link href="https://css-tricks.com/revisiting-image-maps/"/>
-        <updated>2025-04-30T12:12:45.000Z</updated>
-        <summary type="html"><![CDATA[Let’s run through a quick refresher. Image maps date all the way back to HTML 3.2, where, first, server-side maps and then client-side maps defined clickable regions over an image using map and area elements.
-Revisiting Image Maps originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Andy Clarke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Make Every Day Count (May 2025 Wallpapers Edition)]]></title>
-        <id>https://smashingmagazine.com/2025/04/desktop-wallpaper-calendars-may-2025/</id>
-        <link href="https://smashingmagazine.com/2025/04/desktop-wallpaper-calendars-may-2025/"/>
-        <updated>2025-04-30T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The new month is just around the corner, and that means: It’s time for some new desktop wallpapers! All of them are designed with love by the community for the community and can be downloaded for free. Enjoy!]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Create Accessible and User-Friendly Forms in React]]></title>
-        <id>6810f59e8deee87383c1bc46</id>
-        <link href="https://www.freecodecamp.org/news/how-to-create-accessible-and-user-friendly-forms-in-react/"/>
-        <updated>2025-04-29T15:51:58.000Z</updated>
-        <summary type="html"><![CDATA[When designing web applications, you’ll often be asked the age old question “How accessible is your website” and “Does it offer the best user experience?”. These are both very valid questions, but they are often overlooked in favour of rich or fancy ...]]></summary>
-        <author>
-            <name>Grant Riordan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn Calculus by Coding in Python]]></title>
-        <id>6810eebd43aa3d16a14700eb</id>
-        <link href="https://www.freecodecamp.org/news/learn-calculus-by-coding-in-python/"/>
-        <updated>2025-04-29T15:22:37.000Z</updated>
-        <summary type="html"><![CDATA[Calculus is one of the cornerstones of higher mathematics and a powerful tool for understanding change, motion, and growth across countless disciplines. But for many students, Calculus can seem intimidating or abstract. What if you could learn it ste...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn College Calculus and Implement with Python]]></title>
-        <id>6810eebd43aa3d16a14700eb</id>
-        <link href="https://www.freecodecamp.org/news/learn-college-calculus-and-implement-with-python/"/>
-        <updated>2025-04-29T15:22:37.000Z</updated>
-        <summary type="html"><![CDATA[Calculus is one of the cornerstones of higher mathematics and a powerful tool for understanding change, motion, and growth across countless disciplines. But for many students, Calculus can seem intimidating or abstract. What if you could learn it ste...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Register Models in Django Admin]]></title>
-        <id>6810e5a2dc9845a2ab207f06</id>
-        <link href="https://www.freecodecamp.org/news/how-to-register-models-in-django-admin/"/>
-        <updated>2025-04-29T14:43:46.000Z</updated>
-        <summary type="html"><![CDATA[When you're building a website or an app with Django, one of the most exciting moments is when your database models finally come to life. But to manage your data easily – adding, editing, or deleting entries – you need Django’s Admin panel. Now, here...]]></summary>
-        <author>
-            <name>Udemezue John</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Open Up With Brad Frost, Episode 2]]></title>
-        <id>https://css-tricks.com/?p=386325</id>
-        <link href="https://css-tricks.com/open-up-with-brad-frost-episode-2/"/>
-        <updated>2025-04-29T14:27:25.000Z</updated>
-        <summary type="html"><![CDATA[Brad Frost is running this new little podcast called Open Up. Folks write in with questions about the “other” side of web design and front-end development — not so much about tools and best practices as it is about …
-Open Up With Brad Frost, Episode 2 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
         </author>
     </entry>
 </feed>
