@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=386673",
+          "author": "Temani Afif",
+          "description": "This is the second part of a series that dives deep into the CSS shape() command, continuing with a more detailed look at the arc command.\nBetter CSS Shapes Using shape() — Part 2: More on Arcs originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/better-css-shapes-using-shape-part-2-more-on-arcs/",
+          "publishedOn": "2025-05-30T13:45:43.000Z",
+          "wordCount": 3821,
+          "title": "Better CSS Shapes Using shape() — Part 2: More on Arcs",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/05/shape-fuinction-featured.webp"
+        },
+        {
           "id": "https://css-tricks.com/?p=386654",
           "author": "Daniel Schwarz",
           "description": "The reading-flow and reading-order proposed CSS properties are designed to specify the source order of HTML elements in the DOM tree, or in simpler terms, how accessibility tools deduce the order of elements. You’d use them to make the focus order of focusable elements match the visual order, as outlined in the Web Content Accessibility Guidelines (WCAG 2.2).\nWhat We Know (So Far) About CSS Reading Order originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -390,6 +400,56 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "6839f729798ea464918cffe8",
+          "author": "Kuriko Iwai",
+          "description": "The perceptron is a fundamental concept in deep learning, with many algorithms stemming from its original design. In this tutorial, I’ll show you how to build both single layer and multi-layer perceptrons (MLPs) across three frameworks: Custom class...",
+          "link": "https://www.freecodecamp.org/news/build-a-multilayer-perceptron-with-examples-and-python-code/",
+          "publishedOn": "2025-05-30T18:21:29.000Z",
+          "wordCount": 7002,
+          "title": "Learn to Build a Multilayer Perceptron with Real-Life Examples and Python Code",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1748616370600/01903917-4be7-476b-90d1-18295d19edef.png"
+        },
+        {
+          "id": "6839c4a906e067fe415d54b4",
+          "author": "Rahul gupta",
+          "description": "Microfrontends are transforming how teams build and deploy frontend applications at scale. This tutorial explores the architectural landscape, from traditional approaches to modern Module Federation implementations. By the end, you'll be equipped to ...",
+          "link": "https://www.freecodecamp.org/news/how-microfrontends-work-iframes-to-module-federation/",
+          "publishedOn": "2025-05-30T14:46:01.000Z",
+          "wordCount": 3661,
+          "title": "How Microfrontends Work: From iframes to Module Federation",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1748613557891/39037981-d514-4f26-8a48-be0cdd9ca29b.png"
+        },
+        {
+          "id": "6839c439ebab1f7974eac355",
+          "author": "Chidiadi Anyanwu",
+          "description": "I have written articles on different platforms including LinkedIn, The Network Bits (Substack), and freeCodeCamp. So I wanted to bring all of these articles together in a single place where someone could go and see all my work. A blog sounded like a ...",
+          "link": "https://www.freecodecamp.org/news/how-to-build-a-simple-portfolio-blog-with-nextjs/",
+          "publishedOn": "2025-05-30T14:44:09.000Z",
+          "wordCount": 6373,
+          "title": "How To Build A Simple Portfolio Blog With Next.js",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1747235586248/7424bce0-24da-4f70-a5aa-31249d799094.png"
+        },
+        {
+          "id": "6839b592f8650e337982bcba",
+          "author": "Brandon Wozniewicz",
+          "description": "Recently, I was working on a PowerApps Component Framework (PCF) project that required sorting an array of objects by date. The dates were in ISO 8601 format but without a time zone – for example, \"2025-05-01T15:00:00.00\". Without much thought, I wro...",
+          "link": "https://www.freecodecamp.org/news/how-to-sort-dates-efficiently-in-javascript/",
+          "publishedOn": "2025-05-30T13:41:38.000Z",
+          "wordCount": 1804,
+          "title": "How to Sort Dates Efficiently in JavaScript",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1748612402734/7124a95d-0a33-4ab6-93d2-d94fc354ae12.png"
+        },
+        {
+          "id": "6839abf3d23bb1460e9ea0ea",
+          "author": "Beau Carnes",
+          "description": "On this week's episode of the podcast, freeCodeCamp founder Quincy Larson interviews Joe Attardi. He's a software engineer and prolific author of programming books. We talk about: How software development has changed over the past 21 years Tips for s...",
+          "link": "https://www.freecodecamp.org/news/how-to-survive-in-tech-when-everythings-changing-w-21-year-veteran-dev-joe-attardi-podcast-174/",
+          "publishedOn": "2025-05-30T13:00:35.000Z",
+          "wordCount": 1019,
+          "title": "How to Survive in Tech When Everything's Changing w/ 21-year Veteran Dev Joe Attardi [Podcast #174]",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1748483423794/0848ad8d-1381-474f-94ea-a196ad4723a4.png"
+        },
         {
           "id": "6838baed0c839b0170a2e731",
           "author": "Eda Eren",
@@ -989,46 +1049,6 @@
           "wordCount": 1645,
           "title": "A Brief Introduction to React",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1746109202328/e4b0f59b-a8d1-42de-9eff-b5413ced3b93.png"
-        },
-        {
-          "id": "68124752fa6fa6a9a91d9994",
-          "author": "Omer Rosenbaum",
-          "description": "The Internet Protocol version 4 (IPv4) is one of the core protocols of standards-based internetworking methods in the Internet and other packet-switched networks. IPv4 is still the most widely deployed Internet protocol. Google’s IPv6 Statistics show...",
-          "link": "https://www.freecodecamp.org/news/how-ipv4-works-a-handbook-for-developers/",
-          "publishedOn": "2025-04-30T15:52:50.000Z",
-          "wordCount": 7538,
-          "title": "How IPv4 Works – A Handbook for Developers",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1746028336196/79d97781-a9b8-4be3-86a1-47322e9640ff.png"
-        },
-        {
-          "id": "681242328ca367c7e5d58873",
-          "author": "Udemezue John",
-          "description": "Starting a SaaS (Software as a Service) business is exciting. You’ve put in the long hours building something you believe people will love. But now comes the big question: How do you get your first customers? Getting those first few users can feel li...",
-          "link": "https://www.freecodecamp.org/news/how-to-get-your-first-saas-customers/",
-          "publishedOn": "2025-04-30T15:30:58.000Z",
-          "wordCount": 1964,
-          "title": "How to Get Your First SaaS Customers",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1746027034713/42b1e6bd-3f5f-4e41-b3d0-ead8168661a6.png"
-        },
-        {
-          "id": "68123f859249b83d2215937d",
-          "author": "Udemezue John",
-          "description": "When I’m working with Django, one of the first things I often need to do is work with users – like getting the logged-in user, creating a new one, or extending the default user model to add more information. Now, Django has a built-in User model, but...",
-          "link": "https://www.freecodecamp.org/news/how-to-get-user-model-in-django/",
-          "publishedOn": "2025-04-30T15:19:33.000Z",
-          "wordCount": 1934,
-          "title": "How to Get User Model in Django – A Simple Guide With Examples",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1746026362647/7b47e9e7-6baf-409a-8654-0ad1eb528e31.png"
-        },
-        {
-          "id": "68123ef3b70ffa1e4ce467ae",
-          "author": "Nazneen Ahmad",
-          "description": "Oracle Enterprise Resource Planning helps businesses manage finance and supply chains. It also supports human resources and brings different functions together. Many growing businesses rely on it to handle complex tasks, as system failures or errors ...",
-          "link": "https://www.freecodecamp.org/news/oracle-erp-test-automation-guide/",
-          "publishedOn": "2025-04-30T15:17:07.000Z",
-          "wordCount": 7094,
-          "title": "Oracle ERP Test Automation Guide – Examples and Best Practices",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1745527550725/45d7f400-d345-4448-ab84-d3327dc425a6.png"
         }
       ]
     }

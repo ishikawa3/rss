@@ -2,10 +2,71 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-30T00:15:24.339Z</updated>
+    <updated>2025-05-31T00:15:01.167Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Learn to Build a Multilayer Perceptron with Real-Life Examples and Python Code]]></title>
+        <id>6839f729798ea464918cffe8</id>
+        <link href="https://www.freecodecamp.org/news/build-a-multilayer-perceptron-with-examples-and-python-code/"/>
+        <updated>2025-05-30T18:21:29.000Z</updated>
+        <summary type="html"><![CDATA[The perceptron is a fundamental concept in deep learning, with many algorithms stemming from its original design. In this tutorial, I’ll show you how to build both single layer and multi-layer perceptrons (MLPs) across three frameworks: Custom class...]]></summary>
+        <author>
+            <name>Kuriko Iwai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Microfrontends Work: From iframes to Module Federation]]></title>
+        <id>6839c4a906e067fe415d54b4</id>
+        <link href="https://www.freecodecamp.org/news/how-microfrontends-work-iframes-to-module-federation/"/>
+        <updated>2025-05-30T14:46:01.000Z</updated>
+        <summary type="html"><![CDATA[Microfrontends are transforming how teams build and deploy frontend applications at scale. This tutorial explores the architectural landscape, from traditional approaches to modern Module Federation implementations. By the end, you'll be equipped to ...]]></summary>
+        <author>
+            <name>Rahul gupta</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Build A Simple Portfolio Blog With Next.js]]></title>
+        <id>6839c439ebab1f7974eac355</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-a-simple-portfolio-blog-with-nextjs/"/>
+        <updated>2025-05-30T14:44:09.000Z</updated>
+        <summary type="html"><![CDATA[I have written articles on different platforms including LinkedIn, The Network Bits (Substack), and freeCodeCamp. So I wanted to bring all of these articles together in a single place where someone could go and see all my work. A blog sounded like a ...]]></summary>
+        <author>
+            <name>Chidiadi Anyanwu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Better CSS Shapes Using shape() — Part 2: More on Arcs]]></title>
+        <id>https://css-tricks.com/?p=386673</id>
+        <link href="https://css-tricks.com/better-css-shapes-using-shape-part-2-more-on-arcs/"/>
+        <updated>2025-05-30T13:45:43.000Z</updated>
+        <summary type="html"><![CDATA[This is the second part of a series that dives deep into the CSS shape() command, continuing with a more detailed look at the arc command.
+Better CSS Shapes Using shape() — Part 2: More on Arcs originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Temani Afif</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Sort Dates Efficiently in JavaScript]]></title>
+        <id>6839b592f8650e337982bcba</id>
+        <link href="https://www.freecodecamp.org/news/how-to-sort-dates-efficiently-in-javascript/"/>
+        <updated>2025-05-30T13:41:38.000Z</updated>
+        <summary type="html"><![CDATA[Recently, I was working on a PowerApps Component Framework (PCF) project that required sorting an array of objects by date. The dates were in ISO 8601 format but without a time zone – for example, "2025-05-01T15:00:00.00". Without much thought, I wro...]]></summary>
+        <author>
+            <name>Brandon Wozniewicz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Survive in Tech When Everything's Changing w/ 21-year Veteran Dev Joe Attardi [Podcast #174]]]></title>
+        <id>6839abf3d23bb1460e9ea0ea</id>
+        <link href="https://www.freecodecamp.org/news/how-to-survive-in-tech-when-everythings-changing-w-21-year-veteran-dev-joe-attardi-podcast-174/"/>
+        <updated>2025-05-30T13:00:35.000Z</updated>
+        <summary type="html"><![CDATA[On this week's episode of the podcast, freeCodeCamp founder Quincy Larson interviews Joe Attardi. He's a software engineer and prolific author of programming books. We talk about: How software development has changed over the past 21 years Tips for s...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[LeetCode Meditations: A Visualized Tour of DSA Concepts (A Handbook)]]></title>
         <id>6838baed0c839b0170a2e731</id>
@@ -909,46 +970,6 @@ CSS shape() Commands originally published on CSS-Tricks, which is part of the Di
 State of Devs: A Survey for Every Developer originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Sacha Greif</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How IPv4 Works – A Handbook for Developers]]></title>
-        <id>68124752fa6fa6a9a91d9994</id>
-        <link href="https://www.freecodecamp.org/news/how-ipv4-works-a-handbook-for-developers/"/>
-        <updated>2025-04-30T15:52:50.000Z</updated>
-        <summary type="html"><![CDATA[The Internet Protocol version 4 (IPv4) is one of the core protocols of standards-based internetworking methods in the Internet and other packet-switched networks. IPv4 is still the most widely deployed Internet protocol. Google’s IPv6 Statistics show...]]></summary>
-        <author>
-            <name>Omer Rosenbaum</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Get Your First SaaS Customers]]></title>
-        <id>681242328ca367c7e5d58873</id>
-        <link href="https://www.freecodecamp.org/news/how-to-get-your-first-saas-customers/"/>
-        <updated>2025-04-30T15:30:58.000Z</updated>
-        <summary type="html"><![CDATA[Starting a SaaS (Software as a Service) business is exciting. You’ve put in the long hours building something you believe people will love. But now comes the big question: How do you get your first customers? Getting those first few users can feel li...]]></summary>
-        <author>
-            <name>Udemezue John</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Get User Model in Django – A Simple Guide With Examples]]></title>
-        <id>68123f859249b83d2215937d</id>
-        <link href="https://www.freecodecamp.org/news/how-to-get-user-model-in-django/"/>
-        <updated>2025-04-30T15:19:33.000Z</updated>
-        <summary type="html"><![CDATA[When I’m working with Django, one of the first things I often need to do is work with users – like getting the logged-in user, creating a new one, or extending the default user model to add more information. Now, Django has a built-in User model, but...]]></summary>
-        <author>
-            <name>Udemezue John</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Oracle ERP Test Automation Guide – Examples and Best Practices]]></title>
-        <id>68123ef3b70ffa1e4ce467ae</id>
-        <link href="https://www.freecodecamp.org/news/oracle-erp-test-automation-guide/"/>
-        <updated>2025-04-30T15:17:07.000Z</updated>
-        <summary type="html"><![CDATA[Oracle Enterprise Resource Planning helps businesses manage finance and supply chains. It also supports human resources and brings different functions together. Many growing businesses rely on it to handle complex tasks, as system failures or errors ...]]></summary>
-        <author>
-            <name>Nazneen Ahmad</name>
         </author>
     </entry>
 </feed>
