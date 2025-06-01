@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-31T00:15:01.167Z</updated>
+    <updated>2025-06-01T00:18:51.309Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
@@ -919,57 +919,6 @@ Modern Scroll Shadows Using Scroll-Driven Animations originally published on CSS
 CSS shape() Commands originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WCAG 3.0’s Proposed Scoring Model: A Shift In Accessibility Evaluation]]></title>
-        <id>https://smashingmagazine.com/2025/05/wcag-3-proposed-scoring-model-shift-accessibility-evaluation/</id>
-        <link href="https://smashingmagazine.com/2025/05/wcag-3-proposed-scoring-model-shift-accessibility-evaluation/"/>
-        <updated>2025-05-02T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[WCAG is evolving. Since 1999, the Web Content Accessibility Guidelines have defined accessibility in binary terms: either a success criterion is met or not. But real user experience is rarely that simple. WCAG 3.0 rethinks the model — prioritizing usability over compliance and shifting the focus toward the quality of access rather than the mere presence of features. Could this be the start of a new era in accessibility?]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Mikhail Prosmitskiy)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Django Crash Course for Beginners]]></title>
-        <id>6813a8237eaea66216eb6819</id>
-        <link href="https://www.freecodecamp.org/news/django-crash-course-for-beginners/"/>
-        <updated>2025-05-01T16:58:11.000Z</updated>
-        <summary type="html"><![CDATA[Django is a high-level web framework built with Python that encourages rapid development and clean, pragmatic design. Django handles much of the heavy lifting involved in web development, so you can focus more on writing your app and less on reinvent...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Incremental Static Regeneration (ISR) Works in Next.js]]></title>
-        <id>68139db5555c3ab781a6e0a1</id>
-        <link href="https://www.freecodecamp.org/news/how-incremental-static-regeneration-isr-works-in-nextjs/"/>
-        <updated>2025-05-01T16:13:41.000Z</updated>
-        <summary type="html"><![CDATA[When you build a website, you often have two main choices for how pages are created: statically or dynamically. Static pages are created once when you build your project. They’re fast because the server doesn’t have to do any extra work when someone ...]]></summary>
-        <author>
-            <name>Joan Ayebola</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Brief Introduction to React]]></title>
-        <id>681397cd1168f254478cd514</id>
-        <link href="https://www.freecodecamp.org/news/a-brief-introduction-to-react/"/>
-        <updated>2025-05-01T15:48:29.000Z</updated>
-        <summary type="html"><![CDATA[This tutorial introduces the basics of using React components in your web apps. React is a JavaScript library used to build user interfaces, especially for single-page applications where parts of the page need to update without a full page reload. It...]]></summary>
-        <author>
-            <name>Mark Mahoney</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[State of Devs: A Survey for Every Developer]]></title>
-        <id>https://css-tricks.com/?p=386334</id>
-        <link href="https://css-tricks.com/state-of-devs-a-survey-for-every-developer/"/>
-        <updated>2025-05-01T12:34:58.000Z</updated>
-        <summary type="html"><![CDATA[The State of Devs survey is now open to participation, and unlike previous surveys it covers everything except code: career, workplace, but also health, hobbies, and more. 
-State of Devs: A Survey for Every Developer originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Sacha Greif</name>
         </author>
     </entry>
 </feed>

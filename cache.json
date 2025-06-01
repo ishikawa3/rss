@@ -165,16 +165,6 @@
           "wordCount": 2577,
           "title": "CSS shape() Commands",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2018/09/css-shapes.jpg"
-        },
-        {
-          "id": "https://css-tricks.com/?p=386334",
-          "author": "Sacha Greif",
-          "description": "The State of Devs survey is now open to participation, and unlike previous surveys it covers everything except code: career, workplace, but also health, hobbies, and more. \nState of Devs: A Survey for Every Developer originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/state-of-devs-a-survey-for-every-developer/",
-          "publishedOn": "2025-05-01T12:34:58.000Z",
-          "wordCount": 2324,
-          "title": "State of Devs: A Survey for Every Developer",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/04/devs2025-og.png"
         }
       ]
     },
@@ -377,21 +367,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/how-launch-big-complex-projects/how-launch-big-complex-projects.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2025/05/wcag-3-proposed-scoring-model-shift-accessibility-evaluation/",
-          "author": "hello@smashingmagazine.com (Mikhail Prosmitskiy)",
-          "description": "WCAG is evolving. Since 1999, the Web Content Accessibility Guidelines have defined accessibility in binary terms: either a success criterion is met or not. But real user experience is rarely that simple. WCAG 3.0 rethinks the model — prioritizing usability over compliance and shifting the focus toward the quality of access rather than the mere presence of features. Could this be the start of a new era in accessibility?",
-          "link": "https://smashingmagazine.com/2025/05/wcag-3-proposed-scoring-model-shift-accessibility-evaluation/",
-          "publishedOn": "2025-05-02T11:00:00.000Z",
-          "wordCount": 4618,
-          "title": "WCAG 3.0’s Proposed Scoring Model: A Shift In Accessibility Evaluation",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/wcag-3-proposed-scoring-model-shift-accessibility-evaluation/wcag-3-proposed-scoring-model-shift-accessibility-evaluation.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/wcag-3-proposed-scoring-model-shift-accessibility-evaluation/wcag-3-proposed-scoring-model-shift-accessibility-evaluation.jpg"
         }
       ]
     },
@@ -1019,36 +994,6 @@
           "wordCount": 1071,
           "title": "From Art School Drop-out to Microsoft Engineer with Shashi Lo [Podcast #170]",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1746216807651/c24ce5d2-07cd-4b30-9681-a36e50b3a834.png"
-        },
-        {
-          "id": "6813a8237eaea66216eb6819",
-          "author": "Beau Carnes",
-          "description": "Django is a high-level web framework built with Python that encourages rapid development and clean, pragmatic design. Django handles much of the heavy lifting involved in web development, so you can focus more on writing your app and less on reinvent...",
-          "link": "https://www.freecodecamp.org/news/django-crash-course-for-beginners/",
-          "publishedOn": "2025-05-01T16:58:11.000Z",
-          "wordCount": 1240,
-          "title": "Django Crash Course for Beginners",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1746118671895/d37fe9e1-af3b-4419-a39d-26cb85d583eb.png"
-        },
-        {
-          "id": "68139db5555c3ab781a6e0a1",
-          "author": "Joan Ayebola",
-          "description": "When you build a website, you often have two main choices for how pages are created: statically or dynamically. Static pages are created once when you build your project. They’re fast because the server doesn’t have to do any extra work when someone ...",
-          "link": "https://www.freecodecamp.org/news/how-incremental-static-regeneration-isr-works-in-nextjs/",
-          "publishedOn": "2025-05-01T16:13:41.000Z",
-          "wordCount": 2869,
-          "title": "How Incremental Static Regeneration (ISR) Works in Next.js",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1746114577532/94c5118c-f931-415a-932e-45b7e24b99f6.png"
-        },
-        {
-          "id": "681397cd1168f254478cd514",
-          "author": "Mark Mahoney",
-          "description": "This tutorial introduces the basics of using React components in your web apps. React is a JavaScript library used to build user interfaces, especially for single-page applications where parts of the page need to update without a full page reload. It...",
-          "link": "https://www.freecodecamp.org/news/a-brief-introduction-to-react/",
-          "publishedOn": "2025-05-01T15:48:29.000Z",
-          "wordCount": 1645,
-          "title": "A Brief Introduction to React",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1746109202328/e4b0f59b-a8d1-42de-9eff-b5413ced3b93.png"
         }
       ]
     }
