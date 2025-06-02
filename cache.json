@@ -155,16 +155,6 @@
           "wordCount": 2235,
           "title": "Modern Scroll Shadows Using Scroll-Driven Animations",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/04/scroll-shadows-table.jpg"
-        },
-        {
-          "id": "https://css-tricks.com/?p=386291",
-          "author": "Geoff Graham",
-          "description": "The CSS shape() function recently gained support in both Chromium and WebKit browsers. It's a way of drawing complex shapes when clipping elements with the clip-path property.\nCSS shape() Commands originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/css-shape-commands/",
-          "publishedOn": "2025-05-02T12:36:10.000Z",
-          "wordCount": 2577,
-          "title": "CSS shape() Commands",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2018/09/css-shapes.jpg"
         }
       ]
     },
@@ -954,46 +944,6 @@
           "wordCount": 2973,
           "title": "How to Build a Dynamic Wardrobe App with React Drag and Drop",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1746456835547/563ca5bd-27b0-421e-a0f3-a13f97388449.png"
-        },
-        {
-          "id": "68151f0be5850fcb8543375a",
-          "author": "Okoro Emmanuel Nzube",
-          "description": "Imagine purchasing a standing fan straight out of the box, all parts dismantled, and you have no manual or guide to put them together. Did you imagine that just now? Cool. Here is another scenario: imagine purchasing an LG product, such as a smart TV...",
-          "link": "https://www.freecodecamp.org/news/how-to-write-good-api-docs/",
-          "publishedOn": "2025-05-02T19:37:47.000Z",
-          "wordCount": 3968,
-          "title": "API Documentation: The Importance of Clear and Concise API Documentation",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1746108055356/29f327c1-60a5-4d0c-baef-431c0e61c1b4.png"
-        },
-        {
-          "id": "6815023dec2e34790eeb71a8",
-          "author": "Divya Valsala Saratchandran",
-          "description": "SonarQube is a powerful open-source tool that helps you maintain code quality and security by analyzing your codebase for bugs and vulnerabilities. And it can play a major role when integrated into your CI/CD pipeline. In this tutorial, we will cover...",
-          "link": "https://www.freecodecamp.org/news/how-to-improve-your-code-quality-with-sonarqube/",
-          "publishedOn": "2025-05-02T17:34:53.000Z",
-          "wordCount": 1619,
-          "title": "How to improve your code quality with SonarQube",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1746207275407/7b0da6c9-9bd7-40ca-853e-b1f7957acf3b.png"
-        },
-        {
-          "id": "68150214fd424d0874293171",
-          "author": "Prince Onukwili",
-          "description": "You’ve probably heard the word Kubernetes floating around, or it’s cooler nickname k8s (pronounced “kates“). Maybe in a job post, a tech podcast, or from that one DevOps friend who always brings it up like it’s the secret sauce to everything 😅. It s...",
-          "link": "https://www.freecodecamp.org/news/learn-kubernetes-handbook-devs-startups-businesses/",
-          "publishedOn": "2025-05-02T17:34:12.000Z",
-          "wordCount": 7908,
-          "title": "Learn Kubernetes – Full Handbook for Developers, Startups, and Businesses",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1746205417767/d9d6b0d3-f2a5-44eb-83b5-d1a614bead9f.png"
-        },
-        {
-          "id": "6814f2ab33857abe499038b0",
-          "author": "Quincy Larson",
-          "description": "On this week's episode of the podcast, I interview Shashi Lo. He's a software engineer at Microsoft. He grew up the child of refugees. He wanted to start earning money and build his family so he abandoned his art school degree and taught himself how ...",
-          "link": "https://www.freecodecamp.org/news/from-art-school-drop-out-to-microsoft-engineer-with-shashi-lo-podcast-170/",
-          "publishedOn": "2025-05-02T16:28:27.000Z",
-          "wordCount": 1071,
-          "title": "From Art School Drop-out to Microsoft Engineer with Shashi Lo [Podcast #170]",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1746216807651/c24ce5d2-07cd-4b30-9681-a36e50b3a834.png"
         }
       ]
     }

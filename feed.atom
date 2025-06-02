@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-01T00:18:51.309Z</updated>
+    <updated>2025-06-02T00:16:05.566Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
@@ -868,57 +868,6 @@ Modern Scroll Shadows Using Scroll-Driven Animations originally published on CSS
         <summary type="html"><![CDATA[When was the last time your project wrapped up smoothly — no delays, no surprises, no last-minute compromises? In reality, most UX projects drift as timelines slip, budgets stretch, and features morph. How do we get better at navigating the chaos? An upcoming part of How To Measure UX and Design Impact by yours truly.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[API Documentation: The Importance of Clear and Concise API Documentation]]></title>
-        <id>68151f0be5850fcb8543375a</id>
-        <link href="https://www.freecodecamp.org/news/how-to-write-good-api-docs/"/>
-        <updated>2025-05-02T19:37:47.000Z</updated>
-        <summary type="html"><![CDATA[Imagine purchasing a standing fan straight out of the box, all parts dismantled, and you have no manual or guide to put them together. Did you imagine that just now? Cool. Here is another scenario: imagine purchasing an LG product, such as a smart TV...]]></summary>
-        <author>
-            <name>Okoro Emmanuel Nzube</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to improve your code quality with SonarQube]]></title>
-        <id>6815023dec2e34790eeb71a8</id>
-        <link href="https://www.freecodecamp.org/news/how-to-improve-your-code-quality-with-sonarqube/"/>
-        <updated>2025-05-02T17:34:53.000Z</updated>
-        <summary type="html"><![CDATA[SonarQube is a powerful open-source tool that helps you maintain code quality and security by analyzing your codebase for bugs and vulnerabilities. And it can play a major role when integrated into your CI/CD pipeline. In this tutorial, we will cover...]]></summary>
-        <author>
-            <name>Divya Valsala Saratchandran</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn Kubernetes – Full Handbook for Developers, Startups, and Businesses]]></title>
-        <id>68150214fd424d0874293171</id>
-        <link href="https://www.freecodecamp.org/news/learn-kubernetes-handbook-devs-startups-businesses/"/>
-        <updated>2025-05-02T17:34:12.000Z</updated>
-        <summary type="html"><![CDATA[You’ve probably heard the word Kubernetes floating around, or it’s cooler nickname k8s (pronounced “kates“). Maybe in a job post, a tech podcast, or from that one DevOps friend who always brings it up like it’s the secret sauce to everything 😅. It s...]]></summary>
-        <author>
-            <name>Prince Onukwili</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[From Art School Drop-out to Microsoft Engineer with Shashi Lo [Podcast #170]]]></title>
-        <id>6814f2ab33857abe499038b0</id>
-        <link href="https://www.freecodecamp.org/news/from-art-school-drop-out-to-microsoft-engineer-with-shashi-lo-podcast-170/"/>
-        <updated>2025-05-02T16:28:27.000Z</updated>
-        <summary type="html"><![CDATA[On this week's episode of the podcast, I interview Shashi Lo. He's a software engineer at Microsoft. He grew up the child of refugees. He wanted to start earning money and build his family so he abandoned his art school degree and taught himself how ...]]></summary>
-        <author>
-            <name>Quincy Larson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSS shape() Commands]]></title>
-        <id>https://css-tricks.com/?p=386291</id>
-        <link href="https://css-tricks.com/css-shape-commands/"/>
-        <updated>2025-05-02T12:36:10.000Z</updated>
-        <summary type="html"><![CDATA[The CSS shape() function recently gained support in both Chromium and WebKit browsers. It's a way of drawing complex shapes when clipping elements with the clip-path property.
-CSS shape() Commands originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
         </author>
     </entry>
 </feed>
