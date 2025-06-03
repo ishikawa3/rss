@@ -164,6 +164,36 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2025/06/designing-for-neurodiversity/",
+          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
+          "description": "Designing for neurodiversity means recognizing that people aren’t edge cases but individuals with varied ways of thinking and navigating the web. So, how can we create more inclusive experiences that work better for everyone?",
+          "link": "https://smashingmagazine.com/2025/06/designing-for-neurodiversity/",
+          "publishedOn": "2025-06-02T08:00:00.000Z",
+          "wordCount": 3203,
+          "title": "Designing For Neurodiversity",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/designing-for-neurodiversity/designing-for-neurodiversity.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/designing-for-neurodiversity/designing-for-neurodiversity.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2025/05/desktop-wallpaper-calendars-june-2025/",
+          "author": "hello@smashingmagazine.com (Cosima Mielke)",
+          "description": "Let’s kick off June — and the beginning of summer — with some fresh inspiration! Artists and designers from across the globe once again tickled their creativity to welcome the new month with a new collection of desktop wallpapers. Enjoy!",
+          "link": "https://smashingmagazine.com/2025/05/desktop-wallpaper-calendars-june-2025/",
+          "publishedOn": "2025-05-31T08:00:00.000Z",
+          "wordCount": 5207,
+          "title": "Prelude To Summer (June 2025 Wallpapers Edition)",
+          "enclosure": {
+            "url": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/d57d2cfe-3f0d-48ac-9c26-df7e43cbd76b/june-18-travel-time-preview-opt.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/d57d2cfe-3f0d-48ac-9c26-df7e43cbd76b/june-18-travel-time-preview-opt.png"
+        },
+        {
           "id": "https://smashingmagazine.com/2025/05/reliably-detecting-third-party-cookie-blocking-2025/",
           "author": "hello@smashingmagazine.com (Mikhail Prosmitskiy)",
           "description": "The web is mired in a struggle to eliminate third-party cookies, with the World Wide Web Consortium Technical Architecture Group leading the charge. But there are obstacles preventing this from happening, and, as a result, many essential web features continue to rely on cookies to function properly. That’s why detecting third-party cookie blocking isn’t just good technical hygiene but a frontline defense for user experience.",
@@ -365,6 +395,36 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "683deb300e5fd6529479c483",
+          "author": "Manish Shivanandhan",
+          "description": "Free Wi-Fi feels like a small win when you’re out. Coffee shops, airports, and hotels offer it like candy  –  just tap, connect, and you’re online.  But behind that convenience is a world of risk that most people never see coming. Let’s talk about wh...",
+          "link": "https://www.freecodecamp.org/news/why-public-wi-fi-is-dangerous-and-how-to-protect-yourself/",
+          "publishedOn": "2025-06-02T18:19:28.000Z",
+          "wordCount": 1941,
+          "title": "Why Public Wi-Fi Is Dangerous – And How to Protect Yourself",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1748888295128/16513129-1937-4ceb-b527-2548044d540b.png"
+        },
+        {
+          "id": "683dea64b88211830493d3aa",
+          "author": "Yazdun",
+          "description": "A linked list is a data structure where each item, called a node, contains data and a pointer to the next node. Unlike arrays, which store elements in contiguous memory, linked lists connect nodes that can be scattered across memory. In this hands-on...",
+          "link": "https://www.freecodecamp.org/news/how-to-code-linked-lists-with-typescript-handbook/",
+          "publishedOn": "2025-06-02T18:16:03.000Z",
+          "wordCount": 14833,
+          "title": "How to Code Linked Lists with TypeScript: A Handbook for Developers",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1748874008549/f7890467-2c7d-4558-a3ca-6094400530bc.png"
+        },
+        {
+          "id": "683dc829f7d4772789f06d02",
+          "author": "Tilda Udufo",
+          "description": "Most of us use Google Maps without thinking twice. You open the app, check which route has the least traffic, and hit start. Then somewhere along the way – maybe you miss a turn (I do that often) – and Maps calmly recalculates your route, showing you...",
+          "link": "https://www.freecodecamp.org/news/a-beginners-guide-to-graphs/",
+          "publishedOn": "2025-06-02T15:50:01.000Z",
+          "wordCount": 4640,
+          "title": "A Beginner’s Guide to Graphs — From Google Maps to Chessboards",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1748879365710/23d7601e-cde0-489b-a843-97190e58e5c9.png"
+        },
         {
           "id": "6839f729798ea464918cffe8",
           "author": "Kuriko Iwai",
