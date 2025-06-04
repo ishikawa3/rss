@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=386750",
+          "author": "Andy Clarke",
+          "description": "So, how can you take dialogue box design beyond the generic look of frameworks and templates? How can you style them to reflect a brand’s visual identity and help to tell its stories? Here’s how I do it in CSS using ::backdrop, backdrop-filter, and animations.\nGetting Creative With HTML Dialog originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/getting-creative-with-html-dialog/",
+          "publishedOn": "2025-06-03T14:39:04.000Z",
+          "wordCount": 2941,
+          "title": "Getting Creative With HTML Dialog",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/05/s_EE59C5A105545DD153C51E60D867441DC316D04D9E44A41B5CC2A0033D85A746_1747693352461_2025-05-17-3.webp"
+        },
+        {
           "id": "https://css-tricks.com/?p=386673",
           "author": "Temani Afif",
           "description": "This is the second part of a series that dives deep into the CSS shape() command, continuing with a more detailed look at the arc command.\nBetter CSS Shapes Using shape() — Part 2: More on Arcs originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -163,6 +173,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2025/06/why-designers-get-stuck-in-details/",
+          "author": "hello@smashingmagazine.com (Nikita Samutin)",
+          "description": "Designers love to craft, but polishing pixels before the problem is solved is a time-sink. This article pinpoints the five traps that lure us into premature detail — being afraid to show rough work, fixing symptoms instead of causes, solving the wrong problem, drowning in unactionable feedback, and plain fatigue — then hands you a four-step rescue plan to refocus on goals, ship faster, and keep your craft where it counts.",
+          "link": "https://smashingmagazine.com/2025/06/why-designers-get-stuck-in-details/",
+          "publishedOn": "2025-06-03T14:00:00.000Z",
+          "wordCount": null,
+          "title": "Why Designers Get Stuck In The Details And How To Stop",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/why-designers-get-stuck-in-details/why-designers-get-stuck-in-details.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/why-designers-get-stuck-in-details/why-designers-get-stuck-in-details.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2025/06/designing-for-neurodiversity/",
           "author": "hello@smashingmagazine.com (Vitaly Friedman)",
@@ -372,21 +397,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/masonry-css-should-grid-evolve-stand-aside-new-module/masonry-css-should-grid-evolve-stand-aside-new-module.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2025/05/how-launch-big-complex-projects/",
-          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
-          "description": "When was the last time your project wrapped up smoothly — no delays, no surprises, no last-minute compromises? In reality, most UX projects drift as timelines slip, budgets stretch, and features morph. How do we get better at navigating the chaos? An upcoming part of How To Measure UX and Design Impact by yours truly.",
-          "link": "https://smashingmagazine.com/2025/05/how-launch-big-complex-projects/",
-          "publishedOn": "2025-05-05T10:00:00.000Z",
-          "wordCount": 4410,
-          "title": "How To Launch Big Complex Projects",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/how-launch-big-complex-projects/how-launch-big-complex-projects.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/how-launch-big-complex-projects/how-launch-big-complex-projects.jpg"
         }
       ]
     },
@@ -395,6 +405,26 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "683f04aedfb685791a4e8dd2",
+          "author": "Balajee Asish Brahmandam",
+          "description": "Ever feel like your AI tools are a bit...well, passive? Like they just sit there, waiting for your next command? Imagine if they could take initiative, break down big problems, and even work together to get things done. That's exactly what LLM agents...",
+          "link": "https://www.freecodecamp.org/news/the-open-source-llm-agent-handbook/",
+          "publishedOn": "2025-06-03T14:20:30.000Z",
+          "wordCount": 5948,
+          "title": "The Open Source LLM Agent Handbook: How to Automate Complex Tasks with LangGraph and CrewAI",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1748956366197/c4dd2bba-430a-4f12-a3d4-becc6707c52e.png"
+        },
+        {
+          "id": "683e5606b7c8b1ebd3a32964",
+          "author": "Gordan Tan",
+          "description": "A complete frontend monitoring system is essential for tracking application performance, errors, and user behavior. It consists of three main components: data collection and reporting, data processing and storage, and data visualization. This article...",
+          "link": "https://www.freecodecamp.org/news/the-front-end-monitoring-handbook/",
+          "publishedOn": "2025-06-03T01:55:18.000Z",
+          "wordCount": 8535,
+          "title": "The Front-End Monitoring Handbook: Track Performance, Errors, and User Behavior",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1748915696356/6e6edeed-2f41-40f9-97d6-8cc8686c3b25.png"
+        },
         {
           "id": "683deb300e5fd6529479c483",
           "author": "Manish Shivanandhan",

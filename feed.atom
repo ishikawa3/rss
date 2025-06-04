@@ -2,10 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-03T00:15:37.510Z</updated>
+    <updated>2025-06-04T00:16:05.419Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Getting Creative With HTML Dialog]]></title>
+        <id>https://css-tricks.com/?p=386750</id>
+        <link href="https://css-tricks.com/getting-creative-with-html-dialog/"/>
+        <updated>2025-06-03T14:39:04.000Z</updated>
+        <summary type="html"><![CDATA[So, how can you take dialogue box design beyond the generic look of frameworks and templates? How can you style them to reflect a brand’s visual identity and help to tell its stories? Here’s how I do it in CSS using ::backdrop, backdrop-filter, and animations.
+Getting Creative With HTML Dialog originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Andy Clarke</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Open Source LLM Agent Handbook: How to Automate Complex Tasks with LangGraph and CrewAI]]></title>
+        <id>683f04aedfb685791a4e8dd2</id>
+        <link href="https://www.freecodecamp.org/news/the-open-source-llm-agent-handbook/"/>
+        <updated>2025-06-03T14:20:30.000Z</updated>
+        <summary type="html"><![CDATA[Ever feel like your AI tools are a bit...well, passive? Like they just sit there, waiting for your next command? Imagine if they could take initiative, break down big problems, and even work together to get things done. That's exactly what LLM agents...]]></summary>
+        <author>
+            <name>Balajee Asish Brahmandam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Designers Get Stuck In The Details And How To Stop]]></title>
+        <id>https://smashingmagazine.com/2025/06/why-designers-get-stuck-in-details/</id>
+        <link href="https://smashingmagazine.com/2025/06/why-designers-get-stuck-in-details/"/>
+        <updated>2025-06-03T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Designers love to craft, but polishing pixels before the problem is solved is a time-sink. This article pinpoints the five traps that lure us into premature detail — being afraid to show rough work, fixing symptoms instead of causes, solving the wrong problem, drowning in unactionable feedback, and plain fatigue — then hands you a four-step rescue plan to refocus on goals, ship faster, and keep your craft where it counts.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Nikita Samutin)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Front-End Monitoring Handbook: Track Performance, Errors, and User Behavior]]></title>
+        <id>683e5606b7c8b1ebd3a32964</id>
+        <link href="https://www.freecodecamp.org/news/the-front-end-monitoring-handbook/"/>
+        <updated>2025-06-03T01:55:18.000Z</updated>
+        <summary type="html"><![CDATA[A complete frontend monitoring system is essential for tracking application performance, errors, and user behavior. It consists of three main components: data collection and reporting, data processing and storage, and data visualization. This article...]]></summary>
+        <author>
+            <name>Gordan Tan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Why Public Wi-Fi Is Dangerous – And How to Protect Yourself]]></title>
         <id>683deb300e5fd6529479c483</id>
@@ -908,16 +949,6 @@ GSAP is Now Completely Free, Even for Commercial Use! originally published on CS
 Modern Scroll Shadows Using Scroll-Driven Animations originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Kevin Hamer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Launch Big Complex Projects]]></title>
-        <id>https://smashingmagazine.com/2025/05/how-launch-big-complex-projects/</id>
-        <link href="https://smashingmagazine.com/2025/05/how-launch-big-complex-projects/"/>
-        <updated>2025-05-05T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[When was the last time your project wrapped up smoothly — no delays, no surprises, no last-minute compromises? In reality, most UX projects drift as timelines slip, budgets stretch, and features morph. How do we get better at navigating the chaos? An upcoming part of How To Measure UX and Design Impact by yours truly.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
         </author>
     </entry>
 </feed>
