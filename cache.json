@@ -155,16 +155,6 @@
           "wordCount": 1849,
           "title": "GSAP is Now Completely Free, Even for Commercial Use!",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/05/Screenshot-2025-05-05-at-3.27.23%E2%80%AFPM-scaled.png"
-        },
-        {
-          "id": "https://css-tricks.com/?p=385733",
-          "author": "Kevin Hamer",
-          "description": "Using scroll shadows, especially for mobile devices, is a subtle bit of UX that Chris has covered before. Geoff covered a newer approach that uses the animation-timeline property. Here’s yet another way.\nModern Scroll Shadows Using Scroll-Driven Animations originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/modern-scroll-shadows-using-scroll-driven-animations/",
-          "publishedOn": "2025-05-05T13:01:43.000Z",
-          "wordCount": 2235,
-          "title": "Modern Scroll Shadows Using Scroll-Driven Animations",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/04/scroll-shadows-table.jpg"
         }
       ]
     },
@@ -173,6 +163,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2025/06/smashing-animations-part-4-optimising-svgs/",
+          "author": "hello@smashingmagazine.com (Andy Clarke)",
+          "description": "What’s the best way to make your SVGs faster, simpler, and more manageable? In this article, pioneering author and web designer Andy Clarke explains the process he relies on *to* prepare, optimise, and structure SVGs for animation and beyond.",
+          "link": "https://smashingmagazine.com/2025/06/smashing-animations-part-4-optimising-svgs/",
+          "publishedOn": "2025-06-04T08:00:00.000Z",
+          "wordCount": 4565,
+          "title": "Smashing Animations Part 4: Optimising SVGs",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/smashing-animations-part-4-optimising-svgs/smashing-animations-part-4-optimising-svgs.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/smashing-animations-part-4-optimising-svgs/smashing-animations-part-4-optimising-svgs.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2025/06/why-designers-get-stuck-in-details/",
           "author": "hello@smashingmagazine.com (Nikita Samutin)",
@@ -405,6 +410,36 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "68408c368ab45ab43dad48c6",
+          "author": "Beau Carnes",
+          "description": "Making games is one of the best ways to learn programming. It pushes you to think logically, stay organized, and solve real problems. Plus, it’s just fun. If you're looking to improve your C programming skills and learn how to create a complete game ...",
+          "link": "https://www.freecodecamp.org/news/c-game-development-with-raylib/",
+          "publishedOn": "2025-06-04T18:11:02.000Z",
+          "wordCount": 1296,
+          "title": "C Game Development with Raylib",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1749060645649/662c81ad-c0c8-4456-83dc-935a4b6d4cf9.png"
+        },
+        {
+          "id": "68402e7af9ce257b34574bed",
+          "author": "Estefania Cassingena Navone",
+          "description": "Godot is an open-source, lightweight, and powerful game engine. This course will teach you how to use it to bring your game ideas to life. We just published a course on the freeCodeCamp.org Spanish YouTube channel that will guide you step by step thr...",
+          "link": "https://www.freecodecamp.org/news/learn-godot-course-for-beginners-in-spanish/",
+          "publishedOn": "2025-06-04T11:31:06.000Z",
+          "wordCount": 1331,
+          "title": "Learn Godot – Course for Beginners in Spanish",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1748954260255/3d544e9f-2191-409a-b52e-bcf24ceab5a6.png"
+        },
+        {
+          "id": "683f922e111e5ab9c8a4e188",
+          "author": "Beau Carnes",
+          "description": "Learning general chemistry is one of the most important steps you can take if you're planning to study science in any serious way. Chemistry is foundational. It connects to biology, physics, environmental science, engineering, medicine, and so much m...",
+          "link": "https://www.freecodecamp.org/news/general-chemistry-college-course/",
+          "publishedOn": "2025-06-04T00:24:14.000Z",
+          "wordCount": 1328,
+          "title": "General Chemistry College Course",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1748996622370/4f362422-95a2-4dfc-afa9-23325e24dcbc.png"
+        },
         {
           "id": "683f04aedfb685791a4e8dd2",
           "author": "Balajee Asish Brahmandam",
@@ -1014,26 +1049,6 @@
           "wordCount": 1979,
           "title": "How to Create Serverless AI Agents with Langbase Docs MCP Server in Minutes",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1746545857204/6df2b802-a7dc-4745-ac64-117c1c0f7ee1.png"
-        },
-        {
-          "id": "68190b8f1abafc5ea9d7efbf",
-          "author": "Beau Carnes",
-          "description": "Do you want to build a practical project to help improve your C++ skills? Have you ever wanted to create your own unique audio effects? Then diving into C++ audio plugin development with the JUCE framework might be your next great step We just publis...",
-          "link": "https://www.freecodecamp.org/news/improve-you-c-skills-by-coding-an-audio-plugin/",
-          "publishedOn": "2025-05-05T19:03:43.000Z",
-          "wordCount": 1147,
-          "title": "Improve you C++ skills by coding an audio plugin",
-          "imageUrl": "https://cdn.freecodecamp.org/platform/universal/fcc_meta_1920X1080-indigo.png"
-        },
-        {
-          "id": "6818d1793c6be4514080aea9",
-          "author": "Timothy Olanrewaju",
-          "description": "Have you ever found yourself stuck deciding what color outfit to wear? Maybe you’re mixing and matching different tops and bottoms, unsure if the colors go together. It’s a common dilemma – so common that many of us turn to friends or family for a se...",
-          "link": "https://www.freecodecamp.org/news/how-to-build-a-dynamic-wardrobe-app-with-react-drag-and-drop/",
-          "publishedOn": "2025-05-05T14:55:53.000Z",
-          "wordCount": 2973,
-          "title": "How to Build a Dynamic Wardrobe App with React Drag and Drop",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1746456835547/563ca5bd-27b0-421e-a0f3-a13f97388449.png"
         }
       ]
     }
