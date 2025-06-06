@@ -2,10 +2,62 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-05T00:15:34.753Z</updated>
+    <updated>2025-06-06T00:15:21.737Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[OpenFeign vs WebClient: How to Choose a REST Client for Your Spring Boot Project]]></title>
+        <id>6841f2c63a801418642db429</id>
+        <link href="https://www.freecodecamp.org/news/best-choice-openfeign-or-webclient/"/>
+        <updated>2025-06-05T19:40:54.000Z</updated>
+        <summary type="html"><![CDATA[When building microservices with Spring Boot, you’ll have to decide how the services will communicate with one another. The basic choices in terms of protocols are Messaging and REST. In this article we’ll discuss tools based on REST, which is a comm...]]></summary>
+        <author>
+            <name>Mario Casari</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From Commit to Production: Hands-On GitOps Promotion with GitHub Actions, Argo CD, Helm, and Kargo]]></title>
+        <id>6841f1319c94d5fa67dae6e3</id>
+        <link href="https://www.freecodecamp.org/news/from-commit-to-production-hands-on-gitops-promotion-with-github-actions-argo-cd-helm-and-kargo/"/>
+        <updated>2025-06-05T19:34:08.000Z</updated>
+        <summary type="html"><![CDATA[Have you ever wanted to go beyond ‘hello world’ and build a real, production-style CI/CD pipeline – starting from scratch? Let’s pause for a moment: what are you trying to learn from your DevOps journey? Are you focusing on GitOps-style deployments, ...]]></summary>
+        <author>
+            <name>Nitheesh Poojary</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Exploring the CSS contrast-color() Function… a Second Time]]></title>
+        <id>https://css-tricks.com/?p=386829</id>
+        <link href="https://css-tricks.com/exploring-the-css-contrast-color-function-a-second-time/"/>
+        <updated>2025-06-05T13:45:56.000Z</updated>
+        <summary type="html"><![CDATA[The contrast-color() function doesn’t check color contrast, but rather it outright resolves to either black or white (whichever one contrasts the most with your chosen color). Safari Technology Preview recently implemented it and we explore its possible uses in this article.
+Exploring the CSS contrast-color() Function… a Second Time originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Daniel Schwarz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The State of CSS 2025 Survey is out!]]></title>
+        <id>https://css-tricks.com/?p=387046</id>
+        <link href="https://css-tricks.com/the-state-of-css-2025-survey-is-out/"/>
+        <updated>2025-06-05T11:13:00.000Z</updated>
+        <summary type="html"><![CDATA[The State of CSS 2025 Survey dropped a few days ago, and besides anticipating the results, it's exciting to see a lot of the new things shipped to CSS reflected in the questions.
+The State of CSS 2025 Survey is out! originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Juan Diego Rodríguez</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Collaboration: The Most Underrated UX Skill No One Talks About]]></title>
+        <id>https://smashingmagazine.com/2025/06/collaboration-most-underrated-ux-skill/</id>
+        <link href="https://smashingmagazine.com/2025/06/collaboration-most-underrated-ux-skill/"/>
+        <updated>2025-06-05T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[We often spotlight wireframes, research, or tools like Figma, but none of that moves the needle if we can’t collaborate well. Great UX doesn’t happen in isolation. It takes conversations with engineers, alignment with product, sales, and other stakeholders, and the ability to listen, adapt, and co-create. That’s where design becomes a team sport, and when your ability to capture the outcomes multiplies the UX impact.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Carrie Webster)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[C Game Development with Raylib]]></title>
         <id>68408c368ab45ab43dad48c6</id>
@@ -887,77 +939,6 @@ Orbital Mechanics (or How I Optimized a CSS Keyframes Animation) originally publ
 Why is Nobody Using the hwb() Color Function? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Sunkanmi Fafowora</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Smashing Animations Part 1: How Classic Cartoons Inspire Modern CSS]]></title>
-        <id>https://smashingmagazine.com/2025/05/smashing-animations-part-1-classic-cartoons-inspire-css/</id>
-        <link href="https://smashingmagazine.com/2025/05/smashing-animations-part-1-classic-cartoons-inspire-css/"/>
-        <updated>2025-05-07T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Have you ever thought about how the limitations of early cartoon animations might relate to web design today? From looping backgrounds to minimal frame changes, these retro animation techniques have surprising parallels to modern CSS. In this article, pioneering author and web designer [Andy Clarke](https://stuffandnonsense.co.uk) shows how he applied these principles to Emmy-winning composer Mike Worth’s new website, using CSS to craft engaging and fun animations that bring his world to life.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Andy Clarke)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Secure Mobile APIs in Flutter]]></title>
-        <id>681a707658599a397b11b418</id>
-        <link href="https://www.freecodecamp.org/news/how-to-secure-mobile-apis-in-flutter/"/>
-        <updated>2025-05-06T20:26:30.000Z</updated>
-        <summary type="html"><![CDATA[As mobile applications continue to evolve in functionality and scope, securing the APIs that power these apps has become more critical than ever. In the context of Flutter, a framework that enables cross-platform development, understanding how to sec...]]></summary>
-        <author>
-            <name>Atuoha Anthony</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Create Documentation with docs.page – A Beginner's Tutorial]]></title>
-        <id>681a558b9791d0e469b84519</id>
-        <link href="https://www.freecodecamp.org/news/how-to-create-documentation-with-docspage/"/>
-        <updated>2025-05-06T18:31:39.000Z</updated>
-        <summary type="html"><![CDATA[One of the most tedious tasks for every startup, company, and open-source project is often building and managing documentation – especially for medium to large-scale documentation websites. docs.page is an open-source documentation tool that helps yo...]]></summary>
-        <author>
-            <name>Rajdeep Singh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build Your Own Local AI: Create Free RAG and AI Agents with Qwen 3 and Ollama]]></title>
-        <id>681a35d4d5da806f5e9467b1</id>
-        <link href="https://www.freecodecamp.org/news/build-a-local-ai/"/>
-        <updated>2025-05-06T16:16:20.000Z</updated>
-        <summary type="html"><![CDATA[The landscape of Artificial Intelligence is rapidly evolving, and one of the most exciting trends is the ability to run powerful Large Language Models (LLMs) directly on your local machine. This shift away from reliance on cloud-based APIs offers sig...]]></summary>
-        <author>
-            <name>Chaitanya Rahalkar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Create Serverless AI Agents with Langbase Docs MCP Server in Minutes]]></title>
-        <id>681a2ce0aebfc718f4e6da03</id>
-        <link href="https://www.freecodecamp.org/news/how-to-create-serverless-ai-agents-with-langbase-docs-mcp-server-in-minutes/"/>
-        <updated>2025-05-06T15:38:08.000Z</updated>
-        <summary type="html"><![CDATA[Building serverless AI agents has recently become a lot simpler. With the Langbase Docs MCP server, you can instantly connect AI models to Langbase documentation – making it easy to build composable, agentic AI systems with memory without complex inf...]]></summary>
-        <author>
-            <name>Maham Codes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GSAP is Now Completely Free, Even for Commercial Use!]]></title>
-        <id>https://css-tricks.com/?p=386482</id>
-        <link href="https://css-tricks.com/gsap-is-now-completely-free-even-for-commercial-use/"/>
-        <updated>2025-05-06T14:14:41.000Z</updated>
-        <summary type="html"><![CDATA[Along with the version 3.13 release, GSAP, and all its awesome plugins, are now freely available to everyone.
-GSAP is Now Completely Free, Even for Commercial Use! originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Ryan Trimble</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Masonry In CSS: Should Grid Evolve Or Stand Aside For A New Module?]]></title>
-        <id>https://smashingmagazine.com/2025/05/masonry-css-should-grid-evolve-stand-aside-new-module/</id>
-        <link href="https://smashingmagazine.com/2025/05/masonry-css-should-grid-evolve-stand-aside-new-module/"/>
-        <updated>2025-05-06T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[There were duelling proposals floating around for adding support for masonry-style layouts in CSS. In one corner is a proposal that extends the existing CSS Grid specification. In the other corner is a second proposal that sets up masonry as a standalone module. Well, not until recently. Now, there are three proposals with Apple WebKit’s “Item Flow” as the third option. The first two sides make strong points, and the third one merges them into one, all of which you will learn about in this article.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Gabriel Shoyombo)</name>
         </author>
     </entry>
 </feed>

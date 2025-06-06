@@ -12,6 +12,26 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=386829",
+          "author": "Daniel Schwarz",
+          "description": "The contrast-color() function doesn’t check color contrast, but rather it outright resolves to either black or white (whichever one contrasts the most with your chosen color). Safari Technology Preview recently implemented it and we explore its possible uses in this article.\nExploring the CSS contrast-color() Function… a Second Time originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/exploring-the-css-contrast-color-function-a-second-time/",
+          "publishedOn": "2025-06-05T13:45:56.000Z",
+          "wordCount": 3284,
+          "title": "Exploring the CSS contrast-color() Function… a Second Time",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2020/03/contrast-colors.jpg"
+        },
+        {
+          "id": "https://css-tricks.com/?p=387046",
+          "author": "Juan Diego Rodríguez",
+          "description": "The State of CSS 2025 Survey dropped a few days ago, and besides anticipating the results, it's exciting to see a lot of the new things shipped to CSS reflected in the questions.\nThe State of CSS 2025 Survey is out! originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/the-state-of-css-2025-survey-is-out/",
+          "publishedOn": "2025-06-05T11:13:00.000Z",
+          "wordCount": 1880,
+          "title": "The State of CSS 2025 Survey is out!",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/06/state_of_css_2025.jpg"
+        },
+        {
           "id": "https://css-tricks.com/?p=386750",
           "author": "Andy Clarke",
           "description": "So, how can you take dialogue box design beyond the generic look of frameworks and templates? How can you style them to reflect a brand’s visual identity and help to tell its stories? Here’s how I do it in CSS using ::backdrop, backdrop-filter, and animations.\nGetting Creative With HTML Dialog originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -145,16 +165,6 @@
           "wordCount": 2541,
           "title": "Why is Nobody Using the hwb() Color Function?",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/10/stripe-accessible-colors.png"
-        },
-        {
-          "id": "https://css-tricks.com/?p=386482",
-          "author": "Ryan Trimble",
-          "description": "Along with the version 3.13 release, GSAP, and all its awesome plugins, are now freely available to everyone.\nGSAP is Now Completely Free, Even for Commercial Use! originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/gsap-is-now-completely-free-even-for-commercial-use/",
-          "publishedOn": "2025-05-06T14:14:41.000Z",
-          "wordCount": 1849,
-          "title": "GSAP is Now Completely Free, Even for Commercial Use!",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/05/Screenshot-2025-05-05-at-3.27.23%E2%80%AFPM-scaled.png"
         }
       ]
     },
@@ -163,6 +173,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2025/06/collaboration-most-underrated-ux-skill/",
+          "author": "hello@smashingmagazine.com (Carrie Webster)",
+          "description": "We often spotlight wireframes, research, or tools like Figma, but none of that moves the needle if we can’t collaborate well. Great UX doesn’t happen in isolation. It takes conversations with engineers, alignment with product, sales, and other stakeholders, and the ability to listen, adapt, and co-create. That’s where design becomes a team sport, and when your ability to capture the outcomes multiplies the UX impact.",
+          "link": "https://smashingmagazine.com/2025/06/collaboration-most-underrated-ux-skill/",
+          "publishedOn": "2025-06-05T08:00:00.000Z",
+          "wordCount": 4730,
+          "title": "Collaboration: The Most Underrated UX Skill No One Talks About",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/collaboration-most-underrated-ux-skill/collaboration-most-underrated-ux-skill.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/collaboration-most-underrated-ux-skill/collaboration-most-underrated-ux-skill.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2025/06/smashing-animations-part-4-optimising-svgs/",
           "author": "hello@smashingmagazine.com (Andy Clarke)",
@@ -372,36 +397,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/integrating-design-code-native-design-tokens-penpot/integrating-design-code-native-design-tokens-penpot.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2025/05/smashing-animations-part-1-classic-cartoons-inspire-css/",
-          "author": "hello@smashingmagazine.com (Andy Clarke)",
-          "description": "Have you ever thought about how the limitations of early cartoon animations might relate to web design today? From looping backgrounds to minimal frame changes, these retro animation techniques have surprising parallels to modern CSS. In this article, pioneering author and web designer [Andy Clarke](https://stuffandnonsense.co.uk) shows how he applied these principles to Emmy-winning composer Mike Worth’s new website, using CSS to craft engaging and fun animations that bring his world to life.",
-          "link": "https://smashingmagazine.com/2025/05/smashing-animations-part-1-classic-cartoons-inspire-css/",
-          "publishedOn": "2025-05-07T08:00:00.000Z",
-          "wordCount": 5508,
-          "title": "Smashing Animations Part 1: How Classic Cartoons Inspire Modern CSS",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/smashing-animations-part-1-classic-cartoons-inspire-css/smashing-animations-part-1-classic-cartoons-inspire-css.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/smashing-animations-part-1-classic-cartoons-inspire-css/smashing-animations-part-1-classic-cartoons-inspire-css.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2025/05/masonry-css-should-grid-evolve-stand-aside-new-module/",
-          "author": "hello@smashingmagazine.com (Gabriel Shoyombo)",
-          "description": "There were duelling proposals floating around for adding support for masonry-style layouts in CSS. In one corner is a proposal that extends the existing CSS Grid specification. In the other corner is a second proposal that sets up masonry as a standalone module. Well, not until recently. Now, there are three proposals with Apple WebKit’s “Item Flow” as the third option. The first two sides make strong points, and the third one merges them into one, all of which you will learn about in this article.",
-          "link": "https://smashingmagazine.com/2025/05/masonry-css-should-grid-evolve-stand-aside-new-module/",
-          "publishedOn": "2025-05-06T13:00:00.000Z",
-          "wordCount": 4920,
-          "title": "Masonry In CSS: Should Grid Evolve Or Stand Aside For A New Module?",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/masonry-css-should-grid-evolve-stand-aside-new-module/masonry-css-should-grid-evolve-stand-aside-new-module.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/masonry-css-should-grid-evolve-stand-aside-new-module/masonry-css-should-grid-evolve-stand-aside-new-module.jpg"
         }
       ]
     },
@@ -410,6 +405,26 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "6841f2c63a801418642db429",
+          "author": "Mario Casari",
+          "description": "When building microservices with Spring Boot, you’ll have to decide how the services will communicate with one another. The basic choices in terms of protocols are Messaging and REST. In this article we’ll discuss tools based on REST, which is a comm...",
+          "link": "https://www.freecodecamp.org/news/best-choice-openfeign-or-webclient/",
+          "publishedOn": "2025-06-05T19:40:54.000Z",
+          "wordCount": 1808,
+          "title": "OpenFeign vs WebClient: How to Choose a REST Client for Your Spring Boot Project",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1749152217156/dc3e8896-b084-4bec-a549-b51a821f7d69.png"
+        },
+        {
+          "id": "6841f1319c94d5fa67dae6e3",
+          "author": "Nitheesh Poojary",
+          "description": "Have you ever wanted to go beyond ‘hello world’ and build a real, production-style CI/CD pipeline – starting from scratch? Let’s pause for a moment: what are you trying to learn from your DevOps journey? Are you focusing on GitOps-style deployments, ...",
+          "link": "https://www.freecodecamp.org/news/from-commit-to-production-hands-on-gitops-promotion-with-github-actions-argo-cd-helm-and-kargo/",
+          "publishedOn": "2025-06-05T19:34:08.000Z",
+          "wordCount": 4976,
+          "title": "From Commit to Production: Hands-On GitOps Promotion with GitHub Actions, Argo CD, Helm, and Kargo",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1749151777327/ece5b0b7-4a9a-4f95-8ebb-32e3768b678f.png"
+        },
         {
           "id": "68408c368ab45ab43dad48c6",
           "author": "Beau Carnes",
@@ -1009,46 +1024,6 @@
           "wordCount": 10977,
           "title": "The Front-End Performance Optimization Handbook – Tips and Strategies for Devs",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1746468304666/ca24ac6b-1591-4abf-a544-739fbfaecf49.png"
-        },
-        {
-          "id": "681a707658599a397b11b418",
-          "author": "Atuoha Anthony",
-          "description": "As mobile applications continue to evolve in functionality and scope, securing the APIs that power these apps has become more critical than ever. In the context of Flutter, a framework that enables cross-platform development, understanding how to sec...",
-          "link": "https://www.freecodecamp.org/news/how-to-secure-mobile-apis-in-flutter/",
-          "publishedOn": "2025-05-06T20:26:30.000Z",
-          "wordCount": 4326,
-          "title": "How to Secure Mobile APIs in Flutter",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1746476077222/979756aa-b172-4961-bd7d-5fb6ec3d580b.png"
-        },
-        {
-          "id": "681a558b9791d0e469b84519",
-          "author": "Rajdeep Singh",
-          "description": "One of the most tedious tasks for every startup, company, and open-source project is often building and managing documentation – especially for medium to large-scale documentation websites. docs.page is an open-source documentation tool that helps yo...",
-          "link": "https://www.freecodecamp.org/news/how-to-create-documentation-with-docspage/",
-          "publishedOn": "2025-05-06T18:31:39.000Z",
-          "wordCount": 3649,
-          "title": "How to Create Documentation with docs.page – A Beginner's Tutorial",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1746471569068/23f70d3e-a76e-4287-a6a9-579c23a4fcb2.png"
-        },
-        {
-          "id": "681a35d4d5da806f5e9467b1",
-          "author": "Chaitanya Rahalkar",
-          "description": "The landscape of Artificial Intelligence is rapidly evolving, and one of the most exciting trends is the ability to run powerful Large Language Models (LLMs) directly on your local machine. This shift away from reliance on cloud-based APIs offers sig...",
-          "link": "https://www.freecodecamp.org/news/build-a-local-ai/",
-          "publishedOn": "2025-05-06T16:16:20.000Z",
-          "wordCount": 5425,
-          "title": "How to Build Your Own Local AI: Create Free RAG and AI Agents with Qwen 3 and Ollama",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1746545253944/58b04b54-e443-4804-bedd-3290bfda5bb7.png"
-        },
-        {
-          "id": "681a2ce0aebfc718f4e6da03",
-          "author": "Maham Codes",
-          "description": "Building serverless AI agents has recently become a lot simpler. With the Langbase Docs MCP server, you can instantly connect AI models to Langbase documentation – making it easy to build composable, agentic AI systems with memory without complex inf...",
-          "link": "https://www.freecodecamp.org/news/how-to-create-serverless-ai-agents-with-langbase-docs-mcp-server-in-minutes/",
-          "publishedOn": "2025-05-06T15:38:08.000Z",
-          "wordCount": 1979,
-          "title": "How to Create Serverless AI Agents with Langbase Docs MCP Server in Minutes",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1746545857204/6df2b802-a7dc-4745-ac64-117c1c0f7ee1.png"
         }
       ]
     }
