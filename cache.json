@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=386876",
+          "author": "Temani Afif",
+          "description": "This is the third article in a series about the CSS shape() function. We've covered drawing lines and arcs in previous articles and, this time, we look specifically at the curve command and how to use it for drawing complex shapes.\nBetter CSS Shapes Using shape() — Part 3: Curves originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/better-css-shapes-using-shape-part-3-curves/",
+          "publishedOn": "2025-06-06T13:52:42.000Z",
+          "wordCount": 3944,
+          "title": "Better CSS Shapes Using shape() — Part 3: Curves",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/05/css-shape-curve-diagram.webp"
+        },
+        {
           "id": "https://css-tricks.com/?p=386829",
           "author": "Daniel Schwarz",
           "description": "The contrast-color() function doesn’t check color contrast, but rather it outright resolves to either black or white (whichever one contrasts the most with your chosen color). Safari Technology Preview recently implemented it and we explore its possible uses in this article.\nExploring the CSS contrast-color() Function… a Second Time originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -155,16 +165,6 @@
           "wordCount": 3283,
           "title": "Orbital Mechanics (or How I Optimized a CSS Keyframes Animation)",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/04/space-planet-stars.jpg"
-        },
-        {
-          "id": "https://css-tricks.com/?p=386463",
-          "author": "Sunkanmi Fafowora",
-          "description": "Okay, nobody is an exaggeration, but have you seen the stats for hwb()? They show a steep decline, and after working a lot on color in the CSS-Tricks almanac, I’ve just been wondering why that is.\nWhy is Nobody Using the hwb() Color Function? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/why-is-nobody-using-the-hwb-color-function/",
-          "publishedOn": "2025-05-07T12:25:19.000Z",
-          "wordCount": 2541,
-          "title": "Why is Nobody Using the hwb() Color Function?",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/10/stripe-accessible-colors.png"
         }
       ]
     },
@@ -382,21 +382,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/integrating-localization-into-design-systems/integrating-localization-into-design-systems.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2025/05/integrating-design-code-native-design-tokens-penpot/",
-          "author": "hello@smashingmagazine.com (Mikołaj Dobrucki)",
-          "description": "The Penpot team is not slowing down on its mission to build a free design tool that not only offers powerful design features but is also well-integrated with code and modern development practices. In its latest release, Penpot, as the first design tool ever, introduces support for native design tokens. Let’s take a closer look at this concept and how you can employ it in your process.",
-          "link": "https://smashingmagazine.com/2025/05/integrating-design-code-native-design-tokens-penpot/",
-          "publishedOn": "2025-05-08T10:00:00.000Z",
-          "wordCount": 4941,
-          "title": "Integrating Design And Code With Native Design Tokens In Penpot",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/integrating-design-code-native-design-tokens-penpot/integrating-design-code-native-design-tokens-penpot.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/integrating-design-code-native-design-tokens-penpot/integrating-design-code-native-design-tokens-penpot.jpg"
         }
       ]
     },
@@ -405,6 +390,46 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "6842e00169a5099a551058ce",
+          "author": "Beau Carnes",
+          "description": "On this week's episode of the podcast, freeCodeCamp founder Quincy Larson interviews former CTO and prolific programming teacher Hitesh Choudhary.   We talk about: The limits of AI in building a robust codebase Time management Higher Education in ...",
+          "link": "https://www.freecodecamp.org/news/from-electrical-engineering-student-to-cto-with-hitesh-choudhary-podcast-175/",
+          "publishedOn": "2025-06-06T12:33:05.000Z",
+          "wordCount": 1005,
+          "title": "From electrical engineering student to CTO with Hitesh Choudhary [Podcast #175]",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1749158756824/3996a2ad-53e5-4a8f-ab97-2c77a6f66ba3.png"
+        },
+        {
+          "id": "6842cf8a6fcd9b03c19d04ea",
+          "author": "Manish Shivanandhan",
+          "description": "Working remotely gives your team flexibility, but it also opens the door to cyber threats. Remote workers are more exposed without the protection of office firewalls and on-site IT teams.  Hackers know that people often use weak passwords, forget to ...",
+          "link": "https://www.freecodecamp.org/news/protect-remote-workforce-from-cyber-attacks/",
+          "publishedOn": "2025-06-06T11:22:50.000Z",
+          "wordCount": 2155,
+          "title": "How to Protect Your Remote Workforce from Cyber Attacks",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1749208531787/897b9afd-128e-4573-a57f-e59e31d23a20.png"
+        },
+        {
+          "id": "6842c4f3e7fdc9878ba5dadd",
+          "author": "Brandon Wozniewicz",
+          "description": "Technical debt refers to the future cost – measured in terms of time, money, effort, or opportunity – of choosing expedient solutions today instead of more deliberate and scalable ones. And it's not just a pro-code concept. It might be easier to unde...",
+          "link": "https://www.freecodecamp.org/news/how-to-reduce-technical-debt-in-the-power-platform/",
+          "publishedOn": "2025-06-06T10:37:39.000Z",
+          "wordCount": 3219,
+          "title": "How to Reduce Technical Debt in the Power Platform",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1748957101508/ffb9fc9d-3d35-477b-841f-280d8c6a6793.png"
+        },
+        {
+          "id": "6842c120a3469a9ca728862b",
+          "author": "Andrew Maksimchenko",
+          "description": "Over the years, in my role as a lead full-stack developer, solutions architect, and mentor, I’ve been immersed in the world of micro frontend architecture, working across different large-scale frontend projects where multiple teams, stacks, and deplo...",
+          "link": "https://www.freecodecamp.org/news/complete-micro-frontends-guide/",
+          "publishedOn": "2025-06-06T10:21:20.000Z",
+          "wordCount": 7751,
+          "title": "The Micro-Frontend Architecture Handbook",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1748915817752/b35a8786-9aa7-46cd-a1d8-f82069470496.png"
+        },
         {
           "id": "6841f2c63a801418642db429",
           "author": "Mario Casari",
@@ -994,36 +1019,6 @@
           "wordCount": 2022,
           "title": "A Brief Introduction to Web Components",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1746625674217/902b1ac1-f7c2-42cd-b12f-d9803e58739d.png"
-        },
-        {
-          "id": "681b80ee1a1a4e16cffa1a50",
-          "author": "Beau Carnes",
-          "description": "Building modern full-stack applications requires a strong grasp of various interconnected technologies. And what better way to learn than by creating a real-world project that mimics a widely used tool like Dropbox? That’s exactly what this new cours...",
-          "link": "https://www.freecodecamp.org/news/code-a-dropbox-clone-with-nextjs/",
-          "publishedOn": "2025-05-07T15:49:02.000Z",
-          "wordCount": 1278,
-          "title": "Code a Dropbox Clone with NextJS",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1746632864462/6865d2b6-8c07-424e-afd2-9200550a976d.png"
-        },
-        {
-          "id": "681b77a47396438eaee0c5ce",
-          "author": "Eda Eren",
-          "description": "It is said that there are two different worlds in TypeScript that exist side by side: the type world and the value world. Consider this line of code: const firstName: string = 'Maynard'; While firstName and 'Maynard' live in the value world, string ...",
-          "link": "https://www.freecodecamp.org/news/recursive-types-in-typescript-a-brief-exploration/",
-          "publishedOn": "2025-05-07T15:09:24.000Z",
-          "wordCount": 2585,
-          "title": "Recursive Types in TypeScript: A Brief Exploration",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1746625684891/6a4e2dae-a7b2-415d-a65d-be47c5d73253.png"
-        },
-        {
-          "id": "681b5e61b1ed0b90facd0adf",
-          "author": "Gordan Tan",
-          "description": "When you’re building a website, you’ll want it to be responsive, fast, and efficient. This means making sure the site loads quickly, runs smoothly, and provides a seamless experience for your users, among other things. So as you build, you’ll want to...",
-          "link": "https://www.freecodecamp.org/news/the-front-end-performance-optimization-handbook/",
-          "publishedOn": "2025-05-07T13:21:37.000Z",
-          "wordCount": 10977,
-          "title": "The Front-End Performance Optimization Handbook – Tips and Strategies for Devs",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1746468304666/ca24ac6b-1591-4abf-a544-739fbfaecf49.png"
         }
       ]
     }

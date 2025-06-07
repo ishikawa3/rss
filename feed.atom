@@ -2,10 +2,61 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-06T00:15:21.737Z</updated>
+    <updated>2025-06-07T00:15:17.100Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Better CSS Shapes Using shape() — Part 3: Curves]]></title>
+        <id>https://css-tricks.com/?p=386876</id>
+        <link href="https://css-tricks.com/better-css-shapes-using-shape-part-3-curves/"/>
+        <updated>2025-06-06T13:52:42.000Z</updated>
+        <summary type="html"><![CDATA[This is the third article in a series about the CSS shape() function. We've covered drawing lines and arcs in previous articles and, this time, we look specifically at the curve command and how to use it for drawing complex shapes.
+Better CSS Shapes Using shape() — Part 3: Curves originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Temani Afif</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From electrical engineering student to CTO with Hitesh Choudhary [Podcast #175]]]></title>
+        <id>6842e00169a5099a551058ce</id>
+        <link href="https://www.freecodecamp.org/news/from-electrical-engineering-student-to-cto-with-hitesh-choudhary-podcast-175/"/>
+        <updated>2025-06-06T12:33:05.000Z</updated>
+        <summary type="html"><![CDATA[On this week's episode of the podcast, freeCodeCamp founder Quincy Larson interviews former CTO and prolific programming teacher Hitesh Choudhary.   We talk about: The limits of AI in building a robust codebase Time management Higher Education in ...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Protect Your Remote Workforce from Cyber Attacks]]></title>
+        <id>6842cf8a6fcd9b03c19d04ea</id>
+        <link href="https://www.freecodecamp.org/news/protect-remote-workforce-from-cyber-attacks/"/>
+        <updated>2025-06-06T11:22:50.000Z</updated>
+        <summary type="html"><![CDATA[Working remotely gives your team flexibility, but it also opens the door to cyber threats. Remote workers are more exposed without the protection of office firewalls and on-site IT teams.  Hackers know that people often use weak passwords, forget to ...]]></summary>
+        <author>
+            <name>Manish Shivanandhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Reduce Technical Debt in the Power Platform]]></title>
+        <id>6842c4f3e7fdc9878ba5dadd</id>
+        <link href="https://www.freecodecamp.org/news/how-to-reduce-technical-debt-in-the-power-platform/"/>
+        <updated>2025-06-06T10:37:39.000Z</updated>
+        <summary type="html"><![CDATA[Technical debt refers to the future cost – measured in terms of time, money, effort, or opportunity – of choosing expedient solutions today instead of more deliberate and scalable ones. And it's not just a pro-code concept. It might be easier to unde...]]></summary>
+        <author>
+            <name>Brandon Wozniewicz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Micro-Frontend Architecture Handbook]]></title>
+        <id>6842c120a3469a9ca728862b</id>
+        <link href="https://www.freecodecamp.org/news/complete-micro-frontends-guide/"/>
+        <updated>2025-06-06T10:21:20.000Z</updated>
+        <summary type="html"><![CDATA[Over the years, in my role as a lead full-stack developer, solutions architect, and mentor, I’ve been immersed in the world of micro frontend architecture, working across different large-scale frontend projects where multiple teams, stacks, and deplo...]]></summary>
+        <author>
+            <name>Andrew Maksimchenko</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[OpenFeign vs WebClient: How to Choose a REST Client for Your Spring Boot Project]]></title>
         <id>6841f2c63a801418642db429</id>
@@ -888,57 +939,6 @@ Using Pages CMS for Static Site Content Management originally published on CSS-T
 Orbital Mechanics (or How I Optimized a CSS Keyframes Animation) originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>John Rhea</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Integrating Design And Code With Native Design Tokens In Penpot]]></title>
-        <id>https://smashingmagazine.com/2025/05/integrating-design-code-native-design-tokens-penpot/</id>
-        <link href="https://smashingmagazine.com/2025/05/integrating-design-code-native-design-tokens-penpot/"/>
-        <updated>2025-05-08T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The Penpot team is not slowing down on its mission to build a free design tool that not only offers powerful design features but is also well-integrated with code and modern development practices. In its latest release, Penpot, as the first design tool ever, introduces support for native design tokens. Let’s take a closer look at this concept and how you can employ it in your process.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Mikołaj Dobrucki)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Code a Dropbox Clone with NextJS]]></title>
-        <id>681b80ee1a1a4e16cffa1a50</id>
-        <link href="https://www.freecodecamp.org/news/code-a-dropbox-clone-with-nextjs/"/>
-        <updated>2025-05-07T15:49:02.000Z</updated>
-        <summary type="html"><![CDATA[Building modern full-stack applications requires a strong grasp of various interconnected technologies. And what better way to learn than by creating a real-world project that mimics a widely used tool like Dropbox? That’s exactly what this new cours...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Recursive Types in TypeScript: A Brief Exploration]]></title>
-        <id>681b77a47396438eaee0c5ce</id>
-        <link href="https://www.freecodecamp.org/news/recursive-types-in-typescript-a-brief-exploration/"/>
-        <updated>2025-05-07T15:09:24.000Z</updated>
-        <summary type="html"><![CDATA[It is said that there are two different worlds in TypeScript that exist side by side: the type world and the value world. Consider this line of code: const firstName: string = 'Maynard'; While firstName and 'Maynard' live in the value world, string ...]]></summary>
-        <author>
-            <name>Eda Eren</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Front-End Performance Optimization Handbook – Tips and Strategies for Devs]]></title>
-        <id>681b5e61b1ed0b90facd0adf</id>
-        <link href="https://www.freecodecamp.org/news/the-front-end-performance-optimization-handbook/"/>
-        <updated>2025-05-07T13:21:37.000Z</updated>
-        <summary type="html"><![CDATA[When you’re building a website, you’ll want it to be responsive, fast, and efficient. This means making sure the site loads quickly, runs smoothly, and provides a seamless experience for your users, among other things. So as you build, you’ll want to...]]></summary>
-        <author>
-            <name>Gordan Tan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why is Nobody Using the hwb() Color Function?]]></title>
-        <id>https://css-tricks.com/?p=386463</id>
-        <link href="https://css-tricks.com/why-is-nobody-using-the-hwb-color-function/"/>
-        <updated>2025-05-07T12:25:19.000Z</updated>
-        <summary type="html"><![CDATA[Okay, nobody is an exaggeration, but have you seen the stats for hwb()? They show a steep decline, and after working a lot on color in the CSS-Tricks almanac, I’ve just been wondering why that is.
-Why is Nobody Using the hwb() Color Function? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Sunkanmi Fafowora</name>
         </author>
     </entry>
 </feed>
