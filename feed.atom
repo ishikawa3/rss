@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-07T00:15:17.100Z</updated>
+    <updated>2025-06-08T00:17:15.983Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
@@ -878,67 +878,6 @@ Using Pages CMS for Static Site Content Management originally published on CSS-T
         <summary type="html"><![CDATA[You’ve probably heard someone say, “We’ll fix it later.” Maybe you’ve said it yourself. In the rush to launch a feature, meet a deadline, or impress a client, you take a shortcut. The code works – for now. The design passes – for now. But over time, ...]]></summary>
         <author>
             <name>Manish Shivanandhan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ditching a Microsoft Job to Enter Startup Hell with Lonewolf Engineer Sam Crombie [Podcast #171]]]></title>
-        <id>681dc8d07dcd2a77c4bbe048</id>
-        <link href="https://www.freecodecamp.org/news/ditching-a-microsoft-job-to-enter-startup-hell-with-lonewolf-engineer-sam-crombie-podcast-171/"/>
-        <updated>2025-05-09T09:20:16.000Z</updated>
-        <summary type="html"><![CDATA[On this week's episode of the podcast, freeCodeCamp founder Quincy Larson interviews Sam Crombie. He's a software engineer and prolific open source contributor to freeCodeCamp. He abandon his job at Microsoft, got into Y Combinator, and is currently ...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Prepare for your iOS interview]]></title>
-        <id>681d1bbfb1018a470d0d8a02</id>
-        <link href="https://www.freecodecamp.org/news/prepare-for-your-ios-interview/"/>
-        <updated>2025-05-08T21:01:51.000Z</updated>
-        <summary type="html"><![CDATA[Preparing for an iOS developer interview can be a daunting task, especially when you're trying to master both conceptual questions and practical coding challenges. Whether you're just starting your iOS development journey or gearing up for your next ...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use Arrow Functions in PHP 7.4+]]></title>
-        <id>681cf9062cbe43bee0f4138f</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-arrow-functions-in-php/"/>
-        <updated>2025-05-08T18:33:42.000Z</updated>
-        <summary type="html"><![CDATA[Arrow functions were introduced in PHP 7.4 to allow devs to write short, anonymous functions. They offer a compact alternative to traditional closures, especially when the function body is small and focused. In this article, you will learn how to use...]]></summary>
-        <author>
-            <name>Montasser Mossallem</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Free GenAI 65-Hour Bootcamp]]></title>
-        <id>681cd4ea505e2f4aa02206d5</id>
-        <link href="https://www.freecodecamp.org/news/free-genai-65-hour-bootcamp/"/>
-        <updated>2025-05-08T15:59:38.000Z</updated>
-        <summary type="html"><![CDATA[Generative AI is revolutionizing how we create, learn, and interact with digital content. From intelligent chatbots and personalized language tutors to realistic image generation and interactive story engines, the applications are endless. We just pu...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Brief Introduction to Web Components]]></title>
-        <id>681cce7f505e2f4aa022069b</id>
-        <link href="https://www.freecodecamp.org/news/a-brief-introduction-to-web-components/"/>
-        <updated>2025-05-08T15:32:15.000Z</updated>
-        <summary type="html"><![CDATA[In a previous article, I gave a brief introduction to React. This tutorial introduces an alternative approach to building a component-based frontend. It covers the fundamentals of Web Components to build modular, reusable elements for your web applic...]]></summary>
-        <author>
-            <name>Mark Mahoney</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Orbital Mechanics (or How I Optimized a CSS Keyframes Animation)]]></title>
-        <id>https://css-tricks.com/?p=386270</id>
-        <link href="https://css-tricks.com/orbital-mechanics-or-how-i-optimized-a-css-keyframes-animation/"/>
-        <updated>2025-05-08T12:33:29.000Z</updated>
-        <summary type="html"><![CDATA[What does it look like to refactor your own code? John Rhea picks apart an old CSS animation he wrote and walks through the thought process of optimizing it.
-Orbital Mechanics (or How I Optimized a CSS Keyframes Animation) originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>John Rhea</name>
         </author>
     </entry>
 </feed>
