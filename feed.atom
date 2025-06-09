@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-08T00:17:15.983Z</updated>
+    <updated>2025-06-09T00:16:30.130Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
@@ -858,26 +858,6 @@ Using Pages CMS for Static Site Content Management originally published on CSS-T
         <summary type="html"><![CDATA[Learn how two designers tackled the challenges of building a localization-ready design system for a global audience. This case study dives into how Rebecca and Mark combined Figma Variables and design tokens to address multilingual design issues, such as text overflow, RTL layouts, and font inconsistencies.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Rebecca Hemstad &amp; Mark Malek)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Make IT Operations More Efficient with AIOps: Build Smarter, Faster Systems]]></title>
-        <id>681e7192df44ab8496bca883</id>
-        <link href="https://www.freecodecamp.org/news/make-it-operations-more-efficient-with-aiops/"/>
-        <updated>2025-05-09T21:20:18.000Z</updated>
-        <summary type="html"><![CDATA[In the rapidly evolving IT landscape, development teams have to operate at their best and manage complex systems while minimizing downtime. And having to do many routine tasks manually can really slow down operations and reduce efficiency. These days...]]></summary>
-        <author>
-            <name>Balajee Asish Brahmandam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is Technical Debt and How Do You Manage it?]]></title>
-        <id>681e31e668aa6f9f0c37bb12</id>
-        <link href="https://www.freecodecamp.org/news/what-is-technical-debt-and-how-do-you-manage-it/"/>
-        <updated>2025-05-09T16:48:38.000Z</updated>
-        <summary type="html"><![CDATA[You’ve probably heard someone say, “We’ll fix it later.” Maybe you’ve said it yourself. In the rush to launch a feature, meet a deadline, or impress a client, you take a shortcut. The code works – for now. The design passes – for now. But over time, ...]]></summary>
-        <author>
-            <name>Manish Shivanandhan</name>
         </author>
     </entry>
 </feed>
