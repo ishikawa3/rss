@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=386694",
+          "author": "Preethi",
+          "description": "The HTML popover attribute transforms elements into top-layer elements that can be opened and closed with a button or JavaScript.  Popovers can be dismissed a number of ways, but there is no option to auto-close them. Preethi has a technique you can use.\nCreating an Auto-Closing Notification With an HTML Popover originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/creating-an-auto-closing-notification-with-an-html-popover/",
+          "publishedOn": "2025-06-09T12:58:37.000Z",
+          "wordCount": 2580,
+          "title": "Creating an Auto-Closing Notification With an HTML Popover",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2024/10/dialog-pop.jpg"
+        },
+        {
           "id": "https://css-tricks.com/?p=386876",
           "author": "Temani Afif",
           "description": "This is the third article in a series about the CSS shape() function. We've covered drawing lines and arcs in previous articles and, this time, we look specifically at the curve command and how to use it for drawing complex shapes.\nBetter CSS Shapes Using shape() — Part 3: Curves originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -163,6 +173,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2025/06/decoding-svg-path-element-line-commands/",
+          "author": "hello@smashingmagazine.com (Myriam Frisano)",
+          "description": "SVG is easy — until you meet `path`. However, it’s not as confusing as it initially looks. In this first installment of a pair of articles, Myriam Frisano aims to teach you the basics of `\n` and its sometimes mystifying commands. With simple examples and visualizations, she’ll help you understand the easy syntax and underlying rules of SVG’s most powerful element so that by the end, you’re fully able to translate SVG semantic tags into a language `path` understands.",
+          "link": "https://smashingmagazine.com/2025/06/decoding-svg-path-element-line-commands/",
+          "publishedOn": "2025-06-09T08:00:00.000Z",
+          "wordCount": 4865,
+          "title": "Decoding The SVG <code>path</code> Element: Line Commands",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/decoding-svg-path-element-line-commands/decoding-svg-path-element-line-commands.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/decoding-svg-path-element-line-commands/decoding-svg-path-element-line-commands.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2025/06/collaboration-most-underrated-ux-skill/",
           "author": "hello@smashingmagazine.com (Carrie Webster)",

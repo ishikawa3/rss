@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-09T00:16:30.130Z</updated>
+    <updated>2025-06-10T00:15:32.402Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Creating an Auto-Closing Notification With an HTML Popover]]></title>
+        <id>https://css-tricks.com/?p=386694</id>
+        <link href="https://css-tricks.com/creating-an-auto-closing-notification-with-an-html-popover/"/>
+        <updated>2025-06-09T12:58:37.000Z</updated>
+        <summary type="html"><![CDATA[The HTML popover attribute transforms elements into top-layer elements that can be opened and closed with a button or JavaScript.  Popovers can be dismissed a number of ways, but there is no option to auto-close them. Preethi has a technique you can use.
+Creating an Auto-Closing Notification With an HTML Popover originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Preethi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Decoding The SVG <code>path</code> Element: Line Commands]]></title>
+        <id>https://smashingmagazine.com/2025/06/decoding-svg-path-element-line-commands/</id>
+        <link href="https://smashingmagazine.com/2025/06/decoding-svg-path-element-line-commands/"/>
+        <updated>2025-06-09T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[SVG is easy — until you meet `path`. However, it’s not as confusing as it initially looks. In this first installment of a pair of articles, Myriam Frisano aims to teach you the basics of `
+` and its sometimes mystifying commands. With simple examples and visualizations, she’ll help you understand the easy syntax and underlying rules of SVG’s most powerful element so that by the end, you’re fully able to translate SVG semantic tags into a language `path` understands.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Myriam Frisano)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Better CSS Shapes Using shape() — Part 3: Curves]]></title>
         <id>https://css-tricks.com/?p=386876</id>
