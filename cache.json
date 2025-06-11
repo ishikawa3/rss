@@ -382,21 +382,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/smashing-animations-part-2-css-masking-add-extra-dimension/smashing-animations-part-2-css-masking-add-extra-dimension.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2025/05/integrating-localization-into-design-systems/",
-          "author": "hello@smashingmagazine.com (Rebecca Hemstad & Mark Malek)",
-          "description": "Learn how two designers tackled the challenges of building a localization-ready design system for a global audience. This case study dives into how Rebecca and Mark combined Figma Variables and design tokens to address multilingual design issues, such as text overflow, RTL layouts, and font inconsistencies.",
-          "link": "https://smashingmagazine.com/2025/05/integrating-localization-into-design-systems/",
-          "publishedOn": "2025-05-12T10:00:00.000Z",
-          "wordCount": 5677,
-          "title": "Integrating Localization Into Design Systems",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/integrating-localization-into-design-systems/integrating-localization-into-design-systems.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/integrating-localization-into-design-systems/integrating-localization-into-design-systems.jpg"
         }
       ]
     },
@@ -405,6 +390,36 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "68489084490c709f6b3070ed",
+          "author": "Sravan Karuturi",
+          "description": "In this handbook, I’ll demystify the Apple app code signing process. Apple's ecosystem is powerful, but its distribution mechanisms – with various identifiers, certificates, and profiles – can appear complex. This guide attempts to make that journey ...",
+          "link": "https://www.freecodecamp.org/news/apple-code-signing-handbook/",
+          "publishedOn": "2025-06-10T20:07:32.000Z",
+          "wordCount": 6949,
+          "title": "The Apple Code Signing Handbook",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1749585600223/49e9c922-0b5d-4a98-a619-eedfd7a8b617.png"
+        },
+        {
+          "id": "684871b16bc1898625c952fd",
+          "author": "Chidiadi Anyanwu",
+          "description": "Vercel is a cloud platform or Platform-as-a-Service (PaaS) designed to help frontend developers create, preview, and deploy web applications swiftly and efficiently. In this tutorial, we’ll focus on deploying a Next.js application to Vercel using Git...",
+          "link": "https://www.freecodecamp.org/news/deploy-to-vercel-with-github-actions/",
+          "publishedOn": "2025-06-10T17:56:01.000Z",
+          "wordCount": 1768,
+          "title": "How To Deploy To Vercel With GitHub Actions",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1749577622920/8e35a6c1-3f4f-49a3-a4fe-dba80e24eec3.png"
+        },
+        {
+          "id": "68483a699e226a329abe4dee",
+          "author": "Beau Carnes",
+          "description": "If you’ve been meaning to learn full-stack web development but don’t know where to start, this new course is a solid way in. Whether you're aiming to get a job in web dev or just want to build your own projects, understanding how the pieces fit toget...",
+          "link": "https://www.freecodecamp.org/news/learn-the-mern-stack-in-2025/",
+          "publishedOn": "2025-06-10T14:00:09.000Z",
+          "wordCount": 1243,
+          "title": "Learn the MERN Stack in 2025",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1749234841421/0d452535-e019-4a1b-800a-1912cc16254a.png"
+        },
         {
           "id": "6842e00169a5099a551058ce",
           "author": "Beau Carnes",
