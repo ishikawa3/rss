@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-11T00:15:31.836Z</updated>
+    <updated>2025-06-12T00:15:24.497Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How Attackers Steal Data from Websites (And How to Stop Them)]]></title>
+        <id>6849e4d1a3aec42347669919</id>
+        <link href="https://www.freecodecamp.org/news/how-attackers-steal-data-from-websites-and-how-to-stop-them/"/>
+        <updated>2025-06-11T20:19:29.000Z</updated>
+        <summary type="html"><![CDATA[Across platforms, behind every app, and on your own website, hackers may patiently wait.  These days, everyone should have identity theft protections, and be informed about data threats lurking in the trenches of the world-wide-web’s war on privacy a...]]></summary>
+        <author>
+            <name>Alex Tray</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Creating The &ldquo;Moving Highlight&rdquo; Navigation Bar With JavaScript And CSS]]></title>
+        <id>https://smashingmagazine.com/2025/06/creating-moving-highlight-navigation-bar-javascript-css/</id>
+        <link href="https://smashingmagazine.com/2025/06/creating-moving-highlight-navigation-bar-javascript-css/"/>
+        <updated>2025-06-11T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this tutorial, Blake Lundquist walks us through two methods of creating the “moving-highlight” navigation pattern using only plain JavaScript and CSS. The first technique uses the `getBoundingClientRect` method to explicitly animate the border between navigation bar items when they are clicked. The second approach achieves the same functionality using the new View Transition API.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Blake Lundquist)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Get Information About Your Linux System Through the Command Line]]></title>
+        <id>68495738cb7b75f7a33a73c4</id>
+        <link href="https://www.freecodecamp.org/news/get-linux-system-info-through-cli/"/>
+        <updated>2025-06-11T10:15:20.000Z</updated>
+        <summary type="html"><![CDATA[Whether you’ve just gained access to a new Linux system, ethically hacked into one as part of a security test, or you’re just curious to know more about your current machine, this article will guide you through the process. You’ll learn how you can g...]]></summary>
+        <author>
+            <name>Zaira Hira</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Apple Code Signing Handbook]]></title>
         <id>68489084490c709f6b3070ed</id>
@@ -859,47 +889,6 @@ This Isn’t Supposed to Happen: Troubleshooting the Impossible originally publ
         <summary type="html"><![CDATA[Every website that takes user input is a potential target for an attacker. You might think your app is too small or too new to get noticed, but attackers use tools to scan the web for common security mistakes. If your site is online and has a login f...]]></summary>
         <author>
             <name>Manish Shivanandhan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Automate Compliance and Fraud Detection in Finance with MLOps]]></title>
-        <id>68222009a8daed5c1fbf1692</id>
-        <link href="https://www.freecodecamp.org/news/automate-compliance-and-fraud-detection-in-finance-with-mlops/"/>
-        <updated>2025-05-12T16:21:29.000Z</updated>
-        <summary type="html"><![CDATA[These days, businesses are under increasing pressure to comply with stringent regulations while also combating fraudulent activities. The high volume of data and the intricate requirements of real-time fraud detection and compliance reporting are fre...]]></summary>
-        <author>
-            <name>Balajee Asish Brahmandam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn Object-Oriented Programming in TypeScript]]></title>
-        <id>682201c8ba77730da04e15a8</id>
-        <link href="https://www.freecodecamp.org/news/learn-object-oriented-programming-in-typescript/"/>
-        <updated>2025-05-12T14:12:24.000Z</updated>
-        <summary type="html"><![CDATA[Object-Oriented Programming (OOP) is one of the most widely used programming paradigms in software development. But is also one of the most misunderstood. This article will help you gain a solid grasp of OOP in TypeScript by walking you through the l...]]></summary>
-        <author>
-            <name>Lucas</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Become an Analytical Programmer – Solve the "Rock, Paper, Scissors" Game 5 Ways Using JavaScript & Mermaid.js]]></title>
-        <id>6822006162f6347293451e07</id>
-        <link href="https://www.freecodecamp.org/news/how-to-become-an-analytical-programmer-compare-five-projects/"/>
-        <updated>2025-05-12T14:06:25.000Z</updated>
-        <summary type="html"><![CDATA[Over the past year, I’ve explored tools and practices that help developers build an analytical mindset. One recurring theme is how experienced programmers often describe understanding code as forming a mental picture – a conceptual map of the program...]]></summary>
-        <author>
-            <name>evaristo.c</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Using Pages CMS for Static Site Content Management]]></title>
-        <id>https://css-tricks.com/?p=386522</id>
-        <link href="https://css-tricks.com/using-pages-cms-for-static-site-content-management/"/>
-        <updated>2025-05-12T12:42:10.000Z</updated>
-        <summary type="html"><![CDATA[I know, I know: there are a ton of content management system options available, and while I've tested several, none have really been the one, y'know? Weird pricing models, difficult customization, some even end up becoming a whole 'nother thing to manage.
-Using Pages CMS for Static Site Content Management originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Ryan Trimble</name>
         </author>
     </entry>
 </feed>

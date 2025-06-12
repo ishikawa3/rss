@@ -155,16 +155,6 @@
             "type": "video/quicktime"
           },
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/05/Screenshot-2025-05-01-at-8.12.35%E2%80%AFAM.png"
-        },
-        {
-          "id": "https://css-tricks.com/?p=386522",
-          "author": "Ryan Trimble",
-          "description": "I know, I know: there are a ton of content management system options available, and while I've tested several, none have really been the one, y'know? Weird pricing models, difficult customization, some even end up becoming a whole 'nother thing to manage.\nUsing Pages CMS for Static Site Content Management originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/using-pages-cms-for-static-site-content-management/",
-          "publishedOn": "2025-05-12T12:42:10.000Z",
-          "wordCount": 3771,
-          "title": "Using Pages CMS for Static Site Content Management",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/05/Screenshot-2025-05-06-at-9.28.56%E2%80%AFPM-scaled.png"
         }
       ]
     },
@@ -173,6 +163,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2025/06/creating-moving-highlight-navigation-bar-javascript-css/",
+          "author": "hello@smashingmagazine.com (Blake Lundquist)",
+          "description": "In this tutorial, Blake Lundquist walks us through two methods of creating the “moving-highlight” navigation pattern using only plain JavaScript and CSS. The first technique uses the `getBoundingClientRect` method to explicitly animate the border between navigation bar items when they are clicked. The second approach achieves the same functionality using the new View Transition API.",
+          "link": "https://smashingmagazine.com/2025/06/creating-moving-highlight-navigation-bar-javascript-css/",
+          "publishedOn": "2025-06-11T13:00:00.000Z",
+          "wordCount": 4295,
+          "title": "Creating The &ldquo;Moving Highlight&rdquo; Navigation Bar With JavaScript And CSS",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/creating-moving-highlight-navigation-bar-vanilla-javascript/creating-moving-highlight-navigation-bar-javascript-css.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/creating-moving-highlight-navigation-bar-vanilla-javascript/creating-moving-highlight-navigation-bar-javascript-css.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2025/06/decoding-svg-path-element-line-commands/",
           "author": "hello@smashingmagazine.com (Myriam Frisano)",
@@ -390,6 +395,26 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "6849e4d1a3aec42347669919",
+          "author": "Alex Tray",
+          "description": "Across platforms, behind every app, and on your own website, hackers may patiently wait.  These days, everyone should have identity theft protections, and be informed about data threats lurking in the trenches of the world-wide-web’s war on privacy a...",
+          "link": "https://www.freecodecamp.org/news/how-attackers-steal-data-from-websites-and-how-to-stop-them/",
+          "publishedOn": "2025-06-11T20:19:29.000Z",
+          "wordCount": 6806,
+          "title": "How Attackers Steal Data from Websites (And How to Stop Them)",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1748376908250/fabf8346-d3fb-47ff-940b-f30b6e476ca5.png"
+        },
+        {
+          "id": "68495738cb7b75f7a33a73c4",
+          "author": "Zaira Hira",
+          "description": "Whether you’ve just gained access to a new Linux system, ethically hacked into one as part of a security test, or you’re just curious to know more about your current machine, this article will guide you through the process. You’ll learn how you can g...",
+          "link": "https://www.freecodecamp.org/news/get-linux-system-info-through-cli/",
+          "publishedOn": "2025-06-11T10:15:20.000Z",
+          "wordCount": 6558,
+          "title": "How to Get Information About Your Linux System Through the Command Line",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1749636399891/4b457f71-2d18-463a-b98a-e19ff5a6b769.png"
+        },
         {
           "id": "68489084490c709f6b3070ed",
           "author": "Sravan Karuturi",
@@ -949,36 +974,6 @@
           "wordCount": 2012,
           "title": "Top Ways Hackers Exploit Web Applications (and How to Prevent Them)",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1747060147180/03146ca3-bc12-4d00-bdde-985817a0893c.png"
-        },
-        {
-          "id": "68222009a8daed5c1fbf1692",
-          "author": "Balajee Asish Brahmandam",
-          "description": "These days, businesses are under increasing pressure to comply with stringent regulations while also combating fraudulent activities. The high volume of data and the intricate requirements of real-time fraud detection and compliance reporting are fre...",
-          "link": "https://www.freecodecamp.org/news/automate-compliance-and-fraud-detection-in-finance-with-mlops/",
-          "publishedOn": "2025-05-12T16:21:29.000Z",
-          "wordCount": 2685,
-          "title": "How to Automate Compliance and Fraud Detection in Finance with MLOps",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1747064311601/923284fd-8584-4ef3-8591-f717b9807148.png"
-        },
-        {
-          "id": "682201c8ba77730da04e15a8",
-          "author": "Lucas",
-          "description": "Object-Oriented Programming (OOP) is one of the most widely used programming paradigms in software development. But is also one of the most misunderstood. This article will help you gain a solid grasp of OOP in TypeScript by walking you through the l...",
-          "link": "https://www.freecodecamp.org/news/learn-object-oriented-programming-in-typescript/",
-          "publishedOn": "2025-05-12T14:12:24.000Z",
-          "wordCount": 3450,
-          "title": "Learn Object-Oriented Programming in TypeScript",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1747058547629/98922409-4eaf-45e5-8721-10c6a1e6e5e4.png"
-        },
-        {
-          "id": "6822006162f6347293451e07",
-          "author": "evaristo.c",
-          "description": "Over the past year, I’ve explored tools and practices that help developers build an analytical mindset. One recurring theme is how experienced programmers often describe understanding code as forming a mental picture – a conceptual map of the program...",
-          "link": "https://www.freecodecamp.org/news/how-to-become-an-analytical-programmer-compare-five-projects/",
-          "publishedOn": "2025-05-12T14:06:25.000Z",
-          "wordCount": 12710,
-          "title": "How to Become an Analytical Programmer – Solve the \"Rock, Paper, Scissors\" Game 5 Ways Using JavaScript & Mermaid.js",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1746812725602/cd4a5bc4-71f2-4678-8f5d-5571d9cc38e8.png"
         }
       ]
     }
