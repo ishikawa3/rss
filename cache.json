@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=386648",
+          "author": "Sladjana Stojanovic",
+          "description": "We put it to the test and it turns out Sass can replace JavaScript, at least when it comes to low-level logic and puzzle behavior. With nothing but maps, mixins, functions, and a whole lot of math, we managed to bring our Tangram puzzle to life, no JavaScript required.\nBreaking Boundaries: Building a Tangram Puzzle With (S)CSS originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/breaking-boundaries-building-a-tangram-puzzle-with-scss/",
+          "publishedOn": "2025-06-12T13:58:38.000Z",
+          "wordCount": 4899,
+          "title": "Breaking Boundaries: Building a Tangram Puzzle With (S)CSS",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/05/tangram.webp"
+        },
+        {
           "id": "https://css-tricks.com/?p=386694",
           "author": "Preethi",
           "description": "The HTML popover attribute transforms elements into top-layer elements that can be opened and closed with a button or JavaScript.  Popovers can be dismissed a number of ways, but there is no option to auto-close them. Preethi has a technique you can use.\nCreating an Auto-Closing Notification With an HTML Popover originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -395,6 +405,16 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "684b07b568649c5d5e8565b2",
+          "author": "Beau Carnes",
+          "description": "If you’re serious about machine learning and want to break into real-world ML engineering, learning MLOps is one of the best things you can do. It’s what turns experiments into reliable systems. You can train a great model, but without the right pipe...",
+          "link": "https://www.freecodecamp.org/news/learn-mlops-by-creating-a-youtube-sentiment-analyzer/",
+          "publishedOn": "2025-06-12T17:00:37.000Z",
+          "wordCount": 1341,
+          "title": "Learn MLOps by Creating a YouTube Sentiment Analyzer",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1749676232247/9ec9249e-11ae-4ad5-bce6-1163328bcb37.png"
+        },
         {
           "id": "6849e4d1a3aec42347669919",
           "author": "Alex Tray",
@@ -964,16 +984,6 @@
           "wordCount": 1285,
           "title": "Master Kotlin & Android 60-Hour Course",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1747233684976/019ffd11-b74c-437d-815f-857ab3465317.png"
-        },
-        {
-          "id": "682354c58b3805ff1d2335d0",
-          "author": "Manish Shivanandhan",
-          "description": "Every website that takes user input is a potential target for an attacker. You might think your app is too small or too new to get noticed, but attackers use tools to scan the web for common security mistakes. If your site is online and has a login f...",
-          "link": "https://www.freecodecamp.org/news/how-hackers-exploit-web-applications-and-how-to-prevent-them/",
-          "publishedOn": "2025-05-13T14:18:45.000Z",
-          "wordCount": 2012,
-          "title": "Top Ways Hackers Exploit Web Applications (and How to Prevent Them)",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1747060147180/03146ca3-bc12-4d00-bdde-985817a0893c.png"
         }
       ]
     }

@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-12T00:15:24.497Z</updated>
+    <updated>2025-06-13T00:15:45.652Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Learn MLOps by Creating a YouTube Sentiment Analyzer]]></title>
+        <id>684b07b568649c5d5e8565b2</id>
+        <link href="https://www.freecodecamp.org/news/learn-mlops-by-creating-a-youtube-sentiment-analyzer/"/>
+        <updated>2025-06-12T17:00:37.000Z</updated>
+        <summary type="html"><![CDATA[If you’re serious about machine learning and want to break into real-world ML engineering, learning MLOps is one of the best things you can do. It’s what turns experiments into reliable systems. You can train a great model, but without the right pipe...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Breaking Boundaries: Building a Tangram Puzzle With (S)CSS]]></title>
+        <id>https://css-tricks.com/?p=386648</id>
+        <link href="https://css-tricks.com/breaking-boundaries-building-a-tangram-puzzle-with-scss/"/>
+        <updated>2025-06-12T13:58:38.000Z</updated>
+        <summary type="html"><![CDATA[We put it to the test and it turns out Sass can replace JavaScript, at least when it comes to low-level logic and puzzle behavior. With nothing but maps, mixins, functions, and a whole lot of math, we managed to bring our Tangram puzzle to life, no JavaScript required.
+Breaking Boundaries: Building a Tangram Puzzle With (S)CSS originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Sladjana Stojanovic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How Attackers Steal Data from Websites (And How to Stop Them)]]></title>
         <id>6849e4d1a3aec42347669919</id>
@@ -879,16 +900,6 @@ This Isn’t Supposed to Happen: Troubleshooting the Impossible originally publ
         <summary type="html"><![CDATA[What if you could take your CSS animations beyond simple fades and slides — adding an extra dimension and a bit of old-school animation magic? In this article, pioneering author and web designer [Andy Clarke](https://stuffandnonsense.co.uk) will show you how masking can unlock new creative possibilities for CSS animations, making them feel more fluid, layered, and cinematic.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Andy Clarke)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top Ways Hackers Exploit Web Applications (and How to Prevent Them)]]></title>
-        <id>682354c58b3805ff1d2335d0</id>
-        <link href="https://www.freecodecamp.org/news/how-hackers-exploit-web-applications-and-how-to-prevent-them/"/>
-        <updated>2025-05-13T14:18:45.000Z</updated>
-        <summary type="html"><![CDATA[Every website that takes user input is a potential target for an attacker. You might think your app is too small or too new to get noticed, but attackers use tools to scan the web for common security mistakes. If your site is online and has a login f...]]></summary>
-        <author>
-            <name>Manish Shivanandhan</name>
         </author>
     </entry>
 </feed>
