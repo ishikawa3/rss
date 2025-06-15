@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-14T00:14:52.913Z</updated>
+    <updated>2025-06-15T00:17:28.243Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
@@ -806,47 +806,6 @@ A Reader’s Question on Nested Lists originally published on CSS-Tricks, which 
         <updated>2025-05-16T14:38:19.000Z</updated>
         <summary type="html"><![CDATA[Some weekend reading on the heels of Global Accessibility Awareness Day (GAADM), which took place yesterday. The Email Markup Consortium (EMC) released its 2025 study on the accessibility in HTML emails, and the TL;DR is …
 HTML Email Accessibility Report 2025 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to make Developer Friends When You Don't Live in Silicon Valley, with Iraqi Engineer Code;Life [Podcast #172]]]></title>
-        <id>68271ae2c90fa4a071c44a2b</id>
-        <link href="https://www.freecodecamp.org/news/how-to-make-developer-friends-when-you-dont-live-in-silicon-valley-with-iraqi-engineer-codelife-podcast-172/"/>
-        <updated>2025-05-16T11:00:50.000Z</updated>
-        <summary type="html"><![CDATA[On this week's episode of the podcast, freeCodeCamp founder Quincy Larson interviews software engineer and live coding streamer Code;Life.   For those of you watching the video version of this interview, she lives in Iraq and she uses a 3D avatar to ...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building A Practical UX Strategy Framework]]></title>
-        <id>https://smashingmagazine.com/2025/05/building-practical-ux-strategy-framework/</id>
-        <link href="https://smashingmagazine.com/2025/05/building-practical-ux-strategy-framework/"/>
-        <updated>2025-05-16T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Learn how to create and implement a UX strategy framework that shapes work and drives real business value.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Paul Boag)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn A1 Level Spanish]]></title>
-        <id>68269a8eb0cc91a6c87a682d</id>
-        <link href="https://www.freecodecamp.org/news/learn-a1-level-spanish/"/>
-        <updated>2025-05-16T01:53:18.000Z</updated>
-        <summary type="html"><![CDATA[Learning a new language can open doors to new cultures, connections, and opportunities, and Spanish is one of the most widely spoken languages in the world. Whether you're dreaming of traveling to Spanish-speaking countries, connecting with Spanish-s...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Scroll-Driven Animations Inside a CSS Carousel]]></title>
-        <id>https://css-tricks.com/?p=386537</id>
-        <link href="https://css-tricks.com/scroll-driven-animations-inside-a-css-carousel/"/>
-        <updated>2025-05-15T12:30:59.000Z</updated>
-        <summary type="html"><![CDATA[Hey, isn't there a fairly new CSS feature that works with scroll regions? Oh yes, that's Scroll-Driven Animations. Shouldn't that mean we can trigger an animation while scrolling through the items in a CSS carousel?
-Scroll-Driven Animations Inside a CSS Carousel originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Geoff Graham</name>
         </author>

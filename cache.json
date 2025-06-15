@@ -140,16 +140,6 @@
           "wordCount": 2109,
           "title": "HTML Email Accessibility Report 2025",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2022/09/email-envelope.jpg"
-        },
-        {
-          "id": "https://css-tricks.com/?p=386537",
-          "author": "Geoff Graham",
-          "description": "Hey, isn't there a fairly new CSS feature that works with scroll regions? Oh yes, that's Scroll-Driven Animations. Shouldn't that mean we can trigger an animation while scrolling through the items in a CSS carousel?\nScroll-Driven Animations Inside a CSS Carousel originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/scroll-driven-animations-inside-a-css-carousel/",
-          "publishedOn": "2025-05-15T12:30:59.000Z",
-          "wordCount": 1918,
-          "title": "Scroll-Driven Animations Inside a CSS Carousel",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/12/carousel-slides.png"
         }
       ]
     },
@@ -337,21 +327,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/design-system-in-90-days/design-system-in-90-days.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2025/05/building-practical-ux-strategy-framework/",
-          "author": "hello@smashingmagazine.com (Paul Boag)",
-          "description": "Learn how to create and implement a UX strategy framework that shapes work and drives real business value.",
-          "link": "https://smashingmagazine.com/2025/05/building-practical-ux-strategy-framework/",
-          "publishedOn": "2025-05-16T11:00:00.000Z",
-          "wordCount": 4417,
-          "title": "Building A Practical UX Strategy Framework",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/building-practical-ux-strategy-framework/building-practical-ux-strategy-framework.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/building-practical-ux-strategy-framework/building-practical-ux-strategy-framework.jpg"
         }
       ]
     },
@@ -899,26 +874,6 @@
           "wordCount": 2830,
           "title": "How to Write Math Equations in Google Docs",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1747410133881/93c8cf6e-6cbb-4890-8023-fcc2fdaa0fa2.png"
-        },
-        {
-          "id": "68271ae2c90fa4a071c44a2b",
-          "author": "Beau Carnes",
-          "description": "On this week's episode of the podcast, freeCodeCamp founder Quincy Larson interviews software engineer and live coding streamer Code;Life.   For those of you watching the video version of this interview, she lives in Iraq and she uses a 3D avatar to ...",
-          "link": "https://www.freecodecamp.org/news/how-to-make-developer-friends-when-you-dont-live-in-silicon-valley-with-iraqi-engineer-codelife-podcast-172/",
-          "publishedOn": "2025-05-16T11:00:50.000Z",
-          "wordCount": 1128,
-          "title": "How to make Developer Friends When You Don't Live in Silicon Valley, with Iraqi Engineer Code;Life [Podcast #172]",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1747360508340/f07040cd-3eeb-443c-b4fb-370f6a4a14da.png"
-        },
-        {
-          "id": "68269a8eb0cc91a6c87a682d",
-          "author": "Beau Carnes",
-          "description": "Learning a new language can open doors to new cultures, connections, and opportunities, and Spanish is one of the most widely spoken languages in the world. Whether you're dreaming of traveling to Spanish-speaking countries, connecting with Spanish-s...",
-          "link": "https://www.freecodecamp.org/news/learn-a1-level-spanish/",
-          "publishedOn": "2025-05-16T01:53:18.000Z",
-          "wordCount": 1172,
-          "title": "Learn A1 Level Spanish",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1747360364930/078ee25a-9943-44c8-bef0-85626aa97515.png"
         }
       ]
     }
