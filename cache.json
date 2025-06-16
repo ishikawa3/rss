@@ -130,16 +130,6 @@
           "wordCount": 3109,
           "title": "A Reader’s Question on Nested Lists",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2022/11/html-lists.jpg"
-        },
-        {
-          "id": "https://css-tricks.com/?p=386631",
-          "author": "Geoff Graham",
-          "description": "Some weekend reading on the heels of Global Accessibility Awareness Day (GAADM), which took place yesterday. The Email Markup Consortium (EMC) released its 2025 study on the accessibility in HTML emails, and the TL;DR is …\nHTML Email Accessibility Report 2025 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/html-email-accessibility-report-2025/",
-          "publishedOn": "2025-05-16T14:38:19.000Z",
-          "wordCount": 2109,
-          "title": "HTML Email Accessibility Report 2025",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2022/09/email-envelope.jpg"
         }
       ]
     },
@@ -854,26 +844,6 @@
           "wordCount": 1975,
           "title": "How Cybercriminals Crack Your Passwords (And How to Stay One Step Ahead)",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1747663111032/84a5cdc6-3d13-49e9-bc65-f2b7d0a51ad9.png"
-        },
-        {
-          "id": "682779afad5694b25984f6b1",
-          "author": "Brandon Wozniewicz",
-          "description": "If you have experience in traditional software development, low-code tools may feel a bit sparse at first. But to many people’s surprise, traditional techniques often translate quite well to low-code development. Not always one-for-one – but usually ...",
-          "link": "https://www.freecodecamp.org/news/powerapps-component-crash-course/",
-          "publishedOn": "2025-05-16T17:45:19.000Z",
-          "wordCount": 2022,
-          "title": "Canvas App Components: A Crash Course for Power Apps Developers",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1747410099474/8471a651-503f-4ced-a172-7dadac930039.png"
-        },
-        {
-          "id": "68275cf15ed8a1db0cf8769b",
-          "author": "Vikram Aruchamy",
-          "description": "Math equations are a critical part of academic papers, research reports, and technical documentation. While LaTeX is widely used for professional typesetting, Google Docs offers a robust set of features for inserting and formatting math equations and...",
-          "link": "https://www.freecodecamp.org/news/write-math-equations-in-google-docs/",
-          "publishedOn": "2025-05-16T15:42:41.000Z",
-          "wordCount": 2830,
-          "title": "How to Write Math Equations in Google Docs",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1747410133881/93c8cf6e-6cbb-4890-8023-fcc2fdaa0fa2.png"
         }
       ]
     }

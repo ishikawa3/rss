@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-15T00:17:28.243Z</updated>
+    <updated>2025-06-16T00:16:06.678Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
@@ -777,37 +777,6 @@ A Reader’s Question on Nested Lists originally published on CSS-Tricks, which 
         <summary type="html"><![CDATA[Helpful PDF worksheets and tools to get the design system effort up and running — and adopted! Kindly powered by How To Measure UX and Design Impact, a friendly course on how to show the impact of your incredible UX work on business.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Canvas App Components: A Crash Course for Power Apps Developers]]></title>
-        <id>682779afad5694b25984f6b1</id>
-        <link href="https://www.freecodecamp.org/news/powerapps-component-crash-course/"/>
-        <updated>2025-05-16T17:45:19.000Z</updated>
-        <summary type="html"><![CDATA[If you have experience in traditional software development, low-code tools may feel a bit sparse at first. But to many people’s surprise, traditional techniques often translate quite well to low-code development. Not always one-for-one – but usually ...]]></summary>
-        <author>
-            <name>Brandon Wozniewicz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Write Math Equations in Google Docs]]></title>
-        <id>68275cf15ed8a1db0cf8769b</id>
-        <link href="https://www.freecodecamp.org/news/write-math-equations-in-google-docs/"/>
-        <updated>2025-05-16T15:42:41.000Z</updated>
-        <summary type="html"><![CDATA[Math equations are a critical part of academic papers, research reports, and technical documentation. While LaTeX is widely used for professional typesetting, Google Docs offers a robust set of features for inserting and formatting math equations and...]]></summary>
-        <author>
-            <name>Vikram Aruchamy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HTML Email Accessibility Report 2025]]></title>
-        <id>https://css-tricks.com/?p=386631</id>
-        <link href="https://css-tricks.com/html-email-accessibility-report-2025/"/>
-        <updated>2025-05-16T14:38:19.000Z</updated>
-        <summary type="html"><![CDATA[Some weekend reading on the heels of Global Accessibility Awareness Day (GAADM), which took place yesterday. The Email Markup Consortium (EMC) released its 2025 study on the accessibility in HTML emails, and the TL;DR is …
-HTML Email Accessibility Report 2025 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
         </author>
     </entry>
 </feed>
