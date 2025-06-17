@@ -2,10 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-16T00:16:06.678Z</updated>
+    <updated>2025-06-17T00:15:31.374Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[An Animated Introduction to Programming with Python]]></title>
+        <id>685052f79796239b8044baeb</id>
+        <link href="https://www.freecodecamp.org/news/an-animated-introduction-to-programming-with-python/"/>
+        <updated>2025-06-16T17:23:03.000Z</updated>
+        <summary type="html"><![CDATA[Python is a high-level, general-purpose programming language. Created by Guido van Rossum and first released in 1991, Python is known for its design philosophy that emphasizes code readability, notably using significant indentation. It supports multi...]]></summary>
+        <author>
+            <name>Mark Mahoney</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[freeCodeCamp Full Stack Curriculum Mid-2025 Update]]></title>
+        <id>685049cc71faf4a81f93b409</id>
+        <link href="https://www.freecodecamp.org/news/freecodecamp-full-stack-curriculum-mid-2025-update/"/>
+        <updated>2025-06-16T16:43:56.000Z</updated>
+        <summary type="html"><![CDATA[Hey friends! The freeCodeCamp team is still very hard at work on the rest of the content for our full stack curriculum. It’s only been a few months, but there are many campers who have been going full force at this new content. And I am excited to sh...]]></summary>
+        <author>
+            <name>Naomi Carrigan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What I Wish Someone Told Me When I Was Getting Into ARIA]]></title>
+        <id>https://smashingmagazine.com/2025/06/what-i-wish-someone-told-me-aria/</id>
+        <link href="https://smashingmagazine.com/2025/06/what-i-wish-someone-told-me-aria/"/>
+        <updated>2025-06-16T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[[Accessible Rich Internet Applications (ARIA)](https://www.w3.org/WAI/standards-guidelines/aria/) is an inevitability when working on web accessibility. That said, it’s everyone’s first time learning about ARIA at some point.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Eric Bailey)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Better API for the Resize Observer]]></title>
+        <id>https://css-tricks.com/?p=386338</id>
+        <link href="https://css-tricks.com/a-better-api-for-the-resize-observer/"/>
+        <updated>2025-06-16T12:47:51.000Z</updated>
+        <summary type="html"><![CDATA[ResizeObserver, MutationObserver, and IntersectionObserver enhance performance over their predecessors. Zell discusses their API similarities, usage steps, refactoring strategies, and advantages with practical examples.
+A Better API for the Resize Observer originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Zell Liew</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The NestJS Handbook – Learn to Use Nest with Code Examples]]></title>
         <id>684c867db87f779c97f2e509</id>

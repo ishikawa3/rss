@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=386338",
+          "author": "Zell Liew",
+          "description": "ResizeObserver, MutationObserver, and IntersectionObserver enhance performance over their predecessors. Zell discusses their API similarities, usage steps, refactoring strategies, and advantages with practical examples.\nA Better API for the Resize Observer originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/a-better-api-for-the-resize-observer/",
+          "publishedOn": "2025-06-16T12:47:51.000Z",
+          "wordCount": 3141,
+          "title": "A Better API for the Resize Observer",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/04/code-resize-observer.jpg"
+        },
+        {
           "id": "https://css-tricks.com/?p=386648",
           "author": "Sladjana Stojanovic",
           "description": "We put it to the test and it turns out Sass can replace JavaScript, at least when it comes to low-level logic and puzzle behavior. With nothing but maps, mixins, functions, and a whole lot of math, we managed to bring our Tangram puzzle to life, no JavaScript required.\nBreaking Boundaries: Building a Tangram Puzzle With (S)CSS originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -138,6 +148,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2025/06/what-i-wish-someone-told-me-aria/",
+          "author": "hello@smashingmagazine.com (Eric Bailey)",
+          "description": "[Accessible Rich Internet Applications (ARIA)](https://www.w3.org/WAI/standards-guidelines/aria/) is an inevitability when working on web accessibility. That said, it’s everyone’s first time learning about ARIA at some point.",
+          "link": "https://smashingmagazine.com/2025/06/what-i-wish-someone-told-me-aria/",
+          "publishedOn": "2025-06-16T13:00:00.000Z",
+          "wordCount": 9493,
+          "title": "What I Wish Someone Told Me When I Was Getting Into ARIA",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/what-i-wish-someone-told-me-aria/what-i-wish-someone-told-me-aria.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/what-i-wish-someone-told-me-aria/what-i-wish-someone-told-me-aria.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2025/06/creating-moving-highlight-navigation-bar-javascript-css/",
           "author": "hello@smashingmagazine.com (Blake Lundquist)",
@@ -325,6 +350,26 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "685052f79796239b8044baeb",
+          "author": "Mark Mahoney",
+          "description": "Python is a high-level, general-purpose programming language. Created by Guido van Rossum and first released in 1991, Python is known for its design philosophy that emphasizes code readability, notably using significant indentation. It supports multi...",
+          "link": "https://www.freecodecamp.org/news/an-animated-introduction-to-programming-with-python/",
+          "publishedOn": "2025-06-16T17:23:03.000Z",
+          "wordCount": 1516,
+          "title": "An Animated Introduction to Programming with Python",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1750082209046/ed07548b-e859-47a0-8372-6e9b04cb51bc.png"
+        },
+        {
+          "id": "685049cc71faf4a81f93b409",
+          "author": "Naomi Carrigan",
+          "description": "Hey friends! The freeCodeCamp team is still very hard at work on the rest of the content for our full stack curriculum. It’s only been a few months, but there are many campers who have been going full force at this new content. And I am excited to sh...",
+          "link": "https://www.freecodecamp.org/news/freecodecamp-full-stack-curriculum-mid-2025-update/",
+          "publishedOn": "2025-06-16T16:43:56.000Z",
+          "wordCount": 1236,
+          "title": "freeCodeCamp Full Stack Curriculum Mid-2025 Update",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1750092183369/0e6a0781-0913-4c28-9289-9af3831ebc67.png"
+        },
         {
           "id": "684c867db87f779c97f2e509",
           "author": "German Cocca",
