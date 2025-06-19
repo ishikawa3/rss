@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-18T00:15:33.438Z</updated>
+    <updated>2025-06-19T00:16:14.770Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The Data Communication and Networking Handbook]]></title>
+        <id>6853059aed5a0659bcde37e5</id>
+        <link href="https://www.freecodecamp.org/news/the-data-communication-and-networking-handbook/"/>
+        <updated>2025-06-18T18:29:46.000Z</updated>
+        <summary type="html"><![CDATA[When I was beginning to learn about networks, I didn't know how many things in my daily life depended on them – from texting on WhatsApp to watching YouTube. I still vividly remember when I learned that computers communicate with one another. It was ...]]></summary>
+        <author>
+            <name>valentine Gatwiri</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meet Accessible UX Research, A Brand-New Smashing Book]]></title>
+        <id>https://smashingmagazine.com/2025/06/accessible-ux-research-pre-release/</id>
+        <link href="https://smashingmagazine.com/2025/06/accessible-ux-research-pre-release/"/>
+        <updated>2025-06-18T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Meet “Accessible UX Research,” our upcoming book to make your UX research inclusive. Learn how to recruit, plan, and design with disabled participants in mind. Print shipping in August 2025. eBook available for download later this summer. Pre-order the book.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Build a Conversational AI Chatbot with Stream Chat and React]]></title>
         <id>6851d017416010d301ffa732</id>
@@ -878,27 +898,6 @@ SVG to CSS Shape Converter originally published on CSS-Tricks, which is part of 
         <summary type="html"><![CDATA[If you're building conversational AI and tired of messy logic or hard-to-scale workflows, LangGraph makes it easier. It uses graphs to manage dialogue flow, so your bots stay organized even as they get more complex. Great for anything from support ag...]]></summary>
         <author>
             <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Cybercriminals Crack Your Passwords (And How to Stay One Step Ahead)]]></title>
-        <id>682b3930e99a22ce9f9199c8</id>
-        <link href="https://www.freecodecamp.org/news/how-cybercriminals-crack-your-passwords-and-how-to-stay-one-step-ahead/"/>
-        <updated>2025-05-19T13:59:12.000Z</updated>
-        <summary type="html"><![CDATA[Passwords are the keys to your digital life  –  email, bank accounts, social media, and even your workplace systems. Unfortunately, they’re also one of the weakest links in cybersecurity.  Every year, billions of credentials are stolen and sold on th...]]></summary>
-        <author>
-            <name>Manish Shivanandhan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Reader’s Question on Nested Lists]]></title>
-        <id>https://css-tricks.com/?p=386580</id>
-        <link href="https://css-tricks.com/a-readers-question-on-nested-lists/"/>
-        <updated>2025-05-19T12:32:22.000Z</updated>
-        <summary type="html"><![CDATA[Answering a reader's question about how to create a complex numbering system with CSS list counters.
-A Reader’s Question on Nested Lists originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Juan Diego Rodríguez</name>
         </author>
     </entry>
 </feed>
