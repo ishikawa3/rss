@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=386735",
+          "author": "Sunkanmi Fafowora",
+          "description": "CSS has a number of functions that can be used to set, translate, and manipulate colors. Learn what they are and how they are used with a bunch of examples to get you started.\nCSS Color Functions originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/css-color-functions/",
+          "publishedOn": "2025-06-19T15:01:18.000Z",
+          "wordCount": 6720,
+          "title": "CSS Color Functions",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/06/color-functions-guide.webp"
+        },
+        {
           "id": "https://css-tricks.com/?p=387159",
           "author": "Sacha Greif",
           "description": "How do you stay informed of new CSS features when the language evolves quickly and information is spread all around the web? Sacha Greif has some tips from his work running an annual survey focused on new CSS features.\nHow to Keep Up With New CSS Features originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -148,6 +158,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2025/06/css-cascade-layers-bem-utility-classes-specificity-control/",
+          "author": "hello@smashingmagazine.com (Victor Ayomipo)",
+          "description": "CSS can be unpredictable — and specificity is often the culprit. Victor Ayomipo breaks down how and why your styles might not behave as expected, and why understanding specificity is better than relying on `!important`.",
+          "link": "https://smashingmagazine.com/2025/06/css-cascade-layers-bem-utility-classes-specificity-control/",
+          "publishedOn": "2025-06-19T15:00:00.000Z",
+          "wordCount": 5130,
+          "title": "CSS Cascade Layers Vs. BEM Vs. Utility Classes: Specificity Control",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/css-cascade-layers-bem-utility-classes-specificity-control/css-cascade-layers-bem-utility-classes-specificity-control.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/css-cascade-layers-bem-utility-classes-specificity-control/css-cascade-layers-bem-utility-classes-specificity-control.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2025/06/accessible-ux-research-pre-release/",
           "author": "hello@smashingmagazine.com (Vitaly Friedman)",
@@ -327,21 +352,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/zen-and-art-of-motorcycle-maintenance-teach-us-about-web-design/what-zen-art-motorcycle-maintenance-teach-web-design.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2025/05/smashing-animations-part-3-smil-not-dead/",
-          "author": "hello@smashingmagazine.com (Andy Clarke)",
-          "description": "While there are plenty of ways that CSS animations can bring designs to life, adding simple SMIL (Synchronized Multimedia Integration Language) animations in SVG can help them do much more. Andy Clarke explains where SMIL animations in SVG take over where CSS leaves off.",
-          "link": "https://smashingmagazine.com/2025/05/smashing-animations-part-3-smil-not-dead/",
-          "publishedOn": "2025-05-21T08:00:00.000Z",
-          "wordCount": 5462,
-          "title": "Smashing Animations Part 3: SMIL’s Not Dead Baby, SMIL’s Not Dead",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/smashing-animations-part-3-smil-not-dead/smashing-animations-part-3-smil-not-dead.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/smashing-animations-part-3-smil-not-dead/smashing-animations-part-3-smil-not-dead.jpg"
         }
       ]
     },
@@ -350,6 +360,46 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "68542e3585d4833f32068976",
+          "author": "Tooba Jamal",
+          "description": "Writing documentation looks easy, but it is one of the most critical parts of your customer support and growth strategy. Too often, teams treat it as an afterthought – just add a few code snippets and move on. But if you’re serious about product adop...",
+          "link": "https://www.freecodecamp.org/news/how-to-write-documentation-that-increases-sign-ups/",
+          "publishedOn": "2025-06-19T15:35:17.000Z",
+          "wordCount": 2923,
+          "title": "How to Write Documentation That Increases Sign-ups",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1750347297168/f873d57d-22e5-4cbb-bda9-ca24861db09d.png"
+        },
+        {
+          "id": "68542db2cefef90e768ba1fe",
+          "author": "AYUSH MISHRA",
+          "description": "In programming, being able to find the area of a triangle is useful for many reasons. It can help you understand logic-building and syntax, and it’s a common programming problem used in school assignments. There are also many real-world applications,...",
+          "link": "https://www.freecodecamp.org/news/use-php-to-calculate-the-area-of-a-triangle/",
+          "publishedOn": "2025-06-19T15:33:06.000Z",
+          "wordCount": 2909,
+          "title": "How to Write a PHP Script to Calculate the Area of a Triangle",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1750346934679/2e46bebb-9614-4f1a-afb5-9bbe27906b4e.png"
+        },
+        {
+          "id": "6854097709e731dc6aff4cab",
+          "author": "Beau Carnes",
+          "description": "Have you ever dreamed of ordering a coffee in a Berlin café, navigating the Munich U-Bahn with ease, or simply connecting with German-speaking friends and family? Now you can take the first step towards that dream with a comprehensive and completely ...",
+          "link": "https://www.freecodecamp.org/news/learn-to-speak-german/",
+          "publishedOn": "2025-06-19T12:58:31.000Z",
+          "wordCount": 1301,
+          "title": "Learn to Speak German",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1750305209280/16ff839e-e5cf-4281-9a0d-825a96955dcf.png"
+        },
+        {
+          "id": "685338f9c57f030c11bb6ddb",
+          "author": "Montasser Mossallem",
+          "description": "PHP loops help you repeat a block of code based on a condition. You can use them to work through arrays or repeat actions. You can also use them to skip steps based on logic. In this article, you will learn how PHP loops work and when to use each",
+          "link": "https://www.freecodecamp.org/news/how-loops-work-in-php-beginners-guide/",
+          "publishedOn": "2025-06-18T22:08:57.000Z",
+          "wordCount": 3356,
+          "title": "How Loops Work in PHP: A Complete Guide for Beginners",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1750178963918/bf8c63b9-9624-4cb0-bd31-10ffbdbe67f6.jpeg"
+        },
         {
           "id": "6853059aed5a0659bcde37e5",
           "author": "valentine Gatwiri",
@@ -959,16 +1009,6 @@
           "wordCount": 2900,
           "title": "How JavaScript Lint Rules Work (and Why Abstract Syntax Trees Matter)",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1747835156597/f30994d4-f4da-4100-af25-9f858c015aa8.png"
-        },
-        {
-          "id": "682ca2c574938e5428551845",
-          "author": "Beau Carnes",
-          "description": "If you're building conversational AI and tired of messy logic or hard-to-scale workflows, LangGraph makes it easier. It uses graphs to manage dialogue flow, so your bots stay organized even as they get more complex. Great for anything from support ag...",
-          "link": "https://www.freecodecamp.org/news/learn-langgraph-and-build-conversational-ai-with-python/",
-          "publishedOn": "2025-05-20T15:41:57.000Z",
-          "wordCount": 1133,
-          "title": "Learn LangGraph and Build Conversational AI with Python",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1747755679385/a984244e-b0a8-4431-8090-75db806e9616.png"
         }
       ]
     }

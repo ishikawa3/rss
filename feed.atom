@@ -2,10 +2,71 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-19T00:16:14.770Z</updated>
+    <updated>2025-06-20T00:15:27.515Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Write Documentation That Increases Sign-ups]]></title>
+        <id>68542e3585d4833f32068976</id>
+        <link href="https://www.freecodecamp.org/news/how-to-write-documentation-that-increases-sign-ups/"/>
+        <updated>2025-06-19T15:35:17.000Z</updated>
+        <summary type="html"><![CDATA[Writing documentation looks easy, but it is one of the most critical parts of your customer support and growth strategy. Too often, teams treat it as an afterthought – just add a few code snippets and move on. But if you’re serious about product adop...]]></summary>
+        <author>
+            <name>Tooba Jamal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Write a PHP Script to Calculate the Area of a Triangle]]></title>
+        <id>68542db2cefef90e768ba1fe</id>
+        <link href="https://www.freecodecamp.org/news/use-php-to-calculate-the-area-of-a-triangle/"/>
+        <updated>2025-06-19T15:33:06.000Z</updated>
+        <summary type="html"><![CDATA[In programming, being able to find the area of a triangle is useful for many reasons. It can help you understand logic-building and syntax, and it’s a common programming problem used in school assignments. There are also many real-world applications,...]]></summary>
+        <author>
+            <name>AYUSH MISHRA</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSS Color Functions]]></title>
+        <id>https://css-tricks.com/?p=386735</id>
+        <link href="https://css-tricks.com/css-color-functions/"/>
+        <updated>2025-06-19T15:01:18.000Z</updated>
+        <summary type="html"><![CDATA[CSS has a number of functions that can be used to set, translate, and manipulate colors. Learn what they are and how they are used with a bunch of examples to get you started.
+CSS Color Functions originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Sunkanmi Fafowora</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSS Cascade Layers Vs. BEM Vs. Utility Classes: Specificity Control]]></title>
+        <id>https://smashingmagazine.com/2025/06/css-cascade-layers-bem-utility-classes-specificity-control/</id>
+        <link href="https://smashingmagazine.com/2025/06/css-cascade-layers-bem-utility-classes-specificity-control/"/>
+        <updated>2025-06-19T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[CSS can be unpredictable — and specificity is often the culprit. Victor Ayomipo breaks down how and why your styles might not behave as expected, and why understanding specificity is better than relying on `!important`.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Victor Ayomipo)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn to Speak German]]></title>
+        <id>6854097709e731dc6aff4cab</id>
+        <link href="https://www.freecodecamp.org/news/learn-to-speak-german/"/>
+        <updated>2025-06-19T12:58:31.000Z</updated>
+        <summary type="html"><![CDATA[Have you ever dreamed of ordering a coffee in a Berlin café, navigating the Munich U-Bahn with ease, or simply connecting with German-speaking friends and family? Now you can take the first step towards that dream with a comprehensive and completely ...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Loops Work in PHP: A Complete Guide for Beginners]]></title>
+        <id>685338f9c57f030c11bb6ddb</id>
+        <link href="https://www.freecodecamp.org/news/how-loops-work-in-php-beginners-guide/"/>
+        <updated>2025-06-18T22:08:57.000Z</updated>
+        <summary type="html"><![CDATA[PHP loops help you repeat a block of code based on a condition. You can use them to work through arrays or repeat actions. You can also use them to skip steps based on logic. In this article, you will learn how PHP loops work and when to use each]]></summary>
+        <author>
+            <name>Montasser Mossallem</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Data Communication and Networking Handbook]]></title>
         <id>6853059aed5a0659bcde37e5</id>
@@ -878,26 +939,6 @@ You can style alt text like any other text originally published on CSS-Tricks, w
 SVG to CSS Shape Converter originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Smashing Animations Part 3: SMIL’s Not Dead Baby, SMIL’s Not Dead]]></title>
-        <id>https://smashingmagazine.com/2025/05/smashing-animations-part-3-smil-not-dead/</id>
-        <link href="https://smashingmagazine.com/2025/05/smashing-animations-part-3-smil-not-dead/"/>
-        <updated>2025-05-21T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[While there are plenty of ways that CSS animations can bring designs to life, adding simple SMIL (Synchronized Multimedia Integration Language) animations in SVG can help them do much more. Andy Clarke explains where SMIL animations in SVG take over where CSS leaves off.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Andy Clarke)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn LangGraph and Build Conversational AI with Python]]></title>
-        <id>682ca2c574938e5428551845</id>
-        <link href="https://www.freecodecamp.org/news/learn-langgraph-and-build-conversational-ai-with-python/"/>
-        <updated>2025-05-20T15:41:57.000Z</updated>
-        <summary type="html"><![CDATA[If you're building conversational AI and tired of messy logic or hard-to-scale workflows, LangGraph makes it easier. It uses graphs to manage dialogue flow, so your bots stay organized even as they get more complex. Great for anything from support ag...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
         </author>
     </entry>
 </feed>
