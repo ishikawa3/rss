@@ -337,21 +337,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/data-vs-findings-vs-insights-ux/data-vs-findings-vs-insights-ux.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2025/05/what-zen-art-motorcycle-maintenance-teach-web-design/",
-          "author": "hello@smashingmagazine.com (Frederick O’Brien)",
-          "description": "Road-tripping along the line between engineering and spirituality, Robert M. Pirsig’s musings on the arts, sciences, and Quality ring as true now as they ever have.",
-          "link": "https://smashingmagazine.com/2025/05/what-zen-art-motorcycle-maintenance-teach-web-design/",
-          "publishedOn": "2025-05-23T11:00:00.000Z",
-          "wordCount": 5694,
-          "title": "What Zen And The Art Of Motorcycle Maintenance Can Teach Us About Web Design",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/zen-and-art-of-motorcycle-maintenance-teach-us-about-web-design/what-zen-art-motorcycle-maintenance-teach-web-design.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/zen-and-art-of-motorcycle-maintenance-teach-us-about-web-design/what-zen-art-motorcycle-maintenance-teach-web-design.jpg"
         }
       ]
     },
@@ -979,46 +964,6 @@
           "wordCount": 2001,
           "title": "How to Use React 19 in Power Apps PCF Components",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1747861011004/173ecdcd-7bca-4c4f-967b-47616bd79a06.png"
-        },
-        {
-          "id": "68304756ecdb03ab557f3974",
-          "author": "Beau Carnes",
-          "description": "On this week's episode of the podcast, freeCodeCamp founder Quincy Larson interviews MacKevin Fey. He just got laid off last week from his senior engineering role at Microsoft. We talk about: How Mack's approaching the job search after being laid of...",
-          "link": "https://www.freecodecamp.org/news/laid-off-but-not-afraid-with-x-senior-microsoft-dev-mackevin-fey-podcast-173/",
-          "publishedOn": "2025-05-23T10:00:54.000Z",
-          "wordCount": 997,
-          "title": "Laid off but not afraid with X-senior Microsoft Dev MacKevin Fey [Podcast #173]",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1747965474270/ae29dc33-4231-47b2-afd1-689b3785fb79.png"
-        },
-        {
-          "id": "682f84537a13a40bfa336307",
-          "author": "Beau Carnes",
-          "description": "If you’ve been meaning to add Vue.js to your front-end toolbelt, today’s your day. We just published a full, 6-hour Vue 3 course on the freeCodeCamp.org YouTube channel. Instructor Bhrugen Patel walks you through everything you need to build modern, ...",
-          "link": "https://www.freecodecamp.org/news/learn-vuejs-in-this-beginners-course/",
-          "publishedOn": "2025-05-22T20:08:51.000Z",
-          "wordCount": 1160,
-          "title": "Learn Vue.js in This Beginner's Course",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1747944784614/489ca833-5acc-48ec-b96a-bc876ce43563.png"
-        },
-        {
-          "id": "682f4900bcc94cb9bccbf905",
-          "author": "Preston Osoro",
-          "description": "This guide is a comprehensive roadmap for deploying a FastAPI backend connected to a PostgreSQL database using Render, a cloud platform that supports hosting Python web apps and managed PostgreSQL databases.   You can find the complete source code he...",
-          "link": "https://www.freecodecamp.org/news/deploy-fastapi-postgresql-app-on-render/",
-          "publishedOn": "2025-05-22T15:55:44.000Z",
-          "wordCount": 2617,
-          "title": "How to Deploy Your FastAPI + PostgreSQL App on Render: A Beginner's Guide",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1747923566699/58fc1283-d2f5-4964-acfa-b5dcad0f3d4f.png"
-        },
-        {
-          "id": "682f44e3dcb21c615cf1a12d",
-          "author": "Mark Mahoney",
-          "description": "Elixir is a dynamic, functional programming language designed for building scalable and maintainable applications. It leverages the battle-tested Erlang VM, known for running low-latency, distributed, and fault-tolerant systems. Elixir is based on an...",
-          "link": "https://www.freecodecamp.org/news/an-animated-introduction-to-elixir/",
-          "publishedOn": "2025-05-22T15:38:11.000Z",
-          "wordCount": 1507,
-          "title": "An Animated Introduction to Elixir",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1747923637406/e7ad8796-6269-4260-b500-226e445140ce.png"
         }
       ]
     }

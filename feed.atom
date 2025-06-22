@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-21T00:15:32.920Z</updated>
+    <updated>2025-06-22T00:17:32.843Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
@@ -888,56 +888,6 @@ What We Know (So Far) About CSS Reading Order originally published on CSS-Tricks
 Better CSS Shapes Using shape() — Part 1: Lines and Arcs originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Temani Afif</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Zen And The Art Of Motorcycle Maintenance Can Teach Us About Web Design]]></title>
-        <id>https://smashingmagazine.com/2025/05/what-zen-art-motorcycle-maintenance-teach-web-design/</id>
-        <link href="https://smashingmagazine.com/2025/05/what-zen-art-motorcycle-maintenance-teach-web-design/"/>
-        <updated>2025-05-23T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Road-tripping along the line between engineering and spirituality, Robert M. Pirsig’s musings on the arts, sciences, and Quality ring as true now as they ever have.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Frederick O’Brien)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Laid off but not afraid with X-senior Microsoft Dev MacKevin Fey [Podcast #173]]]></title>
-        <id>68304756ecdb03ab557f3974</id>
-        <link href="https://www.freecodecamp.org/news/laid-off-but-not-afraid-with-x-senior-microsoft-dev-mackevin-fey-podcast-173/"/>
-        <updated>2025-05-23T10:00:54.000Z</updated>
-        <summary type="html"><![CDATA[On this week's episode of the podcast, freeCodeCamp founder Quincy Larson interviews MacKevin Fey. He just got laid off last week from his senior engineering role at Microsoft. We talk about: How Mack's approaching the job search after being laid of...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn Vue.js in This Beginner's Course]]></title>
-        <id>682f84537a13a40bfa336307</id>
-        <link href="https://www.freecodecamp.org/news/learn-vuejs-in-this-beginners-course/"/>
-        <updated>2025-05-22T20:08:51.000Z</updated>
-        <summary type="html"><![CDATA[If you’ve been meaning to add Vue.js to your front-end toolbelt, today’s your day. We just published a full, 6-hour Vue 3 course on the freeCodeCamp.org YouTube channel. Instructor Bhrugen Patel walks you through everything you need to build modern, ...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Deploy Your FastAPI + PostgreSQL App on Render: A Beginner's Guide]]></title>
-        <id>682f4900bcc94cb9bccbf905</id>
-        <link href="https://www.freecodecamp.org/news/deploy-fastapi-postgresql-app-on-render/"/>
-        <updated>2025-05-22T15:55:44.000Z</updated>
-        <summary type="html"><![CDATA[This guide is a comprehensive roadmap for deploying a FastAPI backend connected to a PostgreSQL database using Render, a cloud platform that supports hosting Python web apps and managed PostgreSQL databases.   You can find the complete source code he...]]></summary>
-        <author>
-            <name>Preston Osoro</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An Animated Introduction to Elixir]]></title>
-        <id>682f44e3dcb21c615cf1a12d</id>
-        <link href="https://www.freecodecamp.org/news/an-animated-introduction-to-elixir/"/>
-        <updated>2025-05-22T15:38:11.000Z</updated>
-        <summary type="html"><![CDATA[Elixir is a dynamic, functional programming language designed for building scalable and maintainable applications. It leverages the battle-tested Erlang VM, known for running low-latency, distributed, and fault-tolerant systems. Elixir is based on an...]]></summary>
-        <author>
-            <name>Mark Mahoney</name>
         </author>
     </entry>
     <entry>
