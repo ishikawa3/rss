@@ -130,26 +130,6 @@
           "wordCount": 2997,
           "title": "What We Know (So Far) About CSS Reading Order",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2022/06/books-code.png"
-        },
-        {
-          "id": "https://css-tricks.com/?p=386640",
-          "author": "Temani Afif",
-          "description": "This is the first part of a series that dives deep into the shape function, starting with shapes that use lines and arcs.\nBetter CSS Shapes Using shape() — Part 1: Lines and Arcs originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/better-css-shapes-using-shape-part-1-lines-and-arcs/",
-          "publishedOn": "2025-05-23T13:02:32.000Z",
-          "wordCount": 4307,
-          "title": "Better CSS Shapes Using shape() — Part 1: Lines and Arcs",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2018/09/css-shapes.jpg"
-        },
-        {
-          "id": "https://css-tricks.com/?p=386724",
-          "author": "Geoff Graham",
-          "description": "Clever, clever that Andy Bell. He shares a technique for displaying image alt text when the image fails to load. Well, more precisely, it's a technique to apply styles to the alt when the image doesn't load, offering a nice UI fallback for what would otherwise be a busted-looking error.\nYou can style alt text like any other text originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/you-can-style-alt-text-like-any-other-text/",
-          "publishedOn": "2025-05-22T14:43:09.000Z",
-          "wordCount": 1900,
-          "title": "You can style alt text like any other text",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2022/08/puzzle-pieces-scatter.png"
         }
       ]
     },
@@ -934,36 +914,6 @@
           "wordCount": 3390,
           "title": "How to Use Your Raspberry Pi Headlessly with VS Code and SSH (No Monitor Needed)",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1748299898852/fe75a7df-f680-4567-ab4a-eb2fe6fae88b.png"
-        },
-        {
-          "id": "68308f32f4205e3b843cfb37",
-          "author": "Venkata Sai Sandeep",
-          "description": "When I first started working on E-commerce applications, I assumed testing checkout flows and payments would be straightforward. My expectation was simple: users select items, provide an address, pay, and receive confirmation. But I quickly learned t...",
-          "link": "https://www.freecodecamp.org/news/how-to-build-a-testing-framework-for-e-commerce-checkout-and-payments/",
-          "publishedOn": "2025-05-23T15:07:30.000Z",
-          "wordCount": 2553,
-          "title": "How to Build a Testing Framework for E-Commerce Checkout and Payments",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1748007727163/0fc1a849-6309-4d37-9415-844f9691de40.png"
-        },
-        {
-          "id": "68308ee8ccde6bc325c82393",
-          "author": "Tiago Capelo Monteiro",
-          "description": "\"To understand is to perceive patterns.\" - Isaiah Berlin Math is not just numbers. It is the science of finding complex patterns that shape our world. This means that to truly understand it, we need to see beyond numbers, formulas, and theorems and ...",
-          "link": "https://www.freecodecamp.org/news/the-architecture-of-mathematics-and-how-developers-can-use-it-in-code/",
-          "publishedOn": "2025-05-23T15:06:16.000Z",
-          "wordCount": 3671,
-          "title": "The Architecture of Mathematics – And How Developers Can Use it in Code",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1748012748947/1df613bf-93e7-4f03-b0f0-47ff49f38504.png"
-        },
-        {
-          "id": "6830767c62d9a28c0de11007",
-          "author": "Brandon Wozniewicz",
-          "description": "The Power Apps Component Framework – PCF for short – lets you create complex custom components using traditional web development tools like HTML, CSS, and JavaScript. When creating a new PCF project, you can choose from two types of controls: standar...",
-          "link": "https://www.freecodecamp.org/news/how-to-use-react-19-in-pcf-components/",
-          "publishedOn": "2025-05-23T13:22:04.000Z",
-          "wordCount": 2001,
-          "title": "How to Use React 19 in Power Apps PCF Components",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1747861011004/173ecdcd-7bca-4c4f-967b-47616bd79a06.png"
         }
       ]
     }

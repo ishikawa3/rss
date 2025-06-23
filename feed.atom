@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-22T00:17:32.843Z</updated>
+    <updated>2025-06-23T00:16:41.167Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
@@ -847,58 +847,6 @@ What We Know (So Far) About CSS Reading Order originally published on CSS-Tricks
         <summary type="html"><![CDATA[What’s the difference between data, findings, and UX insights? And how do you argue for statistical significance in your UX research? Let’s unpack it.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Testing Framework for E-Commerce Checkout and Payments]]></title>
-        <id>68308f32f4205e3b843cfb37</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-a-testing-framework-for-e-commerce-checkout-and-payments/"/>
-        <updated>2025-05-23T15:07:30.000Z</updated>
-        <summary type="html"><![CDATA[When I first started working on E-commerce applications, I assumed testing checkout flows and payments would be straightforward. My expectation was simple: users select items, provide an address, pay, and receive confirmation. But I quickly learned t...]]></summary>
-        <author>
-            <name>Venkata Sai Sandeep</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Architecture of Mathematics – And How Developers Can Use it in Code]]></title>
-        <id>68308ee8ccde6bc325c82393</id>
-        <link href="https://www.freecodecamp.org/news/the-architecture-of-mathematics-and-how-developers-can-use-it-in-code/"/>
-        <updated>2025-05-23T15:06:16.000Z</updated>
-        <summary type="html"><![CDATA["To understand is to perceive patterns." - Isaiah Berlin Math is not just numbers. It is the science of finding complex patterns that shape our world. This means that to truly understand it, we need to see beyond numbers, formulas, and theorems and ...]]></summary>
-        <author>
-            <name>Tiago Capelo Monteiro</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use React 19 in Power Apps PCF Components]]></title>
-        <id>6830767c62d9a28c0de11007</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-react-19-in-pcf-components/"/>
-        <updated>2025-05-23T13:22:04.000Z</updated>
-        <summary type="html"><![CDATA[The Power Apps Component Framework – PCF for short – lets you create complex custom components using traditional web development tools like HTML, CSS, and JavaScript. When creating a new PCF project, you can choose from two types of controls: standar...]]></summary>
-        <author>
-            <name>Brandon Wozniewicz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Better CSS Shapes Using shape() — Part 1: Lines and Arcs]]></title>
-        <id>https://css-tricks.com/?p=386640</id>
-        <link href="https://css-tricks.com/better-css-shapes-using-shape-part-1-lines-and-arcs/"/>
-        <updated>2025-05-23T13:02:32.000Z</updated>
-        <summary type="html"><![CDATA[This is the first part of a series that dives deep into the shape function, starting with shapes that use lines and arcs.
-Better CSS Shapes Using shape() — Part 1: Lines and Arcs originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Temani Afif</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[You can style alt text like any other text]]></title>
-        <id>https://css-tricks.com/?p=386724</id>
-        <link href="https://css-tricks.com/you-can-style-alt-text-like-any-other-text/"/>
-        <updated>2025-05-22T14:43:09.000Z</updated>
-        <summary type="html"><![CDATA[Clever, clever that Andy Bell. He shares a technique for displaying image alt text when the image fails to load. Well, more precisely, it's a technique to apply styles to the alt when the image doesn't load, offering a nice UI fallback for what would otherwise be a busted-looking error.
-You can style alt text like any other text originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
         </author>
     </entry>
 </feed>
