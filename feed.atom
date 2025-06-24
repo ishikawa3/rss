@@ -2,10 +2,61 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-23T00:16:41.167Z</updated>
+    <updated>2025-06-24T00:15:27.711Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Learn Embedded Systems Firmware Basics – A Handbook for Developers]]></title>
+        <id>6859c55cad0bcef0be044476</id>
+        <link href="https://www.freecodecamp.org/news/learn-embedded-systems-firmware-basics-handbook-for-devs/"/>
+        <updated>2025-06-23T21:21:32.000Z</updated>
+        <summary type="html"><![CDATA[Have you ever wondered how your fridge knows when to cool, or how a coffee machine knows when to stop pouring? Behind the scenes, these devices are powered by embedded systems – small, dedicated computers designed to perform specific tasks reliably a...]]></summary>
+        <author>
+            <name>Soham Banerjee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kubernetes Networking Tutorial: A Guide for Developers]]></title>
+        <id>68598f7c91eb0b11714a7c62</id>
+        <link href="https://www.freecodecamp.org/news/kubernetes-networking-tutorial-for-developers/"/>
+        <updated>2025-06-23T17:31:40.000Z</updated>
+        <summary type="html"><![CDATA[Kubernetes networking is one of the most critical and complex parts of running containerized workloads in production. This tutorial will walk you through both the theory as well as some hands-on examples and best practices for mastering Kubernetes ne...]]></summary>
+        <author>
+            <name>Destiny Erhabor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Implement a Service Worker with WorkBox in a Progressive Web App]]></title>
+        <id>68595d64f486735784954566</id>
+        <link href="https://www.freecodecamp.org/news/implement-a-service-worker-with-workbox-in-a-pwa/"/>
+        <updated>2025-06-23T13:57:56.000Z</updated>
+        <summary type="html"><![CDATA[Imagine having a web app that looks and feels just like a native mobile app. It launches from your home screen, runs in full-screen mode, and responds smoothly to your interactions. But here’s the surprising part: it wasn’t downloaded from an app sto...]]></summary>
+        <author>
+            <name>Damilola Oniyide</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Better API for the Intersection and Mutation Observers]]></title>
+        <id>https://css-tricks.com/?p=386344</id>
+        <link href="https://css-tricks.com/a-better-api-for-the-intersection-and-mutation-observers/"/>
+        <updated>2025-06-23T13:41:34.000Z</updated>
+        <summary type="html"><![CDATA[Zell discusses refactoring the Resize, Mutation, and Intersection Observer APIs for easier usage, demonstrating how to implement callback and event listener patterns, while highlighting available options and methods.
+A Better API for the Intersection and Mutation Observers originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Zell Liew</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Decoding The SVG <code>path</code> Element: Curve And Arc Commands]]></title>
+        <id>https://smashingmagazine.com/2025/06/decoding-svg-path-element-curve-arc-commands/</id>
+        <link href="https://smashingmagazine.com/2025/06/decoding-svg-path-element-curve-arc-commands/"/>
+        <updated>2025-06-23T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[On her quest to teach you how to code vectors by hand, Myriam Frisano’s second installment of a `path` deep dive explores the most complex aspects of SVG’s most powerful element. She’ll help you understand the underlying rules and function of how curves and arcs are constructed. By the end of it, your toolkit is ready to tackle all types of tasks required to draw with code — even if some of the lines twist and turn.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Myriam Frisano)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Choose a Web Application Firewall for Web Security]]></title>
         <id>685595d957b6666dfb68743f</id>

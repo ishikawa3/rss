@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=386344",
+          "author": "Zell Liew",
+          "description": "Zell discusses refactoring the Resize, Mutation, and Intersection Observer APIs for easier usage, demonstrating how to implement callback and event listener patterns, while highlighting available options and methods.\nA Better API for the Intersection and Mutation Observers originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/a-better-api-for-the-intersection-and-mutation-observers/",
+          "publishedOn": "2025-06-23T13:41:34.000Z",
+          "wordCount": 3006,
+          "title": "A Better API for the Intersection and Mutation Observers",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/04/code-mutation-observer.jpg"
+        },
+        {
           "id": "https://css-tricks.com/?p=386925",
           "author": "Juan Diego Rodríguez",
           "description": "An introduction to \"Color spaces\", \"Color models\", \"Color gamuts,\" and basically all of the \"Color somethings\" in CSS.\nColor Everything in CSS originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -138,6 +148,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2025/06/decoding-svg-path-element-curve-arc-commands/",
+          "author": "hello@smashingmagazine.com (Myriam Frisano)",
+          "description": "On her quest to teach you how to code vectors by hand, Myriam Frisano’s second installment of a `path` deep dive explores the most complex aspects of SVG’s most powerful element. She’ll help you understand the underlying rules and function of how curves and arcs are constructed. By the end of it, your toolkit is ready to tackle all types of tasks required to draw with code — even if some of the lines twist and turn.",
+          "link": "https://smashingmagazine.com/2025/06/decoding-svg-path-element-curve-arc-commands/",
+          "publishedOn": "2025-06-23T10:00:00.000Z",
+          "wordCount": 5343,
+          "title": "Decoding The SVG <code>path</code> Element: Curve And Arc Commands",
+          "enclosure": {
+            "url": "http://files.smashing.media/decoding-svg-path-element-curve-arc-commands/decoding-svg-path-element-curve-arc-commands.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/decoding-svg-path-element-curve-arc-commands/decoding-svg-path-element-curve-arc-commands.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2025/06/css-cascade-layers-bem-utility-classes-specificity-control/",
           "author": "hello@smashingmagazine.com (Victor Ayomipo)",
@@ -325,6 +350,36 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "6859c55cad0bcef0be044476",
+          "author": "Soham Banerjee",
+          "description": "Have you ever wondered how your fridge knows when to cool, or how a coffee machine knows when to stop pouring? Behind the scenes, these devices are powered by embedded systems – small, dedicated computers designed to perform specific tasks reliably a...",
+          "link": "https://www.freecodecamp.org/news/learn-embedded-systems-firmware-basics-handbook-for-devs/",
+          "publishedOn": "2025-06-23T21:21:32.000Z",
+          "wordCount": 7220,
+          "title": "Learn Embedded Systems Firmware Basics – A Handbook for Developers",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1750701027343/86918e8c-4348-4845-b048-6203ae0fcb38.png"
+        },
+        {
+          "id": "68598f7c91eb0b11714a7c62",
+          "author": "Destiny Erhabor",
+          "description": "Kubernetes networking is one of the most critical and complex parts of running containerized workloads in production. This tutorial will walk you through both the theory as well as some hands-on examples and best practices for mastering Kubernetes ne...",
+          "link": "https://www.freecodecamp.org/news/kubernetes-networking-tutorial-for-developers/",
+          "publishedOn": "2025-06-23T17:31:40.000Z",
+          "wordCount": 5336,
+          "title": "Kubernetes Networking Tutorial: A Guide for Developers",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1750697209688/e55bb451-1278-4004-ae3d-fd8bdbae47da.png"
+        },
+        {
+          "id": "68595d64f486735784954566",
+          "author": "Damilola Oniyide",
+          "description": "Imagine having a web app that looks and feels just like a native mobile app. It launches from your home screen, runs in full-screen mode, and responds smoothly to your interactions. But here’s the surprising part: it wasn’t downloaded from an app sto...",
+          "link": "https://www.freecodecamp.org/news/implement-a-service-worker-with-workbox-in-a-pwa/",
+          "publishedOn": "2025-06-23T13:57:56.000Z",
+          "wordCount": 6393,
+          "title": "How to Implement a Service Worker with WorkBox in a Progressive Web App",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1750687028879/b12e57cb-290a-4562-8584-95eb5713a871.png"
+        },
         {
           "id": "685595d957b6666dfb68743f",
           "author": "Manish Shivanandhan",
