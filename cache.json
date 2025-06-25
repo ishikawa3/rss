@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=387422",
+          "author": "Sunkanmi Fafowora",
+          "description": "The CSS if() function was recently implemented in Chrome 137, making it the first instance where we have it supported by a mainstream browser. Let's poke at it a bit at a very high level.\nLightly Poking at the CSS if() Function in Chrome 137 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/lightly-poking-at-the-css-if-function-in-chrome-137/",
+          "publishedOn": "2025-06-24T15:17:10.000Z",
+          "wordCount": 3089,
+          "title": "Lightly Poking at the CSS if() Function in Chrome 137",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2024/07/if-conditional-thumbnail.jpg"
+        },
+        {
           "id": "https://css-tricks.com/?p=386344",
           "author": "Zell Liew",
           "description": "Zell discusses refactoring the Resize, Mutation, and Intersection Observer APIs for easier usage, demonstrating how to implement callback and event listener patterns, while highlighting available options and methods.\nA Better API for the Intersection and Mutation Observers originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -350,6 +360,36 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "685b12877dabc4d300e53706",
+          "author": "Shrijal Acharya",
+          "description": "With the rise of AI tools over the past couple years, most of us are learning how to use them in our projects. And in this article, I’ll teach you how to build a quick Discord bot with LangGraph and Composio. You’ll use LangGraph nodes to build a bra...",
+          "link": "https://www.freecodecamp.org/news/build-a-langgraph-composio-powered-discord-bot/",
+          "publishedOn": "2025-06-24T21:03:03.000Z",
+          "wordCount": 6058,
+          "title": "How to Build a LangGraph and Composio-Powered Discord Bot",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1750798930964/65dd7078-e4e7-42d0-a797-1e7d72690513.png"
+        },
+        {
+          "id": "685ae4b9a78289a7005020d4",
+          "author": "Rufai Mustapha",
+          "description": "I’ve never been the loudest person in the room. In fact, the first time I submitted a conference talk, I hovered over the submit button for nearly an hour. I was convinced someone else had more experience, a better résumé, or more impressive GitHub s...",
+          "link": "https://www.freecodecamp.org/news/how-i-landed-20-conference-talks-and-how-you-can-too/",
+          "publishedOn": "2025-06-24T17:47:37.000Z",
+          "wordCount": 2432,
+          "title": "How I Landed 20+ Conference Talks – and How You Can, Too",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1750787232225/b812c4b4-aeea-4398-b74a-8f16f5ef1c13.png"
+        },
+        {
+          "id": "685aa5e088d03626e91ea17b",
+          "author": "Beau Carnes",
+          "description": "If you've ever found yourself drowning in back-and-forth scheduling emails or confused by time zone mix-ups, you’ve probably used (or wished for) a tool like Calendly. Now you can learn how to build your own version from scratch. This course is perfe...",
+          "link": "https://www.freecodecamp.org/news/build-and-deploy-a-calendly-clone-with-google-calendar-integration/",
+          "publishedOn": "2025-06-24T13:19:28.000Z",
+          "wordCount": 1295,
+          "title": "Build and Deploy a Calendly Clone with Google Calendar Integration",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1750771142491/e627c758-7d1c-48ea-b0b7-1449300662eb.png"
+        },
         {
           "id": "6859c55cad0bcef0be044476",
           "author": "Soham Banerjee",
