@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=387215",
+          "author": "Daniel Schwarz",
+          "description": "The CSS if() function enables us to use values conditionally, which we can already do with queries and other functions, so I’m sure you’re wondering: What exactly does if() do? Let's look at a possible real-world use case.\nPoking at the CSS if() Function a Little More: Conditional Color Theming originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/poking-at-the-css-if-function-a-little-more-conditional-color-theming/",
+          "publishedOn": "2025-06-25T14:33:45.000Z",
+          "wordCount": 2961,
+          "title": "Poking at the CSS if() Function a Little More: Conditional Color Theming",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2024/07/if-conditional-thumbnail.jpg"
+        },
+        {
           "id": "https://css-tricks.com/?p=387422",
           "author": "Sunkanmi Fafowora",
           "description": "The CSS if() function was recently implemented in Chrome 137, making it the first instance where we have it supported by a mainstream browser. Let's poke at it a bit at a very high level.\nLightly Poking at the CSS if() Function in Chrome 137 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -158,6 +168,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2025/06/can-good-ux-protect-older-users-digital-scams/",
+          "author": "hello@smashingmagazine.com (Carrie Webster)",
+          "description": "As online scams become more sophisticated, Carrie Webster explores whether good UX can serve as a frontline defense, particularly for non-tech-savvy older users navigating today’s digital world.",
+          "link": "https://smashingmagazine.com/2025/06/can-good-ux-protect-older-users-digital-scams/",
+          "publishedOn": "2025-06-25T12:00:00.000Z",
+          "wordCount": 4778,
+          "title": "Can Good UX Protect Older Users From Digital Scams?",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/can-good-ux-protect-older-users-digital-scams/can-good-ux-protect-older-users-digital-scams.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/can-good-ux-protect-older-users-digital-scams/can-good-ux-protect-older-users-digital-scams.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2025/06/decoding-svg-path-element-curve-arc-commands/",
           "author": "hello@smashingmagazine.com (Myriam Frisano)",
@@ -360,6 +385,36 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "685c658face24766313d6c64",
+          "author": "Mark Mahoney",
+          "description": "Web development combines multiple technologies to create interactive applications that run in web servers and browsers. Modern web apps require understanding both the server-side (back end) and client-side (front end) and how they communicate with ea...",
+          "link": "https://www.freecodecamp.org/news/an-animated-introduction-to-web-development-from-back-to-front/",
+          "publishedOn": "2025-06-25T21:09:35.000Z",
+          "wordCount": 1505,
+          "title": "An Animated Introduction to Web Development from Back to Front",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1750883709276/9a8aeb7d-51f8-4412-9ead-e833f4577fde.png"
+        },
+        {
+          "id": "685c24e3eff8a32b812ea6aa",
+          "author": "Manish Shivanandhan",
+          "description": "If you’re an indie hacker – that is, someone building your own side project, startup, or digital product solo or with a small team – you know that hosting matters.  You’re juggling product development, community-building, marketing, support, and ever...",
+          "link": "https://www.freecodecamp.org/news/top-hosting-platforms-for-indie-hackers/",
+          "publishedOn": "2025-06-25T16:33:39.000Z",
+          "wordCount": 2149,
+          "title": "Top Hosting Platforms for Indie Hackers",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1750869186913/741d5815-6f36-41c4-b0e4-bdec93ab6fdf.png"
+        },
+        {
+          "id": "685c2467df51707f055a263f",
+          "author": "Sumit Saha",
+          "description": "MCP (Model Context Protocol) lets you connect your code, data, and tools to AI applications like Claude and Cursor. This handbook explains how it works with real-world analogies, and shows you how to build a custom MCP server using TypeScript that fe...",
+          "link": "https://www.freecodecamp.org/news/how-to-build-a-custom-mcp-server-with-typescript-a-handbook-for-developers/",
+          "publishedOn": "2025-06-25T16:31:35.000Z",
+          "wordCount": 8045,
+          "title": "How to Build a Custom MCP Server with TypeScript – A Handbook for Developers",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1750868512407/95f366d3-9115-423a-8d63-66e53171931a.png"
+        },
         {
           "id": "685b12877dabc4d300e53706",
           "author": "Shrijal Acharya",

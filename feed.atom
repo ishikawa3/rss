@@ -2,10 +2,61 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-25T00:15:56.023Z</updated>
+    <updated>2025-06-26T00:15:44.949Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[An Animated Introduction to Web Development from Back to Front]]></title>
+        <id>685c658face24766313d6c64</id>
+        <link href="https://www.freecodecamp.org/news/an-animated-introduction-to-web-development-from-back-to-front/"/>
+        <updated>2025-06-25T21:09:35.000Z</updated>
+        <summary type="html"><![CDATA[Web development combines multiple technologies to create interactive applications that run in web servers and browsers. Modern web apps require understanding both the server-side (back end) and client-side (front end) and how they communicate with ea...]]></summary>
+        <author>
+            <name>Mark Mahoney</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top Hosting Platforms for Indie Hackers]]></title>
+        <id>685c24e3eff8a32b812ea6aa</id>
+        <link href="https://www.freecodecamp.org/news/top-hosting-platforms-for-indie-hackers/"/>
+        <updated>2025-06-25T16:33:39.000Z</updated>
+        <summary type="html"><![CDATA[If you’re an indie hacker – that is, someone building your own side project, startup, or digital product solo or with a small team – you know that hosting matters.  You’re juggling product development, community-building, marketing, support, and ever...]]></summary>
+        <author>
+            <name>Manish Shivanandhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Custom MCP Server with TypeScript – A Handbook for Developers]]></title>
+        <id>685c2467df51707f055a263f</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-a-custom-mcp-server-with-typescript-a-handbook-for-developers/"/>
+        <updated>2025-06-25T16:31:35.000Z</updated>
+        <summary type="html"><![CDATA[MCP (Model Context Protocol) lets you connect your code, data, and tools to AI applications like Claude and Cursor. This handbook explains how it works with real-world analogies, and shows you how to build a custom MCP server using TypeScript that fe...]]></summary>
+        <author>
+            <name>Sumit Saha</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Poking at the CSS if() Function a Little More: Conditional Color Theming]]></title>
+        <id>https://css-tricks.com/?p=387215</id>
+        <link href="https://css-tricks.com/poking-at-the-css-if-function-a-little-more-conditional-color-theming/"/>
+        <updated>2025-06-25T14:33:45.000Z</updated>
+        <summary type="html"><![CDATA[The CSS if() function enables us to use values conditionally, which we can already do with queries and other functions, so I’m sure you’re wondering: What exactly does if() do? Let's look at a possible real-world use case.
+Poking at the CSS if() Function a Little More: Conditional Color Theming originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Daniel Schwarz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Can Good UX Protect Older Users From Digital Scams?]]></title>
+        <id>https://smashingmagazine.com/2025/06/can-good-ux-protect-older-users-digital-scams/</id>
+        <link href="https://smashingmagazine.com/2025/06/can-good-ux-protect-older-users-digital-scams/"/>
+        <updated>2025-06-25T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[As online scams become more sophisticated, Carrie Webster explores whether good UX can serve as a frontline defense, particularly for non-tech-savvy older users navigating today’s digital world.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Carrie Webster)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Build a LangGraph and Composio-Powered Discord Bot]]></title>
         <id>685b12877dabc4d300e53706</id>
