@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=387527",
+          "author": "Geoff Graham",
+          "description": "KelpUI is new library that Chris Ferdinandi is developing, designed to leverage newer CSS features and Web Components. I've enjoyed following Chris as he's published an ongoing series of articles detailing his thought process behind the library, getting deep into his approach. You really get a clear picture of his strategy and I love it.\nKelpUI originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/kelpui/",
+          "publishedOn": "2025-06-26T16:42:32.000Z",
+          "wordCount": 2020,
+          "title": "KelpUI",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/06/kelpui.webp"
+        },
+        {
           "id": "https://css-tricks.com/?p=387215",
           "author": "Daniel Schwarz",
           "description": "The CSS if() function enables us to use values conditionally, which we can already do with queries and other functions, so I’m sure you’re wondering: What exactly does if() do? Let's look at a possible real-world use case.\nPoking at the CSS if() Function a Little More: Conditional Color Theming originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -150,16 +160,6 @@
           "wordCount": 3821,
           "title": "Better CSS Shapes Using shape() — Part 2: More on Arcs",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/05/shape-fuinction-featured.webp"
-        },
-        {
-          "id": "https://css-tricks.com/?p=386654",
-          "author": "Daniel Schwarz",
-          "description": "The reading-flow and reading-order proposed CSS properties are designed to specify the source order of HTML elements in the DOM tree, or in simpler terms, how accessibility tools deduce the order of elements. You’d use them to make the focus order of focusable elements match the visual order, as outlined in the Web Content Accessibility Guidelines (WCAG 2.2).\nWhat We Know (So Far) About CSS Reading Order originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/what-we-know-so-far-about-css-reading-order/",
-          "publishedOn": "2025-05-27T13:02:32.000Z",
-          "wordCount": 2997,
-          "title": "What We Know (So Far) About CSS Reading Order",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2022/06/books-code.png"
         }
       ]
     },
@@ -347,36 +347,6 @@
             "type": "image/png"
           },
           "imageUrl": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/d57d2cfe-3f0d-48ac-9c26-df7e43cbd76b/june-18-travel-time-preview-opt.png"
-        },
-        {
-          "id": "https://smashingmagazine.com/2025/05/reliably-detecting-third-party-cookie-blocking-2025/",
-          "author": "hello@smashingmagazine.com (Mikhail Prosmitskiy)",
-          "description": "The web is mired in a struggle to eliminate third-party cookies, with the World Wide Web Consortium Technical Architecture Group leading the charge. But there are obstacles preventing this from happening, and, as a result, many essential web features continue to rely on cookies to function properly. That’s why detecting third-party cookie blocking isn’t just good technical hygiene but a frontline defense for user experience.",
-          "link": "https://smashingmagazine.com/2025/05/reliably-detecting-third-party-cookie-blocking-2025/",
-          "publishedOn": "2025-05-28T10:00:00.000Z",
-          "wordCount": 5713,
-          "title": "Reliably Detecting Third-Party Cookie Blocking In 2025",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/reliably-detecting-third-party-cookie-blocking-2025/reliably-detecting-third-party-cookie-blocking-2025.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/reliably-detecting-third-party-cookie-blocking-2025/reliably-detecting-third-party-cookie-blocking-2025.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2025/05/data-vs-findings-vs-insights-ux/",
-          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
-          "description": "What’s the difference between data, findings, and UX insights? And how do you argue for statistical significance in your UX research? Let’s unpack it.",
-          "link": "https://smashingmagazine.com/2025/05/data-vs-findings-vs-insights-ux/",
-          "publishedOn": "2025-05-27T13:00:00.000Z",
-          "wordCount": 3771,
-          "title": "Data Vs. Findings Vs. Insights In UX",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/data-vs-findings-vs-insights-ux/data-vs-findings-vs-insights-ux.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/data-vs-findings-vs-insights-ux/data-vs-findings-vs-insights-ux.jpg"
         }
       ]
     },
@@ -385,6 +355,36 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "685d7ca925e1a316c88035e8",
+          "author": "Atuoha Anthony",
+          "description": "Modern mobile applications are far from static, single-view experiences. Instead, they are dynamic, multi-faceted environments where users seamlessly transition between different features, content, and functionalities. Because of this inherent comple...",
+          "link": "https://www.freecodecamp.org/news/routing-and-multi-screen-development-in-flutter-for-beginners/",
+          "publishedOn": "2025-06-26T17:00:25.000Z",
+          "wordCount": 3409,
+          "title": "Routing and Multi-Screen Development in Flutter – a Beginner's Guide",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1750956717640/60bc5ee7-640d-4d8c-8b8d-64e422fadf56.png"
+        },
+        {
+          "id": "685d4674183f8588de290c10",
+          "author": "Beau Carnes",
+          "description": "Transformers have changed the game in machine learning. From powering chatbots and search engines to enabling machine translation and image generation, they're at the core of today’s most impressive AI models. But the field moves fast. New techniques...",
+          "link": "https://www.freecodecamp.org/news/learn-the-evolution-of-the-transformer-architecture-used-in-llms/",
+          "publishedOn": "2025-06-26T13:09:08.000Z",
+          "wordCount": 1241,
+          "title": "Learn the Evolution of the Transformer Architecture Used in LLMs",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1750943231432/8684216b-bb58-4358-a31a-00a63ce62721.png"
+        },
+        {
+          "id": "685c9989f2073d62fe9b82f5",
+          "author": "Hang Hu",
+          "description": "Red Hat Enterprise Linux (RHEL) is a leading enterprise-grade Linux distribution widely regarded as the gold standard for mission-critical server environments. It provides robust, secure, and scalable solutions for organizations ranging from small bu...",
+          "link": "https://www.freecodecamp.org/news/how-to-schedule-tasks-in-red-hat-enterprise-linux/",
+          "publishedOn": "2025-06-26T00:51:21.000Z",
+          "wordCount": 4274,
+          "title": "How to Schedule Tasks in Red Hat Enterprise Linux",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1750869114329/79072c41-988a-41f2-9e2f-25618d78fefc.png"
+        },
         {
           "id": "685c658face24766313d6c64",
           "author": "Mark Mahoney",
@@ -1044,26 +1044,6 @@
           "wordCount": 1334,
           "title": "Build Your Own ViT Model from Scratch",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1748439600587/276b8ea4-1a66-494e-9b6a-ec06c898379a.png"
-        },
-        {
-          "id": "68363d68d27e47d637cc580b",
-          "author": "Ijeoma Igboagu",
-          "description": "As front-end development evolves, finding the right deployment service is more important than ever. Amazon Web Services (AWS), a cloud-based service, offers a number of helpful tools and platforms for hosting modern front-end applications. Although i...",
-          "link": "https://www.freecodecamp.org/news/best-aws-services-for-frontend-deployment/",
-          "publishedOn": "2025-05-27T22:32:08.000Z",
-          "wordCount": 2412,
-          "title": "The Best AWS Services to Deploy Front-End Applications in 2025",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1748382386996/10b7c32c-f456-4717-b37c-b1668565bede.png"
-        },
-        {
-          "id": "6835cf3101fd0876c3c66de0",
-          "author": "Josiah Adesola",
-          "description": "The Raspberry Pi is a portable computer with an onboard processor that fits comfortably in the palm of your hand. Compared with general purpose computers, it’s an affordable option developed by the Raspberry Pi Foundation. The Raspberry Pi Model B wa...",
-          "link": "https://www.freecodecamp.org/news/how-to-use-your-raspberry-pi-headlessly-with-vs-code-and-ssh/",
-          "publishedOn": "2025-05-27T14:41:53.000Z",
-          "wordCount": 3390,
-          "title": "How to Use Your Raspberry Pi Headlessly with VS Code and SSH (No Monitor Needed)",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1748299898852/fe75a7df-f680-4567-ab4a-eb2fe6fae88b.png"
         }
       ]
     }
