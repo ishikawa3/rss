@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=387089",
+          "author": "Juan Diego Rodríguez",
+          "description": "Blob, Blob, Blob. What's the most effective way to create blob shapes in CSS? Turns out, as always, there are many. Let's compare them together!\nCSS Blob Recipes originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/css-blob-recipes/",
+          "publishedOn": "2025-06-27T13:48:41.000Z",
+          "wordCount": 3924,
+          "title": "CSS Blob Recipes",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/06/blobs-cover.webp"
+        },
+        {
           "id": "https://css-tricks.com/?p=387527",
           "author": "Geoff Graham",
           "description": "KelpUI is new library that Chris Ferdinandi is developing, designed to leverage newer CSS features and Web Components. I've enjoyed following Chris as he's published an ongoing series of articles detailing his thought process behind the library, getting deep into his approach. You really get a clear picture of his strategy and I love it.\nKelpUI originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -355,6 +365,26 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "685ed775cd15578cd8609e17",
+          "author": "Atuoha Anthony",
+          "description": "Mobile applications often need to communicate important information to users, even when the app isn't actively running. Local notifications are an excellent way to achieve this, allowing you to display messages, reminders, or alerts directly on the u...",
+          "link": "https://www.freecodecamp.org/news/how-to-use-local-notifications-in-flutter/",
+          "publishedOn": "2025-06-27T17:40:05.000Z",
+          "wordCount": 5641,
+          "title": "How to Use Local Notifications in Flutter – A Tutorial for Beginners",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1751036674586/f344992e-0d1c-4f91-9cfb-f70aac5b5d14.png"
+        },
+        {
+          "id": "685ece39a1a1f0e914952af5",
+          "author": "Beau Carnes",
+          "description": "On this week's episode of the podcast, freeCodeCamp founder Quincy Larson interviews Tai Groot. He's a back end software engineer and maintains an open source project used by companies like Google. For the first half of the interview we talk about ba...",
+          "link": "https://www.freecodecamp.org/news/rust-vs-go-vs-typescript-which-back-end-language-is-for-you-with-tai-groot-podcast-176/",
+          "publishedOn": "2025-06-27T17:00:41.000Z",
+          "wordCount": 1093,
+          "title": "Rust VS Go VS TypeScript – which back end language is for you? With Tai Groot [Podcast #176]",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1750974265013/73f79068-0087-4c39-8a8b-feea8cac873b.png"
+        },
         {
           "id": "685d7ca925e1a316c88035e8",
           "author": "Atuoha Anthony",
@@ -1004,46 +1034,6 @@
           "wordCount": 11268,
           "title": "How to Build an AI-Powered Cooking Assistant with Flutter and Gemini",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1748533427117/1c8c2384-c6a3-4ad8-ab40-1eee65b2c914.png"
-        },
-        {
-          "id": "68372f981dca8ddfbed5d732",
-          "author": "Manish Shivanandhan",
-          "description": "Traveling is one of life’s greatest joys  –  but it also puts a big target on your back for cybercriminals. Tourists are often rushed, distracted, or unfamiliar with local providers. That’s exactly what hackers count on. From fake Wi-Fi networks to s...",
-          "link": "https://www.freecodecamp.org/news/how-attackers-target-travelers-and-how-to-defend-yourself/",
-          "publishedOn": "2025-05-28T15:45:28.000Z",
-          "wordCount": 1889,
-          "title": "How Attackers Target Travelers – and How to Defend Yourself",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1748447045778/2e335ffb-b831-4eb3-8683-9a81152154c7.png"
-        },
-        {
-          "id": "68371c1c13269a460c440e6c",
-          "author": "Balajee Asish Brahmandam",
-          "description": "You may have heard about “Agentic AI” systems and wondered what they’re all about. Well, in basic terms, the idea behind Agentic AI is that it can see its surroundings, set and pursue goals, plan and reason through many processes, and learn from expe...",
-          "link": "https://www.freecodecamp.org/news/the-agentic-ai-handbook/",
-          "publishedOn": "2025-05-28T14:22:20.000Z",
-          "wordCount": 5974,
-          "title": "The Agentic AI Handbook: A Beginner's Guide to Autonomous Intelligent Agents",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1748440644883/96088174-14a2-40da-9a7d-931253f3045b.png"
-        },
-        {
-          "id": "6837137d733fa231f684d399",
-          "author": "Beau Carnes",
-          "description": "Building robust web applications and services requires a solid understanding of REST APIs, the backbone of modern web communication. Whether you're looking to create mobile app backends, integrate different systems, or build scalable web services, RE...",
-          "link": "https://www.freecodecamp.org/news/master-rest-api-development-with-net-9/",
-          "publishedOn": "2025-05-28T13:45:33.000Z",
-          "wordCount": 1411,
-          "title": "Master REST API Development with .NET 9",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1748439915268/7c83881c-ce95-4a13-86eb-3d3631e01b6c.png"
-        },
-        {
-          "id": "68371245a0ad7212aa3fe103",
-          "author": "Beau Carnes",
-          "description": "Vision Transformers have fundamentally changed how we approach computer vision problems, delivering state-of-the-art results that often surpass traditional convolutional neural networks. As the industry shifts toward transformer-based architectures f...",
-          "link": "https://www.freecodecamp.org/news/build-your-own-vit-model-from-scratch/",
-          "publishedOn": "2025-05-28T13:40:21.000Z",
-          "wordCount": 1334,
-          "title": "Build Your Own ViT Model from Scratch",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1748439600587/276b8ea4-1a66-494e-9b6a-ec06c898379a.png"
         }
       ]
     }

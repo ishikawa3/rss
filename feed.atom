@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-27T00:16:03.235Z</updated>
+    <updated>2025-06-28T00:15:21.522Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Use Local Notifications in Flutter – A Tutorial for Beginners]]></title>
+        <id>685ed775cd15578cd8609e17</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-local-notifications-in-flutter/"/>
+        <updated>2025-06-27T17:40:05.000Z</updated>
+        <summary type="html"><![CDATA[Mobile applications often need to communicate important information to users, even when the app isn't actively running. Local notifications are an excellent way to achieve this, allowing you to display messages, reminders, or alerts directly on the u...]]></summary>
+        <author>
+            <name>Atuoha Anthony</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rust VS Go VS TypeScript – which back end language is for you? With Tai Groot [Podcast #176]]]></title>
+        <id>685ece39a1a1f0e914952af5</id>
+        <link href="https://www.freecodecamp.org/news/rust-vs-go-vs-typescript-which-back-end-language-is-for-you-with-tai-groot-podcast-176/"/>
+        <updated>2025-06-27T17:00:41.000Z</updated>
+        <summary type="html"><![CDATA[On this week's episode of the podcast, freeCodeCamp founder Quincy Larson interviews Tai Groot. He's a back end software engineer and maintains an open source project used by companies like Google. For the first half of the interview we talk about ba...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSS Blob Recipes]]></title>
+        <id>https://css-tricks.com/?p=387089</id>
+        <link href="https://css-tricks.com/css-blob-recipes/"/>
+        <updated>2025-06-27T13:48:41.000Z</updated>
+        <summary type="html"><![CDATA[Blob, Blob, Blob. What's the most effective way to create blob shapes in CSS? Turns out, as always, there are many. Let's compare them together!
+CSS Blob Recipes originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Juan Diego Rodríguez</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Routing and Multi-Screen Development in Flutter – a Beginner's Guide]]></title>
         <id>685d7ca925e1a316c88035e8</id>
@@ -940,46 +971,6 @@ Better CSS Shapes Using shape() — Part 2: More on Arcs originally published o
         <summary type="html"><![CDATA[After soaking in everything shared at GoogleIO, I can’t lie – I feel supercharged! From What’s New in Flutter to Building Agentic Apps with Flutter and Firebase AI Logic, and the deep dive into How Flutter Makes the Most of Your Platforms, it felt li...]]></summary>
         <author>
             <name>Atuoha Anthony</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Attackers Target Travelers – and How to Defend Yourself]]></title>
-        <id>68372f981dca8ddfbed5d732</id>
-        <link href="https://www.freecodecamp.org/news/how-attackers-target-travelers-and-how-to-defend-yourself/"/>
-        <updated>2025-05-28T15:45:28.000Z</updated>
-        <summary type="html"><![CDATA[Traveling is one of life’s greatest joys  –  but it also puts a big target on your back for cybercriminals. Tourists are often rushed, distracted, or unfamiliar with local providers. That’s exactly what hackers count on. From fake Wi-Fi networks to s...]]></summary>
-        <author>
-            <name>Manish Shivanandhan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Agentic AI Handbook: A Beginner's Guide to Autonomous Intelligent Agents]]></title>
-        <id>68371c1c13269a460c440e6c</id>
-        <link href="https://www.freecodecamp.org/news/the-agentic-ai-handbook/"/>
-        <updated>2025-05-28T14:22:20.000Z</updated>
-        <summary type="html"><![CDATA[You may have heard about “Agentic AI” systems and wondered what they’re all about. Well, in basic terms, the idea behind Agentic AI is that it can see its surroundings, set and pursue goals, plan and reason through many processes, and learn from expe...]]></summary>
-        <author>
-            <name>Balajee Asish Brahmandam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Master REST API Development with .NET 9]]></title>
-        <id>6837137d733fa231f684d399</id>
-        <link href="https://www.freecodecamp.org/news/master-rest-api-development-with-net-9/"/>
-        <updated>2025-05-28T13:45:33.000Z</updated>
-        <summary type="html"><![CDATA[Building robust web applications and services requires a solid understanding of REST APIs, the backbone of modern web communication. Whether you're looking to create mobile app backends, integrate different systems, or build scalable web services, RE...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Build Your Own ViT Model from Scratch]]></title>
-        <id>68371245a0ad7212aa3fe103</id>
-        <link href="https://www.freecodecamp.org/news/build-your-own-vit-model-from-scratch/"/>
-        <updated>2025-05-28T13:40:21.000Z</updated>
-        <summary type="html"><![CDATA[Vision Transformers have fundamentally changed how we approach computer vision problems, delivering state-of-the-art results that often surpass traditional convolutional neural networks. As the industry shifts toward transformer-based architectures f...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
         </author>
     </entry>
 </feed>
