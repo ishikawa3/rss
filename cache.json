@@ -1004,36 +1004,6 @@
           "wordCount": 1019,
           "title": "How to Survive in Tech When Everything's Changing w/ 21-year Veteran Dev Joe Attardi [Podcast #174]",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1748483423794/0848ad8d-1381-474f-94ea-a196ad4723a4.png"
-        },
-        {
-          "id": "6838baed0c839b0170a2e731",
-          "author": "Eda Eren",
-          "description": "It may seem like an oxymoron when the words \"LeetCode\" and \"meditation\" are used together – after all, one thing that almost everyone can agree is that LeetCode is challenging. It's called grinding LeetCode for a reason. It doesn't have anything to d...",
-          "link": "https://www.freecodecamp.org/news/leetcode-dsa-concepts-handbook/",
-          "publishedOn": "2025-05-29T19:52:13.000Z",
-          "wordCount": 15694,
-          "title": "LeetCode Meditations: A Visualized Tour of DSA Concepts (A Handbook)",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1748548297673/2ea8ee5a-e873-4401-b024-86412bf00f8a.png"
-        },
-        {
-          "id": "6838a96337f76032ee644b85",
-          "author": "Beau Carnes",
-          "description": "Data science has become one of the most sought-after skills in today's technology-driven world. Whether you're looking to advance your career, make data-driven decisions, or simply understand the patterns hidden in everyday information, Python offers...",
-          "link": "https://www.freecodecamp.org/news/learn-python-for-data-science-full-course/",
-          "publishedOn": "2025-05-29T18:37:23.000Z",
-          "wordCount": 1307,
-          "title": "Learn Python for Data Science – Full Course for Beginners",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1748543757666/140c2e3b-a0f6-4ef1-b50f-0c6b6c86ecb1.jpeg"
-        },
-        {
-          "id": "68388c4c973615b7f6864e63",
-          "author": "Atuoha Anthony",
-          "description": "After soaking in everything shared at GoogleIO, I can’t lie – I feel supercharged! From What’s New in Flutter to Building Agentic Apps with Flutter and Firebase AI Logic, and the deep dive into How Flutter Makes the Most of Your Platforms, it felt li...",
-          "link": "https://www.freecodecamp.org/news/build-an-ai-powered-cooking-assistant-with-flutter-and-gemini/",
-          "publishedOn": "2025-05-29T16:33:16.000Z",
-          "wordCount": 11268,
-          "title": "How to Build an AI-Powered Cooking Assistant with Flutter and Gemini",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1748533427117/1c8c2384-c6a3-4ad8-ab40-1eee65b2c914.png"
         }
       ]
     }

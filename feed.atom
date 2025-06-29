@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-28T00:15:21.522Z</updated>
+    <updated>2025-06-29T00:18:01.802Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
@@ -941,36 +941,6 @@ Better CSS Shapes Using shape() — Part 2: More on Arcs originally published o
         <summary type="html"><![CDATA[On this week's episode of the podcast, freeCodeCamp founder Quincy Larson interviews Joe Attardi. He's a software engineer and prolific author of programming books. We talk about: How software development has changed over the past 21 years Tips for s...]]></summary>
         <author>
             <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LeetCode Meditations: A Visualized Tour of DSA Concepts (A Handbook)]]></title>
-        <id>6838baed0c839b0170a2e731</id>
-        <link href="https://www.freecodecamp.org/news/leetcode-dsa-concepts-handbook/"/>
-        <updated>2025-05-29T19:52:13.000Z</updated>
-        <summary type="html"><![CDATA[It may seem like an oxymoron when the words "LeetCode" and "meditation" are used together – after all, one thing that almost everyone can agree is that LeetCode is challenging. It's called grinding LeetCode for a reason. It doesn't have anything to d...]]></summary>
-        <author>
-            <name>Eda Eren</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn Python for Data Science – Full Course for Beginners]]></title>
-        <id>6838a96337f76032ee644b85</id>
-        <link href="https://www.freecodecamp.org/news/learn-python-for-data-science-full-course/"/>
-        <updated>2025-05-29T18:37:23.000Z</updated>
-        <summary type="html"><![CDATA[Data science has become one of the most sought-after skills in today's technology-driven world. Whether you're looking to advance your career, make data-driven decisions, or simply understand the patterns hidden in everyday information, Python offers...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build an AI-Powered Cooking Assistant with Flutter and Gemini]]></title>
-        <id>68388c4c973615b7f6864e63</id>
-        <link href="https://www.freecodecamp.org/news/build-an-ai-powered-cooking-assistant-with-flutter-and-gemini/"/>
-        <updated>2025-05-29T16:33:16.000Z</updated>
-        <summary type="html"><![CDATA[After soaking in everything shared at GoogleIO, I can’t lie – I feel supercharged! From What’s New in Flutter to Building Agentic Apps with Flutter and Firebase AI Logic, and the deep dive into How Flutter Makes the Most of Your Platforms, it felt li...]]></summary>
-        <author>
-            <name>Atuoha Anthony</name>
         </author>
     </entry>
 </feed>
