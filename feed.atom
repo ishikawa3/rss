@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-29T00:18:01.802Z</updated>
+    <updated>2025-06-30T00:16:45.180Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
@@ -870,77 +870,6 @@ Getting Creative With HTML Dialog originally published on CSS-Tricks, which is p
         <summary type="html"><![CDATA[Designing for neurodiversity means recognizing that people aren’t edge cases but individuals with varied ways of thinking and navigating the web. So, how can we create more inclusive experiences that work better for everyone?]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Prelude To Summer (June 2025 Wallpapers Edition)]]></title>
-        <id>https://smashingmagazine.com/2025/05/desktop-wallpaper-calendars-june-2025/</id>
-        <link href="https://smashingmagazine.com/2025/05/desktop-wallpaper-calendars-june-2025/"/>
-        <updated>2025-05-31T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Let’s kick off June — and the beginning of summer — with some fresh inspiration! Artists and designers from across the globe once again tickled their creativity to welcome the new month with a new collection of desktop wallpapers. Enjoy!]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn to Build a Multilayer Perceptron with Real-Life Examples and Python Code]]></title>
-        <id>6839f729798ea464918cffe8</id>
-        <link href="https://www.freecodecamp.org/news/build-a-multilayer-perceptron-with-examples-and-python-code/"/>
-        <updated>2025-05-30T18:21:29.000Z</updated>
-        <summary type="html"><![CDATA[The perceptron is a fundamental concept in deep learning, with many algorithms stemming from its original design. In this tutorial, I’ll show you how to build both single layer and multi-layer perceptrons (MLPs) across three frameworks: Custom class...]]></summary>
-        <author>
-            <name>Kuriko Iwai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Microfrontends Work: From iframes to Module Federation]]></title>
-        <id>6839c4a906e067fe415d54b4</id>
-        <link href="https://www.freecodecamp.org/news/how-microfrontends-work-iframes-to-module-federation/"/>
-        <updated>2025-05-30T14:46:01.000Z</updated>
-        <summary type="html"><![CDATA[Microfrontends are transforming how teams build and deploy frontend applications at scale. This tutorial explores the architectural landscape, from traditional approaches to modern Module Federation implementations. By the end, you'll be equipped to ...]]></summary>
-        <author>
-            <name>Rahul gupta</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Build A Simple Portfolio Blog With Next.js]]></title>
-        <id>6839c439ebab1f7974eac355</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-a-simple-portfolio-blog-with-nextjs/"/>
-        <updated>2025-05-30T14:44:09.000Z</updated>
-        <summary type="html"><![CDATA[I have written articles on different platforms including LinkedIn, The Network Bits (Substack), and freeCodeCamp. So I wanted to bring all of these articles together in a single place where someone could go and see all my work. A blog sounded like a ...]]></summary>
-        <author>
-            <name>Chidiadi Anyanwu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Better CSS Shapes Using shape() — Part 2: More on Arcs]]></title>
-        <id>https://css-tricks.com/?p=386673</id>
-        <link href="https://css-tricks.com/better-css-shapes-using-shape-part-2-more-on-arcs/"/>
-        <updated>2025-05-30T13:45:43.000Z</updated>
-        <summary type="html"><![CDATA[This is the second part of a series that dives deep into the CSS shape() command, continuing with a more detailed look at the arc command.
-Better CSS Shapes Using shape() — Part 2: More on Arcs originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Temani Afif</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Sort Dates Efficiently in JavaScript]]></title>
-        <id>6839b592f8650e337982bcba</id>
-        <link href="https://www.freecodecamp.org/news/how-to-sort-dates-efficiently-in-javascript/"/>
-        <updated>2025-05-30T13:41:38.000Z</updated>
-        <summary type="html"><![CDATA[Recently, I was working on a PowerApps Component Framework (PCF) project that required sorting an array of objects by date. The dates were in ISO 8601 format but without a time zone – for example, "2025-05-01T15:00:00.00". Without much thought, I wro...]]></summary>
-        <author>
-            <name>Brandon Wozniewicz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Survive in Tech When Everything's Changing w/ 21-year Veteran Dev Joe Attardi [Podcast #174]]]></title>
-        <id>6839abf3d23bb1460e9ea0ea</id>
-        <link href="https://www.freecodecamp.org/news/how-to-survive-in-tech-when-everythings-changing-w-21-year-veteran-dev-joe-attardi-podcast-174/"/>
-        <updated>2025-05-30T13:00:35.000Z</updated>
-        <summary type="html"><![CDATA[On this week's episode of the podcast, freeCodeCamp founder Quincy Larson interviews Joe Attardi. He's a software engineer and prolific author of programming books. We talk about: How software development has changed over the past 21 years Tips for s...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
         </author>
     </entry>
 </feed>
