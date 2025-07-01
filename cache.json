@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=386907",
+          "author": "Zell Liew",
+          "description": "Being the bad boy I am, I don't take Tailwind's default approach to cascade layers as the \"best\" one. Over a year experimenting with Tailwind and vanilla CSS, I've come across what I believe is a better solution.\nUsing CSS Cascade Layers With Tailwind Utilities originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/using-css-cascade-layers-with-tailwind-utilities/",
+          "publishedOn": "2025-06-30T13:16:43.000Z",
+          "wordCount": 2498,
+          "title": "Using CSS Cascade Layers With Tailwind Utilities",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2022/08/tailwind-layers.png"
+        },
+        {
           "id": "https://css-tricks.com/?p=387089",
           "author": "Juan Diego Rodríguez",
           "description": "Blob, Blob, Blob. What's the most effective way to create blob shapes in CSS? Turns out, as always, there are many. Let's compare them together!\nCSS Blob Recipes originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -168,6 +178,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2025/06/desktop-wallpaper-calendars-july-2025/",
+          "author": "hello@smashingmagazine.com (Cosima Mielke)",
+          "description": "July is just around the corner, and that means it’s time for a new collection of desktop wallpapers. Created with love by artists and designers from across the globe, they are bound to bring some good vibes to your screen. Enjoy!",
+          "link": "https://smashingmagazine.com/2025/06/desktop-wallpaper-calendars-july-2025/",
+          "publishedOn": "2025-06-30T12:00:00.000Z",
+          "wordCount": 4859,
+          "title": "Never Stop Exploring (July 2025 Wallpapers Edition)",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-july-2025/july-25-stamped-in-summer-preview-opt.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "http://files.smashing.media/articles/desktop-wallpaper-calendars-july-2025/july-25-stamped-in-summer-preview-opt.png"
+        },
         {
           "id": "https://smashingmagazine.com/2025/06/can-good-ux-protect-older-users-digital-scams/",
           "author": "hello@smashingmagazine.com (Carrie Webster)",
@@ -340,6 +365,26 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "6862d146cc277a35bb68ec20",
+          "author": "Ilknur Eren",
+          "description": "The Web Content Accessibility Guidelines (WCAG 2.1 Level AA) is an internationally recognized standard for digital accessibility. Meeting these guidelines helps you make sure that your website is usable by people with visual, motor, hearing, and cogn...",
+          "link": "https://www.freecodecamp.org/news/how-to-audit-android-accessibility-with-the-accessibility-scanner-app/",
+          "publishedOn": "2025-06-30T18:02:46.000Z",
+          "wordCount": 1879,
+          "title": "How to Audit Android Accessibility with the Accessibility Scanner App",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1751301060182/df4d483a-8dd6-45ce-a665-76cbf45ef945.png"
+        },
+        {
+          "id": "6862962d9dc534abcc4c7eae",
+          "author": "Md. Fahim Bin Amin",
+          "description": "Coolify is an open-source, self-hostable platform that serves as an alternative to services like Heroku, Netlify, and Vercel. It lets developers deploy and manage applications, databases, and services on their own infrastructure, providing greater co...",
+          "link": "https://www.freecodecamp.org/news/how-to-set-up-coolify-in-aws-ec2/",
+          "publishedOn": "2025-06-30T13:50:37.000Z",
+          "wordCount": 2241,
+          "title": "How to Set Up Coolify in AWS EC2 and Have the Power to Do Anything in the Cloud",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1751291416644/05d052cc-dc58-49b4-ac16-3064001fd816.png"
+        },
         {
           "id": "685ed775cd15578cd8609e17",
           "author": "Atuoha Anthony",

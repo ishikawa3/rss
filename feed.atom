@@ -2,10 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-30T00:16:45.180Z</updated>
+    <updated>2025-07-01T00:18:01.207Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Audit Android Accessibility with the Accessibility Scanner App]]></title>
+        <id>6862d146cc277a35bb68ec20</id>
+        <link href="https://www.freecodecamp.org/news/how-to-audit-android-accessibility-with-the-accessibility-scanner-app/"/>
+        <updated>2025-06-30T18:02:46.000Z</updated>
+        <summary type="html"><![CDATA[The Web Content Accessibility Guidelines (WCAG 2.1 Level AA) is an internationally recognized standard for digital accessibility. Meeting these guidelines helps you make sure that your website is usable by people with visual, motor, hearing, and cogn...]]></summary>
+        <author>
+            <name>Ilknur Eren</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Set Up Coolify in AWS EC2 and Have the Power to Do Anything in the Cloud]]></title>
+        <id>6862962d9dc534abcc4c7eae</id>
+        <link href="https://www.freecodecamp.org/news/how-to-set-up-coolify-in-aws-ec2/"/>
+        <updated>2025-06-30T13:50:37.000Z</updated>
+        <summary type="html"><![CDATA[Coolify is an open-source, self-hostable platform that serves as an alternative to services like Heroku, Netlify, and Vercel. It lets developers deploy and manage applications, databases, and services on their own infrastructure, providing greater co...]]></summary>
+        <author>
+            <name>Md. Fahim Bin Amin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using CSS Cascade Layers With Tailwind Utilities]]></title>
+        <id>https://css-tricks.com/?p=386907</id>
+        <link href="https://css-tricks.com/using-css-cascade-layers-with-tailwind-utilities/"/>
+        <updated>2025-06-30T13:16:43.000Z</updated>
+        <summary type="html"><![CDATA[Being the bad boy I am, I don't take Tailwind's default approach to cascade layers as the "best" one. Over a year experimenting with Tailwind and vanilla CSS, I've come across what I believe is a better solution.
+Using CSS Cascade Layers With Tailwind Utilities originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Zell Liew</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Never Stop Exploring (July 2025 Wallpapers Edition)]]></title>
+        <id>https://smashingmagazine.com/2025/06/desktop-wallpaper-calendars-july-2025/</id>
+        <link href="https://smashingmagazine.com/2025/06/desktop-wallpaper-calendars-july-2025/"/>
+        <updated>2025-06-30T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[July is just around the corner, and that means it’s time for a new collection of desktop wallpapers. Created with love by artists and designers from across the globe, they are bound to bring some good vibes to your screen. Enjoy!]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Use Local Notifications in Flutter – A Tutorial for Beginners]]></title>
         <id>685ed775cd15578cd8609e17</id>
