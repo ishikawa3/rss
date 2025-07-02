@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=387471",
+          "author": "Patrick Brosset",
+          "description": "Styling the space between layout items — the gap — has typically required some clever workarounds. But a new CSS feature changes all that with just a few simple CSS properties that make it easy, yet also flexible, to display styled separators between your layout items.\nThe Gap Strikes Back: Now Stylable originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/the-gap-strikes-back-now-stylable/",
+          "publishedOn": "2025-07-01T12:42:38.000Z",
+          "wordCount": 3278,
+          "title": "The Gap Strikes Back: Now Stylable",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2021/04/gap.png"
+        },
+        {
           "id": "https://css-tricks.com/?p=386907",
           "author": "Zell Liew",
           "description": "Being the bad boy I am, I don't take Tailwind's default approach to cascade layers as the \"best\" one. Over a year experimenting with Tailwind and vanilla CSS, I've come across what I believe is a better solution.\nUsing CSS Cascade Layers With Tailwind Utilities originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -179,6 +189,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2025/07/turning-user-research-into-organizational-change/",
+          "author": "hello@smashingmagazine.com (Paul Boag)",
+          "description": "Bridging the gap between user research insights and actual organizational action — with a clear roadmap for impact.",
+          "link": "https://smashingmagazine.com/2025/07/turning-user-research-into-organizational-change/",
+          "publishedOn": "2025-07-01T10:00:00.000Z",
+          "wordCount": 4687,
+          "title": "Turning User Research Into Real Organizational Change",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/turning-user-research-into-organizational-change/turning-user-research-into-organizational-change.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/turning-user-research-into-organizational-change/turning-user-research-into-organizational-change.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2025/06/desktop-wallpaper-calendars-july-2025/",
           "author": "hello@smashingmagazine.com (Cosima Mielke)",
           "description": "July is just around the corner, and that means it’s time for a new collection of desktop wallpapers. Created with love by artists and designers from across the globe, they are bound to bring some good vibes to your screen. Enjoy!",
@@ -342,21 +367,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/why-designers-get-stuck-in-details/why-designers-get-stuck-in-details.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2025/06/designing-for-neurodiversity/",
-          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
-          "description": "Designing for neurodiversity means recognizing that people aren’t edge cases but individuals with varied ways of thinking and navigating the web. So, how can we create more inclusive experiences that work better for everyone?",
-          "link": "https://smashingmagazine.com/2025/06/designing-for-neurodiversity/",
-          "publishedOn": "2025-06-02T08:00:00.000Z",
-          "wordCount": 3203,
-          "title": "Designing For Neurodiversity",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/designing-for-neurodiversity/designing-for-neurodiversity.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/designing-for-neurodiversity/designing-for-neurodiversity.jpg"
         }
       ]
     },
@@ -365,6 +375,56 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "68644a229f16e7c95c9c9538",
+          "author": "Henry Adepegba",
+          "description": "JavaScript is an asynchronous programming language, which means it can handle multiple operations at the same time without blocking the main thread. When working with asynchronous operations like API calls, file reading, or database queries, you have...",
+          "link": "https://www.freecodecamp.org/news/when-to-use-asyncawait-vs-promises-in-javascript/",
+          "publishedOn": "2025-07-01T20:50:42.000Z",
+          "wordCount": 5602,
+          "title": "When to Use Async/Await vs Promises in JavaScript",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1751402055038/f0954bc1-e528-4add-a659-4750c6d8eb33.png"
+        },
+        {
+          "id": "6864461e87c1e49678c8da93",
+          "author": "Oluwadamisi Samuel",
+          "description": "Learning how to fetch data from APIs is a must-have skill for any developer. Whether you're building a simple portfolio site or working on real-world applications, you'll often need to connect to external data sources. Being comfortable with API call...",
+          "link": "https://www.freecodecamp.org/news/how-to-fetch-api-data-in-react-using-axios/",
+          "publishedOn": "2025-07-01T20:33:34.000Z",
+          "wordCount": 3177,
+          "title": "How to Fetch API Data in React Using Axios",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1751385483454/7e7949aa-4bcd-4f58-9725-36df67b866a5.png"
+        },
+        {
+          "id": "6864040518da4fac8afe4a5d",
+          "author": "Sumit Saha",
+          "description": "If you want to add some amazing and visually appealing animations to your web page, the View Transition API is a great animation tool. It lets you create Cross-Document Transitions when navigating between pages. And not just in classic multi-page app...",
+          "link": "https://www.freecodecamp.org/news/how-to-use-the-view-transition-api/",
+          "publishedOn": "2025-07-01T15:51:33.000Z",
+          "wordCount": 5308,
+          "title": "How to Use the View Transition API for Better Web Transitions",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1751324398272/d2f05e29-6925-43da-8c41-14b1c18a4898.png"
+        },
+        {
+          "id": "6863fb880b9684674b11ec40",
+          "author": "Beau Carnes",
+          "description": "Are you ready to become a digital guardian and launch your career on the frontlines of cloud security? We’re excited to announce that freeCodeCamp.org has just published a comprehensive Google Cloud Cybersecurity course on our YouTube channel. The co...",
+          "link": "https://www.freecodecamp.org/news/beginners-guide-to-cloud-cybersecurity/",
+          "publishedOn": "2025-07-01T15:15:20.000Z",
+          "wordCount": 1377,
+          "title": "Beginner’s Guide to Cloud Cybersecurity",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1750284815294/c2ba70be-5147-4b56-b377-4ac40f53532e.png"
+        },
+        {
+          "id": "686316a6a2a907c72bebdef0",
+          "author": "Manish Shivanandhan",
+          "description": "Getting into game development with JavaScript can be a blast. JS is fast, flexible, and works right in the browser.  Whether you’re making a small puzzle game or a full 3D experience, JavaScript has the tools to help you bring your ideas to life.  Bu...",
+          "link": "https://www.freecodecamp.org/news/javascript-frameworks-for-game-developers/",
+          "publishedOn": "2025-06-30T22:58:46.000Z",
+          "wordCount": 2055,
+          "title": "Powerful JavaScript Frameworks for Game Developers",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1751324311029/630e6ee2-5e00-4341-a0be-5bd426cf87a4.png"
+        },
         {
           "id": "6862d146cc277a35bb68ec20",
           "author": "Ilknur Eren",

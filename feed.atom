@@ -2,10 +2,81 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-01T00:18:01.207Z</updated>
+    <updated>2025-07-02T00:15:24.262Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[When to Use Async/Await vs Promises in JavaScript]]></title>
+        <id>68644a229f16e7c95c9c9538</id>
+        <link href="https://www.freecodecamp.org/news/when-to-use-asyncawait-vs-promises-in-javascript/"/>
+        <updated>2025-07-01T20:50:42.000Z</updated>
+        <summary type="html"><![CDATA[JavaScript is an asynchronous programming language, which means it can handle multiple operations at the same time without blocking the main thread. When working with asynchronous operations like API calls, file reading, or database queries, you have...]]></summary>
+        <author>
+            <name>Henry Adepegba</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Fetch API Data in React Using Axios]]></title>
+        <id>6864461e87c1e49678c8da93</id>
+        <link href="https://www.freecodecamp.org/news/how-to-fetch-api-data-in-react-using-axios/"/>
+        <updated>2025-07-01T20:33:34.000Z</updated>
+        <summary type="html"><![CDATA[Learning how to fetch data from APIs is a must-have skill for any developer. Whether you're building a simple portfolio site or working on real-world applications, you'll often need to connect to external data sources. Being comfortable with API call...]]></summary>
+        <author>
+            <name>Oluwadamisi Samuel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use the View Transition API for Better Web Transitions]]></title>
+        <id>6864040518da4fac8afe4a5d</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-the-view-transition-api/"/>
+        <updated>2025-07-01T15:51:33.000Z</updated>
+        <summary type="html"><![CDATA[If you want to add some amazing and visually appealing animations to your web page, the View Transition API is a great animation tool. It lets you create Cross-Document Transitions when navigating between pages. And not just in classic multi-page app...]]></summary>
+        <author>
+            <name>Sumit Saha</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Beginner’s Guide to Cloud Cybersecurity]]></title>
+        <id>6863fb880b9684674b11ec40</id>
+        <link href="https://www.freecodecamp.org/news/beginners-guide-to-cloud-cybersecurity/"/>
+        <updated>2025-07-01T15:15:20.000Z</updated>
+        <summary type="html"><![CDATA[Are you ready to become a digital guardian and launch your career on the frontlines of cloud security? We’re excited to announce that freeCodeCamp.org has just published a comprehensive Google Cloud Cybersecurity course on our YouTube channel. The co...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Gap Strikes Back: Now Stylable]]></title>
+        <id>https://css-tricks.com/?p=387471</id>
+        <link href="https://css-tricks.com/the-gap-strikes-back-now-stylable/"/>
+        <updated>2025-07-01T12:42:38.000Z</updated>
+        <summary type="html"><![CDATA[Styling the space between layout items — the gap — has typically required some clever workarounds. But a new CSS feature changes all that with just a few simple CSS properties that make it easy, yet also flexible, to display styled separators between your layout items.
+The Gap Strikes Back: Now Stylable originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Patrick Brosset</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Turning User Research Into Real Organizational Change]]></title>
+        <id>https://smashingmagazine.com/2025/07/turning-user-research-into-organizational-change/</id>
+        <link href="https://smashingmagazine.com/2025/07/turning-user-research-into-organizational-change/"/>
+        <updated>2025-07-01T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Bridging the gap between user research insights and actual organizational action — with a clear roadmap for impact.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Paul Boag)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Powerful JavaScript Frameworks for Game Developers]]></title>
+        <id>686316a6a2a907c72bebdef0</id>
+        <link href="https://www.freecodecamp.org/news/javascript-frameworks-for-game-developers/"/>
+        <updated>2025-06-30T22:58:46.000Z</updated>
+        <summary type="html"><![CDATA[Getting into game development with JavaScript can be a blast. JS is fast, flexible, and works right in the browser.  Whether you’re making a small puzzle game or a full 3D experience, JavaScript has the tools to help you bring your ideas to life.  Bu...]]></summary>
+        <author>
+            <name>Manish Shivanandhan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Audit Android Accessibility with the Accessibility Scanner App]]></title>
         <id>6862d146cc277a35bb68ec20</id>
@@ -901,16 +972,6 @@ Getting Creative With HTML Dialog originally published on CSS-Tricks, which is p
         <summary type="html"><![CDATA[Most of us use Google Maps without thinking twice. You open the app, check which route has the least traffic, and hit start. Then somewhere along the way – maybe you miss a turn (I do that often) – and Maps calmly recalculates your route, showing you...]]></summary>
         <author>
             <name>Tilda Udufo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Designing For Neurodiversity]]></title>
-        <id>https://smashingmagazine.com/2025/06/designing-for-neurodiversity/</id>
-        <link href="https://smashingmagazine.com/2025/06/designing-for-neurodiversity/"/>
-        <updated>2025-06-02T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Designing for neurodiversity means recognizing that people aren’t edge cases but individuals with varied ways of thinking and navigating the web. So, how can we create more inclusive experiences that work better for everyone?]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
         </author>
     </entry>
 </feed>
