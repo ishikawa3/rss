@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-02T00:15:24.262Z</updated>
+    <updated>2025-07-03T00:15:57.964Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Stop Chasing Productivity and Start Moving with Purpose]]></title>
+        <id>68654987cd4d0c286c5cc497</id>
+        <link href="https://www.freecodecamp.org/news/how-to-set-goals-using-the-path-framework/"/>
+        <updated>2025-07-02T15:00:23.000Z</updated>
+        <summary type="html"><![CDATA[Most people know how to set goals. And many understand that developing good habits is key to reaching those goals. Yet, despite this knowledge, it's still easy to feel stuck – or worse, in motion without direction. We chase productivity without askin...]]></summary>
+        <author>
+            <name>Brandon Wozniewicz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSS Intelligence: Speculating On The Future Of A Smarter Language]]></title>
+        <id>https://smashingmagazine.com/2025/07/css-intelligence-speculating-future-smarter-language/</id>
+        <link href="https://smashingmagazine.com/2025/07/css-intelligence-speculating-future-smarter-language/"/>
+        <updated>2025-07-02T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[CSS has evolved from a purely presentational language into one with growing logical powers — thanks to features like container queries, relational pseudo-classes, and the `if()` function. Is it still just for styling, or is it becoming something more? Gabriel Shoyombo explores how smart CSS has become over the years, where it is heading, the challenges it addresses, whether it is becoming too complex, and how developers are reacting to this shift.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Gabriel Shoyombo)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[When to Use Async/Await vs Promises in JavaScript]]></title>
         <id>68644a229f16e7c95c9c9538</id>
@@ -932,46 +952,6 @@ Getting Creative With HTML Dialog originally published on CSS-Tricks, which is p
         <summary type="html"><![CDATA[Designers love to craft, but polishing pixels before the problem is solved is a time-sink. This article pinpoints the five traps that lure us into premature detail — being afraid to show rough work, fixing symptoms instead of causes, solving the wrong problem, drowning in unactionable feedback, and plain fatigue — then hands you a four-step rescue plan to refocus on goals, ship faster, and keep your craft where it counts.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Nikita Samutin)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Front-End Monitoring Handbook: Track Performance, Errors, and User Behavior]]></title>
-        <id>683e5606b7c8b1ebd3a32964</id>
-        <link href="https://www.freecodecamp.org/news/the-front-end-monitoring-handbook/"/>
-        <updated>2025-06-03T01:55:18.000Z</updated>
-        <summary type="html"><![CDATA[A complete frontend monitoring system is essential for tracking application performance, errors, and user behavior. It consists of three main components: data collection and reporting, data processing and storage, and data visualization. This article...]]></summary>
-        <author>
-            <name>Gordan Tan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Public Wi-Fi Is Dangerous – And How to Protect Yourself]]></title>
-        <id>683deb300e5fd6529479c483</id>
-        <link href="https://www.freecodecamp.org/news/why-public-wi-fi-is-dangerous-and-how-to-protect-yourself/"/>
-        <updated>2025-06-02T18:19:28.000Z</updated>
-        <summary type="html"><![CDATA[Free Wi-Fi feels like a small win when you’re out. Coffee shops, airports, and hotels offer it like candy  –  just tap, connect, and you’re online.  But behind that convenience is a world of risk that most people never see coming. Let’s talk about wh...]]></summary>
-        <author>
-            <name>Manish Shivanandhan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Code Linked Lists with TypeScript: A Handbook for Developers]]></title>
-        <id>683dea64b88211830493d3aa</id>
-        <link href="https://www.freecodecamp.org/news/how-to-code-linked-lists-with-typescript-handbook/"/>
-        <updated>2025-06-02T18:16:03.000Z</updated>
-        <summary type="html"><![CDATA[A linked list is a data structure where each item, called a node, contains data and a pointer to the next node. Unlike arrays, which store elements in contiguous memory, linked lists connect nodes that can be scattered across memory. In this hands-on...]]></summary>
-        <author>
-            <name>Yazdun</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Beginner’s Guide to Graphs — From Google Maps to Chessboards]]></title>
-        <id>683dc829f7d4772789f06d02</id>
-        <link href="https://www.freecodecamp.org/news/a-beginners-guide-to-graphs/"/>
-        <updated>2025-06-02T15:50:01.000Z</updated>
-        <summary type="html"><![CDATA[Most of us use Google Maps without thinking twice. You open the app, check which route has the least traffic, and hit start. Then somewhere along the way – maybe you miss a turn (I do that often) – and Maps calmly recalculates your route, showing you...]]></summary>
-        <author>
-            <name>Tilda Udufo</name>
         </author>
     </entry>
 </feed>

@@ -189,6 +189,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2025/07/css-intelligence-speculating-future-smarter-language/",
+          "author": "hello@smashingmagazine.com (Gabriel Shoyombo)",
+          "description": "CSS has evolved from a purely presentational language into one with growing logical powers — thanks to features like container queries, relational pseudo-classes, and the `if()` function. Is it still just for styling, or is it becoming something more? Gabriel Shoyombo explores how smart CSS has become over the years, where it is heading, the challenges it addresses, whether it is becoming too complex, and how developers are reacting to this shift.",
+          "link": "https://smashingmagazine.com/2025/07/css-intelligence-speculating-future-smarter-language/",
+          "publishedOn": "2025-07-02T13:00:00.000Z",
+          "wordCount": 5893,
+          "title": "CSS Intelligence: Speculating On The Future Of A Smarter Language",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/css-intelligence-speculating-future-smarter-language/css-intelligence-speculating-future-smarter-language.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/css-intelligence-speculating-future-smarter-language/css-intelligence-speculating-future-smarter-language.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2025/07/turning-user-research-into-organizational-change/",
           "author": "hello@smashingmagazine.com (Paul Boag)",
           "description": "Bridging the gap between user research insights and actual organizational action — with a clear roadmap for impact.",
@@ -375,6 +390,16 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "68654987cd4d0c286c5cc497",
+          "author": "Brandon Wozniewicz",
+          "description": "Most people know how to set goals. And many understand that developing good habits is key to reaching those goals. Yet, despite this knowledge, it's still easy to feel stuck – or worse, in motion without direction. We chase productivity without askin...",
+          "link": "https://www.freecodecamp.org/news/how-to-set-goals-using-the-path-framework/",
+          "publishedOn": "2025-07-02T15:00:23.000Z",
+          "wordCount": 2661,
+          "title": "How to Stop Chasing Productivity and Start Moving with Purpose",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1750868906416/7cba189f-0c53-4beb-a0d6-cbb034fc73bb.png"
+        },
         {
           "id": "68644a229f16e7c95c9c9538",
           "author": "Henry Adepegba",
@@ -994,46 +1019,6 @@
           "wordCount": 5948,
           "title": "The Open Source LLM Agent Handbook: How to Automate Complex Tasks with LangGraph and CrewAI",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1748956366197/c4dd2bba-430a-4f12-a3d4-becc6707c52e.png"
-        },
-        {
-          "id": "683e5606b7c8b1ebd3a32964",
-          "author": "Gordan Tan",
-          "description": "A complete frontend monitoring system is essential for tracking application performance, errors, and user behavior. It consists of three main components: data collection and reporting, data processing and storage, and data visualization. This article...",
-          "link": "https://www.freecodecamp.org/news/the-front-end-monitoring-handbook/",
-          "publishedOn": "2025-06-03T01:55:18.000Z",
-          "wordCount": 8535,
-          "title": "The Front-End Monitoring Handbook: Track Performance, Errors, and User Behavior",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1748915696356/6e6edeed-2f41-40f9-97d6-8cc8686c3b25.png"
-        },
-        {
-          "id": "683deb300e5fd6529479c483",
-          "author": "Manish Shivanandhan",
-          "description": "Free Wi-Fi feels like a small win when you’re out. Coffee shops, airports, and hotels offer it like candy  –  just tap, connect, and you’re online.  But behind that convenience is a world of risk that most people never see coming. Let’s talk about wh...",
-          "link": "https://www.freecodecamp.org/news/why-public-wi-fi-is-dangerous-and-how-to-protect-yourself/",
-          "publishedOn": "2025-06-02T18:19:28.000Z",
-          "wordCount": 1941,
-          "title": "Why Public Wi-Fi Is Dangerous – And How to Protect Yourself",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1748888295128/16513129-1937-4ceb-b527-2548044d540b.png"
-        },
-        {
-          "id": "683dea64b88211830493d3aa",
-          "author": "Yazdun",
-          "description": "A linked list is a data structure where each item, called a node, contains data and a pointer to the next node. Unlike arrays, which store elements in contiguous memory, linked lists connect nodes that can be scattered across memory. In this hands-on...",
-          "link": "https://www.freecodecamp.org/news/how-to-code-linked-lists-with-typescript-handbook/",
-          "publishedOn": "2025-06-02T18:16:03.000Z",
-          "wordCount": 14833,
-          "title": "How to Code Linked Lists with TypeScript: A Handbook for Developers",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1748874008549/f7890467-2c7d-4558-a3ca-6094400530bc.png"
-        },
-        {
-          "id": "683dc829f7d4772789f06d02",
-          "author": "Tilda Udufo",
-          "description": "Most of us use Google Maps without thinking twice. You open the app, check which route has the least traffic, and hit start. Then somewhere along the way – maybe you miss a turn (I do that often) – and Maps calmly recalculates your route, showing you...",
-          "link": "https://www.freecodecamp.org/news/a-beginners-guide-to-graphs/",
-          "publishedOn": "2025-06-02T15:50:01.000Z",
-          "wordCount": 4640,
-          "title": "A Beginner’s Guide to Graphs — From Google Maps to Chessboards",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1748879365710/23d7601e-cde0-489b-a843-97190e58e5c9.png"
         }
       ]
     }
