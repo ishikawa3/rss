@@ -170,16 +170,6 @@
           "wordCount": 1880,
           "title": "The State of CSS 2025 Survey is out!",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/06/state_of_css_2025.jpg"
-        },
-        {
-          "id": "https://css-tricks.com/?p=386750",
-          "author": "Andy Clarke",
-          "description": "So, how can you take dialogue box design beyond the generic look of frameworks and templates? How can you style them to reflect a brand’s visual identity and help to tell its stories? Here’s how I do it in CSS using ::backdrop, backdrop-filter, and animations.\nGetting Creative With HTML Dialog originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/getting-creative-with-html-dialog/",
-          "publishedOn": "2025-06-03T14:39:04.000Z",
-          "wordCount": 2941,
-          "title": "Getting Creative With HTML Dialog",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/05/s_EE59C5A105545DD153C51E60D867441DC316D04D9E44A41B5CC2A0033D85A746_1747693352461_2025-05-17-3.webp"
         }
       ]
     },
@@ -352,36 +342,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/collaboration-most-underrated-ux-skill/collaboration-most-underrated-ux-skill.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2025/06/smashing-animations-part-4-optimising-svgs/",
-          "author": "hello@smashingmagazine.com (Andy Clarke)",
-          "description": "What’s the best way to make your SVGs faster, simpler, and more manageable? In this article, pioneering author and web designer Andy Clarke explains the process he relies on *to* prepare, optimise, and structure SVGs for animation and beyond.",
-          "link": "https://smashingmagazine.com/2025/06/smashing-animations-part-4-optimising-svgs/",
-          "publishedOn": "2025-06-04T08:00:00.000Z",
-          "wordCount": 4565,
-          "title": "Smashing Animations Part 4: Optimising SVGs",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/smashing-animations-part-4-optimising-svgs/smashing-animations-part-4-optimising-svgs.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/smashing-animations-part-4-optimising-svgs/smashing-animations-part-4-optimising-svgs.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2025/06/why-designers-get-stuck-in-details/",
-          "author": "hello@smashingmagazine.com (Nikita Samutin)",
-          "description": "Designers love to craft, but polishing pixels before the problem is solved is a time-sink. This article pinpoints the five traps that lure us into premature detail — being afraid to show rough work, fixing symptoms instead of causes, solving the wrong problem, drowning in unactionable feedback, and plain fatigue — then hands you a four-step rescue plan to refocus on goals, ship faster, and keep your craft where it counts.",
-          "link": "https://smashingmagazine.com/2025/06/why-designers-get-stuck-in-details/",
-          "publishedOn": "2025-06-03T14:00:00.000Z",
-          "wordCount": null,
-          "title": "Why Designers Get Stuck In The Details And How To Stop",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/why-designers-get-stuck-in-details/why-designers-get-stuck-in-details.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/why-designers-get-stuck-in-details/why-designers-get-stuck-in-details.jpg"
         }
       ]
     },
@@ -390,6 +350,16 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "6865cf231aa55afae259e821",
+          "author": "Manish Shivanandhan",
+          "description": "If your app runs in production, you’ll need to know when it breaks. Preferably before your users tell you.  That’s where application monitoring tools (APM) come in. They show you what’s working, what’s slow, and what’s failing, all in one place. Here...",
+          "link": "https://www.freecodecamp.org/news/top-application-monitoring-tools-for-developers/",
+          "publishedOn": "2025-07-03T00:30:27.000Z",
+          "wordCount": 1896,
+          "title": "Top Application Monitoring Tools for Developers",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1751502612871/600e6862-d4e5-42f3-a1eb-2cc0d618cc4c.png"
+        },
         {
           "id": "68654987cd4d0c286c5cc497",
           "author": "Brandon Wozniewicz",
@@ -989,36 +959,6 @@
           "wordCount": 1296,
           "title": "C Game Development with Raylib",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1749060645649/662c81ad-c0c8-4456-83dc-935a4b6d4cf9.png"
-        },
-        {
-          "id": "68402e7af9ce257b34574bed",
-          "author": "Estefania Cassingena Navone",
-          "description": "Godot is an open-source, lightweight, and powerful game engine. This course will teach you how to use it to bring your game ideas to life. We just published a course on the freeCodeCamp.org Spanish YouTube channel that will guide you step by step thr...",
-          "link": "https://www.freecodecamp.org/news/learn-godot-course-for-beginners-in-spanish/",
-          "publishedOn": "2025-06-04T11:31:06.000Z",
-          "wordCount": 1331,
-          "title": "Learn Godot – Course for Beginners in Spanish",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1748954260255/3d544e9f-2191-409a-b52e-bcf24ceab5a6.png"
-        },
-        {
-          "id": "683f922e111e5ab9c8a4e188",
-          "author": "Beau Carnes",
-          "description": "Learning general chemistry is one of the most important steps you can take if you're planning to study science in any serious way. Chemistry is foundational. It connects to biology, physics, environmental science, engineering, medicine, and so much m...",
-          "link": "https://www.freecodecamp.org/news/general-chemistry-college-course/",
-          "publishedOn": "2025-06-04T00:24:14.000Z",
-          "wordCount": 1328,
-          "title": "General Chemistry College Course",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1748996622370/4f362422-95a2-4dfc-afa9-23325e24dcbc.png"
-        },
-        {
-          "id": "683f04aedfb685791a4e8dd2",
-          "author": "Balajee Asish Brahmandam",
-          "description": "Ever feel like your AI tools are a bit...well, passive? Like they just sit there, waiting for your next command? Imagine if they could take initiative, break down big problems, and even work together to get things done. That's exactly what LLM agents...",
-          "link": "https://www.freecodecamp.org/news/the-open-source-llm-agent-handbook/",
-          "publishedOn": "2025-06-03T14:20:30.000Z",
-          "wordCount": 5948,
-          "title": "The Open Source LLM Agent Handbook: How to Automate Complex Tasks with LangGraph and CrewAI",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1748956366197/c4dd2bba-430a-4f12-a3d4-becc6707c52e.png"
         }
       ]
     }
