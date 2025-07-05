@@ -160,16 +160,6 @@
           "wordCount": 3284,
           "title": "Exploring the CSS contrast-color() Function… a Second Time",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2020/03/contrast-colors.jpg"
-        },
-        {
-          "id": "https://css-tricks.com/?p=387046",
-          "author": "Juan Diego Rodríguez",
-          "description": "The State of CSS 2025 Survey dropped a few days ago, and besides anticipating the results, it's exciting to see a lot of the new things shipped to CSS reflected in the questions.\nThe State of CSS 2025 Survey is out! originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/the-state-of-css-2025-survey-is-out/",
-          "publishedOn": "2025-06-05T11:13:00.000Z",
-          "wordCount": 1880,
-          "title": "The State of CSS 2025 Survey is out!",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/06/state_of_css_2025.jpg"
         }
       ]
     },
@@ -327,21 +317,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/decoding-svg-path-element-line-commands/decoding-svg-path-element-line-commands.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2025/06/collaboration-most-underrated-ux-skill/",
-          "author": "hello@smashingmagazine.com (Carrie Webster)",
-          "description": "We often spotlight wireframes, research, or tools like Figma, but none of that moves the needle if we can’t collaborate well. Great UX doesn’t happen in isolation. It takes conversations with engineers, alignment with product, sales, and other stakeholders, and the ability to listen, adapt, and co-create. That’s where design becomes a team sport, and when your ability to capture the outcomes multiplies the UX impact.",
-          "link": "https://smashingmagazine.com/2025/06/collaboration-most-underrated-ux-skill/",
-          "publishedOn": "2025-06-05T08:00:00.000Z",
-          "wordCount": 4730,
-          "title": "Collaboration: The Most Underrated UX Skill No One Talks About",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/collaboration-most-underrated-ux-skill/collaboration-most-underrated-ux-skill.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/collaboration-most-underrated-ux-skill/collaboration-most-underrated-ux-skill.jpg"
         }
       ]
     },
@@ -350,6 +325,26 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "6867d0848831c0a4c0b21704",
+          "author": "Beau Carnes",
+          "description": "On this week's episode of the podcast, freeCodeCamp founder Quincy Larson interviews Joe Hill. He's a software engineer who works on a data platform for NASA.   Joe taught himself programming for 4 years while working as a janitor. As the single fath...",
+          "link": "https://www.freecodecamp.org/news/from-freecodecamp-to-nasa-with-data-engineer-joe-hill-podcast-178/",
+          "publishedOn": "2025-07-04T13:00:52.000Z",
+          "wordCount": 1074,
+          "title": "From freeCodeCamp to NASA with Data Engineer Joe Hill [Podcast #178]",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1751469272125/1ef920d1-1a03-4132-948d-13a69e92ea0b.jpeg"
+        },
+        {
+          "id": "6867c64cd0d1e1e4f2cbe4f8",
+          "author": "Beau Carnes",
+          "description": "Building something from scratch using just PHP, MySQL, JavaScript, HTML, and CSS is one of the best ways to level up your skills and gain a real understanding of full-stack development. We just published a course on the freeCodeCamp.org YouTube chann...",
+          "link": "https://www.freecodecamp.org/news/build-a-google-calendar-clone-with-php-mysql-and-javascript/",
+          "publishedOn": "2025-07-04T12:17:16.000Z",
+          "wordCount": 1243,
+          "title": "Build a Google Calendar Clone with PHP, MySql & JavaScript",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1751631421687/ecb8f621-7ba8-4100-8e54-d51dc3866578.jpeg"
+        },
         {
           "id": "6865cf231aa55afae259e821",
           "author": "Manish Shivanandhan",
@@ -949,16 +944,6 @@
           "wordCount": 4976,
           "title": "From Commit to Production: Hands-On GitOps Promotion with GitHub Actions, Argo CD, Helm, and Kargo",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1749151777327/ece5b0b7-4a9a-4f95-8ebb-32e3768b678f.png"
-        },
-        {
-          "id": "68408c368ab45ab43dad48c6",
-          "author": "Beau Carnes",
-          "description": "Making games is one of the best ways to learn programming. It pushes you to think logically, stay organized, and solve real problems. Plus, it’s just fun. If you're looking to improve your C programming skills and learn how to create a complete game ...",
-          "link": "https://www.freecodecamp.org/news/c-game-development-with-raylib/",
-          "publishedOn": "2025-06-04T18:11:02.000Z",
-          "wordCount": 1296,
-          "title": "C Game Development with Raylib",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1749060645649/662c81ad-c0c8-4456-83dc-935a4b6d4cf9.png"
         }
       ]
     }

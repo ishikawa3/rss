@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-04T00:15:35.172Z</updated>
+    <updated>2025-07-05T00:14:53.762Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[From freeCodeCamp to NASA with Data Engineer Joe Hill [Podcast #178]]]></title>
+        <id>6867d0848831c0a4c0b21704</id>
+        <link href="https://www.freecodecamp.org/news/from-freecodecamp-to-nasa-with-data-engineer-joe-hill-podcast-178/"/>
+        <updated>2025-07-04T13:00:52.000Z</updated>
+        <summary type="html"><![CDATA[On this week's episode of the podcast, freeCodeCamp founder Quincy Larson interviews Joe Hill. He's a software engineer who works on a data platform for NASA.   Joe taught himself programming for 4 years while working as a janitor. As the single fath...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build a Google Calendar Clone with PHP, MySql & JavaScript]]></title>
+        <id>6867c64cd0d1e1e4f2cbe4f8</id>
+        <link href="https://www.freecodecamp.org/news/build-a-google-calendar-clone-with-php-mysql-and-javascript/"/>
+        <updated>2025-07-04T12:17:16.000Z</updated>
+        <summary type="html"><![CDATA[Building something from scratch using just PHP, MySQL, JavaScript, HTML, and CSS is one of the best ways to level up your skills and gain a real understanding of full-stack development. We just published a course on the freeCodeCamp.org YouTube chann...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Top Application Monitoring Tools for Developers]]></title>
         <id>6865cf231aa55afae259e821</id>
@@ -870,37 +890,6 @@ Better CSS Shapes Using shape() — Part 3: Curves originally published on CSS-T
 Exploring the CSS contrast-color() Function… a Second Time originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Daniel Schwarz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The State of CSS 2025 Survey is out!]]></title>
-        <id>https://css-tricks.com/?p=387046</id>
-        <link href="https://css-tricks.com/the-state-of-css-2025-survey-is-out/"/>
-        <updated>2025-06-05T11:13:00.000Z</updated>
-        <summary type="html"><![CDATA[The State of CSS 2025 Survey dropped a few days ago, and besides anticipating the results, it's exciting to see a lot of the new things shipped to CSS reflected in the questions.
-The State of CSS 2025 Survey is out! originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Juan Diego Rodríguez</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Collaboration: The Most Underrated UX Skill No One Talks About]]></title>
-        <id>https://smashingmagazine.com/2025/06/collaboration-most-underrated-ux-skill/</id>
-        <link href="https://smashingmagazine.com/2025/06/collaboration-most-underrated-ux-skill/"/>
-        <updated>2025-06-05T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[We often spotlight wireframes, research, or tools like Figma, but none of that moves the needle if we can’t collaborate well. Great UX doesn’t happen in isolation. It takes conversations with engineers, alignment with product, sales, and other stakeholders, and the ability to listen, adapt, and co-create. That’s where design becomes a team sport, and when your ability to capture the outcomes multiplies the UX impact.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Carrie Webster)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[C Game Development with Raylib]]></title>
-        <id>68408c368ab45ab43dad48c6</id>
-        <link href="https://www.freecodecamp.org/news/c-game-development-with-raylib/"/>
-        <updated>2025-06-04T18:11:02.000Z</updated>
-        <summary type="html"><![CDATA[Making games is one of the best ways to learn programming. It pushes you to think logically, stay organized, and solve real problems. Plus, it’s just fun. If you're looking to improve your C programming skills and learn how to create a complete game ...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
         </author>
     </entry>
 </feed>
