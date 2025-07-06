@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-05T00:14:53.762Z</updated>
+    <updated>2025-07-06T00:17:27.175Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
@@ -829,67 +829,6 @@ Better CSS Shapes Using shape() — Part 3: Curves originally published on CSS-T
         <summary type="html"><![CDATA[On this week's episode of the podcast, freeCodeCamp founder Quincy Larson interviews former CTO and prolific programming teacher Hitesh Choudhary.   We talk about: The limits of AI in building a robust codebase Time management Higher Education in ...]]></summary>
         <author>
             <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Protect Your Remote Workforce from Cyber Attacks]]></title>
-        <id>6842cf8a6fcd9b03c19d04ea</id>
-        <link href="https://www.freecodecamp.org/news/protect-remote-workforce-from-cyber-attacks/"/>
-        <updated>2025-06-06T11:22:50.000Z</updated>
-        <summary type="html"><![CDATA[Working remotely gives your team flexibility, but it also opens the door to cyber threats. Remote workers are more exposed without the protection of office firewalls and on-site IT teams.  Hackers know that people often use weak passwords, forget to ...]]></summary>
-        <author>
-            <name>Manish Shivanandhan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Reduce Technical Debt in the Power Platform]]></title>
-        <id>6842c4f3e7fdc9878ba5dadd</id>
-        <link href="https://www.freecodecamp.org/news/how-to-reduce-technical-debt-in-the-power-platform/"/>
-        <updated>2025-06-06T10:37:39.000Z</updated>
-        <summary type="html"><![CDATA[Technical debt refers to the future cost – measured in terms of time, money, effort, or opportunity – of choosing expedient solutions today instead of more deliberate and scalable ones. And it's not just a pro-code concept. It might be easier to unde...]]></summary>
-        <author>
-            <name>Brandon Wozniewicz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Micro-Frontend Architecture Handbook]]></title>
-        <id>6842c120a3469a9ca728862b</id>
-        <link href="https://www.freecodecamp.org/news/complete-micro-frontends-guide/"/>
-        <updated>2025-06-06T10:21:20.000Z</updated>
-        <summary type="html"><![CDATA[Over the years, in my role as a lead full-stack developer, solutions architect, and mentor, I’ve been immersed in the world of micro frontend architecture, working across different large-scale frontend projects where multiple teams, stacks, and deplo...]]></summary>
-        <author>
-            <name>Andrew Maksimchenko</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenFeign vs WebClient: How to Choose a REST Client for Your Spring Boot Project]]></title>
-        <id>6841f2c63a801418642db429</id>
-        <link href="https://www.freecodecamp.org/news/best-choice-openfeign-or-webclient/"/>
-        <updated>2025-06-05T19:40:54.000Z</updated>
-        <summary type="html"><![CDATA[When building microservices with Spring Boot, you’ll have to decide how the services will communicate with one another. The basic choices in terms of protocols are Messaging and REST. In this article we’ll discuss tools based on REST, which is a comm...]]></summary>
-        <author>
-            <name>Mario Casari</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[From Commit to Production: Hands-On GitOps Promotion with GitHub Actions, Argo CD, Helm, and Kargo]]></title>
-        <id>6841f1319c94d5fa67dae6e3</id>
-        <link href="https://www.freecodecamp.org/news/from-commit-to-production-hands-on-gitops-promotion-with-github-actions-argo-cd-helm-and-kargo/"/>
-        <updated>2025-06-05T19:34:08.000Z</updated>
-        <summary type="html"><![CDATA[Have you ever wanted to go beyond ‘hello world’ and build a real, production-style CI/CD pipeline – starting from scratch? Let’s pause for a moment: what are you trying to learn from your DevOps journey? Are you focusing on GitOps-style deployments, ...]]></summary>
-        <author>
-            <name>Nitheesh Poojary</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Exploring the CSS contrast-color() Function… a Second Time]]></title>
-        <id>https://css-tricks.com/?p=386829</id>
-        <link href="https://css-tricks.com/exploring-the-css-contrast-color-function-a-second-time/"/>
-        <updated>2025-06-05T13:45:56.000Z</updated>
-        <summary type="html"><![CDATA[The contrast-color() function doesn’t check color contrast, but rather it outright resolves to either black or white (whichever one contrasts the most with your chosen color). Safari Technology Preview recently implemented it and we explore its possible uses in this article.
-Exploring the CSS contrast-color() Function… a Second Time originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Daniel Schwarz</name>
         </author>
     </entry>
 </feed>

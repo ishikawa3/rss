@@ -150,16 +150,6 @@
           "wordCount": 3944,
           "title": "Better CSS Shapes Using shape() — Part 3: Curves",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/05/css-shape-curve-diagram.webp"
-        },
-        {
-          "id": "https://css-tricks.com/?p=386829",
-          "author": "Daniel Schwarz",
-          "description": "The contrast-color() function doesn’t check color contrast, but rather it outright resolves to either black or white (whichever one contrasts the most with your chosen color). Safari Technology Preview recently implemented it and we explore its possible uses in this article.\nExploring the CSS contrast-color() Function… a Second Time originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/exploring-the-css-contrast-color-function-a-second-time/",
-          "publishedOn": "2025-06-05T13:45:56.000Z",
-          "wordCount": 3284,
-          "title": "Exploring the CSS contrast-color() Function… a Second Time",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2020/03/contrast-colors.jpg"
         }
       ]
     },
@@ -894,56 +884,6 @@
           "wordCount": 1005,
           "title": "From electrical engineering student to CTO with Hitesh Choudhary [Podcast #175]",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1749158756824/3996a2ad-53e5-4a8f-ab97-2c77a6f66ba3.png"
-        },
-        {
-          "id": "6842cf8a6fcd9b03c19d04ea",
-          "author": "Manish Shivanandhan",
-          "description": "Working remotely gives your team flexibility, but it also opens the door to cyber threats. Remote workers are more exposed without the protection of office firewalls and on-site IT teams.  Hackers know that people often use weak passwords, forget to ...",
-          "link": "https://www.freecodecamp.org/news/protect-remote-workforce-from-cyber-attacks/",
-          "publishedOn": "2025-06-06T11:22:50.000Z",
-          "wordCount": 2155,
-          "title": "How to Protect Your Remote Workforce from Cyber Attacks",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1749208531787/897b9afd-128e-4573-a57f-e59e31d23a20.png"
-        },
-        {
-          "id": "6842c4f3e7fdc9878ba5dadd",
-          "author": "Brandon Wozniewicz",
-          "description": "Technical debt refers to the future cost – measured in terms of time, money, effort, or opportunity – of choosing expedient solutions today instead of more deliberate and scalable ones. And it's not just a pro-code concept. It might be easier to unde...",
-          "link": "https://www.freecodecamp.org/news/how-to-reduce-technical-debt-in-the-power-platform/",
-          "publishedOn": "2025-06-06T10:37:39.000Z",
-          "wordCount": 3219,
-          "title": "How to Reduce Technical Debt in the Power Platform",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1748957101508/ffb9fc9d-3d35-477b-841f-280d8c6a6793.png"
-        },
-        {
-          "id": "6842c120a3469a9ca728862b",
-          "author": "Andrew Maksimchenko",
-          "description": "Over the years, in my role as a lead full-stack developer, solutions architect, and mentor, I’ve been immersed in the world of micro frontend architecture, working across different large-scale frontend projects where multiple teams, stacks, and deplo...",
-          "link": "https://www.freecodecamp.org/news/complete-micro-frontends-guide/",
-          "publishedOn": "2025-06-06T10:21:20.000Z",
-          "wordCount": 7751,
-          "title": "The Micro-Frontend Architecture Handbook",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1748915817752/b35a8786-9aa7-46cd-a1d8-f82069470496.png"
-        },
-        {
-          "id": "6841f2c63a801418642db429",
-          "author": "Mario Casari",
-          "description": "When building microservices with Spring Boot, you’ll have to decide how the services will communicate with one another. The basic choices in terms of protocols are Messaging and REST. In this article we’ll discuss tools based on REST, which is a comm...",
-          "link": "https://www.freecodecamp.org/news/best-choice-openfeign-or-webclient/",
-          "publishedOn": "2025-06-05T19:40:54.000Z",
-          "wordCount": 1808,
-          "title": "OpenFeign vs WebClient: How to Choose a REST Client for Your Spring Boot Project",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1749152217156/dc3e8896-b084-4bec-a549-b51a821f7d69.png"
-        },
-        {
-          "id": "6841f1319c94d5fa67dae6e3",
-          "author": "Nitheesh Poojary",
-          "description": "Have you ever wanted to go beyond ‘hello world’ and build a real, production-style CI/CD pipeline – starting from scratch? Let’s pause for a moment: what are you trying to learn from your DevOps journey? Are you focusing on GitOps-style deployments, ...",
-          "link": "https://www.freecodecamp.org/news/from-commit-to-production-hands-on-gitops-promotion-with-github-actions-argo-cd-helm-and-kargo/",
-          "publishedOn": "2025-06-05T19:34:08.000Z",
-          "wordCount": 4976,
-          "title": "From Commit to Production: Hands-On GitOps Promotion with GitHub Actions, Argo CD, Helm, and Kargo",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1749151777327/ece5b0b7-4a9a-4f95-8ebb-32e3768b678f.png"
         }
       ]
     }
