@@ -140,16 +140,6 @@
           "wordCount": 2580,
           "title": "Creating an Auto-Closing Notification With an HTML Popover",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2024/10/dialog-pop.jpg"
-        },
-        {
-          "id": "https://css-tricks.com/?p=386876",
-          "author": "Temani Afif",
-          "description": "This is the third article in a series about the CSS shape() function. We've covered drawing lines and arcs in previous articles and, this time, we look specifically at the curve command and how to use it for drawing complex shapes.\nBetter CSS Shapes Using shape() — Part 3: Curves originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/better-css-shapes-using-shape-part-3-curves/",
-          "publishedOn": "2025-06-06T13:52:42.000Z",
-          "wordCount": 3944,
-          "title": "Better CSS Shapes Using shape() — Part 3: Curves",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/05/css-shape-curve-diagram.webp"
         }
       ]
     },
@@ -874,16 +864,6 @@
           "wordCount": 1243,
           "title": "Learn the MERN Stack in 2025",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1749234841421/0d452535-e019-4a1b-800a-1912cc16254a.png"
-        },
-        {
-          "id": "6842e00169a5099a551058ce",
-          "author": "Beau Carnes",
-          "description": "On this week's episode of the podcast, freeCodeCamp founder Quincy Larson interviews former CTO and prolific programming teacher Hitesh Choudhary.   We talk about: The limits of AI in building a robust codebase Time management Higher Education in ...",
-          "link": "https://www.freecodecamp.org/news/from-electrical-engineering-student-to-cto-with-hitesh-choudhary-podcast-175/",
-          "publishedOn": "2025-06-06T12:33:05.000Z",
-          "wordCount": 1005,
-          "title": "From electrical engineering student to CTO with Hitesh Choudhary [Podcast #175]",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1749158756824/3996a2ad-53e5-4a8f-ab97-2c77a6f66ba3.png"
         }
       ]
     }

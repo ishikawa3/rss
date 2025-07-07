@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-06T00:17:27.175Z</updated>
+    <updated>2025-07-07T00:17:01.231Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
@@ -808,27 +808,6 @@ Creating an Auto-Closing Notification With an HTML Popover originally published 
 ` and its sometimes mystifying commands. With simple examples and visualizations, she’ll help you understand the easy syntax and underlying rules of SVG’s most powerful element so that by the end, you’re fully able to translate SVG semantic tags into a language `path` understands.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Myriam Frisano)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Better CSS Shapes Using shape() — Part 3: Curves]]></title>
-        <id>https://css-tricks.com/?p=386876</id>
-        <link href="https://css-tricks.com/better-css-shapes-using-shape-part-3-curves/"/>
-        <updated>2025-06-06T13:52:42.000Z</updated>
-        <summary type="html"><![CDATA[This is the third article in a series about the CSS shape() function. We've covered drawing lines and arcs in previous articles and, this time, we look specifically at the curve command and how to use it for drawing complex shapes.
-Better CSS Shapes Using shape() — Part 3: Curves originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Temani Afif</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[From electrical engineering student to CTO with Hitesh Choudhary [Podcast #175]]]></title>
-        <id>6842e00169a5099a551058ce</id>
-        <link href="https://www.freecodecamp.org/news/from-electrical-engineering-student-to-cto-with-hitesh-choudhary-podcast-175/"/>
-        <updated>2025-06-06T12:33:05.000Z</updated>
-        <summary type="html"><![CDATA[On this week's episode of the podcast, freeCodeCamp founder Quincy Larson interviews former CTO and prolific programming teacher Hitesh Choudhary.   We talk about: The limits of AI in building a robust codebase Time management Higher Education in ...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
         </author>
     </entry>
 </feed>
