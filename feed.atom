@@ -2,10 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-07T00:17:01.231Z</updated>
+    <updated>2025-07-08T00:15:41.243Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Work with React Forms So They Don't Break Your Brain]]></title>
+        <id>686bd09bed71f7a85eba0f6f</id>
+        <link href="https://www.freecodecamp.org/news/how-to-work-with-react-forms/"/>
+        <updated>2025-07-07T13:50:19.000Z</updated>
+        <summary type="html"><![CDATA[If you’ve ever built a form in React and felt like the input fields had a mind of their own, you’re not alone. One minute your form is working fine, the next you’re staring at a blank input that won’t update. Or React throws a warning like “A compone...]]></summary>
+        <author>
+            <name>Oluwadamisi Samuel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build Production-Ready Full Stack Apps with the MERN Stack]]></title>
+        <id>686bd0446349e98b57ebc099</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-production-ready-full-stack-apps-with-the-mern-stack/"/>
+        <updated>2025-07-07T13:48:52.000Z</updated>
+        <summary type="html"><![CDATA[As developers, we’re always looking for more efficient tools. The MERN stack (MongoDB, Express.js, React, and Node.js) stands out for its JavaScript-centric nature, offering a unified language across the entire application. In this guide, you'll buil...]]></summary>
+        <author>
+            <name>Mohit Menghnani</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Design Guidelines For Better Notifications UX]]></title>
+        <id>https://smashingmagazine.com/2025/07/design-guidelines-better-notifications-ux/</id>
+        <link href="https://smashingmagazine.com/2025/07/design-guidelines-better-notifications-ux/"/>
+        <updated>2025-07-07T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[As always in design, timing matters, and so do timely notifications. Let’s explore how we might improve the notifications UX. More design patterns in our Smart Interface Design Patterns, a friendly video course on UX and design patterns by Vitaly — from complex data tables and nested filters to FAQs and error messages.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Better CSS Shapes Using shape() — Part 4: Close and Move]]></title>
+        <id>https://css-tricks.com/?p=387613</id>
+        <link href="https://css-tricks.com/better-css-shapes-using-shape-part-4-close-and-move/"/>
+        <updated>2025-07-07T12:48:29.000Z</updated>
+        <summary type="html"><![CDATA[The shape() function's close and move commands may not be ones you reach for often, but are incredibly useful for certain shapes.
+Better CSS Shapes Using shape() — Part 4: Close and Move originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Temani Afif</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[From freeCodeCamp to NASA with Data Engineer Joe Hill [Podcast #178]]]></title>
         <id>6867d0848831c0a4c0b21704</id>

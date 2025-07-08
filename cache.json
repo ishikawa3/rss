@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=387613",
+          "author": "Temani Afif",
+          "description": "The shape() function's close and move commands may not be ones you reach for often, but are incredibly useful for certain shapes.\nBetter CSS Shapes Using shape() — Part 4: Close and Move originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/better-css-shapes-using-shape-part-4-close-and-move/",
+          "publishedOn": "2025-07-07T12:48:29.000Z",
+          "wordCount": 3709,
+          "title": "Better CSS Shapes Using shape() — Part 4: Close and Move",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/07/css-shapes-function-csstricks-logo.webp"
+        },
+        {
           "id": "https://css-tricks.com/?p=387471",
           "author": "Patrick Brosset",
           "description": "Styling the space between layout items — the gap — has typically required some clever workarounds. But a new CSS feature changes all that with just a few simple CSS properties that make it easy, yet also flexible, to display styled separators between your layout items.\nThe Gap Strikes Back: Now Stylable originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -148,6 +158,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2025/07/design-guidelines-better-notifications-ux/",
+          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
+          "description": "As always in design, timing matters, and so do timely notifications. Let’s explore how we might improve the notifications UX. More design patterns in our Smart Interface Design Patterns, a friendly video course on UX and design patterns by Vitaly — from complex data tables and nested filters to FAQs and error messages.",
+          "link": "https://smashingmagazine.com/2025/07/design-guidelines-better-notifications-ux/",
+          "publishedOn": "2025-07-07T13:00:00.000Z",
+          "wordCount": 4300,
+          "title": "Design Guidelines For Better Notifications UX",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/design-guidelines-better-notifications-ux/design-guidelines-better-notifications-ux.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/design-guidelines-better-notifications-ux/design-guidelines-better-notifications-ux.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2025/07/css-intelligence-speculating-future-smarter-language/",
           "author": "hello@smashingmagazine.com (Gabriel Shoyombo)",
@@ -305,6 +330,26 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "686bd09bed71f7a85eba0f6f",
+          "author": "Oluwadamisi Samuel",
+          "description": "If you’ve ever built a form in React and felt like the input fields had a mind of their own, you’re not alone. One minute your form is working fine, the next you’re staring at a blank input that won’t update. Or React throws a warning like “A compone...",
+          "link": "https://www.freecodecamp.org/news/how-to-work-with-react-forms/",
+          "publishedOn": "2025-07-07T13:50:19.000Z",
+          "wordCount": 2004,
+          "title": "How to Work with React Forms So They Don't Break Your Brain",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1751502730489/90e30388-3517-457a-8ca0-630f589da914.png"
+        },
+        {
+          "id": "686bd0446349e98b57ebc099",
+          "author": "Mohit Menghnani",
+          "description": "As developers, we’re always looking for more efficient tools. The MERN stack (MongoDB, Express.js, React, and Node.js) stands out for its JavaScript-centric nature, offering a unified language across the entire application. In this guide, you'll buil...",
+          "link": "https://www.freecodecamp.org/news/how-to-build-production-ready-full-stack-apps-with-the-mern-stack/",
+          "publishedOn": "2025-07-07T13:48:52.000Z",
+          "wordCount": 6267,
+          "title": "How to Build Production-Ready Full Stack Apps with the MERN Stack",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1751502709499/b43b3607-f01b-45c0-9797-75eef92497c6.png"
+        },
         {
           "id": "6867d0848831c0a4c0b21704",
           "author": "Beau Carnes",
