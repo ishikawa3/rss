@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-08T00:15:41.243Z</updated>
+    <updated>2025-07-09T00:16:11.906Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Use Pytest: A Simple Guide to Testing in Pytho]]></title>
+        <id>686d82b56332ba136ecc139e</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-pytest-a-guide-to-testing-in-python/"/>
+        <updated>2025-07-08T20:42:29.000Z</updated>
+        <summary type="html"><![CDATA[With the recent advancements in AI, tools like ChatGPT have made the development process faster and more accessible. Developers can now write code and build web apps with some well-articulated prompts and careful code reviews. While this brings an in...]]></summary>
+        <author>
+            <name>Olowo Jude</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use Constructors in Java: A Beginner's Guide]]></title>
+        <id>686d6044aa83d1a2c46d6160</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-constructors-in-java-a-beginners-guide/"/>
+        <updated>2025-07-08T18:15:32.000Z</updated>
+        <summary type="html"><![CDATA[Java is an object-oriented programming language that is centred around the concept of objects. Objects are like real-world entities that are created with the new keyword and occupy memory. But all this happens in the front-end code – so what about th...]]></summary>
+        <author>
+            <name>Ateev Duggal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Rise of AI Analytics and What It Means for Industries]]></title>
+        <id>686d3f17ba9172cf1f2ba98b</id>
+        <link href="https://www.freecodecamp.org/news/the-rise-of-ai-analytics-and-what-it-means-for-industries/"/>
+        <updated>2025-07-08T15:53:59.000Z</updated>
+        <summary type="html"><![CDATA[Businesses today are flooded with data. From online purchases to hospital records, every action generates information.  But data alone is not useful. What matters is how companies use it to make decisions.  This is where AI analytics comes in. It com...]]></summary>
+        <author>
+            <name>Manish Shivanandhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Droip: The Modern Website Builder WordPress Needed]]></title>
+        <id>https://smashingmagazine.com/2025/07/modern-website-builder-wordpress-droip/</id>
+        <link href="https://smashingmagazine.com/2025/07/modern-website-builder-wordpress-droip/"/>
+        <updated>2025-07-08T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Traditional page builders have shaped how we build WordPress sites for years. Let’s take a closer look at [Droip](https://droip.com/), a modern, no-code visual builder, and explore how it redefines the experience with cleaner performance, full design freedom, and zero plugin dependency.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Zareen Tasnim)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Are JSON Web Tokens (JWT)?]]></title>
+        <id>686c430b1a4ac707c0692874</id>
+        <link href="https://www.freecodecamp.org/news/what-are-json-web-tokens-jwt/"/>
+        <updated>2025-07-07T21:58:35.000Z</updated>
+        <summary type="html"><![CDATA[When you’re working with any website, application, or API, you'll inevitably need to log in and authenticate your user base. One of the more commonly used methods of passing around authentication credentials from one system to another is using a JSON...]]></summary>
+        <author>
+            <name>Grant Riordan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Work with React Forms So They Don't Break Your Brain]]></title>
         <id>686bd09bed71f7a85eba0f6f</id>
@@ -838,17 +888,6 @@ Breaking Boundaries: Building a Tangram Puzzle With (S)CSS originally published 
 Creating an Auto-Closing Notification With an HTML Popover originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Preethi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Decoding The SVG <code>path</code> Element: Line Commands]]></title>
-        <id>https://smashingmagazine.com/2025/06/decoding-svg-path-element-line-commands/</id>
-        <link href="https://smashingmagazine.com/2025/06/decoding-svg-path-element-line-commands/"/>
-        <updated>2025-06-09T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[SVG is easy — until you meet `path`. However, it’s not as confusing as it initially looks. In this first installment of a pair of articles, Myriam Frisano aims to teach you the basics of `
-` and its sometimes mystifying commands. With simple examples and visualizations, she’ll help you understand the easy syntax and underlying rules of SVG’s most powerful element so that by the end, you’re fully able to translate SVG semantic tags into a language `path` understands.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Myriam Frisano)</name>
         </author>
     </entry>
 </feed>
