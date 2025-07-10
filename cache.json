@@ -140,16 +140,6 @@
           "wordCount": 4899,
           "title": "Breaking Boundaries: Building a Tangram Puzzle With (S)CSS",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/05/tangram.webp"
-        },
-        {
-          "id": "https://css-tricks.com/?p=386694",
-          "author": "Preethi",
-          "description": "The HTML popover attribute transforms elements into top-layer elements that can be opened and closed with a button or JavaScript.  Popovers can be dismissed a number of ways, but there is no option to auto-close them. Preethi has a technique you can use.\nCreating an Auto-Closing Notification With an HTML Popover originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/creating-an-auto-closing-notification-with-an-html-popover/",
-          "publishedOn": "2025-06-09T12:58:37.000Z",
-          "wordCount": 2580,
-          "title": "Creating an Auto-Closing Notification With an HTML Popover",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2024/10/dialog-pop.jpg"
         }
       ]
     },
@@ -330,6 +320,26 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "686e8e1a0b575323bf321674",
+          "author": "Manish Shivanandhan",
+          "description": "In this tutorial, I’ll teach you how to use Next.js and Sevalla to build and deploy your own Next.js blog. But first, let me answer your likely question: “Why host a blog yourself when there are hundreds of blogging platforms available? “ One answer:...",
+          "link": "https://www.freecodecamp.org/news/how-to-deploy-a-nextjs-blog-on-sevalla/",
+          "publishedOn": "2025-07-09T15:43:22.000Z",
+          "wordCount": 1898,
+          "title": "How to Deploy a Next.js Blog on Sevalla",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1752075758399/7d8a494b-a5f0-4fb7-841b-8758d1cbc94d.png"
+        },
+        {
+          "id": "686e78b53e3a3fb3bf0c79eb",
+          "author": "Beau Carnes",
+          "description": "Learn the power of vibe coding and how it pairs perfectly with n8n to build full-stack AI-driven apps. We just published a crash course on the freeCodeCamp.org YouTube channel that will teach you the power of VibeCoding and how to automate real-world...",
+          "link": "https://www.freecodecamp.org/news/how-to-vibe-code-with-help-from-n8n/",
+          "publishedOn": "2025-07-09T14:12:05.000Z",
+          "wordCount": 1305,
+          "title": "How to Vibe Code With Help From n8n",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1751989831875/d04a4ccc-1159-4ff1-944b-d75399a55a2e.jpeg"
+        },
         {
           "id": "686d82b56332ba136ecc139e",
           "author": "Olowo Jude",

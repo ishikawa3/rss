@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-09T00:16:11.906Z</updated>
+    <updated>2025-07-10T00:15:52.945Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Deploy a Next.js Blog on Sevalla]]></title>
+        <id>686e8e1a0b575323bf321674</id>
+        <link href="https://www.freecodecamp.org/news/how-to-deploy-a-nextjs-blog-on-sevalla/"/>
+        <updated>2025-07-09T15:43:22.000Z</updated>
+        <summary type="html"><![CDATA[In this tutorial, I’ll teach you how to use Next.js and Sevalla to build and deploy your own Next.js blog. But first, let me answer your likely question: “Why host a blog yourself when there are hundreds of blogging platforms available? “ One answer:...]]></summary>
+        <author>
+            <name>Manish Shivanandhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Vibe Code With Help From n8n]]></title>
+        <id>686e78b53e3a3fb3bf0c79eb</id>
+        <link href="https://www.freecodecamp.org/news/how-to-vibe-code-with-help-from-n8n/"/>
+        <updated>2025-07-09T14:12:05.000Z</updated>
+        <summary type="html"><![CDATA[Learn the power of vibe coding and how it pairs perfectly with n8n to build full-stack AI-driven apps. We just published a crash course on the freeCodeCamp.org YouTube channel that will teach you the power of VibeCoding and how to automate real-world...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Use Pytest: A Simple Guide to Testing in Pytho]]></title>
         <id>686d82b56332ba136ecc139e</id>
@@ -877,17 +897,6 @@ Breaking Boundaries: Building a Tangram Puzzle With (S)CSS originally published 
         <summary type="html"><![CDATA[If you’ve been meaning to learn full-stack web development but don’t know where to start, this new course is a solid way in. Whether you're aiming to get a job in web dev or just want to build your own projects, understanding how the pieces fit toget...]]></summary>
         <author>
             <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Creating an Auto-Closing Notification With an HTML Popover]]></title>
-        <id>https://css-tricks.com/?p=386694</id>
-        <link href="https://css-tricks.com/creating-an-auto-closing-notification-with-an-html-popover/"/>
-        <updated>2025-06-09T12:58:37.000Z</updated>
-        <summary type="html"><![CDATA[The HTML popover attribute transforms elements into top-layer elements that can be opened and closed with a button or JavaScript.  Popovers can be dismissed a number of ways, but there is no option to auto-close them. Preethi has a technique you can use.
-Creating an Auto-Closing Notification With an HTML Popover originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Preethi</name>
         </author>
     </entry>
 </feed>
