@@ -149,6 +149,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2025/07/unmasking-magic-wizard-oz-method-ux-research/",
+          "author": "hello@smashingmagazine.com (Victor Yocco)",
+          "description": "The Wizard of Oz method is a proven UX research tool that simulates real interactions to uncover authentic user behavior. Victor Yocco unpacks the core principles of the WOZ method, explores advanced real-world applications, and highlights its unique value, including its relevance in the emerging field of agentic AI.",
+          "link": "https://smashingmagazine.com/2025/07/unmasking-magic-wizard-oz-method-ux-research/",
+          "publishedOn": "2025-07-10T10:00:00.000Z",
+          "wordCount": 6586,
+          "title": "Unmasking The Magic: The Wizard Of Oz Method For UX Research",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/unmasking-magic-wizard-oz-method-ux-research/unmasking-magic-wizard-oz-method-ux-research.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/unmasking-magic-wizard-oz-method-ux-research/unmasking-magic-wizard-oz-method-ux-research.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2025/07/modern-website-builder-wordpress-droip/",
           "author": "hello@smashingmagazine.com (Zareen Tasnim)",
           "description": "Traditional page builders have shaped how we build WordPress sites for years. Let’s take a closer look at [Droip](https://droip.com/), a modern, no-code visual builder, and explore how it redefines the experience with cleaner performance, full design freedom, and zero plugin dependency.",
@@ -320,6 +335,46 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "686fc789733ed1ffff06fcf7",
+          "author": "Beau Carnes",
+          "description": "Tired of making projects that are just AI API wrappers? Do you want to learn how to build a real AI project that you can actually sell? We just published a course on the freeCodeCamp.org YouTube channel that will show you how to build and deploy an e...",
+          "link": "https://www.freecodecamp.org/news/build-and-deploy-a-polished-ai-project-and-get-sales/",
+          "publishedOn": "2025-07-10T14:00:41.000Z",
+          "wordCount": 1078,
+          "title": "Build and Deploy a Polished AI Project and Get Sales",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1752093271233/de995e0c-8220-4fb1-8d35-acc6b99104ee.jpeg"
+        },
+        {
+          "id": "686fc4a0fb8e16a8295fc149",
+          "author": "Henry Adepegba",
+          "description": "The this keyword in JavaScript is like a chameleon – it changes its meaning depending on where and how it's used. Many developers struggle with this because it doesn't behave the same way in JavaScript as it does in other programming languages. Think...",
+          "link": "https://www.freecodecamp.org/news/how-to-use-the-this-keyword-in-javascript-a-handbook-for-devs/",
+          "publishedOn": "2025-07-10T13:48:16.000Z",
+          "wordCount": 7957,
+          "title": "How to Use the \"this\" Keyword in JavaScript: A Handbook for Devs",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1752155267760/5e5fc562-e515-4843-ad64-32129c293d67.png"
+        },
+        {
+          "id": "686f40595293ca3e659585b7",
+          "author": "Nneoma Uche",
+          "description": "Whether you’re transferring data between APIs or just preparing JSON data for import, mismatched schemas can break your workflow.  Learning how to clean and normalize JSON data ensures a smooth, error-free data transfer. This tutorial demonstrates ho...",
+          "link": "https://www.freecodecamp.org/news/transform-json-data-schema/",
+          "publishedOn": "2025-07-10T04:23:53.000Z",
+          "wordCount": 2824,
+          "title": "How to Transform JSON Data to Match Any Schema",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1752121420492/513db316-cdc7-47ef-8f20-4911cf5d41f9.png"
+        },
+        {
+          "id": "686f06fb2134825dffc4a228",
+          "author": "Michael Ikoko",
+          "description": "A resistive soil moisture sensor is a widely used, simple, and affordable way of estimating the amount of water in the soil. In this tutorial, you will learn how to interface a resistive soil moisture sensor with an Arduino UNO microcontroller. You w...",
+          "link": "https://www.freecodecamp.org/news/how-to-use-a-resistive-soil-moisture-sensor/",
+          "publishedOn": "2025-07-10T00:19:07.000Z",
+          "wordCount": 5158,
+          "title": "How to Use a Resistive Soil Moisture Sensor",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1752106699262/6ae871df-e1fb-4019-a446-9bd8cca1cab0.png"
+        },
         {
           "id": "686e8e1a0b575323bf321674",
           "author": "Manish Shivanandhan",
@@ -919,46 +974,6 @@
           "wordCount": 6806,
           "title": "How Attackers Steal Data from Websites (And How to Stop Them)",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1748376908250/fabf8346-d3fb-47ff-940b-f30b6e476ca5.png"
-        },
-        {
-          "id": "68495738cb7b75f7a33a73c4",
-          "author": "Zaira Hira",
-          "description": "Whether you’ve just gained access to a new Linux system, ethically hacked into one as part of a security test, or you’re just curious to know more about your current machine, this article will guide you through the process. You’ll learn how you can g...",
-          "link": "https://www.freecodecamp.org/news/get-linux-system-info-through-cli/",
-          "publishedOn": "2025-06-11T10:15:20.000Z",
-          "wordCount": 6558,
-          "title": "How to Get Information About Your Linux System Through the Command Line",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1749636399891/4b457f71-2d18-463a-b98a-e19ff5a6b769.png"
-        },
-        {
-          "id": "68489084490c709f6b3070ed",
-          "author": "Sravan Karuturi",
-          "description": "In this handbook, I’ll demystify the Apple app code signing process. Apple's ecosystem is powerful, but its distribution mechanisms – with various identifiers, certificates, and profiles – can appear complex. This guide attempts to make that journey ...",
-          "link": "https://www.freecodecamp.org/news/apple-code-signing-handbook/",
-          "publishedOn": "2025-06-10T20:07:32.000Z",
-          "wordCount": 6949,
-          "title": "The Apple Code Signing Handbook",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1749585600223/49e9c922-0b5d-4a98-a619-eedfd7a8b617.png"
-        },
-        {
-          "id": "684871b16bc1898625c952fd",
-          "author": "Chidiadi Anyanwu",
-          "description": "Vercel is a cloud platform or Platform-as-a-Service (PaaS) designed to help frontend developers create, preview, and deploy web applications swiftly and efficiently. In this tutorial, we’ll focus on deploying a Next.js application to Vercel using Git...",
-          "link": "https://www.freecodecamp.org/news/deploy-to-vercel-with-github-actions/",
-          "publishedOn": "2025-06-10T17:56:01.000Z",
-          "wordCount": 1768,
-          "title": "How To Deploy To Vercel With GitHub Actions",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1749577622920/8e35a6c1-3f4f-49a3-a4fe-dba80e24eec3.png"
-        },
-        {
-          "id": "68483a699e226a329abe4dee",
-          "author": "Beau Carnes",
-          "description": "If you’ve been meaning to learn full-stack web development but don’t know where to start, this new course is a solid way in. Whether you're aiming to get a job in web dev or just want to build your own projects, understanding how the pieces fit toget...",
-          "link": "https://www.freecodecamp.org/news/learn-the-mern-stack-in-2025/",
-          "publishedOn": "2025-06-10T14:00:09.000Z",
-          "wordCount": 1243,
-          "title": "Learn the MERN Stack in 2025",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1749234841421/0d452535-e019-4a1b-800a-1912cc16254a.png"
         }
       ]
     }

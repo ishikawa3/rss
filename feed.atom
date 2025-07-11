@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-10T00:15:52.945Z</updated>
+    <updated>2025-07-11T00:16:20.492Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Build and Deploy a Polished AI Project and Get Sales]]></title>
+        <id>686fc789733ed1ffff06fcf7</id>
+        <link href="https://www.freecodecamp.org/news/build-and-deploy-a-polished-ai-project-and-get-sales/"/>
+        <updated>2025-07-10T14:00:41.000Z</updated>
+        <summary type="html"><![CDATA[Tired of making projects that are just AI API wrappers? Do you want to learn how to build a real AI project that you can actually sell? We just published a course on the freeCodeCamp.org YouTube channel that will show you how to build and deploy an e...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use the "this" Keyword in JavaScript: A Handbook for Devs]]></title>
+        <id>686fc4a0fb8e16a8295fc149</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-the-this-keyword-in-javascript-a-handbook-for-devs/"/>
+        <updated>2025-07-10T13:48:16.000Z</updated>
+        <summary type="html"><![CDATA[The this keyword in JavaScript is like a chameleon – it changes its meaning depending on where and how it's used. Many developers struggle with this because it doesn't behave the same way in JavaScript as it does in other programming languages. Think...]]></summary>
+        <author>
+            <name>Henry Adepegba</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unmasking The Magic: The Wizard Of Oz Method For UX Research]]></title>
+        <id>https://smashingmagazine.com/2025/07/unmasking-magic-wizard-oz-method-ux-research/</id>
+        <link href="https://smashingmagazine.com/2025/07/unmasking-magic-wizard-oz-method-ux-research/"/>
+        <updated>2025-07-10T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Wizard of Oz method is a proven UX research tool that simulates real interactions to uncover authentic user behavior. Victor Yocco unpacks the core principles of the WOZ method, explores advanced real-world applications, and highlights its unique value, including its relevance in the emerging field of agentic AI.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Victor Yocco)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Transform JSON Data to Match Any Schema]]></title>
+        <id>686f40595293ca3e659585b7</id>
+        <link href="https://www.freecodecamp.org/news/transform-json-data-schema/"/>
+        <updated>2025-07-10T04:23:53.000Z</updated>
+        <summary type="html"><![CDATA[Whether you’re transferring data between APIs or just preparing JSON data for import, mismatched schemas can break your workflow.  Learning how to clean and normalize JSON data ensures a smooth, error-free data transfer. This tutorial demonstrates ho...]]></summary>
+        <author>
+            <name>Nneoma Uche</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use a Resistive Soil Moisture Sensor]]></title>
+        <id>686f06fb2134825dffc4a228</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-a-resistive-soil-moisture-sensor/"/>
+        <updated>2025-07-10T00:19:07.000Z</updated>
+        <summary type="html"><![CDATA[A resistive soil moisture sensor is a widely used, simple, and affordable way of estimating the amount of water in the soil. In this tutorial, you will learn how to interface a resistive soil moisture sensor with an Arduino UNO microcontroller. You w...]]></summary>
+        <author>
+            <name>Michael Ikoko</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Deploy a Next.js Blog on Sevalla]]></title>
         <id>686e8e1a0b575323bf321674</id>
@@ -857,46 +907,6 @@ Breaking Boundaries: Building a Tangram Puzzle With (S)CSS originally published 
         <summary type="html"><![CDATA[In this tutorial, Blake Lundquist walks us through two methods of creating the “moving-highlight” navigation pattern using only plain JavaScript and CSS. The first technique uses the `getBoundingClientRect` method to explicitly animate the border between navigation bar items when they are clicked. The second approach achieves the same functionality using the new View Transition API.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Blake Lundquist)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Get Information About Your Linux System Through the Command Line]]></title>
-        <id>68495738cb7b75f7a33a73c4</id>
-        <link href="https://www.freecodecamp.org/news/get-linux-system-info-through-cli/"/>
-        <updated>2025-06-11T10:15:20.000Z</updated>
-        <summary type="html"><![CDATA[Whether you’ve just gained access to a new Linux system, ethically hacked into one as part of a security test, or you’re just curious to know more about your current machine, this article will guide you through the process. You’ll learn how you can g...]]></summary>
-        <author>
-            <name>Zaira Hira</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Apple Code Signing Handbook]]></title>
-        <id>68489084490c709f6b3070ed</id>
-        <link href="https://www.freecodecamp.org/news/apple-code-signing-handbook/"/>
-        <updated>2025-06-10T20:07:32.000Z</updated>
-        <summary type="html"><![CDATA[In this handbook, I’ll demystify the Apple app code signing process. Apple's ecosystem is powerful, but its distribution mechanisms – with various identifiers, certificates, and profiles – can appear complex. This guide attempts to make that journey ...]]></summary>
-        <author>
-            <name>Sravan Karuturi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Deploy To Vercel With GitHub Actions]]></title>
-        <id>684871b16bc1898625c952fd</id>
-        <link href="https://www.freecodecamp.org/news/deploy-to-vercel-with-github-actions/"/>
-        <updated>2025-06-10T17:56:01.000Z</updated>
-        <summary type="html"><![CDATA[Vercel is a cloud platform or Platform-as-a-Service (PaaS) designed to help frontend developers create, preview, and deploy web applications swiftly and efficiently. In this tutorial, we’ll focus on deploying a Next.js application to Vercel using Git...]]></summary>
-        <author>
-            <name>Chidiadi Anyanwu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn the MERN Stack in 2025]]></title>
-        <id>68483a699e226a329abe4dee</id>
-        <link href="https://www.freecodecamp.org/news/learn-the-mern-stack-in-2025/"/>
-        <updated>2025-06-10T14:00:09.000Z</updated>
-        <summary type="html"><![CDATA[If you’ve been meaning to learn full-stack web development but don’t know where to start, this new course is a solid way in. Whether you're aiming to get a job in web dev or just want to build your own projects, understanding how the pieces fit toget...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
         </author>
     </entry>
 </feed>
