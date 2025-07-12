@@ -12,6 +12,26 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=387748",
+          "author": "Amit Sheen",
+          "description": "I was playing around with scroll-driven animations, just searching for all sorts of random things you could do. That’s when I came up with the idea to animate main headings and, using scroll-driven animations, change the headings based on the user’s scroll position.\nScroll-Driven Sticky Heading originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/scroll-driven-sticky-heading/",
+          "publishedOn": "2025-07-11T17:11:00.000Z",
+          "wordCount": 4043,
+          "title": "Scroll-Driven Sticky Heading",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/07/scroll-driven-typewriter.webp"
+        },
+        {
+          "id": "https://css-tricks.com/?p=388030",
+          "author": "Geoff Graham",
+          "description": "Layout. It’s one of those easy-to-learn, difficult-to-master things, like they say about playing bass. Not because it’s innately difficult to, say, place two elements next to each other, but because there are many, many ways to tackle it. And …\nThe Layout Maestro Course originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/the-layout-maestro-course/",
+          "publishedOn": "2025-07-11T17:07:13.000Z",
+          "wordCount": 2011,
+          "title": "The Layout Maestro Course",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/07/layout-maestro-course.webp"
+        },
+        {
           "id": "https://css-tricks.com/?p=387613",
           "author": "Temani Afif",
           "description": "The shape() function's close and move commands may not be ones you reach for often, but are incredibly useful for certain shapes.\nBetter CSS Shapes Using shape() — Part 4: Close and Move originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -312,21 +332,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/what-i-wish-someone-told-me-aria/what-i-wish-someone-told-me-aria.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2025/06/creating-moving-highlight-navigation-bar-javascript-css/",
-          "author": "hello@smashingmagazine.com (Blake Lundquist)",
-          "description": "In this tutorial, Blake Lundquist walks us through two methods of creating the “moving-highlight” navigation pattern using only plain JavaScript and CSS. The first technique uses the `getBoundingClientRect` method to explicitly animate the border between navigation bar items when they are clicked. The second approach achieves the same functionality using the new View Transition API.",
-          "link": "https://smashingmagazine.com/2025/06/creating-moving-highlight-navigation-bar-javascript-css/",
-          "publishedOn": "2025-06-11T13:00:00.000Z",
-          "wordCount": 4295,
-          "title": "Creating The &ldquo;Moving Highlight&rdquo; Navigation Bar With JavaScript And CSS",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/creating-moving-highlight-navigation-bar-vanilla-javascript/creating-moving-highlight-navigation-bar-javascript-css.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/creating-moving-highlight-navigation-bar-vanilla-javascript/creating-moving-highlight-navigation-bar-javascript-css.jpg"
         }
       ]
     },
@@ -335,6 +340,26 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "68715d56bc2af40281bdf584",
+          "author": "Tapas Adhikary",
+          "description": "Errors and exceptions are inevitable in application development. As programmers, it is our responsibility to handle these errors gracefully so that the user experience of the application is not compromised. Handling errors correctly also helps progra...",
+          "link": "https://www.freecodecamp.org/news/the-javascript-error-handling-handbook/",
+          "publishedOn": "2025-07-11T18:52:06.000Z",
+          "wordCount": 4237,
+          "title": "The JavaScript Error Handling Handbook",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1752254732491/dd413499-64f4-4a20-8fd6-7f73cfcd55c0.png"
+        },
+        {
+          "id": "687118f5feb1fdc94037fc8c",
+          "author": "Beau Carnes",
+          "description": "On this week's episode of the podcast, freeCodeCamp founder Quincy Larson interviews Braydon Coyer. He's a software engineer who started building mobile apps in high school – one of which even out-sold Angry Birds for a few days. He dropped out of hi...",
+          "link": "https://www.freecodecamp.org/news/799-rejections-but-he-got-the-job-braydon-coyer-developer-interview-podcast-179/",
+          "publishedOn": "2025-07-11T14:00:21.000Z",
+          "wordCount": 1064,
+          "title": "799 rejections... but he got the job! Braydon Coyer developer interview [Podcast #179]",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1752180786655/3b18e2c2-3723-459a-90e2-ef29a2d473c9.jpeg"
+        },
         {
           "id": "686fc789733ed1ffff06fcf7",
           "author": "Beau Carnes",
@@ -964,16 +989,6 @@
           "wordCount": 1341,
           "title": "Learn MLOps by Creating a YouTube Sentiment Analyzer",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1749676232247/9ec9249e-11ae-4ad5-bce6-1163328bcb37.png"
-        },
-        {
-          "id": "6849e4d1a3aec42347669919",
-          "author": "Alex Tray",
-          "description": "Across platforms, behind every app, and on your own website, hackers may patiently wait.  These days, everyone should have identity theft protections, and be informed about data threats lurking in the trenches of the world-wide-web’s war on privacy a...",
-          "link": "https://www.freecodecamp.org/news/how-attackers-steal-data-from-websites-and-how-to-stop-them/",
-          "publishedOn": "2025-06-11T20:19:29.000Z",
-          "wordCount": 6806,
-          "title": "How Attackers Steal Data from Websites (And How to Stop Them)",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1748376908250/fabf8346-d3fb-47ff-940b-f30b6e476ca5.png"
         }
       ]
     }

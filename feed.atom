@@ -2,10 +2,52 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-11T00:16:20.492Z</updated>
+    <updated>2025-07-12T00:15:29.512Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The JavaScript Error Handling Handbook]]></title>
+        <id>68715d56bc2af40281bdf584</id>
+        <link href="https://www.freecodecamp.org/news/the-javascript-error-handling-handbook/"/>
+        <updated>2025-07-11T18:52:06.000Z</updated>
+        <summary type="html"><![CDATA[Errors and exceptions are inevitable in application development. As programmers, it is our responsibility to handle these errors gracefully so that the user experience of the application is not compromised. Handling errors correctly also helps progra...]]></summary>
+        <author>
+            <name>Tapas Adhikary</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Scroll-Driven Sticky Heading]]></title>
+        <id>https://css-tricks.com/?p=387748</id>
+        <link href="https://css-tricks.com/scroll-driven-sticky-heading/"/>
+        <updated>2025-07-11T17:11:00.000Z</updated>
+        <summary type="html"><![CDATA[I was playing around with scroll-driven animations, just searching for all sorts of random things you could do. That’s when I came up with the idea to animate main headings and, using scroll-driven animations, change the headings based on the user’s scroll position.
+Scroll-Driven Sticky Heading originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Amit Sheen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Layout Maestro Course]]></title>
+        <id>https://css-tricks.com/?p=388030</id>
+        <link href="https://css-tricks.com/the-layout-maestro-course/"/>
+        <updated>2025-07-11T17:07:13.000Z</updated>
+        <summary type="html"><![CDATA[Layout. It’s one of those easy-to-learn, difficult-to-master things, like they say about playing bass. Not because it’s innately difficult to, say, place two elements next to each other, but because there are many, many ways to tackle it. And …
+The Layout Maestro Course originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[799 rejections... but he got the job! Braydon Coyer developer interview [Podcast #179]]]></title>
+        <id>687118f5feb1fdc94037fc8c</id>
+        <link href="https://www.freecodecamp.org/news/799-rejections-but-he-got-the-job-braydon-coyer-developer-interview-podcast-179/"/>
+        <updated>2025-07-11T14:00:21.000Z</updated>
+        <summary type="html"><![CDATA[On this week's episode of the podcast, freeCodeCamp founder Quincy Larson interviews Braydon Coyer. He's a software engineer who started building mobile apps in high school – one of which even out-sold Angry Birds for a few days. He dropped out of hi...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Build and Deploy a Polished AI Project and Get Sales]]></title>
         <id>686fc789733ed1ffff06fcf7</id>
@@ -887,26 +929,6 @@ A Better API for the Resize Observer originally published on CSS-Tricks, which i
 Breaking Boundaries: Building a Tangram Puzzle With (S)CSS originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Sladjana Stojanovic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Attackers Steal Data from Websites (And How to Stop Them)]]></title>
-        <id>6849e4d1a3aec42347669919</id>
-        <link href="https://www.freecodecamp.org/news/how-attackers-steal-data-from-websites-and-how-to-stop-them/"/>
-        <updated>2025-06-11T20:19:29.000Z</updated>
-        <summary type="html"><![CDATA[Across platforms, behind every app, and on your own website, hackers may patiently wait.  These days, everyone should have identity theft protections, and be informed about data threats lurking in the trenches of the world-wide-web’s war on privacy a...]]></summary>
-        <author>
-            <name>Alex Tray</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Creating The &ldquo;Moving Highlight&rdquo; Navigation Bar With JavaScript And CSS]]></title>
-        <id>https://smashingmagazine.com/2025/06/creating-moving-highlight-navigation-bar-javascript-css/</id>
-        <link href="https://smashingmagazine.com/2025/06/creating-moving-highlight-navigation-bar-javascript-css/"/>
-        <updated>2025-06-11T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this tutorial, Blake Lundquist walks us through two methods of creating the “moving-highlight” navigation pattern using only plain JavaScript and CSS. The first technique uses the `getBoundingClientRect` method to explicitly animate the border between navigation bar items when they are clicked. The second approach achieves the same functionality using the new View Transition API.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Blake Lundquist)</name>
         </author>
     </entry>
 </feed>
