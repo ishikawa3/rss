@@ -150,16 +150,6 @@
           "wordCount": 3141,
           "title": "A Better API for the Resize Observer",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/04/code-resize-observer.jpg"
-        },
-        {
-          "id": "https://css-tricks.com/?p=386648",
-          "author": "Sladjana Stojanovic",
-          "description": "We put it to the test and it turns out Sass can replace JavaScript, at least when it comes to low-level logic and puzzle behavior. With nothing but maps, mixins, functions, and a whole lot of math, we managed to bring our Tangram puzzle to life, no JavaScript required.\nBreaking Boundaries: Building a Tangram Puzzle With (S)CSS originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/breaking-boundaries-building-a-tangram-puzzle-with-scss/",
-          "publishedOn": "2025-06-12T13:58:38.000Z",
-          "wordCount": 4899,
-          "title": "Breaking Boundaries: Building a Tangram Puzzle With (S)CSS",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/05/tangram.webp"
         }
       ]
     },
@@ -979,16 +969,6 @@
           "wordCount": 2039,
           "title": "How to Improve Your Phone’s Privacy",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1749831817564/98cdcb42-6e7f-49c3-9a7c-49e8db78fc3f.png"
-        },
-        {
-          "id": "684b07b568649c5d5e8565b2",
-          "author": "Beau Carnes",
-          "description": "If you’re serious about machine learning and want to break into real-world ML engineering, learning MLOps is one of the best things you can do. It’s what turns experiments into reliable systems. You can train a great model, but without the right pipe...",
-          "link": "https://www.freecodecamp.org/news/learn-mlops-by-creating-a-youtube-sentiment-analyzer/",
-          "publishedOn": "2025-06-12T17:00:37.000Z",
-          "wordCount": 1341,
-          "title": "Learn MLOps by Creating a YouTube Sentiment Analyzer",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1749676232247/9ec9249e-11ae-4ad5-bce6-1163328bcb37.png"
         }
       ]
     }
