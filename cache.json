@@ -929,46 +929,6 @@
           "wordCount": 1236,
           "title": "freeCodeCamp Full Stack Curriculum Mid-2025 Update",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1750092183369/0e6a0781-0913-4c28-9289-9af3831ebc67.png"
-        },
-        {
-          "id": "684c867db87f779c97f2e509",
-          "author": "German Cocca",
-          "description": "NestJS is a progressive Node.js framework for building efficient, reliable, and scalable server-side applications. Combining the best ideas from OOP (Object-Oriented Programming), FP (Functional Programming), and FRP (Functional Reactive Programming)...",
-          "link": "https://www.freecodecamp.org/news/the-nestjs-handbook-learn-to-use-nest-with-code-examples/",
-          "publishedOn": "2025-06-13T20:13:49.000Z",
-          "wordCount": 11691,
-          "title": "The NestJS Handbook – Learn to Use Nest with Code Examples",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1749830137752/799b050a-f884-4043-9db1-fe2bb860d297.png"
-        },
-        {
-          "id": "684c61db3b494a20ba49fddb",
-          "author": "Atuoha Anthony",
-          "description": "In today's digital age, the demand for accessible and accurate health information is higher than ever. Leveraging the power of artificial intelligence, we can create intelligent chatbots that provide reliable health-related guidance. This beginner's ...",
-          "link": "https://www.freecodecamp.org/news/how-to-build-a-medical-chatbot-with-flutter-and-gemini/",
-          "publishedOn": "2025-06-13T17:37:31.000Z",
-          "wordCount": 3561,
-          "title": "How to Build a Medical Chatbot with Flutter and Gemini: A Beginner’s Guide",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1749830721631/4675d1f6-ad64-46a3-86e1-ce8a2c84323f.png"
-        },
-        {
-          "id": "684c58453ee20021234073af",
-          "author": "Brian Barrow",
-          "description": "Vue composables are a very helpful tool when developing Vue applications. They give developers an easy way to reuse logic across our applications. In addition to allowing for “stateless” logic (things like formatting or routine calculations), composa...",
-          "link": "https://www.freecodecamp.org/news/how-vue-composables-work/",
-          "publishedOn": "2025-06-13T16:56:37.000Z",
-          "wordCount": 2579,
-          "title": "How Vue Composables Work – Explained with Code Examples",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1749830866913/e732db46-638b-42cd-aabf-ad51a54a3409.png"
-        },
-        {
-          "id": "684c50b9c6ec6bf605276b54",
-          "author": "Manish Shivanandhan",
-          "description": "We use our phones for everything  –  texting, banking, browsing, tracking our health, even unlocking our homes. But with all that convenience comes a lot of risk. Apps are hungry for your data. Hackers are always looking for cracks in your security. ...",
-          "link": "https://www.freecodecamp.org/news/how-to-improve-your-phones-privacy/",
-          "publishedOn": "2025-06-13T16:24:25.000Z",
-          "wordCount": 2039,
-          "title": "How to Improve Your Phone’s Privacy",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1749831817564/98cdcb42-6e7f-49c3-9a7c-49e8db78fc3f.png"
         }
       ]
     }

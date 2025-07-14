@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-13T00:18:03.237Z</updated>
+    <updated>2025-07-14T00:17:29.791Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
@@ -868,46 +868,6 @@ How to Keep Up With New CSS Features originally published on CSS-Tricks, which i
 A Better API for the Resize Observer originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Zell Liew</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The NestJS Handbook – Learn to Use Nest with Code Examples]]></title>
-        <id>684c867db87f779c97f2e509</id>
-        <link href="https://www.freecodecamp.org/news/the-nestjs-handbook-learn-to-use-nest-with-code-examples/"/>
-        <updated>2025-06-13T20:13:49.000Z</updated>
-        <summary type="html"><![CDATA[NestJS is a progressive Node.js framework for building efficient, reliable, and scalable server-side applications. Combining the best ideas from OOP (Object-Oriented Programming), FP (Functional Programming), and FRP (Functional Reactive Programming)...]]></summary>
-        <author>
-            <name>German Cocca</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Medical Chatbot with Flutter and Gemini: A Beginner’s Guide]]></title>
-        <id>684c61db3b494a20ba49fddb</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-a-medical-chatbot-with-flutter-and-gemini/"/>
-        <updated>2025-06-13T17:37:31.000Z</updated>
-        <summary type="html"><![CDATA[In today's digital age, the demand for accessible and accurate health information is higher than ever. Leveraging the power of artificial intelligence, we can create intelligent chatbots that provide reliable health-related guidance. This beginner's ...]]></summary>
-        <author>
-            <name>Atuoha Anthony</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Vue Composables Work – Explained with Code Examples]]></title>
-        <id>684c58453ee20021234073af</id>
-        <link href="https://www.freecodecamp.org/news/how-vue-composables-work/"/>
-        <updated>2025-06-13T16:56:37.000Z</updated>
-        <summary type="html"><![CDATA[Vue composables are a very helpful tool when developing Vue applications. They give developers an easy way to reuse logic across our applications. In addition to allowing for “stateless” logic (things like formatting or routine calculations), composa...]]></summary>
-        <author>
-            <name>Brian Barrow</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Improve Your Phone’s Privacy]]></title>
-        <id>684c50b9c6ec6bf605276b54</id>
-        <link href="https://www.freecodecamp.org/news/how-to-improve-your-phones-privacy/"/>
-        <updated>2025-06-13T16:24:25.000Z</updated>
-        <summary type="html"><![CDATA[We use our phones for everything  –  texting, banking, browsing, tracking our health, even unlocking our homes. But with all that convenience comes a lot of risk. Apps are hungry for your data. Hackers are always looking for cracks in your security. ...]]></summary>
-        <author>
-            <name>Manish Shivanandhan</name>
         </author>
     </entry>
 </feed>
