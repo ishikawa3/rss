@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=387679",
+          "author": "Daniel Schwarz",
+          "description": "The many ways to juggle line length when working with text... including two proposed  properties that could make it easier in the future.\nSetting Line Length in CSS (and Fitting Text to a Container) originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/setting-line-length-in-css-and-fitting-text-to-a-container/",
+          "publishedOn": "2025-07-14T12:38:23.000Z",
+          "wordCount": 3277,
+          "title": "Setting Line Length in CSS (and Fitting Text to a Container)",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2020/04/type-scale.png"
+        },
+        {
           "id": "https://css-tricks.com/?p=387748",
           "author": "Amit Sheen",
           "description": "I was playing around with scroll-driven animations, just searching for all sorts of random things you could do. That’s when I came up with the idea to animate main headings and, using scroll-driven animations, change the headings based on the user’s scroll position.\nScroll-Driven Sticky Heading originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -158,6 +168,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2025/07/design-patterns-ai-interfaces/",
+          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
+          "description": "Designing a new AI feature? Where do you even begin? From first steps to design flows and interactions, here’s a simple, systematic approach to building AI experiences that stick.",
+          "link": "https://smashingmagazine.com/2025/07/design-patterns-ai-interfaces/",
+          "publishedOn": "2025-07-14T15:00:00.000Z",
+          "wordCount": 4053,
+          "title": "Design Patterns For AI Interfaces",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/design-patterns-ai-interfaces/design-patterns-ai-interfaces.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/design-patterns-ai-interfaces/design-patterns-ai-interfaces.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2025/07/unmasking-magic-wizard-oz-method-ux-research/",
           "author": "hello@smashingmagazine.com (Victor Yocco)",
@@ -330,6 +355,16 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "687543a2e9820caf95eae4f3",
+          "author": "Mark Mahoney",
+          "description": "The Wordle phenomenon from a few years back inspired developers worldwide to create their own word games. It inspired me to conceive and build a game, too. ‘Word Zearch’ combines elements of Boggle and word search puzzles into a web-based game where ...",
+          "link": "https://www.freecodecamp.org/news/build-a-word-search-game-using-html-css-and-javascript/",
+          "publishedOn": "2025-07-14T17:51:30.000Z",
+          "wordCount": 2277,
+          "title": "How to Build a Word Search Game Using HTML, CSS, and JavaScript",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1752511862075/76f0131a-336f-4670-a571-ad023e3906bb.png"
+        },
         {
           "id": "68715d56bc2af40281bdf584",
           "author": "Tapas Adhikary",

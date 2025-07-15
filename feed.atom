@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-14T00:17:29.791Z</updated>
+    <updated>2025-07-15T00:16:41.687Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Word Search Game Using HTML, CSS, and JavaScript]]></title>
+        <id>687543a2e9820caf95eae4f3</id>
+        <link href="https://www.freecodecamp.org/news/build-a-word-search-game-using-html-css-and-javascript/"/>
+        <updated>2025-07-14T17:51:30.000Z</updated>
+        <summary type="html"><![CDATA[The Wordle phenomenon from a few years back inspired developers worldwide to create their own word games. It inspired me to conceive and build a game, too. ‘Word Zearch’ combines elements of Boggle and word search puzzles into a web-based game where ...]]></summary>
+        <author>
+            <name>Mark Mahoney</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Design Patterns For AI Interfaces]]></title>
+        <id>https://smashingmagazine.com/2025/07/design-patterns-ai-interfaces/</id>
+        <link href="https://smashingmagazine.com/2025/07/design-patterns-ai-interfaces/"/>
+        <updated>2025-07-14T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Designing a new AI feature? Where do you even begin? From first steps to design flows and interactions, here’s a simple, systematic approach to building AI experiences that stick.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Setting Line Length in CSS (and Fitting Text to a Container)]]></title>
+        <id>https://css-tricks.com/?p=387679</id>
+        <link href="https://css-tricks.com/setting-line-length-in-css-and-fitting-text-to-a-container/"/>
+        <updated>2025-07-14T12:38:23.000Z</updated>
+        <summary type="html"><![CDATA[The many ways to juggle line length when working with text... including two proposed  properties that could make it easier in the future.
+Setting Line Length in CSS (and Fitting Text to a Container) originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Daniel Schwarz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The JavaScript Error Handling Handbook]]></title>
         <id>68715d56bc2af40281bdf584</id>
