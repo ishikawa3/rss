@@ -356,6 +356,16 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "68768aae330f8631f59cf431",
+          "author": "Victoria Nduka",
+          "description": "I recently started learning cloud engineering through a bootcamp. One of our first tasks was to create an AWS account. For those of us who didn’t already have one, it seemed like a simple enough assignment. But as I went through the signup process, I...",
+          "link": "https://www.freecodecamp.org/news/how-to-create-an-aws-free-tier-account/",
+          "publishedOn": "2025-07-15T17:06:54.000Z",
+          "wordCount": 2477,
+          "title": "How to Create an AWS Free Tier Account – A Step-by-Step Guide",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1752599184286/ff14fece-f865-4d8f-87e7-4cfed11a6946.png"
+        },
+        {
           "id": "687543a2e9820caf95eae4f3",
           "author": "Mark Mahoney",
           "description": "The Wordle phenomenon from a few years back inspired developers worldwide to create their own word games. It inspired me to conceive and build a game, too. ‘Word Zearch’ combines elements of Boggle and word search puzzles into a web-based game where ...",
