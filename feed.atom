@@ -2,10 +2,111 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-16T00:16:40.542Z</updated>
+    <updated>2025-07-17T00:16:53.435Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Revert a Migration in Django]]></title>
+        <id>68781860a9407a5fe14ed384</id>
+        <link href="https://www.freecodecamp.org/news/how-to-revert-a-migration-in-django/"/>
+        <updated>2025-07-16T21:23:44.000Z</updated>
+        <summary type="html"><![CDATA[So, you're working with Django, you've run a migration, and now something’s broken. Maybe you added a field that shouldn't be there. Maybe you renamed a model, and suddenly your database is a mess. Or maybe you're just experimenting and want to roll ...]]></summary>
+        <author>
+            <name>Udemezue John</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Protect Your GitHub Repos Against Malicious Clones]]></title>
+        <id>68781639d48174ae283f8a5b</id>
+        <link href="https://www.freecodecamp.org/news/protect-github-repos-from-malicious-clones/"/>
+        <updated>2025-07-16T21:14:33.000Z</updated>
+        <summary type="html"><![CDATA[The world of open-source development comes with various cyber threats. GitHub is still facing a type of attack that is ongoing since last year where attackers mirrored a huge number of repositories. So as it turns out…the clone wars are not over! If ...]]></summary>
+        <author>
+            <name>brooklyn</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn Interactive Data Visualization with Svelte and D3]]></title>
+        <id>6877db3efdf62027f80a0a49</id>
+        <link href="https://www.freecodecamp.org/news/learn-interactive-data-visualization-with-svelte-and-d3/"/>
+        <updated>2025-07-16T17:02:54.000Z</updated>
+        <summary type="html"><![CDATA[Data is everywhere, but raw numbers on a screen rarely tell a compelling story. To uncover insights and communicate them effectively, you need to make that data visible and interactive. We just posted a new course on the freeCodeCamp.org YouTube chan...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Activate Your Django Virtual Environment]]></title>
+        <id>6877da442945848c5461548c</id>
+        <link href="https://www.freecodecamp.org/news/how-to-activate-your-django-virtual-environment/"/>
+        <updated>2025-07-16T16:58:44.000Z</updated>
+        <summary type="html"><![CDATA[If you’re starting with Django, one of the first steps you’ll hear about is activating a virtual environment. And if that sounds a little technical, don’t worry – I’m going to walk you through exactly what that means, why it matters, and how to do it...]]></summary>
+        <author>
+            <name>Udemezue John</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn how to build security into AI]]></title>
+        <id>6877d9b440b18dbe521d8687</id>
+        <link href="https://www.freecodecamp.org/news/learn-how-to-build-security-into-ai/"/>
+        <updated>2025-07-16T16:56:20.000Z</updated>
+        <summary type="html"><![CDATA[Artificial Intelligence is changing how we build software, but it also introduces brand new security risks. If you're a developer or security professional stepping into the world of AI, how do you make sure your applications are safe? We've just publ...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Document Governing Procedures for Open-Source Communities]]></title>
+        <id>6877d29455befbef3138faf5</id>
+        <link href="https://www.freecodecamp.org/news/how-to-document-governing-procedures-for-open-source-communities/"/>
+        <updated>2025-07-16T16:25:56.000Z</updated>
+        <summary type="html"><![CDATA[In open source communities, we often discuss contribution guidelines, codes of conduct, and onboarding new contributors. But one thing we don’t talk about nearly enough? Governance. Governance sounds serious. But at its core, it simply means: how do ...]]></summary>
+        <author>
+            <name>Oluchi Nwenyi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Sustainable Open Source Contribution Routine]]></title>
+        <id>6877d242e9c372b3ae56fd21</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-a-sustainable-open-source-contribution-routine/"/>
+        <updated>2025-07-16T16:24:34.000Z</updated>
+        <summary type="html"><![CDATA[Contributing to open source sounds fun until life gets in the way. You get busy, you forget or you don’t know where to start again.  This is why having a routine is so important. Not just for the sake of ticking boxes, but because consistency has a g...]]></summary>
+        <author>
+            <name>Tooba Jamal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How In-Memory Caching Works in Redis]]></title>
+        <id>6877d117ba632c15e613aac8</id>
+        <link href="https://www.freecodecamp.org/news/how-in-memory-caching-works-in-redis/"/>
+        <updated>2025-07-16T16:19:35.000Z</updated>
+        <summary type="html"><![CDATA[When you’re building a web app or API that needs to respond quickly, caching is often the secret sauce. Without it, your server can waste time fetching the same data over and over again – from a database, a third-party API, or a slow storage system. ...]]></summary>
+        <author>
+            <name>Manish Shivanandhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tiny Screens, Big Impact: The Forgotten Art Of Developing Web Apps For Feature Phones]]></title>
+        <id>https://smashingmagazine.com/2025/07/tiny-screens-big-impact-developing-web-apps-feature-phones/</id>
+        <link href="https://smashingmagazine.com/2025/07/tiny-screens-big-impact-developing-web-apps-feature-phones/"/>
+        <updated>2025-07-16T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Learn why flip phones still matter in 2025, and how you can build and launch web apps for these tiny devices.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Tom Barrasso)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What I Took From the State of Dev 2025 Survey]]></title>
+        <id>https://css-tricks.com/?p=387980</id>
+        <link href="https://css-tricks.com/what-i-took-from-the-state-of-dev-2025-survey/"/>
+        <updated>2025-07-16T12:54:14.000Z</updated>
+        <summary type="html"><![CDATA[State of Devs 2025 survey results are out! Sunkanmi Fafowora highlights a few key results about diversity, health, and salaries.
+What I Took From the State of Dev 2025 Survey originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Sunkanmi Fafowora</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Create an AWS Free Tier Account – A Step-by-Step Guide]]></title>
         <id>68768aae330f8631f59cf431</id>
@@ -818,97 +919,6 @@ How to Keep Up With New CSS Features originally published on CSS-Tricks, which i
         <summary type="html"><![CDATA[Are you ready to transform your career and become a data-driven decision maker? We’re excited to announce that freeCodeCamp.org has just published a comprehensive Google Cloud Data Analytics course on our YouTube channel. The course was developed by ...]]></summary>
         <author>
             <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Debug CI/CD Pipelines: A Handbook on Troubleshooting with Observability Tools]]></title>
-        <id>6850a9eb7255997ee3d47265</id>
-        <link href="https://www.freecodecamp.org/news/how-to-debug-cicd-pipelines-handbook/"/>
-        <updated>2025-06-16T23:34:03.000Z</updated>
-        <summary type="html"><![CDATA[Observability is a game-changer for CI/CD pipelines, and it’s one of the most exciting aspects of DevOps. When I started working with CI/CD systems, I assumed the hardest part would be building the pipeline. But with increasingly complex setups, the ...]]></summary>
-        <author>
-            <name>Opaluwa Emidowojo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Configure Network Interfaces in Linux]]></title>
-        <id>6850922657a503eb47ff3b2b</id>
-        <link href="https://www.freecodecamp.org/news/configure-network-interfaces-in-linux/"/>
-        <updated>2025-06-16T21:52:38.000Z</updated>
-        <summary type="html"><![CDATA[Networking is an essential part of any Linux system. Proper networking allows communication between devices and the internet. Understanding the network interface is vital when setting up servers, solving connectivity issues, and managing device traff...]]></summary>
-        <author>
-            <name>Eti Ijeoma</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Work with Queues in TypeScript]]></title>
-        <id>6850919d88713cbf971283b0</id>
-        <link href="https://www.freecodecamp.org/news/how-to-work-with-queues-in-typescript/"/>
-        <updated>2025-06-16T21:50:21.000Z</updated>
-        <summary type="html"><![CDATA[A queue is a collection of items arranged in a First-In-First-Out (FIFO) order. This means that the first item added is the first to be removed, much like a supermarket line where customers are served in the order they arrive. In this hands-on tutor...]]></summary>
-        <author>
-            <name>Yazdun</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Realtime Chat Application with Angular 20 and Supabase]]></title>
-        <id>6850913c10d2d4fd5525e0d6</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-a-realtime-chat-app-with-angular-20-and-supabase/"/>
-        <updated>2025-06-16T21:48:44.000Z</updated>
-        <summary type="html"><![CDATA[Chat applications let you talk in real-time with your friends, family, or coworkers, and help you quickly, effectively, and efficiently transfer of information. When you’re building modern web applications, chat applications are now pretty much a req...]]></summary>
-        <author>
-            <name>deji adesoga</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An Animated Introduction to Programming with Python]]></title>
-        <id>685052f79796239b8044baeb</id>
-        <link href="https://www.freecodecamp.org/news/an-animated-introduction-to-programming-with-python/"/>
-        <updated>2025-06-16T17:23:03.000Z</updated>
-        <summary type="html"><![CDATA[Python is a high-level, general-purpose programming language. Created by Guido van Rossum and first released in 1991, Python is known for its design philosophy that emphasizes code readability, notably using significant indentation. It supports multi...]]></summary>
-        <author>
-            <name>Mark Mahoney</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn React in your Browser – freeCodeCamp Full Stack Curriculum Mid-2025 Update]]></title>
-        <id>685049cc71faf4a81f93b409</id>
-        <link href="https://www.freecodecamp.org/news/learn-react-in-your-browser-freecodecamp-full-stack-curriculum-mid-2025-update/"/>
-        <updated>2025-06-16T16:43:56.000Z</updated>
-        <summary type="html"><![CDATA[Hey campers! The freeCodeCamp community is still very hard at work on the rest of the coursework for our full stack curriculum. It’s only been a few months, but already there are many campers going full-force through these new lessons and programming...]]></summary>
-        <author>
-            <name>Naomi Carrigan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[freeCodeCamp Full Stack Curriculum Mid-2025 Update]]></title>
-        <id>685049cc71faf4a81f93b409</id>
-        <link href="https://www.freecodecamp.org/news/freecodecamp-full-stack-curriculum-mid-2025-update/"/>
-        <updated>2025-06-16T16:43:56.000Z</updated>
-        <summary type="html"><![CDATA[Hey friends! The freeCodeCamp team is still very hard at work on the rest of the content for our full stack curriculum. It’s only been a few months, but there are many campers who have been going full force at this new content. And I am excited to sh...]]></summary>
-        <author>
-            <name>Naomi Carrigan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What I Wish Someone Told Me When I Was Getting Into ARIA]]></title>
-        <id>https://smashingmagazine.com/2025/06/what-i-wish-someone-told-me-aria/</id>
-        <link href="https://smashingmagazine.com/2025/06/what-i-wish-someone-told-me-aria/"/>
-        <updated>2025-06-16T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[[Accessible Rich Internet Applications (ARIA)](https://www.w3.org/WAI/standards-guidelines/aria/) is an inevitability when working on web accessibility. That said, it’s everyone’s first time learning about ARIA at some point.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Eric Bailey)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Better API for the Resize Observer]]></title>
-        <id>https://css-tricks.com/?p=386338</id>
-        <link href="https://css-tricks.com/a-better-api-for-the-resize-observer/"/>
-        <updated>2025-06-16T12:47:51.000Z</updated>
-        <summary type="html"><![CDATA[ResizeObserver, MutationObserver, and IntersectionObserver enhance performance over their predecessors. Zell discusses their API similarities, usage steps, refactoring strategies, and advantages with practical examples.
-A Better API for the Resize Observer originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Zell Liew</name>
         </author>
     </entry>
 </feed>
