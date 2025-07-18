@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=387817",
+          "author": "Geoff Graham",
+          "description": "Gathered notes on Liquid Glass, Apple’s new design language that was introduced at WWDC 2025. These links are a choice selection of posts and resources that I've found helpful for understanding the context of Liquid Glass, as well as techniques for recreating it in code.\nGetting Clarity on Apple’s Liquid Glass originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/getting-clarity-on-apples-liquid-glass/",
+          "publishedOn": "2025-07-17T13:23:52.000Z",
+          "wordCount": 3442,
+          "title": "Getting Clarity on Apple’s Liquid Glass",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/07/liquid-glass-still.png"
+        },
+        {
           "id": "https://css-tricks.com/?p=387980",
           "author": "Sunkanmi Fafowora",
           "description": "State of Devs 2025 survey results are out! Sunkanmi Fafowora highlights a few key results about diversity, health, and salaries.\nWhat I Took From the State of Dev 2025 Survey originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -150,16 +160,6 @@
           "wordCount": 6720,
           "title": "CSS Color Functions",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/06/color-functions-guide.webp"
-        },
-        {
-          "id": "https://css-tricks.com/?p=387159",
-          "author": "Sacha Greif",
-          "description": "How do you stay informed of new CSS features when the language evolves quickly and information is spread all around the web? Sacha Greif has some tips from his work running an annual survey focused on new CSS features.\nHow to Keep Up With New CSS Features originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/how-to-keep-up-with-new-css-features/",
-          "publishedOn": "2025-06-17T13:13:15.000Z",
-          "wordCount": 3010,
-          "title": "How to Keep Up With New CSS Features",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2022/11/education-brackets.jpg"
         }
       ]
     },
@@ -355,6 +355,26 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "687964f6562b6ce291fda4e2",
+          "author": "Ajay Kalal",
+          "description": "Dropdown menus are little pop-up menus that help you show more options without cluttering your screen. They’re super helpful in websites and apps. In this guide, you’ll learn how to build a dropdown menu using shadcn/ui. It’s a tool that works well w...",
+          "link": "https://www.freecodecamp.org/news/shadcn-ui-dropdown-menu/",
+          "publishedOn": "2025-07-17T21:02:46.000Z",
+          "wordCount": 1732,
+          "title": "How to Make a Dropdown Menu with shadcn/ui",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1752786132476/fef60fd2-ad5e-4f9d-9dcf-de4b99adac99.png"
+        },
+        {
+          "id": "687903d3ccb68881821f3a68",
+          "author": "Manish Shivanandhan",
+          "description": "When you talk to an AI assistant, it can feel like it remembers what you said before. But large language models (LLMs) don’t actually have memory on their own. They don’t remember conversations unless that information is given to them again. So, how ...",
+          "link": "https://www.freecodecamp.org/news/how-ai-agents-remember-things-vector-stores-in-llm-memory/",
+          "publishedOn": "2025-07-17T14:08:19.000Z",
+          "wordCount": 2563,
+          "title": "How AI Agents Remember Things: The Role of Vector Stores in LLM Memory",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1747753163050/26574896-6da9-4a30-af4f-1d0b7f38f43b.png"
+        },
         {
           "id": "68781860a9407a5fe14ed384",
           "author": "Udemezue John",
@@ -954,36 +974,6 @@
           "wordCount": 13722,
           "title": "The Data Communication and Networking Handbook",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1750178451091/adea6449-2daf-405b-80f0-e23a356fa45b.png"
-        },
-        {
-          "id": "6851d017416010d301ffa732",
-          "author": "Timothy Olanrewaju",
-          "description": "Modern chat applications are increasingly incorporating voice input capabilities because they offer a more engaging and versatile user experience. This also improves accessibility, allowing users with different needs to interact more comfortably with...",
-          "link": "https://www.freecodecamp.org/news/build-a-conversational-ai-chatbot-with-stream-chat-and-react/",
-          "publishedOn": "2025-06-17T20:29:11.000Z",
-          "wordCount": 3682,
-          "title": "How to Build a Conversational AI Chatbot with Stream Chat and React",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1750192110424/b23653af-c2de-4631-973f-dcac3c0bdb41.png"
-        },
-        {
-          "id": "6851b75a6fd83aa331a8943b",
-          "author": "Han Qi",
-          "description": "In an age of information overload, AI assistance, and rapid technological change, the ability to think clearly and reason soundly has never been more valuable. This handbook takes you on a journey from fundamental logical principles to their practica...",
-          "link": "https://www.freecodecamp.org/news/the-logic-philosophy-and-science-of-software-testing-handbook-for-developers/",
-          "publishedOn": "2025-06-17T18:43:38.000Z",
-          "wordCount": 15671,
-          "title": "The Logic, Philosophy, and Science of Software Testing – A Handbook for Developers",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1750176539544/965a99ef-8aad-467c-ae6b-4a144e2d1117.png"
-        },
-        {
-          "id": "685162a7b5948514b5ab9308",
-          "author": "Beau Carnes",
-          "description": "Are you ready to transform your career and become a data-driven decision maker? We’re excited to announce that freeCodeCamp.org has just published a comprehensive Google Cloud Data Analytics course on our YouTube channel. The course was developed by ...",
-          "link": "https://www.freecodecamp.org/news/beginners-guide-to-cloud-data-analytics/",
-          "publishedOn": "2025-06-17T12:42:15.000Z",
-          "wordCount": 1494,
-          "title": "Beginner’s Guide to Cloud Data Analytics",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1749071398844/dd78731e-80d1-4835-bc2b-cbec1ba9a9d3.png"
         }
       ]
     }
