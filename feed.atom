@@ -2,10 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-18T00:16:18.188Z</updated>
+    <updated>2025-07-19T00:16:00.595Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Getting Creative With Versal Letters]]></title>
+        <id>https://css-tricks.com/?p=387827</id>
+        <link href="https://css-tricks.com/getting-creative-with-versal-letters/"/>
+        <updated>2025-07-18T16:12:05.000Z</updated>
+        <summary type="html"><![CDATA[A versal letters is a typographic flourish found in illuminated manuscripts and traditional book design, where it adds visual interest and helps guide a reader’s eye to where they should begin.
+Getting Creative With Versal Letters originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Andy Clarke</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Deploy a Static Web App on AWS with Amplify, Lambda, API Gateway, & DynamoDB]]></title>
+        <id>687a511b69d126230571eb7e</id>
+        <link href="https://www.freecodecamp.org/news/how-to-deploy-a-static-web-app-on-aws-with-amplify-lambda-api-gateway-and-dynamodb/"/>
+        <updated>2025-07-18T13:50:19.000Z</updated>
+        <summary type="html"><![CDATA[Building modern web applications often involves complex setups and managing servers – but it doesn't have to be that way. Amazon Web Services (AWS) offers a powerful suite of "serverless" services that allow you to build and deploy applications witho...]]></summary>
+        <author>
+            <name>Raju Manoj</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Non-Native Content Designers Improve Global UX]]></title>
+        <id>https://smashingmagazine.com/2025/07/why-non-native-content-designers-improve-global-ux/</id>
+        <link href="https://smashingmagazine.com/2025/07/why-non-native-content-designers-improve-global-ux/"/>
+        <updated>2025-07-18T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Ensuring your product communicates clearly to a global audience is not just about localisation. Even for products that have a proper localisation process, English often remains the default language for UI and communications. This article focuses on how you can make English content clear and inclusive for non-native users. Oleksii offers a practical guide based on his own experience as a non-native English-speaking content designer, defining the user experience for international companies.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Oleksii Tkachenko)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[We are truly in the Hackathon Era – Namanh Kapur interview [Podcast #180]]]></title>
+        <id>6879c6e2f39c57b0d7c0cc4f</id>
+        <link href="https://www.freecodecamp.org/news/we-are-truly-in-the-hackathon-era-namanh-kapur-interview-podcast-180/"/>
+        <updated>2025-07-18T04:00:34.000Z</updated>
+        <summary type="html"><![CDATA[On this week's episode of the podcast, freeCodeCamp founder Quincy Larson interviews Namanh Kapur. He's a senior software engineer at LinkedIn. He also creates YouTube videos to help devolopers with their careers.   We talk about: Tips for getting h...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Make a Dropdown Menu with shadcn/ui]]></title>
         <id>687964f6562b6ce291fda4e2</id>
@@ -879,36 +920,6 @@ CSS Color Functions originally published on CSS-Tricks, which is part of the Dig
         <summary type="html"><![CDATA[Have you ever dreamed of ordering a coffee in a Berlin café, navigating the Munich U-Bahn with ease, or simply connecting with German-speaking friends and family? Now you can take the first step towards that dream with a comprehensive and completely ...]]></summary>
         <author>
             <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Loops Work in PHP: A Complete Guide for Beginners]]></title>
-        <id>685338f9c57f030c11bb6ddb</id>
-        <link href="https://www.freecodecamp.org/news/how-loops-work-in-php-beginners-guide/"/>
-        <updated>2025-06-18T22:08:57.000Z</updated>
-        <summary type="html"><![CDATA[PHP loops help you repeat a block of code based on a condition. You can use them to work through arrays or repeat actions. You can also use them to skip steps based on logic. In this article, you will learn how PHP loops work and when to use each]]></summary>
-        <author>
-            <name>Montasser Mossallem</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Data Communication and Networking Handbook]]></title>
-        <id>6853059aed5a0659bcde37e5</id>
-        <link href="https://www.freecodecamp.org/news/the-data-communication-and-networking-handbook/"/>
-        <updated>2025-06-18T18:29:46.000Z</updated>
-        <summary type="html"><![CDATA[When I was beginning to learn about networks, I didn't know how many things in my daily life depended on them – from texting on WhatsApp to watching YouTube. I still vividly remember when I learned that computers communicate with one another. It was ...]]></summary>
-        <author>
-            <name>valentine Gatwiri</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meet Accessible UX Research, A Brand-New Smashing Book]]></title>
-        <id>https://smashingmagazine.com/2025/06/accessible-ux-research-pre-release/</id>
-        <link href="https://smashingmagazine.com/2025/06/accessible-ux-research-pre-release/"/>
-        <updated>2025-06-18T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Meet “Accessible UX Research,” our upcoming book to make your UX research inclusive. Learn how to recruit, plan, and design with disabled participants in mind. Print shipping in August 2025. eBook available for download later this summer. Pre-order the book.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
         </author>
     </entry>
 </feed>
