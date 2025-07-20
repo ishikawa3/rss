@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-19T00:16:00.595Z</updated>
+    <updated>2025-07-20T00:18:21.919Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Telehealth App Using Stream Video and Chat SDK in React]]></title>
+        <id>687ad06430967c1524c4663e</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-a-telehealth-app-using-stream-video-and-chat-sdk-in-react/"/>
+        <updated>2025-07-18T22:53:24.000Z</updated>
+        <summary type="html"><![CDATA[Remember when the COVID-19 pandemic moved everything online – doctor’s visits included – and staying home became the safest option?  That moment kicked off a massive shift in how healthcare gets delivered.  Telehealth became more than a workaround. I...]]></summary>
+        <author>
+            <name>Okoro Emmanuel Nzube</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Getting Creative With Versal Letters]]></title>
         <id>https://css-tricks.com/?p=387827</id>
@@ -841,6 +851,16 @@ A Better API for the Intersection and Mutation Observers originally published on
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Meet Accessible UX Research, A Brand-New Smashing Book]]></title>
+        <id>https://smashingmagazine.com/2025/06/accessible-ux-research-pre-release/</id>
+        <link href="https://smashingmagazine.com/2025/06/accessible-ux-research-pre-release/"/>
+        <updated>2025-06-20T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Meet “Accessible UX Research,” our upcoming book to make your UX research inclusive. Learn how to recruit, plan, and design with disabled participants in mind. Print shipping in August 2025. eBook available for download later this summer. Pre-order the book.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[How to Assign Dataverse Security Roles at Scale]]></title>
         <id>68557b4d4b011b57124c6b6b</id>
         <link href="https://www.freecodecamp.org/news/how-to-assign-dataverse-security-roles-at-scale/"/>
@@ -859,67 +879,6 @@ A Better API for the Intersection and Mutation Observers originally published on
 Color Everything in CSS originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Juan Diego Rodríguez</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[From Therapist to six figure freelance dev [Podcast #176]]]></title>
-        <id>6854f905b987232838464cd7</id>
-        <link href="https://www.freecodecamp.org/news/from-therapist-to-six-figure-freelance-dev-podcast-176/"/>
-        <updated>2025-06-20T06:00:37.000Z</updated>
-        <summary type="html"><![CDATA[On this week's episode of the podcast, freeCodeCamp founder Quincy Larson interviews Kelly Vaughn. She's a self-taught software engineer who ran her own developer agency. She was also the founding CTO at financial technology startup. Kelly runs the p...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Write Documentation That Increases Sign-ups]]></title>
-        <id>68542e3585d4833f32068976</id>
-        <link href="https://www.freecodecamp.org/news/how-to-write-documentation-that-increases-sign-ups/"/>
-        <updated>2025-06-19T15:35:17.000Z</updated>
-        <summary type="html"><![CDATA[Writing documentation looks easy, but it is one of the most critical parts of your customer support and growth strategy. Too often, teams treat it as an afterthought – just add a few code snippets and move on. But if you’re serious about product adop...]]></summary>
-        <author>
-            <name>Tooba Jamal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Write a PHP Script to Calculate the Area of a Triangle]]></title>
-        <id>68542db2cefef90e768ba1fe</id>
-        <link href="https://www.freecodecamp.org/news/use-php-to-calculate-the-area-of-a-triangle/"/>
-        <updated>2025-06-19T15:33:06.000Z</updated>
-        <summary type="html"><![CDATA[In programming, being able to find the area of a triangle is useful for many reasons. It can help you understand logic-building and syntax, and it’s a common programming problem used in school assignments. There are also many real-world applications,...]]></summary>
-        <author>
-            <name>AYUSH MISHRA</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSS Color Functions]]></title>
-        <id>https://css-tricks.com/?p=386735</id>
-        <link href="https://css-tricks.com/css-color-functions/"/>
-        <updated>2025-06-19T15:01:18.000Z</updated>
-        <summary type="html"><![CDATA[CSS has a number of functions that can be used to set, translate, and manipulate colors. Learn what they are and how they are used with a bunch of examples to get you started.
-CSS Color Functions originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Sunkanmi Fafowora</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSS Cascade Layers Vs. BEM Vs. Utility Classes: Specificity Control]]></title>
-        <id>https://smashingmagazine.com/2025/06/css-cascade-layers-bem-utility-classes-specificity-control/</id>
-        <link href="https://smashingmagazine.com/2025/06/css-cascade-layers-bem-utility-classes-specificity-control/"/>
-        <updated>2025-06-19T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[CSS can be unpredictable — and specificity is often the culprit. Victor Ayomipo breaks down how and why your styles might not behave as expected, and why understanding specificity is better than relying on `!important`.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Victor Ayomipo)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn to Speak German]]></title>
-        <id>6854097709e731dc6aff4cab</id>
-        <link href="https://www.freecodecamp.org/news/learn-to-speak-german/"/>
-        <updated>2025-06-19T12:58:31.000Z</updated>
-        <summary type="html"><![CDATA[Have you ever dreamed of ordering a coffee in a Berlin café, navigating the Munich U-Bahn with ease, or simply connecting with German-speaking friends and family? Now you can take the first step towards that dream with a comprehensive and completely ...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
         </author>
     </entry>
 </feed>
