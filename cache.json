@@ -150,16 +150,6 @@
           "wordCount": 3006,
           "title": "A Better API for the Intersection and Mutation Observers",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/04/code-mutation-observer.jpg"
-        },
-        {
-          "id": "https://css-tricks.com/?p=386925",
-          "author": "Juan Diego Rodríguez",
-          "description": "An introduction to \"Color spaces\", \"Color models\", \"Color gamuts,\" and basically all of the \"Color somethings\" in CSS.\nColor Everything in CSS originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/color-everything-in-css/",
-          "publishedOn": "2025-06-20T14:04:12.000Z",
-          "wordCount": 3882,
-          "title": "Color Everything in CSS",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2018/03/color-wheels.jpg"
         }
       ]
     },
@@ -332,21 +322,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/decoding-svg-path-element-curve-arc-commands/decoding-svg-path-element-curve-arc-commands.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2025/06/accessible-ux-research-pre-release/",
-          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
-          "description": "Meet “Accessible UX Research,” our upcoming book to make your UX research inclusive. Learn how to recruit, plan, and design with disabled participants in mind. Print shipping in August 2025. eBook available for download later this summer. Pre-order the book.",
-          "link": "https://smashingmagazine.com/2025/06/accessible-ux-research-pre-release/",
-          "publishedOn": "2025-06-20T16:00:00.000Z",
-          "wordCount": 3972,
-          "title": "Meet Accessible UX Research, A Brand-New Smashing Book",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/accessible-ux-research-pre-release/accessible-ux-research-coming-soon-light-varnish-opt.png",
-            "length": "0",
-            "type": "image/png"
-          },
-          "imageUrl": "http://files.smashing.media/articles/accessible-ux-research-pre-release/accessible-ux-research-coming-soon-light-varnish-opt.png"
         }
       ]
     },
@@ -894,56 +869,6 @@
           "wordCount": 6393,
           "title": "How to Implement a Service Worker with WorkBox in a Progressive Web App",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1750687028879/b12e57cb-290a-4562-8584-95eb5713a871.png"
-        },
-        {
-          "id": "685595d957b6666dfb68743f",
-          "author": "Manish Shivanandhan",
-          "description": "If you run a website or web app, you’ve probably heard about firewalls. But there’s a special kind just for websites called a Web Application Firewall, or WAF.  Think of it like a bouncer at the door of your site, checking every visitor to make sure ...",
-          "link": "https://www.freecodecamp.org/news/how-to-choose-a-web-application-firewall-for-web-security/",
-          "publishedOn": "2025-06-20T17:09:45.000Z",
-          "wordCount": 2047,
-          "title": "How to Choose a Web Application Firewall for Web Security",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1750439345651/1a6db323-b71f-4d0c-beb9-07833b838800.png"
-        },
-        {
-          "id": "685595022e5abc4d8aad787e",
-          "author": "Manish Shivanandhan",
-          "description": "Motion graphics are no longer just eye candy. They have become a key part of how users experience software, whether it’s a mobile app, a website, or even for making animated explainer videos.  When users tap a button, they expect it to respond smooth...",
-          "link": "https://www.freecodecamp.org/news/powerful-motion-graphics-frameworks-for-developers/",
-          "publishedOn": "2025-06-20T17:06:10.000Z",
-          "wordCount": 2196,
-          "title": "Powerful Motion Graphics Frameworks for Developers",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1750439122439/489ef402-89db-47b5-a392-4c0fdcd94d0a.png"
-        },
-        {
-          "id": "685594775aea0dba325c37e8",
-          "author": "Oluchi Nwenyi",
-          "description": "One of the most common questions I’m asked is, “how can I get started in technical writing?” And honestly, I love that question because it means more people are beginning to see writing as a valid, valuable way to enter the tech industry. Begin with ...",
-          "link": "https://www.freecodecamp.org/news/start-a-career-in-technical-writing-through-open-source/",
-          "publishedOn": "2025-06-20T17:03:51.000Z",
-          "wordCount": 3488,
-          "title": "How to Start a Career in Technical Writing by Contributing to Open Source",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1750439011343/ed2c5552-b132-4edd-8d31-5080daac5aff.png"
-        },
-        {
-          "id": "685594145aea0dba325c37e1",
-          "author": "Fatuma Abdullahi",
-          "description": "In this guide, you'll build a full server-side rendered (SSR) authentication system using Astro, Supabase, and Cloudflare Turnstile to protect against bots. By the end, you'll have a fully functional authentication system with Astro actions, magic li...",
-          "link": "https://www.freecodecamp.org/news/build-secure-ssr-authentication-with-supabase-astro-and-cloudflare-turnstile/",
-          "publishedOn": "2025-06-20T17:02:12.000Z",
-          "wordCount": 3432,
-          "title": "How to Build Secure SSR Authentication with Supabase, Astro, and Cloudflare Turnstile",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1750438909287/d36c0c01-e779-4eea-aa41-b797fcbb05f6.png"
-        },
-        {
-          "id": "68557b4d4b011b57124c6b6b",
-          "author": "Brandon Wozniewicz",
-          "description": "Assigning Dataverse security roles manually works pretty well – until it doesn't. Whether you are onboarding 50 new hires or rolling out access to a new app, managing roles by hand can be tedious and error-prone. In this article, you will learn about...",
-          "link": "https://www.freecodecamp.org/news/how-to-assign-dataverse-security-roles-at-scale/",
-          "publishedOn": "2025-06-20T15:16:29.000Z",
-          "wordCount": 1685,
-          "title": "How to Assign Dataverse Security Roles at Scale",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1750432574148/b3cfaebe-7566-4795-b00e-5da9d65dd8f4.png"
         }
       ]
     }

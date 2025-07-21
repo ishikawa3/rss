@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-20T00:18:21.919Z</updated>
+    <updated>2025-07-21T00:17:41.477Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
@@ -808,77 +808,6 @@ A Better API for the Intersection and Mutation Observers originally published on
         <summary type="html"><![CDATA[On her quest to teach you how to code vectors by hand, Myriam Frisano’s second installment of a `path` deep dive explores the most complex aspects of SVG’s most powerful element. She’ll help you understand the underlying rules and function of how curves and arcs are constructed. By the end of it, your toolkit is ready to tackle all types of tasks required to draw with code — even if some of the lines twist and turn.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Myriam Frisano)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Choose a Web Application Firewall for Web Security]]></title>
-        <id>685595d957b6666dfb68743f</id>
-        <link href="https://www.freecodecamp.org/news/how-to-choose-a-web-application-firewall-for-web-security/"/>
-        <updated>2025-06-20T17:09:45.000Z</updated>
-        <summary type="html"><![CDATA[If you run a website or web app, you’ve probably heard about firewalls. But there’s a special kind just for websites called a Web Application Firewall, or WAF.  Think of it like a bouncer at the door of your site, checking every visitor to make sure ...]]></summary>
-        <author>
-            <name>Manish Shivanandhan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Powerful Motion Graphics Frameworks for Developers]]></title>
-        <id>685595022e5abc4d8aad787e</id>
-        <link href="https://www.freecodecamp.org/news/powerful-motion-graphics-frameworks-for-developers/"/>
-        <updated>2025-06-20T17:06:10.000Z</updated>
-        <summary type="html"><![CDATA[Motion graphics are no longer just eye candy. They have become a key part of how users experience software, whether it’s a mobile app, a website, or even for making animated explainer videos.  When users tap a button, they expect it to respond smooth...]]></summary>
-        <author>
-            <name>Manish Shivanandhan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Start a Career in Technical Writing by Contributing to Open Source]]></title>
-        <id>685594775aea0dba325c37e8</id>
-        <link href="https://www.freecodecamp.org/news/start-a-career-in-technical-writing-through-open-source/"/>
-        <updated>2025-06-20T17:03:51.000Z</updated>
-        <summary type="html"><![CDATA[One of the most common questions I’m asked is, “how can I get started in technical writing?” And honestly, I love that question because it means more people are beginning to see writing as a valid, valuable way to enter the tech industry. Begin with ...]]></summary>
-        <author>
-            <name>Oluchi Nwenyi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build Secure SSR Authentication with Supabase, Astro, and Cloudflare Turnstile]]></title>
-        <id>685594145aea0dba325c37e1</id>
-        <link href="https://www.freecodecamp.org/news/build-secure-ssr-authentication-with-supabase-astro-and-cloudflare-turnstile/"/>
-        <updated>2025-06-20T17:02:12.000Z</updated>
-        <summary type="html"><![CDATA[In this guide, you'll build a full server-side rendered (SSR) authentication system using Astro, Supabase, and Cloudflare Turnstile to protect against bots. By the end, you'll have a fully functional authentication system with Astro actions, magic li...]]></summary>
-        <author>
-            <name>Fatuma Abdullahi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meet Accessible UX Research, A Brand-New Smashing Book]]></title>
-        <id>https://smashingmagazine.com/2025/06/accessible-ux-research-pre-release/</id>
-        <link href="https://smashingmagazine.com/2025/06/accessible-ux-research-pre-release/"/>
-        <updated>2025-06-20T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Meet “Accessible UX Research,” our upcoming book to make your UX research inclusive. Learn how to recruit, plan, and design with disabled participants in mind. Print shipping in August 2025. eBook available for download later this summer. Pre-order the book.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Assign Dataverse Security Roles at Scale]]></title>
-        <id>68557b4d4b011b57124c6b6b</id>
-        <link href="https://www.freecodecamp.org/news/how-to-assign-dataverse-security-roles-at-scale/"/>
-        <updated>2025-06-20T15:16:29.000Z</updated>
-        <summary type="html"><![CDATA[Assigning Dataverse security roles manually works pretty well – until it doesn't. Whether you are onboarding 50 new hires or rolling out access to a new app, managing roles by hand can be tedious and error-prone. In this article, you will learn about...]]></summary>
-        <author>
-            <name>Brandon Wozniewicz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Color Everything in CSS]]></title>
-        <id>https://css-tricks.com/?p=386925</id>
-        <link href="https://css-tricks.com/color-everything-in-css/"/>
-        <updated>2025-06-20T14:04:12.000Z</updated>
-        <summary type="html"><![CDATA[An introduction to "Color spaces", "Color models", "Color gamuts," and basically all of the "Color somethings" in CSS.
-Color Everything in CSS originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Juan Diego Rodríguez</name>
         </author>
     </entry>
 </feed>
