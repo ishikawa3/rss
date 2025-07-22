@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=387082",
+          "author": "Zell Liew",
+          "description": "Focus trapping is about managing focus within an element, such that focus always stays within it. The whole process sounds simple in theory, but it can quite difficult to build in practice, mostly because of the numerous parts to you got to manage.\nA Primer on Focus Trapping originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/a-primer-on-focus-trapping/",
+          "publishedOn": "2025-07-21T13:14:17.000Z",
+          "wordCount": 2750,
+          "title": "A Primer on Focus Trapping",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/04/tab-key.png"
+        },
+        {
           "id": "https://css-tricks.com/?p=387827",
           "author": "Andy Clarke",
           "description": "A versal letters is a typographic flourish found in illuminated manuscripts and traditional book design, where it adds visual interest and helps guide a reader’s eye to where they should begin.\nGetting Creative With Versal Letters originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -158,6 +168,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2025/07/handling-javascript-event-listeners-parameters/",
+          "author": "hello@smashingmagazine.com (Amejimaobari Ollornwi)",
+          "description": "Event listeners are essential for interactivity in JavaScript, but they can quietly cause memory leaks if not removed properly. And what if your event listener needs parameters? That’s where things get interesting. Amejimaobari Ollornwi shares which JavaScript features make handling parameters with event handlers both possible and well-supported.",
+          "link": "https://smashingmagazine.com/2025/07/handling-javascript-event-listeners-parameters/",
+          "publishedOn": "2025-07-21T10:00:00.000Z",
+          "wordCount": 3626,
+          "title": "Handling JavaScript Event Listeners With Parameters",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/handling-javascript-event-listeners-parameters/handling-javascript-event-listeners-parameters.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/handling-javascript-event-listeners-parameters/handling-javascript-event-listeners-parameters.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2025/07/why-non-native-content-designers-improve-global-ux/",
           "author": "hello@smashingmagazine.com (Oleksii Tkachenko)",
@@ -330,6 +355,16 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "687e45310fc9d9c1bc2da5f7",
+          "author": "Ophy Boamah",
+          "description": "Accordion menus are everywhere on the web because users want fast answers and smooth navigation. They help create clean, organized, and user-friendly interfaces. Many developers still reach for JavaScript to build accordions, which adds avoidable com...",
+          "link": "https://www.freecodecamp.org/news/how-to-build-simpler-accordion-menus-with-html-details/",
+          "publishedOn": "2025-07-21T13:48:33.000Z",
+          "wordCount": 2055,
+          "title": "How to Build Simpler Accordion Menus with HTML <details>",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1753119637759/0fb5302d-c21c-4c0d-affb-3f891261aabf.png"
+        },
         {
           "id": "687ad06430967c1524c4663e",
           "author": "Okoro Emmanuel Nzube",
