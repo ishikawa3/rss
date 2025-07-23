@@ -332,21 +332,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/can-good-ux-protect-older-users-digital-scams/can-good-ux-protect-older-users-digital-scams.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2025/06/decoding-svg-path-element-curve-arc-commands/",
-          "author": "hello@smashingmagazine.com (Myriam Frisano)",
-          "description": "On her quest to teach you how to code vectors by hand, Myriam Frisano’s second installment of a `path` deep dive explores the most complex aspects of SVG’s most powerful element. She’ll help you understand the underlying rules and function of how curves and arcs are constructed. By the end of it, your toolkit is ready to tackle all types of tasks required to draw with code — even if some of the lines twist and turn.",
-          "link": "https://smashingmagazine.com/2025/06/decoding-svg-path-element-curve-arc-commands/",
-          "publishedOn": "2025-06-23T10:00:00.000Z",
-          "wordCount": 5343,
-          "title": "Decoding The SVG <code>path</code> Element: Curve And Arc Commands",
-          "enclosure": {
-            "url": "http://files.smashing.media/decoding-svg-path-element-curve-arc-commands/decoding-svg-path-element-curve-arc-commands.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/decoding-svg-path-element-curve-arc-commands/decoding-svg-path-element-curve-arc-commands.jpg"
         }
       ]
     },
@@ -355,6 +340,66 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "687fd1a603524e3b4e7b77fe",
+          "author": "Sravan Karuturi",
+          "description": "What is the Problem We’re Solving? For many app developers, including me, writing the networking layer of an application is a familiar and tedious process. You write and test your first call and after that, it involves a repetitive cycle of tasks. Th...",
+          "link": "https://www.freecodecamp.org/news/how-to-build-robust-networking-layers-in-swift-with-openapi/",
+          "publishedOn": "2025-07-22T18:00:06.000Z",
+          "wordCount": 4470,
+          "title": "How to Build Robust Networking Layers in Swift with OpenAPI",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1753206547489/dce9a849-1ccd-4cb0-bca8-f879a5aadf5f.png"
+        },
+        {
+          "id": "687fca00b102539f23984a03",
+          "author": "Manish Shivanandhan",
+          "description": "If you’ve ever stared at a dozen hosting plans, not sure which one to choose, you’re not alone. Hosting isn’t one-size-fits-all, and knowing the difference between a VPS (Virtual Private Server) and a PaaS (Platform as a Service) can help you pick so...",
+          "link": "https://www.freecodecamp.org/news/vps-vs-paas-how-to-choose-a-hosting-solution/",
+          "publishedOn": "2025-07-22T17:27:28.000Z",
+          "wordCount": 2417,
+          "title": "VPS vs PaaS: How to Choose a Hosting Solution",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1753205132683/65ed718f-a68e-4e31-8db3-cf9265e50817.png"
+        },
+        {
+          "id": "687fc93c8ff83d5b41883c1e",
+          "author": "AYUSH MISHRA",
+          "description": "Built-in functions in C++ are those functions that are part of the C++ standard libraries. These functions are designed to provide common and essential functionality that is often required in programming. In this article, we will look at some of the ...",
+          "link": "https://www.freecodecamp.org/news/helpful-built-in-functions-in-cpp/",
+          "publishedOn": "2025-07-22T17:24:12.000Z",
+          "wordCount": 2678,
+          "title": "Helpful Built-in Functions in C++ that All Devs Should Know",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1753105870543/7bdb3c7e-873b-46a2-bdbd-0d881aacedfc.png"
+        },
+        {
+          "id": "687fa4c693f63bc290c6ada1",
+          "author": "Beau Carnes",
+          "description": "To get the best tech jobs, it can be helpful to understand how to apply data structures and algorithms to coding challenges. We just published a comprehensive course on the freeCodeCamp.org channel about data structures and algorithms. This course wi...",
+          "link": "https://www.freecodecamp.org/news/data-structure-and-algorithm-patterns-for-leetcode-interviews/",
+          "publishedOn": "2025-07-22T14:48:38.000Z",
+          "wordCount": 1050,
+          "title": "Data Structure and Algorithm Patterns for LeetCode Interviews",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1753195703148/03e55da6-8391-4f8a-9493-036abd0518d9.png"
+        },
+        {
+          "id": "687fa39006c79bf6e197691e",
+          "author": "Beau Carnes",
+          "description": "Visual Geometry Group (VGG) is one of the most influential convolutional neural networks in computer vision. It is a deep convolutional neural network architecture known for its simple, uniform use of small 3x3 filters stacked in sequence, enabling p...",
+          "link": "https://www.freecodecamp.org/news/implement-vgg-from-scratch-with-pytorch-deep-learning-theory/",
+          "publishedOn": "2025-07-22T14:43:28.000Z",
+          "wordCount": 1296,
+          "title": "Implement VGG From Scratch with PyTorch – Deep Learning Theory",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1752070387836/e75fb9bb-8230-424a-a87e-9cbad06fad79.jpeg"
+        },
+        {
+          "id": "687ecc61edf675fee8ff0271",
+          "author": "Augustine Alul",
+          "description": "The Java programming language is a favourite among solo devs and large teams alike. It’s popular for many reasons and use cases, including its mature ecosystem, stable support, efficiency, and reliability. If you’re learning Java with the end goal of...",
+          "link": "https://www.freecodecamp.org/news/spring-vs-spring-boot-choosing-a-java-framework/",
+          "publishedOn": "2025-07-21T23:25:21.000Z",
+          "wordCount": 4149,
+          "title": "Spring vs Spring Boot: How to Choose the Right Java Framework",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1753140286088/7294bd87-8940-450f-aa05-cef68a1c2604.png"
+        },
         {
           "id": "687e45310fc9d9c1bc2da5f7",
           "author": "Ophy Boamah",
