@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=387925",
+          "author": "Daniel Schwarz",
+          "description": "Chrome 139 is experimenting with Open UI’s proposed Interest Invoker API, which would be used to create tooltips, hover menus, hover cards, quick actions, and other types of UIs for showing more information with hover interactions.\nA First Look at the Interest Invoker API (for Hover-Triggered Popovers) originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/a-first-look-at-the-interest-invoker-api-for-hover-triggered-popovers/",
+          "publishedOn": "2025-07-23T12:36:48.000Z",
+          "wordCount": 3151,
+          "title": "A First Look at the Interest Invoker API (for Hover-Triggered Popovers)",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2021/03/long-hover-icon-tooltip-cursor.jpg"
+        },
+        {
           "id": "https://css-tricks.com/?p=387082",
           "author": "Zell Liew",
           "description": "Focus trapping is about managing focus within an element, such that focus always stays within it. The whole process sounds simple in theory, but it can quite difficult to build in practice, mostly because of the numerous parts to you got to manage.\nA Primer on Focus Trapping originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -150,16 +160,6 @@
           "wordCount": 3089,
           "title": "Lightly Poking at the CSS if() Function in Chrome 137",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2024/07/if-conditional-thumbnail.jpg"
-        },
-        {
-          "id": "https://css-tricks.com/?p=386344",
-          "author": "Zell Liew",
-          "description": "Zell discusses refactoring the Resize, Mutation, and Intersection Observer APIs for easier usage, demonstrating how to implement callback and event listener patterns, while highlighting available options and methods.\nA Better API for the Intersection and Mutation Observers originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/a-better-api-for-the-intersection-and-mutation-observers/",
-          "publishedOn": "2025-06-23T13:41:34.000Z",
-          "wordCount": 3006,
-          "title": "A Better API for the Intersection and Mutation Observers",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/04/code-mutation-observer.jpg"
         }
       ]
     },
@@ -340,6 +340,36 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "688151d98401037e348f65cd",
+          "author": "Spruce Emmanuel",
+          "description": "“AI is not going to take your job – but a developer who knows how to use AI will.” I’ve seen this statement everywhere, and it’s the only one about AI taking our jobs that I totally agree with. Software development has changed. It’s not what it used ...",
+          "link": "https://www.freecodecamp.org/news/how-to-use-ai-effectively-in-your-dev-projects/",
+          "publishedOn": "2025-07-23T21:19:21.000Z",
+          "wordCount": 2648,
+          "title": "How to Use AI Effectively in Your Dev Projects",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1753305511556/b5973363-1964-4abf-a29b-cf60668b33da.png"
+        },
+        {
+          "id": "68813c7579e092b166d373b6",
+          "author": "Aditya Vikram Kashyap",
+          "description": "Let me guess: you’re learning to code…alone. You’ve been grinding through tutorials. You've built a portfolio site, maybe deployed a few projects on GitHub. And now you're trying to land a job or join a team. Then the interviews start. Suddenly, peop...",
+          "link": "https://www.freecodecamp.org/news/a-beginner-developers-guide-to-scrum/",
+          "publishedOn": "2025-07-23T19:48:05.000Z",
+          "wordCount": 4138,
+          "title": "A Beginner Developer's Guide to Scrum",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1753300058064/7046dd6c-1d9e-4f06-9ca1-65b3bb7eec83.png"
+        },
+        {
+          "id": "6880e81ad62d993a14cbbfa0",
+          "author": "Beau Carnes",
+          "description": "TypeScript is a powerful, statically-typed superset of JavaScript that helps you write safer and more maintainable code. We just posted a course on the freeCodeCamp.org YouTube channel that will help you master the essentials of TypeScript. In just o...",
+          "link": "https://www.freecodecamp.org/news/learn-typescript-in-1-hour/",
+          "publishedOn": "2025-07-23T13:48:10.000Z",
+          "wordCount": 1117,
+          "title": "Learn TypeScript in 1 Hour",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1753277448558/bdf2acef-f5cd-4be7-9e34-eaaedf060c32.png"
+        },
         {
           "id": "687fd1a603524e3b4e7b77fe",
           "author": "Sravan Karuturi",
@@ -919,36 +949,6 @@
           "wordCount": 1295,
           "title": "Build and Deploy a Calendly Clone with Google Calendar Integration",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1750771142491/e627c758-7d1c-48ea-b0b7-1449300662eb.png"
-        },
-        {
-          "id": "6859c55cad0bcef0be044476",
-          "author": "Soham Banerjee",
-          "description": "Have you ever wondered how your fridge knows when to cool, or how a coffee machine knows when to stop pouring? Behind the scenes, these devices are powered by embedded systems – small, dedicated computers designed to perform specific tasks reliably a...",
-          "link": "https://www.freecodecamp.org/news/learn-embedded-systems-firmware-basics-handbook-for-devs/",
-          "publishedOn": "2025-06-23T21:21:32.000Z",
-          "wordCount": 7220,
-          "title": "Learn Embedded Systems Firmware Basics – A Handbook for Developers",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1750701027343/86918e8c-4348-4845-b048-6203ae0fcb38.png"
-        },
-        {
-          "id": "68598f7c91eb0b11714a7c62",
-          "author": "Destiny Erhabor",
-          "description": "Kubernetes networking is one of the most critical and complex parts of running containerized workloads in production. This tutorial will walk you through both the theory as well as some hands-on examples and best practices for mastering Kubernetes ne...",
-          "link": "https://www.freecodecamp.org/news/kubernetes-networking-tutorial-for-developers/",
-          "publishedOn": "2025-06-23T17:31:40.000Z",
-          "wordCount": 5336,
-          "title": "Kubernetes Networking Tutorial: A Guide for Developers",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1750697209688/e55bb451-1278-4004-ae3d-fd8bdbae47da.png"
-        },
-        {
-          "id": "68595d64f486735784954566",
-          "author": "Damilola Oniyide",
-          "description": "Imagine having a web app that looks and feels just like a native mobile app. It launches from your home screen, runs in full-screen mode, and responds smoothly to your interactions. But here’s the surprising part: it wasn’t downloaded from an app sto...",
-          "link": "https://www.freecodecamp.org/news/implement-a-service-worker-with-workbox-in-a-pwa/",
-          "publishedOn": "2025-06-23T13:57:56.000Z",
-          "wordCount": 6393,
-          "title": "How to Implement a Service Worker with WorkBox in a Progressive Web App",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1750687028879/b12e57cb-290a-4562-8584-95eb5713a871.png"
         }
       ]
     }

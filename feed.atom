@@ -2,10 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-23T00:16:48.107Z</updated>
+    <updated>2025-07-24T00:16:31.847Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Use AI Effectively in Your Dev Projects]]></title>
+        <id>688151d98401037e348f65cd</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-ai-effectively-in-your-dev-projects/"/>
+        <updated>2025-07-23T21:19:21.000Z</updated>
+        <summary type="html"><![CDATA[“AI is not going to take your job – but a developer who knows how to use AI will.” I’ve seen this statement everywhere, and it’s the only one about AI taking our jobs that I totally agree with. Software development has changed. It’s not what it used ...]]></summary>
+        <author>
+            <name>Spruce Emmanuel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Beginner Developer's Guide to Scrum]]></title>
+        <id>68813c7579e092b166d373b6</id>
+        <link href="https://www.freecodecamp.org/news/a-beginner-developers-guide-to-scrum/"/>
+        <updated>2025-07-23T19:48:05.000Z</updated>
+        <summary type="html"><![CDATA[Let me guess: you’re learning to code…alone. You’ve been grinding through tutorials. You've built a portfolio site, maybe deployed a few projects on GitHub. And now you're trying to land a job or join a team. Then the interviews start. Suddenly, peop...]]></summary>
+        <author>
+            <name>Aditya Vikram Kashyap</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn TypeScript in 1 Hour]]></title>
+        <id>6880e81ad62d993a14cbbfa0</id>
+        <link href="https://www.freecodecamp.org/news/learn-typescript-in-1-hour/"/>
+        <updated>2025-07-23T13:48:10.000Z</updated>
+        <summary type="html"><![CDATA[TypeScript is a powerful, statically-typed superset of JavaScript that helps you write safer and more maintainable code. We just posted a course on the freeCodeCamp.org YouTube channel that will help you master the essentials of TypeScript. In just o...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A First Look at the Interest Invoker API (for Hover-Triggered Popovers)]]></title>
+        <id>https://css-tricks.com/?p=387925</id>
+        <link href="https://css-tricks.com/a-first-look-at-the-interest-invoker-api-for-hover-triggered-popovers/"/>
+        <updated>2025-07-23T12:36:48.000Z</updated>
+        <summary type="html"><![CDATA[Chrome 139 is experimenting with Open UI’s proposed Interest Invoker API, which would be used to create tooltips, hover menus, hover cards, quick actions, and other types of UIs for showing more information with hover interactions.
+A First Look at the Interest Invoker API (for Hover-Triggered Popovers) originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Daniel Schwarz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Build Robust Networking Layers in Swift with OpenAPI]]></title>
         <id>687fd1a603524e3b4e7b77fe</id>
@@ -848,47 +889,6 @@ Lightly Poking at the CSS if() Function in Chrome 137 originally published on CS
         <summary type="html"><![CDATA[If you've ever found yourself drowning in back-and-forth scheduling emails or confused by time zone mix-ups, you’ve probably used (or wished for) a tool like Calendly. Now you can learn how to build your own version from scratch. This course is perfe...]]></summary>
         <author>
             <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn Embedded Systems Firmware Basics – A Handbook for Developers]]></title>
-        <id>6859c55cad0bcef0be044476</id>
-        <link href="https://www.freecodecamp.org/news/learn-embedded-systems-firmware-basics-handbook-for-devs/"/>
-        <updated>2025-06-23T21:21:32.000Z</updated>
-        <summary type="html"><![CDATA[Have you ever wondered how your fridge knows when to cool, or how a coffee machine knows when to stop pouring? Behind the scenes, these devices are powered by embedded systems – small, dedicated computers designed to perform specific tasks reliably a...]]></summary>
-        <author>
-            <name>Soham Banerjee</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kubernetes Networking Tutorial: A Guide for Developers]]></title>
-        <id>68598f7c91eb0b11714a7c62</id>
-        <link href="https://www.freecodecamp.org/news/kubernetes-networking-tutorial-for-developers/"/>
-        <updated>2025-06-23T17:31:40.000Z</updated>
-        <summary type="html"><![CDATA[Kubernetes networking is one of the most critical and complex parts of running containerized workloads in production. This tutorial will walk you through both the theory as well as some hands-on examples and best practices for mastering Kubernetes ne...]]></summary>
-        <author>
-            <name>Destiny Erhabor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Implement a Service Worker with WorkBox in a Progressive Web App]]></title>
-        <id>68595d64f486735784954566</id>
-        <link href="https://www.freecodecamp.org/news/implement-a-service-worker-with-workbox-in-a-pwa/"/>
-        <updated>2025-06-23T13:57:56.000Z</updated>
-        <summary type="html"><![CDATA[Imagine having a web app that looks and feels just like a native mobile app. It launches from your home screen, runs in full-screen mode, and responds smoothly to your interactions. But here’s the surprising part: it wasn’t downloaded from an app sto...]]></summary>
-        <author>
-            <name>Damilola Oniyide</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Better API for the Intersection and Mutation Observers]]></title>
-        <id>https://css-tricks.com/?p=386344</id>
-        <link href="https://css-tricks.com/a-better-api-for-the-intersection-and-mutation-observers/"/>
-        <updated>2025-06-23T13:41:34.000Z</updated>
-        <summary type="html"><![CDATA[Zell discusses refactoring the Resize, Mutation, and Intersection Observer APIs for easier usage, demonstrating how to implement callback and event listener patterns, while highlighting available options and methods.
-A Better API for the Intersection and Mutation Observers originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Zell Liew</name>
         </author>
     </entry>
 </feed>
