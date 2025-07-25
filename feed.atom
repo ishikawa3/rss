@@ -2,10 +2,52 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-24T00:16:31.847Z</updated>
+    <updated>2025-07-25T00:16:52.888Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[From Idea to Launch – The Ultimate Tool Stack for Indie Hackers]]></title>
+        <id>688271db426f0b23a6b69d43</id>
+        <link href="https://www.freecodecamp.org/news/ultimate-tool-stack-for-indie-hackers/"/>
+        <updated>2025-07-24T17:48:11.000Z</updated>
+        <summary type="html"><![CDATA[If you’re building something on your own, you don’t have time to mess around with bloated platforms or complicated setups.  You want tools that work, tools that feel intuitive, and tools that help you move quickly from idea to launch.  This article w...]]></summary>
+        <author>
+            <name>Manish Shivanandhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Integrate Firebase into Your Flutter Applications: A Handbook for Developers]]></title>
+        <id>688271806aa78fcca439436b</id>
+        <link href="https://www.freecodecamp.org/news/how-to-integrate-firebase-into-your-flutter-applications-a-handbook-for-developers/"/>
+        <updated>2025-07-24T17:46:40.000Z</updated>
+        <summary type="html"><![CDATA[In the world of software development, speed, scalability, and user experience are paramount. Flutter, with its expressive UI toolkit and native compilation, offers an unparalleled frontend experience, while Firebase, Google's robust Backend-as-a-Serv...]]></summary>
+        <author>
+            <name>Atuoha Anthony</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Atomic Design Certification Course]]></title>
+        <id>https://css-tricks.com/?p=388279</id>
+        <link href="https://css-tricks.com/atomic-design-certification-course/"/>
+        <updated>2025-07-24T16:16:30.000Z</updated>
+        <summary type="html"><![CDATA[Brad Frost introduced the “Atomic Design” concept wayyyy back in 2013. He even wrote a book on it. And we all took notice, because that term has been part of our lexicon ever since.
+It’s a nice way …
+Atomic Design Certification Course originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Beginner Developer's Guide to Kanban]]></title>
+        <id>68815e6054ad71fa4b3b7bb6</id>
+        <link href="https://www.freecodecamp.org/news/a-beginner-developers-guide-to-kanban/"/>
+        <updated>2025-07-23T22:12:48.000Z</updated>
+        <summary type="html"><![CDATA[First, a confession: When I was learning to code, my “workflow” was a mess. Sticky notes. Google Docs. Random Trello boards I never checked again. And a to-do list that somehow never got any shorter. Then I joined a real team. Suddenly, I was introdu...]]></summary>
+        <author>
+            <name>Aditya Vikram Kashyap</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Use AI Effectively in Your Dev Projects]]></title>
         <id>688151d98401037e348f65cd</id>
@@ -838,57 +880,6 @@ KelpUI originally published on CSS-Tricks, which is part of the DigitalOcean fam
 Poking at the CSS if() Function a Little More: Conditional Color Theming originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Daniel Schwarz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Can Good UX Protect Older Users From Digital Scams?]]></title>
-        <id>https://smashingmagazine.com/2025/06/can-good-ux-protect-older-users-digital-scams/</id>
-        <link href="https://smashingmagazine.com/2025/06/can-good-ux-protect-older-users-digital-scams/"/>
-        <updated>2025-06-25T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[As online scams become more sophisticated, Carrie Webster explores whether good UX can serve as a frontline defense, particularly for non-tech-savvy older users navigating today’s digital world.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Carrie Webster)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a LangGraph and Composio-Powered Discord Bot]]></title>
-        <id>685b12877dabc4d300e53706</id>
-        <link href="https://www.freecodecamp.org/news/build-a-langgraph-composio-powered-discord-bot/"/>
-        <updated>2025-06-24T21:03:03.000Z</updated>
-        <summary type="html"><![CDATA[With the rise of AI tools over the past couple years, most of us are learning how to use them in our projects. And in this article, I’ll teach you how to build a quick Discord bot with LangGraph and Composio. You’ll use LangGraph nodes to build a bra...]]></summary>
-        <author>
-            <name>Shrijal Acharya</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How I Landed 20+ Conference Talks – and How You Can, Too]]></title>
-        <id>685ae4b9a78289a7005020d4</id>
-        <link href="https://www.freecodecamp.org/news/how-i-landed-20-conference-talks-and-how-you-can-too/"/>
-        <updated>2025-06-24T17:47:37.000Z</updated>
-        <summary type="html"><![CDATA[I’ve never been the loudest person in the room. In fact, the first time I submitted a conference talk, I hovered over the submit button for nearly an hour. I was convinced someone else had more experience, a better résumé, or more impressive GitHub s...]]></summary>
-        <author>
-            <name>Rufai Mustapha</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lightly Poking at the CSS if() Function in Chrome 137]]></title>
-        <id>https://css-tricks.com/?p=387422</id>
-        <link href="https://css-tricks.com/lightly-poking-at-the-css-if-function-in-chrome-137/"/>
-        <updated>2025-06-24T15:17:10.000Z</updated>
-        <summary type="html"><![CDATA[The CSS if() function was recently implemented in Chrome 137, making it the first instance where we have it supported by a mainstream browser. Let's poke at it a bit at a very high level.
-Lightly Poking at the CSS if() Function in Chrome 137 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Sunkanmi Fafowora</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Build and Deploy a Calendly Clone with Google Calendar Integration]]></title>
-        <id>685aa5e088d03626e91ea17b</id>
-        <link href="https://www.freecodecamp.org/news/build-and-deploy-a-calendly-clone-with-google-calendar-integration/"/>
-        <updated>2025-06-24T13:19:28.000Z</updated>
-        <summary type="html"><![CDATA[If you've ever found yourself drowning in back-and-forth scheduling emails or confused by time zone mix-ups, you’ve probably used (or wished for) a tool like Calendly. Now you can learn how to build your own version from scratch. This course is perfe...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
         </author>
     </entry>
 </feed>
