@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=387862",
+          "author": "Lee Meyer",
+          "description": "Do we invent or discover CSS tricks? Lee Meyer discusses how creative limitations, recursive thinking, and unexpected combinations lead to his most interesting ideas.\nHow to Discover a CSS Trick originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/how-to-discover-a-css-trick/",
+          "publishedOn": "2025-07-25T13:48:36.000Z",
+          "wordCount": 3630,
+          "title": "How to Discover a CSS Trick",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/01/Untitled_Artwork-scaled.jpg"
+        },
+        {
           "id": "https://css-tricks.com/?p=388279",
           "author": "Geoff Graham",
           "description": "Brad Frost introduced the “Atomic Design” concept wayyyy back in 2013. He even wrote a book on it. And we all took notice, because that term has been part of our lexicon ever since.\nIt’s a nice way …\nAtomic Design Certification Course originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -150,16 +160,6 @@
           "wordCount": 2020,
           "title": "KelpUI",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/06/kelpui.webp"
-        },
-        {
-          "id": "https://css-tricks.com/?p=387215",
-          "author": "Daniel Schwarz",
-          "description": "The CSS if() function enables us to use values conditionally, which we can already do with queries and other functions, so I’m sure you’re wondering: What exactly does if() do? Let's look at a possible real-world use case.\nPoking at the CSS if() Function a Little More: Conditional Color Theming originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/poking-at-the-css-if-function-a-little-more-conditional-color-theming/",
-          "publishedOn": "2025-06-25T14:33:45.000Z",
-          "wordCount": 2961,
-          "title": "Poking at the CSS if() Function a Little More: Conditional Color Theming",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2024/07/if-conditional-thumbnail.jpg"
         }
       ]
     },
@@ -168,6 +168,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2025/07/designing-better-ux-left-handed-people/",
+          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
+          "description": "Today, roughly 10% of people are left-handed. Yet most products — digital and physical — aren’t designed with it in mind. Let’s change that. More design patterns in Smart Interface Design Patterns, a **friendly video course on UX** and design patterns by Vitaly.",
+          "link": "https://smashingmagazine.com/2025/07/designing-better-ux-left-handed-people/",
+          "publishedOn": "2025-07-25T15:00:00.000Z",
+          "wordCount": 3594,
+          "title": "Designing Better UX For Left-Handed People",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/designing-better-ux-left-handed-people/designing-better-ux-left-handed-people.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/designing-better-ux-left-handed-people/designing-better-ux-left-handed-people.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2025/07/handling-javascript-event-listeners-parameters/",
           "author": "hello@smashingmagazine.com (Amejimaobari Ollornwi)",
@@ -325,6 +340,16 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "68838e179ec7a9f427f4a061",
+          "author": "Beau Carnes",
+          "description": "On this week's episode of the podcast, freeCodeCamp founder Quincy Larson interviews Nick Taylor. He's a software engineer from Montreal and a prolific open source contributor.   We talk about: Why trying to build your own tooling will ultimately li...",
+          "link": "https://www.freecodecamp.org/news/how-to-turn-open-source-into-a-job-with-nick-taylor-podcast-181/",
+          "publishedOn": "2025-07-25T14:00:55.000Z",
+          "wordCount": 1009,
+          "title": "How to turn Open Source into a Job with Nick Taylor [Podcast #181]",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1753395685233/68ffabee-3e00-485f-b8a4-8f80078ca0cd.png"
+        },
         {
           "id": "688271db426f0b23a6b69d43",
           "author": "Manish Shivanandhan",
@@ -894,46 +919,6 @@
           "wordCount": 1241,
           "title": "Learn the Evolution of the Transformer Architecture Used in LLMs",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1750943231432/8684216b-bb58-4358-a31a-00a63ce62721.png"
-        },
-        {
-          "id": "685c9989f2073d62fe9b82f5",
-          "author": "Hang Hu",
-          "description": "Red Hat Enterprise Linux (RHEL) is a leading enterprise-grade Linux distribution widely regarded as the gold standard for mission-critical server environments. It provides robust, secure, and scalable solutions for organizations ranging from small bu...",
-          "link": "https://www.freecodecamp.org/news/how-to-schedule-tasks-in-red-hat-enterprise-linux/",
-          "publishedOn": "2025-06-26T00:51:21.000Z",
-          "wordCount": 4274,
-          "title": "How to Schedule Tasks in Red Hat Enterprise Linux",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1750869114329/79072c41-988a-41f2-9e2f-25618d78fefc.png"
-        },
-        {
-          "id": "685c658face24766313d6c64",
-          "author": "Mark Mahoney",
-          "description": "Web development combines multiple technologies to create interactive applications that run in web servers and browsers. Modern web apps require understanding both the server-side (back end) and client-side (front end) and how they communicate with ea...",
-          "link": "https://www.freecodecamp.org/news/an-animated-introduction-to-web-development-from-back-to-front/",
-          "publishedOn": "2025-06-25T21:09:35.000Z",
-          "wordCount": 1505,
-          "title": "An Animated Introduction to Web Development from Back to Front",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1750883709276/9a8aeb7d-51f8-4412-9ead-e833f4577fde.png"
-        },
-        {
-          "id": "685c24e3eff8a32b812ea6aa",
-          "author": "Manish Shivanandhan",
-          "description": "If you’re an indie hacker – that is, someone building your own side project, startup, or digital product solo or with a small team – you know that hosting matters.  You’re juggling product development, community-building, marketing, support, and ever...",
-          "link": "https://www.freecodecamp.org/news/top-hosting-platforms-for-indie-hackers/",
-          "publishedOn": "2025-06-25T16:33:39.000Z",
-          "wordCount": 2149,
-          "title": "Top Hosting Platforms for Indie Hackers",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1750869186913/741d5815-6f36-41c4-b0e4-bdec93ab6fdf.png"
-        },
-        {
-          "id": "685c2467df51707f055a263f",
-          "author": "Sumit Saha",
-          "description": "MCP (Model Context Protocol) lets you connect your code, data, and tools to AI applications like Claude and Cursor. This handbook explains how it works with real-world analogies, and shows you how to build a custom MCP server using TypeScript that fe...",
-          "link": "https://www.freecodecamp.org/news/how-to-build-a-custom-mcp-server-with-typescript-a-handbook-for-developers/",
-          "publishedOn": "2025-06-25T16:31:35.000Z",
-          "wordCount": 8045,
-          "title": "How to Build a Custom MCP Server with TypeScript – A Handbook for Developers",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1750868512407/95f366d3-9115-423a-8d63-66e53171931a.png"
         }
       ]
     }
