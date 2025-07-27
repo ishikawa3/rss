@@ -150,16 +150,6 @@
           "wordCount": 3924,
           "title": "CSS Blob Recipes",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/06/blobs-cover.webp"
-        },
-        {
-          "id": "https://css-tricks.com/?p=387527",
-          "author": "Geoff Graham",
-          "description": "KelpUI is new library that Chris Ferdinandi is developing, designed to leverage newer CSS features and Web Components. I've enjoyed following Chris as he's published an ongoing series of articles detailing his thought process behind the library, getting deep into his approach. You really get a clear picture of his strategy and I love it.\nKelpUI originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/kelpui/",
-          "publishedOn": "2025-06-26T16:42:32.000Z",
-          "wordCount": 2020,
-          "title": "KelpUI",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/06/kelpui.webp"
         }
       ]
     },
@@ -899,26 +889,6 @@
           "wordCount": 1093,
           "title": "Rust VS Go VS TypeScript – which back end language is for you? With Tai Groot [Podcast #176]",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1750974265013/73f79068-0087-4c39-8a8b-feea8cac873b.png"
-        },
-        {
-          "id": "685d7ca925e1a316c88035e8",
-          "author": "Atuoha Anthony",
-          "description": "Modern mobile applications are far from static, single-view experiences. Instead, they are dynamic, multi-faceted environments where users seamlessly transition between different features, content, and functionalities. Because of this inherent comple...",
-          "link": "https://www.freecodecamp.org/news/routing-and-multi-screen-development-in-flutter-for-beginners/",
-          "publishedOn": "2025-06-26T17:00:25.000Z",
-          "wordCount": 3409,
-          "title": "Routing and Multi-Screen Development in Flutter – a Beginner's Guide",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1750956717640/60bc5ee7-640d-4d8c-8b8d-64e422fadf56.png"
-        },
-        {
-          "id": "685d4674183f8588de290c10",
-          "author": "Beau Carnes",
-          "description": "Transformers have changed the game in machine learning. From powering chatbots and search engines to enabling machine translation and image generation, they're at the core of today’s most impressive AI models. But the field moves fast. New techniques...",
-          "link": "https://www.freecodecamp.org/news/learn-the-evolution-of-the-transformer-architecture-used-in-llms/",
-          "publishedOn": "2025-06-26T13:09:08.000Z",
-          "wordCount": 1241,
-          "title": "Learn the Evolution of the Transformer Architecture Used in LLMs",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1750943231432/8684216b-bb58-4358-a31a-00a63ce62721.png"
         }
       ]
     }

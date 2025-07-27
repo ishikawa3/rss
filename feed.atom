@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-26T00:16:14.861Z</updated>
+    <updated>2025-07-27T00:18:33.448Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
@@ -829,37 +829,6 @@ Using CSS Cascade Layers With Tailwind Utilities originally published on CSS-Tri
 CSS Blob Recipes originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Juan Diego Rodríguez</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Routing and Multi-Screen Development in Flutter – a Beginner's Guide]]></title>
-        <id>685d7ca925e1a316c88035e8</id>
-        <link href="https://www.freecodecamp.org/news/routing-and-multi-screen-development-in-flutter-for-beginners/"/>
-        <updated>2025-06-26T17:00:25.000Z</updated>
-        <summary type="html"><![CDATA[Modern mobile applications are far from static, single-view experiences. Instead, they are dynamic, multi-faceted environments where users seamlessly transition between different features, content, and functionalities. Because of this inherent comple...]]></summary>
-        <author>
-            <name>Atuoha Anthony</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KelpUI]]></title>
-        <id>https://css-tricks.com/?p=387527</id>
-        <link href="https://css-tricks.com/kelpui/"/>
-        <updated>2025-06-26T16:42:32.000Z</updated>
-        <summary type="html"><![CDATA[KelpUI is new library that Chris Ferdinandi is developing, designed to leverage newer CSS features and Web Components. I've enjoyed following Chris as he's published an ongoing series of articles detailing his thought process behind the library, getting deep into his approach. You really get a clear picture of his strategy and I love it.
-KelpUI originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn the Evolution of the Transformer Architecture Used in LLMs]]></title>
-        <id>685d4674183f8588de290c10</id>
-        <link href="https://www.freecodecamp.org/news/learn-the-evolution-of-the-transformer-architecture-used-in-llms/"/>
-        <updated>2025-06-26T13:09:08.000Z</updated>
-        <summary type="html"><![CDATA[Transformers have changed the game in machine learning. From powering chatbots and search engines to enabling machine translation and image generation, they're at the core of today’s most impressive AI models. But the field moves fast. New techniques...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
         </author>
     </entry>
 </feed>
