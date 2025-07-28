@@ -140,16 +140,6 @@
           "wordCount": 2498,
           "title": "Using CSS Cascade Layers With Tailwind Utilities",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2022/08/tailwind-layers.png"
-        },
-        {
-          "id": "https://css-tricks.com/?p=387089",
-          "author": "Juan Diego Rodríguez",
-          "description": "Blob, Blob, Blob. What's the most effective way to create blob shapes in CSS? Turns out, as always, there are many. Let's compare them together!\nCSS Blob Recipes originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/css-blob-recipes/",
-          "publishedOn": "2025-06-27T13:48:41.000Z",
-          "wordCount": 3924,
-          "title": "CSS Blob Recipes",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/06/blobs-cover.webp"
         }
       ]
     },
@@ -869,26 +859,6 @@
           "wordCount": 2241,
           "title": "How to Set Up Coolify in AWS EC2 and Have the Power to Do Anything in the Cloud",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1751291416644/05d052cc-dc58-49b4-ac16-3064001fd816.png"
-        },
-        {
-          "id": "685ed775cd15578cd8609e17",
-          "author": "Atuoha Anthony",
-          "description": "Mobile applications often need to communicate important information to users, even when the app isn't actively running. Local notifications are an excellent way to achieve this, allowing you to display messages, reminders, or alerts directly on the u...",
-          "link": "https://www.freecodecamp.org/news/how-to-use-local-notifications-in-flutter/",
-          "publishedOn": "2025-06-27T17:40:05.000Z",
-          "wordCount": 5641,
-          "title": "How to Use Local Notifications in Flutter – A Tutorial for Beginners",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1751036674586/f344992e-0d1c-4f91-9cfb-f70aac5b5d14.png"
-        },
-        {
-          "id": "685ece39a1a1f0e914952af5",
-          "author": "Beau Carnes",
-          "description": "On this week's episode of the podcast, freeCodeCamp founder Quincy Larson interviews Tai Groot. He's a back end software engineer and maintains an open source project used by companies like Google. For the first half of the interview we talk about ba...",
-          "link": "https://www.freecodecamp.org/news/rust-vs-go-vs-typescript-which-back-end-language-is-for-you-with-tai-groot-podcast-176/",
-          "publishedOn": "2025-06-27T17:00:41.000Z",
-          "wordCount": 1093,
-          "title": "Rust VS Go VS TypeScript – which back end language is for you? With Tai Groot [Podcast #176]",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1750974265013/73f79068-0087-4c39-8a8b-feea8cac873b.png"
         }
       ]
     }

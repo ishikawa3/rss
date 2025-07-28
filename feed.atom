@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-27T00:18:33.448Z</updated>
+    <updated>2025-07-28T00:18:12.183Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
@@ -798,37 +798,6 @@ Using CSS Cascade Layers With Tailwind Utilities originally published on CSS-Tri
         <summary type="html"><![CDATA[July is just around the corner, and that means it’s time for a new collection of desktop wallpapers. Created with love by artists and designers from across the globe, they are bound to bring some good vibes to your screen. Enjoy!]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Cosima Mielke)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use Local Notifications in Flutter – A Tutorial for Beginners]]></title>
-        <id>685ed775cd15578cd8609e17</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-local-notifications-in-flutter/"/>
-        <updated>2025-06-27T17:40:05.000Z</updated>
-        <summary type="html"><![CDATA[Mobile applications often need to communicate important information to users, even when the app isn't actively running. Local notifications are an excellent way to achieve this, allowing you to display messages, reminders, or alerts directly on the u...]]></summary>
-        <author>
-            <name>Atuoha Anthony</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rust VS Go VS TypeScript – which back end language is for you? With Tai Groot [Podcast #176]]]></title>
-        <id>685ece39a1a1f0e914952af5</id>
-        <link href="https://www.freecodecamp.org/news/rust-vs-go-vs-typescript-which-back-end-language-is-for-you-with-tai-groot-podcast-176/"/>
-        <updated>2025-06-27T17:00:41.000Z</updated>
-        <summary type="html"><![CDATA[On this week's episode of the podcast, freeCodeCamp founder Quincy Larson interviews Tai Groot. He's a back end software engineer and maintains an open source project used by companies like Google. For the first half of the interview we talk about ba...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSS Blob Recipes]]></title>
-        <id>https://css-tricks.com/?p=387089</id>
-        <link href="https://css-tricks.com/css-blob-recipes/"/>
-        <updated>2025-06-27T13:48:41.000Z</updated>
-        <summary type="html"><![CDATA[Blob, Blob, Blob. What's the most effective way to create blob shapes in CSS? Turns out, as always, there are many. Let's compare them together!
-CSS Blob Recipes originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Juan Diego Rodríguez</name>
         </author>
     </entry>
 </feed>
