@@ -322,21 +322,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/turning-user-research-into-organizational-change/turning-user-research-into-organizational-change.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2025/06/desktop-wallpaper-calendars-july-2025/",
-          "author": "hello@smashingmagazine.com (Cosima Mielke)",
-          "description": "July is just around the corner, and that means it’s time for a new collection of desktop wallpapers. Created with love by artists and designers from across the globe, they are bound to bring some good vibes to your screen. Enjoy!",
-          "link": "https://smashingmagazine.com/2025/06/desktop-wallpaper-calendars-july-2025/",
-          "publishedOn": "2025-06-30T12:00:00.000Z",
-          "wordCount": 4859,
-          "title": "Never Stop Exploring (July 2025 Wallpapers Edition)",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-july-2025/july-25-stamped-in-summer-preview-opt.png",
-            "length": "0",
-            "type": "image/png"
-          },
-          "imageUrl": "http://files.smashing.media/articles/desktop-wallpaper-calendars-july-2025/july-25-stamped-in-summer-preview-opt.png"
         }
       ]
     },
@@ -345,6 +330,36 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "68880df6ebbc17df34200269",
+          "author": "Shruti Kapoor",
+          "description": "Navigating the journey from senior engineer to staff engineer can be daunting. Promotions are often confusing, and this particular leap can feel even more ambiguous. As someone who has successfully transitioned to a Staff Engineer role, I want to sha...",
+          "link": "https://www.freecodecamp.org/news/how-to-get-promoted-from-senior-to-staff-engineer-tips-from-my-experience/",
+          "publishedOn": "2025-07-28T23:55:34.000Z",
+          "wordCount": 4479,
+          "title": "How to Get Promoted from Senior to Staff Engineer – Tips from My Experience",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1753746889847/3c80439e-4c98-467f-8d3c-9c7e08e56a4a.png"
+        },
+        {
+          "id": "68880d881bd0d07a1731c788",
+          "author": "Mfonobong Umondia",
+          "description": "In this article, I’ll walk you through what microcopy is, why it matters more than you think, and how to write effective, empathetic, and high-converting microcopy. Whether you're a designer, writer, or product builder, you’ll learn practical tips, r...",
+          "link": "https://www.freecodecamp.org/news/how-to-boost-conversions-with-ux-focused-microcopy/",
+          "publishedOn": "2025-07-28T23:53:44.000Z",
+          "wordCount": 2268,
+          "title": "How to Boost Conversions with UX-Focused Microcopy",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1753746811969/e16afede-4e1a-4499-bb10-ed2a8de8c159.png"
+        },
+        {
+          "id": "68880d1bebbc17df34200263",
+          "author": "Tope Fasasi",
+          "description": "Database seed scripts are pre-written pieces of code that populate your database with initial data, serving as the foundation for a consistent development environment. These files contain structured data that follows real-world scenarios, letting you...",
+          "link": "https://www.freecodecamp.org/news/how-to-build-database-seed-scripts-for-your-node-application/",
+          "publishedOn": "2025-07-28T23:51:55.000Z",
+          "wordCount": 4955,
+          "title": "How to Build Database Seed Scripts for Your Node Application",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1753746696472/4a181d0a-5e11-4603-ac27-151d16a6bbf4.png"
+        },
         {
           "id": "6887df408810970f0e04fae6",
           "author": "Mark Mahoney",
