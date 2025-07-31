@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-30T00:16:58.613Z</updated>
+    <updated>2025-07-31T00:16:29.079Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Keeping Article Demos Alive When Third-Party APIs Die]]></title>
+        <id>https://css-tricks.com/?p=387974</id>
+        <link href="https://css-tricks.com/keeping-article-demos-alive-when-third-party-apis-die/"/>
+        <updated>2025-07-30T13:21:05.000Z</updated>
+        <summary type="html"><![CDATA[Is there a way to build demos that do not break when the services they rely on fail? How can we ensure educational demos stay available for as long as possible?
+Keeping Article Demos Alive When Third-Party APIs Die originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Mészáros Róbert</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Core Model: Start FROM The Answer, Not WITH The Solution]]></title>
+        <id>https://smashingmagazine.com/2025/07/core-model-start-from-answer-not-solution/</id>
+        <link href="https://smashingmagazine.com/2025/07/core-model-start-from-answer-not-solution/"/>
+        <updated>2025-07-30T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Core Model is a practical methodology that flips traditional digital development on its head. Instead of starting with solutions or structure, we begin with a hypothesis about what users need and follow a simple framework that brings diverse teams together to create more effective digital experiences. By asking six good questions in the right order, teams align around user tasks and business objectives, creating clarity that transcends organizational boundaries.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Are Halland)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Get Promoted from Senior to Staff Engineer – Tips from My Experience]]></title>
         <id>68880df6ebbc17df34200269</id>
@@ -798,57 +819,6 @@ Better CSS Shapes Using shape() — Part 4: Close and Move originally published 
 The Gap Strikes Back: Now Stylable originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Patrick Brosset</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Turning User Research Into Real Organizational Change]]></title>
-        <id>https://smashingmagazine.com/2025/07/turning-user-research-into-organizational-change/</id>
-        <link href="https://smashingmagazine.com/2025/07/turning-user-research-into-organizational-change/"/>
-        <updated>2025-07-01T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Bridging the gap between user research insights and actual organizational action — with a clear roadmap for impact.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Paul Boag)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Powerful JavaScript Frameworks for Game Developers]]></title>
-        <id>686316a6a2a907c72bebdef0</id>
-        <link href="https://www.freecodecamp.org/news/javascript-frameworks-for-game-developers/"/>
-        <updated>2025-06-30T22:58:46.000Z</updated>
-        <summary type="html"><![CDATA[Getting into game development with JavaScript can be a blast. JS is fast, flexible, and works right in the browser.  Whether you’re making a small puzzle game or a full 3D experience, JavaScript has the tools to help you bring your ideas to life.  Bu...]]></summary>
-        <author>
-            <name>Manish Shivanandhan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Audit Android Accessibility with the Accessibility Scanner App]]></title>
-        <id>6862d146cc277a35bb68ec20</id>
-        <link href="https://www.freecodecamp.org/news/how-to-audit-android-accessibility-with-the-accessibility-scanner-app/"/>
-        <updated>2025-06-30T18:02:46.000Z</updated>
-        <summary type="html"><![CDATA[The Web Content Accessibility Guidelines (WCAG 2.1 Level AA) is an internationally recognized standard for digital accessibility. Meeting these guidelines helps you make sure that your website is usable by people with visual, motor, hearing, and cogn...]]></summary>
-        <author>
-            <name>Ilknur Eren</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Set Up Coolify in AWS EC2 and Have the Power to Do Anything in the Cloud]]></title>
-        <id>6862962d9dc534abcc4c7eae</id>
-        <link href="https://www.freecodecamp.org/news/how-to-set-up-coolify-in-aws-ec2/"/>
-        <updated>2025-06-30T13:50:37.000Z</updated>
-        <summary type="html"><![CDATA[Coolify is an open-source, self-hostable platform that serves as an alternative to services like Heroku, Netlify, and Vercel. It lets developers deploy and manage applications, databases, and services on their own infrastructure, providing greater co...]]></summary>
-        <author>
-            <name>Md. Fahim Bin Amin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Using CSS Cascade Layers With Tailwind Utilities]]></title>
-        <id>https://css-tricks.com/?p=386907</id>
-        <link href="https://css-tricks.com/using-css-cascade-layers-with-tailwind-utilities/"/>
-        <updated>2025-06-30T13:16:43.000Z</updated>
-        <summary type="html"><![CDATA[Being the bad boy I am, I don't take Tailwind's default approach to cascade layers as the "best" one. Over a year experimenting with Tailwind and vanilla CSS, I've come across what I believe is a better solution.
-Using CSS Cascade Layers With Tailwind Utilities originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Zell Liew</name>
         </author>
     </entry>
 </feed>

@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=387974",
+          "author": "Mészáros Róbert",
+          "description": "Is there a way to build demos that do not break when the services they rely on fail? How can we ensure educational demos stay available for as long as possible?\nKeeping Article Demos Alive When Third-Party APIs Die originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/keeping-article-demos-alive-when-third-party-apis-die/",
+          "publishedOn": "2025-07-30T13:21:05.000Z",
+          "wordCount": 3130,
+          "title": "Keeping Article Demos Alive When Third-Party APIs Die",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2020/05/nodes-pattern.png"
+        },
+        {
           "id": "https://css-tricks.com/?p=387765",
           "author": "Zell Liew",
           "description": "I went on to figure out how make masonry work today with other browsers. I'm happy to report I've found a way — and, bonus! — that support can be provided with only 66 lines of JavaScript.\nMaking a Masonry Layout That Works Today originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -140,16 +150,6 @@
           "wordCount": 3278,
           "title": "The Gap Strikes Back: Now Stylable",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2021/04/gap.png"
-        },
-        {
-          "id": "https://css-tricks.com/?p=386907",
-          "author": "Zell Liew",
-          "description": "Being the bad boy I am, I don't take Tailwind's default approach to cascade layers as the \"best\" one. Over a year experimenting with Tailwind and vanilla CSS, I've come across what I believe is a better solution.\nUsing CSS Cascade Layers With Tailwind Utilities originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/using-css-cascade-layers-with-tailwind-utilities/",
-          "publishedOn": "2025-06-30T13:16:43.000Z",
-          "wordCount": 2498,
-          "title": "Using CSS Cascade Layers With Tailwind Utilities",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2022/08/tailwind-layers.png"
         }
       ]
     },
@@ -158,6 +158,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2025/07/core-model-start-from-answer-not-solution/",
+          "author": "hello@smashingmagazine.com (Are Halland)",
+          "description": "The Core Model is a practical methodology that flips traditional digital development on its head. Instead of starting with solutions or structure, we begin with a hypothesis about what users need and follow a simple framework that brings diverse teams together to create more effective digital experiences. By asking six good questions in the right order, teams align around user tasks and business objectives, creating clarity that transcends organizational boundaries.",
+          "link": "https://smashingmagazine.com/2025/07/core-model-start-from-answer-not-solution/",
+          "publishedOn": "2025-07-30T13:00:00.000Z",
+          "wordCount": 4416,
+          "title": "The Core Model: Start FROM The Answer, Not WITH The Solution",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/core-model-start-from-answer-not-solution/core-model-start-from-answer-not-solution.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/core-model-start-from-answer-not-solution/core-model-start-from-answer-not-solution.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2025/07/web-components-working-with-shadow-dom/",
           "author": "hello@smashingmagazine.com (Russell Beswick)",
@@ -307,21 +322,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/css-intelligence-speculating-future-smarter-language/css-intelligence-speculating-future-smarter-language.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2025/07/turning-user-research-into-organizational-change/",
-          "author": "hello@smashingmagazine.com (Paul Boag)",
-          "description": "Bridging the gap between user research insights and actual organizational action — with a clear roadmap for impact.",
-          "link": "https://smashingmagazine.com/2025/07/turning-user-research-into-organizational-change/",
-          "publishedOn": "2025-07-01T10:00:00.000Z",
-          "wordCount": 4687,
-          "title": "Turning User Research Into Real Organizational Change",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/turning-user-research-into-organizational-change/turning-user-research-into-organizational-change.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/turning-user-research-into-organizational-change/turning-user-research-into-organizational-change.jpg"
         }
       ]
     },
@@ -879,36 +879,6 @@
           "wordCount": 1377,
           "title": "Beginner’s Guide to Cloud Cybersecurity",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1750284815294/c2ba70be-5147-4b56-b377-4ac40f53532e.png"
-        },
-        {
-          "id": "686316a6a2a907c72bebdef0",
-          "author": "Manish Shivanandhan",
-          "description": "Getting into game development with JavaScript can be a blast. JS is fast, flexible, and works right in the browser.  Whether you’re making a small puzzle game or a full 3D experience, JavaScript has the tools to help you bring your ideas to life.  Bu...",
-          "link": "https://www.freecodecamp.org/news/javascript-frameworks-for-game-developers/",
-          "publishedOn": "2025-06-30T22:58:46.000Z",
-          "wordCount": 2055,
-          "title": "Powerful JavaScript Frameworks for Game Developers",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1751324311029/630e6ee2-5e00-4341-a0be-5bd426cf87a4.png"
-        },
-        {
-          "id": "6862d146cc277a35bb68ec20",
-          "author": "Ilknur Eren",
-          "description": "The Web Content Accessibility Guidelines (WCAG 2.1 Level AA) is an internationally recognized standard for digital accessibility. Meeting these guidelines helps you make sure that your website is usable by people with visual, motor, hearing, and cogn...",
-          "link": "https://www.freecodecamp.org/news/how-to-audit-android-accessibility-with-the-accessibility-scanner-app/",
-          "publishedOn": "2025-06-30T18:02:46.000Z",
-          "wordCount": 1879,
-          "title": "How to Audit Android Accessibility with the Accessibility Scanner App",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1751301060182/df4d483a-8dd6-45ce-a665-76cbf45ef945.png"
-        },
-        {
-          "id": "6862962d9dc534abcc4c7eae",
-          "author": "Md. Fahim Bin Amin",
-          "description": "Coolify is an open-source, self-hostable platform that serves as an alternative to services like Heroku, Netlify, and Vercel. It lets developers deploy and manage applications, databases, and services on their own infrastructure, providing greater co...",
-          "link": "https://www.freecodecamp.org/news/how-to-set-up-coolify-in-aws-ec2/",
-          "publishedOn": "2025-06-30T13:50:37.000Z",
-          "wordCount": 2241,
-          "title": "How to Set Up Coolify in AWS EC2 and Have the Power to Do Anything in the Cloud",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1751291416644/05d052cc-dc58-49b4-ac16-3064001fd816.png"
         }
       ]
     }
