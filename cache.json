@@ -140,16 +140,6 @@
           "wordCount": 3709,
           "title": "Better CSS Shapes Using shape() — Part 4: Close and Move",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/07/css-shapes-function-csstricks-logo.webp"
-        },
-        {
-          "id": "https://css-tricks.com/?p=387471",
-          "author": "Patrick Brosset",
-          "description": "Styling the space between layout items — the gap — has typically required some clever workarounds. But a new CSS feature changes all that with just a few simple CSS properties that make it easy, yet also flexible, to display styled separators between your layout items.\nThe Gap Strikes Back: Now Stylable originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/the-gap-strikes-back-now-stylable/",
-          "publishedOn": "2025-07-01T12:42:38.000Z",
-          "wordCount": 3278,
-          "title": "The Gap Strikes Back: Now Stylable",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2021/04/gap.png"
         }
       ]
     },
@@ -158,6 +148,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2025/07/desktop-wallpaper-calendars-august-2025/",
+          "author": "hello@smashingmagazine.com (Cosima Mielke)",
+          "description": "Do you need a little inspiration boost? Well, then our new batch of desktop wallpapers might be for you. The wallpapers are designed with love by the community for the community and can be downloaded for free! Enjoy!",
+          "link": "https://smashingmagazine.com/2025/07/desktop-wallpaper-calendars-august-2025/",
+          "publishedOn": "2025-07-31T11:00:00.000Z",
+          "wordCount": 4826,
+          "title": "Stories Of August (2025 Wallpapers Edition)",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-august-2025/aug-25-august-afloat-preview-opt.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "http://files.smashing.media/articles/desktop-wallpaper-calendars-august-2025/aug-25-august-afloat-preview-opt.png"
+        },
         {
           "id": "https://smashingmagazine.com/2025/07/core-model-start-from-answer-not-solution/",
           "author": "hello@smashingmagazine.com (Are Halland)",
@@ -330,6 +335,66 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "688b9e80a13232fedab6f08e",
+          "author": "Beau Carnes",
+          "description": "Enterprise AI requires different skills and technologies than your basic OpenAI wrapper applications you see all over. We just published a course on the freeCodeCamp.org YouTube channel that will teach all about Embeddings, RAG, Multimodal Models, an...",
+          "link": "https://www.freecodecamp.org/news/learn-enterprise-ai-embeddings-rag-and-multimodal-agents-using-amazon-nova-and-bedrock/",
+          "publishedOn": "2025-07-31T16:49:04.000Z",
+          "wordCount": 1061,
+          "title": "Learn Enterprise AI – Embeddings, RAG, and Multimodal Agents Using Amazon Nova and Bedrock",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1753980521268/67afb5a4-a5b4-4522-bbc4-f5aacb9a22d0.png"
+        },
+        {
+          "id": "688b9162ab0310c598dc3d01",
+          "author": "Beau Carnes",
+          "description": "Have you ever just memorized that an algorithm is O(n log n) without truly understanding why? Our new algorithms course on the freeCodeCamp.org YouTube channel will help you build a deep intuition for how algorithms work. This Algorithm Analysis Deep...",
+          "link": "https://www.freecodecamp.org/news/algorithm-analysis-deep-dive/",
+          "publishedOn": "2025-07-31T15:53:06.000Z",
+          "wordCount": 1018,
+          "title": "Algorithm Analysis Deep Dive",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1753977160999/8386f8e7-8b1c-4851-8aba-6e27370a05fa.png"
+        },
+        {
+          "id": "688b8e97464706f0734d3716",
+          "author": "Beau Carnes",
+          "description": "Technical writing is important for all sorts of careers. We just posted a course on the freeCodeCamp.org YouTube channel that will teach you the fundamentals of technical writing and help you understand its importance in various fields. The course wi...",
+          "link": "https://www.freecodecamp.org/news/improve-your-technical-writing-skills-to-advance-your-career/",
+          "publishedOn": "2025-07-31T15:41:11.000Z",
+          "wordCount": 1013,
+          "title": "Improve Your Technical Writing Skills to Advance Your Career",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1753976458228/f3d14a7f-d0f7-4e61-a487-cdc4b6344843.png"
+        },
+        {
+          "id": "688b74903e00617596a6f3ce",
+          "author": "Manish Shivanandhan",
+          "description": "Have you ever sent a message with an emoji? Read a blog in another language? Or copied some strange symbol from the internet?  All of these are possible because of something called Unicode.  Unicode is a powerful system that lets computers understand...",
+          "link": "https://www.freecodecamp.org/news/what-is-unicode-the-secret-language-behind-every-text-you-see/",
+          "publishedOn": "2025-07-31T13:50:08.000Z",
+          "wordCount": 2121,
+          "title": "What is Unicode —The Secret Language Behind Every Text You See",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1753969659647/1f49bf21-9be3-4e60-861f-50c714d7ae87.png"
+        },
+        {
+          "id": "688b03e7d853646bf4658392",
+          "author": "Dami",
+          "description": "Working with databases is a fundamental part of backend development, particularly when you’re building applications that require persisting, querying, and updating data. In Go, the official MongoDB driver provides a robust way to connect to and inter...",
+          "link": "https://www.freecodecamp.org/news/how-to-use-mongodb-with-go/",
+          "publishedOn": "2025-07-31T05:49:27.000Z",
+          "wordCount": 3657,
+          "title": "How to Use MongoDB with Go",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1753940956019/6551a007-b463-486f-8746-15c13a7a99a0.png"
+        },
+        {
+          "id": "688b03991b7d57429769e76b",
+          "author": "Chisom Uma",
+          "description": "Uploading large files to S3 using traditional single-request methods can be quite challenging. If your’e transferring a 5GB database backup, and a network interruption happens, it forces you to restart the entire upload process. This wastes bandwidth...",
+          "link": "https://www.freecodecamp.org/news/how-to-upload-large-objects-to-s3-with-aws-cli-multipart-upload/",
+          "publishedOn": "2025-07-31T05:48:09.000Z",
+          "wordCount": 2495,
+          "title": "How to Upload Large Objects to S3 with AWS CLI Multipart Upload",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1753940874032/9dae199c-ff29-44c1-aff9-4dad02fdc26d.png"
+        },
         {
           "id": "68880df6ebbc17df34200269",
           "author": "Shruti Kapoor",
@@ -839,46 +904,6 @@
           "wordCount": 2661,
           "title": "How to Stop Chasing Productivity and Start Moving with Purpose",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1750868906416/7cba189f-0c53-4beb-a0d6-cbb034fc73bb.png"
-        },
-        {
-          "id": "68644a229f16e7c95c9c9538",
-          "author": "Henry Adepegba",
-          "description": "JavaScript is an asynchronous programming language, which means it can handle multiple operations at the same time without blocking the main thread. When working with asynchronous operations like API calls, file reading, or database queries, you have...",
-          "link": "https://www.freecodecamp.org/news/when-to-use-asyncawait-vs-promises-in-javascript/",
-          "publishedOn": "2025-07-01T20:50:42.000Z",
-          "wordCount": 5602,
-          "title": "When to Use Async/Await vs Promises in JavaScript",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1751402055038/f0954bc1-e528-4add-a659-4750c6d8eb33.png"
-        },
-        {
-          "id": "6864461e87c1e49678c8da93",
-          "author": "Oluwadamisi Samuel",
-          "description": "Learning how to fetch data from APIs is a must-have skill for any developer. Whether you're building a simple portfolio site or working on real-world applications, you'll often need to connect to external data sources. Being comfortable with API call...",
-          "link": "https://www.freecodecamp.org/news/how-to-fetch-api-data-in-react-using-axios/",
-          "publishedOn": "2025-07-01T20:33:34.000Z",
-          "wordCount": 3177,
-          "title": "How to Fetch API Data in React Using Axios",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1751385483454/7e7949aa-4bcd-4f58-9725-36df67b866a5.png"
-        },
-        {
-          "id": "6864040518da4fac8afe4a5d",
-          "author": "Sumit Saha",
-          "description": "If you want to add some amazing and visually appealing animations to your web page, the View Transition API is a great animation tool. It lets you create Cross-Document Transitions when navigating between pages. And not just in classic multi-page app...",
-          "link": "https://www.freecodecamp.org/news/how-to-use-the-view-transition-api/",
-          "publishedOn": "2025-07-01T15:51:33.000Z",
-          "wordCount": 5308,
-          "title": "How to Use the View Transition API for Better Web Transitions",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1751324398272/d2f05e29-6925-43da-8c41-14b1c18a4898.png"
-        },
-        {
-          "id": "6863fb880b9684674b11ec40",
-          "author": "Beau Carnes",
-          "description": "Are you ready to become a digital guardian and launch your career on the frontlines of cloud security? We’re excited to announce that freeCodeCamp.org has just published a comprehensive Google Cloud Cybersecurity course on our YouTube channel. The co...",
-          "link": "https://www.freecodecamp.org/news/beginners-guide-to-cloud-cybersecurity/",
-          "publishedOn": "2025-07-01T15:15:20.000Z",
-          "wordCount": 1377,
-          "title": "Beginner’s Guide to Cloud Cybersecurity",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1750284815294/c2ba70be-5147-4b56-b377-4ac40f53532e.png"
         }
       ]
     }

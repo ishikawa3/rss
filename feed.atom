@@ -2,10 +2,80 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-31T00:16:29.079Z</updated>
+    <updated>2025-08-01T00:19:14.113Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Learn Enterprise AI – Embeddings, RAG, and Multimodal Agents Using Amazon Nova and Bedrock]]></title>
+        <id>688b9e80a13232fedab6f08e</id>
+        <link href="https://www.freecodecamp.org/news/learn-enterprise-ai-embeddings-rag-and-multimodal-agents-using-amazon-nova-and-bedrock/"/>
+        <updated>2025-07-31T16:49:04.000Z</updated>
+        <summary type="html"><![CDATA[Enterprise AI requires different skills and technologies than your basic OpenAI wrapper applications you see all over. We just published a course on the freeCodeCamp.org YouTube channel that will teach all about Embeddings, RAG, Multimodal Models, an...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Algorithm Analysis Deep Dive]]></title>
+        <id>688b9162ab0310c598dc3d01</id>
+        <link href="https://www.freecodecamp.org/news/algorithm-analysis-deep-dive/"/>
+        <updated>2025-07-31T15:53:06.000Z</updated>
+        <summary type="html"><![CDATA[Have you ever just memorized that an algorithm is O(n log n) without truly understanding why? Our new algorithms course on the freeCodeCamp.org YouTube channel will help you build a deep intuition for how algorithms work. This Algorithm Analysis Deep...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Improve Your Technical Writing Skills to Advance Your Career]]></title>
+        <id>688b8e97464706f0734d3716</id>
+        <link href="https://www.freecodecamp.org/news/improve-your-technical-writing-skills-to-advance-your-career/"/>
+        <updated>2025-07-31T15:41:11.000Z</updated>
+        <summary type="html"><![CDATA[Technical writing is important for all sorts of careers. We just posted a course on the freeCodeCamp.org YouTube channel that will teach you the fundamentals of technical writing and help you understand its importance in various fields. The course wi...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is Unicode —The Secret Language Behind Every Text You See]]></title>
+        <id>688b74903e00617596a6f3ce</id>
+        <link href="https://www.freecodecamp.org/news/what-is-unicode-the-secret-language-behind-every-text-you-see/"/>
+        <updated>2025-07-31T13:50:08.000Z</updated>
+        <summary type="html"><![CDATA[Have you ever sent a message with an emoji? Read a blog in another language? Or copied some strange symbol from the internet?  All of these are possible because of something called Unicode.  Unicode is a powerful system that lets computers understand...]]></summary>
+        <author>
+            <name>Manish Shivanandhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stories Of August (2025 Wallpapers Edition)]]></title>
+        <id>https://smashingmagazine.com/2025/07/desktop-wallpaper-calendars-august-2025/</id>
+        <link href="https://smashingmagazine.com/2025/07/desktop-wallpaper-calendars-august-2025/"/>
+        <updated>2025-07-31T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Do you need a little inspiration boost? Well, then our new batch of desktop wallpapers might be for you. The wallpapers are designed with love by the community for the community and can be downloaded for free! Enjoy!]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use MongoDB with Go]]></title>
+        <id>688b03e7d853646bf4658392</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-mongodb-with-go/"/>
+        <updated>2025-07-31T05:49:27.000Z</updated>
+        <summary type="html"><![CDATA[Working with databases is a fundamental part of backend development, particularly when you’re building applications that require persisting, querying, and updating data. In Go, the official MongoDB driver provides a robust way to connect to and inter...]]></summary>
+        <author>
+            <name>Dami</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Upload Large Objects to S3 with AWS CLI Multipart Upload]]></title>
+        <id>688b03991b7d57429769e76b</id>
+        <link href="https://www.freecodecamp.org/news/how-to-upload-large-objects-to-s3-with-aws-cli-multipart-upload/"/>
+        <updated>2025-07-31T05:48:09.000Z</updated>
+        <summary type="html"><![CDATA[Uploading large files to S3 using traditional single-request methods can be quite challenging. If your’e transferring a 5GB database backup, and a network interruption happens, it forces you to restart the entire upload process. This wastes bandwidth...]]></summary>
+        <author>
+            <name>Chisom Uma</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Keeping Article Demos Alive When Third-Party APIs Die]]></title>
         <id>https://css-tricks.com/?p=387974</id>
@@ -768,57 +838,6 @@ Better CSS Shapes Using shape() — Part 4: Close and Move originally published 
         <summary type="html"><![CDATA[CSS has evolved from a purely presentational language into one with growing logical powers — thanks to features like container queries, relational pseudo-classes, and the `if()` function. Is it still just for styling, or is it becoming something more? Gabriel Shoyombo explores how smart CSS has become over the years, where it is heading, the challenges it addresses, whether it is becoming too complex, and how developers are reacting to this shift.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Gabriel Shoyombo)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[When to Use Async/Await vs Promises in JavaScript]]></title>
-        <id>68644a229f16e7c95c9c9538</id>
-        <link href="https://www.freecodecamp.org/news/when-to-use-asyncawait-vs-promises-in-javascript/"/>
-        <updated>2025-07-01T20:50:42.000Z</updated>
-        <summary type="html"><![CDATA[JavaScript is an asynchronous programming language, which means it can handle multiple operations at the same time without blocking the main thread. When working with asynchronous operations like API calls, file reading, or database queries, you have...]]></summary>
-        <author>
-            <name>Henry Adepegba</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Fetch API Data in React Using Axios]]></title>
-        <id>6864461e87c1e49678c8da93</id>
-        <link href="https://www.freecodecamp.org/news/how-to-fetch-api-data-in-react-using-axios/"/>
-        <updated>2025-07-01T20:33:34.000Z</updated>
-        <summary type="html"><![CDATA[Learning how to fetch data from APIs is a must-have skill for any developer. Whether you're building a simple portfolio site or working on real-world applications, you'll often need to connect to external data sources. Being comfortable with API call...]]></summary>
-        <author>
-            <name>Oluwadamisi Samuel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use the View Transition API for Better Web Transitions]]></title>
-        <id>6864040518da4fac8afe4a5d</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-the-view-transition-api/"/>
-        <updated>2025-07-01T15:51:33.000Z</updated>
-        <summary type="html"><![CDATA[If you want to add some amazing and visually appealing animations to your web page, the View Transition API is a great animation tool. It lets you create Cross-Document Transitions when navigating between pages. And not just in classic multi-page app...]]></summary>
-        <author>
-            <name>Sumit Saha</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Beginner’s Guide to Cloud Cybersecurity]]></title>
-        <id>6863fb880b9684674b11ec40</id>
-        <link href="https://www.freecodecamp.org/news/beginners-guide-to-cloud-cybersecurity/"/>
-        <updated>2025-07-01T15:15:20.000Z</updated>
-        <summary type="html"><![CDATA[Are you ready to become a digital guardian and launch your career on the frontlines of cloud security? We’re excited to announce that freeCodeCamp.org has just published a comprehensive Google Cloud Cybersecurity course on our YouTube channel. The co...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Gap Strikes Back: Now Stylable]]></title>
-        <id>https://css-tricks.com/?p=387471</id>
-        <link href="https://css-tricks.com/the-gap-strikes-back-now-stylable/"/>
-        <updated>2025-07-01T12:42:38.000Z</updated>
-        <summary type="html"><![CDATA[Styling the space between layout items — the gap — has typically required some clever workarounds. But a new CSS feature changes all that with just a few simple CSS properties that make it easy, yet also flexible, to display styled separators between your layout items.
-The Gap Strikes Back: Now Stylable originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Patrick Brosset</name>
         </author>
     </entry>
 </feed>
