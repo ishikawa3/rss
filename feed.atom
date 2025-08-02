@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-01T00:19:14.113Z</updated>
+    <updated>2025-08-02T00:16:21.081Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Push Silent Updates in Flutter Using Shorebird]]></title>
+        <id>688ce407aa180d32049574ec</id>
+        <link href="https://www.freecodecamp.org/news/how-to-push-silent-updates-in-flutter-using-shorebird/"/>
+        <updated>2025-08-01T15:57:59.000Z</updated>
+        <summary type="html"><![CDATA[Imagine you've just launched a major feature. Your app is climbing the charts, but then the first bug report arrives. It's a critical payment validation error. The fix is a single line of Dart code, but now you face the dreaded app store review queue...]]></summary>
+        <author>
+            <name>Atuoha Anthony</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Senior Playstation Engineer's tips for learning new tools and getting things done [Podcast #184]]]></title>
+        <id>688cc88b7b261cb96d0a1fe2</id>
+        <link href="https://www.freecodecamp.org/news/senior-playstation-engineers-tips-for-learning-new-tools-and-getting-things-done-podcast-184/"/>
+        <updated>2025-08-01T14:00:43.000Z</updated>
+        <summary type="html"><![CDATA[On this week's episode of the podcast, freeCodeCamp founder Quincy Larson interviews Dilip Krishnamoorthi. He's a software engineer working at Sony, building user interfaces for Playstation game consoles where he's been for 10 years.   We talk about:...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Extract Insights from Text Using Named Entity Recognition (NER)]]></title>
+        <id>688bfd68b5250266e21f97da</id>
+        <link href="https://www.freecodecamp.org/news/extract-insights-from-text-using-named-entity-recognition/"/>
+        <updated>2025-07-31T23:34:00.000Z</updated>
+        <summary type="html"><![CDATA[Many of us enjoy reading the news and staying up-to-date on current events. But the number of new stories each day can be overwhelming. You probably want to know who’s involved in world events, where things are happening globally, and which organizat...]]></summary>
+        <author>
+            <name>Manish Shivanandhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Shared State Complexity in React – A Complete Handbook for Developers]]></title>
+        <id>688bfc51bf96ff93c962d1f2</id>
+        <link href="https://www.freecodecamp.org/news/shared-state-complexity-in-react-handbook/"/>
+        <updated>2025-07-31T23:29:21.000Z</updated>
+        <summary type="html"><![CDATA[Imagine you're building a simple shopping website. You have a product page where users can add items to their cart, and a header that displays the number of items in the cart. Sounds simple, right? But here's the challenge: how does the header know w...]]></summary>
+        <author>
+            <name>Henry Adepegba</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Learn Enterprise AI – Embeddings, RAG, and Multimodal Agents Using Amazon Nova and Bedrock]]></title>
         <id>688b9e80a13232fedab6f08e</id>
@@ -808,36 +848,6 @@ Better CSS Shapes Using shape() — Part 4: Close and Move originally published 
         <summary type="html"><![CDATA[Building something from scratch using just PHP, MySQL, JavaScript, HTML, and CSS is one of the best ways to level up your skills and gain a real understanding of full-stack development. We just published a course on the freeCodeCamp.org YouTube chann...]]></summary>
         <author>
             <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top Application Monitoring Tools for Developers]]></title>
-        <id>6865cf231aa55afae259e821</id>
-        <link href="https://www.freecodecamp.org/news/top-application-monitoring-tools-for-developers/"/>
-        <updated>2025-07-03T00:30:27.000Z</updated>
-        <summary type="html"><![CDATA[If your app runs in production, you’ll need to know when it breaks. Preferably before your users tell you.  That’s where application monitoring tools (APM) come in. They show you what’s working, what’s slow, and what’s failing, all in one place. Here...]]></summary>
-        <author>
-            <name>Manish Shivanandhan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Stop Chasing Productivity and Start Moving with Purpose]]></title>
-        <id>68654987cd4d0c286c5cc497</id>
-        <link href="https://www.freecodecamp.org/news/how-to-set-goals-using-the-path-framework/"/>
-        <updated>2025-07-02T15:00:23.000Z</updated>
-        <summary type="html"><![CDATA[Most people know how to set goals. And many understand that developing good habits is key to reaching those goals. Yet, despite this knowledge, it's still easy to feel stuck – or worse, in motion without direction. We chase productivity without askin...]]></summary>
-        <author>
-            <name>Brandon Wozniewicz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSS Intelligence: Speculating On The Future Of A Smarter Language]]></title>
-        <id>https://smashingmagazine.com/2025/07/css-intelligence-speculating-future-smarter-language/</id>
-        <link href="https://smashingmagazine.com/2025/07/css-intelligence-speculating-future-smarter-language/"/>
-        <updated>2025-07-02T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[CSS has evolved from a purely presentational language into one with growing logical powers — thanks to features like container queries, relational pseudo-classes, and the `if()` function. Is it still just for styling, or is it becoming something more? Gabriel Shoyombo explores how smart CSS has become over the years, where it is heading, the challenges it addresses, whether it is becoming too complex, and how developers are reacting to this shift.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Gabriel Shoyombo)</name>
         </author>
     </entry>
 </feed>
