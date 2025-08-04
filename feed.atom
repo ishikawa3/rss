@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-03T00:18:30.513Z</updated>
+    <updated>2025-08-04T00:18:08.160Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
@@ -878,16 +878,6 @@ The Layout Maestro Course originally published on CSS-Tricks, which is part of t
 Better CSS Shapes Using shape() — Part 4: Close and Move originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Temani Afif</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[From freeCodeCamp to NASA with Data Engineer Joe Hill [Podcast #178]]]></title>
-        <id>6867d0848831c0a4c0b21704</id>
-        <link href="https://www.freecodecamp.org/news/from-freecodecamp-to-nasa-with-data-engineer-joe-hill-podcast-178/"/>
-        <updated>2025-07-04T13:00:52.000Z</updated>
-        <summary type="html"><![CDATA[On this week's episode of the podcast, freeCodeCamp founder Quincy Larson interviews Joe Hill. He's a software engineer who works on a data platform for NASA.   Joe taught himself programming for 4 years while working as a janitor. As the single fath...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
         </author>
     </entry>
 </feed>
