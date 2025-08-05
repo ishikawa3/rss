@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-04T00:18:08.160Z</updated>
+    <updated>2025-08-05T00:17:04.025Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Learn React and Tailwind CSS for Front End Development]]></title>
+        <id>6890c118c9e79fc2ff1ce88f</id>
+        <link href="https://www.freecodecamp.org/news/learn-react-and-tailwind-css-for-front-end-development/"/>
+        <updated>2025-08-04T14:18:00.000Z</updated>
+        <summary type="html"><![CDATA[React and Tailwind CSS are popular tools for frontend web development. If you want to become a frontend developer, learning them are a great place to start. We just published a course on the freeCodeCamp.org YouTube channel that will teach you React ...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thinking Deeply About Theming and Color Naming]]></title>
+        <id>https://css-tricks.com/?p=387880</id>
+        <link href="https://css-tricks.com/thinking-deeply-about-theming-and-color-naming/"/>
+        <updated>2025-08-04T13:14:45.000Z</updated>
+        <summary type="html"><![CDATA[Today, I want to discuss a couple of patterns for naming color palettes that the community is using, and how I propose we can improve, so we achieve both flexibility and beauty.
+Thinking Deeply About Theming and Color Naming originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Zell Liew</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Embedded Swift: A Modern Approach to Low-Level Programming]]></title>
         <id>688d5fc7d30be1cecdacf767</id>

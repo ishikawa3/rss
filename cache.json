@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=387880",
+          "author": "Zell Liew",
+          "description": "Today, I want to discuss a couple of patterns for naming color palettes that the community is using, and how I propose we can improve, so we achieve both flexibility and beauty.\nThinking Deeply About Theming and Color Naming originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/thinking-deeply-about-theming-and-color-naming/",
+          "publishedOn": "2025-08-04T13:14:45.000Z",
+          "wordCount": 4672,
+          "title": "Thinking Deeply About Theming and Color Naming",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2018/07/abstract-color.jpg"
+        },
+        {
           "id": "https://css-tricks.com/?p=387974",
           "author": "Mészáros Róbert",
           "description": "Is there a way to build demos that do not break when the services they rely on fail? How can we ensure educational demos stay available for as long as possible?\nKeeping Article Demos Alive When Third-Party APIs Die originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -320,6 +330,16 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "6890c118c9e79fc2ff1ce88f",
+          "author": "Beau Carnes",
+          "description": "React and Tailwind CSS are popular tools for frontend web development. If you want to become a frontend developer, learning them are a great place to start. We just published a course on the freeCodeCamp.org YouTube channel that will teach you React ...",
+          "link": "https://www.freecodecamp.org/news/learn-react-and-tailwind-css-for-front-end-development/",
+          "publishedOn": "2025-08-04T14:18:00.000Z",
+          "wordCount": 1095,
+          "title": "Learn React and Tailwind CSS for Front End Development",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1754316874796/7a378441-7dbd-4a78-9d09-210ec7d9d2f1.png"
+        },
         {
           "id": "688d5fc7d30be1cecdacf767",
           "author": "Soham Banerjee",
