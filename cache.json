@@ -159,6 +159,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2025/08/ux-job-interview-helpers/",
+          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
+          "description": "Talking points. Smart questions. A compelling story. This guide helps you prepare for your UX job interview. And remember: no act of kindness, however small, is ever wasted.",
+          "link": "https://smashingmagazine.com/2025/08/ux-job-interview-helpers/",
+          "publishedOn": "2025-08-05T13:00:00.000Z",
+          "wordCount": 3853,
+          "title": "UX Job Interview Helpers",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/ux-job-interview-helpers/ux-job-interview-helpers.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/ux-job-interview-helpers/ux-job-interview-helpers.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2025/07/desktop-wallpaper-calendars-august-2025/",
           "author": "hello@smashingmagazine.com (Cosima Mielke)",
           "description": "Do you need a little inspiration boost? Well, then our new batch of desktop wallpapers might be for you. The wallpapers are designed with love by the community for the community and can be downloaded for free! Enjoy!",
@@ -330,6 +345,16 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "68926eb93b7f491bf54aef85",
+          "author": "Ilknur Eren",
+          "description": "If you’re reading this article on the freeCodeCamp publication, you should see some visual clues in different sections of the page. The header is at the top of the page. If you scroll all the way to the bottom of the page, you can see the footer sect...",
+          "link": "https://www.freecodecamp.org/news/improve-web-accessibility-with-landmarks/",
+          "publishedOn": "2025-08-05T20:51:05.000Z",
+          "wordCount": 1879,
+          "title": "How to Improve Web Accessibility with Landmarks - Explained with Examples",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1754425989581/1302898e-439b-4666-af27-cf1b091c6975.png"
+        },
         {
           "id": "6890c118c9e79fc2ff1ce88f",
           "author": "Beau Carnes",

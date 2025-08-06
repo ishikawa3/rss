@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-05T00:17:04.025Z</updated>
+    <updated>2025-08-06T00:16:59.140Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Improve Web Accessibility with Landmarks - Explained with Examples]]></title>
+        <id>68926eb93b7f491bf54aef85</id>
+        <link href="https://www.freecodecamp.org/news/improve-web-accessibility-with-landmarks/"/>
+        <updated>2025-08-05T20:51:05.000Z</updated>
+        <summary type="html"><![CDATA[If you’re reading this article on the freeCodeCamp publication, you should see some visual clues in different sections of the page. The header is at the top of the page. If you scroll all the way to the bottom of the page, you can see the footer sect...]]></summary>
+        <author>
+            <name>Ilknur Eren</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UX Job Interview Helpers]]></title>
+        <id>https://smashingmagazine.com/2025/08/ux-job-interview-helpers/</id>
+        <link href="https://smashingmagazine.com/2025/08/ux-job-interview-helpers/"/>
+        <updated>2025-08-05T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Talking points. Smart questions. A compelling story. This guide helps you prepare for your UX job interview. And remember: no act of kindness, however small, is ever wasted.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Learn React and Tailwind CSS for Front End Development]]></title>
         <id>6890c118c9e79fc2ff1ce88f</id>
