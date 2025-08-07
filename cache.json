@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=387868",
+          "author": "Blake Lundquist",
+          "description": "Parallax is a pattern in which different elements of a webpage move at varying speeds as the user scrolls, creating a three-dimensional, layered appearance. It once required JavaScript. Now we have scroll-driven animations in CSS, which is free from the main-thread blocking that can plague JavaScript animations.\nBringing Back Parallax With Scroll-Driven CSS Animations originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/bringing-back-parallax-with-scroll-driven-css-animations/",
+          "publishedOn": "2025-08-06T13:39:06.000Z",
+          "wordCount": 3180,
+          "title": "Bringing Back Parallax With Scroll-Driven CSS Animations",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2021/01/smooth-scroll.jpg"
+        },
+        {
           "id": "https://css-tricks.com/?p=387880",
           "author": "Zell Liew",
           "description": "Today, I want to discuss a couple of patterns for naming color palettes that the community is using, and how I propose we can improve, so we achieve both flexibility and beauty.\nThinking Deeply About Theming and Color Naming originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -140,16 +150,6 @@
           "wordCount": 2011,
           "title": "The Layout Maestro Course",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/07/layout-maestro-course.webp"
-        },
-        {
-          "id": "https://css-tricks.com/?p=387613",
-          "author": "Temani Afif",
-          "description": "The shape() function's close and move commands may not be ones you reach for often, but are incredibly useful for certain shapes.\nBetter CSS Shapes Using shape() — Part 4: Close and Move originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/better-css-shapes-using-shape-part-4-close-and-move/",
-          "publishedOn": "2025-07-07T12:48:29.000Z",
-          "wordCount": 3709,
-          "title": "Better CSS Shapes Using shape() — Part 4: Close and Move",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/07/css-shapes-function-csstricks-logo.webp"
         }
       ]
     },
@@ -158,6 +158,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2025/08/automating-design-systems-tips-resources/",
+          "author": "hello@smashingmagazine.com (Joas Pambou)",
+          "description": "Design systems are more than style guides: they’re made up of workflows, tokens, components, and documentation — all the stuff teams rely on to build consistent products. As projects grow, keeping everything in sync gets tricky fast. In this article, we’ll look at how smart tooling, combined with automation where it makes sense, can speed things up, reduce errors, and help your team focus on design over maintenance.",
+          "link": "https://smashingmagazine.com/2025/08/automating-design-systems-tips-resources/",
+          "publishedOn": "2025-08-06T10:00:00.000Z",
+          "wordCount": 5593,
+          "title": "Automating Design Systems: Tips And Resources For Getting Started",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/automating-design-systems-tips-resources/automating-design-systems-tips-resources.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/automating-design-systems-tips-resources/automating-design-systems-tips-resources.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2025/08/ux-job-interview-helpers/",
           "author": "hello@smashingmagazine.com (Vitaly Friedman)",
@@ -307,36 +322,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/unmasking-magic-wizard-oz-method-ux-research/unmasking-magic-wizard-oz-method-ux-research.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2025/07/modern-website-builder-wordpress-droip/",
-          "author": "hello@smashingmagazine.com (Zareen Tasnim)",
-          "description": "Traditional page builders have shaped how we build WordPress sites for years. Let’s take a closer look at [Droip](https://droip.com/), a modern, no-code visual builder, and explore how it redefines the experience with cleaner performance, full design freedom, and zero plugin dependency.",
-          "link": "https://smashingmagazine.com/2025/07/modern-website-builder-wordpress-droip/",
-          "publishedOn": "2025-07-08T10:00:00.000Z",
-          "wordCount": 4828,
-          "title": "Droip: The Modern Website Builder WordPress Needed",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/creating-more-than-wordpress-page-builders-droip/modern-website-builder-wordpress-droip.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/creating-more-than-wordpress-page-builders-droip/modern-website-builder-wordpress-droip.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2025/07/design-guidelines-better-notifications-ux/",
-          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
-          "description": "As always in design, timing matters, and so do timely notifications. Let’s explore how we might improve the notifications UX. More design patterns in our Smart Interface Design Patterns, a friendly video course on UX and design patterns by Vitaly — from complex data tables and nested filters to FAQs and error messages.",
-          "link": "https://smashingmagazine.com/2025/07/design-guidelines-better-notifications-ux/",
-          "publishedOn": "2025-07-07T13:00:00.000Z",
-          "wordCount": 4300,
-          "title": "Design Guidelines For Better Notifications UX",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/design-guidelines-better-notifications-ux/design-guidelines-better-notifications-ux.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/design-guidelines-better-notifications-ux/design-guidelines-better-notifications-ux.jpg"
         }
       ]
     },
@@ -345,6 +330,36 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "6893b598ffc433dd809aa59d",
+          "author": "Manish Shivanandhan",
+          "description": "If you're just starting your coding journey or trying to pick your next language, two names you’ll often hear — among others — are JavaScript and C#. Both are powerful, widely used, and respected in the software world. But they serve different purpos...",
+          "link": "https://www.freecodecamp.org/news/choose-the-right-language-js-vs-c-sharp/",
+          "publishedOn": "2025-08-06T20:05:44.000Z",
+          "wordCount": 2682,
+          "title": "JavaScript vs C#: How to Choose the Right Language as a Beginner",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1754510673710/75f0501b-9d42-43ee-bc90-cc028afdeb3a.png"
+        },
+        {
+          "id": "6893afcc4ff769448b46934a",
+          "author": "Tope Fasasi",
+          "description": "Your biggest security problem might be inside your own network. Hackers don't break in anymore - they just log in with stolen passwords. Old security systems trusted anyone who got inside the network. But now there's no clear \"inside\" or \"outside.\" P...",
+          "link": "https://www.freecodecamp.org/news/how-to-implement-zero-trust-authentication-in-your-web-apps/",
+          "publishedOn": "2025-08-06T19:41:00.000Z",
+          "wordCount": 6817,
+          "title": "How to Implement Zero-Trust Authentication in Your Web Apps",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1754503273007/1b04e262-05de-4fac-be47-56c01eb44446.png"
+        },
+        {
+          "id": "6893979288fd0a3a5d2544ce",
+          "author": "Sumit Saha",
+          "description": "Next.js is currently one of the most popular and intelligent Web Frameworks out there. But many developers using Next.js often can’t fully utilise its superpowers simply because some of its advanced concepts are hard to understand. In this in-depth t...",
+          "link": "https://www.freecodecamp.org/news/the-nextjs-15-streaming-handbook/",
+          "publishedOn": "2025-08-06T17:57:38.000Z",
+          "wordCount": 7621,
+          "title": "The Next.js 15 Streaming Handbook — SSR, React Suspense, and Loading Skeleton",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1754503023167/aff9af73-7733-4525-8bf4-0ded59eceefa.png"
+        },
         {
           "id": "68926eb93b7f491bf54aef85",
           "author": "Ilknur Eren",
@@ -954,36 +969,6 @@
           "wordCount": 2330,
           "title": "The Rise of AI Analytics and What It Means for Industries",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1751989824781/f5bd446f-cc03-4aca-9391-614dd4e8edb6.png"
-        },
-        {
-          "id": "686c430b1a4ac707c0692874",
-          "author": "Grant Riordan",
-          "description": "When you’re working with any website, application, or API, you'll inevitably need to log in and authenticate your user base. One of the more commonly used methods of passing around authentication credentials from one system to another is using a JSON...",
-          "link": "https://www.freecodecamp.org/news/what-are-json-web-tokens-jwt/",
-          "publishedOn": "2025-07-07T21:58:35.000Z",
-          "wordCount": 4095,
-          "title": "What Are JSON Web Tokens (JWT)?",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1751819356361/352ef68a-fa20-4a69-b666-393f7a17fa40.png"
-        },
-        {
-          "id": "686bd09bed71f7a85eba0f6f",
-          "author": "Oluwadamisi Samuel",
-          "description": "If you’ve ever built a form in React and felt like the input fields had a mind of their own, you’re not alone. One minute your form is working fine, the next you’re staring at a blank input that won’t update. Or React throws a warning like “A compone...",
-          "link": "https://www.freecodecamp.org/news/how-to-work-with-react-forms/",
-          "publishedOn": "2025-07-07T13:50:19.000Z",
-          "wordCount": 2004,
-          "title": "How to Work with React Forms So They Don't Break Your Brain",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1751502730489/90e30388-3517-457a-8ca0-630f589da914.png"
-        },
-        {
-          "id": "686bd0446349e98b57ebc099",
-          "author": "Mohit Menghnani",
-          "description": "As developers, we’re always looking for more efficient tools. The MERN stack (MongoDB, Express.js, React, and Node.js) stands out for its JavaScript-centric nature, offering a unified language across the entire application. In this guide, you'll buil...",
-          "link": "https://www.freecodecamp.org/news/how-to-build-production-ready-full-stack-apps-with-the-mern-stack/",
-          "publishedOn": "2025-07-07T13:48:52.000Z",
-          "wordCount": 6267,
-          "title": "How to Build Production-Ready Full Stack Apps with the MERN Stack",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1751502709499/b43b3607-f01b-45c0-9797-75eef92497c6.png"
         }
       ]
     }

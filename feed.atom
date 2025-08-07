@@ -2,10 +2,61 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-06T00:16:59.140Z</updated>
+    <updated>2025-08-07T00:17:06.769Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[JavaScript vs C#: How to Choose the Right Language as a Beginner]]></title>
+        <id>6893b598ffc433dd809aa59d</id>
+        <link href="https://www.freecodecamp.org/news/choose-the-right-language-js-vs-c-sharp/"/>
+        <updated>2025-08-06T20:05:44.000Z</updated>
+        <summary type="html"><![CDATA[If you're just starting your coding journey or trying to pick your next language, two names you’ll often hear — among others — are JavaScript and C#. Both are powerful, widely used, and respected in the software world. But they serve different purpos...]]></summary>
+        <author>
+            <name>Manish Shivanandhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Implement Zero-Trust Authentication in Your Web Apps]]></title>
+        <id>6893afcc4ff769448b46934a</id>
+        <link href="https://www.freecodecamp.org/news/how-to-implement-zero-trust-authentication-in-your-web-apps/"/>
+        <updated>2025-08-06T19:41:00.000Z</updated>
+        <summary type="html"><![CDATA[Your biggest security problem might be inside your own network. Hackers don't break in anymore - they just log in with stolen passwords. Old security systems trusted anyone who got inside the network. But now there's no clear "inside" or "outside." P...]]></summary>
+        <author>
+            <name>Tope Fasasi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Next.js 15 Streaming Handbook — SSR, React Suspense, and Loading Skeleton]]></title>
+        <id>6893979288fd0a3a5d2544ce</id>
+        <link href="https://www.freecodecamp.org/news/the-nextjs-15-streaming-handbook/"/>
+        <updated>2025-08-06T17:57:38.000Z</updated>
+        <summary type="html"><![CDATA[Next.js is currently one of the most popular and intelligent Web Frameworks out there. But many developers using Next.js often can’t fully utilise its superpowers simply because some of its advanced concepts are hard to understand. In this in-depth t...]]></summary>
+        <author>
+            <name>Sumit Saha</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bringing Back Parallax With Scroll-Driven CSS Animations]]></title>
+        <id>https://css-tricks.com/?p=387868</id>
+        <link href="https://css-tricks.com/bringing-back-parallax-with-scroll-driven-css-animations/"/>
+        <updated>2025-08-06T13:39:06.000Z</updated>
+        <summary type="html"><![CDATA[Parallax is a pattern in which different elements of a webpage move at varying speeds as the user scrolls, creating a three-dimensional, layered appearance. It once required JavaScript. Now we have scroll-driven animations in CSS, which is free from the main-thread blocking that can plague JavaScript animations.
+Bringing Back Parallax With Scroll-Driven CSS Animations originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Blake Lundquist</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Automating Design Systems: Tips And Resources For Getting Started]]></title>
+        <id>https://smashingmagazine.com/2025/08/automating-design-systems-tips-resources/</id>
+        <link href="https://smashingmagazine.com/2025/08/automating-design-systems-tips-resources/"/>
+        <updated>2025-08-06T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Design systems are more than style guides: they’re made up of workflows, tokens, components, and documentation — all the stuff teams rely on to build consistent products. As projects grow, keeping everything in sync gets tricky fast. In this article, we’ll look at how smart tooling, combined with automation where it makes sense, can speed things up, reduce errors, and help your team focus on design over maintenance.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Joas Pambou)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Improve Web Accessibility with Landmarks - Explained with Examples]]></title>
         <id>68926eb93b7f491bf54aef85</id>
@@ -858,67 +909,6 @@ The Layout Maestro Course originally published on CSS-Tricks, which is part of t
         <summary type="html"><![CDATA[Businesses today are flooded with data. From online purchases to hospital records, every action generates information.  But data alone is not useful. What matters is how companies use it to make decisions.  This is where AI analytics comes in. It com...]]></summary>
         <author>
             <name>Manish Shivanandhan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Droip: The Modern Website Builder WordPress Needed]]></title>
-        <id>https://smashingmagazine.com/2025/07/modern-website-builder-wordpress-droip/</id>
-        <link href="https://smashingmagazine.com/2025/07/modern-website-builder-wordpress-droip/"/>
-        <updated>2025-07-08T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Traditional page builders have shaped how we build WordPress sites for years. Let’s take a closer look at [Droip](https://droip.com/), a modern, no-code visual builder, and explore how it redefines the experience with cleaner performance, full design freedom, and zero plugin dependency.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Zareen Tasnim)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Are JSON Web Tokens (JWT)?]]></title>
-        <id>686c430b1a4ac707c0692874</id>
-        <link href="https://www.freecodecamp.org/news/what-are-json-web-tokens-jwt/"/>
-        <updated>2025-07-07T21:58:35.000Z</updated>
-        <summary type="html"><![CDATA[When you’re working with any website, application, or API, you'll inevitably need to log in and authenticate your user base. One of the more commonly used methods of passing around authentication credentials from one system to another is using a JSON...]]></summary>
-        <author>
-            <name>Grant Riordan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Work with React Forms So They Don't Break Your Brain]]></title>
-        <id>686bd09bed71f7a85eba0f6f</id>
-        <link href="https://www.freecodecamp.org/news/how-to-work-with-react-forms/"/>
-        <updated>2025-07-07T13:50:19.000Z</updated>
-        <summary type="html"><![CDATA[If you’ve ever built a form in React and felt like the input fields had a mind of their own, you’re not alone. One minute your form is working fine, the next you’re staring at a blank input that won’t update. Or React throws a warning like “A compone...]]></summary>
-        <author>
-            <name>Oluwadamisi Samuel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build Production-Ready Full Stack Apps with the MERN Stack]]></title>
-        <id>686bd0446349e98b57ebc099</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-production-ready-full-stack-apps-with-the-mern-stack/"/>
-        <updated>2025-07-07T13:48:52.000Z</updated>
-        <summary type="html"><![CDATA[As developers, we’re always looking for more efficient tools. The MERN stack (MongoDB, Express.js, React, and Node.js) stands out for its JavaScript-centric nature, offering a unified language across the entire application. In this guide, you'll buil...]]></summary>
-        <author>
-            <name>Mohit Menghnani</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Design Guidelines For Better Notifications UX]]></title>
-        <id>https://smashingmagazine.com/2025/07/design-guidelines-better-notifications-ux/</id>
-        <link href="https://smashingmagazine.com/2025/07/design-guidelines-better-notifications-ux/"/>
-        <updated>2025-07-07T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[As always in design, timing matters, and so do timely notifications. Let’s explore how we might improve the notifications UX. More design patterns in our Smart Interface Design Patterns, a friendly video course on UX and design patterns by Vitaly — from complex data tables and nested filters to FAQs and error messages.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Better CSS Shapes Using shape() — Part 4: Close and Move]]></title>
-        <id>https://css-tricks.com/?p=387613</id>
-        <link href="https://css-tricks.com/better-css-shapes-using-shape-part-4-close-and-move/"/>
-        <updated>2025-07-07T12:48:29.000Z</updated>
-        <summary type="html"><![CDATA[The shape() function's close and move commands may not be ones you reach for often, but are incredibly useful for certain shapes.
-Better CSS Shapes Using shape() — Part 4: Close and Move originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Temani Afif</name>
         </author>
     </entry>
 </feed>
