@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-07T00:17:06.769Z</updated>
+    <updated>2025-08-08T00:16:46.009Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Key Metrics That Can Make or Break Your Startup]]></title>
+        <id>6894eea1ba8a1138e41767a1</id>
+        <link href="https://www.freecodecamp.org/news/key-metrics-that-can-make-or-break-your-startup/"/>
+        <updated>2025-08-07T18:21:21.000Z</updated>
+        <summary type="html"><![CDATA[If you’ve built something worth pitching – something more than a fancy hobby with a login screen – you need to know your numbers. Not "I’ll get back to you" know them, know them like you know your co-founder's coffee order. I have seen too many found...]]></summary>
+        <author>
+            <name>Aditya Vikram Kashyap</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Free Up and Automatically Manage Disk Space for WSL on Windows 10/11]]></title>
+        <id>6893e671640b08f689368ee6</id>
+        <link href="https://www.freecodecamp.org/news/how-to-free-up-and-automatically-manage-disk-space-for-wsl-on-windows-1011/"/>
+        <updated>2025-08-06T23:34:09.000Z</updated>
+        <summary type="html"><![CDATA[Windows Subsystem for Linux (WSL) lets you run a Linux environment directly on Windows. This is particularly useful for web development where you can develop and test applications in a Linux environment without leaving Windows. You can even run freeC...]]></summary>
+        <author>
+            <name>brooklyn</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[JavaScript vs C#: How to Choose the Right Language as a Beginner]]></title>
         <id>6893b598ffc433dd809aa59d</id>
@@ -879,36 +899,6 @@ The Layout Maestro Course originally published on CSS-Tricks, which is part of t
         <summary type="html"><![CDATA[Learn the power of vibe coding and how it pairs perfectly with n8n to build full-stack AI-driven apps. We just published a crash course on the freeCodeCamp.org YouTube channel that will teach you the power of VibeCoding and how to automate real-world...]]></summary>
         <author>
             <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use Pytest: A Simple Guide to Testing in Pytho]]></title>
-        <id>686d82b56332ba136ecc139e</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-pytest-a-guide-to-testing-in-python/"/>
-        <updated>2025-07-08T20:42:29.000Z</updated>
-        <summary type="html"><![CDATA[With the recent advancements in AI, tools like ChatGPT have made the development process faster and more accessible. Developers can now write code and build web apps with some well-articulated prompts and careful code reviews. While this brings an in...]]></summary>
-        <author>
-            <name>Olowo Jude</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use Constructors in Java: A Beginner's Guide]]></title>
-        <id>686d6044aa83d1a2c46d6160</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-constructors-in-java-a-beginners-guide/"/>
-        <updated>2025-07-08T18:15:32.000Z</updated>
-        <summary type="html"><![CDATA[Java is an object-oriented programming language that is centred around the concept of objects. Objects are like real-world entities that are created with the new keyword and occupy memory. But all this happens in the front-end code – so what about th...]]></summary>
-        <author>
-            <name>Ateev Duggal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Rise of AI Analytics and What It Means for Industries]]></title>
-        <id>686d3f17ba9172cf1f2ba98b</id>
-        <link href="https://www.freecodecamp.org/news/the-rise-of-ai-analytics-and-what-it-means-for-industries/"/>
-        <updated>2025-07-08T15:53:59.000Z</updated>
-        <summary type="html"><![CDATA[Businesses today are flooded with data. From online purchases to hospital records, every action generates information.  But data alone is not useful. What matters is how companies use it to make decisions.  This is where AI analytics comes in. It com...]]></summary>
-        <author>
-            <name>Manish Shivanandhan</name>
         </author>
     </entry>
 </feed>

@@ -331,6 +331,26 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "6894eea1ba8a1138e41767a1",
+          "author": "Aditya Vikram Kashyap",
+          "description": "If you’ve built something worth pitching – something more than a fancy hobby with a login screen – you need to know your numbers. Not \"I’ll get back to you\" know them, know them like you know your co-founder's coffee order. I have seen too many found...",
+          "link": "https://www.freecodecamp.org/news/key-metrics-that-can-make-or-break-your-startup/",
+          "publishedOn": "2025-08-07T18:21:21.000Z",
+          "wordCount": 4795,
+          "title": "Key Metrics That Can Make or Break Your Startup",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1754590848364/2e68c07e-d5d8-4da7-bc41-3798c991bfbc.png"
+        },
+        {
+          "id": "6893e671640b08f689368ee6",
+          "author": "brooklyn",
+          "description": "Windows Subsystem for Linux (WSL) lets you run a Linux environment directly on Windows. This is particularly useful for web development where you can develop and test applications in a Linux environment without leaving Windows. You can even run freeC...",
+          "link": "https://www.freecodecamp.org/news/how-to-free-up-and-automatically-manage-disk-space-for-wsl-on-windows-1011/",
+          "publishedOn": "2025-08-06T23:34:09.000Z",
+          "wordCount": 3708,
+          "title": "How to Free Up and Automatically Manage Disk Space for WSL on Windows 10/11",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1754523230294/70893973-fddf-42a9-b41a-2a8f94a47e22.png"
+        },
+        {
           "id": "6893b598ffc433dd809aa59d",
           "author": "Manish Shivanandhan",
           "description": "If you're just starting your coding journey or trying to pick your next language, two names you’ll often hear — among others — are JavaScript and C#. Both are powerful, widely used, and respected in the software world. But they serve different purpos...",
@@ -939,36 +959,6 @@
           "wordCount": 1305,
           "title": "How to Vibe Code With Help From n8n",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1751989831875/d04a4ccc-1159-4ff1-944b-d75399a55a2e.jpeg"
-        },
-        {
-          "id": "686d82b56332ba136ecc139e",
-          "author": "Olowo Jude",
-          "description": "With the recent advancements in AI, tools like ChatGPT have made the development process faster and more accessible. Developers can now write code and build web apps with some well-articulated prompts and careful code reviews. While this brings an in...",
-          "link": "https://www.freecodecamp.org/news/how-to-use-pytest-a-guide-to-testing-in-python/",
-          "publishedOn": "2025-07-08T20:42:29.000Z",
-          "wordCount": 3804,
-          "title": "How to Use Pytest: A Simple Guide to Testing in Pytho",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1752007334998/e196493e-f3e0-4e63-b6eb-ce66c5481d9c.png"
-        },
-        {
-          "id": "686d6044aa83d1a2c46d6160",
-          "author": "Ateev Duggal",
-          "description": "Java is an object-oriented programming language that is centred around the concept of objects. Objects are like real-world entities that are created with the new keyword and occupy memory. But all this happens in the front-end code – so what about th...",
-          "link": "https://www.freecodecamp.org/news/how-to-use-constructors-in-java-a-beginners-guide/",
-          "publishedOn": "2025-07-08T18:15:32.000Z",
-          "wordCount": 4422,
-          "title": "How to Use Constructors in Java: A Beginner's Guide",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1751998519087/7808c004-c8e5-4e63-b293-10fa479a179f.png"
-        },
-        {
-          "id": "686d3f17ba9172cf1f2ba98b",
-          "author": "Manish Shivanandhan",
-          "description": "Businesses today are flooded with data. From online purchases to hospital records, every action generates information.  But data alone is not useful. What matters is how companies use it to make decisions.  This is where AI analytics comes in. It com...",
-          "link": "https://www.freecodecamp.org/news/the-rise-of-ai-analytics-and-what-it-means-for-industries/",
-          "publishedOn": "2025-07-08T15:53:59.000Z",
-          "wordCount": 2330,
-          "title": "The Rise of AI Analytics and What It Means for Industries",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1751989824781/f5bd446f-cc03-4aca-9391-614dd4e8edb6.png"
         }
       ]
     }
