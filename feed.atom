@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-09T00:15:43.004Z</updated>
+    <updated>2025-08-10T00:18:14.985Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
@@ -900,26 +900,6 @@ The Layout Maestro Course originally published on CSS-Tricks, which is part of t
         <summary type="html"><![CDATA[On this week's episode of the podcast, freeCodeCamp founder Quincy Larson interviews Braydon Coyer. He's a software engineer who started building mobile apps in high school – one of which even out-sold Angry Birds for a few days. He dropped out of hi...]]></summary>
         <author>
             <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Build and Deploy a Polished AI Project and Get Sales]]></title>
-        <id>686fc789733ed1ffff06fcf7</id>
-        <link href="https://www.freecodecamp.org/news/build-and-deploy-a-polished-ai-project-and-get-sales/"/>
-        <updated>2025-07-10T14:00:41.000Z</updated>
-        <summary type="html"><![CDATA[Tired of making projects that are just AI API wrappers? Do you want to learn how to build a real AI project that you can actually sell? We just published a course on the freeCodeCamp.org YouTube channel that will show you how to build and deploy an e...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use the "this" Keyword in JavaScript: A Handbook for Devs]]></title>
-        <id>686fc4a0fb8e16a8295fc149</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-the-this-keyword-in-javascript-a-handbook-for-devs/"/>
-        <updated>2025-07-10T13:48:16.000Z</updated>
-        <summary type="html"><![CDATA[The this keyword in JavaScript is like a chameleon – it changes its meaning depending on where and how it's used. Many developers struggle with this because it doesn't behave the same way in JavaScript as it does in other programming languages. Think...]]></summary>
-        <author>
-            <name>Henry Adepegba</name>
         </author>
     </entry>
 </feed>
