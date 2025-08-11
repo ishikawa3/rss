@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-10T00:18:14.985Z</updated>
+    <updated>2025-08-11T00:17:31.377Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Choose the Best Programming Languages, Libraries, and Patterns]]></title>
+        <id>6898d3414c52a26ffefb1693</id>
+        <link href="https://www.freecodecamp.org/news/how-to-choose-the-best-programming-languages-libraries-and-patterns/"/>
+        <updated>2025-08-10T17:13:37.000Z</updated>
+        <summary type="html"><![CDATA[In my first few years learning software development and building applications, I was quite interested in finding the best programming language, platform, libraries, frameworks, patterns, and architectures available. I thought that by finding the best...]]></summary>
+        <author>
+            <name>Ryan Michael Kay</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Fix the Python ENOENT Error When Setting Up MCP Servers – A Complete Guide]]></title>
         <id>68963890790ac4491c15b00a</id>
@@ -858,48 +868,6 @@ What I Took From the State of Dev 2025 Survey originally published on CSS-Tricks
 Setting Line Length in CSS (and Fitting Text to a Container) originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Daniel Schwarz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The JavaScript Error Handling Handbook]]></title>
-        <id>68715d56bc2af40281bdf584</id>
-        <link href="https://www.freecodecamp.org/news/the-javascript-error-handling-handbook/"/>
-        <updated>2025-07-11T18:52:06.000Z</updated>
-        <summary type="html"><![CDATA[Errors and exceptions are inevitable in application development. As programmers, it is our responsibility to handle these errors gracefully so that the user experience of the application is not compromised. Handling errors correctly also helps progra...]]></summary>
-        <author>
-            <name>Tapas Adhikary</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Scroll-Driven Sticky Heading]]></title>
-        <id>https://css-tricks.com/?p=387748</id>
-        <link href="https://css-tricks.com/scroll-driven-sticky-heading/"/>
-        <updated>2025-07-11T17:11:00.000Z</updated>
-        <summary type="html"><![CDATA[I was playing around with scroll-driven animations, just searching for all sorts of random things you could do. That’s when I came up with the idea to animate main headings and, using scroll-driven animations, change the headings based on the user’s scroll position.
-Scroll-Driven Sticky Heading originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Amit Sheen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Layout Maestro Course]]></title>
-        <id>https://css-tricks.com/?p=388030</id>
-        <link href="https://css-tricks.com/the-layout-maestro-course/"/>
-        <updated>2025-07-11T17:07:13.000Z</updated>
-        <summary type="html"><![CDATA[Layout. It’s one of those easy-to-learn, difficult-to-master things, like they say about playing bass. Not because it’s innately difficult to, say, place two elements next to each other, but because there are many, many ways to tackle it. And …
-The Layout Maestro Course originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[799 rejections... but he got the job! Braydon Coyer developer interview [Podcast #179]]]></title>
-        <id>687118f5feb1fdc94037fc8c</id>
-        <link href="https://www.freecodecamp.org/news/799-rejections-but-he-got-the-job-braydon-coyer-developer-interview-podcast-179/"/>
-        <updated>2025-07-11T14:00:21.000Z</updated>
-        <summary type="html"><![CDATA[On this week's episode of the podcast, freeCodeCamp founder Quincy Larson interviews Braydon Coyer. He's a software engineer who started building mobile apps in high school – one of which even out-sold Angry Birds for a few days. He dropped out of hi...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
         </author>
     </entry>
 </feed>
