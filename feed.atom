@@ -2,10 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-11T00:17:31.377Z</updated>
+    <updated>2025-08-12T00:15:25.123Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Getting Creative With Quotes]]></title>
+        <id>https://css-tricks.com/?p=387939</id>
+        <link href="https://css-tricks.com/getting-creative-with-quotes/"/>
+        <updated>2025-08-11T13:43:14.000Z</updated>
+        <summary type="html"><![CDATA[How do you design block quotes and pull quotes to reflect a brand’s visual identity and help tell its story? Here’s how I do it by styling the HTML blockquote element using borders, decorative quote marks, custom shapes, and a few unexpected properties.
+Getting Creative With Quotes originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Andy Clarke</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stuff & Nonsense Practical Layout Workshop]]></title>
+        <id>https://css-tricks.com/?p=388616</id>
+        <link href="https://css-tricks.com/stuff-nonsense-practical-layout-workshop/"/>
+        <updated>2025-08-11T12:16:00.000Z</updated>
+        <summary type="html"><![CDATA[Web design veteran Andy Clarke is offering a two-hour workshop all about creating practical and creative page layouts this September 18. Register and save a few bucks with a coupon code.
+Stuff & Nonsense Practical Layout Workshop originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Designing With AI, Not Around It: Practical Advanced Techniques For Product Design Use Cases]]></title>
+        <id>https://smashingmagazine.com/2025/08/designing-with-ai-practical-techniques-product-design/</id>
+        <link href="https://smashingmagazine.com/2025/08/designing-with-ai-practical-techniques-product-design/"/>
+        <updated>2025-08-11T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Prompting isn’t just about writing better instructions, but about designing better thinking. Ilia Kanazin and Marina Chernyshova explore how advanced prompting can empower different product & design use cases, speeding up your workflow and improving results, from research and brainstorming to testing and beyond. Let’s dive in.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Ilia Kanazin &amp; Marina Chernyshova)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Choose the Best Programming Languages, Libraries, and Patterns]]></title>
         <id>6898d3414c52a26ffefb1693</id>

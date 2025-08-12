@@ -12,6 +12,26 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=387939",
+          "author": "Andy Clarke",
+          "description": "How do you design block quotes and pull quotes to reflect a brand’s visual identity and help tell its story? Here’s how I do it by styling the HTML blockquote element using borders, decorative quote marks, custom shapes, and a few unexpected properties.\nGetting Creative With Quotes originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/getting-creative-with-quotes/",
+          "publishedOn": "2025-08-11T13:43:14.000Z",
+          "wordCount": 2986,
+          "title": "Getting Creative With Quotes",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/07/s_790F7B84CC43EDAACAC230BA09FDB2B94DE343C5FDA5C4802B33DF9B607B71C2_1752019872672_2025-07-09-9.webp"
+        },
+        {
+          "id": "https://css-tricks.com/?p=388616",
+          "author": "Geoff Graham",
+          "description": "Web design veteran Andy Clarke is offering a two-hour workshop all about creating practical and creative page layouts this September 18. Register and save a few bucks with a coupon code.\nStuff & Nonsense Practical Layout Workshop originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/stuff-nonsense-practical-layout-workshop/",
+          "publishedOn": "2025-08-11T12:16:00.000Z",
+          "wordCount": 1868,
+          "title": "Stuff & Nonsense Practical Layout Workshop",
+          "imageUrl": "https://css-tricks.com/wp-content/uploads/2025/08/andy-clarke-ti-114.png.avif"
+        },
+        {
           "id": "https://css-tricks.com/?p=388380",
           "author": "Shivam Bhalla",
           "description": "Get advice answering a set of 10 CSS-related questions you likely will encounter in front-end interviews.\nHow to Prepare for CSS-Specific Interview Questions originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -148,6 +168,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2025/08/designing-with-ai-practical-techniques-product-design/",
+          "author": "hello@smashingmagazine.com (Ilia Kanazin & Marina Chernyshova)",
+          "description": "Prompting isn’t just about writing better instructions, but about designing better thinking. Ilia Kanazin and Marina Chernyshova explore how advanced prompting can empower different product & design use cases, speeding up your workflow and improving results, from research and brainstorming to testing and beyond. Let’s dive in.",
+          "link": "https://smashingmagazine.com/2025/08/designing-with-ai-practical-techniques-product-design/",
+          "publishedOn": "2025-08-11T08:00:00.000Z",
+          "wordCount": 5850,
+          "title": "Designing With AI, Not Around It: Practical Advanced Techniques For Product Design Use Cases",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/designing-with-ai-practical-techniques-product-design/designing-with-ai-practical-techniques-product-design.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/designing-with-ai-practical-techniques-product-design/designing-with-ai-practical-techniques-product-design.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2025/08/power-intl-api-guide-browser-native-internationalization/",
           "author": "hello@smashingmagazine.com (Fuqiao Xue)",
