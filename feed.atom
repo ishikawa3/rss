@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-12T00:15:25.123Z</updated>
+    <updated>2025-08-13T00:15:48.808Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CSS-Questions]]></title>
+        <id>https://css-tricks.com/?p=388740</id>
+        <link href="https://css-tricks.com/css-questions/"/>
+        <updated>2025-08-12T15:02:21.000Z</updated>
+        <summary type="html"><![CDATA[CSS-Questions is a mini site where you can test your CSS knowledge with over 100 questions. 
+CSS-Questions originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn DevSecOps and API Security]]></title>
+        <id>689b47c881c4b29c5904b9a5</id>
+        <link href="https://www.freecodecamp.org/news/learn-devsecops-and-api-security/"/>
+        <updated>2025-08-12T13:55:20.000Z</updated>
+        <summary type="html"><![CDATA[Learn the essential concepts of DevSecOps and why integrating security throughout the software development lifecycle is more important than ever. We just posted a course on the freeCodeCamp.org YouTube channel that will guide you through the foundati...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Getting Creative With Quotes]]></title>
         <id>https://css-tricks.com/?p=387939</id>

@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=388740",
+          "author": "Geoff Graham",
+          "description": "CSS-Questions is a mini site where you can test your CSS knowledge with over 100 questions. \nCSS-Questions originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/css-questions/",
+          "publishedOn": "2025-08-12T15:02:21.000Z",
+          "wordCount": 1709,
+          "title": "CSS-Questions",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/08/css-questions-thumb.jpeg"
+        },
+        {
           "id": "https://css-tricks.com/?p=387939",
           "author": "Andy Clarke",
           "description": "How do you design block quotes and pull quotes to reflect a brand’s visual identity and help tell its story? Here’s how I do it by styling the HTML blockquote element using borders, decorative quote marks, custom shapes, and a few unexpected properties.\nGetting Creative With Quotes originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -355,6 +365,16 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "689b47c881c4b29c5904b9a5",
+          "author": "Beau Carnes",
+          "description": "Learn the essential concepts of DevSecOps and why integrating security throughout the software development lifecycle is more important than ever. We just posted a course on the freeCodeCamp.org YouTube channel that will guide you through the foundati...",
+          "link": "https://www.freecodecamp.org/news/learn-devsecops-and-api-security/",
+          "publishedOn": "2025-08-12T13:55:20.000Z",
+          "wordCount": 1069,
+          "title": "Learn DevSecOps and API Security",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1755006902110/cea96794-81df-4e39-bec5-651bb3b6d9a0.jpeg"
+        },
         {
           "id": "6898d3414c52a26ffefb1693",
           "author": "Ryan Michael Kay",
