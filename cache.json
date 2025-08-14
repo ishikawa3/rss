@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=388448",
+          "author": "Zell Liew",
+          "description": "I've come to realize that perhaps we need to have a unit between root and relative values. This would bring about a whole new possibility when creating reusable components.\nWe Might Need Something Between Root and Relative CSS Units for “Base Elements” originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/we-might-need-something-between-root-and-relative-css-units-for-base-elements/",
+          "publishedOn": "2025-08-13T13:24:55.000Z",
+          "wordCount": 4282,
+          "title": "We Might Need Something Between Root and Relative CSS Units for “Base Elements”",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/10/random-number-slots.png"
+        },
+        {
           "id": "https://css-tricks.com/?p=388740",
           "author": "Geoff Graham",
           "description": "CSS-Questions is a mini site where you can test your CSS knowledge with over 100 questions. \nCSS-Questions originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -160,16 +170,6 @@
           "wordCount": 3453,
           "title": "What I Took From the State of Dev 2025 Survey",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/07/devs2025-og.png"
-        },
-        {
-          "id": "https://css-tricks.com/?p=387679",
-          "author": "Daniel Schwarz",
-          "description": "The many ways to juggle line length when working with text... including two proposed  properties that could make it easier in the future.\nSetting Line Length in CSS (and Fitting Text to a Container) originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/setting-line-length-in-css-and-fitting-text-to-a-container/",
-          "publishedOn": "2025-07-14T12:38:23.000Z",
-          "wordCount": 3277,
-          "title": "Setting Line Length in CSS (and Fitting Text to a Container)",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2020/04/type-scale.png"
         }
       ]
     },
@@ -178,6 +178,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2025/08/from-line-to-layout-past-experiences-shape-design-career/",
+          "author": "hello@smashingmagazine.com (Stephanie Campbell)",
+          "description": "Your past shapes who you are as a designer, no matter where your career began or how unexpected your career path may have been. Stephanie Campbell shows how those lessons can sharpen your instincts, strengthen collaboration, and help you become a better designer today. Learn how the skills you have learned in your previous jobs can be put to work today in meetings, design reviews, and complicated mid-project pivots.",
+          "link": "https://smashingmagazine.com/2025/08/from-line-to-layout-past-experiences-shape-design-career/",
+          "publishedOn": "2025-08-13T11:00:00.000Z",
+          "wordCount": 5539,
+          "title": "From Line To Layout: How Past Experiences Shape Your Design Career",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/from-line-to-layout-past-experiences-shape-design-career/from-line-to-layout-past-experiences-shape-design-career.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/from-line-to-layout-past-experiences-shape-design-career/from-line-to-layout-past-experiences-shape-design-career.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2025/08/designing-with-ai-practical-techniques-product-design/",
           "author": "hello@smashingmagazine.com (Ilia Kanazin & Marina Chernyshova)",
@@ -342,21 +357,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/tiny-screens-big-impact-developing-web-apps-feature-phones/tiny-screens-big-impact-developing-web-apps-feature-phones.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2025/07/design-patterns-ai-interfaces/",
-          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
-          "description": "Designing a new AI feature? Where do you even begin? From first steps to design flows and interactions, here’s a simple, systematic approach to building AI experiences that stick.",
-          "link": "https://smashingmagazine.com/2025/07/design-patterns-ai-interfaces/",
-          "publishedOn": "2025-07-14T15:00:00.000Z",
-          "wordCount": 4053,
-          "title": "Design Patterns For AI Interfaces",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/design-patterns-ai-interfaces/design-patterns-ai-interfaces.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/design-patterns-ai-interfaces/design-patterns-ai-interfaces.jpg"
         }
       ]
     },
@@ -365,6 +365,56 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "689cd35e34fbf8c230ae0b6c",
+          "author": "Daniel García Solla",
+          "description": "This book will guide you, step-by-step, through designing a relational database using SQL. SQL is one of the most recognized relational languages for managing and querying data in databases. You’ll learn the fundamental concepts related to both data ...",
+          "link": "https://www.freecodecamp.org/news/how-to-design-structured-database-systems-using-sql-full-book/",
+          "publishedOn": "2025-08-13T18:03:10.000Z",
+          "wordCount": 120765,
+          "title": "How to Design Structured Database Systems Using SQL [Full Book]",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1755095979245/dfd39c26-3456-4e79-a01c-0b2a82f7a034.png"
+        },
+        {
+          "id": "689cc9ce08eeb0d54c95cff1",
+          "author": "Abhijeet Dave",
+          "description": "In this article, you’ll learn how to integrate Tailwind CSS with Electron to build stylish, responsive desktop applications. You’ll set up Tailwind in an Electron project, configure your project, style the components, and optimize the development wor...",
+          "link": "https://www.freecodecamp.org/news/integrate-tailwind-with-electron/",
+          "publishedOn": "2025-08-13T17:22:22.000Z",
+          "wordCount": 2878,
+          "title": "How to Integrate Tailwind with Electron – With Code Examples",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1755102784797/0a2d19f0-3539-47c6-a29d-68fab3d430ba.png"
+        },
+        {
+          "id": "689cb5d3faa7288735f4eb77",
+          "author": "Beau Carnes",
+          "description": "Learn Next.js 15 Caching & Rendering using the App Router. We just posted a course on the freeCodeCamp.org YouTube channel for people who want a clear, engineering-level understanding of how Next.js optimizes performance through smart rendering strat...",
+          "link": "https://www.freecodecamp.org/news/learn-nextjs-15-caching-and-rendering/",
+          "publishedOn": "2025-08-13T15:57:07.000Z",
+          "wordCount": 1114,
+          "title": "Learn Next.js 15 Caching & Rendering",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1755100527163/bc71b3bd-1bfc-45c2-a0f5-78e57aed8dd3.png"
+        },
+        {
+          "id": "689ca3344cac10c21b1f670c",
+          "author": "Isaiah Clifford Opoku",
+          "description": "In today's distributed computing landscape, efficient service-to-service communication is crucial for building scalable, high-performance applications. gRPC (Google Remote Procedure Call) has emerged as one of the most powerful frameworks for creatin...",
+          "link": "https://www.freecodecamp.org/news/get-started-with-aspnet-core-and-grpc-handbook/",
+          "publishedOn": "2025-08-13T14:37:40.000Z",
+          "wordCount": 8986,
+          "title": "How to Get Started with ASP.NET Core and gRPC: A Handbook for Developers",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1755043329753/f5ff4a61-79b7-44f0-9871-9dfef9f8d08a.png"
+        },
+        {
+          "id": "689bd6ecfb63224ae4bf0fce",
+          "author": "Manish Shivanandhan",
+          "description": "Building a website with WordPress used to take a lot of time. You had to install the platform, choose a theme, add plugins, write all the content by hand, and make sure everything worked well together. Even skilled developers spent hours setting up a...",
+          "link": "https://www.freecodecamp.org/news/what-wordpress-development-looks-like-in-the-age-of-ai/",
+          "publishedOn": "2025-08-13T00:06:04.000Z",
+          "wordCount": 2478,
+          "title": "What WordPress Development Looks Like in the Age of AI",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1755043537289/20e17529-88fd-4fbd-94c4-69cf72d8a470.png"
+        },
         {
           "id": "689b47c881c4b29c5904b9a5",
           "author": "Beau Carnes",
@@ -974,16 +1024,6 @@
           "wordCount": 2477,
           "title": "How to Create an AWS Free Tier Account – A Step-by-Step Guide",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1752599184286/ff14fece-f865-4d8f-87e7-4cfed11a6946.png"
-        },
-        {
-          "id": "687543a2e9820caf95eae4f3",
-          "author": "Mark Mahoney",
-          "description": "The Wordle phenomenon from a few years back inspired developers worldwide to create their own word games. It inspired me to conceive and build a game, too. ‘Word Zearch’ combines elements of Boggle and word search puzzles into a web-based game where ...",
-          "link": "https://www.freecodecamp.org/news/build-a-word-search-game-using-html-css-and-javascript/",
-          "publishedOn": "2025-07-14T17:51:30.000Z",
-          "wordCount": 2277,
-          "title": "How to Build a Word Search Game Using HTML, CSS, and JavaScript",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1752511862075/76f0131a-336f-4670-a571-ad023e3906bb.png"
         }
       ]
     }

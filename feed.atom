@@ -2,10 +2,81 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-13T00:15:48.808Z</updated>
+    <updated>2025-08-14T00:15:40.732Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Design Structured Database Systems Using SQL [Full Book]]]></title>
+        <id>689cd35e34fbf8c230ae0b6c</id>
+        <link href="https://www.freecodecamp.org/news/how-to-design-structured-database-systems-using-sql-full-book/"/>
+        <updated>2025-08-13T18:03:10.000Z</updated>
+        <summary type="html"><![CDATA[This book will guide you, step-by-step, through designing a relational database using SQL. SQL is one of the most recognized relational languages for managing and querying data in databases. You’ll learn the fundamental concepts related to both data ...]]></summary>
+        <author>
+            <name>Daniel García Solla</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Integrate Tailwind with Electron – With Code Examples]]></title>
+        <id>689cc9ce08eeb0d54c95cff1</id>
+        <link href="https://www.freecodecamp.org/news/integrate-tailwind-with-electron/"/>
+        <updated>2025-08-13T17:22:22.000Z</updated>
+        <summary type="html"><![CDATA[In this article, you’ll learn how to integrate Tailwind CSS with Electron to build stylish, responsive desktop applications. You’ll set up Tailwind in an Electron project, configure your project, style the components, and optimize the development wor...]]></summary>
+        <author>
+            <name>Abhijeet Dave</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn Next.js 15 Caching & Rendering]]></title>
+        <id>689cb5d3faa7288735f4eb77</id>
+        <link href="https://www.freecodecamp.org/news/learn-nextjs-15-caching-and-rendering/"/>
+        <updated>2025-08-13T15:57:07.000Z</updated>
+        <summary type="html"><![CDATA[Learn Next.js 15 Caching & Rendering using the App Router. We just posted a course on the freeCodeCamp.org YouTube channel for people who want a clear, engineering-level understanding of how Next.js optimizes performance through smart rendering strat...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Get Started with ASP.NET Core and gRPC: A Handbook for Developers]]></title>
+        <id>689ca3344cac10c21b1f670c</id>
+        <link href="https://www.freecodecamp.org/news/get-started-with-aspnet-core-and-grpc-handbook/"/>
+        <updated>2025-08-13T14:37:40.000Z</updated>
+        <summary type="html"><![CDATA[In today's distributed computing landscape, efficient service-to-service communication is crucial for building scalable, high-performance applications. gRPC (Google Remote Procedure Call) has emerged as one of the most powerful frameworks for creatin...]]></summary>
+        <author>
+            <name>Isaiah Clifford Opoku</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[We Might Need Something Between Root and Relative CSS Units for “Base Elements”]]></title>
+        <id>https://css-tricks.com/?p=388448</id>
+        <link href="https://css-tricks.com/we-might-need-something-between-root-and-relative-css-units-for-base-elements/"/>
+        <updated>2025-08-13T13:24:55.000Z</updated>
+        <summary type="html"><![CDATA[I've come to realize that perhaps we need to have a unit between root and relative values. This would bring about a whole new possibility when creating reusable components.
+We Might Need Something Between Root and Relative CSS Units for “Base Elements” originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Zell Liew</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From Line To Layout: How Past Experiences Shape Your Design Career]]></title>
+        <id>https://smashingmagazine.com/2025/08/from-line-to-layout-past-experiences-shape-design-career/</id>
+        <link href="https://smashingmagazine.com/2025/08/from-line-to-layout-past-experiences-shape-design-career/"/>
+        <updated>2025-08-13T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Your past shapes who you are as a designer, no matter where your career began or how unexpected your career path may have been. Stephanie Campbell shows how those lessons can sharpen your instincts, strengthen collaboration, and help you become a better designer today. Learn how the skills you have learned in your previous jobs can be put to work today in meetings, design reviews, and complicated mid-project pivots.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Stephanie Campbell)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What WordPress Development Looks Like in the Age of AI]]></title>
+        <id>689bd6ecfb63224ae4bf0fce</id>
+        <link href="https://www.freecodecamp.org/news/what-wordpress-development-looks-like-in-the-age-of-ai/"/>
+        <updated>2025-08-13T00:06:04.000Z</updated>
+        <summary type="html"><![CDATA[Building a website with WordPress used to take a lot of time. You had to install the platform, choose a theme, add plugins, write all the content by hand, and make sure everything worked well together. Even skilled developers spent hours setting up a...]]></summary>
+        <author>
+            <name>Manish Shivanandhan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CSS-Questions]]></title>
         <id>https://css-tricks.com/?p=388740</id>
@@ -890,37 +961,6 @@ What I Took From the State of Dev 2025 Survey originally published on CSS-Tricks
         <summary type="html"><![CDATA[I recently started learning cloud engineering through a bootcamp. One of our first tasks was to create an AWS account. For those of us who didn’t already have one, it seemed like a simple enough assignment. But as I went through the signup process, I...]]></summary>
         <author>
             <name>Victoria Nduka</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Word Search Game Using HTML, CSS, and JavaScript]]></title>
-        <id>687543a2e9820caf95eae4f3</id>
-        <link href="https://www.freecodecamp.org/news/build-a-word-search-game-using-html-css-and-javascript/"/>
-        <updated>2025-07-14T17:51:30.000Z</updated>
-        <summary type="html"><![CDATA[The Wordle phenomenon from a few years back inspired developers worldwide to create their own word games. It inspired me to conceive and build a game, too. ‘Word Zearch’ combines elements of Boggle and word search puzzles into a web-based game where ...]]></summary>
-        <author>
-            <name>Mark Mahoney</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Design Patterns For AI Interfaces]]></title>
-        <id>https://smashingmagazine.com/2025/07/design-patterns-ai-interfaces/</id>
-        <link href="https://smashingmagazine.com/2025/07/design-patterns-ai-interfaces/"/>
-        <updated>2025-07-14T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Designing a new AI feature? Where do you even begin? From first steps to design flows and interactions, here’s a simple, systematic approach to building AI experiences that stick.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Setting Line Length in CSS (and Fitting Text to a Container)]]></title>
-        <id>https://css-tricks.com/?p=387679</id>
-        <link href="https://css-tricks.com/setting-line-length-in-css-and-fitting-text-to-a-container/"/>
-        <updated>2025-07-14T12:38:23.000Z</updated>
-        <summary type="html"><![CDATA[The many ways to juggle line length when working with text... including two proposed  properties that could make it easier in the future.
-Setting Line Length in CSS (and Fitting Text to a Container) originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Daniel Schwarz</name>
         </author>
     </entry>
 </feed>
