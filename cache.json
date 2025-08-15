@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=388760",
+          "author": "Geoff Graham",
+          "description": "My brain can’t help but try to make connections between seemingly disparate ideas. And that’s what happened yesterday when I read:\nHidde’s “Can components conform to WCAG?”\nJoas’s “Automating Design Systems”\nZell’s “We Might Need Something Between Root and Relative \n…\nOn Accessibility Conformance, Design Systems, and CSS “Base” Units originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/on-accessibility-conformance-design-systems-and-css-base-units/",
+          "publishedOn": "2025-08-14T13:10:11.000Z",
+          "wordCount": 1835,
+          "title": "On Accessibility Conformance, Design Systems, and CSS “Base” Units",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2021/12/cog-pattern.jpg"
+        },
+        {
           "id": "https://css-tricks.com/?p=388448",
           "author": "Zell Liew",
           "description": "I've come to realize that perhaps we need to have a unit between root and relative values. This would bring about a whole new possibility when creating reusable components.\nWe Might Need Something Between Root and Relative CSS Units for “Base Elements” originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -365,6 +375,26 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "689e444cbfe79386885372b0",
+          "author": "Ayu Adiati",
+          "description": "Recently, I set up WSL2 and Ubuntu on my Windows 11 to work on some open-source projects. Since I also maintain these projects, I installed GitHub CLI to ease my workflow. I successfully installed the GitHub CLI, but failed to authenticate it. The er...",
+          "link": "https://www.freecodecamp.org/news/github-cli-wsl2-guide/",
+          "publishedOn": "2025-08-14T20:17:16.000Z",
+          "wordCount": 2104,
+          "title": "How to Set Up GitHub CLI on WSL2",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1755202477019/fbc68131-107a-40ae-9dae-c14224d0866a.png"
+        },
+        {
+          "id": "689e02053c949f7b9979e30a",
+          "author": "Alex Tray",
+          "description": "Something big is happening in the world of software development. In 2025, the way we write, read, and think about software has undergone a significant shift, and it’s not subtle. At the center of this shift is artificial intelligence. Just five years...",
+          "link": "https://www.freecodecamp.org/news/how-ai-is-changing-the-way-we-code/",
+          "publishedOn": "2025-08-14T15:34:29.000Z",
+          "wordCount": 3912,
+          "title": "How AI is Changing the Way We Code",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1755185611603/1baeca15-abe2-4b54-9235-803f50006e06.png"
+        },
         {
           "id": "689cd35e34fbf8c230ae0b6c",
           "author": "Daniel García Solla",
@@ -1014,16 +1044,6 @@
           "wordCount": 2130,
           "title": "How In-Memory Caching Works in Redis",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1752680755362/97cde2e5-3bb3-4b5d-b073-dcbf03c7f871.png"
-        },
-        {
-          "id": "68768aae330f8631f59cf431",
-          "author": "Victoria Nduka",
-          "description": "I recently started learning cloud engineering through a bootcamp. One of our first tasks was to create an AWS account. For those of us who didn’t already have one, it seemed like a simple enough assignment. But as I went through the signup process, I...",
-          "link": "https://www.freecodecamp.org/news/how-to-create-an-aws-free-tier-account/",
-          "publishedOn": "2025-07-15T17:06:54.000Z",
-          "wordCount": 2477,
-          "title": "How to Create an AWS Free Tier Account – A Step-by-Step Guide",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1752599184286/ff14fece-f865-4d8f-87e7-4cfed11a6946.png"
         }
       ]
     }

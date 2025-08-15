@@ -2,10 +2,45 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-14T00:15:40.732Z</updated>
+    <updated>2025-08-15T00:16:17.260Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Set Up GitHub CLI on WSL2]]></title>
+        <id>689e444cbfe79386885372b0</id>
+        <link href="https://www.freecodecamp.org/news/github-cli-wsl2-guide/"/>
+        <updated>2025-08-14T20:17:16.000Z</updated>
+        <summary type="html"><![CDATA[Recently, I set up WSL2 and Ubuntu on my Windows 11 to work on some open-source projects. Since I also maintain these projects, I installed GitHub CLI to ease my workflow. I successfully installed the GitHub CLI, but failed to authenticate it. The er...]]></summary>
+        <author>
+            <name>Ayu Adiati</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How AI is Changing the Way We Code]]></title>
+        <id>689e02053c949f7b9979e30a</id>
+        <link href="https://www.freecodecamp.org/news/how-ai-is-changing-the-way-we-code/"/>
+        <updated>2025-08-14T15:34:29.000Z</updated>
+        <summary type="html"><![CDATA[Something big is happening in the world of software development. In 2025, the way we write, read, and think about software has undergone a significant shift, and it’s not subtle. At the center of this shift is artificial intelligence. Just five years...]]></summary>
+        <author>
+            <name>Alex Tray</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[On Accessibility Conformance, Design Systems, and CSS “Base” Units]]></title>
+        <id>https://css-tricks.com/?p=388760</id>
+        <link href="https://css-tricks.com/on-accessibility-conformance-design-systems-and-css-base-units/"/>
+        <updated>2025-08-14T13:10:11.000Z</updated>
+        <summary type="html"><![CDATA[My brain can’t help but try to make connections between seemingly disparate ideas. And that’s what happened yesterday when I read:
+Hidde’s “Can components conform to WCAG?”
+Joas’s “Automating Design Systems”
+Zell’s “We Might Need Something Between Root and Relative 
+…
+On Accessibility Conformance, Design Systems, and CSS “Base” Units originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Design Structured Database Systems Using SQL [Full Book]]]></title>
         <id>689cd35e34fbf8c230ae0b6c</id>
@@ -951,16 +986,6 @@ Getting Clarity on Apple’s Liquid Glass originally published on CSS-Tricks, wh
 What I Took From the State of Dev 2025 Survey originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Sunkanmi Fafowora</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Create an AWS Free Tier Account – A Step-by-Step Guide]]></title>
-        <id>68768aae330f8631f59cf431</id>
-        <link href="https://www.freecodecamp.org/news/how-to-create-an-aws-free-tier-account/"/>
-        <updated>2025-07-15T17:06:54.000Z</updated>
-        <summary type="html"><![CDATA[I recently started learning cloud engineering through a bootcamp. One of our first tasks was to create an AWS account. For those of us who didn’t already have one, it seemed like a simple enough assignment. But as I went through the signup process, I...]]></summary>
-        <author>
-            <name>Victoria Nduka</name>
         </author>
     </entry>
 </feed>
