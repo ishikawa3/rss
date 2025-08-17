@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-16T00:15:06.826Z</updated>
+    <updated>2025-08-17T00:17:01.026Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
@@ -896,47 +896,6 @@ Getting Creative With Versal Letters originally published on CSS-Tricks, which i
         <summary type="html"><![CDATA[Ensuring your product communicates clearly to a global audience is not just about localisation. Even for products that have a proper localisation process, English often remains the default language for UI and communications. This article focuses on how you can make English content clear and inclusive for non-native users. Oleksii offers a practical guide based on his own experience as a non-native English-speaking content designer, defining the user experience for international companies.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Oleksii Tkachenko)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[We are truly in the Hackathon Era – Namanh Kapur interview [Podcast #180]]]></title>
-        <id>6879c6e2f39c57b0d7c0cc4f</id>
-        <link href="https://www.freecodecamp.org/news/we-are-truly-in-the-hackathon-era-namanh-kapur-interview-podcast-180/"/>
-        <updated>2025-07-18T04:00:34.000Z</updated>
-        <summary type="html"><![CDATA[On this week's episode of the podcast, freeCodeCamp founder Quincy Larson interviews Namanh Kapur. He's a senior software engineer at LinkedIn. He also creates YouTube videos to help devolopers with their careers.   We talk about: Tips for getting h...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Make a Dropdown Menu with shadcn/ui]]></title>
-        <id>687964f6562b6ce291fda4e2</id>
-        <link href="https://www.freecodecamp.org/news/shadcn-ui-dropdown-menu/"/>
-        <updated>2025-07-17T21:02:46.000Z</updated>
-        <summary type="html"><![CDATA[Dropdown menus are little pop-up menus that help you show more options without cluttering your screen. They’re super helpful in websites and apps. In this guide, you’ll learn how to build a dropdown menu using shadcn/ui. It’s a tool that works well w...]]></summary>
-        <author>
-            <name>Ajay Kalal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How AI Agents Remember Things: The Role of Vector Stores in LLM Memory]]></title>
-        <id>687903d3ccb68881821f3a68</id>
-        <link href="https://www.freecodecamp.org/news/how-ai-agents-remember-things-vector-stores-in-llm-memory/"/>
-        <updated>2025-07-17T14:08:19.000Z</updated>
-        <summary type="html"><![CDATA[When you talk to an AI assistant, it can feel like it remembers what you said before. But large language models (LLMs) don’t actually have memory on their own. They don’t remember conversations unless that information is given to them again. So, how ...]]></summary>
-        <author>
-            <name>Manish Shivanandhan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Getting Clarity on Apple’s Liquid Glass]]></title>
-        <id>https://css-tricks.com/?p=387817</id>
-        <link href="https://css-tricks.com/getting-clarity-on-apples-liquid-glass/"/>
-        <updated>2025-07-17T13:23:52.000Z</updated>
-        <summary type="html"><![CDATA[Gathered notes on Liquid Glass, Apple’s new design language that was introduced at WWDC 2025. These links are a choice selection of posts and resources that I've found helpful for understanding the context of Liquid Glass, as well as techniques for recreating it in code.
-Getting Clarity on Apple’s Liquid Glass originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
         </author>
     </entry>
 </feed>

@@ -180,16 +180,6 @@
           "wordCount": 3148,
           "title": "Getting Creative With Versal Letters",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/07/versal-featured.webp"
-        },
-        {
-          "id": "https://css-tricks.com/?p=387817",
-          "author": "Geoff Graham",
-          "description": "Gathered notes on Liquid Glass, Apple’s new design language that was introduced at WWDC 2025. These links are a choice selection of posts and resources that I've found helpful for understanding the context of Liquid Glass, as well as techniques for recreating it in code.\nGetting Clarity on Apple’s Liquid Glass originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/getting-clarity-on-apples-liquid-glass/",
-          "publishedOn": "2025-07-17T13:23:52.000Z",
-          "wordCount": 3442,
-          "title": "Getting Clarity on Apple’s Liquid Glass",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/07/liquid-glass-still.png"
         }
       ]
     },
@@ -964,36 +954,6 @@
           "wordCount": 7889,
           "title": "How to Deploy a Static Web App on AWS with Amplify, Lambda, API Gateway, & DynamoDB",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1752792908077/abfe8200-e4bd-4c3c-892f-15847715c918.png"
-        },
-        {
-          "id": "6879c6e2f39c57b0d7c0cc4f",
-          "author": "Beau Carnes",
-          "description": "On this week's episode of the podcast, freeCodeCamp founder Quincy Larson interviews Namanh Kapur. He's a senior software engineer at LinkedIn. He also creates YouTube videos to help devolopers with their careers.   We talk about: Tips for getting h...",
-          "link": "https://www.freecodecamp.org/news/we-are-truly-in-the-hackathon-era-namanh-kapur-interview-podcast-180/",
-          "publishedOn": "2025-07-18T04:00:34.000Z",
-          "wordCount": 1035,
-          "title": "We are truly in the Hackathon Era – Namanh Kapur interview [Podcast #180]",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1752783271340/d509a8c0-1d2b-42d1-89c2-03d8d25f2b17.jpeg"
-        },
-        {
-          "id": "687964f6562b6ce291fda4e2",
-          "author": "Ajay Kalal",
-          "description": "Dropdown menus are little pop-up menus that help you show more options without cluttering your screen. They’re super helpful in websites and apps. In this guide, you’ll learn how to build a dropdown menu using shadcn/ui. It’s a tool that works well w...",
-          "link": "https://www.freecodecamp.org/news/shadcn-ui-dropdown-menu/",
-          "publishedOn": "2025-07-17T21:02:46.000Z",
-          "wordCount": 1732,
-          "title": "How to Make a Dropdown Menu with shadcn/ui",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1752786132476/fef60fd2-ad5e-4f9d-9dcf-de4b99adac99.png"
-        },
-        {
-          "id": "687903d3ccb68881821f3a68",
-          "author": "Manish Shivanandhan",
-          "description": "When you talk to an AI assistant, it can feel like it remembers what you said before. But large language models (LLMs) don’t actually have memory on their own. They don’t remember conversations unless that information is given to them again. So, how ...",
-          "link": "https://www.freecodecamp.org/news/how-ai-agents-remember-things-vector-stores-in-llm-memory/",
-          "publishedOn": "2025-07-17T14:08:19.000Z",
-          "wordCount": 2563,
-          "title": "How AI Agents Remember Things: The Role of Vector Stores in LLM Memory",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1747753163050/26574896-6da9-4a30-af4f-1d0b7f38f43b.png"
         }
       ]
     }
