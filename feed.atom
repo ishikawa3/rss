@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-17T00:17:01.026Z</updated>
+    <updated>2025-08-18T00:17:18.222Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
@@ -855,47 +855,6 @@ A Primer on Focus Trapping originally published on CSS-Tricks, which is part of 
         <summary type="html"><![CDATA[Event listeners are essential for interactivity in JavaScript, but they can quietly cause memory leaks if not removed properly. And what if your event listener needs parameters? That’s where things get interesting. Amejimaobari Ollornwi shares which JavaScript features make handling parameters with event handlers both possible and well-supported.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Amejimaobari Ollornwi)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Telehealth App Using Stream Video and Chat SDK in React]]></title>
-        <id>687ad06430967c1524c4663e</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-a-telehealth-app-using-stream-video-and-chat-sdk-in-react/"/>
-        <updated>2025-07-18T22:53:24.000Z</updated>
-        <summary type="html"><![CDATA[Remember when the COVID-19 pandemic moved everything online – doctor’s visits included – and staying home became the safest option?  That moment kicked off a massive shift in how healthcare gets delivered.  Telehealth became more than a workaround. I...]]></summary>
-        <author>
-            <name>Okoro Emmanuel Nzube</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Getting Creative With Versal Letters]]></title>
-        <id>https://css-tricks.com/?p=387827</id>
-        <link href="https://css-tricks.com/getting-creative-with-versal-letters/"/>
-        <updated>2025-07-18T16:12:05.000Z</updated>
-        <summary type="html"><![CDATA[A versal letters is a typographic flourish found in illuminated manuscripts and traditional book design, where it adds visual interest and helps guide a reader’s eye to where they should begin.
-Getting Creative With Versal Letters originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Andy Clarke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Deploy a Static Web App on AWS with Amplify, Lambda, API Gateway, & DynamoDB]]></title>
-        <id>687a511b69d126230571eb7e</id>
-        <link href="https://www.freecodecamp.org/news/how-to-deploy-a-static-web-app-on-aws-with-amplify-lambda-api-gateway-and-dynamodb/"/>
-        <updated>2025-07-18T13:50:19.000Z</updated>
-        <summary type="html"><![CDATA[Building modern web applications often involves complex setups and managing servers – but it doesn't have to be that way. Amazon Web Services (AWS) offers a powerful suite of "serverless" services that allow you to build and deploy applications witho...]]></summary>
-        <author>
-            <name>Raju Manoj</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Non-Native Content Designers Improve Global UX]]></title>
-        <id>https://smashingmagazine.com/2025/07/why-non-native-content-designers-improve-global-ux/</id>
-        <link href="https://smashingmagazine.com/2025/07/why-non-native-content-designers-improve-global-ux/"/>
-        <updated>2025-07-18T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Ensuring your product communicates clearly to a global audience is not just about localisation. Even for products that have a proper localisation process, English often remains the default language for UI and communications. This article focuses on how you can make English content clear and inclusive for non-native users. Oleksii offers a practical guide based on his own experience as a non-native English-speaking content designer, defining the user experience for international companies.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Oleksii Tkachenko)</name>
         </author>
     </entry>
 </feed>
