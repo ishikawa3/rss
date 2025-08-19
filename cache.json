@@ -12,6 +12,21 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=388313",
+          "author": "Amit Sheen",
+          "description": "A client asked me to create a bulging text effect. With a bit of cleverness and some advanced CSS, I managed to get a result I’m genuinely proud of, which is covered in this three-part series.\n3D Layered Text: The Basics originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/3d-layered-text-the-basics/",
+          "publishedOn": "2025-08-18T13:46:00.000Z",
+          "wordCount": 4054,
+          "title": "3D Layered Text: The Basics",
+          "enclosure": {
+            "url": "https://css-tricks.com/wp-content/uploads/2025/07/Bulging-Text.mp4",
+            "length": "2180551",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/07/bulging-text.jpg"
+        },
+        {
           "id": "https://css-tricks.com/?p=388219",
           "author": "Geoff Graham",
           "description": "Short story: Slapping hidden=until-found on an element in HTML enables any hidden content within the element to be findable in the browser with in-page search.\nCovering hidden=until-found originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -178,6 +193,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2025/08/beyond-hype-what-ai-can-do-product-design/",
+          "author": "hello@smashingmagazine.com (Nikita Samutin)",
+          "description": "AI tools are improving fast, but it’s still not clear how they fit into a real product design workflow. Nikita Samutin walks through four core stages — from analytics and ideation to prototyping and visual design — to show where AI fits and where it doesn’t, illustrated with real-world examples.",
+          "link": "https://smashingmagazine.com/2025/08/beyond-hype-what-ai-can-do-product-design/",
+          "publishedOn": "2025-08-18T13:00:00.000Z",
+          "wordCount": 5441,
+          "title": "Beyond The Hype: What AI Can Really Do For Product Design",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/beyond-hype-what-ai-can-do-product-design/beyond-hype-what-ai-can-do-product-design.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/beyond-hype-what-ai-can-do-product-design/beyond-hype-what-ai-can-do-product-design.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2025/08/psychology-color-ux-design-digital-products/",
           "author": "hello@smashingmagazine.com (Rodolpho Henrique)",
@@ -350,6 +380,36 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "68a331edf6c19271552e2ac7",
+          "author": "OMOTAYO OMOYEMI",
+          "description": "Sign and symbol languages, like Makaton and American Sign Language (ASL), are powerful communication tools. However, they can create challenges when communicating with people who don't understand them. As a researcher working on AI for accessibility,...",
+          "link": "https://www.freecodecamp.org/news/create-a-real-time-gesture-to-text-translator/",
+          "publishedOn": "2025-08-18T14:00:13.000Z",
+          "wordCount": 2587,
+          "title": "Creating a Real-Time Gesture-to-Text Translator Using Python and Mediapipe",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1755525484024/9f4c42e0-dbfd-4f04-9223-0a2169abd1fb.png"
+        },
+        {
+          "id": "68a33084f6c19271552e2ab0",
+          "author": "Manish Shivanandhan",
+          "description": "When developers think of Next.js, they often associate it with SEO-friendly static websites or React-based frontends. But what many miss is how Next.js can also be used to build full-featured backend APIs – all within the same project. I’ve recently ...",
+          "link": "https://www.freecodecamp.org/news/how-to-deploy-a-nextjs-api-with-postgresql-and-sevalla/",
+          "publishedOn": "2025-08-18T13:54:12.000Z",
+          "wordCount": 2826,
+          "title": "How to Deploy a Next.js API with PostgreSQL and Sevalla",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1755525213723/75759868-d5e9-4ea7-a6be-22bc33dde0d8.png"
+        },
+        {
+          "id": "68a3303851c175b42bcde7ff",
+          "author": "Atuoha Anthony",
+          "description": "Many mobile applications require a stable internet connection to provide a smooth user experience. And as a Flutter developer, you need a robust way to handle network state changes, ensuring that your app responds gracefully whether it's connected, d...",
+          "link": "https://www.freecodecamp.org/news/how-to-build-an-always-listening-network-connectivity-checker-in-flutter-using-bloc/",
+          "publishedOn": "2025-08-18T13:52:56.000Z",
+          "wordCount": 3372,
+          "title": "How to Build an Always Listening Network Connectivity Checker in Flutter using BLoC",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1755525049875/2d9540c1-5a4a-41f4-87c6-59ee15bb99e4.png"
+        },
         {
           "id": "689f4b8b1694c0dba616a0d0",
           "author": "Oyedele Tioluwani",

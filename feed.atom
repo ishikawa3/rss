@@ -2,10 +2,61 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-18T00:17:18.222Z</updated>
+    <updated>2025-08-19T00:15:16.078Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Creating a Real-Time Gesture-to-Text Translator Using Python and Mediapipe]]></title>
+        <id>68a331edf6c19271552e2ac7</id>
+        <link href="https://www.freecodecamp.org/news/create-a-real-time-gesture-to-text-translator/"/>
+        <updated>2025-08-18T14:00:13.000Z</updated>
+        <summary type="html"><![CDATA[Sign and symbol languages, like Makaton and American Sign Language (ASL), are powerful communication tools. However, they can create challenges when communicating with people who don't understand them. As a researcher working on AI for accessibility,...]]></summary>
+        <author>
+            <name>OMOTAYO OMOYEMI</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Deploy a Next.js API with PostgreSQL and Sevalla]]></title>
+        <id>68a33084f6c19271552e2ab0</id>
+        <link href="https://www.freecodecamp.org/news/how-to-deploy-a-nextjs-api-with-postgresql-and-sevalla/"/>
+        <updated>2025-08-18T13:54:12.000Z</updated>
+        <summary type="html"><![CDATA[When developers think of Next.js, they often associate it with SEO-friendly static websites or React-based frontends. But what many miss is how Next.js can also be used to build full-featured backend APIs – all within the same project. I’ve recently ...]]></summary>
+        <author>
+            <name>Manish Shivanandhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build an Always Listening Network Connectivity Checker in Flutter using BLoC]]></title>
+        <id>68a3303851c175b42bcde7ff</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-an-always-listening-network-connectivity-checker-in-flutter-using-bloc/"/>
+        <updated>2025-08-18T13:52:56.000Z</updated>
+        <summary type="html"><![CDATA[Many mobile applications require a stable internet connection to provide a smooth user experience. And as a Flutter developer, you need a robust way to handle network state changes, ensuring that your app responds gracefully whether it's connected, d...]]></summary>
+        <author>
+            <name>Atuoha Anthony</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3D Layered Text: The Basics]]></title>
+        <id>https://css-tricks.com/?p=388313</id>
+        <link href="https://css-tricks.com/3d-layered-text-the-basics/"/>
+        <updated>2025-08-18T13:46:00.000Z</updated>
+        <summary type="html"><![CDATA[A client asked me to create a bulging text effect. With a bit of cleverness and some advanced CSS, I managed to get a result I’m genuinely proud of, which is covered in this three-part series.
+3D Layered Text: The Basics originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Amit Sheen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Beyond The Hype: What AI Can Really Do For Product Design]]></title>
+        <id>https://smashingmagazine.com/2025/08/beyond-hype-what-ai-can-do-product-design/</id>
+        <link href="https://smashingmagazine.com/2025/08/beyond-hype-what-ai-can-do-product-design/"/>
+        <updated>2025-08-18T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[AI tools are improving fast, but it’s still not clear how they fit into a real product design workflow. Nikita Samutin walks through four core stages — from analytics and ideation to prototyping and visual design — to show where AI fits and where it doesn’t, illustrated with real-world examples.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Nikita Samutin)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Deep Reinforcement Learning in Natural Language Understanding]]></title>
         <id>689f4b8b1694c0dba616a0d0</id>
