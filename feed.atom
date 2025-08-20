@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-19T00:15:16.078Z</updated>
+    <updated>2025-08-20T00:14:40.450Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[What are Data Transfer Objects? Learn to Use DTOs in Your Java Spring-Based Projects]]></title>
+        <id>68a4ba42388ce2383306b9b3</id>
+        <link href="https://www.freecodecamp.org/news/what-are-dtos-java/"/>
+        <updated>2025-08-19T17:54:10.000Z</updated>
+        <summary type="html"><![CDATA[High performance and privacy are at the heart of most successful software systems. No one wants to use a software service that takes a ridiculous amount of time to load – and no company wants their users’ data exposed at the slightest vulnerability. ...]]></summary>
+        <author>
+            <name>Augustine Alul</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Convert Your Website into an Android App Using Bubblewrap]]></title>
+        <id>68a4b9d4f2bced8c3a658f5a</id>
+        <link href="https://www.freecodecamp.org/news/how-to-convert-your-website-into-an-android-app-using-bubblewrap/"/>
+        <updated>2025-08-19T17:52:20.000Z</updated>
+        <summary type="html"><![CDATA[If you are a web developer who doesn’t know about App Development (like me!), then this article is for you. I’ll teach you how to turn your website into a native app, without new frameworks or languages. You’ll learn how to convert a website to a PWA...]]></summary>
+        <author>
+            <name>Sanjay R</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Assign Unique IDs to Express API Requests for Tracing]]></title>
+        <id>68a4b96a7c0721701837c266</id>
+        <link href="https://www.freecodecamp.org/news/how-to-assign-unique-ids-to-express-api-requests-for-tracing/"/>
+        <updated>2025-08-19T17:50:34.000Z</updated>
+        <summary type="html"><![CDATA[The ability to track what happens with API requests is an important aspect of monitoring, tracing and debugging back-end applications. But how do you differentiate between the reports of two consecutive API requests to the same API endpoint? This art...]]></summary>
+        <author>
+            <name>Orim Dominic Adah</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Code and Train Qwen3 from Scratch]]></title>
+        <id>68a4849538274dba4af10263</id>
+        <link href="https://www.freecodecamp.org/news/code-and-train-qwen3-from-scratch/"/>
+        <updated>2025-08-19T14:05:09.000Z</updated>
+        <summary type="html"><![CDATA[Qwen3 is the cutting-edge series of large language models developed by Alibaba Cloud's Qwen team. The LLM is known for its advanced reasoning, multilingual support, and efficient hybrid "Thinking" and "Non-Thinking" modes. We just posted a course on ...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Creating a Real-Time Gesture-to-Text Translator Using Python and Mediapipe]]></title>
         <id>68a331edf6c19271552e2ac7</id>
@@ -896,16 +936,6 @@ A First Look at the Interest Invoker API (for Hover-Triggered Popovers) original
 A Primer on Focus Trapping originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Zell Liew</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Handling JavaScript Event Listeners With Parameters]]></title>
-        <id>https://smashingmagazine.com/2025/07/handling-javascript-event-listeners-parameters/</id>
-        <link href="https://smashingmagazine.com/2025/07/handling-javascript-event-listeners-parameters/"/>
-        <updated>2025-07-21T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Event listeners are essential for interactivity in JavaScript, but they can quietly cause memory leaks if not removed properly. And what if your event listener needs parameters? That’s where things get interesting. Amejimaobari Ollornwi shares which JavaScript features make handling parameters with event handlers both possible and well-supported.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Amejimaobari Ollornwi)</name>
         </author>
     </entry>
 </feed>

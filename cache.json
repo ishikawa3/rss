@@ -357,21 +357,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/designing-better-ux-left-handed-people/designing-better-ux-left-handed-people.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2025/07/handling-javascript-event-listeners-parameters/",
-          "author": "hello@smashingmagazine.com (Amejimaobari Ollornwi)",
-          "description": "Event listeners are essential for interactivity in JavaScript, but they can quietly cause memory leaks if not removed properly. And what if your event listener needs parameters? That’s where things get interesting. Amejimaobari Ollornwi shares which JavaScript features make handling parameters with event handlers both possible and well-supported.",
-          "link": "https://smashingmagazine.com/2025/07/handling-javascript-event-listeners-parameters/",
-          "publishedOn": "2025-07-21T10:00:00.000Z",
-          "wordCount": 3626,
-          "title": "Handling JavaScript Event Listeners With Parameters",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/handling-javascript-event-listeners-parameters/handling-javascript-event-listeners-parameters.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/handling-javascript-event-listeners-parameters/handling-javascript-event-listeners-parameters.jpg"
         }
       ]
     },
@@ -380,6 +365,46 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "68a4ba42388ce2383306b9b3",
+          "author": "Augustine Alul",
+          "description": "High performance and privacy are at the heart of most successful software systems. No one wants to use a software service that takes a ridiculous amount of time to load – and no company wants their users’ data exposed at the slightest vulnerability. ...",
+          "link": "https://www.freecodecamp.org/news/what-are-dtos-java/",
+          "publishedOn": "2025-08-19T17:54:10.000Z",
+          "wordCount": 3557,
+          "title": "What are Data Transfer Objects? Learn to Use DTOs in Your Java Spring-Based Projects",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1755626027353/feb7f6b6-4841-4559-a976-e73c708c7153.png"
+        },
+        {
+          "id": "68a4b9d4f2bced8c3a658f5a",
+          "author": "Sanjay R",
+          "description": "If you are a web developer who doesn’t know about App Development (like me!), then this article is for you. I’ll teach you how to turn your website into a native app, without new frameworks or languages. You’ll learn how to convert a website to a PWA...",
+          "link": "https://www.freecodecamp.org/news/how-to-convert-your-website-into-an-android-app-using-bubblewrap/",
+          "publishedOn": "2025-08-19T17:52:20.000Z",
+          "wordCount": 3197,
+          "title": "How to Convert Your Website into an Android App Using Bubblewrap",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1755625913612/bfffd5f9-f4d6-4f8d-aae8-72f5730bd7e9.png"
+        },
+        {
+          "id": "68a4b96a7c0721701837c266",
+          "author": "Orim Dominic Adah",
+          "description": "The ability to track what happens with API requests is an important aspect of monitoring, tracing and debugging back-end applications. But how do you differentiate between the reports of two consecutive API requests to the same API endpoint? This art...",
+          "link": "https://www.freecodecamp.org/news/how-to-assign-unique-ids-to-express-api-requests-for-tracing/",
+          "publishedOn": "2025-08-19T17:50:34.000Z",
+          "wordCount": 3114,
+          "title": "How to Assign Unique IDs to Express API Requests for Tracing",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1755625819738/b5d45868-c770-4878-8c49-63011507ef56.png"
+        },
+        {
+          "id": "68a4849538274dba4af10263",
+          "author": "Beau Carnes",
+          "description": "Qwen3 is the cutting-edge series of large language models developed by Alibaba Cloud's Qwen team. The LLM is known for its advanced reasoning, multilingual support, and efficient hybrid \"Thinking\" and \"Non-Thinking\" modes. We just posted a course on ...",
+          "link": "https://www.freecodecamp.org/news/code-and-train-qwen3-from-scratch/",
+          "publishedOn": "2025-08-19T14:05:09.000Z",
+          "wordCount": 1027,
+          "title": "Code and Train Qwen3 from Scratch",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1755612272947/659f3387-f93f-47b7-9b4b-fd12ae1b4c4c.png"
+        },
         {
           "id": "68a331edf6c19271552e2ac7",
           "author": "OMOTAYO OMOYEMI",
