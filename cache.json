@@ -381,6 +381,36 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "68a72ee03bbf12346853dce9",
+          "author": "Ihechikara Abba",
+          "description": "After learning the rules and basics of chess, there are various concepts that beginners should learn in order to keep improving. Some of these concepts include opening principles, middle game concepts, endgame fundamentals, and strategy. In this hand...",
+          "link": "https://www.freecodecamp.org/news/checkmate-patterns-in-chess-for-beginners/",
+          "publishedOn": "2025-08-21T14:36:16.000Z",
+          "wordCount": 7660,
+          "title": "Checkmate Patterns in Chess for Beginners",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1755720597720/2bb80910-7697-45e2-8163-dbfb73b4998f.png"
+        },
+        {
+          "id": "68a725840cbb7e6465d8f441",
+          "author": "Beau Carnes",
+          "description": "Ready to turn your chess advantages into decisive victories? We've just released a new beginner-level course on the freeCodeCamp.org YouTube channel that focuses on the most important phase of the game: the endgame. This course is designed for player...",
+          "link": "https://www.freecodecamp.org/news/how-to-checkmate-in-chess/",
+          "publishedOn": "2025-08-21T13:56:20.000Z",
+          "wordCount": 1015,
+          "title": "How to Checkmate in Chess",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1755784539541/bb6f83bc-9236-4fa5-aa5a-2168bf03cda7.png"
+        },
+        {
+          "id": "68a6656e9437c0afc5323dc1",
+          "author": "Atuoha Anthony",
+          "description": "When you’re building mobile applications, one of the biggest challenges you might face is ensuring stability in real-world usage. No matter how much testing you do, unexpected crashes are bound to occur. This is where Firebase Crashlytics becomes an ...",
+          "link": "https://www.freecodecamp.org/news/how-to-set-up-firebase-crashlytics-in-a-flutter-app-ios-and-android/",
+          "publishedOn": "2025-08-21T00:16:46.000Z",
+          "wordCount": 3282,
+          "title": "How to Set Up Firebase Crashlytics in a Flutter App (iOS and Android)",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1755735394033/aa70989a-2653-4f36-a8bf-fbf953d09512.png"
+        },
+        {
           "id": "68a62b1746588cd24055077f",
           "author": "Manish Shivanandhan",
           "description": "Tic-Tac-Toe is a great project for beginners who want to learn how to build games. It’s simple to understand but gives you the chance to learn about game state, player turns, winning logic, and user input. In this tutorial, you’ll learn how to build ...",
@@ -989,56 +1019,6 @@
           "wordCount": 1117,
           "title": "Learn TypeScript in 1 Hour",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1753277448558/bdf2acef-f5cd-4be7-9e34-eaaedf060c32.png"
-        },
-        {
-          "id": "687fd1a603524e3b4e7b77fe",
-          "author": "Sravan Karuturi",
-          "description": "What is the Problem We’re Solving? For many app developers, including me, writing the networking layer of an application is a familiar and tedious process. You write and test your first call and after that, it involves a repetitive cycle of tasks. Th...",
-          "link": "https://www.freecodecamp.org/news/how-to-build-robust-networking-layers-in-swift-with-openapi/",
-          "publishedOn": "2025-07-22T18:00:06.000Z",
-          "wordCount": 4470,
-          "title": "How to Build Robust Networking Layers in Swift with OpenAPI",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1753206547489/dce9a849-1ccd-4cb0-bca8-f879a5aadf5f.png"
-        },
-        {
-          "id": "687fca00b102539f23984a03",
-          "author": "Manish Shivanandhan",
-          "description": "If you’ve ever stared at a dozen hosting plans, not sure which one to choose, you’re not alone. Hosting isn’t one-size-fits-all, and knowing the difference between a VPS (Virtual Private Server) and a PaaS (Platform as a Service) can help you pick so...",
-          "link": "https://www.freecodecamp.org/news/vps-vs-paas-how-to-choose-a-hosting-solution/",
-          "publishedOn": "2025-07-22T17:27:28.000Z",
-          "wordCount": 2417,
-          "title": "VPS vs PaaS: How to Choose a Hosting Solution",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1753205132683/65ed718f-a68e-4e31-8db3-cf9265e50817.png"
-        },
-        {
-          "id": "687fc93c8ff83d5b41883c1e",
-          "author": "AYUSH MISHRA",
-          "description": "Built-in functions in C++ are those functions that are part of the C++ standard libraries. These functions are designed to provide common and essential functionality that is often required in programming. In this article, we will look at some of the ...",
-          "link": "https://www.freecodecamp.org/news/helpful-built-in-functions-in-cpp/",
-          "publishedOn": "2025-07-22T17:24:12.000Z",
-          "wordCount": 2678,
-          "title": "Helpful Built-in Functions in C++ that All Devs Should Know",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1753105870543/7bdb3c7e-873b-46a2-bdbd-0d881aacedfc.png"
-        },
-        {
-          "id": "687fa4c693f63bc290c6ada1",
-          "author": "Beau Carnes",
-          "description": "To get the best tech jobs, it can be helpful to understand how to apply data structures and algorithms to coding challenges. We just published a comprehensive course on the freeCodeCamp.org channel about data structures and algorithms. This course wi...",
-          "link": "https://www.freecodecamp.org/news/data-structure-and-algorithm-patterns-for-leetcode-interviews/",
-          "publishedOn": "2025-07-22T14:48:38.000Z",
-          "wordCount": 1050,
-          "title": "Data Structure and Algorithm Patterns for LeetCode Interviews",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1753195703148/03e55da6-8391-4f8a-9493-036abd0518d9.png"
-        },
-        {
-          "id": "687fa39006c79bf6e197691e",
-          "author": "Beau Carnes",
-          "description": "Visual Geometry Group (VGG) is one of the most influential convolutional neural networks in computer vision. It is a deep convolutional neural network architecture known for its simple, uniform use of small 3x3 filters stacked in sequence, enabling p...",
-          "link": "https://www.freecodecamp.org/news/implement-vgg-from-scratch-with-pytorch-deep-learning-theory/",
-          "publishedOn": "2025-07-22T14:43:28.000Z",
-          "wordCount": 1296,
-          "title": "Implement VGG From Scratch with PyTorch – Deep Learning Theory",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1752070387836/e75fb9bb-8230-424a-a87e-9cbad06fad79.jpeg"
         }
       ]
     }

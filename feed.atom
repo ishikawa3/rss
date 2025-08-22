@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-21T00:13:42.189Z</updated>
+    <updated>2025-08-22T00:14:50.269Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Checkmate Patterns in Chess for Beginners]]></title>
+        <id>68a72ee03bbf12346853dce9</id>
+        <link href="https://www.freecodecamp.org/news/checkmate-patterns-in-chess-for-beginners/"/>
+        <updated>2025-08-21T14:36:16.000Z</updated>
+        <summary type="html"><![CDATA[After learning the rules and basics of chess, there are various concepts that beginners should learn in order to keep improving. Some of these concepts include opening principles, middle game concepts, endgame fundamentals, and strategy. In this hand...]]></summary>
+        <author>
+            <name>Ihechikara Abba</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Checkmate in Chess]]></title>
+        <id>68a725840cbb7e6465d8f441</id>
+        <link href="https://www.freecodecamp.org/news/how-to-checkmate-in-chess/"/>
+        <updated>2025-08-21T13:56:20.000Z</updated>
+        <summary type="html"><![CDATA[Ready to turn your chess advantages into decisive victories? We've just released a new beginner-level course on the freeCodeCamp.org YouTube channel that focuses on the most important phase of the game: the endgame. This course is designed for player...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Set Up Firebase Crashlytics in a Flutter App (iOS and Android)]]></title>
+        <id>68a6656e9437c0afc5323dc1</id>
+        <link href="https://www.freecodecamp.org/news/how-to-set-up-firebase-crashlytics-in-a-flutter-app-ios-and-android/"/>
+        <updated>2025-08-21T00:16:46.000Z</updated>
+        <summary type="html"><![CDATA[When you’re building mobile applications, one of the biggest challenges you might face is ensuring stability in real-world usage. No matter how much testing you do, unexpected crashes are bound to occur. This is where Firebase Crashlytics becomes an ...]]></summary>
+        <author>
+            <name>Atuoha Anthony</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Build a Tic Tac Toe Game with Phaser.js]]></title>
         <id>68a62b1746588cd24055077f</id>
@@ -926,56 +956,6 @@ Atomic Design Certification Course originally published on CSS-Tricks, which is 
 A First Look at the Interest Invoker API (for Hover-Triggered Popovers) originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Daniel Schwarz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build Robust Networking Layers in Swift with OpenAPI]]></title>
-        <id>687fd1a603524e3b4e7b77fe</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-robust-networking-layers-in-swift-with-openapi/"/>
-        <updated>2025-07-22T18:00:06.000Z</updated>
-        <summary type="html"><![CDATA[What is the Problem We’re Solving? For many app developers, including me, writing the networking layer of an application is a familiar and tedious process. You write and test your first call and after that, it involves a repetitive cycle of tasks. Th...]]></summary>
-        <author>
-            <name>Sravan Karuturi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[VPS vs PaaS: How to Choose a Hosting Solution]]></title>
-        <id>687fca00b102539f23984a03</id>
-        <link href="https://www.freecodecamp.org/news/vps-vs-paas-how-to-choose-a-hosting-solution/"/>
-        <updated>2025-07-22T17:27:28.000Z</updated>
-        <summary type="html"><![CDATA[If you’ve ever stared at a dozen hosting plans, not sure which one to choose, you’re not alone. Hosting isn’t one-size-fits-all, and knowing the difference between a VPS (Virtual Private Server) and a PaaS (Platform as a Service) can help you pick so...]]></summary>
-        <author>
-            <name>Manish Shivanandhan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Helpful Built-in Functions in C++ that All Devs Should Know]]></title>
-        <id>687fc93c8ff83d5b41883c1e</id>
-        <link href="https://www.freecodecamp.org/news/helpful-built-in-functions-in-cpp/"/>
-        <updated>2025-07-22T17:24:12.000Z</updated>
-        <summary type="html"><![CDATA[Built-in functions in C++ are those functions that are part of the C++ standard libraries. These functions are designed to provide common and essential functionality that is often required in programming. In this article, we will look at some of the ...]]></summary>
-        <author>
-            <name>AYUSH MISHRA</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Data Structure and Algorithm Patterns for LeetCode Interviews]]></title>
-        <id>687fa4c693f63bc290c6ada1</id>
-        <link href="https://www.freecodecamp.org/news/data-structure-and-algorithm-patterns-for-leetcode-interviews/"/>
-        <updated>2025-07-22T14:48:38.000Z</updated>
-        <summary type="html"><![CDATA[To get the best tech jobs, it can be helpful to understand how to apply data structures and algorithms to coding challenges. We just published a comprehensive course on the freeCodeCamp.org channel about data structures and algorithms. This course wi...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Implement VGG From Scratch with PyTorch – Deep Learning Theory]]></title>
-        <id>687fa39006c79bf6e197691e</id>
-        <link href="https://www.freecodecamp.org/news/implement-vgg-from-scratch-with-pytorch-deep-learning-theory/"/>
-        <updated>2025-07-22T14:43:28.000Z</updated>
-        <summary type="html"><![CDATA[Visual Geometry Group (VGG) is one of the most influential convolutional neural networks in computer vision. It is a deep convolutional neural network architecture known for its simple, uniform use of small 3x3 filters stacked in sequence, enabling p...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
         </author>
     </entry>
 </feed>
