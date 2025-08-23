@@ -2,10 +2,61 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-22T00:14:50.269Z</updated>
+    <updated>2025-08-23T00:14:29.531Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[From Hospital Janitor to Developer with Emmett Naughton [Podcast #185]]]></title>
+        <id>68a87d25d6d093f534c090ff</id>
+        <link href="https://www.freecodecamp.org/news/from-hospital-janitor-to-developer-with-emmett-naughton-podcast-185/"/>
+        <updated>2025-08-22T14:22:29.000Z</updated>
+        <summary type="html"><![CDATA[On this week's episode of the podcast, freeCodeCamp founder Quincy Larson interviews Emmett Naughton. He worked as hospital janitor for years while teaching himself programming using freeCodeCamp. He's founder of Coder Dads, a chat community where da...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3D Layered Text: Interactivity and Dynamicism]]></title>
+        <id>https://css-tricks.com/?p=388459</id>
+        <link href="https://css-tricks.com/3d-layered-text-interactivity-and-dynamism/"/>
+        <updated>2025-08-22T13:14:31.000Z</updated>
+        <summary type="html"><![CDATA[In this third and final chapter, we’re stepping into interactivity by adding JavaScript, starting with a simple :hover effect, and ending with a fully responsive bulging text that follows your mouse in real time.
+3D Layered Text: Interactivity and Dynamicism originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Amit Sheen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Deploy a Kubernetes App on AWS EKS]]></title>
+        <id>68a85abd010317ca95b5506e</id>
+        <link href="https://www.freecodecamp.org/news/how-to-deploy-a-kubernetes-app-on-aws-eks/"/>
+        <updated>2025-08-22T11:55:41.000Z</updated>
+        <summary type="html"><![CDATA[AWS makes it much easier to deploy containerized applications, and running Kubernetes in the cloud is a powerful way to scale and manage these applications. Among the many managed Kubernetes services AWS offers, Amazon EKS (Elastic Kubernetes Service...]]></summary>
+        <author>
+            <name>Ijeoma Igboagu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Week In The Life Of An AI-Augmented Designer]]></title>
+        <id>https://smashingmagazine.com/2025/08/week-in-life-ai-augmented-designer/</id>
+        <link href="https://smashingmagazine.com/2025/08/week-in-life-ai-augmented-designer/"/>
+        <updated>2025-08-22T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[If you are new to using AI in design or curious about integrating AI into your UX process without losing your human touch, this article offers a grounded, day-by-day look at introducing AI into your design workflow.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Lyndon Cerejo)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Automate Flutter Testing and Builds with GitHub Actions for Android and iOS]]></title>
+        <id>68a796b236a9f930ef67366b</id>
+        <link href="https://www.freecodecamp.org/news/how-to-automate-flutter-testing-and-builds-with-github-actions-for-android-and-ios/"/>
+        <updated>2025-08-21T21:59:14.000Z</updated>
+        <summary type="html"><![CDATA[GitHub Actions is a CI/CD (Continuous Integration and Continuous Deployment) tool built directly into GitHub. It allows developers to define workflows, which are sequences of automated steps triggered by events such as pushing code, opening pull requ...]]></summary>
+        <author>
+            <name>Atuoha Anthony</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Checkmate Patterns in Chess for Beginners]]></title>
         <id>68a72ee03bbf12346853dce9</id>
@@ -905,57 +956,6 @@ It’s a nice way …
 Atomic Design Certification Course originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Beginner Developer's Guide to Kanban]]></title>
-        <id>68815e6054ad71fa4b3b7bb6</id>
-        <link href="https://www.freecodecamp.org/news/a-beginner-developers-guide-to-kanban/"/>
-        <updated>2025-07-23T22:12:48.000Z</updated>
-        <summary type="html"><![CDATA[First, a confession: When I was learning to code, my “workflow” was a mess. Sticky notes. Google Docs. Random Trello boards I never checked again. And a to-do list that somehow never got any shorter. Then I joined a real team. Suddenly, I was introdu...]]></summary>
-        <author>
-            <name>Aditya Vikram Kashyap</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use AI Effectively in Your Dev Projects]]></title>
-        <id>688151d98401037e348f65cd</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-ai-effectively-in-your-dev-projects/"/>
-        <updated>2025-07-23T21:19:21.000Z</updated>
-        <summary type="html"><![CDATA[“AI is not going to take your job – but a developer who knows how to use AI will.” I’ve seen this statement everywhere, and it’s the only one about AI taking our jobs that I totally agree with. Software development has changed. It’s not what it used ...]]></summary>
-        <author>
-            <name>Spruce Emmanuel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Beginner Developer's Guide to Scrum]]></title>
-        <id>68813c7579e092b166d373b6</id>
-        <link href="https://www.freecodecamp.org/news/a-beginner-developers-guide-to-scrum/"/>
-        <updated>2025-07-23T19:48:05.000Z</updated>
-        <summary type="html"><![CDATA[Let me guess: you’re learning to code…alone. You’ve been grinding through tutorials. You've built a portfolio site, maybe deployed a few projects on GitHub. And now you're trying to land a job or join a team. Then the interviews start. Suddenly, peop...]]></summary>
-        <author>
-            <name>Aditya Vikram Kashyap</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn TypeScript in 1 Hour]]></title>
-        <id>6880e81ad62d993a14cbbfa0</id>
-        <link href="https://www.freecodecamp.org/news/learn-typescript-in-1-hour/"/>
-        <updated>2025-07-23T13:48:10.000Z</updated>
-        <summary type="html"><![CDATA[TypeScript is a powerful, statically-typed superset of JavaScript that helps you write safer and more maintainable code. We just posted a course on the freeCodeCamp.org YouTube channel that will help you master the essentials of TypeScript. In just o...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A First Look at the Interest Invoker API (for Hover-Triggered Popovers)]]></title>
-        <id>https://css-tricks.com/?p=387925</id>
-        <link href="https://css-tricks.com/a-first-look-at-the-interest-invoker-api-for-hover-triggered-popovers/"/>
-        <updated>2025-07-23T12:36:48.000Z</updated>
-        <summary type="html"><![CDATA[Chrome 139 is experimenting with Open UI’s proposed Interest Invoker API, which would be used to create tooltips, hover menus, hover cards, quick actions, and other types of UIs for showing more information with hover interactions.
-A First Look at the Interest Invoker API (for Hover-Triggered Popovers) originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Daniel Schwarz</name>
         </author>
     </entry>
 </feed>

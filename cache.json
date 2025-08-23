@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=388459",
+          "author": "Amit Sheen",
+          "description": "In this third and final chapter, we’re stepping into interactivity by adding JavaScript, starting with a simple :hover effect, and ending with a fully responsive bulging text that follows your mouse in real time.\n3D Layered Text: Interactivity and Dynamicism originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/3d-layered-text-interactivity-and-dynamism/",
+          "publishedOn": "2025-08-22T13:14:31.000Z",
+          "wordCount": 4505,
+          "title": "3D Layered Text: Interactivity and Dynamicism",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/07/bulging-text.jpg"
+        },
+        {
           "id": "https://css-tricks.com/?p=388394",
           "author": "Amit Sheen",
           "description": "In this chapter, we will explore ways to animate the effect, add transitions, and play with different variations. We will look at how motion can enhance depth, and how subtle tweaks can create a whole new vibe.\n3D Layered Text: Motion and Variations originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -175,16 +185,6 @@
           "wordCount": 1878,
           "title": "Atomic Design Certification Course",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/07/atomic-design-logo.webp"
-        },
-        {
-          "id": "https://css-tricks.com/?p=387925",
-          "author": "Daniel Schwarz",
-          "description": "Chrome 139 is experimenting with Open UI’s proposed Interest Invoker API, which would be used to create tooltips, hover menus, hover cards, quick actions, and other types of UIs for showing more information with hover interactions.\nA First Look at the Interest Invoker API (for Hover-Triggered Popovers) originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/a-first-look-at-the-interest-invoker-api-for-hover-triggered-popovers/",
-          "publishedOn": "2025-07-23T12:36:48.000Z",
-          "wordCount": 3151,
-          "title": "A First Look at the Interest Invoker API (for Hover-Triggered Popovers)",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2021/03/long-hover-icon-tooltip-cursor.jpg"
         }
       ]
     },
@@ -193,6 +193,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2025/08/week-in-life-ai-augmented-designer/",
+          "author": "hello@smashingmagazine.com (Lyndon Cerejo)",
+          "description": "If you are new to using AI in design or curious about integrating AI into your UX process without losing your human touch, this article offers a grounded, day-by-day look at introducing AI into your design workflow.",
+          "link": "https://smashingmagazine.com/2025/08/week-in-life-ai-augmented-designer/",
+          "publishedOn": "2025-08-22T08:00:00.000Z",
+          "wordCount": 7499,
+          "title": "A Week In The Life Of An AI-Augmented Designer",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/week-in-life-ai-augmented-designer/week-in-life-ai-augmented-designer.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/week-in-life-ai-augmented-designer/week-in-life-ai-augmented-designer.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2025/08/double-edged-sustainability-sword-ai-web-design/",
           "author": "hello@smashingmagazine.com (Alex Williams)",
@@ -380,6 +395,36 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "68a87d25d6d093f534c090ff",
+          "author": "Beau Carnes",
+          "description": "On this week's episode of the podcast, freeCodeCamp founder Quincy Larson interviews Emmett Naughton. He worked as hospital janitor for years while teaching himself programming using freeCodeCamp. He's founder of Coder Dads, a chat community where da...",
+          "link": "https://www.freecodecamp.org/news/from-hospital-janitor-to-developer-with-emmett-naughton-podcast-185/",
+          "publishedOn": "2025-08-22T14:22:29.000Z",
+          "wordCount": 1044,
+          "title": "From Hospital Janitor to Developer with Emmett Naughton [Podcast #185]",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1755872500482/61d89f03-3b6f-4c86-9f70-695decea0e9d.png"
+        },
+        {
+          "id": "68a85abd010317ca95b5506e",
+          "author": "Ijeoma Igboagu",
+          "description": "AWS makes it much easier to deploy containerized applications, and running Kubernetes in the cloud is a powerful way to scale and manage these applications. Among the many managed Kubernetes services AWS offers, Amazon EKS (Elastic Kubernetes Service...",
+          "link": "https://www.freecodecamp.org/news/how-to-deploy-a-kubernetes-app-on-aws-eks/",
+          "publishedOn": "2025-08-22T11:55:41.000Z",
+          "wordCount": 2261,
+          "title": "How to Deploy a Kubernetes App on AWS EKS",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1755863277691/28937c4d-5862-464d-84a1-dfab01a577bb.png"
+        },
+        {
+          "id": "68a796b236a9f930ef67366b",
+          "author": "Atuoha Anthony",
+          "description": "GitHub Actions is a CI/CD (Continuous Integration and Continuous Deployment) tool built directly into GitHub. It allows developers to define workflows, which are sequences of automated steps triggered by events such as pushing code, opening pull requ...",
+          "link": "https://www.freecodecamp.org/news/how-to-automate-flutter-testing-and-builds-with-github-actions-for-android-and-ios/",
+          "publishedOn": "2025-08-21T21:59:14.000Z",
+          "wordCount": 2624,
+          "title": "How to Automate Flutter Testing and Builds with GitHub Actions for Android and iOS",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1755808732085/6fdd754a-39d4-40d1-8dea-0eb16cc45063.png"
+        },
         {
           "id": "68a72ee03bbf12346853dce9",
           "author": "Ihechikara Abba",
@@ -979,46 +1024,6 @@
           "wordCount": 11549,
           "title": "How to Integrate Firebase into Your Flutter Applications: A Handbook for Developers",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1753379188809/d37055e6-34cc-4b14-a70f-a412ffe69714.png"
-        },
-        {
-          "id": "68815e6054ad71fa4b3b7bb6",
-          "author": "Aditya Vikram Kashyap",
-          "description": "First, a confession: When I was learning to code, my “workflow” was a mess. Sticky notes. Google Docs. Random Trello boards I never checked again. And a to-do list that somehow never got any shorter. Then I joined a real team. Suddenly, I was introdu...",
-          "link": "https://www.freecodecamp.org/news/a-beginner-developers-guide-to-kanban/",
-          "publishedOn": "2025-07-23T22:12:48.000Z",
-          "wordCount": 2902,
-          "title": "A Beginner Developer's Guide to Kanban",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1753300952223/508231c9-f0bc-4aa8-9c97-5ad4157891b9.png"
-        },
-        {
-          "id": "688151d98401037e348f65cd",
-          "author": "Spruce Emmanuel",
-          "description": "“AI is not going to take your job – but a developer who knows how to use AI will.” I’ve seen this statement everywhere, and it’s the only one about AI taking our jobs that I totally agree with. Software development has changed. It’s not what it used ...",
-          "link": "https://www.freecodecamp.org/news/how-to-use-ai-effectively-in-your-dev-projects/",
-          "publishedOn": "2025-07-23T21:19:21.000Z",
-          "wordCount": 2648,
-          "title": "How to Use AI Effectively in Your Dev Projects",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1753305511556/b5973363-1964-4abf-a29b-cf60668b33da.png"
-        },
-        {
-          "id": "68813c7579e092b166d373b6",
-          "author": "Aditya Vikram Kashyap",
-          "description": "Let me guess: you’re learning to code…alone. You’ve been grinding through tutorials. You've built a portfolio site, maybe deployed a few projects on GitHub. And now you're trying to land a job or join a team. Then the interviews start. Suddenly, peop...",
-          "link": "https://www.freecodecamp.org/news/a-beginner-developers-guide-to-scrum/",
-          "publishedOn": "2025-07-23T19:48:05.000Z",
-          "wordCount": 4138,
-          "title": "A Beginner Developer's Guide to Scrum",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1753300058064/7046dd6c-1d9e-4f06-9ca1-65b3bb7eec83.png"
-        },
-        {
-          "id": "6880e81ad62d993a14cbbfa0",
-          "author": "Beau Carnes",
-          "description": "TypeScript is a powerful, statically-typed superset of JavaScript that helps you write safer and more maintainable code. We just posted a course on the freeCodeCamp.org YouTube channel that will help you master the essentials of TypeScript. In just o...",
-          "link": "https://www.freecodecamp.org/news/learn-typescript-in-1-hour/",
-          "publishedOn": "2025-07-23T13:48:10.000Z",
-          "wordCount": 1117,
-          "title": "Learn TypeScript in 1 Hour",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1753277448558/bdf2acef-f5cd-4be7-9e34-eaaedf060c32.png"
         }
       ]
     }
