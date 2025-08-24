@@ -175,16 +175,6 @@
           "wordCount": 3630,
           "title": "How to Discover a CSS Trick",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/01/Untitled_Artwork-scaled.jpg"
-        },
-        {
-          "id": "https://css-tricks.com/?p=388279",
-          "author": "Geoff Graham",
-          "description": "Brad Frost introduced the “Atomic Design” concept wayyyy back in 2013. He even wrote a book on it. And we all took notice, because that term has been part of our lexicon ever since.\nIt’s a nice way …\nAtomic Design Certification Course originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/atomic-design-certification-course/",
-          "publishedOn": "2025-07-24T16:16:30.000Z",
-          "wordCount": 1878,
-          "title": "Atomic Design Certification Course",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/07/atomic-design-logo.webp"
         }
       ]
     },
@@ -1004,26 +994,6 @@
           "wordCount": 1009,
           "title": "How to turn Open Source into a Job with Nick Taylor [Podcast #181]",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1753395685233/68ffabee-3e00-485f-b8a4-8f80078ca0cd.png"
-        },
-        {
-          "id": "688271db426f0b23a6b69d43",
-          "author": "Manish Shivanandhan",
-          "description": "If you’re building something on your own, you don’t have time to mess around with bloated platforms or complicated setups.  You want tools that work, tools that feel intuitive, and tools that help you move quickly from idea to launch.  This article w...",
-          "link": "https://www.freecodecamp.org/news/ultimate-tool-stack-for-indie-hackers/",
-          "publishedOn": "2025-07-24T17:48:11.000Z",
-          "wordCount": 2269,
-          "title": "From Idea to Launch – The Ultimate Tool Stack for Indie Hackers",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1753379224789/8cfaa6a0-1fe3-496f-841b-3d054f5479e5.png"
-        },
-        {
-          "id": "688271806aa78fcca439436b",
-          "author": "Atuoha Anthony",
-          "description": "In the world of software development, speed, scalability, and user experience are paramount. Flutter, with its expressive UI toolkit and native compilation, offers an unparalleled frontend experience, while Firebase, Google's robust Backend-as-a-Serv...",
-          "link": "https://www.freecodecamp.org/news/how-to-integrate-firebase-into-your-flutter-applications-a-handbook-for-developers/",
-          "publishedOn": "2025-07-24T17:46:40.000Z",
-          "wordCount": 11549,
-          "title": "How to Integrate Firebase into Your Flutter Applications: A Handbook for Developers",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1753379188809/d37055e6-34cc-4b14-a70f-a412ffe69714.png"
         }
       ]
     }

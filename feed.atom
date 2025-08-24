@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-23T00:14:29.531Z</updated>
+    <updated>2025-08-24T00:16:37.520Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
@@ -924,38 +924,6 @@ Making a Masonry Layout That Works Today originally published on CSS-Tricks, whi
 How to Discover a CSS Trick originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Lee Meyer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[From Idea to Launch – The Ultimate Tool Stack for Indie Hackers]]></title>
-        <id>688271db426f0b23a6b69d43</id>
-        <link href="https://www.freecodecamp.org/news/ultimate-tool-stack-for-indie-hackers/"/>
-        <updated>2025-07-24T17:48:11.000Z</updated>
-        <summary type="html"><![CDATA[If you’re building something on your own, you don’t have time to mess around with bloated platforms or complicated setups.  You want tools that work, tools that feel intuitive, and tools that help you move quickly from idea to launch.  This article w...]]></summary>
-        <author>
-            <name>Manish Shivanandhan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Integrate Firebase into Your Flutter Applications: A Handbook for Developers]]></title>
-        <id>688271806aa78fcca439436b</id>
-        <link href="https://www.freecodecamp.org/news/how-to-integrate-firebase-into-your-flutter-applications-a-handbook-for-developers/"/>
-        <updated>2025-07-24T17:46:40.000Z</updated>
-        <summary type="html"><![CDATA[In the world of software development, speed, scalability, and user experience are paramount. Flutter, with its expressive UI toolkit and native compilation, offers an unparalleled frontend experience, while Firebase, Google's robust Backend-as-a-Serv...]]></summary>
-        <author>
-            <name>Atuoha Anthony</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Atomic Design Certification Course]]></title>
-        <id>https://css-tricks.com/?p=388279</id>
-        <link href="https://css-tricks.com/atomic-design-certification-course/"/>
-        <updated>2025-07-24T16:16:30.000Z</updated>
-        <summary type="html"><![CDATA[Brad Frost introduced the “Atomic Design” concept wayyyy back in 2013. He even wrote a book on it. And we all took notice, because that term has been part of our lexicon ever since.
-It’s a nice way …
-Atomic Design Certification Course originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
         </author>
     </entry>
 </feed>
