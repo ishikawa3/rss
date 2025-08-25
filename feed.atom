@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-24T00:16:37.520Z</updated>
+    <updated>2025-08-25T00:15:27.898Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
@@ -893,37 +893,6 @@ Making a Masonry Layout That Works Today originally published on CSS-Tricks, whi
         <summary type="html"><![CDATA[Web Components are more than just Custom Elements. Shadow DOM, HTML Templates, and Custom Elements each play a role. In this article, Russell Beswick demonstrates how Shadow DOM fits into the broader picture, explaining why it matters, when to use it, and how to apply it effectively.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Russell Beswick)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Designing Better UX For Left-Handed People]]></title>
-        <id>https://smashingmagazine.com/2025/07/designing-better-ux-left-handed-people/</id>
-        <link href="https://smashingmagazine.com/2025/07/designing-better-ux-left-handed-people/"/>
-        <updated>2025-07-25T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Today, roughly 10% of people are left-handed. Yet most products — digital and physical — aren’t designed with it in mind. Let’s change that. More design patterns in Smart Interface Design Patterns, a **friendly video course on UX** and design patterns by Vitaly.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to turn Open Source into a Job with Nick Taylor [Podcast #181]]]></title>
-        <id>68838e179ec7a9f427f4a061</id>
-        <link href="https://www.freecodecamp.org/news/how-to-turn-open-source-into-a-job-with-nick-taylor-podcast-181/"/>
-        <updated>2025-07-25T14:00:55.000Z</updated>
-        <summary type="html"><![CDATA[On this week's episode of the podcast, freeCodeCamp founder Quincy Larson interviews Nick Taylor. He's a software engineer from Montreal and a prolific open source contributor.   We talk about: Why trying to build your own tooling will ultimately li...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Discover a CSS Trick]]></title>
-        <id>https://css-tricks.com/?p=387862</id>
-        <link href="https://css-tricks.com/how-to-discover-a-css-trick/"/>
-        <updated>2025-07-25T13:48:36.000Z</updated>
-        <summary type="html"><![CDATA[Do we invent or discover CSS tricks? Lee Meyer discusses how creative limitations, recursive thinking, and unexpected combinations lead to his most interesting ideas.
-How to Discover a CSS Trick originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Lee Meyer</name>
         </author>
     </entry>
 </feed>

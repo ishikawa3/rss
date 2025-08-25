@@ -165,16 +165,6 @@
           "wordCount": 3106,
           "title": "Making a Masonry Layout That Works Today",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2018/11/masonry.jpg"
-        },
-        {
-          "id": "https://css-tricks.com/?p=387862",
-          "author": "Lee Meyer",
-          "description": "Do we invent or discover CSS tricks? Lee Meyer discusses how creative limitations, recursive thinking, and unexpected combinations lead to his most interesting ideas.\nHow to Discover a CSS Trick originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/how-to-discover-a-css-trick/",
-          "publishedOn": "2025-07-25T13:48:36.000Z",
-          "wordCount": 3630,
-          "title": "How to Discover a CSS Trick",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/01/Untitled_Artwork-scaled.jpg"
         }
       ]
     },
@@ -362,21 +352,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/web-components-working-with-shadow-dom/web-components-working-with-shadow-dom.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2025/07/designing-better-ux-left-handed-people/",
-          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
-          "description": "Today, roughly 10% of people are left-handed. Yet most products — digital and physical — aren’t designed with it in mind. Let’s change that. More design patterns in Smart Interface Design Patterns, a **friendly video course on UX** and design patterns by Vitaly.",
-          "link": "https://smashingmagazine.com/2025/07/designing-better-ux-left-handed-people/",
-          "publishedOn": "2025-07-25T15:00:00.000Z",
-          "wordCount": 3594,
-          "title": "Designing Better UX For Left-Handed People",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/designing-better-ux-left-handed-people/designing-better-ux-left-handed-people.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/designing-better-ux-left-handed-people/designing-better-ux-left-handed-people.jpg"
         }
       ]
     },
@@ -984,16 +959,6 @@
           "wordCount": 2377,
           "title": "Object-Oriented Design Patterns with Java",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1753734965769/4d53f28e-7d85-4571-831f-1760490e06dc.png"
-        },
-        {
-          "id": "68838e179ec7a9f427f4a061",
-          "author": "Beau Carnes",
-          "description": "On this week's episode of the podcast, freeCodeCamp founder Quincy Larson interviews Nick Taylor. He's a software engineer from Montreal and a prolific open source contributor.   We talk about: Why trying to build your own tooling will ultimately li...",
-          "link": "https://www.freecodecamp.org/news/how-to-turn-open-source-into-a-job-with-nick-taylor-podcast-181/",
-          "publishedOn": "2025-07-25T14:00:55.000Z",
-          "wordCount": 1009,
-          "title": "How to turn Open Source into a Job with Nick Taylor [Podcast #181]",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1753395685233/68ffabee-3e00-485f-b8a4-8f80078ca0cd.png"
         }
       ]
     }
