@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=388519",
+          "author": "Andy Clarke",
+          "description": "Images in long-form content can (and often should) do more than illustrate. They help set the pace, influence how readers feel, and add character that words alone can’t always convey.\nGetting Creative With Images in Long-Form Content originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/getting-creative-with-images-in-long-form-content/",
+          "publishedOn": "2025-08-25T17:16:35.000Z",
+          "wordCount": 3068,
+          "title": "Getting Creative With Images in Long-Form Content",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/08/image-long-form-content-caption.jpg"
+        },
+        {
           "id": "https://css-tricks.com/?p=388459",
           "author": "Amit Sheen",
           "description": "In this third and final chapter, we’re stepping into interactivity by adding JavaScript, starting with a simple :hover effect, and ending with a fully responsive bulging text that follows your mouse in real time.\n3D Layered Text: Interactivity and Dynamicism originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -360,6 +370,36 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "68acc54701889f3eebbb5f25",
+          "author": "Ophy Boamah",
+          "description": "In 2025, using Chrome without extensions is like using a smartphone without apps. It’s possible, but you’re missing out on a lot. And despite how essential extensions are, creating one is very simple – it’s just HTML, CSS, and JavaScript with browser...",
+          "link": "https://www.freecodecamp.org/news/how-to-build-an-advice-generator-chrome-extension-with-manifest-v3/",
+          "publishedOn": "2025-08-25T20:19:19.000Z",
+          "wordCount": 2754,
+          "title": "How to Build an Advice Generator Chrome Extension with Manifest V3",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1756152220137/8717b809-1186-4a15-92f8-ea926177ef76.png"
+        },
+        {
+          "id": "68ac8e669a85df841d9f286d",
+          "author": "Ajay Kalal",
+          "description": "When online shopping first took off, product pages were built around a few static images and maybe a zoom feature. That was enough back then. But today’s customers expect far more. They want to spin a sneaker around, preview a sofa in their living ro...",
+          "link": "https://www.freecodecamp.org/news/how-webgl-and-threejs-power-interactive-online-stores/",
+          "publishedOn": "2025-08-25T16:25:10.000Z",
+          "wordCount": 2549,
+          "title": "How WebGL and Three.js Power Interactive Online Stores",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1756138909378/69cae8fe-9a57-4036-817a-fde4e6a19f3b.png"
+        },
+        {
+          "id": "68ac62884c5ca5b261e8abc3",
+          "author": "Manish Shivanandhan",
+          "description": "When people talk about modern AI, they often point to large language models like ChatGPT. These models seem smart, as they’re able to write, answer, and explain in natural language. But the roots of this technology go back to something very simple: t...",
+          "link": "https://www.freecodecamp.org/news/how-bag-of-words-works/",
+          "publishedOn": "2025-08-25T13:18:00.000Z",
+          "wordCount": 1943,
+          "title": "How Bag of Words Works – The Foundation of Language Models",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1756127722792/e047e9d2-91ae-42f6-85d9-106260ddf432.png"
+        },
         {
           "id": "68a87d25d6d093f534c090ff",
           "author": "Beau Carnes",

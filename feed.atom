@@ -2,10 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-25T00:15:27.898Z</updated>
+    <updated>2025-08-26T00:14:53.535Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Build an Advice Generator Chrome Extension with Manifest V3]]></title>
+        <id>68acc54701889f3eebbb5f25</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-an-advice-generator-chrome-extension-with-manifest-v3/"/>
+        <updated>2025-08-25T20:19:19.000Z</updated>
+        <summary type="html"><![CDATA[In 2025, using Chrome without extensions is like using a smartphone without apps. It’s possible, but you’re missing out on a lot. And despite how essential extensions are, creating one is very simple – it’s just HTML, CSS, and JavaScript with browser...]]></summary>
+        <author>
+            <name>Ophy Boamah</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Getting Creative With Images in Long-Form Content]]></title>
+        <id>https://css-tricks.com/?p=388519</id>
+        <link href="https://css-tricks.com/getting-creative-with-images-in-long-form-content/"/>
+        <updated>2025-08-25T17:16:35.000Z</updated>
+        <summary type="html"><![CDATA[Images in long-form content can (and often should) do more than illustrate. They help set the pace, influence how readers feel, and add character that words alone can’t always convey.
+Getting Creative With Images in Long-Form Content originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Andy Clarke</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How WebGL and Three.js Power Interactive Online Stores]]></title>
+        <id>68ac8e669a85df841d9f286d</id>
+        <link href="https://www.freecodecamp.org/news/how-webgl-and-threejs-power-interactive-online-stores/"/>
+        <updated>2025-08-25T16:25:10.000Z</updated>
+        <summary type="html"><![CDATA[When online shopping first took off, product pages were built around a few static images and maybe a zoom feature. That was enough back then. But today’s customers expect far more. They want to spin a sneaker around, preview a sofa in their living ro...]]></summary>
+        <author>
+            <name>Ajay Kalal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Bag of Words Works – The Foundation of Language Models]]></title>
+        <id>68ac62884c5ca5b261e8abc3</id>
+        <link href="https://www.freecodecamp.org/news/how-bag-of-words-works/"/>
+        <updated>2025-08-25T13:18:00.000Z</updated>
+        <summary type="html"><![CDATA[When people talk about modern AI, they often point to large language models like ChatGPT. These models seem smart, as they’re able to write, answer, and explain in natural language. But the roots of this technology go back to something very simple: t...]]></summary>
+        <author>
+            <name>Manish Shivanandhan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[From Hospital Janitor to Developer with Emmett Naughton [Podcast #185]]]></title>
         <id>68a87d25d6d093f534c090ff</id>
