@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-26T00:14:53.535Z</updated>
+    <updated>2025-08-27T00:14:50.593Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Build Micro Frontends in React with Vite and Module Federation]]></title>
+        <id>68ae1d943a7c9745e83e7797</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-micro-frontends-in-react-with-vite-and-module-federation/"/>
+        <updated>2025-08-26T20:48:20.000Z</updated>
+        <summary type="html"><![CDATA[Micro Frontend Architecture has become increasingly popular in recent years, as teams look to re-use parts of their existing applications in new projects rather than rebuilding everything from scratch. Micro frontends also allow large teams to share ...]]></summary>
+        <author>
+            <name>Grant Riordan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Machine Learning System on Serverless Architecture]]></title>
+        <id>68addf802314e8b22eae4655</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-a-machine-learning-system-on-serverless-architecture/"/>
+        <updated>2025-08-26T16:23:28.000Z</updated>
+        <summary type="html"><![CDATA[Let’s say you’ve built a fantastic machine learning model that performs beautifully in notebooks. But a model isn’t truly valuable until it’s in production, serving real users and solving real problems. In this article, you’ll learn how to ship a pro...]]></summary>
+        <author>
+            <name>Kuriko Iwai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Optimizing PWAs For Different Display Modes]]></title>
+        <id>https://smashingmagazine.com/2025/08/optimizing-pwas-different-display-modes/</id>
+        <link href="https://smashingmagazine.com/2025/08/optimizing-pwas-different-display-modes/"/>
+        <updated>2025-08-26T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Progressive Web Apps (PWAs) are a great way to make apps built for the web feel native, but in moving away from a browser environment, we can introduce usability issues. This article covers how we can modify our app depending on what display mode is applied to mitigate these issues.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Declan Chidlow)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Build an Advice Generator Chrome Extension with Manifest V3]]></title>
         <id>68acc54701889f3eebbb5f25</id>
@@ -924,16 +954,6 @@ Keeping Article Demos Alive When Third-Party APIs Die originally published on CS
 Making a Masonry Layout That Works Today originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Zell Liew</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web Components: Working With Shadow DOM]]></title>
-        <id>https://smashingmagazine.com/2025/07/web-components-working-with-shadow-dom/</id>
-        <link href="https://smashingmagazine.com/2025/07/web-components-working-with-shadow-dom/"/>
-        <updated>2025-07-28T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Web Components are more than just Custom Elements. Shadow DOM, HTML Templates, and Custom Elements each play a role. In this article, Russell Beswick demonstrates how Shadow DOM fits into the broader picture, explaining why it matters, when to use it, and how to apply it effectively.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Russell Beswick)</name>
         </author>
     </entry>
 </feed>

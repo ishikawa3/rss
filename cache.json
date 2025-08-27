@@ -184,6 +184,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2025/08/optimizing-pwas-different-display-modes/",
+          "author": "hello@smashingmagazine.com (Declan Chidlow)",
+          "description": "Progressive Web Apps (PWAs) are a great way to make apps built for the web feel native, but in moving away from a browser environment, we can introduce usability issues. This article covers how we can modify our app depending on what display mode is applied to mitigate these issues.",
+          "link": "https://smashingmagazine.com/2025/08/optimizing-pwas-different-display-modes/",
+          "publishedOn": "2025-08-26T08:00:00.000Z",
+          "wordCount": 4712,
+          "title": "Optimizing PWAs For Different Display Modes",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/optimizing-pwas-different-display-modes/optimizing-pwas-different-display-modes.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/optimizing-pwas-different-display-modes/optimizing-pwas-different-display-modes.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2025/08/week-in-life-ai-augmented-designer/",
           "author": "hello@smashingmagazine.com (Lyndon Cerejo)",
           "description": "If you are new to using AI in design or curious about integrating AI into your UX process without losing your human touch, this article offers a grounded, day-by-day look at introducing AI into your design workflow.",
@@ -347,21 +362,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/core-model-start-from-answer-not-solution/core-model-start-from-answer-not-solution.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2025/07/web-components-working-with-shadow-dom/",
-          "author": "hello@smashingmagazine.com (Russell Beswick)",
-          "description": "Web Components are more than just Custom Elements. Shadow DOM, HTML Templates, and Custom Elements each play a role. In this article, Russell Beswick demonstrates how Shadow DOM fits into the broader picture, explaining why it matters, when to use it, and how to apply it effectively.",
-          "link": "https://smashingmagazine.com/2025/07/web-components-working-with-shadow-dom/",
-          "publishedOn": "2025-07-28T08:00:00.000Z",
-          "wordCount": 4603,
-          "title": "Web Components: Working With Shadow DOM",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/web-components-working-with-shadow-dom/web-components-working-with-shadow-dom.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/web-components-working-with-shadow-dom/web-components-working-with-shadow-dom.jpg"
         }
       ]
     },
@@ -370,6 +370,26 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "68ae1d943a7c9745e83e7797",
+          "author": "Grant Riordan",
+          "description": "Micro Frontend Architecture has become increasingly popular in recent years, as teams look to re-use parts of their existing applications in new projects rather than rebuilding everything from scratch. Micro frontends also allow large teams to share ...",
+          "link": "https://www.freecodecamp.org/news/how-to-build-micro-frontends-in-react-with-vite-and-module-federation/",
+          "publishedOn": "2025-08-26T20:48:20.000Z",
+          "wordCount": 4001,
+          "title": "How to Build Micro Frontends in React with Vite and Module Federation",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1756231755011/283b9e67-9a09-4241-9d90-701cb075084d.jpeg"
+        },
+        {
+          "id": "68addf802314e8b22eae4655",
+          "author": "Kuriko Iwai",
+          "description": "Let’s say you’ve built a fantastic machine learning model that performs beautifully in notebooks. But a model isn’t truly valuable until it’s in production, serving real users and solving real problems. In this article, you’ll learn how to ship a pro...",
+          "link": "https://www.freecodecamp.org/news/how-to-build-a-machine-learning-system-on-serverless-architecture/",
+          "publishedOn": "2025-08-26T16:23:28.000Z",
+          "wordCount": 7179,
+          "title": "How to Build a Machine Learning System on Serverless Architecture",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1756225357023/04572f1b-b9a7-43e0-aabc-2842faa2703f.png"
+        },
         {
           "id": "68acc54701889f3eebbb5f25",
           "author": "Ophy Boamah",
