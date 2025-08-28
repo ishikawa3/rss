@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=388588",
+          "author": "Preethi",
+          "description": "Here's an approach for animating products added to a shopping cart that handles an infinite number of items using a variation of the ol' Checkbox Hack.\nA Radio Button Shopping Cart Trick originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/a-radio-button-shopping-cart-trick/",
+          "publishedOn": "2025-08-27T14:18:12.000Z",
+          "wordCount": 2653,
+          "title": "A Radio Button Shopping Cart Trick",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/08/add-to-cart-animation.jpg"
+        },
+        {
           "id": "https://css-tricks.com/?p=388519",
           "author": "Andy Clarke",
           "description": "Images in long-form content can (and often should) do more than illustrate. They help set the pace, influence how readers feel, and add character that words alone can’t always convey.\nGetting Creative With Images in Long-Form Content originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -165,16 +175,6 @@
           "wordCount": 3130,
           "title": "Keeping Article Demos Alive When Third-Party APIs Die",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2020/05/nodes-pattern.png"
-        },
-        {
-          "id": "https://css-tricks.com/?p=387765",
-          "author": "Zell Liew",
-          "description": "I went on to figure out how make masonry work today with other browsers. I'm happy to report I've found a way — and, bonus! — that support can be provided with only 66 lines of JavaScript.\nMaking a Masonry Layout That Works Today originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/making-a-masonry-layout-that-works-today/",
-          "publishedOn": "2025-07-28T12:42:16.000Z",
-          "wordCount": 3106,
-          "title": "Making a Masonry Layout That Works Today",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2018/11/masonry.jpg"
         }
       ]
     },
@@ -183,6 +183,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2025/08/designing-tv-evergreen-pattern-shapes-tv-experiences/",
+          "author": "hello@smashingmagazine.com (Milan Balać)",
+          "description": "TV interface design is a unique, fascinating, and often overlooked field. It’s been guided by decades of evolution and innovation, yet still firmly constrained by its legacy. Follow Milan into the history, quirks, and unshakable rules that dictate how we control these devices.",
+          "link": "https://smashingmagazine.com/2025/08/designing-tv-evergreen-pattern-shapes-tv-experiences/",
+          "publishedOn": "2025-08-27T13:00:00.000Z",
+          "wordCount": 6675,
+          "title": "Designing For TV: The Evergreen Pattern That Shapes TV Experiences",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/designing-tv-evergreen-pattern-shapes-tv-experiences/designing-tv-evergreen-pattern-shapes-tv-experiences.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/designing-tv-evergreen-pattern-shapes-tv-experiences/designing-tv-evergreen-pattern-shapes-tv-experiences.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2025/08/optimizing-pwas-different-display-modes/",
           "author": "hello@smashingmagazine.com (Declan Chidlow)",
@@ -370,6 +385,66 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "68af51354dd5e596e553184e",
+          "author": "Beau Carnes",
+          "description": "Do you want to improve you JavaScript skills and create 3D web experiences? We just posted a course on the freeCodeCamp.org YouTube channel that is designed to help anyone master JavaScript and Three.js by building five impressive and practical proje...",
+          "link": "https://www.freecodecamp.org/news/create-3d-web-experiences-with-javascript-and-threejs/",
+          "publishedOn": "2025-08-27T18:40:53.000Z",
+          "wordCount": 1162,
+          "title": "Create 3D Web Experiences with JavaScript and Three.js",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1756299743551/aa4a1301-8f99-4eef-8e66-7c6202820b93.png"
+        },
+        {
+          "id": "68af2c4fa028696d3cf7c091",
+          "author": "Andrew Ezeani",
+          "description": "If you have ever spent weeks hopping from one coding tutorial to another, only to freeze the moment you are asked to build something from scratch, you're not alone. This loop, known as tutorial hell, is where many aspiring developers get stuck. It fe...",
+          "link": "https://www.freecodecamp.org/news/how-to-break-free-from-tutorial-hell/",
+          "publishedOn": "2025-08-27T16:03:27.000Z",
+          "wordCount": 3324,
+          "title": "How to Break Free from Tutorial Hell: A Practical Guide",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1756310586139/70a20570-61f6-4771-b0a9-718573d710f5.png"
+        },
+        {
+          "id": "68af2baaa845284174a27982",
+          "author": "Manish Shivanandhan",
+          "description": "When you hear about Next.js, your first thought may be static websites or React-driven frontends. But that’s just part of the story. Next.js can also power full-featured backend APIs that you can host and scale just like any other backend service. In...",
+          "link": "https://www.freecodecamp.org/news/caching-a-nextjs-api-using-redis-and-sevalla/",
+          "publishedOn": "2025-08-27T16:00:42.000Z",
+          "wordCount": 2351,
+          "title": "Caching a Next.js API using Redis and Sevalla",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1756310410998/ee5f34fd-0efe-4efc-9e91-2baa826edff9.png"
+        },
+        {
+          "id": "68af2b5d6d32776366258694",
+          "author": "Atuoha Anthony",
+          "description": "Permissions are crucial when building mobile applications that require access to device features such as location, camera, contacts, microphone, storage, and more. And handling permissions effectively ensures that your app provides a seamless user ex...",
+          "link": "https://www.freecodecamp.org/news/how-to-handle-permissions-in-flutter-for-beginners/",
+          "publishedOn": "2025-08-27T15:59:25.000Z",
+          "wordCount": 3205,
+          "title": "How to Handle Permissions in Flutter: A Comprehensive Guide",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1756310343452/8db020d5-5cec-4b88-9a02-a8dc2a81190c.png"
+        },
+        {
+          "id": "68ae61c1eaacec5198b5743e",
+          "author": "Beau Carnes",
+          "description": "We just released a full course on the freeCodeCamp.org YouTube channel to help you prepare for the Google Cloud Professional Cloud Architect (GCP-PCA) certification exam. The Professional Cloud Architect certification is one of Google Cloud’s top cre...",
+          "link": "https://www.freecodecamp.org/news/prepare-for-the-google-professional-cloud-architect-certification-exam-and-pass/",
+          "publishedOn": "2025-08-27T01:39:13.000Z",
+          "wordCount": 1019,
+          "title": "Prepare for the Google Professional Cloud Architect Certification Exam – And Pass!",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1756258734075/cff75276-73b5-4ca6-9f6e-b2a845470422.png"
+        },
+        {
+          "id": "68ae60dd2ebe767204ec0f59",
+          "author": "Beau Carnes",
+          "description": "We just published a new course on the freeCodeCamp.org YouTube channel that mixes computer vision, deep learning, and Arduino into some really fun projects. In this course, you’ll build two hands-on applications using MediaPipe and OpenCV. The first ...",
+          "link": "https://www.freecodecamp.org/news/use-arduinos-for-computer-vision/",
+          "publishedOn": "2025-08-27T01:35:25.000Z",
+          "wordCount": 979,
+          "title": "Use Arduinos for Computer Vision",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1756258472163/30bdd66e-4458-4c70-b596-20685e993d37.png"
+        },
         {
           "id": "68ae1d943a7c9745e83e7797",
           "author": "Grant Riordan",
@@ -979,46 +1054,6 @@
           "wordCount": 2495,
           "title": "How to Upload Large Objects to S3 with AWS CLI Multipart Upload",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1753940874032/9dae199c-ff29-44c1-aff9-4dad02fdc26d.png"
-        },
-        {
-          "id": "68880df6ebbc17df34200269",
-          "author": "Shruti Kapoor",
-          "description": "Navigating the journey from senior engineer to staff engineer can be daunting. Promotions are often confusing, and this particular leap can feel even more ambiguous. As someone who has successfully transitioned to a Staff Engineer role, I want to sha...",
-          "link": "https://www.freecodecamp.org/news/how-to-get-promoted-from-senior-to-staff-engineer-tips-from-my-experience/",
-          "publishedOn": "2025-07-28T23:55:34.000Z",
-          "wordCount": 4479,
-          "title": "How to Get Promoted from Senior to Staff Engineer – Tips from My Experience",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1753746889847/3c80439e-4c98-467f-8d3c-9c7e08e56a4a.png"
-        },
-        {
-          "id": "68880d881bd0d07a1731c788",
-          "author": "Mfonobong Umondia",
-          "description": "In this article, I’ll walk you through what microcopy is, why it matters more than you think, and how to write effective, empathetic, and high-converting microcopy. Whether you're a designer, writer, or product builder, you’ll learn practical tips, r...",
-          "link": "https://www.freecodecamp.org/news/how-to-boost-conversions-with-ux-focused-microcopy/",
-          "publishedOn": "2025-07-28T23:53:44.000Z",
-          "wordCount": 2268,
-          "title": "How to Boost Conversions with UX-Focused Microcopy",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1753746811969/e16afede-4e1a-4499-bb10-ed2a8de8c159.png"
-        },
-        {
-          "id": "68880d1bebbc17df34200263",
-          "author": "Tope Fasasi",
-          "description": "Database seed scripts are pre-written pieces of code that populate your database with initial data, serving as the foundation for a consistent development environment. These files contain structured data that follows real-world scenarios, letting you...",
-          "link": "https://www.freecodecamp.org/news/how-to-build-database-seed-scripts-for-your-node-application/",
-          "publishedOn": "2025-07-28T23:51:55.000Z",
-          "wordCount": 4955,
-          "title": "How to Build Database Seed Scripts for Your Node Application",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1753746696472/4a181d0a-5e11-4603-ac27-151d16a6bbf4.png"
-        },
-        {
-          "id": "6887df408810970f0e04fae6",
-          "author": "Mark Mahoney",
-          "description": "In this article I will introduce some of the most useful object-oriented design patterns. Design patterns are solutions to common problems that show up over and over again. These problems will show up in many different contexts but always have the sa...",
-          "link": "https://www.freecodecamp.org/news/object-oriented-design-patterns-with-java/",
-          "publishedOn": "2025-07-28T20:36:16.000Z",
-          "wordCount": 2377,
-          "title": "Object-Oriented Design Patterns with Java",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1753734965769/4d53f28e-7d85-4571-831f-1760490e06dc.png"
         }
       ]
     }

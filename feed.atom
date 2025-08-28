@@ -2,10 +2,91 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-27T00:14:50.593Z</updated>
+    <updated>2025-08-28T00:14:31.424Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Create 3D Web Experiences with JavaScript and Three.js]]></title>
+        <id>68af51354dd5e596e553184e</id>
+        <link href="https://www.freecodecamp.org/news/create-3d-web-experiences-with-javascript-and-threejs/"/>
+        <updated>2025-08-27T18:40:53.000Z</updated>
+        <summary type="html"><![CDATA[Do you want to improve you JavaScript skills and create 3D web experiences? We just posted a course on the freeCodeCamp.org YouTube channel that is designed to help anyone master JavaScript and Three.js by building five impressive and practical proje...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Break Free from Tutorial Hell: A Practical Guide]]></title>
+        <id>68af2c4fa028696d3cf7c091</id>
+        <link href="https://www.freecodecamp.org/news/how-to-break-free-from-tutorial-hell/"/>
+        <updated>2025-08-27T16:03:27.000Z</updated>
+        <summary type="html"><![CDATA[If you have ever spent weeks hopping from one coding tutorial to another, only to freeze the moment you are asked to build something from scratch, you're not alone. This loop, known as tutorial hell, is where many aspiring developers get stuck. It fe...]]></summary>
+        <author>
+            <name>Andrew Ezeani</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Caching a Next.js API using Redis and Sevalla]]></title>
+        <id>68af2baaa845284174a27982</id>
+        <link href="https://www.freecodecamp.org/news/caching-a-nextjs-api-using-redis-and-sevalla/"/>
+        <updated>2025-08-27T16:00:42.000Z</updated>
+        <summary type="html"><![CDATA[When you hear about Next.js, your first thought may be static websites or React-driven frontends. But that’s just part of the story. Next.js can also power full-featured backend APIs that you can host and scale just like any other backend service. In...]]></summary>
+        <author>
+            <name>Manish Shivanandhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Handle Permissions in Flutter: A Comprehensive Guide]]></title>
+        <id>68af2b5d6d32776366258694</id>
+        <link href="https://www.freecodecamp.org/news/how-to-handle-permissions-in-flutter-for-beginners/"/>
+        <updated>2025-08-27T15:59:25.000Z</updated>
+        <summary type="html"><![CDATA[Permissions are crucial when building mobile applications that require access to device features such as location, camera, contacts, microphone, storage, and more. And handling permissions effectively ensures that your app provides a seamless user ex...]]></summary>
+        <author>
+            <name>Atuoha Anthony</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Radio Button Shopping Cart Trick]]></title>
+        <id>https://css-tricks.com/?p=388588</id>
+        <link href="https://css-tricks.com/a-radio-button-shopping-cart-trick/"/>
+        <updated>2025-08-27T14:18:12.000Z</updated>
+        <summary type="html"><![CDATA[Here's an approach for animating products added to a shopping cart that handles an infinite number of items using a variation of the ol' Checkbox Hack.
+A Radio Button Shopping Cart Trick originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Preethi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Designing For TV: The Evergreen Pattern That Shapes TV Experiences]]></title>
+        <id>https://smashingmagazine.com/2025/08/designing-tv-evergreen-pattern-shapes-tv-experiences/</id>
+        <link href="https://smashingmagazine.com/2025/08/designing-tv-evergreen-pattern-shapes-tv-experiences/"/>
+        <updated>2025-08-27T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[TV interface design is a unique, fascinating, and often overlooked field. It’s been guided by decades of evolution and innovation, yet still firmly constrained by its legacy. Follow Milan into the history, quirks, and unshakable rules that dictate how we control these devices.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Milan Balać)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Prepare for the Google Professional Cloud Architect Certification Exam – And Pass!]]></title>
+        <id>68ae61c1eaacec5198b5743e</id>
+        <link href="https://www.freecodecamp.org/news/prepare-for-the-google-professional-cloud-architect-certification-exam-and-pass/"/>
+        <updated>2025-08-27T01:39:13.000Z</updated>
+        <summary type="html"><![CDATA[We just released a full course on the freeCodeCamp.org YouTube channel to help you prepare for the Google Cloud Professional Cloud Architect (GCP-PCA) certification exam. The Professional Cloud Architect certification is one of Google Cloud’s top cre...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Use Arduinos for Computer Vision]]></title>
+        <id>68ae60dd2ebe767204ec0f59</id>
+        <link href="https://www.freecodecamp.org/news/use-arduinos-for-computer-vision/"/>
+        <updated>2025-08-27T01:35:25.000Z</updated>
+        <summary type="html"><![CDATA[We just published a new course on the freeCodeCamp.org YouTube channel that mixes computer vision, deep learning, and Arduino into some really fun projects. In this course, you’ll build two hands-on applications using MediaPipe and OpenCV. The first ...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Build Micro Frontends in React with Vite and Module Federation]]></title>
         <id>68ae1d943a7c9745e83e7797</id>
@@ -903,57 +984,6 @@ Keeping Article Demos Alive When Third-Party APIs Die originally published on CS
         <summary type="html"><![CDATA[The Core Model is a practical methodology that flips traditional digital development on its head. Instead of starting with solutions or structure, we begin with a hypothesis about what users need and follow a simple framework that brings diverse teams together to create more effective digital experiences. By asking six good questions in the right order, teams align around user tasks and business objectives, creating clarity that transcends organizational boundaries.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Are Halland)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Get Promoted from Senior to Staff Engineer – Tips from My Experience]]></title>
-        <id>68880df6ebbc17df34200269</id>
-        <link href="https://www.freecodecamp.org/news/how-to-get-promoted-from-senior-to-staff-engineer-tips-from-my-experience/"/>
-        <updated>2025-07-28T23:55:34.000Z</updated>
-        <summary type="html"><![CDATA[Navigating the journey from senior engineer to staff engineer can be daunting. Promotions are often confusing, and this particular leap can feel even more ambiguous. As someone who has successfully transitioned to a Staff Engineer role, I want to sha...]]></summary>
-        <author>
-            <name>Shruti Kapoor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Boost Conversions with UX-Focused Microcopy]]></title>
-        <id>68880d881bd0d07a1731c788</id>
-        <link href="https://www.freecodecamp.org/news/how-to-boost-conversions-with-ux-focused-microcopy/"/>
-        <updated>2025-07-28T23:53:44.000Z</updated>
-        <summary type="html"><![CDATA[In this article, I’ll walk you through what microcopy is, why it matters more than you think, and how to write effective, empathetic, and high-converting microcopy. Whether you're a designer, writer, or product builder, you’ll learn practical tips, r...]]></summary>
-        <author>
-            <name>Mfonobong Umondia</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build Database Seed Scripts for Your Node Application]]></title>
-        <id>68880d1bebbc17df34200263</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-database-seed-scripts-for-your-node-application/"/>
-        <updated>2025-07-28T23:51:55.000Z</updated>
-        <summary type="html"><![CDATA[Database seed scripts are pre-written pieces of code that populate your database with initial data, serving as the foundation for a consistent development environment. These files contain structured data that follows real-world scenarios, letting you...]]></summary>
-        <author>
-            <name>Tope Fasasi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Object-Oriented Design Patterns with Java]]></title>
-        <id>6887df408810970f0e04fae6</id>
-        <link href="https://www.freecodecamp.org/news/object-oriented-design-patterns-with-java/"/>
-        <updated>2025-07-28T20:36:16.000Z</updated>
-        <summary type="html"><![CDATA[In this article I will introduce some of the most useful object-oriented design patterns. Design patterns are solutions to common problems that show up over and over again. These problems will show up in many different contexts but always have the sa...]]></summary>
-        <author>
-            <name>Mark Mahoney</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Making a Masonry Layout That Works Today]]></title>
-        <id>https://css-tricks.com/?p=387765</id>
-        <link href="https://css-tricks.com/making-a-masonry-layout-that-works-today/"/>
-        <updated>2025-07-28T12:42:16.000Z</updated>
-        <summary type="html"><![CDATA[I went on to figure out how make masonry work today with other browsers. I'm happy to report I've found a way — and, bonus! — that support can be provided with only 66 lines of JavaScript.
-Making a Masonry Layout That Works Today originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Zell Liew</name>
         </author>
     </entry>
 </feed>
