@@ -386,6 +386,16 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "68afa02d9547303a1dcc65cf",
+          "author": "Manish Shivanandhan",
+          "description": "The world of artificial intelligence moves fast. Every week, new models appear, older ones get better, and the tools to use them become easier. But if you are building a machine learning project, you may face one big problem: how to share your work q...",
+          "link": "https://www.freecodecamp.org/news/how-to-build-your-ai-demos-with-gradio/",
+          "publishedOn": "2025-08-28T00:17:49.000Z",
+          "wordCount": 2098,
+          "title": "How to Build Your AI Demos with Gradio",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1756337736951/2a58e22d-dd7a-4768-b052-a981a91c36da.png"
+        },
+        {
           "id": "68af51354dd5e596e553184e",
           "author": "Beau Carnes",
           "description": "Do you want to improve you JavaScript skills and create 3D web experiences? We just posted a course on the freeCodeCamp.org YouTube channel that is designed to help anyone master JavaScript and Three.js by building five impressive and practical proje...",

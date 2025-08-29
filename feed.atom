@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-28T00:14:31.424Z</updated>
+    <updated>2025-08-29T00:15:10.121Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Build Your AI Demos with Gradio]]></title>
+        <id>68afa02d9547303a1dcc65cf</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-your-ai-demos-with-gradio/"/>
+        <updated>2025-08-28T00:17:49.000Z</updated>
+        <summary type="html"><![CDATA[The world of artificial intelligence moves fast. Every week, new models appear, older ones get better, and the tools to use them become easier. But if you are building a machine learning project, you may face one big problem: how to share your work q...]]></summary>
+        <author>
+            <name>Manish Shivanandhan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Create 3D Web Experiences with JavaScript and Three.js]]></title>
         <id>68af51354dd5e596e553184e</id>
