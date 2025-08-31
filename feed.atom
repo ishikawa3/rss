@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-30T00:14:15.568Z</updated>
+    <updated>2025-08-31T00:16:44.396Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
@@ -934,66 +934,6 @@ Thinking Deeply About Theming and Color Naming originally published on CSS-Trick
         <summary type="html"><![CDATA[On this week's episode of the podcast, freeCodeCamp founder Quincy Larson interviews Dilip Krishnamoorthi. He's a software engineer working at Sony, building user interfaces for Playstation game consoles where he's been for 10 years.   We talk about:...]]></summary>
         <author>
             <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Extract Insights from Text Using Named Entity Recognition (NER)]]></title>
-        <id>688bfd68b5250266e21f97da</id>
-        <link href="https://www.freecodecamp.org/news/extract-insights-from-text-using-named-entity-recognition/"/>
-        <updated>2025-07-31T23:34:00.000Z</updated>
-        <summary type="html"><![CDATA[Many of us enjoy reading the news and staying up-to-date on current events. But the number of new stories each day can be overwhelming. You probably want to know who’s involved in world events, where things are happening globally, and which organizat...]]></summary>
-        <author>
-            <name>Manish Shivanandhan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Shared State Complexity in React – A Complete Handbook for Developers]]></title>
-        <id>688bfc51bf96ff93c962d1f2</id>
-        <link href="https://www.freecodecamp.org/news/shared-state-complexity-in-react-handbook/"/>
-        <updated>2025-07-31T23:29:21.000Z</updated>
-        <summary type="html"><![CDATA[Imagine you're building a simple shopping website. You have a product page where users can add items to their cart, and a header that displays the number of items in the cart. Sounds simple, right? But here's the challenge: how does the header know w...]]></summary>
-        <author>
-            <name>Henry Adepegba</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn Enterprise AI – Embeddings, RAG, and Multimodal Agents Using Amazon Nova and Bedrock]]></title>
-        <id>688b9e80a13232fedab6f08e</id>
-        <link href="https://www.freecodecamp.org/news/learn-enterprise-ai-embeddings-rag-and-multimodal-agents-using-amazon-nova-and-bedrock/"/>
-        <updated>2025-07-31T16:49:04.000Z</updated>
-        <summary type="html"><![CDATA[Enterprise AI requires different skills and technologies than your basic OpenAI wrapper applications you see all over. We just published a course on the freeCodeCamp.org YouTube channel that will teach all about Embeddings, RAG, Multimodal Models, an...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Algorithm Analysis Deep Dive]]></title>
-        <id>688b9162ab0310c598dc3d01</id>
-        <link href="https://www.freecodecamp.org/news/algorithm-analysis-deep-dive/"/>
-        <updated>2025-07-31T15:53:06.000Z</updated>
-        <summary type="html"><![CDATA[Have you ever just memorized that an algorithm is O(n log n) without truly understanding why? Our new algorithms course on the freeCodeCamp.org YouTube channel will help you build a deep intuition for how algorithms work. This Algorithm Analysis Deep...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Improve Your Technical Writing Skills to Advance Your Career]]></title>
-        <id>688b8e97464706f0734d3716</id>
-        <link href="https://www.freecodecamp.org/news/improve-your-technical-writing-skills-to-advance-your-career/"/>
-        <updated>2025-07-31T15:41:11.000Z</updated>
-        <summary type="html"><![CDATA[Technical writing is important for all sorts of careers. We just posted a course on the freeCodeCamp.org YouTube channel that will teach you the fundamentals of technical writing and help you understand its importance in various fields. The course wi...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is Unicode —The Secret Language Behind Every Text You See]]></title>
-        <id>688b74903e00617596a6f3ce</id>
-        <link href="https://www.freecodecamp.org/news/what-is-unicode-the-secret-language-behind-every-text-you-see/"/>
-        <updated>2025-07-31T13:50:08.000Z</updated>
-        <summary type="html"><![CDATA[Have you ever sent a message with an emoji? Read a blog in another language? Or copied some strange symbol from the internet?  All of these are possible because of something called Unicode.  Unicode is a powerful system that lets computers understand...]]></summary>
-        <author>
-            <name>Manish Shivanandhan</name>
         </author>
     </entry>
 </feed>

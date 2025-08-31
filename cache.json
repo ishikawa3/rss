@@ -1004,66 +1004,6 @@
           "wordCount": 1069,
           "title": "Senior Playstation Engineer's tips for learning new tools and getting things done [Podcast #184]",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1754012862188/53107c5c-efb6-478d-9d90-19fd42abd6a5.png"
-        },
-        {
-          "id": "688bfd68b5250266e21f97da",
-          "author": "Manish Shivanandhan",
-          "description": "Many of us enjoy reading the news and staying up-to-date on current events. But the number of new stories each day can be overwhelming. You probably want to know who’s involved in world events, where things are happening globally, and which organizat...",
-          "link": "https://www.freecodecamp.org/news/extract-insights-from-text-using-named-entity-recognition/",
-          "publishedOn": "2025-07-31T23:34:00.000Z",
-          "wordCount": 2140,
-          "title": "How to Extract Insights from Text Using Named Entity Recognition (NER)",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1747753280612/991828ce-0554-4c20-bfcc-bb278c9f2954.png"
-        },
-        {
-          "id": "688bfc51bf96ff93c962d1f2",
-          "author": "Henry Adepegba",
-          "description": "Imagine you're building a simple shopping website. You have a product page where users can add items to their cart, and a header that displays the number of items in the cart. Sounds simple, right? But here's the challenge: how does the header know w...",
-          "link": "https://www.freecodecamp.org/news/shared-state-complexity-in-react-handbook/",
-          "publishedOn": "2025-07-31T23:29:21.000Z",
-          "wordCount": 16457,
-          "title": "Shared State Complexity in React – A Complete Handbook for Developers",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1754003865317/3c91ac36-2e1b-4e03-ac54-64a100e44c8f.png"
-        },
-        {
-          "id": "688b9e80a13232fedab6f08e",
-          "author": "Beau Carnes",
-          "description": "Enterprise AI requires different skills and technologies than your basic OpenAI wrapper applications you see all over. We just published a course on the freeCodeCamp.org YouTube channel that will teach all about Embeddings, RAG, Multimodal Models, an...",
-          "link": "https://www.freecodecamp.org/news/learn-enterprise-ai-embeddings-rag-and-multimodal-agents-using-amazon-nova-and-bedrock/",
-          "publishedOn": "2025-07-31T16:49:04.000Z",
-          "wordCount": 1061,
-          "title": "Learn Enterprise AI – Embeddings, RAG, and Multimodal Agents Using Amazon Nova and Bedrock",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1753980521268/67afb5a4-a5b4-4522-bbc4-f5aacb9a22d0.png"
-        },
-        {
-          "id": "688b9162ab0310c598dc3d01",
-          "author": "Beau Carnes",
-          "description": "Have you ever just memorized that an algorithm is O(n log n) without truly understanding why? Our new algorithms course on the freeCodeCamp.org YouTube channel will help you build a deep intuition for how algorithms work. This Algorithm Analysis Deep...",
-          "link": "https://www.freecodecamp.org/news/algorithm-analysis-deep-dive/",
-          "publishedOn": "2025-07-31T15:53:06.000Z",
-          "wordCount": 1018,
-          "title": "Algorithm Analysis Deep Dive",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1753977160999/8386f8e7-8b1c-4851-8aba-6e27370a05fa.png"
-        },
-        {
-          "id": "688b8e97464706f0734d3716",
-          "author": "Beau Carnes",
-          "description": "Technical writing is important for all sorts of careers. We just posted a course on the freeCodeCamp.org YouTube channel that will teach you the fundamentals of technical writing and help you understand its importance in various fields. The course wi...",
-          "link": "https://www.freecodecamp.org/news/improve-your-technical-writing-skills-to-advance-your-career/",
-          "publishedOn": "2025-07-31T15:41:11.000Z",
-          "wordCount": 1013,
-          "title": "Improve Your Technical Writing Skills to Advance Your Career",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1753976458228/f3d14a7f-d0f7-4e61-a487-cdc4b6344843.png"
-        },
-        {
-          "id": "688b74903e00617596a6f3ce",
-          "author": "Manish Shivanandhan",
-          "description": "Have you ever sent a message with an emoji? Read a blog in another language? Or copied some strange symbol from the internet?  All of these are possible because of something called Unicode.  Unicode is a powerful system that lets computers understand...",
-          "link": "https://www.freecodecamp.org/news/what-is-unicode-the-secret-language-behind-every-text-you-see/",
-          "publishedOn": "2025-07-31T13:50:08.000Z",
-          "wordCount": 2121,
-          "title": "What is Unicode —The Secret Language Behind Every Text You See",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1753969659647/1f49bf21-9be3-4e60-861f-50c714d7ae87.png"
         }
       ]
     }
