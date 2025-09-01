@@ -189,6 +189,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2025/08/desktop-wallpaper-calendars-september-2025/",
+          "author": "hello@smashingmagazine.com (Cosima Mielke)",
+          "description": "Could there be a better way to welcome the new month than with a new collection of desktop wallpapers? We’ve got some eye-catching designs to make your September just a bit more colorful. Enjoy!",
+          "link": "https://smashingmagazine.com/2025/08/desktop-wallpaper-calendars-september-2025/",
+          "publishedOn": "2025-08-31T08:00:00.000Z",
+          "wordCount": 4731,
+          "title": "A Breeze Of Inspiration In September (2025 Wallpapers Edition)",
+          "enclosure": {
+            "url": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/77eaabbb-9743-45b6-99f3-f35a5584275f/sept-17-funny-cats-preview-opt.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/77eaabbb-9743-45b6-99f3-f35a5584275f/sept-17-funny-cats-preview-opt.png"
+        },
+        {
           "id": "https://smashingmagazine.com/2025/08/prompting-design-act-brief-guide-iterate-ai/",
           "author": "hello@smashingmagazine.com (Lyndon Cerejo)",
           "description": "Prompting is more than giving AI some instructions. You could think of it as a design act, part creative brief and part conversation design. This second article on AI augmenting design work introduces a designerly approach to prompting: one that blends creative briefing, interaction design, and structural clarity.",
@@ -934,76 +949,6 @@
           "wordCount": 1095,
           "title": "Learn React and Tailwind CSS for Front End Development",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1754316874796/7a378441-7dbd-4a78-9d09-210ec7d9d2f1.png"
-        },
-        {
-          "id": "688d5fc7d30be1cecdacf767",
-          "author": "Soham Banerjee",
-          "description": "Embedded programming has long been dominated by C and C++, powering everything from microcontrollers to real-time systems. While these languages offer unmatched low-level control, they also introduce persistent challenges, manual memory management, u...",
-          "link": "https://www.freecodecamp.org/news/embedded-swift-a-modern-approach-to-low-level-programming/",
-          "publishedOn": "2025-08-02T00:45:59.000Z",
-          "wordCount": 6030,
-          "title": "Embedded Swift: A Modern Approach to Low-Level Programming",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1754090186842/80a42dca-f2c4-49de-b704-2e90134c6397.png"
-        },
-        {
-          "id": "688d4a71e3bdfbcce11ae186",
-          "author": "Manish Shivanandhan",
-          "description": "When people hear about Next.js, they often think of server-side rendering, React-powered frontends, or SEO-optimised static websites. But there's more to this powerful framework than just front-end development. Next.js also allows developers to build...",
-          "link": "https://www.freecodecamp.org/news/how-to-deploy-a-nextjs-api-to-production-using-sevalla/",
-          "publishedOn": "2025-08-01T23:14:57.000Z",
-          "wordCount": 3282,
-          "title": "How to Deploy a Next.js API to Production using Sevalla",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1754090039728/75b0f680-94b4-4310-9c52-109000acde22.png"
-        },
-        {
-          "id": "688d43422c35fedc5be4fa94",
-          "author": "AYUSH MISHRA",
-          "description": "In C++, a loop is a part of code that is executed repetitively until the given condition is satisfied. An infinite loop is a loop that runs indefinitely, without any condition to exit the loop. In this article, we will learn about infinite loops in C...",
-          "link": "https://www.freecodecamp.org/news/how-infinite-loops-work-in-c/",
-          "publishedOn": "2025-08-01T22:44:18.000Z",
-          "wordCount": 2368,
-          "title": "How Infinite Loops Work in C++",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1754065314765/5c8e45f0-6a43-4f1f-b254-2603b7d37e0c.png"
-        },
-        {
-          "id": "688d3feaca868b4a3cde38aa",
-          "author": "Vahe Aslanyan",
-          "description": "The pace of innovation in artificial intelligence, automation, and hyper-connected systems is accelerating, placing software engineers at the very center of a global transformation. They are the architects of our digital future, wielding the code tha...",
-          "link": "https://www.freecodecamp.org/news/the-case-for-end-to-end-engineering-education-preparing-institutions-for-a-dynamic-future/",
-          "publishedOn": "2025-08-01T22:30:02.000Z",
-          "wordCount": 6030,
-          "title": "The Case for End-to-End Engineering Education: Preparing Institutions for a Dynamic Future",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1754087387765/35f364bd-84f6-47e1-812b-b8b2508837c8.png"
-        },
-        {
-          "id": "688d3f7f05ad6aee69e144b7",
-          "author": "Tatev Aslanyan",
-          "description": "Artificial Intelligence (AI) is rapidly reshaping the financial sector. As models become more powerful and infrastructure more scalable, AI has evolved from an emerging technology into a fundamental force driving competitive advantage. From fraud pre...",
-          "link": "https://www.freecodecamp.org/news/ai-in-finance-handbook/",
-          "publishedOn": "2025-08-01T22:28:15.000Z",
-          "wordCount": 10278,
-          "title": "AI in Finance: Transforming Investments and Banking in the Digital Age",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1754087217705/8c775871-1502-40d9-b09e-fad02f0fca97.png"
-        },
-        {
-          "id": "688ce407aa180d32049574ec",
-          "author": "Atuoha Anthony",
-          "description": "Imagine you've just launched a major feature. Your app is climbing the charts, but then the first bug report arrives. It's a critical payment validation error. The fix is a single line of Dart code, but now you face the dreaded app store review queue...",
-          "link": "https://www.freecodecamp.org/news/how-to-push-silent-updates-in-flutter-using-shorebird/",
-          "publishedOn": "2025-08-01T15:57:59.000Z",
-          "wordCount": 3205,
-          "title": "How to Push Silent Updates in Flutter Using Shorebird",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1754063853545/725d429a-1bc1-40af-b089-3f742879a9bb.png"
-        },
-        {
-          "id": "688cc88b7b261cb96d0a1fe2",
-          "author": "Beau Carnes",
-          "description": "On this week's episode of the podcast, freeCodeCamp founder Quincy Larson interviews Dilip Krishnamoorthi. He's a software engineer working at Sony, building user interfaces for Playstation game consoles where he's been for 10 years.   We talk about:...",
-          "link": "https://www.freecodecamp.org/news/senior-playstation-engineers-tips-for-learning-new-tools-and-getting-things-done-podcast-184/",
-          "publishedOn": "2025-08-01T14:00:43.000Z",
-          "wordCount": 1069,
-          "title": "Senior Playstation Engineer's tips for learning new tools and getting things done [Podcast #184]",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1754012862188/53107c5c-efb6-478d-9d90-19fd42abd6a5.png"
         }
       ]
     }

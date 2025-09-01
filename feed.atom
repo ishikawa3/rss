@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-31T00:16:44.396Z</updated>
+    <updated>2025-09-01T00:17:59.113Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[A Breeze Of Inspiration In September (2025 Wallpapers Edition)]]></title>
+        <id>https://smashingmagazine.com/2025/08/desktop-wallpaper-calendars-september-2025/</id>
+        <link href="https://smashingmagazine.com/2025/08/desktop-wallpaper-calendars-september-2025/"/>
+        <updated>2025-08-31T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Could there be a better way to welcome the new month than with a new collection of desktop wallpapers? We’ve got some eye-catching designs to make your September just a bit more colorful. Enjoy!]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Debug Kubernetes Pods with Traceloop: A Complete Beginner's Guide]]></title>
         <id>68b1d0b4c2405fa2535ed0c8</id>
@@ -864,76 +874,6 @@ Bringing Back Parallax With Scroll-Driven CSS Animations originally published on
 Thinking Deeply About Theming and Color Naming originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Zell Liew</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Embedded Swift: A Modern Approach to Low-Level Programming]]></title>
-        <id>688d5fc7d30be1cecdacf767</id>
-        <link href="https://www.freecodecamp.org/news/embedded-swift-a-modern-approach-to-low-level-programming/"/>
-        <updated>2025-08-02T00:45:59.000Z</updated>
-        <summary type="html"><![CDATA[Embedded programming has long been dominated by C and C++, powering everything from microcontrollers to real-time systems. While these languages offer unmatched low-level control, they also introduce persistent challenges, manual memory management, u...]]></summary>
-        <author>
-            <name>Soham Banerjee</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Deploy a Next.js API to Production using Sevalla]]></title>
-        <id>688d4a71e3bdfbcce11ae186</id>
-        <link href="https://www.freecodecamp.org/news/how-to-deploy-a-nextjs-api-to-production-using-sevalla/"/>
-        <updated>2025-08-01T23:14:57.000Z</updated>
-        <summary type="html"><![CDATA[When people hear about Next.js, they often think of server-side rendering, React-powered frontends, or SEO-optimised static websites. But there's more to this powerful framework than just front-end development. Next.js also allows developers to build...]]></summary>
-        <author>
-            <name>Manish Shivanandhan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Infinite Loops Work in C++]]></title>
-        <id>688d43422c35fedc5be4fa94</id>
-        <link href="https://www.freecodecamp.org/news/how-infinite-loops-work-in-c/"/>
-        <updated>2025-08-01T22:44:18.000Z</updated>
-        <summary type="html"><![CDATA[In C++, a loop is a part of code that is executed repetitively until the given condition is satisfied. An infinite loop is a loop that runs indefinitely, without any condition to exit the loop. In this article, we will learn about infinite loops in C...]]></summary>
-        <author>
-            <name>AYUSH MISHRA</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Case for End-to-End Engineering Education: Preparing Institutions for a Dynamic Future]]></title>
-        <id>688d3feaca868b4a3cde38aa</id>
-        <link href="https://www.freecodecamp.org/news/the-case-for-end-to-end-engineering-education-preparing-institutions-for-a-dynamic-future/"/>
-        <updated>2025-08-01T22:30:02.000Z</updated>
-        <summary type="html"><![CDATA[The pace of innovation in artificial intelligence, automation, and hyper-connected systems is accelerating, placing software engineers at the very center of a global transformation. They are the architects of our digital future, wielding the code tha...]]></summary>
-        <author>
-            <name>Vahe Aslanyan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI in Finance: Transforming Investments and Banking in the Digital Age]]></title>
-        <id>688d3f7f05ad6aee69e144b7</id>
-        <link href="https://www.freecodecamp.org/news/ai-in-finance-handbook/"/>
-        <updated>2025-08-01T22:28:15.000Z</updated>
-        <summary type="html"><![CDATA[Artificial Intelligence (AI) is rapidly reshaping the financial sector. As models become more powerful and infrastructure more scalable, AI has evolved from an emerging technology into a fundamental force driving competitive advantage. From fraud pre...]]></summary>
-        <author>
-            <name>Tatev Aslanyan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Push Silent Updates in Flutter Using Shorebird]]></title>
-        <id>688ce407aa180d32049574ec</id>
-        <link href="https://www.freecodecamp.org/news/how-to-push-silent-updates-in-flutter-using-shorebird/"/>
-        <updated>2025-08-01T15:57:59.000Z</updated>
-        <summary type="html"><![CDATA[Imagine you've just launched a major feature. Your app is climbing the charts, but then the first bug report arrives. It's a critical payment validation error. The fix is a single line of Dart code, but now you face the dreaded app store review queue...]]></summary>
-        <author>
-            <name>Atuoha Anthony</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Senior Playstation Engineer's tips for learning new tools and getting things done [Podcast #184]]]></title>
-        <id>688cc88b7b261cb96d0a1fe2</id>
-        <link href="https://www.freecodecamp.org/news/senior-playstation-engineers-tips-for-learning-new-tools-and-getting-things-done-podcast-184/"/>
-        <updated>2025-08-01T14:00:43.000Z</updated>
-        <summary type="html"><![CDATA[On this week's episode of the podcast, freeCodeCamp founder Quincy Larson interviews Dilip Krishnamoorthi. He's a software engineer working at Sony, building user interfaces for Playstation game consoles where he's been for 10 years.   We talk about:...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
         </author>
     </entry>
 </feed>
