@@ -2,10 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-02T00:15:11.325Z</updated>
+    <updated>2025-09-03T00:13:39.845Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Save and Share Flutter Widgets as Images – A Complete Production-Ready Guide]]></title>
+        <id>68b75671263a4383838a1d8a</id>
+        <link href="https://www.freecodecamp.org/news/how-to-save-and-share-flutter-widgets-as-images-a-complete-production-ready-guide/"/>
+        <updated>2025-09-02T20:41:21.000Z</updated>
+        <summary type="html"><![CDATA[In many apps, you may want users to be able to save or share visual content generated in the UI. Flutter doesn’t ship with a “save widget to image” API, but with RepaintBoundary plus a few small packages, you can capture any widget, save it to the de...]]></summary>
+        <author>
+            <name>Atuoha Anthony</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Become an Expert in AI-Assisted Coding – A Handbook for Developers]]></title>
+        <id>68b754eb90a7b8458d3a959f</id>
+        <link href="https://www.freecodecamp.org/news/how-to-become-an-expert-in-ai-assisted-coding-a-handbook-for-developers/"/>
+        <updated>2025-09-02T20:34:51.000Z</updated>
+        <summary type="html"><![CDATA[Imagine writing code 3-4x faster while maintaining quality. That's what AI-assisted development can offer. In simple terms, you can be more productive with AI tools like GitHub Copilot as your coding partner. They suggest code, help you debug, and sp...]]></summary>
+        <author>
+            <name>Mrugesh Mohapatra</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Common Open Source Contribution Myths – Debunked]]></title>
+        <id>68b703ede63728a780d3fc1f</id>
+        <link href="https://www.freecodecamp.org/news/common-open-source-contribution-myths-debunked/"/>
+        <updated>2025-09-02T14:49:17.000Z</updated>
+        <summary type="html"><![CDATA[Many developers shy away from contributing to open source, as it can be intimidating and hard to get started. Even though your contributions might seem inconsequential at first, they can potentially have a huge impact on your career. In this article,...]]></summary>
+        <author>
+            <name>Orim Dominic Adah</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Should the CSS light-dark() Function Support More Than Light and Dark Values?]]></title>
+        <id>https://css-tricks.com/?p=388888</id>
+        <link href="https://css-tricks.com/should-the-css-light-dark-function-support-more-than-light-and-dark-values/"/>
+        <updated>2025-09-02T14:44:26.000Z</updated>
+        <summary type="html"><![CDATA[The light-dark() function is currently designed to support just two color schemes. Should it support others? Sunkanmi Fafowora says yes and no.
+Should the CSS light-dark() Function Support More Than Light and Dark Values? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Sunkanmi Fafowora</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Build AI Speech-to-Text and Text-to-Speech Accessibility Tools with Python]]></title>
         <id>68b5f910f596271023ce3698</id>

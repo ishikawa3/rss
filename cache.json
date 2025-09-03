@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=388888",
+          "author": "Sunkanmi Fafowora",
+          "description": "The light-dark() function is currently designed to support just two color schemes. Should it support others? Sunkanmi Fafowora says yes and no.\nShould the CSS light-dark() Function Support More Than Light and Dark Values? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/should-the-css-light-dark-function-support-more-than-light-and-dark-values/",
+          "publishedOn": "2025-09-02T14:44:26.000Z",
+          "wordCount": 2903,
+          "title": "Should the CSS light-dark() Function Support More Than Light and Dark Values?",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/08/light-dark.webp"
+        },
+        {
           "id": "https://css-tricks.com/?p=388637",
           "author": "Christian Sabourin",
           "description": "In this article, author Chris Sabourin walk through how modern CSS features can build a fully functional, interactive elevator that knows where it is, where it’s headed, and how long it’ll take to get there. No JavaScript required.\nCSS Elevator: A Pure CSS State Machine With Floor Navigation originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -390,6 +400,36 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "68b75671263a4383838a1d8a",
+          "author": "Atuoha Anthony",
+          "description": "In many apps, you may want users to be able to save or share visual content generated in the UI. Flutter doesn’t ship with a “save widget to image” API, but with RepaintBoundary plus a few small packages, you can capture any widget, save it to the de...",
+          "link": "https://www.freecodecamp.org/news/how-to-save-and-share-flutter-widgets-as-images-a-complete-production-ready-guide/",
+          "publishedOn": "2025-09-02T20:41:21.000Z",
+          "wordCount": 4636,
+          "title": "How to Save and Share Flutter Widgets as Images – A Complete Production-Ready Guide",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1756845409709/5224a6ae-93a9-4424-9a28-cccff69779f2.png"
+        },
+        {
+          "id": "68b754eb90a7b8458d3a959f",
+          "author": "Mrugesh Mohapatra",
+          "description": "Imagine writing code 3-4x faster while maintaining quality. That's what AI-assisted development can offer. In simple terms, you can be more productive with AI tools like GitHub Copilot as your coding partner. They suggest code, help you debug, and sp...",
+          "link": "https://www.freecodecamp.org/news/how-to-become-an-expert-in-ai-assisted-coding-a-handbook-for-developers/",
+          "publishedOn": "2025-09-02T20:34:51.000Z",
+          "wordCount": 10730,
+          "title": "How to Become an Expert in AI-Assisted Coding – A Handbook for Developers",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1756139431600/1d0cf8b5-ba1b-4c06-ab2d-45ad5e4b4d3b.png"
+        },
+        {
+          "id": "68b703ede63728a780d3fc1f",
+          "author": "Orim Dominic Adah",
+          "description": "Many developers shy away from contributing to open source, as it can be intimidating and hard to get started. Even though your contributions might seem inconsequential at first, they can potentially have a huge impact on your career. In this article,...",
+          "link": "https://www.freecodecamp.org/news/common-open-source-contribution-myths-debunked/",
+          "publishedOn": "2025-09-02T14:49:17.000Z",
+          "wordCount": 2653,
+          "title": "Common Open Source Contribution Myths – Debunked",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1756821843592/e345ed9b-4cae-4273-b677-05e7047be8b7.png"
+        },
         {
           "id": "68b5f910f596271023ce3698",
           "author": "OMOTAYO OMOYEMI",
