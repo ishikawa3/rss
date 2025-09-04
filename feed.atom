@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-03T00:13:39.845Z</updated>
+    <updated>2025-09-04T00:13:42.308Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Perform Sentence Similarity Check Using Sentence Transformers]]></title>
+        <id>68b86d04b7b16a9a0d9ce2d2</id>
+        <link href="https://www.freecodecamp.org/news/how-to-perform-sentence-similarity-check-using-sentence-transformers/"/>
+        <updated>2025-09-03T16:29:56.000Z</updated>
+        <summary type="html"><![CDATA[Sentence similarity plays an important role in many natural language processing (NLP) applications.  Whether you build chatbots, recommendation systems, or search engines, understanding how close two sentences are in meaning can improve user experien...]]></summary>
+        <author>
+            <name>Manish Shivanandhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How the Node.js Event Loop Works]]></title>
+        <id>68b86cca911797ceb3fd37e0</id>
+        <link href="https://www.freecodecamp.org/news/how-the-nodejs-event-loop-works/"/>
+        <updated>2025-09-03T16:28:58.000Z</updated>
+        <summary type="html"><![CDATA[The Node.js event loop is a concept that may seem difficult to understand at first. But as with any seemingly complex subject, the best way to understand it is often through an analogy. In this article, you’ll learn how overworked managers, busy wait...]]></summary>
+        <author>
+            <name>Amanda Ene Adoyi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Graph Algorithms in Python: BFS, DFS, and Beyond]]></title>
+        <id>68b86be0956e509211153b48</id>
+        <link href="https://www.freecodecamp.org/news/graph-algorithms-in-python-bfs-dfs-and-beyond/"/>
+        <updated>2025-09-03T16:25:04.000Z</updated>
+        <summary type="html"><![CDATA[Have you ever wondered how Google Maps finds the fastest route or how Netflix recommends what to watch? Graph algorithms are behind these decisions. Graphs, made up of nodes (points) and edges (connections), are one of the most powerful data structur...]]></summary>
+        <author>
+            <name>Oyedele Tioluwani</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build an AI Coding Agent in Python]]></title>
+        <id>68b849526e3b7913adba6793</id>
+        <link href="https://www.freecodecamp.org/news/build-an-ai-coding-agent-in-python/"/>
+        <updated>2025-09-03T13:57:38.000Z</updated>
+        <summary type="html"><![CDATA[This isn’t just your average AI agent tutorial. We just posted a course on the freeCodeCamp.org YouTube channel that is all about action! Lane Wagner of boot.dev will teach you to build your very own AI coding agent from scratch. Using Python and the...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn Mandarin Chinese for Beginners – Full HSK 1 Level]]></title>
+        <id>68b847e923e7c29bdb07709b</id>
+        <link href="https://www.freecodecamp.org/news/learn-mandarin-chinese-for-beginners-full-hsk-1-level/"/>
+        <updated>2025-09-03T13:51:37.000Z</updated>
+        <summary type="html"><![CDATA[We just published a full beginner's course on the freeCodeCamp.org YouTube channel that will teach you the fundamentals of Mandarin Chinese. This course is designed to guide you to the HSK 1 level. The Hanyu Shuiping Kaoshi (HSK) is China's official ...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Save and Share Flutter Widgets as Images – A Complete Production-Ready Guide]]></title>
         <id>68b75671263a4383838a1d8a</id>
@@ -914,27 +964,6 @@ Bringing Back Parallax With Scroll-Driven CSS Animations originally published on
         <summary type="html"><![CDATA[Talking points. Smart questions. A compelling story. This guide helps you prepare for your UX job interview. And remember: no act of kindness, however small, is ever wasted.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn React and Tailwind CSS for Front End Development]]></title>
-        <id>6890c118c9e79fc2ff1ce88f</id>
-        <link href="https://www.freecodecamp.org/news/learn-react-and-tailwind-css-for-front-end-development/"/>
-        <updated>2025-08-04T14:18:00.000Z</updated>
-        <summary type="html"><![CDATA[React and Tailwind CSS are popular tools for frontend web development. If you want to become a frontend developer, learning them are a great place to start. We just published a course on the freeCodeCamp.org YouTube channel that will teach you React ...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thinking Deeply About Theming and Color Naming]]></title>
-        <id>https://css-tricks.com/?p=387880</id>
-        <link href="https://css-tricks.com/thinking-deeply-about-theming-and-color-naming/"/>
-        <updated>2025-08-04T13:14:45.000Z</updated>
-        <summary type="html"><![CDATA[Today, I want to discuss a couple of patterns for naming color palettes that the community is using, and how I propose we can improve, so we achieve both flexibility and beauty.
-Thinking Deeply About Theming and Color Naming originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Zell Liew</name>
         </author>
     </entry>
 </feed>

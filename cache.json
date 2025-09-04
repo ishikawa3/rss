@@ -180,16 +180,6 @@
           "wordCount": 3180,
           "title": "Bringing Back Parallax With Scroll-Driven CSS Animations",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2021/01/smooth-scroll.jpg"
-        },
-        {
-          "id": "https://css-tricks.com/?p=387880",
-          "author": "Zell Liew",
-          "description": "Today, I want to discuss a couple of patterns for naming color palettes that the community is using, and how I propose we can improve, so we achieve both flexibility and beauty.\nThinking Deeply About Theming and Color Naming originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/thinking-deeply-about-theming-and-color-naming/",
-          "publishedOn": "2025-08-04T13:14:45.000Z",
-          "wordCount": 4672,
-          "title": "Thinking Deeply About Theming and Color Naming",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2018/07/abstract-color.jpg"
         }
       ]
     },
@@ -400,6 +390,56 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "68b86d04b7b16a9a0d9ce2d2",
+          "author": "Manish Shivanandhan",
+          "description": "Sentence similarity plays an important role in many natural language processing (NLP) applications.  Whether you build chatbots, recommendation systems, or search engines, understanding how close two sentences are in meaning can improve user experien...",
+          "link": "https://www.freecodecamp.org/news/how-to-perform-sentence-similarity-check-using-sentence-transformers/",
+          "publishedOn": "2025-09-03T16:29:56.000Z",
+          "wordCount": 1985,
+          "title": "How to Perform Sentence Similarity Check Using Sentence Transformers",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1756916978057/de0bda62-c9ea-48d1-b1ac-b78eb10e82d2.png"
+        },
+        {
+          "id": "68b86cca911797ceb3fd37e0",
+          "author": "Amanda Ene Adoyi",
+          "description": "The Node.js event loop is a concept that may seem difficult to understand at first. But as with any seemingly complex subject, the best way to understand it is often through an analogy. In this article, you’ll learn how overworked managers, busy wait...",
+          "link": "https://www.freecodecamp.org/news/how-the-nodejs-event-loop-works/",
+          "publishedOn": "2025-09-03T16:28:58.000Z",
+          "wordCount": 3099,
+          "title": "How the Node.js Event Loop Works",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1756916907320/01074df6-0f8e-4a63-9a3e-07c8297fc22b.png"
+        },
+        {
+          "id": "68b86be0956e509211153b48",
+          "author": "Oyedele Tioluwani",
+          "description": "Have you ever wondered how Google Maps finds the fastest route or how Netflix recommends what to watch? Graph algorithms are behind these decisions. Graphs, made up of nodes (points) and edges (connections), are one of the most powerful data structur...",
+          "link": "https://www.freecodecamp.org/news/graph-algorithms-in-python-bfs-dfs-and-beyond/",
+          "publishedOn": "2025-09-03T16:25:04.000Z",
+          "wordCount": 3415,
+          "title": "Graph Algorithms in Python: BFS, DFS, and Beyond",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1756916679855/9b173128-ed79-4ae0-8cc8-79fca17662dd.png"
+        },
+        {
+          "id": "68b849526e3b7913adba6793",
+          "author": "Beau Carnes",
+          "description": "This isn’t just your average AI agent tutorial. We just posted a course on the freeCodeCamp.org YouTube channel that is all about action! Lane Wagner of boot.dev will teach you to build your very own AI coding agent from scratch. Using Python and the...",
+          "link": "https://www.freecodecamp.org/news/build-an-ai-coding-agent-in-python/",
+          "publishedOn": "2025-09-03T13:57:38.000Z",
+          "wordCount": 1021,
+          "title": "Build an AI Coding Agent in Python",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1756907810696/792bacff-78f6-4142-924b-03d48f3cf474.png"
+        },
+        {
+          "id": "68b847e923e7c29bdb07709b",
+          "author": "Beau Carnes",
+          "description": "We just published a full beginner's course on the freeCodeCamp.org YouTube channel that will teach you the fundamentals of Mandarin Chinese. This course is designed to guide you to the HSK 1 level. The Hanyu Shuiping Kaoshi (HSK) is China's official ...",
+          "link": "https://www.freecodecamp.org/news/learn-mandarin-chinese-for-beginners-full-hsk-1-level/",
+          "publishedOn": "2025-09-03T13:51:37.000Z",
+          "wordCount": 1111,
+          "title": "Learn Mandarin Chinese for Beginners – Full HSK 1 Level",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1756907480193/28ec7999-e67b-426e-b2b2-4fb2abc1a8ba.png"
+        },
         {
           "id": "68b75671263a4383838a1d8a",
           "author": "Atuoha Anthony",
@@ -999,16 +1039,6 @@
           "wordCount": 1879,
           "title": "How to Improve Web Accessibility with Landmarks - Explained with Examples",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1754425989581/1302898e-439b-4666-af27-cf1b091c6975.png"
-        },
-        {
-          "id": "6890c118c9e79fc2ff1ce88f",
-          "author": "Beau Carnes",
-          "description": "React and Tailwind CSS are popular tools for frontend web development. If you want to become a frontend developer, learning them are a great place to start. We just published a course on the freeCodeCamp.org YouTube channel that will teach you React ...",
-          "link": "https://www.freecodecamp.org/news/learn-react-and-tailwind-css-for-front-end-development/",
-          "publishedOn": "2025-08-04T14:18:00.000Z",
-          "wordCount": 1095,
-          "title": "Learn React and Tailwind CSS for Front End Development",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1754316874796/7a378441-7dbd-4a78-9d09-210ec7d9d2f1.png"
         }
       ]
     }
