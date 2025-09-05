@@ -189,6 +189,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2025/09/designing-tv-principles-patterns-practical-guidance/",
+          "author": "hello@smashingmagazine.com (Milan Balać)",
+          "description": "After covering in detail the underlying interaction paradigms of TV experiences in [Part 1](https://www.smashingmagazine.com/2025/08/designing-tv-evergreen-pattern-shapes-tv-experiences/), it’s time to get practical. In the second part of the series, you’ll explore the building blocks of the “10-foot experience” and how to best utilise them in your designs.",
+          "link": "https://smashingmagazine.com/2025/09/designing-tv-principles-patterns-practical-guidance/",
+          "publishedOn": "2025-09-04T10:00:00.000Z",
+          "wordCount": 7292,
+          "title": "Designing For TV: Principles, Patterns And Practical Guidance (Part 2)",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/designing-tv-principles-patterns-practical-guidance/designing-tv-principles-patterns-practical-guidance.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/designing-tv-principles-patterns-practical-guidance/designing-tv-principles-patterns-practical-guidance.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2025/08/desktop-wallpaper-calendars-september-2025/",
           "author": "hello@smashingmagazine.com (Cosima Mielke)",
           "description": "Could there be a better way to welcome the new month than with a new collection of desktop wallpapers? We’ve got some eye-catching designs to make your September just a bit more colorful. Enjoy!",
@@ -352,36 +367,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/power-intl-api-guide-browser-native-internationalization/power-intl-api-guide-browser-native-internationalization.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2025/08/automating-design-systems-tips-resources/",
-          "author": "hello@smashingmagazine.com (Joas Pambou)",
-          "description": "Design systems are more than style guides: they’re made up of workflows, tokens, components, and documentation — all the stuff teams rely on to build consistent products. As projects grow, keeping everything in sync gets tricky fast. In this article, we’ll look at how smart tooling, combined with automation where it makes sense, can speed things up, reduce errors, and help your team focus on design over maintenance.",
-          "link": "https://smashingmagazine.com/2025/08/automating-design-systems-tips-resources/",
-          "publishedOn": "2025-08-06T10:00:00.000Z",
-          "wordCount": 5593,
-          "title": "Automating Design Systems: Tips And Resources For Getting Started",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/automating-design-systems-tips-resources/automating-design-systems-tips-resources.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/automating-design-systems-tips-resources/automating-design-systems-tips-resources.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2025/08/ux-job-interview-helpers/",
-          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
-          "description": "Talking points. Smart questions. A compelling story. This guide helps you prepare for your UX job interview. And remember: no act of kindness, however small, is ever wasted.",
-          "link": "https://smashingmagazine.com/2025/08/ux-job-interview-helpers/",
-          "publishedOn": "2025-08-05T13:00:00.000Z",
-          "wordCount": 3853,
-          "title": "UX Job Interview Helpers",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/ux-job-interview-helpers/ux-job-interview-helpers.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/ux-job-interview-helpers/ux-job-interview-helpers.jpg"
         }
       ]
     },
@@ -390,6 +375,36 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "68b99deeba241d08aec7ff6f",
+          "author": "Beau Carnes",
+          "description": "Fine-tuning helps you become a master and professional in AI engineering. We just posted a course on the freeCodeCamp.org YouTube channel that offers a comprehensive guide to fine-tuning LLMs, taking you from the basics to advanced practical applicat...",
+          "link": "https://www.freecodecamp.org/news/how-to-fine-tune-large-language-models/",
+          "publishedOn": "2025-09-04T14:10:54.000Z",
+          "wordCount": 1089,
+          "title": "How to Fine-Tune Large Language Models",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1756995027155/0fb66277-b8cb-40f2-a398-456f7e1031ee.png"
+        },
+        {
+          "id": "68b8e1073c8fb81fc2265eef",
+          "author": "Manish Shivanandhan",
+          "description": "Artificial intelligence is changing how we work with images. What once took hours in Photoshop can now happen in seconds with AI-powered tools. You can take a blurry picture, enlarge it without losing sharpness, fix the lighting, remove unwanted nois...",
+          "link": "https://www.freecodecamp.org/news/how-to-enhance-images-with-neural-networks/",
+          "publishedOn": "2025-09-04T00:44:55.000Z",
+          "wordCount": 2243,
+          "title": "How to Enhance Images with Neural Networks",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1756858495684/2742e9b0-87f8-47bf-a01d-2e979e4dfb35.png"
+        },
+        {
+          "id": "68b8dda2076b23349200d66a",
+          "author": "Atuoha Anthony",
+          "description": "Navigating between screens in Flutter is crucial for any app. And while the built-in Navigator API provides functionality, it can get complex for larger projects. This is where go_router shines, offering a more declarative, URL-based, and feature-ric...",
+          "link": "https://www.freecodecamp.org/news/how-to-get-started-with-gorouter-in-flutter/",
+          "publishedOn": "2025-09-04T00:30:26.000Z",
+          "wordCount": 5985,
+          "title": "How to Get Started With GoRouter in Flutter",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1756945807034/30528205-5ed9-4517-add6-5a3f32e6ac96.png"
+        },
         {
           "id": "68b86d04b7b16a9a0d9ce2d2",
           "author": "Manish Shivanandhan",
@@ -439,6 +454,16 @@
           "wordCount": 1111,
           "title": "Learn Mandarin Chinese for Beginners – Full HSK 1 Level",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1756907480193/28ec7999-e67b-426e-b2b2-4fb2abc1a8ba.png"
+        },
+        {
+          "id": "68b78f7fba46c4e7c6266797",
+          "author": "Nikheel Vishwas Savant",
+          "description": "You may have had this happen before: your wireless earbuds connect perfectly one day, and the next they act like they’ve never met your phone. Or your smartwatch drops off in the middle of a run. Bluetooth is amazing when it works, but maddening when...",
+          "link": "https://www.freecodecamp.org/news/how-to-make-bluetooth-on-android-more-reliable/",
+          "publishedOn": "2025-09-03T07:00:00.000Z",
+          "wordCount": 2361,
+          "title": "How to Make Bluetooth on Android More Reliable",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1756860272946/83be340a-dcce-4d2f-a6eb-0d70164b11b6.png"
         },
         {
           "id": "68b75671263a4383838a1d8a",
@@ -1029,16 +1054,6 @@
           "wordCount": 7621,
           "title": "The Next.js 15 Streaming Handbook — SSR, React Suspense, and Loading Skeleton",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1754503023167/aff9af73-7733-4525-8bf4-0ded59eceefa.png"
-        },
-        {
-          "id": "68926eb93b7f491bf54aef85",
-          "author": "Ilknur Eren",
-          "description": "If you’re reading this article on the freeCodeCamp publication, you should see some visual clues in different sections of the page. The header is at the top of the page. If you scroll all the way to the bottom of the page, you can see the footer sect...",
-          "link": "https://www.freecodecamp.org/news/improve-web-accessibility-with-landmarks/",
-          "publishedOn": "2025-08-05T20:51:05.000Z",
-          "wordCount": 1879,
-          "title": "How to Improve Web Accessibility with Landmarks - Explained with Examples",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1754425989581/1302898e-439b-4666-af27-cf1b091c6975.png"
         }
       ]
     }
