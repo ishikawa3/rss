@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=388479",
+          "author": "Sunkanmi Fafowora",
+          "description": "Color what? Sunkanmi Fafowora explains how an everyday task for CSS can be used to create better colors experiences.  \nWhat You Need to Know About CSS Color Interpolation originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/what-you-need-to-know-about-css-color-interpolation/",
+          "publishedOn": "2025-09-05T13:44:06.000Z",
+          "wordCount": 3045,
+          "title": "What You Need to Know About CSS Color Interpolation",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2022/10/cloud-four-gradient.png"
+        },
+        {
           "id": "https://css-tricks.com/?p=388888",
           "author": "Sunkanmi Fafowora",
           "description": "The light-dark() function is currently designed to support just two color schemes. Should it support others? Sunkanmi Fafowora says yes and no.\nShould the CSS light-dark() Function Support More Than Light and Dark Values? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -170,16 +180,6 @@
           "wordCount": 4897,
           "title": "How to Prepare for CSS-Specific Interview Questions",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/12/developer-sitting-blue-beanie.png"
-        },
-        {
-          "id": "https://css-tricks.com/?p=387868",
-          "author": "Blake Lundquist",
-          "description": "Parallax is a pattern in which different elements of a webpage move at varying speeds as the user scrolls, creating a three-dimensional, layered appearance. It once required JavaScript. Now we have scroll-driven animations in CSS, which is free from the main-thread blocking that can plague JavaScript animations.\nBringing Back Parallax With Scroll-Driven CSS Animations originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/bringing-back-parallax-with-scroll-driven-css-animations/",
-          "publishedOn": "2025-08-06T13:39:06.000Z",
-          "wordCount": 3180,
-          "title": "Bringing Back Parallax With Scroll-Driven CSS Animations",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2021/01/smooth-scroll.jpg"
         }
       ]
     },
@@ -375,6 +375,56 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "68bb12907f6ca0ada2df447f",
+          "author": "Gabor Koos",
+          "description": "Golang has a reputation for simplicity, and one reason is its small set of core data structures. Unlike some languages that offer lists, vectors, dictionaries, hashmaps, tuples, sets, and more, Go keeps things minimal. The three fundamental building ...",
+          "link": "https://www.freecodecamp.org/news/arrays-slices-and-maps-in-go-a-quick-guide-to-collection-types/",
+          "publishedOn": "2025-09-05T16:40:48.000Z",
+          "wordCount": 4994,
+          "title": "Arrays, Slices, and Maps in Go: a Quick Guide to Collection Types",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1757090426408/327ded41-5020-4f83-afa2-334f15569998.png"
+        },
+        {
+          "id": "68bb0031e67497d3bf64ec82",
+          "author": "Atuoha Anthony",
+          "description": "Uploading files is one of the most common requirements in modern web applications. Whether it’s profile pictures, documents, or bulk uploads, users expect a smooth and reliable experience. With Flutter Web and Firebase Storage, you can implement this...",
+          "link": "https://www.freecodecamp.org/news/how-to-build-an-upload-service-in-flutter-web-with-firebase/",
+          "publishedOn": "2025-09-05T15:22:25.000Z",
+          "wordCount": 3398,
+          "title": "How to Build an Upload Service in Flutter Web with Firebase",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1757085725508/3ff2d66d-5b3b-4784-904b-de7b464de41b.png"
+        },
+        {
+          "id": "68baff7226d95038487cbb1f",
+          "author": "Tarun Singh",
+          "description": "The world is shifting from simple AI chatbots answering our queries to full-fledged systems that are capable of so much more. AI Agents can not only answer our queries but can also perform tasks we give them independently, making them much more power...",
+          "link": "https://www.freecodecamp.org/news/how-to-build-an-ai-study-planner-agent-using-gemini-in-python/",
+          "publishedOn": "2025-09-05T15:19:14.000Z",
+          "wordCount": 3567,
+          "title": "How to Build an AI Study Planner Agent using Gemini in Python",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1757085526077/66391609-bf27-4206-aa29-382508d15ee8.png"
+        },
+        {
+          "id": "68bafb5703bcabb153325d47",
+          "author": "Tom Mondloch",
+          "description": "The freeCodeCamp community is excited to announce that our new Daily Coding Challenges are ready for you to tackle. 🎊 Consistent practice is one of the most effective ways to improve your coding skills. So in addition to the core coding curriculum, ...",
+          "link": "https://www.freecodecamp.org/news/introducing-freecodecamp-daily-python-and-javascript-challenges-solve-a-new-programming-puzzle-every-day/",
+          "publishedOn": "2025-09-05T15:01:43.000Z",
+          "wordCount": 1141,
+          "title": "Introducing freeCodeCamp Daily Python and JavaScript Challenges – Solve a New Programming Puzzle Every Day",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1757012321426/66cb1d9b-b2e1-4911-bea5-ca1f1308ca35.png"
+        },
+        {
+          "id": "68bafafeb9e1fc8577966b86",
+          "author": "Beau Carnes",
+          "description": "For this week's interview, Quincy is talking with Ania Kubów. She's a software engineer and prolific programming teacher on YouTube. She shares tips for: Getting into game development and using JavaScript and browser games as an entry point How to ...",
+          "link": "https://www.freecodecamp.org/news/how-to-focus-on-building-your-skills-when-everythings-so-distracting-with-ania-kubow-podcast-187/",
+          "publishedOn": "2025-09-05T15:00:14.000Z",
+          "wordCount": 1408,
+          "title": "How to focus on building your skills when everything's so distracting with Ania Kubów [Podcast #187]",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1757029732024/f7c52449-77f9-4fa4-bbd5-34c3773658dd.png"
+        },
         {
           "id": "68b99deeba241d08aec7ff6f",
           "author": "Beau Carnes",
@@ -1014,46 +1064,6 @@
           "wordCount": 4795,
           "title": "Key Metrics That Can Make or Break Your Startup",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1754590848364/2e68c07e-d5d8-4da7-bc41-3798c991bfbc.png"
-        },
-        {
-          "id": "6893e671640b08f689368ee6",
-          "author": "brooklyn",
-          "description": "Windows Subsystem for Linux (WSL) lets you run a Linux environment directly on Windows. This is particularly useful for web development where you can develop and test applications in a Linux environment without leaving Windows. You can even run freeC...",
-          "link": "https://www.freecodecamp.org/news/how-to-free-up-and-automatically-manage-disk-space-for-wsl-on-windows-1011/",
-          "publishedOn": "2025-08-06T23:34:09.000Z",
-          "wordCount": 3708,
-          "title": "How to Free Up and Automatically Manage Disk Space for WSL on Windows 10/11",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1754523230294/70893973-fddf-42a9-b41a-2a8f94a47e22.png"
-        },
-        {
-          "id": "6893b598ffc433dd809aa59d",
-          "author": "Manish Shivanandhan",
-          "description": "If you're just starting your coding journey or trying to pick your next language, two names you’ll often hear — among others — are JavaScript and C#. Both are powerful, widely used, and respected in the software world. But they serve different purpos...",
-          "link": "https://www.freecodecamp.org/news/choose-the-right-language-js-vs-c-sharp/",
-          "publishedOn": "2025-08-06T20:05:44.000Z",
-          "wordCount": 2682,
-          "title": "JavaScript vs C#: How to Choose the Right Language as a Beginner",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1754510673710/75f0501b-9d42-43ee-bc90-cc028afdeb3a.png"
-        },
-        {
-          "id": "6893afcc4ff769448b46934a",
-          "author": "Tope Fasasi",
-          "description": "Your biggest security problem might be inside your own network. Hackers don't break in anymore - they just log in with stolen passwords. Old security systems trusted anyone who got inside the network. But now there's no clear \"inside\" or \"outside.\" P...",
-          "link": "https://www.freecodecamp.org/news/how-to-implement-zero-trust-authentication-in-your-web-apps/",
-          "publishedOn": "2025-08-06T19:41:00.000Z",
-          "wordCount": 6817,
-          "title": "How to Implement Zero-Trust Authentication in Your Web Apps",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1754503273007/1b04e262-05de-4fac-be47-56c01eb44446.png"
-        },
-        {
-          "id": "6893979288fd0a3a5d2544ce",
-          "author": "Sumit Saha",
-          "description": "Next.js is currently one of the most popular and intelligent Web Frameworks out there. But many developers using Next.js often can’t fully utilise its superpowers simply because some of its advanced concepts are hard to understand. In this in-depth t...",
-          "link": "https://www.freecodecamp.org/news/the-nextjs-15-streaming-handbook/",
-          "publishedOn": "2025-08-06T17:57:38.000Z",
-          "wordCount": 7621,
-          "title": "The Next.js 15 Streaming Handbook — SSR, React Suspense, and Loading Skeleton",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1754503023167/aff9af73-7733-4525-8bf4-0ded59eceefa.png"
         }
       ]
     }
