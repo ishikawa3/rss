@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-06T00:13:55.974Z</updated>
+    <updated>2025-09-07T00:15:38.209Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[What is New in Go 1.25? Explained with Examples]]></title>
+        <id>68bb7a5a881edef26f226cde</id>
+        <link href="https://www.freecodecamp.org/news/what-is-new-in-go/"/>
+        <updated>2025-09-06T00:03:38.000Z</updated>
+        <summary type="html"><![CDATA[Go 1.25 isn’t a flashy release with big syntax changes. Instead, it’s a practical one: it fixes long-standing pitfalls, improves runtime safety, adds smarter tooling, and introduces a powerful new JSON engine. These are the kind of updates that make ...]]></summary>
+        <author>
+            <name>Pedro</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Arrays, Slices, and Maps in Go: a Quick Guide to Collection Types]]></title>
         <id>68bb12907f6ca0ada2df447f</id>
@@ -944,56 +954,6 @@ How to Prepare for CSS-Specific Interview Questions originally published on CSS-
         <summary type="html"><![CDATA[On this week's episode of the podcast, freeCodeCamp founder Quincy Larson interviews Edidiong Asikpo. Didi is a software engineer. She grew up in Lagos, the biggest city in Nigeria and the biggest tech hub in Africa.   Didi got into medical school. B...]]></summary>
         <author>
             <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Power Of The <code>Intl</code> API: A Definitive Guide To Browser-Native Internationalization]]></title>
-        <id>https://smashingmagazine.com/2025/08/power-intl-api-guide-browser-native-internationalization/</id>
-        <link href="https://smashingmagazine.com/2025/08/power-intl-api-guide-browser-native-internationalization/"/>
-        <updated>2025-08-08T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Internationalization isn’t just translation. It’s about formatting dates, pluralizing words, sorting names, and more, all according to specific locales. Instead of relying on heavy third-party libraries, modern JavaScript offers the Intl API — a powerful, native way to handle i18n. A quiet reminder that the web truly is worldwide.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Fuqiao Xue)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn Time Series Forecasting in Python]]></title>
-        <id>68953afb9df306687b2a8407</id>
-        <link href="https://www.freecodecamp.org/news/learn-time-series-forecasting-in-python/"/>
-        <updated>2025-08-07T23:47:07.000Z</updated>
-        <summary type="html"><![CDATA[Learning about time series forecasting in Python is important because it can help predict future trends. We just posted a course on the freeCodeCamp.org YouTube channel that is an introduction to time series forecasting with Python. You’ll learn what...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pass the Google Cloud Associate Cloud Engineer Exam]]></title>
-        <id>6895396a3d0ef84f1dac9702</id>
-        <link href="https://www.freecodecamp.org/news/pass-the-google-cloud-associate-cloud-engineer-exam/"/>
-        <updated>2025-08-07T23:40:26.000Z</updated>
-        <summary type="html"><![CDATA[Prepare for the Google Cloud Associate Cloud Engineer (ACE) exam and pass! We just published an updated Google Cloud Associate Cloud Engineer course on the freeCodeCamp.org YouTube channel. Andrew Brown from ExamPro developed this course. Associate C...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Replicate Figma Designs in Flutter — A Guide to Pixel-Perfect UI Replication]]></title>
-        <id>689533cf9f55ae375dcd160b</id>
-        <link href="https://www.freecodecamp.org/news/how-to-replicate-figma-designs-in-flutter/"/>
-        <updated>2025-08-07T23:16:31.000Z</updated>
-        <summary type="html"><![CDATA[Successfully translating a Figma design into a Flutter application requires more than just placing elements on the screen. The objective is to achieve pixel-perfect fidelity, meaning that the Flutter app must precisely mirror the designer's original ...]]></summary>
-        <author>
-            <name>Atuoha Anthony</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Key Metrics That Can Make or Break Your Startup]]></title>
-        <id>6894eea1ba8a1138e41767a1</id>
-        <link href="https://www.freecodecamp.org/news/key-metrics-that-can-make-or-break-your-startup/"/>
-        <updated>2025-08-07T18:21:21.000Z</updated>
-        <summary type="html"><![CDATA[If you’ve built something worth pitching – something more than a fancy hobby with a login screen – you need to know your numbers. Not "I’ll get back to you" know them, know them like you know your co-founder's coffee order. I have seen too many found...]]></summary>
-        <author>
-            <name>Aditya Vikram Kashyap</name>
         </author>
     </entry>
 </feed>
