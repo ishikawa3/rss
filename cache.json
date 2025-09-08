@@ -170,16 +170,6 @@
           "wordCount": 1868,
           "title": "Stuff & Nonsense Practical Layout Workshop",
           "imageUrl": "https://css-tricks.com/wp-content/uploads/2025/08/andy-clarke-ti-114.png.avif"
-        },
-        {
-          "id": "https://css-tricks.com/?p=388380",
-          "author": "Shivam Bhalla",
-          "description": "Get advice answering a set of 10 CSS-related questions you likely will encounter in front-end interviews.\nHow to Prepare for CSS-Specific Interview Questions originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/how-to-prepare-for-css-specific-interview-questions/",
-          "publishedOn": "2025-08-08T13:42:31.000Z",
-          "wordCount": 4897,
-          "title": "How to Prepare for CSS-Specific Interview Questions",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/12/developer-sitting-blue-beanie.png"
         }
       ]
     },
@@ -999,26 +989,6 @@
           "wordCount": 5949,
           "title": "How to Choose the Best Programming Languages, Libraries, and Patterns",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1754846007203/c9db729e-ebed-4726-8e3e-5414c8e2714d.png"
-        },
-        {
-          "id": "68963890790ac4491c15b00a",
-          "author": "Idris Olubisi",
-          "description": "Getting the \"spawn python ENOENT\" error while setting up an MCP (Model Context Protocol) server on macOS can be frustrating. But don't worry – in this tutorial, I'll guide you through fixing it by rebuilding your Python virtual environment. By the en...",
-          "link": "https://www.freecodecamp.org/news/how-to-fix-the-python-enoent-error-when-setting-up-mcp-servers-a-complete-guide/",
-          "publishedOn": "2025-08-08T17:49:04.000Z",
-          "wordCount": 2698,
-          "title": "How to Fix the Python ENOENT Error When Setting Up MCP Servers – A Complete Guide",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1754675334533/6a05e45a-9703-49c0-b427-6c4960c01d86.png"
-        },
-        {
-          "id": "6895fc0b833ca0eb7539dcf4",
-          "author": "Beau Carnes",
-          "description": "On this week's episode of the podcast, freeCodeCamp founder Quincy Larson interviews Edidiong Asikpo. Didi is a software engineer. She grew up in Lagos, the biggest city in Nigeria and the biggest tech hub in Africa.   Didi got into medical school. B...",
-          "link": "https://www.freecodecamp.org/news/abandoning-med-school-to-become-a-software-engineer-with-edidiong-asikpo-podcast-182/",
-          "publishedOn": "2025-08-08T13:30:51.000Z",
-          "wordCount": 1103,
-          "title": "Abandoning med school to become a software engineer with Edidiong Asikpo [Podcast #182]",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1754615525437/fb546ee8-d9fd-4ec7-895b-def935be4649.png"
         }
       ]
     }
