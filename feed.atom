@@ -2,10 +2,71 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-08T00:15:40.769Z</updated>
+    <updated>2025-09-09T00:14:49.571Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Build Production-Ready Web Apps with the Hono Framework: A Deep Dive]]></title>
+        <id>68bf3ea02c935a9d306bb65a</id>
+        <link href="https://www.freecodecamp.org/news/build-production-ready-web-apps-with-hono/"/>
+        <updated>2025-09-08T20:37:52.000Z</updated>
+        <summary type="html"><![CDATA[As a dev, you’d probably like to write your application once and not have to worry so much about where it's going to run. This is what the open source framework Hono lets you do, and it’s a game-changer. Hono is a small, incredibly fast web framework...]]></summary>
+        <author>
+            <name>Mayur Vekariya</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Smart Expense Tracker with Python and LLMs]]></title>
+        <id>68bef0e832085a1cd1a86107</id>
+        <link href="https://www.freecodecamp.org/news/build-smart-expense-tracker-with-python-and-llms/"/>
+        <updated>2025-09-08T15:06:16.000Z</updated>
+        <summary type="html"><![CDATA[Imagine that you’re sipping a hot latte from Starbucks on your way to work. You quickly swipe your card, and the receipt gets lost in your bag. Later in the day, you pay for an Uber ride, order lunch, and buy airtime. By evening, you know you’ve spen...]]></summary>
+        <author>
+            <name>Happiness Omale</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Submit an App to the iOS App Store]]></title>
+        <id>68beece9aaba834ff6c89ad9</id>
+        <link href="https://www.freecodecamp.org/news/how-to-submit-an-app-to-the-ios-app-store/"/>
+        <updated>2025-09-08T14:49:13.000Z</updated>
+        <summary type="html"><![CDATA[The iOS App Store submission process can feel like a daunting maze, but it doesn’t have to be. We just posted a course on the freeCodeCamp.org YouTube channel is designed to be your guide through this entire process, from start to finish. Shad Rayhan...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use Postman Scripts to Simplify Your API Authentication Process]]></title>
+        <id>68bee731d2147595571c5b44</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-postman-scripts/"/>
+        <updated>2025-09-08T14:24:49.000Z</updated>
+        <summary type="html"><![CDATA[Postman is a platform used by developers, API testers, technical writers and DevOps teams for testing, documenting and collaborating on API development. It provides a user-friendly interface for making different types of API requests (HTTP, GraphQL, ...]]></summary>
+        <author>
+            <name>Orim Dominic Adah</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Get Started With Navigation in Flutter Using AutoRoute]]></title>
+        <id>68bee239d2147595571c5b1a</id>
+        <link href="https://www.freecodecamp.org/news/how-to-get-started-with-navigation-in-flutter-using-autoroute/"/>
+        <updated>2025-09-08T14:03:37.000Z</updated>
+        <summary type="html"><![CDATA[Navigation is one of the most important parts of any mobile application. Users expect to move seamlessly between screens such as home, settings, profile, and more. While Flutter provides built-in navigation using Navigator, managing routes can quickl...]]></summary>
+        <author>
+            <name>Atuoha Anthony</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Composition in CSS]]></title>
+        <id>https://css-tricks.com/?p=388424</id>
+        <link href="https://css-tricks.com/composition-in-css/"/>
+        <updated>2025-09-08T13:55:26.000Z</updated>
+        <summary type="html"><![CDATA[CSS is a composable language by nature. This composition nature is already built into the cascade. We simply don't talk about composition as a Big Thing because it's the nature of the language.
+Composition in CSS originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Zell Liew</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What is New in Go 1.25? Explained with Examples]]></title>
         <id>68bb7a5a881edef26f226cde</id>
