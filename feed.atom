@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-09T00:14:49.571Z</updated>
+    <updated>2025-09-10T00:14:13.342Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Store Data Locally Using Hive in Flutter]]></title>
+        <id>68c03b5738ba5d78dfb7c607</id>
+        <link href="https://www.freecodecamp.org/news/how-to-store-data-locally-using-hive-in-flutter/"/>
+        <updated>2025-09-09T14:36:07.000Z</updated>
+        <summary type="html"><![CDATA[In this tutorial, we’ll build a Flutter application that demonstrates how to perform CRUD (Create, Read, Update, Delete) operations using Hive for local data storage. Hive is a lightweight, fast key-value database written in pure Dart. Unlike SQLite,...]]></summary>
+        <author>
+            <name>Atuoha Anthony</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Automate API Documentation Updates with GitHub Actions and OpenAPI Specifications]]></title>
+        <id>68c0398aeff4d53c8494c5ab</id>
+        <link href="https://www.freecodecamp.org/news/how-to-automate-api-documentation-updates-with-github-actions-and-openapi-specifications/"/>
+        <updated>2025-09-09T14:28:26.000Z</updated>
+        <summary type="html"><![CDATA[Maintaining up-to-date API documentation is often one of the biggest pain points for developers and teams. Too often, the API spec changes but the docs lag behind, leaving developers with outdated or inconsistent information. This frustrates consumer...]]></summary>
+        <author>
+            <name>EZINNE ANNE EMILIA</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Build Production-Ready Web Apps with the Hono Framework: A Deep Dive]]></title>
         <id>68bf3ea02c935a9d306bb65a</id>
@@ -964,26 +984,6 @@ Getting Creative With Quotes originally published on CSS-Tricks, which is part o
 Stuff & Nonsense Practical Layout Workshop originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Designing With AI, Not Around It: Practical Advanced Techniques For Product Design Use Cases]]></title>
-        <id>https://smashingmagazine.com/2025/08/designing-with-ai-practical-techniques-product-design/</id>
-        <link href="https://smashingmagazine.com/2025/08/designing-with-ai-practical-techniques-product-design/"/>
-        <updated>2025-08-11T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Prompting isn’t just about writing better instructions, but about designing better thinking. Ilia Kanazin and Marina Chernyshova explore how advanced prompting can empower different product & design use cases, speeding up your workflow and improving results, from research and brainstorming to testing and beyond. Let’s dive in.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Ilia Kanazin &amp; Marina Chernyshova)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Choose the Best Programming Languages, Libraries, and Patterns]]></title>
-        <id>6898d3414c52a26ffefb1693</id>
-        <link href="https://www.freecodecamp.org/news/how-to-choose-the-best-programming-languages-libraries-and-patterns/"/>
-        <updated>2025-08-10T17:13:37.000Z</updated>
-        <summary type="html"><![CDATA[In my first few years learning software development and building applications, I was quite interested in finding the best programming language, platform, libraries, frameworks, patterns, and architectures available. I thought that by finding the best...]]></summary>
-        <author>
-            <name>Ryan Michael Kay</name>
         </author>
     </entry>
 </feed>

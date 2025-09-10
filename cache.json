@@ -337,21 +337,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/from-line-to-layout-past-experiences-shape-design-career/from-line-to-layout-past-experiences-shape-design-career.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2025/08/designing-with-ai-practical-techniques-product-design/",
-          "author": "hello@smashingmagazine.com (Ilia Kanazin & Marina Chernyshova)",
-          "description": "Prompting isn’t just about writing better instructions, but about designing better thinking. Ilia Kanazin and Marina Chernyshova explore how advanced prompting can empower different product & design use cases, speeding up your workflow and improving results, from research and brainstorming to testing and beyond. Let’s dive in.",
-          "link": "https://smashingmagazine.com/2025/08/designing-with-ai-practical-techniques-product-design/",
-          "publishedOn": "2025-08-11T08:00:00.000Z",
-          "wordCount": 5850,
-          "title": "Designing With AI, Not Around It: Practical Advanced Techniques For Product Design Use Cases",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/designing-with-ai-practical-techniques-product-design/designing-with-ai-practical-techniques-product-design.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/designing-with-ai-practical-techniques-product-design/designing-with-ai-practical-techniques-product-design.jpg"
         }
       ]
     },
@@ -360,6 +345,26 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "68c03b5738ba5d78dfb7c607",
+          "author": "Atuoha Anthony",
+          "description": "In this tutorial, we’ll build a Flutter application that demonstrates how to perform CRUD (Create, Read, Update, Delete) operations using Hive for local data storage. Hive is a lightweight, fast key-value database written in pure Dart. Unlike SQLite,...",
+          "link": "https://www.freecodecamp.org/news/how-to-store-data-locally-using-hive-in-flutter/",
+          "publishedOn": "2025-09-09T14:36:07.000Z",
+          "wordCount": 3528,
+          "title": "How to Store Data Locally Using Hive in Flutter",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1757428555303/4228b0b2-9edf-48af-a917-2535b6adffa3.png"
+        },
+        {
+          "id": "68c0398aeff4d53c8494c5ab",
+          "author": "EZINNE ANNE EMILIA",
+          "description": "Maintaining up-to-date API documentation is often one of the biggest pain points for developers and teams. Too often, the API spec changes but the docs lag behind, leaving developers with outdated or inconsistent information. This frustrates consumer...",
+          "link": "https://www.freecodecamp.org/news/how-to-automate-api-documentation-updates-with-github-actions-and-openapi-specifications/",
+          "publishedOn": "2025-09-09T14:28:26.000Z",
+          "wordCount": 2894,
+          "title": "How to Automate API Documentation Updates with GitHub Actions and OpenAPI Specifications",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1757428080226/175085d0-cfea-41a0-aa52-a50ad8212980.png"
+        },
         {
           "id": "68bf3ea02c935a9d306bb65a",
           "author": "Mayur Vekariya",
@@ -1039,16 +1044,6 @@
           "wordCount": 1069,
           "title": "Learn DevSecOps and API Security",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1755006902110/cea96794-81df-4e39-bec5-651bb3b6d9a0.jpeg"
-        },
-        {
-          "id": "6898d3414c52a26ffefb1693",
-          "author": "Ryan Michael Kay",
-          "description": "In my first few years learning software development and building applications, I was quite interested in finding the best programming language, platform, libraries, frameworks, patterns, and architectures available. I thought that by finding the best...",
-          "link": "https://www.freecodecamp.org/news/how-to-choose-the-best-programming-languages-libraries-and-patterns/",
-          "publishedOn": "2025-08-10T17:13:37.000Z",
-          "wordCount": 5949,
-          "title": "How to Choose the Best Programming Languages, Libraries, and Patterns",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1754846007203/c9db729e-ebed-4726-8e3e-5414c8e2714d.png"
         }
       ]
     }
