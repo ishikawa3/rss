@@ -2,10 +2,61 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-10T00:14:13.342Z</updated>
+    <updated>2025-09-11T00:14:32.597Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Extend CRUD Operations to Align with Business Workflows]]></title>
+        <id>68c19bc01159a9ac851f6cb5</id>
+        <link href="https://www.freecodecamp.org/news/extend-crud-operations-to-align-with-business-workflows/"/>
+        <updated>2025-09-10T15:39:44.000Z</updated>
+        <summary type="html"><![CDATA[Most developers are introduced to databases and APIs through a simple pattern: CRUD—Create, Read, Update, Delete. It seems like the perfect abstraction. With just four operations, you can model almost anything. Tutorials use it. Frameworks generate i...]]></summary>
+        <author>
+            <name>Tim Kleier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn Game Development by Building Your First Platformer with Godot]]></title>
+        <id>68c1848b89889b1c80036d24</id>
+        <link href="https://www.freecodecamp.org/news/learn-game-development-by-building-your-first-platformer-with-godot/"/>
+        <updated>2025-09-10T14:00:43.000Z</updated>
+        <summary type="html"><![CDATA[Ever wanted to build your own video game but felt overwhelmed by where to start? We just published a course on the freeCodeCamp.org YouTube channel that will guide you step-by-step from a blank screen to a complete, playable game using the powerful a...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What’re Your Top 4 CSS Properties?]]></title>
+        <id>https://css-tricks.com/?p=388800</id>
+        <link href="https://css-tricks.com/whatre-your-top-4-css-properties/"/>
+        <updated>2025-09-10T13:13:41.000Z</updated>
+        <summary type="html"><![CDATA[Everyone has a different opinion which is great because it demonstrates the messy, non-linear craft that is thinking like a front-end developer.
+What’re Your Top 4 CSS Properties? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Design Accessible Browser Extensions]]></title>
+        <id>68c169e7d950044818727fd6</id>
+        <link href="https://www.freecodecamp.org/news/how-to-design-accessible-browser-extensions/"/>
+        <updated>2025-09-10T12:07:03.000Z</updated>
+        <summary type="html"><![CDATA[Building a browser extension is easy, but ensuring that it’s accessible to everyone takes deliberate care and skill. Your extension might fetch data flawlessly and have a beautiful interface, but if screen reader users or keyboard navigators can’t us...]]></summary>
+        <author>
+            <name>Ophy Boamah</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Integrating CSS Cascade Layers To An Existing Project]]></title>
+        <id>https://smashingmagazine.com/2025/09/integrating-css-cascade-layers-existing-project/</id>
+        <link href="https://smashingmagazine.com/2025/09/integrating-css-cascade-layers-existing-project/"/>
+        <updated>2025-09-10T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The idea behind this is to share a full, unfiltered look at integrating CSS Cascade Layers into an existing legacy codebase. In practice, it’s about refactoring existing CSS to use cascade layers without breaking anything.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Victor Ayomipo)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Store Data Locally Using Hive in Flutter]]></title>
         <id>68c03b5738ba5d78dfb7c607</id>
@@ -962,28 +1013,6 @@ CSS-Questions originally published on CSS-Tricks, which is part of the DigitalOc
         <summary type="html"><![CDATA[Learn the essential concepts of DevSecOps and why integrating security throughout the software development lifecycle is more important than ever. We just posted a course on the freeCodeCamp.org YouTube channel that will guide you through the foundati...]]></summary>
         <author>
             <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Getting Creative With Quotes]]></title>
-        <id>https://css-tricks.com/?p=387939</id>
-        <link href="https://css-tricks.com/getting-creative-with-quotes/"/>
-        <updated>2025-08-11T13:43:14.000Z</updated>
-        <summary type="html"><![CDATA[How do you design block quotes and pull quotes to reflect a brand’s visual identity and help tell its story? Here’s how I do it by styling the HTML blockquote element using borders, decorative quote marks, custom shapes, and a few unexpected properties.
-Getting Creative With Quotes originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Andy Clarke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stuff & Nonsense Practical Layout Workshop]]></title>
-        <id>https://css-tricks.com/?p=388616</id>
-        <link href="https://css-tricks.com/stuff-nonsense-practical-layout-workshop/"/>
-        <updated>2025-08-11T12:16:00.000Z</updated>
-        <summary type="html"><![CDATA[Web design veteran Andy Clarke is offering a two-hour workshop all about creating practical and creative page layouts this September 18. Register and save a few bucks with a coupon code.
-Stuff & Nonsense Practical Layout Workshop originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
         </author>
     </entry>
 </feed>
