@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=389117",
+          "author": "Geoff Graham",
+          "description": "Stu Robson outlines two ways to compile multiple CSS files when you aren't relying on Sass for it.\nCompiling Multiple CSS Files into One originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/compiling-multiple-css-files-into-one/",
+          "publishedOn": "2025-09-11T15:16:34.000Z",
+          "wordCount": 2069,
+          "title": "Compiling Multiple CSS Files into One",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2021/08/css-modules-connections.jpg"
+        },
+        {
           "id": "https://css-tricks.com/?p=388800",
           "author": "Geoff Graham",
           "description": "Everyone has a different opinion which is great because it demonstrates the messy, non-linear craft that is thinking like a front-end developer.\nWhat’re Your Top 4 CSS Properties? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -160,16 +170,6 @@
           "wordCount": 4282,
           "title": "We Might Need Something Between Root and Relative CSS Units for “Base Elements”",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/10/random-number-slots.png"
-        },
-        {
-          "id": "https://css-tricks.com/?p=388740",
-          "author": "Geoff Graham",
-          "description": "CSS-Questions is a mini site where you can test your CSS knowledge with over 100 questions. \nCSS-Questions originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/css-questions/",
-          "publishedOn": "2025-08-12T15:02:21.000Z",
-          "wordCount": 1709,
-          "title": "CSS-Questions",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/08/css-questions-thumb.jpeg"
         }
       ]
     },
@@ -327,21 +327,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/psychology-color-ux-design-digital-products/psychology-color-ux-design-digital-products.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2025/08/from-line-to-layout-past-experiences-shape-design-career/",
-          "author": "hello@smashingmagazine.com (Stephanie Campbell)",
-          "description": "Your past shapes who you are as a designer, no matter where your career began or how unexpected your career path may have been. Stephanie Campbell shows how those lessons can sharpen your instincts, strengthen collaboration, and help you become a better designer today. Learn how the skills you have learned in your previous jobs can be put to work today in meetings, design reviews, and complicated mid-project pivots.",
-          "link": "https://smashingmagazine.com/2025/08/from-line-to-layout-past-experiences-shape-design-career/",
-          "publishedOn": "2025-08-13T11:00:00.000Z",
-          "wordCount": 5539,
-          "title": "From Line To Layout: How Past Experiences Shape Your Design Career",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/from-line-to-layout-past-experiences-shape-design-career/from-line-to-layout-past-experiences-shape-design-career.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/from-line-to-layout-past-experiences-shape-design-career/from-line-to-layout-past-experiences-shape-design-career.jpg"
         }
       ]
     },
@@ -350,6 +335,26 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "68c2cf0fe8903924be3e8c8c",
+          "author": "Beau Carnes",
+          "description": "Data breaches are a constant threat, and traditional encryption practices often aren't enough to protect sensitive information throughout its entire lifecycle. We just posted a course on the freeCodeCamp.org YouTube channel that will teach you how to...",
+          "link": "https://www.freecodecamp.org/news/build-secure-web-applications-with-php-symfony-and-mongodb/",
+          "publishedOn": "2025-09-11T13:30:55.000Z",
+          "wordCount": 1124,
+          "title": "Build Secure Web Applications with PHP, Symfony, and MongoDB",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1757573041841/0bbcb80c-76b9-4792-be3b-fba79ea344b1.png"
+        },
+        {
+          "id": "68c2272573bc3e829c0afc65",
+          "author": "Tech With RJ",
+          "description": "After graduation, I noticed many fresh grads struggling to land jobs. It wasn’t because they lacked effort or qualifications. The real issue was that what we learn in university doesn’t fully match what employers are looking for. Now, with the rise o...",
+          "link": "https://www.freecodecamp.org/news/why-every-student-should-join-hackathons/",
+          "publishedOn": "2025-09-11T01:34:29.000Z",
+          "wordCount": 2552,
+          "title": "Why Every Student Should Join Hackathons",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1757553697531/03401b7c-4970-4680-a65d-31e360b0e645.png"
+        },
         {
           "id": "68c19bc01159a9ac851f6cb5",
           "author": "Tim Kleier",
@@ -1059,26 +1064,6 @@
           "wordCount": 8986,
           "title": "How to Get Started with ASP.NET Core and gRPC: A Handbook for Developers",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1755043329753/f5ff4a61-79b7-44f0-9871-9dfef9f8d08a.png"
-        },
-        {
-          "id": "689bd6ecfb63224ae4bf0fce",
-          "author": "Manish Shivanandhan",
-          "description": "Building a website with WordPress used to take a lot of time. You had to install the platform, choose a theme, add plugins, write all the content by hand, and make sure everything worked well together. Even skilled developers spent hours setting up a...",
-          "link": "https://www.freecodecamp.org/news/what-wordpress-development-looks-like-in-the-age-of-ai/",
-          "publishedOn": "2025-08-13T00:06:04.000Z",
-          "wordCount": 2478,
-          "title": "What WordPress Development Looks Like in the Age of AI",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1755043537289/20e17529-88fd-4fbd-94c4-69cf72d8a470.png"
-        },
-        {
-          "id": "689b47c881c4b29c5904b9a5",
-          "author": "Beau Carnes",
-          "description": "Learn the essential concepts of DevSecOps and why integrating security throughout the software development lifecycle is more important than ever. We just posted a course on the freeCodeCamp.org YouTube channel that will guide you through the foundati...",
-          "link": "https://www.freecodecamp.org/news/learn-devsecops-and-api-security/",
-          "publishedOn": "2025-08-12T13:55:20.000Z",
-          "wordCount": 1069,
-          "title": "Learn DevSecOps and API Security",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1755006902110/cea96794-81df-4e39-bec5-651bb3b6d9a0.jpeg"
         }
       ]
     }

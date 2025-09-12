@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-11T00:14:32.597Z</updated>
+    <updated>2025-09-12T00:14:52.352Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Compiling Multiple CSS Files into One]]></title>
+        <id>https://css-tricks.com/?p=389117</id>
+        <link href="https://css-tricks.com/compiling-multiple-css-files-into-one/"/>
+        <updated>2025-09-11T15:16:34.000Z</updated>
+        <summary type="html"><![CDATA[Stu Robson outlines two ways to compile multiple CSS files when you aren't relying on Sass for it.
+Compiling Multiple CSS Files into One originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build Secure Web Applications with PHP, Symfony, and MongoDB]]></title>
+        <id>68c2cf0fe8903924be3e8c8c</id>
+        <link href="https://www.freecodecamp.org/news/build-secure-web-applications-with-php-symfony-and-mongodb/"/>
+        <updated>2025-09-11T13:30:55.000Z</updated>
+        <summary type="html"><![CDATA[Data breaches are a constant threat, and traditional encryption practices often aren't enough to protect sensitive information throughout its entire lifecycle. We just posted a course on the freeCodeCamp.org YouTube channel that will teach you how to...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Every Student Should Join Hackathons]]></title>
+        <id>68c2272573bc3e829c0afc65</id>
+        <link href="https://www.freecodecamp.org/news/why-every-student-should-join-hackathons/"/>
+        <updated>2025-09-11T01:34:29.000Z</updated>
+        <summary type="html"><![CDATA[After graduation, I noticed many fresh grads struggling to land jobs. It wasn’t because they lacked effort or qualifications. The real issue was that what we learn in university doesn’t fully match what employers are looking for. Now, with the rise o...]]></summary>
+        <author>
+            <name>Tech With RJ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Extend CRUD Operations to Align with Business Workflows]]></title>
         <id>68c19bc01159a9ac851f6cb5</id>
@@ -972,47 +1003,6 @@ On Accessibility Conformance, Design Systems, and CSS “Base” Units originall
 We Might Need Something Between Root and Relative CSS Units for “Base Elements” originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Zell Liew</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[From Line To Layout: How Past Experiences Shape Your Design Career]]></title>
-        <id>https://smashingmagazine.com/2025/08/from-line-to-layout-past-experiences-shape-design-career/</id>
-        <link href="https://smashingmagazine.com/2025/08/from-line-to-layout-past-experiences-shape-design-career/"/>
-        <updated>2025-08-13T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Your past shapes who you are as a designer, no matter where your career began or how unexpected your career path may have been. Stephanie Campbell shows how those lessons can sharpen your instincts, strengthen collaboration, and help you become a better designer today. Learn how the skills you have learned in your previous jobs can be put to work today in meetings, design reviews, and complicated mid-project pivots.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Stephanie Campbell)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What WordPress Development Looks Like in the Age of AI]]></title>
-        <id>689bd6ecfb63224ae4bf0fce</id>
-        <link href="https://www.freecodecamp.org/news/what-wordpress-development-looks-like-in-the-age-of-ai/"/>
-        <updated>2025-08-13T00:06:04.000Z</updated>
-        <summary type="html"><![CDATA[Building a website with WordPress used to take a lot of time. You had to install the platform, choose a theme, add plugins, write all the content by hand, and make sure everything worked well together. Even skilled developers spent hours setting up a...]]></summary>
-        <author>
-            <name>Manish Shivanandhan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSS-Questions]]></title>
-        <id>https://css-tricks.com/?p=388740</id>
-        <link href="https://css-tricks.com/css-questions/"/>
-        <updated>2025-08-12T15:02:21.000Z</updated>
-        <summary type="html"><![CDATA[CSS-Questions is a mini site where you can test your CSS knowledge with over 100 questions. 
-CSS-Questions originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn DevSecOps and API Security]]></title>
-        <id>689b47c881c4b29c5904b9a5</id>
-        <link href="https://www.freecodecamp.org/news/learn-devsecops-and-api-security/"/>
-        <updated>2025-08-12T13:55:20.000Z</updated>
-        <summary type="html"><![CDATA[Learn the essential concepts of DevSecOps and why integrating security throughout the software development lifecycle is more important than ever. We just posted a course on the freeCodeCamp.org YouTube channel that will guide you through the foundati...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
         </author>
     </entry>
 </feed>
