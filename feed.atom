@@ -2,10 +2,71 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-12T00:14:52.352Z</updated>
+    <updated>2025-09-13T00:13:24.189Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Understanding Transformer Models for Language Processing]]></title>
+        <id>68c44ccedcb860533312bf30</id>
+        <link href="https://www.freecodecamp.org/news/understanding-transformer-models-for-language-processing/"/>
+        <updated>2025-09-12T16:39:42.000Z</updated>
+        <summary type="html"><![CDATA[If you’ve ever used Google Translate, skimmed through a quick summary, or asked a chatbot for help, then you’ve definitely seen Transformers at work. They’re considered the architects behind today’s biggest advances in natural language processing (NL...]]></summary>
+        <author>
+            <name>Oyedele Tioluwani</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From Data To Decisions: UX Strategies For Real-Time Dashboards]]></title>
+        <id>https://smashingmagazine.com/2025/09/ux-strategies-real-time-dashboards/</id>
+        <link href="https://smashingmagazine.com/2025/09/ux-strategies-real-time-dashboards/"/>
+        <updated>2025-09-12T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Real-time dashboards are decision assistants, not passive displays. In environments like fleet management, healthcare, and operations, the cost of a delay or misstep is high. Karan Rawal explores strategic UX patterns that shorten time-to-decision, reduce cognitive overload, and make live systems trustworthy.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Karan Rawal)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Can We Actually Do With corner-shape?]]></title>
+        <id>https://css-tricks.com/?p=389060</id>
+        <link href="https://css-tricks.com/what-can-we-actually-do-with-corner-shape/"/>
+        <updated>2025-09-12T14:20:45.000Z</updated>
+        <summary type="html"><![CDATA[When I first started messing around with code, rounded corners required five background images or an image sprite likely created in Photoshop, so when border-radius came onto the scene, I remember everybody thinking that it was the best thing ever. …
+What Can We Actually Do With corner-shape? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Daniel Schwarz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Playing the Developer Job Search Game to Win in 2025 with Danny Thompson & Leon Noel [Podcast #188]]]></title>
+        <id>68c42771b2d1879f98d1094b</id>
+        <link href="https://www.freecodecamp.org/news/playing-the-developer-job-search-game-to-win-in-2025-with-danny-thompson-and-leon-noel-podcast-188/"/>
+        <updated>2025-09-12T14:00:17.000Z</updated>
+        <summary type="html"><![CDATA[For this week's interview, we've got a special treat. Quincy Larson talking with two legends in the self-taught developer community. Danny Thompson worked for 10 years at a Tennessee gas station, frying chicken for people to eat, sometimes working 80...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Front-End Developers Should Understand UI/UX Design]]></title>
+        <id>68c4087abba5a7e638ae4cd6</id>
+        <link href="https://www.freecodecamp.org/news/why-front-end-developers-should-understand-uiux-design/"/>
+        <updated>2025-09-12T11:48:10.000Z</updated>
+        <summary type="html"><![CDATA[When users interact with a website or application, the first thing they notice isn’t the code. Instead, it’s the design and experience. Smooth navigation, intuitive layouts, and visually appealing interfaces are what keep users engaged. Behind these ...]]></summary>
+        <author>
+            <name>Asfak Ahmed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Prompt Engineering Cheat Sheet for GPT-5: Learn These Patterns for Solid Code Generation]]></title>
+        <id>68c3f6454edd0f63eaaf098e</id>
+        <link href="https://www.freecodecamp.org/news/prompt-engineering-cheat-sheet-for-gpt-5/"/>
+        <updated>2025-09-12T10:30:29.000Z</updated>
+        <summary type="html"><![CDATA[When large language models like ChatGPT first became widely available, a lot of us developers felt like we’d been handed a new superpower. We could use LLMs to help us develop new coding projects, build websites, and much more – just using a few prom...]]></summary>
+        <author>
+            <name>Tarun Singh</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Compiling Multiple CSS Files into One]]></title>
         <id>https://css-tricks.com/?p=389117</id>
@@ -952,57 +1013,6 @@ Zell’s “We Might Need Something Between Root and Relative
 On Accessibility Conformance, Design Systems, and CSS “Base” Units originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Design Structured Database Systems Using SQL [Full Book]]]></title>
-        <id>689cd35e34fbf8c230ae0b6c</id>
-        <link href="https://www.freecodecamp.org/news/how-to-design-structured-database-systems-using-sql-full-book/"/>
-        <updated>2025-08-13T18:03:10.000Z</updated>
-        <summary type="html"><![CDATA[This book will guide you, step-by-step, through designing a relational database using SQL. SQL is one of the most recognized relational languages for managing and querying data in databases. You’ll learn the fundamental concepts related to both data ...]]></summary>
-        <author>
-            <name>Daniel García Solla</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Integrate Tailwind with Electron – With Code Examples]]></title>
-        <id>689cc9ce08eeb0d54c95cff1</id>
-        <link href="https://www.freecodecamp.org/news/integrate-tailwind-with-electron/"/>
-        <updated>2025-08-13T17:22:22.000Z</updated>
-        <summary type="html"><![CDATA[In this article, you’ll learn how to integrate Tailwind CSS with Electron to build stylish, responsive desktop applications. You’ll set up Tailwind in an Electron project, configure your project, style the components, and optimize the development wor...]]></summary>
-        <author>
-            <name>Abhijeet Dave</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn Next.js 15 Caching & Rendering]]></title>
-        <id>689cb5d3faa7288735f4eb77</id>
-        <link href="https://www.freecodecamp.org/news/learn-nextjs-15-caching-and-rendering/"/>
-        <updated>2025-08-13T15:57:07.000Z</updated>
-        <summary type="html"><![CDATA[Learn Next.js 15 Caching & Rendering using the App Router. We just posted a course on the freeCodeCamp.org YouTube channel for people who want a clear, engineering-level understanding of how Next.js optimizes performance through smart rendering strat...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Get Started with ASP.NET Core and gRPC: A Handbook for Developers]]></title>
-        <id>689ca3344cac10c21b1f670c</id>
-        <link href="https://www.freecodecamp.org/news/get-started-with-aspnet-core-and-grpc-handbook/"/>
-        <updated>2025-08-13T14:37:40.000Z</updated>
-        <summary type="html"><![CDATA[In today's distributed computing landscape, efficient service-to-service communication is crucial for building scalable, high-performance applications. gRPC (Google Remote Procedure Call) has emerged as one of the most powerful frameworks for creatin...]]></summary>
-        <author>
-            <name>Isaiah Clifford Opoku</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[We Might Need Something Between Root and Relative CSS Units for “Base Elements”]]></title>
-        <id>https://css-tricks.com/?p=388448</id>
-        <link href="https://css-tricks.com/we-might-need-something-between-root-and-relative-css-units-for-base-elements/"/>
-        <updated>2025-08-13T13:24:55.000Z</updated>
-        <summary type="html"><![CDATA[I've come to realize that perhaps we need to have a unit between root and relative values. This would bring about a whole new possibility when creating reusable components.
-We Might Need Something Between Root and Relative CSS Units for “Base Elements” originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Zell Liew</name>
         </author>
     </entry>
 </feed>

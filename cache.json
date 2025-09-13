@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=389060",
+          "author": "Daniel Schwarz",
+          "description": "When I first started messing around with code, rounded corners required five background images or an image sprite likely created in Photoshop, so when border-radius came onto the scene, I remember everybody thinking that it was the best thing ever. …\nWhat Can We Actually Do With corner-shape? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/what-can-we-actually-do-with-corner-shape/",
+          "publishedOn": "2025-09-12T14:20:45.000Z",
+          "wordCount": 3149,
+          "title": "What Can We Actually Do With corner-shape?",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/09/s_B9520AAEB8E72143A2990CEB07209D80D9AD692AC1F43B71E4BC9C84D7184887_1757081374239_Screenshot2025-09-05at8.08.39AM.png"
+        },
+        {
           "id": "https://css-tricks.com/?p=389117",
           "author": "Geoff Graham",
           "description": "Stu Robson outlines two ways to compile multiple CSS files when you aren't relying on Sass for it.\nCompiling Multiple CSS Files into One originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -160,16 +170,6 @@
           "wordCount": 1835,
           "title": "On Accessibility Conformance, Design Systems, and CSS “Base” Units",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2021/12/cog-pattern.jpg"
-        },
-        {
-          "id": "https://css-tricks.com/?p=388448",
-          "author": "Zell Liew",
-          "description": "I've come to realize that perhaps we need to have a unit between root and relative values. This would bring about a whole new possibility when creating reusable components.\nWe Might Need Something Between Root and Relative CSS Units for “Base Elements” originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/we-might-need-something-between-root-and-relative-css-units-for-base-elements/",
-          "publishedOn": "2025-08-13T13:24:55.000Z",
-          "wordCount": 4282,
-          "title": "We Might Need Something Between Root and Relative CSS Units for “Base Elements”",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/10/random-number-slots.png"
         }
       ]
     },
@@ -178,6 +178,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2025/09/ux-strategies-real-time-dashboards/",
+          "author": "hello@smashingmagazine.com (Karan Rawal)",
+          "description": "Real-time dashboards are decision assistants, not passive displays. In environments like fleet management, healthcare, and operations, the cost of a delay or misstep is high. Karan Rawal explores strategic UX patterns that shorten time-to-decision, reduce cognitive overload, and make live systems trustworthy.",
+          "link": "https://smashingmagazine.com/2025/09/ux-strategies-real-time-dashboards/",
+          "publishedOn": "2025-09-12T15:00:00.000Z",
+          "wordCount": 6271,
+          "title": "From Data To Decisions: UX Strategies For Real-Time Dashboards",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/ux-strategies-real-time-dashboards/ux-strategies-real-time-dashboards.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/ux-strategies-real-time-dashboards/ux-strategies-real-time-dashboards.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2025/09/integrating-css-cascade-layers-existing-project/",
           "author": "hello@smashingmagazine.com (Victor Ayomipo)",
@@ -335,6 +350,46 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "68c44ccedcb860533312bf30",
+          "author": "Oyedele Tioluwani",
+          "description": "If you’ve ever used Google Translate, skimmed through a quick summary, or asked a chatbot for help, then you’ve definitely seen Transformers at work. They’re considered the architects behind today’s biggest advances in natural language processing (NL...",
+          "link": "https://www.freecodecamp.org/news/understanding-transformer-models-for-language-processing/",
+          "publishedOn": "2025-09-12T16:39:42.000Z",
+          "wordCount": 3849,
+          "title": "Understanding Transformer Models for Language Processing",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1757695079538/5c7d983b-647c-4892-9c10-247a05c0f50a.png"
+        },
+        {
+          "id": "68c42771b2d1879f98d1094b",
+          "author": "Beau Carnes",
+          "description": "For this week's interview, we've got a special treat. Quincy Larson talking with two legends in the self-taught developer community. Danny Thompson worked for 10 years at a Tennessee gas station, frying chicken for people to eat, sometimes working 80...",
+          "link": "https://www.freecodecamp.org/news/playing-the-developer-job-search-game-to-win-in-2025-with-danny-thompson-and-leon-noel-podcast-188/",
+          "publishedOn": "2025-09-12T14:00:17.000Z",
+          "wordCount": 1691,
+          "title": "Playing the Developer Job Search Game to Win in 2025 with Danny Thompson & Leon Noel [Podcast #188]",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1757626930497/bcea7147-b14c-4093-8d15-5c2115bd8c8d.png"
+        },
+        {
+          "id": "68c4087abba5a7e638ae4cd6",
+          "author": "Asfak Ahmed",
+          "description": "When users interact with a website or application, the first thing they notice isn’t the code. Instead, it’s the design and experience. Smooth navigation, intuitive layouts, and visually appealing interfaces are what keep users engaged. Behind these ...",
+          "link": "https://www.freecodecamp.org/news/why-front-end-developers-should-understand-uiux-design/",
+          "publishedOn": "2025-09-12T11:48:10.000Z",
+          "wordCount": 4854,
+          "title": "Why Front-End Developers Should Understand UI/UX Design",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1757677089930/07115f35-ba9e-452a-bf95-3a96de7a5d24.png"
+        },
+        {
+          "id": "68c3f6454edd0f63eaaf098e",
+          "author": "Tarun Singh",
+          "description": "When large language models like ChatGPT first became widely available, a lot of us developers felt like we’d been handed a new superpower. We could use LLMs to help us develop new coding projects, build websites, and much more – just using a few prom...",
+          "link": "https://www.freecodecamp.org/news/prompt-engineering-cheat-sheet-for-gpt-5/",
+          "publishedOn": "2025-09-12T10:30:29.000Z",
+          "wordCount": 3442,
+          "title": "Prompt Engineering Cheat Sheet for GPT-5: Learn These Patterns for Solid Code Generation",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1757672756195/67ddcb24-b8dd-4bf6-a83b-103940f4ae85.png"
+        },
         {
           "id": "68c2cf0fe8903924be3e8c8c",
           "author": "Beau Carnes",
@@ -1024,46 +1079,6 @@
           "wordCount": 3912,
           "title": "How AI is Changing the Way We Code",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1755185611603/1baeca15-abe2-4b54-9235-803f50006e06.png"
-        },
-        {
-          "id": "689cd35e34fbf8c230ae0b6c",
-          "author": "Daniel García Solla",
-          "description": "This book will guide you, step-by-step, through designing a relational database using SQL. SQL is one of the most recognized relational languages for managing and querying data in databases. You’ll learn the fundamental concepts related to both data ...",
-          "link": "https://www.freecodecamp.org/news/how-to-design-structured-database-systems-using-sql-full-book/",
-          "publishedOn": "2025-08-13T18:03:10.000Z",
-          "wordCount": 120765,
-          "title": "How to Design Structured Database Systems Using SQL [Full Book]",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1755095979245/dfd39c26-3456-4e79-a01c-0b2a82f7a034.png"
-        },
-        {
-          "id": "689cc9ce08eeb0d54c95cff1",
-          "author": "Abhijeet Dave",
-          "description": "In this article, you’ll learn how to integrate Tailwind CSS with Electron to build stylish, responsive desktop applications. You’ll set up Tailwind in an Electron project, configure your project, style the components, and optimize the development wor...",
-          "link": "https://www.freecodecamp.org/news/integrate-tailwind-with-electron/",
-          "publishedOn": "2025-08-13T17:22:22.000Z",
-          "wordCount": 2878,
-          "title": "How to Integrate Tailwind with Electron – With Code Examples",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1755102784797/0a2d19f0-3539-47c6-a29d-68fab3d430ba.png"
-        },
-        {
-          "id": "689cb5d3faa7288735f4eb77",
-          "author": "Beau Carnes",
-          "description": "Learn Next.js 15 Caching & Rendering using the App Router. We just posted a course on the freeCodeCamp.org YouTube channel for people who want a clear, engineering-level understanding of how Next.js optimizes performance through smart rendering strat...",
-          "link": "https://www.freecodecamp.org/news/learn-nextjs-15-caching-and-rendering/",
-          "publishedOn": "2025-08-13T15:57:07.000Z",
-          "wordCount": 1114,
-          "title": "Learn Next.js 15 Caching & Rendering",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1755100527163/bc71b3bd-1bfc-45c2-a0f5-78e57aed8dd3.png"
-        },
-        {
-          "id": "689ca3344cac10c21b1f670c",
-          "author": "Isaiah Clifford Opoku",
-          "description": "In today's distributed computing landscape, efficient service-to-service communication is crucial for building scalable, high-performance applications. gRPC (Google Remote Procedure Call) has emerged as one of the most powerful frameworks for creatin...",
-          "link": "https://www.freecodecamp.org/news/get-started-with-aspnet-core-and-grpc-handbook/",
-          "publishedOn": "2025-08-13T14:37:40.000Z",
-          "wordCount": 8986,
-          "title": "How to Get Started with ASP.NET Core and gRPC: A Handbook for Developers",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1755043329753/f5ff4a61-79b7-44f0-9871-9dfef9f8d08a.png"
         }
       ]
     }
