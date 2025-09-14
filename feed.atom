@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-13T00:13:24.189Z</updated>
+    <updated>2025-09-14T00:15:12.805Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Work with Collections in Go Using the Standard Library Helpers]]></title>
+        <id>68c4a25692f6fb350ff863d5</id>
+        <link href="https://www.freecodecamp.org/news/how-to-work-with-collections-in-go-using-the-standard-library-helpers/"/>
+        <updated>2025-09-12T22:44:38.000Z</updated>
+        <summary type="html"><![CDATA[In a previous article—Arrays, Slices, and Maps in Go: a Quick Guide to Collection Types—we explored Go's three built-in collection types and how they work under the hood. That gave us the foundation for storing and accessing data efficiently. But in ...]]></summary>
+        <author>
+            <name>Gabor Koos</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Run Python GUI Apps in GitHub Codespaces with Xvfb and noVNC]]></title>
+        <id>68c4a196984613262158d040</id>
+        <link href="https://www.freecodecamp.org/news/run-python-gui-in-github-codespaces/"/>
+        <updated>2025-09-12T22:41:26.000Z</updated>
+        <summary type="html"><![CDATA[GitHub Codespaces gives you a full development environment in the cloud, directly in your browser. It’s great for writing and running code, but there’s one big limitation: it doesn’t support graphical applications out of the box, especially for Pytho...]]></summary>
+        <author>
+            <name>Ayodele Aransiola</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Transformer Models Work for Language Processing]]></title>
+        <id>68c44ccedcb860533312bf30</id>
+        <link href="https://www.freecodecamp.org/news/how-transformer-models-work-for-language-processing/"/>
+        <updated>2025-09-12T16:39:42.000Z</updated>
+        <summary type="html"><![CDATA[If you’ve ever used Google Translate, skimmed through a quick summary, or asked a chatbot for help, then you’ve definitely seen Transformers at work. They’re considered the architects behind today’s biggest advances in natural language processing (NL...]]></summary>
+        <author>
+            <name>Oyedele Tioluwani</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Understanding Transformer Models for Language Processing]]></title>
         <id>68c44ccedcb860533312bf30</id>
@@ -976,41 +1006,6 @@ Covering hidden=until-found originally published on CSS-Tricks, which is part of
         <updated>2025-08-15T12:26:00.000Z</updated>
         <summary type="html"><![CDATA[It's easy to take URL superpowers for granted, even if you already have these patterns under your belt.
 A Few Things About the Anchor Element’s href You Might Not Have Known originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Set Up GitHub CLI on WSL2]]></title>
-        <id>689e444cbfe79386885372b0</id>
-        <link href="https://www.freecodecamp.org/news/github-cli-wsl2-guide/"/>
-        <updated>2025-08-14T20:17:16.000Z</updated>
-        <summary type="html"><![CDATA[Recently, I set up WSL2 and Ubuntu on my Windows 11 to work on some open-source projects. Since I also maintain these projects, I installed GitHub CLI to ease my workflow. I successfully installed the GitHub CLI, but failed to authenticate it. The er...]]></summary>
-        <author>
-            <name>Ayu Adiati</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How AI is Changing the Way We Code]]></title>
-        <id>689e02053c949f7b9979e30a</id>
-        <link href="https://www.freecodecamp.org/news/how-ai-is-changing-the-way-we-code/"/>
-        <updated>2025-08-14T15:34:29.000Z</updated>
-        <summary type="html"><![CDATA[Something big is happening in the world of software development. In 2025, the way we write, read, and think about software has undergone a significant shift, and it’s not subtle. At the center of this shift is artificial intelligence. Just five years...]]></summary>
-        <author>
-            <name>Alex Tray</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[On Accessibility Conformance, Design Systems, and CSS “Base” Units]]></title>
-        <id>https://css-tricks.com/?p=388760</id>
-        <link href="https://css-tricks.com/on-accessibility-conformance-design-systems-and-css-base-units/"/>
-        <updated>2025-08-14T13:10:11.000Z</updated>
-        <summary type="html"><![CDATA[My brain can’t help but try to make connections between seemingly disparate ideas. And that’s what happened yesterday when I read:
-Hidde’s “Can components conform to WCAG?”
-Joas’s “Automating Design Systems”
-Zell’s “We Might Need Something Between Root and Relative 
-…
-On Accessibility Conformance, Design Systems, and CSS “Base” Units originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Geoff Graham</name>
         </author>

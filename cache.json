@@ -160,16 +160,6 @@
           "wordCount": 1796,
           "title": "A Few Things About the Anchor Element’s href You Might Not Have Known",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2018/07/link-pattern.png"
-        },
-        {
-          "id": "https://css-tricks.com/?p=388760",
-          "author": "Geoff Graham",
-          "description": "My brain can’t help but try to make connections between seemingly disparate ideas. And that’s what happened yesterday when I read:\nHidde’s “Can components conform to WCAG?”\nJoas’s “Automating Design Systems”\nZell’s “We Might Need Something Between Root and Relative \n…\nOn Accessibility Conformance, Design Systems, and CSS “Base” Units originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/on-accessibility-conformance-design-systems-and-css-base-units/",
-          "publishedOn": "2025-08-14T13:10:11.000Z",
-          "wordCount": 1835,
-          "title": "On Accessibility Conformance, Design Systems, and CSS “Base” Units",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2021/12/cog-pattern.jpg"
         }
       ]
     },
@@ -350,6 +340,36 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "68c4a25692f6fb350ff863d5",
+          "author": "Gabor Koos",
+          "description": "In a previous article—Arrays, Slices, and Maps in Go: a Quick Guide to Collection Types—we explored Go's three built-in collection types and how they work under the hood. That gave us the foundation for storing and accessing data efficiently. But in ...",
+          "link": "https://www.freecodecamp.org/news/how-to-work-with-collections-in-go-using-the-standard-library-helpers/",
+          "publishedOn": "2025-09-12T22:44:38.000Z",
+          "wordCount": 6703,
+          "title": "How to Work with Collections in Go Using the Standard Library Helpers",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1757716951175/0969475a-acc5-4aa4-b2eb-fdb28ba62eee.png"
+        },
+        {
+          "id": "68c4a196984613262158d040",
+          "author": "Ayodele Aransiola",
+          "description": "GitHub Codespaces gives you a full development environment in the cloud, directly in your browser. It’s great for writing and running code, but there’s one big limitation: it doesn’t support graphical applications out of the box, especially for Pytho...",
+          "link": "https://www.freecodecamp.org/news/run-python-gui-in-github-codespaces/",
+          "publishedOn": "2025-09-12T22:41:26.000Z",
+          "wordCount": 3193,
+          "title": "How to Run Python GUI Apps in GitHub Codespaces with Xvfb and noVNC",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1757716674058/86bb9af9-0977-4548-a050-36c3b9ea3e16.png"
+        },
+        {
+          "id": "68c44ccedcb860533312bf30",
+          "author": "Oyedele Tioluwani",
+          "description": "If you’ve ever used Google Translate, skimmed through a quick summary, or asked a chatbot for help, then you’ve definitely seen Transformers at work. They’re considered the architects behind today’s biggest advances in natural language processing (NL...",
+          "link": "https://www.freecodecamp.org/news/how-transformer-models-work-for-language-processing/",
+          "publishedOn": "2025-09-12T16:39:42.000Z",
+          "wordCount": 3852,
+          "title": "How Transformer Models Work for Language Processing",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1757695079538/5c7d983b-647c-4892-9c10-247a05c0f50a.png"
+        },
         {
           "id": "68c44ccedcb860533312bf30",
           "author": "Oyedele Tioluwani",
@@ -1059,26 +1079,6 @@
           "wordCount": 1049,
           "title": "From drop-out to backpacker to self-taught developer with Dominick Monaco [Podcast #183]",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1755230814116/9ca5c995-2e2f-4166-8539-90bc7806146d.png"
-        },
-        {
-          "id": "689e444cbfe79386885372b0",
-          "author": "Ayu Adiati",
-          "description": "Recently, I set up WSL2 and Ubuntu on my Windows 11 to work on some open-source projects. Since I also maintain these projects, I installed GitHub CLI to ease my workflow. I successfully installed the GitHub CLI, but failed to authenticate it. The er...",
-          "link": "https://www.freecodecamp.org/news/github-cli-wsl2-guide/",
-          "publishedOn": "2025-08-14T20:17:16.000Z",
-          "wordCount": 2104,
-          "title": "How to Set Up GitHub CLI on WSL2",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1755202477019/fbc68131-107a-40ae-9dae-c14224d0866a.png"
-        },
-        {
-          "id": "689e02053c949f7b9979e30a",
-          "author": "Alex Tray",
-          "description": "Something big is happening in the world of software development. In 2025, the way we write, read, and think about software has undergone a significant shift, and it’s not subtle. At the center of this shift is artificial intelligence. Just five years...",
-          "link": "https://www.freecodecamp.org/news/how-ai-is-changing-the-way-we-code/",
-          "publishedOn": "2025-08-14T15:34:29.000Z",
-          "wordCount": 3912,
-          "title": "How AI is Changing the Way We Code",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1755185611603/1baeca15-abe2-4b54-9235-803f50006e06.png"
         }
       ]
     }
