@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=389130",
+          "author": "Juan Diego Rodríguez",
+          "description": "I want to look at practical uses for CSS trigonometric functions. And we'll start with what may be the most popular functions of the \"worst\" feature: sin() and cos().\nThe “Most Hated” CSS Feature: cos() and sin() originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/the-most-hated-css-feature-cos-and-sin/",
+          "publishedOn": "2025-09-15T14:31:06.000Z",
+          "wordCount": 4627,
+          "title": "The “Most Hated” CSS Feature: cos() and sin()",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/09/most_hated_feature.jpg"
+        },
+        {
           "id": "https://css-tricks.com/?p=389060",
           "author": "Daniel Schwarz",
           "description": "When I first started messing around with code, rounded corners required five background images or an image sprite likely created in Photoshop, so when border-radius came onto the scene, I remember everybody thinking that it was the best thing ever. …\nWhat Can We Actually Do With corner-shape? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -148,6 +158,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2025/09/creating-elastic-bounce-effects-expressive-animator/",
+          "author": "hello@smashingmagazine.com (Marius Sarca)",
+          "description": "Elastic and bounce effects have long been among the most desirable but time-consuming techniques in motion design. Expressive Animator streamlines the process, making it possible to produce lively animations in seconds, bypassing the tedious work of manual keyframe editing.",
+          "link": "https://smashingmagazine.com/2025/09/creating-elastic-bounce-effects-expressive-animator/",
+          "publishedOn": "2025-09-15T10:00:00.000Z",
+          "wordCount": 3896,
+          "title": "Creating Elastic And Bounce Effects With Expressive Animator",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/creating-elastic-bounce-effects-expressive-animator/creating-elastic-bounce-effects-expressive-animator.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/creating-elastic-bounce-effects-expressive-animator/creating-elastic-bounce-effects-expressive-animator.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2025/09/ux-strategies-real-time-dashboards/",
           "author": "hello@smashingmagazine.com (Karan Rawal)",
@@ -305,6 +330,16 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "68c827a7023360e7e4bf5f8f",
+          "author": "Beau Carnes",
+          "description": "Can you code a code editor in a code editor that you coded? We just published a new course on the freeCodeCamp.org YouTube channel where you’ll learn how to build your own browser-based code editor. In this tutorial, developer Mohammed Al Abrah walks...",
+          "link": "https://www.freecodecamp.org/news/code-your-own-code-editor/",
+          "publishedOn": "2025-09-15T14:50:15.000Z",
+          "wordCount": 988,
+          "title": "Code Your Own Code Editor",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1757857427613/06c86002-f1bd-4f74-b4be-c1c476afdd49.png"
+        },
         {
           "id": "68c4a25692f6fb350ff863d5",
           "author": "Gabor Koos",
