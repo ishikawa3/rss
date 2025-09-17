@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-16T00:13:44.099Z</updated>
+    <updated>2025-09-17T00:14:05.744Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Use ObjectBox in Flutter]]></title>
+        <id>68c9995460a5f06c06227f63</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-objectbox-in-flutter/"/>
+        <updated>2025-09-16T17:07:32.000Z</updated>
+        <summary type="html"><![CDATA[ObjectBox is a high-performance, lightweight, NoSQL embedded database built specifically for Flutter and Dart applications. It provides reactive APIs, indexes, relationships, and migrations, all designed to make local data management smooth and effic...]]></summary>
+        <author>
+            <name>Atuoha Anthony</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SerpApi: A Complete API For Fetching Search Engine Data]]></title>
+        <id>https://smashingmagazine.com/2025/09/serpapi-complete-api-fetching-search-engine-data/</id>
+        <link href="https://smashingmagazine.com/2025/09/serpapi-complete-api-fetching-search-engine-data/"/>
+        <updated>2025-09-16T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[From competitive SEO research and monitoring prices to training AI and parsing local geographic data, real-time search results power smarter apps. Tools like SerpApi make it easy to pull, customize, and integrate this data directly into your app or website.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Preethi Sam)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Functional Personas With AI: A Lean, Practical Workflow]]></title>
+        <id>https://smashingmagazine.com/2025/09/functional-personas-ai-lean-practical-workflow/</id>
+        <link href="https://smashingmagazine.com/2025/09/functional-personas-ai-lean-practical-workflow/"/>
+        <updated>2025-09-16T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[For too long, personas have been created with considerable effort, only to offer limited value. Paul Boag shows how to breathe new life into this stale UX asset and demonstrates that it’s possible to create truly useful functional personas in a lightweight way.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Paul Boag)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Code Your Own Code Editor]]></title>
         <id>68c827a7023360e7e4bf5f8f</id>
