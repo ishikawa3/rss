@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-17T00:14:05.744Z</updated>
+    <updated>2025-09-18T00:13:44.981Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Is it Time to Un-Sass?]]></title>
+        <id>https://css-tricks.com/?p=389101</id>
+        <link href="https://css-tricks.com/is-it-time-to-un-sass/"/>
+        <updated>2025-09-17T14:02:25.000Z</updated>
+        <summary type="html"><![CDATA[Many of the Sass features we've grown to love have made their way into native CSS in some shape or form. So, should we still use Sass? This is how developer Jeff Bridgforth is thinking about it.
+Is it Time to Un-Sass? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Jeff Bridgforth</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use Loops in C#]]></title>
+        <id>68caa6382769a3737407de1b</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-loops-in-c/"/>
+        <updated>2025-09-17T12:14:48.000Z</updated>
+        <summary type="html"><![CDATA[Writing the same code repeatedly is poor practice in C# and doesn’t follow the Don’t Repeat Yourself (DRY) principle. But, there are many times in programming where you need to repeat commands, operations, or computations multiple times — perhaps cha...]]></summary>
+        <author>
+            <name>Grant Riordan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Use ObjectBox in Flutter]]></title>
         <id>68c9995460a5f06c06227f63</id>
@@ -966,57 +987,6 @@ Getting Creative With Images in Long-Form Content originally published on CSS-Tr
         <summary type="html"><![CDATA[Qwen3 is the cutting-edge series of large language models developed by Alibaba Cloud's Qwen team. The LLM is known for its advanced reasoning, multilingual support, and efficient hybrid "Thinking" and "Non-Thinking" modes. We just posted a course on ...]]></summary>
         <author>
             <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Creating a Real-Time Gesture-to-Text Translator Using Python and Mediapipe]]></title>
-        <id>68a331edf6c19271552e2ac7</id>
-        <link href="https://www.freecodecamp.org/news/create-a-real-time-gesture-to-text-translator/"/>
-        <updated>2025-08-18T14:00:13.000Z</updated>
-        <summary type="html"><![CDATA[Sign and symbol languages, like Makaton and American Sign Language (ASL), are powerful communication tools. However, they can create challenges when communicating with people who don't understand them. As a researcher working on AI for accessibility,...]]></summary>
-        <author>
-            <name>OMOTAYO OMOYEMI</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Deploy a Next.js API with PostgreSQL and Sevalla]]></title>
-        <id>68a33084f6c19271552e2ab0</id>
-        <link href="https://www.freecodecamp.org/news/how-to-deploy-a-nextjs-api-with-postgresql-and-sevalla/"/>
-        <updated>2025-08-18T13:54:12.000Z</updated>
-        <summary type="html"><![CDATA[When developers think of Next.js, they often associate it with SEO-friendly static websites or React-based frontends. But what many miss is how Next.js can also be used to build full-featured backend APIs – all within the same project. I’ve recently ...]]></summary>
-        <author>
-            <name>Manish Shivanandhan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build an Always Listening Network Connectivity Checker in Flutter using BLoC]]></title>
-        <id>68a3303851c175b42bcde7ff</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-an-always-listening-network-connectivity-checker-in-flutter-using-bloc/"/>
-        <updated>2025-08-18T13:52:56.000Z</updated>
-        <summary type="html"><![CDATA[Many mobile applications require a stable internet connection to provide a smooth user experience. And as a Flutter developer, you need a robust way to handle network state changes, ensuring that your app responds gracefully whether it's connected, d...]]></summary>
-        <author>
-            <name>Atuoha Anthony</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3D Layered Text: The Basics]]></title>
-        <id>https://css-tricks.com/?p=388313</id>
-        <link href="https://css-tricks.com/3d-layered-text-the-basics/"/>
-        <updated>2025-08-18T13:46:00.000Z</updated>
-        <summary type="html"><![CDATA[A client asked me to create a bulging text effect. With a bit of cleverness and some advanced CSS, I managed to get a result I’m genuinely proud of, which is covered in this three-part series.
-3D Layered Text: The Basics originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Amit Sheen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Beyond The Hype: What AI Can Really Do For Product Design]]></title>
-        <id>https://smashingmagazine.com/2025/08/beyond-hype-what-ai-can-do-product-design/</id>
-        <link href="https://smashingmagazine.com/2025/08/beyond-hype-what-ai-can-do-product-design/"/>
-        <updated>2025-08-18T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[AI tools are improving fast, but it’s still not clear how they fit into a real product design workflow. Nikita Samutin walks through four core stages — from analytics and ideation to prototyping and visual design — to show where AI fits and where it doesn’t, illustrated with real-world examples.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Nikita Samutin)</name>
         </author>
     </entry>
 </feed>
