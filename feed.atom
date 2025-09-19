@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-18T00:13:44.981Z</updated>
+    <updated>2025-09-19T00:14:05.802Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Introducing New freeCodeCamp Certifications in the Full Stack Developer Curriculum]]></title>
+        <id>68cc7258080e9a4dee6b7952</id>
+        <link href="https://www.freecodecamp.org/news/introducing-freecodecamp-checkpoint-certifications/"/>
+        <updated>2025-09-18T20:58:00.000Z</updated>
+        <summary type="html"><![CDATA[I'm a big fan of CompTIA and the rigor of their certifications. I wanted freeCodeCamp's new Full Stack Developer cert to be similarly rigorous. But I made one major miscalculation. I underestimated people's desire to earn certifications within less t...]]></summary>
+        <author>
+            <name>Quincy Larson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Master Authentication and Authorization in ASP.NET]]></title>
+        <id>68cc3e9e6c4695a8ff386d48</id>
+        <link href="https://www.freecodecamp.org/news/master-authentication-and-authorization-in-aspnet/"/>
+        <updated>2025-09-18T17:17:18.000Z</updated>
+        <summary type="html"><![CDATA[Securing modern web applications is an important skill for any developer, and a foundational part of this is understanding how to manage user access. We just posted new course on the freeCodeCamp.org that will teach you about authentication and autho...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Minimize The Environmental Impact Of Your Website]]></title>
+        <id>https://smashingmagazine.com/2025/09/how-minimize-environmental-impact-website/</id>
+        <link href="https://smashingmagazine.com/2025/09/how-minimize-environmental-impact-website/"/>
+        <updated>2025-09-18T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[As responsible digital professionals, we are becoming increasingly aware of the environmental impact of our work and need to find effective and pragmatic ways to reduce it. James Chudley shares a new decarbonising approach that will help you to minimise the environmental impact of your website, benefiting people, profit, purpose, performance, and the planet.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (James Chudley)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Multimodal Makaton-to-English Translator for Accessible Education]]></title>
+        <id>68cb5e6df1766dffdd20f610</id>
+        <link href="https://www.freecodecamp.org/news/build-a-multimodal-translator-for-accessible-education/"/>
+        <updated>2025-09-18T01:20:45.000Z</updated>
+        <summary type="html"><![CDATA[A year nine student walks into class full of ideas, but when it is time to contribute, the tools around them do not listen. Their speech is difficult for standard voice systems to recognise, typing feels slow and exhausting, and the lesson moves on w...]]></summary>
+        <author>
+            <name>OMOTAYO OMOYEMI</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Does Cosine Similarity Work? The Math Behind LLMs Explained]]></title>
+        <id>68cb5c87b90c34f2f16f5703</id>
+        <link href="https://www.freecodecamp.org/news/how-does-cosine-similarity-work/"/>
+        <updated>2025-09-18T01:12:39.000Z</updated>
+        <summary type="html"><![CDATA[When you talk to a large language model (LLM), it feels like the model understands meaning. But under the hood, the system relies on numbers, vectors, and math to find the relationships between words and sentences. One of the most important tools tha...]]></summary>
+        <author>
+            <name>Manish Shivanandhan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Is it Time to Un-Sass?]]></title>
         <id>https://css-tricks.com/?p=389101</id>
@@ -937,56 +987,6 @@ Getting Creative With Images in Long-Form Content originally published on CSS-Tr
 3D Layered Text: Motion and Variations originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Amit Sheen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Double-Edged Sustainability Sword Of AI In Web Design]]></title>
-        <id>https://smashingmagazine.com/2025/08/double-edged-sustainability-sword-ai-web-design/</id>
-        <link href="https://smashingmagazine.com/2025/08/double-edged-sustainability-sword-ai-web-design/"/>
-        <updated>2025-08-20T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[AI has introduced huge efficiencies for web designers and is frequently being touted as the key to unlocking sustainable design and development. But do these gains outweigh the environmental cost of using energy-hungry AI tools? This article is an examination of that question, breaking down the sustainability pros and cons of AI use, so you can make informed decisions about the tools you use.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Alex Williams)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What are Data Transfer Objects? Learn to Use DTOs in Your Java Spring-Based Projects]]></title>
-        <id>68a4ba42388ce2383306b9b3</id>
-        <link href="https://www.freecodecamp.org/news/what-are-dtos-java/"/>
-        <updated>2025-08-19T17:54:10.000Z</updated>
-        <summary type="html"><![CDATA[High performance and privacy are at the heart of most successful software systems. No one wants to use a software service that takes a ridiculous amount of time to load – and no company wants their users’ data exposed at the slightest vulnerability. ...]]></summary>
-        <author>
-            <name>Augustine Alul</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Convert Your Website into an Android App Using Bubblewrap]]></title>
-        <id>68a4b9d4f2bced8c3a658f5a</id>
-        <link href="https://www.freecodecamp.org/news/how-to-convert-your-website-into-an-android-app-using-bubblewrap/"/>
-        <updated>2025-08-19T17:52:20.000Z</updated>
-        <summary type="html"><![CDATA[If you are a web developer who doesn’t know about App Development (like me!), then this article is for you. I’ll teach you how to turn your website into a native app, without new frameworks or languages. You’ll learn how to convert a website to a PWA...]]></summary>
-        <author>
-            <name>Sanjay R</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Assign Unique IDs to Express API Requests for Tracing]]></title>
-        <id>68a4b96a7c0721701837c266</id>
-        <link href="https://www.freecodecamp.org/news/how-to-assign-unique-ids-to-express-api-requests-for-tracing/"/>
-        <updated>2025-08-19T17:50:34.000Z</updated>
-        <summary type="html"><![CDATA[The ability to track what happens with API requests is an important aspect of monitoring, tracing and debugging back-end applications. But how do you differentiate between the reports of two consecutive API requests to the same API endpoint? This art...]]></summary>
-        <author>
-            <name>Orim Dominic Adah</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Code and Train Qwen3 from Scratch]]></title>
-        <id>68a4849538274dba4af10263</id>
-        <link href="https://www.freecodecamp.org/news/code-and-train-qwen3-from-scratch/"/>
-        <updated>2025-08-19T14:05:09.000Z</updated>
-        <summary type="html"><![CDATA[Qwen3 is the cutting-edge series of large language models developed by Alibaba Cloud's Qwen team. The LLM is known for its advanced reasoning, multilingual support, and efficient hybrid "Thinking" and "Non-Thinking" modes. We just posted a course on ...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
         </author>
     </entry>
 </feed>

@@ -154,6 +154,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2025/09/how-minimize-environmental-impact-website/",
+          "author": "hello@smashingmagazine.com (James Chudley)",
+          "description": "As responsible digital professionals, we are becoming increasingly aware of the environmental impact of our work and need to find effective and pragmatic ways to reduce it. James Chudley shares a new decarbonising approach that will help you to minimise the environmental impact of your website, benefiting people, profit, purpose, performance, and the planet.",
+          "link": "https://smashingmagazine.com/2025/09/how-minimize-environmental-impact-website/",
+          "publishedOn": "2025-09-18T10:00:00.000Z",
+          "wordCount": 5711,
+          "title": "How To Minimize The Environmental Impact Of Your Website",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/how-minimize-environmental-impact-website/how-minimize-environmental-impact-website.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/how-minimize-environmental-impact-website/how-minimize-environmental-impact-website.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2025/09/serpapi-complete-api-fetching-search-engine-data/",
           "author": "hello@smashingmagazine.com (Preethi Sam)",
           "description": "From competitive SEO research and monitoring prices to training AI and parsing local geographic data, real-time search results power smarter apps. Tools like SerpApi make it easy to pull, customize, and integrate this data directly into your app or website.",
@@ -317,21 +332,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/week-in-life-ai-augmented-designer/week-in-life-ai-augmented-designer.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2025/08/double-edged-sustainability-sword-ai-web-design/",
-          "author": "hello@smashingmagazine.com (Alex Williams)",
-          "description": "AI has introduced huge efficiencies for web designers and is frequently being touted as the key to unlocking sustainable design and development. But do these gains outweigh the environmental cost of using energy-hungry AI tools? This article is an examination of that question, breaking down the sustainability pros and cons of AI use, so you can make informed decisions about the tools you use.",
-          "link": "https://smashingmagazine.com/2025/08/double-edged-sustainability-sword-ai-web-design/",
-          "publishedOn": "2025-08-20T10:00:00.000Z",
-          "wordCount": 4757,
-          "title": "The Double-Edged Sustainability Sword Of AI In Web Design",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/double-edged-sustainability-sword-ai-web-design/double-edged-sustainability-sword-ai-web-design.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/double-edged-sustainability-sword-ai-web-design/double-edged-sustainability-sword-ai-web-design.jpg"
         }
       ]
     },
@@ -340,6 +340,46 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "68cc7258080e9a4dee6b7952",
+          "author": "Quincy Larson",
+          "description": "I'm a big fan of CompTIA and the rigor of their certifications. I wanted freeCodeCamp's new Full Stack Developer cert to be similarly rigorous. But I made one major miscalculation. I underestimated people's desire to earn certifications within less t...",
+          "link": "https://www.freecodecamp.org/news/introducing-freecodecamp-checkpoint-certifications/",
+          "publishedOn": "2025-09-18T20:58:00.000Z",
+          "wordCount": 1851,
+          "title": "Introducing New freeCodeCamp Certifications in the Full Stack Developer Curriculum",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1758228730264/c1387e81-974b-4573-abe2-d07bff7d6ef7.png"
+        },
+        {
+          "id": "68cc3e9e6c4695a8ff386d48",
+          "author": "Beau Carnes",
+          "description": "Securing modern web applications is an important skill for any developer, and a foundational part of this is understanding how to manage user access. We just posted new course on the freeCodeCamp.org that will teach you about authentication and autho...",
+          "link": "https://www.freecodecamp.org/news/master-authentication-and-authorization-in-aspnet/",
+          "publishedOn": "2025-09-18T17:17:18.000Z",
+          "wordCount": 1083,
+          "title": "Master Authentication and Authorization in ASP.NET",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1758215813120/d8affc4d-1d5b-4a48-afe4-3f8f83c519b4.png"
+        },
+        {
+          "id": "68cb5e6df1766dffdd20f610",
+          "author": "OMOTAYO OMOYEMI",
+          "description": "A year nine student walks into class full of ideas, but when it is time to contribute, the tools around them do not listen. Their speech is difficult for standard voice systems to recognise, typing feels slow and exhausting, and the lesson moves on w...",
+          "link": "https://www.freecodecamp.org/news/build-a-multimodal-translator-for-accessible-education/",
+          "publishedOn": "2025-09-18T01:20:45.000Z",
+          "wordCount": 5205,
+          "title": "How to Build a Multimodal Makaton-to-English Translator for Accessible Education",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1758158024064/bf3d7dac-0231-450a-9b40-6abf43085e49.png"
+        },
+        {
+          "id": "68cb5c87b90c34f2f16f5703",
+          "author": "Manish Shivanandhan",
+          "description": "When you talk to a large language model (LLM), it feels like the model understands meaning. But under the hood, the system relies on numbers, vectors, and math to find the relationships between words and sentences. One of the most important tools tha...",
+          "link": "https://www.freecodecamp.org/news/how-does-cosine-similarity-work/",
+          "publishedOn": "2025-09-18T01:12:39.000Z",
+          "wordCount": 2331,
+          "title": "How Does Cosine Similarity Work? The Math Behind LLMs Explained",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1758157868492/7d242ca0-7721-4d25-93fb-2f0a6e319690.png"
+        },
         {
           "id": "68caa6382769a3737407de1b",
           "author": "Grant Riordan",
@@ -1019,46 +1059,6 @@
           "wordCount": 1060,
           "title": "Building an AI-Powered E-commerce Chat Assistant with MongoDB",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1755696350459/cb15e21b-789c-4107-b7f2-dc12d0df7d79.png"
-        },
-        {
-          "id": "68a4ba42388ce2383306b9b3",
-          "author": "Augustine Alul",
-          "description": "High performance and privacy are at the heart of most successful software systems. No one wants to use a software service that takes a ridiculous amount of time to load – and no company wants their users’ data exposed at the slightest vulnerability. ...",
-          "link": "https://www.freecodecamp.org/news/what-are-dtos-java/",
-          "publishedOn": "2025-08-19T17:54:10.000Z",
-          "wordCount": 3557,
-          "title": "What are Data Transfer Objects? Learn to Use DTOs in Your Java Spring-Based Projects",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1755626027353/feb7f6b6-4841-4559-a976-e73c708c7153.png"
-        },
-        {
-          "id": "68a4b9d4f2bced8c3a658f5a",
-          "author": "Sanjay R",
-          "description": "If you are a web developer who doesn’t know about App Development (like me!), then this article is for you. I’ll teach you how to turn your website into a native app, without new frameworks or languages. You’ll learn how to convert a website to a PWA...",
-          "link": "https://www.freecodecamp.org/news/how-to-convert-your-website-into-an-android-app-using-bubblewrap/",
-          "publishedOn": "2025-08-19T17:52:20.000Z",
-          "wordCount": 3197,
-          "title": "How to Convert Your Website into an Android App Using Bubblewrap",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1755625913612/bfffd5f9-f4d6-4f8d-aae8-72f5730bd7e9.png"
-        },
-        {
-          "id": "68a4b96a7c0721701837c266",
-          "author": "Orim Dominic Adah",
-          "description": "The ability to track what happens with API requests is an important aspect of monitoring, tracing and debugging back-end applications. But how do you differentiate between the reports of two consecutive API requests to the same API endpoint? This art...",
-          "link": "https://www.freecodecamp.org/news/how-to-assign-unique-ids-to-express-api-requests-for-tracing/",
-          "publishedOn": "2025-08-19T17:50:34.000Z",
-          "wordCount": 3114,
-          "title": "How to Assign Unique IDs to Express API Requests for Tracing",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1755625819738/b5d45868-c770-4878-8c49-63011507ef56.png"
-        },
-        {
-          "id": "68a4849538274dba4af10263",
-          "author": "Beau Carnes",
-          "description": "Qwen3 is the cutting-edge series of large language models developed by Alibaba Cloud's Qwen team. The LLM is known for its advanced reasoning, multilingual support, and efficient hybrid \"Thinking\" and \"Non-Thinking\" modes. We just posted a course on ...",
-          "link": "https://www.freecodecamp.org/news/code-and-train-qwen3-from-scratch/",
-          "publishedOn": "2025-08-19T14:05:09.000Z",
-          "wordCount": 1027,
-          "title": "Code and Train Qwen3 from Scratch",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1755612272947/659f3387-f93f-47b7-9b4b-fd12ae1b4c4c.png"
         }
       ]
     }
