@@ -2,10 +2,91 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-19T00:14:05.802Z</updated>
+    <updated>2025-09-20T00:13:35.260Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Tokenize Text in Python — Explained with Code Examples]]></title>
+        <id>68cdb0341432174e4c7f6898</id>
+        <link href="https://www.freecodecamp.org/news/how-to-tokenize-text-in-python/"/>
+        <updated>2025-09-19T19:34:12.000Z</updated>
+        <summary type="html"><![CDATA[When working with Python, you may need to perform a tokenization operation on a given text dataset. Tokenization is the process of breaking down text into smaller pieces, typically words or sentences, which are called tokens. These tokens can then be...]]></summary>
+        <author>
+            <name>AYUSH MISHRA</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn Chess and Become a Better Developer with Ihechikara Abba (ELO rating of 2285) [Podcast #189]]]></title>
+        <id>68cd6ffad57a0c65e2ff97bf</id>
+        <link href="https://www.freecodecamp.org/news/learn-chess-and-become-a-better-developer-with-ihechikara-abba-elo-rating-of-2285-podcast-189/"/>
+        <updated>2025-09-19T15:00:10.000Z</updated>
+        <summary type="html"><![CDATA[On this week's freeCodeCamp podcast we're talking with software engineer Ihechikara Abba, who has a chess ELO rating of 2285, putting him among top competitive chess players. We just published his freeCodeCamp course on chess end games, and an accomp...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Brief Introduction to SQLite]]></title>
+        <id>68cd625e82b856dadd4cceba</id>
+        <link href="https://www.freecodecamp.org/news/a-brief-introduction-to-sqlite/"/>
+        <updated>2025-09-19T14:02:06.000Z</updated>
+        <summary type="html"><![CDATA[SQLite is one of the most underappreciated tools in a developer's toolkit. It's a full-featured relational database that runs directly in your application. No server setup. No configuration files. No network protocols. Just a simple library that give...]]></summary>
+        <author>
+            <name>Mark Mahoney</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[On inclusive personas and inclusive user research]]></title>
+        <id>https://css-tricks.com/?p=389157</id>
+        <link href="https://css-tricks.com/on-inclusive-personas-and-inclusive-user-research/"/>
+        <updated>2025-09-19T13:58:37.000Z</updated>
+        <summary type="html"><![CDATA[A set of notes taken from Eric Bailey's article about the use of inclusive personas and user research.
+On inclusive personas and inclusive user research originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use Nano Banana for Image Generation - Explained with Code Examples]]></title>
+        <id>68cd5897ffbf18457f7bb85a</id>
+        <link href="https://www.freecodecamp.org/news/nano-banana-for-image-generation/"/>
+        <updated>2025-09-19T13:20:23.000Z</updated>
+        <summary type="html"><![CDATA[AI is changing the image generation and editing process into a smooth workflow. Now, with just a single prompt, you can tell your computer to generate or edit an existing image. Google just launched its new model for image generation or editing, "Nan...]]></summary>
+        <author>
+            <name>Tarun Singh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Store Data Locally with Isar in Flutter]]></title>
+        <id>68cd561cebc0d959d789d679</id>
+        <link href="https://www.freecodecamp.org/news/store-data-locally-with-isar-in-flutter/"/>
+        <updated>2025-09-19T13:09:48.000Z</updated>
+        <summary type="html"><![CDATA[When building Flutter applications, managing local data efficiently is critical. You want a database that is lightweight, fast, and easy to integrate, especially if your app will work offline. Isar is one such database. It is a high-performance, easy...]]></summary>
+        <author>
+            <name>Atuoha Anthony</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Psychology Of Trust In AI: A Guide To Measuring And Designing For User Confidence]]></title>
+        <id>https://smashingmagazine.com/2025/09/psychology-trust-ai-guide-measuring-designing-user-confidence/</id>
+        <link href="https://smashingmagazine.com/2025/09/psychology-trust-ai-guide-measuring-designing-user-confidence/"/>
+        <updated>2025-09-19T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[With digital products moving to incorporate generative and agentic AI at an increasingly frequent rate, trust has become the invisible user interface. When it works, interactions feel seamless. When it fails, the entire experience collapses. But trust isn’t mystical. It can be understood, measured, and designed for. Here are practical methods and strategies for designing more trustworthy and ethical AI systems.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Victor Yocco)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Prepare for the Databricks Data Engineer Associate Certification Exam – And Pass!]]></title>
+        <id>68cc9f07cb384618613c356d</id>
+        <link href="https://www.freecodecamp.org/news/prepare-for-the-databricks-data-engineer-associate-certification-exam-and-pass/"/>
+        <updated>2025-09-19T00:08:39.000Z</updated>
+        <summary type="html"><![CDATA[Prepare for the Databricks Data Engineer Associate Certification exam and pass! We just posted a new course from Andrew Brown on the freeCodeCamp.org YouTube channel that will help you earn the Databricks Data Engineer Associate Certification. This c...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Introducing New freeCodeCamp Certifications in the Full Stack Developer Curriculum]]></title>
         <id>68cc7258080e9a4dee6b7952</id>
@@ -916,77 +997,6 @@ Getting Creative With Images in Long-Form Content originally published on CSS-Tr
         <summary type="html"><![CDATA[Ready to turn your chess advantages into decisive victories? We've just released a new beginner-level course on the freeCodeCamp.org YouTube channel that focuses on the most important phase of the game: the endgame. This course is designed for player...]]></summary>
         <author>
             <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Set Up Firebase Crashlytics in a Flutter App (iOS and Android)]]></title>
-        <id>68a6656e9437c0afc5323dc1</id>
-        <link href="https://www.freecodecamp.org/news/how-to-set-up-firebase-crashlytics-in-a-flutter-app-ios-and-android/"/>
-        <updated>2025-08-21T00:16:46.000Z</updated>
-        <summary type="html"><![CDATA[When you’re building mobile applications, one of the biggest challenges you might face is ensuring stability in real-world usage. No matter how much testing you do, unexpected crashes are bound to occur. This is where Firebase Crashlytics becomes an ...]]></summary>
-        <author>
-            <name>Atuoha Anthony</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Tic Tac Toe Game with Phaser.js]]></title>
-        <id>68a62b1746588cd24055077f</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-a-tic-tac-toe-game-with-phaserjs/"/>
-        <updated>2025-08-20T20:07:51.000Z</updated>
-        <summary type="html"><![CDATA[Tic-Tac-Toe is a great project for beginners who want to learn how to build games. It’s simple to understand but gives you the chance to learn about game state, player turns, winning logic, and user input. In this tutorial, you’ll learn how to build ...]]></summary>
-        <author>
-            <name>Manish Shivanandhan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Deploy a Flutter Web App to Firebase Hosting with GitHub Actions]]></title>
-        <id>68a5fa7836e9cf6aec5e32db</id>
-        <link href="https://www.freecodecamp.org/news/how-to-deploy-a-flutter-web-app-to-firebase-hosting-with-github-actions/"/>
-        <updated>2025-08-20T16:40:24.000Z</updated>
-        <summary type="html"><![CDATA[Deploying a Flutter web app can feel repetitive if you’re doing it manually every time. GitHub Actions automates this by continuously deploying your app to Firebase Hosting whenever you push code to your repository. This guide walks you through setti...]]></summary>
-        <author>
-            <name>Atuoha Anthony</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn Key System Design Principles Behind High-Traffic Platforms Like Gaming and Job Discovery]]></title>
-        <id>68a5f915c3b51ce78e8f92b3</id>
-        <link href="https://www.freecodecamp.org/news/learn-key-system-design-principles-behind-high-traffic-platforms-like-gaming-and-job-discovery/"/>
-        <updated>2025-08-20T16:34:29.000Z</updated>
-        <summary type="html"><![CDATA[Over the last three months, life has had me juggling a lot – managing my marriage, taking care of family health issues, and overseeing new construction work at home. Somehow, I got through it all. But looking back, I realised something important: I c...]]></summary>
-        <author>
-            <name>Prankur Pandey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Brief Introduction to Ruby]]></title>
-        <id>68a5f79379e37ec1bf4b9b72</id>
-        <link href="https://www.freecodecamp.org/news/a-brief-introduction-to-ruby/"/>
-        <updated>2025-08-20T16:28:03.000Z</updated>
-        <summary type="html"><![CDATA[Ruby is a programming language designed with developer happiness in mind. Its elegant and intuitive syntax makes coding not only productive but also enjoyable. Ruby stands out with its powerful metaprogramming capabilities, allowing developers to tre...]]></summary>
-        <author>
-            <name>Mark Mahoney</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building an AI-Powered E-commerce Chat Assistant with MongoDB]]></title>
-        <id>68a5d65a03d81d59ec026535</id>
-        <link href="https://www.freecodecamp.org/news/building-an-ai-powered-e-commerce-chat-assistant-with-mongodb/"/>
-        <updated>2025-08-20T14:06:18.000Z</updated>
-        <summary type="html"><![CDATA[Chatbots should do more than just chat. We just published a new course on the freeCodeCamp.org YouTube channel that will teach you how to build a smart AI shopping assistant from the ground up. This comprehensive course, created by Ania Kubow, goes b...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3D Layered Text: Motion and Variations]]></title>
-        <id>https://css-tricks.com/?p=388394</id>
-        <link href="https://css-tricks.com/3d-layered-text-motion-and-variations/"/>
-        <updated>2025-08-20T13:54:52.000Z</updated>
-        <summary type="html"><![CDATA[In this chapter, we will explore ways to animate the effect, add transitions, and play with different variations. We will look at how motion can enhance depth, and how subtle tweaks can create a whole new vibe.
-3D Layered Text: Motion and Variations originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Amit Sheen</name>
         </author>
     </entry>
 </feed>

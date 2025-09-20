@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=389157",
+          "author": "Geoff Graham",
+          "description": "A set of notes taken from Eric Bailey's article about the use of inclusive personas and user research.\nOn inclusive personas and inclusive user research originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/on-inclusive-personas-and-inclusive-user-research/",
+          "publishedOn": "2025-09-19T13:58:37.000Z",
+          "wordCount": 2759,
+          "title": "On inclusive personas and inclusive user research",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2017/05/user-facing-state.png"
+        },
+        {
           "id": "https://css-tricks.com/?p=389101",
           "author": "Jeff Bridgforth",
           "description": "Many of the Sass features we've grown to love have made their way into native CSS in some shape or form. So, should we still use Sass? This is how developer Jeff Bridgforth is thinking about it.\nIs it Time to Un-Sass? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -135,16 +145,6 @@
           "wordCount": 4505,
           "title": "3D Layered Text: Interactivity and Dynamicism",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/07/bulging-text.jpg"
-        },
-        {
-          "id": "https://css-tricks.com/?p=388394",
-          "author": "Amit Sheen",
-          "description": "In this chapter, we will explore ways to animate the effect, add transitions, and play with different variations. We will look at how motion can enhance depth, and how subtle tweaks can create a whole new vibe.\n3D Layered Text: Motion and Variations originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/3d-layered-text-motion-and-variations/",
-          "publishedOn": "2025-08-20T13:54:52.000Z",
-          "wordCount": 3662,
-          "title": "3D Layered Text: Motion and Variations",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/07/bulging-text.jpg"
         }
       ]
     },
@@ -153,6 +153,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2025/09/psychology-trust-ai-guide-measuring-designing-user-confidence/",
+          "author": "hello@smashingmagazine.com (Victor Yocco)",
+          "description": "With digital products moving to incorporate generative and agentic AI at an increasingly frequent rate, trust has become the invisible user interface. When it works, interactions feel seamless. When it fails, the entire experience collapses. But trust isn’t mystical. It can be understood, measured, and designed for. Here are practical methods and strategies for designing more trustworthy and ethical AI systems.",
+          "link": "https://smashingmagazine.com/2025/09/psychology-trust-ai-guide-measuring-designing-user-confidence/",
+          "publishedOn": "2025-09-19T10:00:00.000Z",
+          "wordCount": 6955,
+          "title": "The Psychology Of Trust In AI: A Guide To Measuring And Designing For User Confidence",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/psychology-trust-ai-guide-measuring-designing-user-confidence/psychology-trust-ai-guide-measuring-designing-user-confidence.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/psychology-trust-ai-guide-measuring-designing-user-confidence/psychology-trust-ai-guide-measuring-designing-user-confidence.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2025/09/how-minimize-environmental-impact-website/",
           "author": "hello@smashingmagazine.com (James Chudley)",
@@ -340,6 +355,66 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "68cdb0341432174e4c7f6898",
+          "author": "AYUSH MISHRA",
+          "description": "When working with Python, you may need to perform a tokenization operation on a given text dataset. Tokenization is the process of breaking down text into smaller pieces, typically words or sentences, which are called tokens. These tokens can then be...",
+          "link": "https://www.freecodecamp.org/news/how-to-tokenize-text-in-python/",
+          "publishedOn": "2025-09-19T19:34:12.000Z",
+          "wordCount": 2196,
+          "title": "How to Tokenize Text in Python — Explained with Code Examples",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1758310289206/8af072cc-e3f1-4a33-a578-c130b2ae9b11.png"
+        },
+        {
+          "id": "68cd6ffad57a0c65e2ff97bf",
+          "author": "Beau Carnes",
+          "description": "On this week's freeCodeCamp podcast we're talking with software engineer Ihechikara Abba, who has a chess ELO rating of 2285, putting him among top competitive chess players. We just published his freeCodeCamp course on chess end games, and an accomp...",
+          "link": "https://www.freecodecamp.org/news/learn-chess-and-become-a-better-developer-with-ihechikara-abba-elo-rating-of-2285-podcast-189/",
+          "publishedOn": "2025-09-19T15:00:10.000Z",
+          "wordCount": 1347,
+          "title": "Learn Chess and Become a Better Developer with Ihechikara Abba (ELO rating of 2285) [Podcast #189]",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1758244898637/3c48535e-2cbb-4524-a20b-b74228203816.png"
+        },
+        {
+          "id": "68cd625e82b856dadd4cceba",
+          "author": "Mark Mahoney",
+          "description": "SQLite is one of the most underappreciated tools in a developer's toolkit. It's a full-featured relational database that runs directly in your application. No server setup. No configuration files. No network protocols. Just a simple library that give...",
+          "link": "https://www.freecodecamp.org/news/a-brief-introduction-to-sqlite/",
+          "publishedOn": "2025-09-19T14:02:06.000Z",
+          "wordCount": 1640,
+          "title": "A Brief Introduction to SQLite",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1758290415152/439fa61c-9342-47cb-867a-0416fe6bd6cf.png"
+        },
+        {
+          "id": "68cd5897ffbf18457f7bb85a",
+          "author": "Tarun Singh",
+          "description": "AI is changing the image generation and editing process into a smooth workflow. Now, with just a single prompt, you can tell your computer to generate or edit an existing image. Google just launched its new model for image generation or editing, \"Nan...",
+          "link": "https://www.freecodecamp.org/news/nano-banana-for-image-generation/",
+          "publishedOn": "2025-09-19T13:20:23.000Z",
+          "wordCount": 3029,
+          "title": "How to Use Nano Banana for Image Generation - Explained with Code Examples",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1758287738949/b33b68f4-0e84-46df-a85f-9ff6aacfd72c.png"
+        },
+        {
+          "id": "68cd561cebc0d959d789d679",
+          "author": "Atuoha Anthony",
+          "description": "When building Flutter applications, managing local data efficiently is critical. You want a database that is lightweight, fast, and easy to integrate, especially if your app will work offline. Isar is one such database. It is a high-performance, easy...",
+          "link": "https://www.freecodecamp.org/news/store-data-locally-with-isar-in-flutter/",
+          "publishedOn": "2025-09-19T13:09:48.000Z",
+          "wordCount": 2017,
+          "title": "How to Store Data Locally with Isar in Flutter",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1758287132737/7886bedc-374f-401d-b59c-04c59590e81f.png"
+        },
+        {
+          "id": "68cc9f07cb384618613c356d",
+          "author": "Beau Carnes",
+          "description": "Prepare for the Databricks Data Engineer Associate Certification exam and pass! We just posted a new course from Andrew Brown on the freeCodeCamp.org YouTube channel that will help you earn the Databricks Data Engineer Associate Certification. This c...",
+          "link": "https://www.freecodecamp.org/news/prepare-for-the-databricks-data-engineer-associate-certification-exam-and-pass/",
+          "publishedOn": "2025-09-19T00:08:39.000Z",
+          "wordCount": 1108,
+          "title": "Prepare for the Databricks Data Engineer Associate Certification Exam – And Pass!",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1758240485028/92a6e945-7b24-44d5-a9ff-3702f2db7a2d.png"
+        },
         {
           "id": "68cc7258080e9a4dee6b7952",
           "author": "Quincy Larson",
@@ -999,66 +1074,6 @@
           "wordCount": 1015,
           "title": "How to Checkmate in Chess",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1755784539541/bb6f83bc-9236-4fa5-aa5a-2168bf03cda7.png"
-        },
-        {
-          "id": "68a6656e9437c0afc5323dc1",
-          "author": "Atuoha Anthony",
-          "description": "When you’re building mobile applications, one of the biggest challenges you might face is ensuring stability in real-world usage. No matter how much testing you do, unexpected crashes are bound to occur. This is where Firebase Crashlytics becomes an ...",
-          "link": "https://www.freecodecamp.org/news/how-to-set-up-firebase-crashlytics-in-a-flutter-app-ios-and-android/",
-          "publishedOn": "2025-08-21T00:16:46.000Z",
-          "wordCount": 3282,
-          "title": "How to Set Up Firebase Crashlytics in a Flutter App (iOS and Android)",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1755735394033/aa70989a-2653-4f36-a8bf-fbf953d09512.png"
-        },
-        {
-          "id": "68a62b1746588cd24055077f",
-          "author": "Manish Shivanandhan",
-          "description": "Tic-Tac-Toe is a great project for beginners who want to learn how to build games. It’s simple to understand but gives you the chance to learn about game state, player turns, winning logic, and user input. In this tutorial, you’ll learn how to build ...",
-          "link": "https://www.freecodecamp.org/news/how-to-build-a-tic-tac-toe-game-with-phaserjs/",
-          "publishedOn": "2025-08-20T20:07:51.000Z",
-          "wordCount": 2474,
-          "title": "How to Build a Tic Tac Toe Game with Phaser.js",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1755720429987/ba7670ba-12b0-4c0a-a09b-80936ba1a023.png"
-        },
-        {
-          "id": "68a5fa7836e9cf6aec5e32db",
-          "author": "Atuoha Anthony",
-          "description": "Deploying a Flutter web app can feel repetitive if you’re doing it manually every time. GitHub Actions automates this by continuously deploying your app to Firebase Hosting whenever you push code to your repository. This guide walks you through setti...",
-          "link": "https://www.freecodecamp.org/news/how-to-deploy-a-flutter-web-app-to-firebase-hosting-with-github-actions/",
-          "publishedOn": "2025-08-20T16:40:24.000Z",
-          "wordCount": 1809,
-          "title": "How to Deploy a Flutter Web App to Firebase Hosting with GitHub Actions",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1755708006335/0ab99f10-4df5-4fbf-b293-6a6fef1bcade.png"
-        },
-        {
-          "id": "68a5f915c3b51ce78e8f92b3",
-          "author": "Prankur Pandey",
-          "description": "Over the last three months, life has had me juggling a lot – managing my marriage, taking care of family health issues, and overseeing new construction work at home. Somehow, I got through it all. But looking back, I realised something important: I c...",
-          "link": "https://www.freecodecamp.org/news/learn-key-system-design-principles-behind-high-traffic-platforms-like-gaming-and-job-discovery/",
-          "publishedOn": "2025-08-20T16:34:29.000Z",
-          "wordCount": 6862,
-          "title": "Learn Key System Design Principles Behind High-Traffic Platforms Like Gaming and Job Discovery",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1755707525928/f4a02c14-fe62-4d6f-9afc-d887d45a98d4.png"
-        },
-        {
-          "id": "68a5f79379e37ec1bf4b9b72",
-          "author": "Mark Mahoney",
-          "description": "Ruby is a programming language designed with developer happiness in mind. Its elegant and intuitive syntax makes coding not only productive but also enjoyable. Ruby stands out with its powerful metaprogramming capabilities, allowing developers to tre...",
-          "link": "https://www.freecodecamp.org/news/a-brief-introduction-to-ruby/",
-          "publishedOn": "2025-08-20T16:28:03.000Z",
-          "wordCount": 1440,
-          "title": "A Brief Introduction to Ruby",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1755707266513/270f71d0-0e56-46f6-bba1-7b369dd97f1d.png"
-        },
-        {
-          "id": "68a5d65a03d81d59ec026535",
-          "author": "Beau Carnes",
-          "description": "Chatbots should do more than just chat. We just published a new course on the freeCodeCamp.org YouTube channel that will teach you how to build a smart AI shopping assistant from the ground up. This comprehensive course, created by Ania Kubow, goes b...",
-          "link": "https://www.freecodecamp.org/news/building-an-ai-powered-e-commerce-chat-assistant-with-mongodb/",
-          "publishedOn": "2025-08-20T14:06:18.000Z",
-          "wordCount": 1060,
-          "title": "Building an AI-Powered E-commerce Chat Assistant with MongoDB",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1755696350459/cb15e21b-789c-4107-b7f2-dc12d0df7d79.png"
         }
       ]
     }
