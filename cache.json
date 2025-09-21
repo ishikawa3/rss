@@ -332,21 +332,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/optimizing-pwas-different-display-modes/optimizing-pwas-different-display-modes.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2025/08/week-in-life-ai-augmented-designer/",
-          "author": "hello@smashingmagazine.com (Lyndon Cerejo)",
-          "description": "If you are new to using AI in design or curious about integrating AI into your UX process without losing your human touch, this article offers a grounded, day-by-day look at introducing AI into your design workflow.",
-          "link": "https://smashingmagazine.com/2025/08/week-in-life-ai-augmented-designer/",
-          "publishedOn": "2025-08-22T08:00:00.000Z",
-          "wordCount": 7499,
-          "title": "A Week In The Life Of An AI-Augmented Designer",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/week-in-life-ai-augmented-designer/week-in-life-ai-augmented-designer.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/week-in-life-ai-augmented-designer/week-in-life-ai-augmented-designer.jpg"
         }
       ]
     },
@@ -355,6 +340,16 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "68cde1bb85ffecd5a404fc5f",
+          "author": "Oladeji Oluwaseun",
+          "description": "Good documentation is the backbone of a supported and empowered community. From the moment someone new joins and finds a clear guide to get started, to the experienced member who can quickly find a process, well-organized information saves everyone t...",
+          "link": "https://www.freecodecamp.org/news/how-to-create-documentation-that-helps-your-tech-community-grow/",
+          "publishedOn": "2025-09-19T23:05:31.000Z",
+          "wordCount": 2919,
+          "title": "How to Create Documentation that Helps Your Tech Community Grow",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1758323106904/8b5b31a1-1392-4376-b7d5-126909eb944f.png"
+        },
         {
           "id": "68cdb0341432174e4c7f6898",
           "author": "AYUSH MISHRA",
@@ -1034,46 +1029,6 @@
           "wordCount": 1044,
           "title": "From Hospital Janitor to Developer with Emmett Naughton [Podcast #185]",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1755872500482/61d89f03-3b6f-4c86-9f70-695decea0e9d.png"
-        },
-        {
-          "id": "68a85abd010317ca95b5506e",
-          "author": "Ijeoma Igboagu",
-          "description": "AWS makes it much easier to deploy containerized applications, and running Kubernetes in the cloud is a powerful way to scale and manage these applications. Among the many managed Kubernetes services AWS offers, Amazon EKS (Elastic Kubernetes Service...",
-          "link": "https://www.freecodecamp.org/news/how-to-deploy-a-kubernetes-app-on-aws-eks/",
-          "publishedOn": "2025-08-22T11:55:41.000Z",
-          "wordCount": 2261,
-          "title": "How to Deploy a Kubernetes App on AWS EKS",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1755863277691/28937c4d-5862-464d-84a1-dfab01a577bb.png"
-        },
-        {
-          "id": "68a796b236a9f930ef67366b",
-          "author": "Atuoha Anthony",
-          "description": "GitHub Actions is a CI/CD (Continuous Integration and Continuous Deployment) tool built directly into GitHub. It allows developers to define workflows, which are sequences of automated steps triggered by events such as pushing code, opening pull requ...",
-          "link": "https://www.freecodecamp.org/news/how-to-automate-flutter-testing-and-builds-with-github-actions-for-android-and-ios/",
-          "publishedOn": "2025-08-21T21:59:14.000Z",
-          "wordCount": 2624,
-          "title": "How to Automate Flutter Testing and Builds with GitHub Actions for Android and iOS",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1755808732085/6fdd754a-39d4-40d1-8dea-0eb16cc45063.png"
-        },
-        {
-          "id": "68a72ee03bbf12346853dce9",
-          "author": "Ihechikara Abba",
-          "description": "After learning the rules and basics of chess, there are various concepts that beginners should learn in order to keep improving. Some of these concepts include opening principles, middle game concepts, endgame fundamentals, and strategy. In this hand...",
-          "link": "https://www.freecodecamp.org/news/checkmate-patterns-in-chess-for-beginners/",
-          "publishedOn": "2025-08-21T14:36:16.000Z",
-          "wordCount": 7660,
-          "title": "Checkmate Patterns in Chess for Beginners",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1755720597720/2bb80910-7697-45e2-8163-dbfb73b4998f.png"
-        },
-        {
-          "id": "68a725840cbb7e6465d8f441",
-          "author": "Beau Carnes",
-          "description": "Ready to turn your chess advantages into decisive victories? We've just released a new beginner-level course on the freeCodeCamp.org YouTube channel that focuses on the most important phase of the game: the endgame. This course is designed for player...",
-          "link": "https://www.freecodecamp.org/news/how-to-checkmate-in-chess/",
-          "publishedOn": "2025-08-21T13:56:20.000Z",
-          "wordCount": 1015,
-          "title": "How to Checkmate in Chess",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1755784539541/bb6f83bc-9236-4fa5-aa5a-2168bf03cda7.png"
         }
       ]
     }

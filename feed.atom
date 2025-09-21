@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-20T00:13:35.260Z</updated>
+    <updated>2025-09-21T00:15:32.133Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Create Documentation that Helps Your Tech Community Grow]]></title>
+        <id>68cde1bb85ffecd5a404fc5f</id>
+        <link href="https://www.freecodecamp.org/news/how-to-create-documentation-that-helps-your-tech-community-grow/"/>
+        <updated>2025-09-19T23:05:31.000Z</updated>
+        <summary type="html"><![CDATA[Good documentation is the backbone of a supported and empowered community. From the moment someone new joins and finds a clear guide to get started, to the experienced member who can quickly find a process, well-organized information saves everyone t...]]></summary>
+        <author>
+            <name>Oladeji Oluwaseun</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Tokenize Text in Python — Explained with Code Examples]]></title>
         <id>68cdb0341432174e4c7f6898</id>
@@ -947,56 +957,6 @@ Getting Creative With Images in Long-Form Content originally published on CSS-Tr
 3D Layered Text: Interactivity and Dynamicism originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Amit Sheen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Deploy a Kubernetes App on AWS EKS]]></title>
-        <id>68a85abd010317ca95b5506e</id>
-        <link href="https://www.freecodecamp.org/news/how-to-deploy-a-kubernetes-app-on-aws-eks/"/>
-        <updated>2025-08-22T11:55:41.000Z</updated>
-        <summary type="html"><![CDATA[AWS makes it much easier to deploy containerized applications, and running Kubernetes in the cloud is a powerful way to scale and manage these applications. Among the many managed Kubernetes services AWS offers, Amazon EKS (Elastic Kubernetes Service...]]></summary>
-        <author>
-            <name>Ijeoma Igboagu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Week In The Life Of An AI-Augmented Designer]]></title>
-        <id>https://smashingmagazine.com/2025/08/week-in-life-ai-augmented-designer/</id>
-        <link href="https://smashingmagazine.com/2025/08/week-in-life-ai-augmented-designer/"/>
-        <updated>2025-08-22T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[If you are new to using AI in design or curious about integrating AI into your UX process without losing your human touch, this article offers a grounded, day-by-day look at introducing AI into your design workflow.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Lyndon Cerejo)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Automate Flutter Testing and Builds with GitHub Actions for Android and iOS]]></title>
-        <id>68a796b236a9f930ef67366b</id>
-        <link href="https://www.freecodecamp.org/news/how-to-automate-flutter-testing-and-builds-with-github-actions-for-android-and-ios/"/>
-        <updated>2025-08-21T21:59:14.000Z</updated>
-        <summary type="html"><![CDATA[GitHub Actions is a CI/CD (Continuous Integration and Continuous Deployment) tool built directly into GitHub. It allows developers to define workflows, which are sequences of automated steps triggered by events such as pushing code, opening pull requ...]]></summary>
-        <author>
-            <name>Atuoha Anthony</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Checkmate Patterns in Chess for Beginners]]></title>
-        <id>68a72ee03bbf12346853dce9</id>
-        <link href="https://www.freecodecamp.org/news/checkmate-patterns-in-chess-for-beginners/"/>
-        <updated>2025-08-21T14:36:16.000Z</updated>
-        <summary type="html"><![CDATA[After learning the rules and basics of chess, there are various concepts that beginners should learn in order to keep improving. Some of these concepts include opening principles, middle game concepts, endgame fundamentals, and strategy. In this hand...]]></summary>
-        <author>
-            <name>Ihechikara Abba</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Checkmate in Chess]]></title>
-        <id>68a725840cbb7e6465d8f441</id>
-        <link href="https://www.freecodecamp.org/news/how-to-checkmate-in-chess/"/>
-        <updated>2025-08-21T13:56:20.000Z</updated>
-        <summary type="html"><![CDATA[Ready to turn your chess advantages into decisive victories? We've just released a new beginner-level course on the freeCodeCamp.org YouTube channel that focuses on the most important phase of the game: the endgame. This course is designed for player...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
         </author>
     </entry>
 </feed>
