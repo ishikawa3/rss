@@ -135,16 +135,6 @@
           "wordCount": 3068,
           "title": "Getting Creative With Images in Long-Form Content",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/08/image-long-form-content-caption.jpg"
-        },
-        {
-          "id": "https://css-tricks.com/?p=388459",
-          "author": "Amit Sheen",
-          "description": "In this third and final chapter, we’re stepping into interactivity by adding JavaScript, starting with a simple :hover effect, and ending with a fully responsive bulging text that follows your mouse in real time.\n3D Layered Text: Interactivity and Dynamicism originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/3d-layered-text-interactivity-and-dynamism/",
-          "publishedOn": "2025-08-22T13:14:31.000Z",
-          "wordCount": 4505,
-          "title": "3D Layered Text: Interactivity and Dynamicism",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/07/bulging-text.jpg"
         }
       ]
     },
@@ -1019,16 +1009,6 @@
           "wordCount": 1943,
           "title": "How Bag of Words Works – The Foundation of Language Models",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1756127722792/e047e9d2-91ae-42f6-85d9-106260ddf432.png"
-        },
-        {
-          "id": "68a87d25d6d093f534c090ff",
-          "author": "Beau Carnes",
-          "description": "On this week's episode of the podcast, freeCodeCamp founder Quincy Larson interviews Emmett Naughton. He worked as hospital janitor for years while teaching himself programming using freeCodeCamp. He's founder of Coder Dads, a chat community where da...",
-          "link": "https://www.freecodecamp.org/news/from-hospital-janitor-to-developer-with-emmett-naughton-podcast-185/",
-          "publishedOn": "2025-08-22T14:22:29.000Z",
-          "wordCount": 1044,
-          "title": "From Hospital Janitor to Developer with Emmett Naughton [Podcast #185]",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1755872500482/61d89f03-3b6f-4c86-9f70-695decea0e9d.png"
         }
       ]
     }
