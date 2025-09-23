@@ -144,6 +144,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2025/09/ambient-animations-web-design-principles-implementation/",
+          "author": "hello@smashingmagazine.com (Andy Clarke)",
+          "description": "Creating motion can be tricky. Too much and it’s distracting. Too little and a design feels flat. Ambient animations are the middle ground — subtle, slow-moving details that add atmosphere without stealing the show. In this article, web design pioneer Andy Clarke introduces the concept of ambient animations and explains how to implement them.",
+          "link": "https://smashingmagazine.com/2025/09/ambient-animations-web-design-principles-implementation/",
+          "publishedOn": "2025-09-22T13:00:00.000Z",
+          "wordCount": 4545,
+          "title": "Ambient Animations In Web Design: Principles And Implementation (Part 1)",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/ambient-animations-web-design-principles-implementation/ambient-animations-web-design-principles-implementation.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/ambient-animations-web-design-principles-implementation/ambient-animations-web-design-principles-implementation.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2025/09/psychology-trust-ai-guide-measuring-designing-user-confidence/",
           "author": "hello@smashingmagazine.com (Victor Yocco)",
           "description": "With digital products moving to incorporate generative and agentic AI at an increasingly frequent rate, trust has become the invisible user interface. When it works, interactions feel seamless. When it fails, the entire experience collapses. But trust isn’t mystical. It can be understood, measured, and designed for. Here are practical methods and strategies for designing more trustworthy and ethical AI systems.",
@@ -330,6 +345,16 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "68d15f138a2020e83f638df2",
+          "author": "Beau Carnes",
+          "description": "Looking to get hands-on with AI? We just posted a comprehensive course on the freeCodeCamp.org YouTube channel designed to help you build powerful AI agent applications. Led by Cerebras growth engineer Sarah Chieng alongside industry experts from Exa...",
+          "link": "https://www.freecodecamp.org/news/how-to-build-advanced-ai-agents/",
+          "publishedOn": "2025-09-22T14:37:07.000Z",
+          "wordCount": 1323,
+          "title": "How to Build Advanced AI Agents",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1756320252743/70d3c437-c76b-4919-bb09-2ac57da55bc5.png"
+        },
         {
           "id": "68cde1bb85ffecd5a404fc5f",
           "author": "Oladeji Oluwaseun",
