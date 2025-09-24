@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-23T00:14:25.331Z</updated>
+    <updated>2025-09-24T00:14:29.266Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Optimize Search in JavaScript with Debouncing]]></title>
+        <id>68d2d63ab7bb607e13c45cf4</id>
+        <link href="https://www.freecodecamp.org/news/optimize-search-in-javascript-with-debouncing/"/>
+        <updated>2025-09-23T17:17:46.000Z</updated>
+        <summary type="html"><![CDATA[A few months ago, my manager assigned me a task: implement a search functionality across an entire page. The tricky part was that the displayed text was shown in the form of prompts, and each prompt could be truncated after two lines. If the text exc...]]></summary>
+        <author>
+            <name>Ajay Yadav</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Code an LLM From Scratch – Theory to RLHF]]></title>
+        <id>68d29469c234e0ab00c1b00a</id>
+        <link href="https://www.freecodecamp.org/news/code-an-llm-from-scratch-theory-to-rlhf/"/>
+        <updated>2025-09-23T12:36:57.000Z</updated>
+        <summary type="html"><![CDATA[How do LLMs actually work? We just posted a course on the freeCodeCamp.org YouTube channel that will teach you how to build a large language model from scratch using pure PyTorch. This isn't your typical course that just scratches the surface. It’s a...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Integrate Facial Recognition Authentication in a Social App with Face API]]></title>
+        <id>68d20d7a6bd072175081e6b2</id>
+        <link href="https://www.freecodecamp.org/news/integrate-facial-recognition-authentication-in-a-social-application/"/>
+        <updated>2025-09-23T03:01:14.000Z</updated>
+        <summary type="html"><![CDATA[Social applications have evolved over the years, and there is a major need for secure methods to authenticate users' identities. Integrating multifactor authentication capabilities into applications is crucial for strengthening their integrity. In so...]]></summary>
+        <author>
+            <name>Oluwatobi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Clerk vs Kinde vs Better Auth: How to Choose the Right Next.js Authentication Library]]></title>
+        <id>68d2074ea281a4364a16d324</id>
+        <link href="https://www.freecodecamp.org/news/how-to-choose-the-right-nextjs-authentication-library/"/>
+        <updated>2025-09-23T02:34:54.000Z</updated>
+        <summary type="html"><![CDATA[Authentication is an important aspect when building applications, especially if they hold financial information or require users to sign into accounts. Building an auth library can be a lot of work, and there is no need to reinvent the wheel when so ...]]></summary>
+        <author>
+            <name>Andrew Baisden</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Build Advanced AI Agents]]></title>
         <id>68d15f138a2020e83f638df2</id>
