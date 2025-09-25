@@ -2,10 +2,71 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-24T00:14:29.266Z</updated>
+    <updated>2025-09-25T00:14:36.164Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Publish an npm Package - Explained with Examples]]></title>
+        <id>68d44cc07b532bf921e47213</id>
+        <link href="https://www.freecodecamp.org/news/how-to-publish-an-npm-package/"/>
+        <updated>2025-09-24T19:55:44.000Z</updated>
+        <summary type="html"><![CDATA[If you’ve spent any time working with JavaScript, you’ve most likely come across npm—whether installing packages like Express, Lodash, or React, or running commands like npm init. While using npm is second nature for many JavaScript developers, some ...]]></summary>
+        <author>
+            <name>Ikegah Oliver</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Implement Dependency Injection in Go - Explained with Code Examples]]></title>
+        <id>68d44505e26e6f1a24c44ba9</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-dependency-injection-in-go/"/>
+        <updated>2025-09-24T19:22:45.000Z</updated>
+        <summary type="html"><![CDATA[Regardless of their initial size or scope, projects tend to grow in complexity over time. As new features are added and requirements evolve, the number of components and the connections between them multiply. Services, handlers, repositories, externa...]]></summary>
+        <author>
+            <name>Gabor Koos</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Fix Memory Leaks in React Applications]]></title>
+        <id>68d443c623251efd1f372d02</id>
+        <link href="https://www.freecodecamp.org/news/fix-memory-leaks-in-react-apps/"/>
+        <updated>2025-09-24T19:17:26.000Z</updated>
+        <summary type="html"><![CDATA[Have you ever noticed your React application getting slower the longer you use it? This could be a result of memory leaks. Memory leaks are a common performance issue in React applications. They can slow down your application, crash your browser, and...]]></summary>
+        <author>
+            <name>Olaleye Blessing</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Does a Creative Technologist Do?]]></title>
+        <id>68d43e64c21b03de37bb4dce</id>
+        <link href="https://www.freecodecamp.org/news/what-does-a-creative-technologist-do/"/>
+        <updated>2025-09-24T18:54:28.000Z</updated>
+        <summary type="html"><![CDATA[On paper, I studied computer science. However, most of my passions were artistic: writing, storytelling, and content creation. Over time, I found myself blending both worlds without recognizing it. Then I came across the term Creative Technologist an...]]></summary>
+        <author>
+            <name>Ifeoma Udu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intent Prototyping: The Allure And Danger Of Pure Vibe Coding In Enterprise UX (Part 1)]]></title>
+        <id>https://smashingmagazine.com/2025/09/intent-prototyping-pure-vibe-coding-enterprise-ux/</id>
+        <link href="https://smashingmagazine.com/2025/09/intent-prototyping-pure-vibe-coding-enterprise-ux/"/>
+        <updated>2025-09-24T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Yegor Gilyov examines the problem of over-reliance on static high-fidelity mockups, which often leave the conceptual model and user flows dangerously underdeveloped. He then explores whether AI-powered prototyping is the answer, questioning whether the path forward is the popular “vibe coding” approach or a more structured, intent-driven approach.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Yegor Gilyov)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSS Typed Arithmetic]]></title>
+        <id>https://css-tricks.com/?p=389371</id>
+        <link href="https://css-tricks.com/css-typed-arithmetic/"/>
+        <updated>2025-09-24T12:49:22.000Z</updated>
+        <summary type="html"><![CDATA[Starting in Chrome 140, we'll be able to calculate numeric values with mixed data types. Sounds small, but Amit demonstrates how big a deal this is, calling it Computational CSS.
+CSS Typed Arithmetic originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Amit Sheen</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Optimize Search in JavaScript with Debouncing]]></title>
         <id>68d2d63ab7bb607e13c45cf4</id>
@@ -945,57 +1006,6 @@ A Radio Button Shopping Cart Trick originally published on CSS-Tricks, which is 
         <summary type="html"><![CDATA[Let’s say you’ve built a fantastic machine learning model that performs beautifully in notebooks. But a model isn’t truly valuable until it’s in production, serving real users and solving real problems. In this article, you’ll learn how to ship a pro...]]></summary>
         <author>
             <name>Kuriko Iwai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Optimizing PWAs For Different Display Modes]]></title>
-        <id>https://smashingmagazine.com/2025/08/optimizing-pwas-different-display-modes/</id>
-        <link href="https://smashingmagazine.com/2025/08/optimizing-pwas-different-display-modes/"/>
-        <updated>2025-08-26T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Progressive Web Apps (PWAs) are a great way to make apps built for the web feel native, but in moving away from a browser environment, we can introduce usability issues. This article covers how we can modify our app depending on what display mode is applied to mitigate these issues.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Declan Chidlow)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build an Advice Generator Chrome Extension with Manifest V3]]></title>
-        <id>68acc54701889f3eebbb5f25</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-an-advice-generator-chrome-extension-with-manifest-v3/"/>
-        <updated>2025-08-25T20:19:19.000Z</updated>
-        <summary type="html"><![CDATA[In 2025, using Chrome without extensions is like using a smartphone without apps. It’s possible, but you’re missing out on a lot. And despite how essential extensions are, creating one is very simple – it’s just HTML, CSS, and JavaScript with browser...]]></summary>
-        <author>
-            <name>Ophy Boamah</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Getting Creative With Images in Long-Form Content]]></title>
-        <id>https://css-tricks.com/?p=388519</id>
-        <link href="https://css-tricks.com/getting-creative-with-images-in-long-form-content/"/>
-        <updated>2025-08-25T17:16:35.000Z</updated>
-        <summary type="html"><![CDATA[Images in long-form content can (and often should) do more than illustrate. They help set the pace, influence how readers feel, and add character that words alone can’t always convey.
-Getting Creative With Images in Long-Form Content originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Andy Clarke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How WebGL and Three.js Power Interactive Online Stores]]></title>
-        <id>68ac8e669a85df841d9f286d</id>
-        <link href="https://www.freecodecamp.org/news/how-webgl-and-threejs-power-interactive-online-stores/"/>
-        <updated>2025-08-25T16:25:10.000Z</updated>
-        <summary type="html"><![CDATA[When online shopping first took off, product pages were built around a few static images and maybe a zoom feature. That was enough back then. But today’s customers expect far more. They want to spin a sneaker around, preview a sofa in their living ro...]]></summary>
-        <author>
-            <name>Ajay Kalal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Bag of Words Works – The Foundation of Language Models]]></title>
-        <id>68ac62884c5ca5b261e8abc3</id>
-        <link href="https://www.freecodecamp.org/news/how-bag-of-words-works/"/>
-        <updated>2025-08-25T13:18:00.000Z</updated>
-        <summary type="html"><![CDATA[When people talk about modern AI, they often point to large language models like ChatGPT. These models seem smart, as they’re able to write, answer, and explain in natural language. But the roots of this technology go back to something very simple: t...]]></summary>
-        <author>
-            <name>Manish Shivanandhan</name>
         </author>
     </entry>
 </feed>

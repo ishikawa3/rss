@@ -12,6 +12,21 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=389371",
+          "author": "Amit Sheen",
+          "description": "Starting in Chrome 140, we'll be able to calculate numeric values with mixed data types. Sounds small, but Amit demonstrates how big a deal this is, calling it Computational CSS.\nCSS Typed Arithmetic originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/css-typed-arithmetic/",
+          "publishedOn": "2025-09-24T12:49:22.000Z",
+          "wordCount": 3970,
+          "title": "CSS Typed Arithmetic",
+          "enclosure": {
+            "url": "https://css-tricks.com/wp-content/uploads/2025/09/swirl.mp4",
+            "length": "14785658",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/09/css-types-arithmetic.png"
+        },
+        {
           "id": "https://css-tricks.com/?p=389157",
           "author": "Geoff Graham",
           "description": "A set of notes taken from Eric Bailey's article about the use of inclusive personas and user research.\nOn inclusive personas and inclusive user research originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -125,16 +140,6 @@
           "wordCount": 2653,
           "title": "A Radio Button Shopping Cart Trick",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/08/add-to-cart-animation.jpg"
-        },
-        {
-          "id": "https://css-tricks.com/?p=388519",
-          "author": "Andy Clarke",
-          "description": "Images in long-form content can (and often should) do more than illustrate. They help set the pace, influence how readers feel, and add character that words alone can’t always convey.\nGetting Creative With Images in Long-Form Content originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/getting-creative-with-images-in-long-form-content/",
-          "publishedOn": "2025-08-25T17:16:35.000Z",
-          "wordCount": 3068,
-          "title": "Getting Creative With Images in Long-Form Content",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/08/image-long-form-content-caption.jpg"
         }
       ]
     },
@@ -143,6 +148,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2025/09/intent-prototyping-pure-vibe-coding-enterprise-ux/",
+          "author": "hello@smashingmagazine.com (Yegor Gilyov)",
+          "description": "Yegor Gilyov examines the problem of over-reliance on static high-fidelity mockups, which often leave the conceptual model and user flows dangerously underdeveloped. He then explores whether AI-powered prototyping is the answer, questioning whether the path forward is the popular “vibe coding” approach or a more structured, intent-driven approach.",
+          "link": "https://smashingmagazine.com/2025/09/intent-prototyping-pure-vibe-coding-enterprise-ux/",
+          "publishedOn": "2025-09-24T17:00:00.000Z",
+          "wordCount": 5432,
+          "title": "Intent Prototyping: The Allure And Danger Of Pure Vibe Coding In Enterprise UX (Part 1)",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/intent-prototyping-pure-vibe-coding-enterprise-ux/intent-prototyping-pure-vibe-coding-enterprise-ux.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/intent-prototyping-pure-vibe-coding-enterprise-ux/intent-prototyping-pure-vibe-coding-enterprise-ux.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2025/09/ambient-animations-web-design-principles-implementation/",
           "author": "hello@smashingmagazine.com (Andy Clarke)",
@@ -322,21 +342,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/designing-tv-evergreen-pattern-shapes-tv-experiences/designing-tv-evergreen-pattern-shapes-tv-experiences.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2025/08/optimizing-pwas-different-display-modes/",
-          "author": "hello@smashingmagazine.com (Declan Chidlow)",
-          "description": "Progressive Web Apps (PWAs) are a great way to make apps built for the web feel native, but in moving away from a browser environment, we can introduce usability issues. This article covers how we can modify our app depending on what display mode is applied to mitigate these issues.",
-          "link": "https://smashingmagazine.com/2025/08/optimizing-pwas-different-display-modes/",
-          "publishedOn": "2025-08-26T08:00:00.000Z",
-          "wordCount": 4712,
-          "title": "Optimizing PWAs For Different Display Modes",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/optimizing-pwas-different-display-modes/optimizing-pwas-different-display-modes.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/optimizing-pwas-different-display-modes/optimizing-pwas-different-display-modes.jpg"
         }
       ]
     },
@@ -345,6 +350,46 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "68d44cc07b532bf921e47213",
+          "author": "Ikegah Oliver",
+          "description": "If you’ve spent any time working with JavaScript, you’ve most likely come across npm—whether installing packages like Express, Lodash, or React, or running commands like npm init. While using npm is second nature for many JavaScript developers, some ...",
+          "link": "https://www.freecodecamp.org/news/how-to-publish-an-npm-package/",
+          "publishedOn": "2025-09-24T19:55:44.000Z",
+          "wordCount": 3647,
+          "title": "How to Publish an npm Package - Explained with Examples",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1758743190885/78dd4f19-53eb-4101-9cf9-7c22ab5f6be2.png"
+        },
+        {
+          "id": "68d44505e26e6f1a24c44ba9",
+          "author": "Gabor Koos",
+          "description": "Regardless of their initial size or scope, projects tend to grow in complexity over time. As new features are added and requirements evolve, the number of components and the connections between them multiply. Services, handlers, repositories, externa...",
+          "link": "https://www.freecodecamp.org/news/how-to-use-dependency-injection-in-go/",
+          "publishedOn": "2025-09-24T19:22:45.000Z",
+          "wordCount": 6124,
+          "title": "How to Implement Dependency Injection in Go - Explained with Code Examples",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1758741125008/e796d218-2cf6-43ed-87a5-dfc772e121f8.png"
+        },
+        {
+          "id": "68d443c623251efd1f372d02",
+          "author": "Olaleye Blessing",
+          "description": "Have you ever noticed your React application getting slower the longer you use it? This could be a result of memory leaks. Memory leaks are a common performance issue in React applications. They can slow down your application, crash your browser, and...",
+          "link": "https://www.freecodecamp.org/news/fix-memory-leaks-in-react-apps/",
+          "publishedOn": "2025-09-24T19:17:26.000Z",
+          "wordCount": 2639,
+          "title": "How to Fix Memory Leaks in React Applications",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1758741256644/817dba0f-bf49-424c-9b13-86bf81dc327f.png"
+        },
+        {
+          "id": "68d43e64c21b03de37bb4dce",
+          "author": "Ifeoma Udu",
+          "description": "On paper, I studied computer science. However, most of my passions were artistic: writing, storytelling, and content creation. Over time, I found myself blending both worlds without recognizing it. Then I came across the term Creative Technologist an...",
+          "link": "https://www.freecodecamp.org/news/what-does-a-creative-technologist-do/",
+          "publishedOn": "2025-09-24T18:54:28.000Z",
+          "wordCount": 1985,
+          "title": "What Does a Creative Technologist Do?",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1758739716707/5b3242ab-e42a-4a2c-832d-15954dcbaa3c.png"
+        },
         {
           "id": "68d2d63ab7bb607e13c45cf4",
           "author": "Ajay Yadav",
@@ -1044,36 +1089,6 @@
           "wordCount": 7179,
           "title": "How to Build a Machine Learning System on Serverless Architecture",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1756225357023/04572f1b-b9a7-43e0-aabc-2842faa2703f.png"
-        },
-        {
-          "id": "68acc54701889f3eebbb5f25",
-          "author": "Ophy Boamah",
-          "description": "In 2025, using Chrome without extensions is like using a smartphone without apps. It’s possible, but you’re missing out on a lot. And despite how essential extensions are, creating one is very simple – it’s just HTML, CSS, and JavaScript with browser...",
-          "link": "https://www.freecodecamp.org/news/how-to-build-an-advice-generator-chrome-extension-with-manifest-v3/",
-          "publishedOn": "2025-08-25T20:19:19.000Z",
-          "wordCount": 2754,
-          "title": "How to Build an Advice Generator Chrome Extension with Manifest V3",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1756152220137/8717b809-1186-4a15-92f8-ea926177ef76.png"
-        },
-        {
-          "id": "68ac8e669a85df841d9f286d",
-          "author": "Ajay Kalal",
-          "description": "When online shopping first took off, product pages were built around a few static images and maybe a zoom feature. That was enough back then. But today’s customers expect far more. They want to spin a sneaker around, preview a sofa in their living ro...",
-          "link": "https://www.freecodecamp.org/news/how-webgl-and-threejs-power-interactive-online-stores/",
-          "publishedOn": "2025-08-25T16:25:10.000Z",
-          "wordCount": 2549,
-          "title": "How WebGL and Three.js Power Interactive Online Stores",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1756138909378/69cae8fe-9a57-4036-817a-fde4e6a19f3b.png"
-        },
-        {
-          "id": "68ac62884c5ca5b261e8abc3",
-          "author": "Manish Shivanandhan",
-          "description": "When people talk about modern AI, they often point to large language models like ChatGPT. These models seem smart, as they’re able to write, answer, and explain in natural language. But the roots of this technology go back to something very simple: t...",
-          "link": "https://www.freecodecamp.org/news/how-bag-of-words-works/",
-          "publishedOn": "2025-08-25T13:18:00.000Z",
-          "wordCount": 1943,
-          "title": "How Bag of Words Works – The Foundation of Language Models",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1756127722792/e047e9d2-91ae-42f6-85d9-106260ddf432.png"
         }
       ]
     }
