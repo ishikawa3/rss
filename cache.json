@@ -351,6 +351,16 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "68d54c082b457c9e85197f19",
+          "author": "Beau Carnes",
+          "description": "You’ve built toy projects. Now build something real. We've just launched a new course on the freeCodeCamp.org YouTube channel that will teach you how to build a production-grade AI project from the ground up. Created by the Ayush Singh, this course i...",
+          "link": "https://www.freecodecamp.org/news/build-an-enterprise-grade-ai-project/",
+          "publishedOn": "2025-09-25T14:04:56.000Z",
+          "wordCount": 1140,
+          "title": "Build an Enterprise-Grade AI Project",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1758809078183/d59211ff-0429-40dc-8313-738889bb2884.jpeg"
+        },
+        {
           "id": "68d44cc07b532bf921e47213",
           "author": "Ikegah Oliver",
           "description": "If you’ve spent any time working with JavaScript, you’ve most likely come across npm—whether installing packages like Express, Lodash, or React, or running commands like npm init. While using npm is second nature for many JavaScript developers, some ...",
@@ -1049,46 +1059,6 @@
           "wordCount": 3205,
           "title": "How to Handle Permissions in Flutter: A Comprehensive Guide",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1756310343452/8db020d5-5cec-4b88-9a02-a8dc2a81190c.png"
-        },
-        {
-          "id": "68ae61c1eaacec5198b5743e",
-          "author": "Beau Carnes",
-          "description": "We just released a full course on the freeCodeCamp.org YouTube channel to help you prepare for the Google Cloud Professional Cloud Architect (GCP-PCA) certification exam. The Professional Cloud Architect certification is one of Google Cloud’s top cre...",
-          "link": "https://www.freecodecamp.org/news/prepare-for-the-google-professional-cloud-architect-certification-exam-and-pass/",
-          "publishedOn": "2025-08-27T01:39:13.000Z",
-          "wordCount": 1019,
-          "title": "Prepare for the Google Professional Cloud Architect Certification Exam – And Pass!",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1756258734075/cff75276-73b5-4ca6-9f6e-b2a845470422.png"
-        },
-        {
-          "id": "68ae60dd2ebe767204ec0f59",
-          "author": "Beau Carnes",
-          "description": "We just published a new course on the freeCodeCamp.org YouTube channel that mixes computer vision, deep learning, and Arduino into some really fun projects. In this course, you’ll build two hands-on applications using MediaPipe and OpenCV. The first ...",
-          "link": "https://www.freecodecamp.org/news/use-arduinos-for-computer-vision/",
-          "publishedOn": "2025-08-27T01:35:25.000Z",
-          "wordCount": 979,
-          "title": "Use Arduinos for Computer Vision",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1756258472163/30bdd66e-4458-4c70-b596-20685e993d37.png"
-        },
-        {
-          "id": "68ae1d943a7c9745e83e7797",
-          "author": "Grant Riordan",
-          "description": "Micro Frontend Architecture has become increasingly popular in recent years, as teams look to re-use parts of their existing applications in new projects rather than rebuilding everything from scratch. Micro frontends also allow large teams to share ...",
-          "link": "https://www.freecodecamp.org/news/how-to-build-micro-frontends-in-react-with-vite-and-module-federation/",
-          "publishedOn": "2025-08-26T20:48:20.000Z",
-          "wordCount": 4001,
-          "title": "How to Build Micro Frontends in React with Vite and Module Federation",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1756231755011/283b9e67-9a09-4241-9d90-701cb075084d.jpeg"
-        },
-        {
-          "id": "68addf802314e8b22eae4655",
-          "author": "Kuriko Iwai",
-          "description": "Let’s say you’ve built a fantastic machine learning model that performs beautifully in notebooks. But a model isn’t truly valuable until it’s in production, serving real users and solving real problems. In this article, you’ll learn how to ship a pro...",
-          "link": "https://www.freecodecamp.org/news/how-to-build-a-machine-learning-system-on-serverless-architecture/",
-          "publishedOn": "2025-08-26T16:23:28.000Z",
-          "wordCount": 7179,
-          "title": "How to Build a Machine Learning System on Serverless Architecture",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1756225357023/04572f1b-b9a7-43e0-aabc-2842faa2703f.png"
         }
       ]
     }
