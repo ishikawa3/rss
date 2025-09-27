@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=389344",
+          "author": "John Rhea",
+          "description": "John Rhea challenged himself to recreate the fancy button using the new CSS shape() function sprinkled with animation to get things pretty close.\nRecreating Gmail’s Google Gemini Animation originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/recreating-gmails-google-gemini-animation/",
+          "publishedOn": "2025-09-26T14:45:13.000Z",
+          "wordCount": 4406,
+          "title": "Recreating Gmail’s Google Gemini Animation",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/09/gemini-button.png"
+        },
+        {
           "id": "https://css-tricks.com/?p=389371",
           "author": "Amit Sheen",
           "description": "Starting in Chrome 140, we'll be able to calculate numeric values with mixed data types. Sounds small, but Amit demonstrates how big a deal this is, calling it Computational CSS.\nCSS Typed Arithmetic originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -130,16 +140,6 @@
             "type": "video/quicktime"
           },
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/08/css-elevator-machine.png"
-        },
-        {
-          "id": "https://css-tricks.com/?p=388588",
-          "author": "Preethi",
-          "description": "Here's an approach for animating products added to a shopping cart that handles an infinite number of items using a variation of the ol' Checkbox Hack.\nA Radio Button Shopping Cart Trick originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/a-radio-button-shopping-cart-trick/",
-          "publishedOn": "2025-08-27T14:18:12.000Z",
-          "wordCount": 2653,
-          "title": "A Radio Button Shopping Cart Trick",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/08/add-to-cart-animation.jpg"
         }
       ]
     },
@@ -148,6 +148,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2025/09/from-prompt-to-partner-designing-custom-ai-assistant/",
+          "author": "hello@smashingmagazine.com (Lyndon Cerejo)",
+          "description": "What if your best AI prompts didn’t disappear into your unorganized chat history, but came back tomorrow as a reliable assistant? In this article, you’ll learn how to turn one-off “aha” prompts into reusable assistants that are tailored to your audience, grounded in your knowledge, and consistent every time, saving you (and your team) from typing the same 448-word prompt ever again.",
+          "link": "https://smashingmagazine.com/2025/09/from-prompt-to-partner-designing-custom-ai-assistant/",
+          "publishedOn": "2025-09-26T10:00:00.000Z",
+          "wordCount": 6553,
+          "title": "From Prompt To Partner: Designing Your Custom AI Assistant",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/from-prompt-to-partner-designing-custom-ai-assistant/from-prompt-to-partner-designing-custom-ai-assistant.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/from-prompt-to-partner-designing-custom-ai-assistant/from-prompt-to-partner-designing-custom-ai-assistant.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2025/09/intent-prototyping-pure-vibe-coding-enterprise-ux/",
           "author": "hello@smashingmagazine.com (Yegor Gilyov)",
@@ -327,21 +342,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/prompting-design-act-brief-guide-iterate-ai/prompting-design-act-brief-guide-iterate-ai.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2025/08/designing-tv-evergreen-pattern-shapes-tv-experiences/",
-          "author": "hello@smashingmagazine.com (Milan Balać)",
-          "description": "TV interface design is a unique, fascinating, and often overlooked field. It’s been guided by decades of evolution and innovation, yet still firmly constrained by its legacy. Follow Milan into the history, quirks, and unshakable rules that dictate how we control these devices.",
-          "link": "https://smashingmagazine.com/2025/08/designing-tv-evergreen-pattern-shapes-tv-experiences/",
-          "publishedOn": "2025-08-27T13:00:00.000Z",
-          "wordCount": 6675,
-          "title": "Designing For TV: The Evergreen Pattern That Shapes TV Experiences",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/designing-tv-evergreen-pattern-shapes-tv-experiences/designing-tv-evergreen-pattern-shapes-tv-experiences.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/designing-tv-evergreen-pattern-shapes-tv-experiences/designing-tv-evergreen-pattern-shapes-tv-experiences.jpg"
         }
       ]
     },
@@ -350,6 +350,46 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "68d6aa9b5a8d45880690fb59",
+          "author": "Beau Carnes",
+          "description": "Tom Mondloch quit programming after he finished community college. After a few years of odd jobs, he decided to get back into programming and discovered freeCodeCamp. He was just learning his own way, and didn't think freeCodeCamp's linear curriculum...",
+          "link": "https://www.freecodecamp.org/news/lone-wolf-dev-turned-open-source-super-contributor-tom-mondloch-podcast-190/",
+          "publishedOn": "2025-09-26T15:00:43.000Z",
+          "wordCount": 1383,
+          "title": "Lone Wolf Dev turned Open Source Super Contributor Tom Mondloch [Podcast #190]",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1758834749071/7ba3b62d-74e3-4957-a2ec-df1497093432.jpeg"
+        },
+        {
+          "id": "68d6a166d140a408e4a60858",
+          "author": "Shrijal Acharya",
+          "description": "With the rise of AI agents and agentic systems, we’re no longer just generating text or images, we’re teaching AI how to take actions. Instead of asking, “Can AI write this for me?” you can now ask, “Can AI do this for me?” From updating CRMs to mana...",
+          "link": "https://www.freecodecamp.org/news/how-to-build-a-google-sheet-ai-agent/",
+          "publishedOn": "2025-09-26T14:21:26.000Z",
+          "wordCount": 2596,
+          "title": "How to Build a Google Sheet AI Agent with Composio and Gemini TTS Support",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1758896336162/ed8b3c6b-2b3a-49ad-b60d-b2a42efbe19e.png"
+        },
+        {
+          "id": "68d692ebc473cf19ac469ed3",
+          "author": "Atuoha Anthony",
+          "description": "Flutter hooks are powerful functions that streamline state management, side effects handling, and code organization in Flutter applications. Inspired by React hooks, they provide a more concise and modular approach compared to traditional StatefulWid...",
+          "link": "https://www.freecodecamp.org/news/learn-flutter-hooks-with-code-examples/",
+          "publishedOn": "2025-09-26T13:19:39.000Z",
+          "wordCount": 2977,
+          "title": "Learn Flutter Hooks – Common Hooks Explained with Code Examples",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1758892716695/6af49b6f-d088-405a-9c48-57d5db3b0a98.png"
+        },
+        {
+          "id": "68d691dd9aa70c44b703deb0",
+          "author": "Manish Shivanandhan",
+          "description": "When most people think of image hosting, they imagine uploading photos to a cloud service and getting back a simple link. It feels seamless, but behind that experience sits a powerful set of technologies. At the core is something called object storag...",
+          "link": "https://www.freecodecamp.org/news/build-and-deploy-an-image-hosting-service-on-sevalla/",
+          "publishedOn": "2025-09-26T13:15:09.000Z",
+          "wordCount": 3310,
+          "title": "How to Build and Deploy an Image Hosting Service on Sevalla",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1758890260515/c4b83d17-c783-425c-ab11-50961e44ea58.png"
+        },
         {
           "id": "68d54c082b457c9e85197f19",
           "author": "Beau Carnes",
@@ -1009,56 +1049,6 @@
           "wordCount": 1683,
           "title": "How to use AI as an accelerator, not a crutch, with freelance engineer Ankur Tyagi  [Podcast #186]",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1756431423018/0140444c-97a0-4f7b-ac99-83a20fae7bdd.png"
-        },
-        {
-          "id": "68afa02d9547303a1dcc65cf",
-          "author": "Manish Shivanandhan",
-          "description": "The world of artificial intelligence moves fast. Every week, new models appear, older ones get better, and the tools to use them become easier. But if you are building a machine learning project, you may face one big problem: how to share your work q...",
-          "link": "https://www.freecodecamp.org/news/how-to-build-your-ai-demos-with-gradio/",
-          "publishedOn": "2025-08-28T00:17:49.000Z",
-          "wordCount": 2098,
-          "title": "How to Build Your AI Demos with Gradio",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1756337736951/2a58e22d-dd7a-4768-b052-a981a91c36da.png"
-        },
-        {
-          "id": "68af51354dd5e596e553184e",
-          "author": "Beau Carnes",
-          "description": "Do you want to improve you JavaScript skills and create 3D web experiences? We just posted a course on the freeCodeCamp.org YouTube channel that is designed to help anyone master JavaScript and Three.js by building five impressive and practical proje...",
-          "link": "https://www.freecodecamp.org/news/create-3d-web-experiences-with-javascript-and-threejs/",
-          "publishedOn": "2025-08-27T18:40:53.000Z",
-          "wordCount": 1162,
-          "title": "Create 3D Web Experiences with JavaScript and Three.js",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1756299743551/aa4a1301-8f99-4eef-8e66-7c6202820b93.png"
-        },
-        {
-          "id": "68af2c4fa028696d3cf7c091",
-          "author": "Andrew Ezeani",
-          "description": "If you have ever spent weeks hopping from one coding tutorial to another, only to freeze the moment you are asked to build something from scratch, you're not alone. This loop, known as tutorial hell, is where many aspiring developers get stuck. It fe...",
-          "link": "https://www.freecodecamp.org/news/how-to-break-free-from-tutorial-hell/",
-          "publishedOn": "2025-08-27T16:03:27.000Z",
-          "wordCount": 3324,
-          "title": "How to Break Free from Tutorial Hell: A Practical Guide",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1756310586139/70a20570-61f6-4771-b0a9-718573d710f5.png"
-        },
-        {
-          "id": "68af2baaa845284174a27982",
-          "author": "Manish Shivanandhan",
-          "description": "When you hear about Next.js, your first thought may be static websites or React-driven frontends. But that’s just part of the story. Next.js can also power full-featured backend APIs that you can host and scale just like any other backend service. In...",
-          "link": "https://www.freecodecamp.org/news/caching-a-nextjs-api-using-redis-and-sevalla/",
-          "publishedOn": "2025-08-27T16:00:42.000Z",
-          "wordCount": 2351,
-          "title": "Caching a Next.js API using Redis and Sevalla",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1756310410998/ee5f34fd-0efe-4efc-9e91-2baa826edff9.png"
-        },
-        {
-          "id": "68af2b5d6d32776366258694",
-          "author": "Atuoha Anthony",
-          "description": "Permissions are crucial when building mobile applications that require access to device features such as location, camera, contacts, microphone, storage, and more. And handling permissions effectively ensures that your app provides a seamless user ex...",
-          "link": "https://www.freecodecamp.org/news/how-to-handle-permissions-in-flutter-for-beginners/",
-          "publishedOn": "2025-08-27T15:59:25.000Z",
-          "wordCount": 3205,
-          "title": "How to Handle Permissions in Flutter: A Comprehensive Guide",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1756310343452/8db020d5-5cec-4b88-9a02-a8dc2a81190c.png"
         }
       ]
     }
