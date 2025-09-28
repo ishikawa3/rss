@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-27T00:13:48.983Z</updated>
+    <updated>2025-09-28T00:15:46.285Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Google Play’s 16 KB Page Size Compatibility Requirement — What You Should Know, and How to Upgrade Your App]]></title>
+        <id>68d703052043890036a92cb0</id>
+        <link href="https://www.freecodecamp.org/news/google-16-kb-page-size-requirement-what-to-do/"/>
+        <updated>2025-09-26T21:17:57.000Z</updated>
+        <summary type="html"><![CDATA[Android is always evolving, and sometimes those changes happen a bit under the hood. One such change that's been gaining traction—and now has a firm deadline from Google—is the move to a 16 KB page size. If you're an Android developer, especially wit...]]></summary>
+        <author>
+            <name>Arunachalam B</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is the GitHub CLI? How to Use GitHub from the Command Line]]></title>
+        <id>68d6c4873324dabb31fd7214</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-github-from-the-command-line/"/>
+        <updated>2025-09-26T16:51:19.000Z</updated>
+        <summary type="html"><![CDATA[The GitHub CLI (Command Line Interface) is a powerful tool developed by GitHub that allows developers to interact with GitHub directly from the terminal. It provides a simple way to perform many GitHub tasks without leaving the command line interface...]]></summary>
+        <author>
+            <name>AYUSH MISHRA</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Lone Wolf Dev turned Open Source Super Contributor Tom Mondloch [Podcast #190]]]></title>
         <id>68d6aa9b5a8d45880690fb59</id>
@@ -956,16 +976,6 @@ Should the CSS light-dark() Function Support More Than Light and Dark Values? or
 CSS Elevator: A Pure CSS State Machine With Floor Navigation originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Christian Sabourin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Prompting Is A Design Act: How To Brief, Guide And Iterate With AI]]></title>
-        <id>https://smashingmagazine.com/2025/08/prompting-design-act-brief-guide-iterate-ai/</id>
-        <link href="https://smashingmagazine.com/2025/08/prompting-design-act-brief-guide-iterate-ai/"/>
-        <updated>2025-08-29T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Prompting is more than giving AI some instructions. You could think of it as a design act, part creative brief and part conversation design. This second article on AI augmenting design work introduces a designerly approach to prompting: one that blends creative briefing, interaction design, and structural clarity.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Lyndon Cerejo)</name>
         </author>
     </entry>
 </feed>
