@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-28T00:15:46.285Z</updated>
+    <updated>2025-09-29T00:15:16.330Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
@@ -935,47 +935,6 @@ Should the CSS light-dark() Function Support More Than Light and Dark Values? or
         <summary type="html"><![CDATA[Could there be a better way to welcome the new month than with a new collection of desktop wallpapers? We’ve got some eye-catching designs to make your September just a bit more colorful. Enjoy!]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Cosima Mielke)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Debug Kubernetes Pods with Traceloop: A Complete Beginner's Guide]]></title>
-        <id>68b1d0b4c2405fa2535ed0c8</id>
-        <link href="https://www.freecodecamp.org/news/how-to-debug-kubernetes-pods-with-traceloop-a-complete-beginners-guide/"/>
-        <updated>2025-08-29T16:09:24.000Z</updated>
-        <summary type="html"><![CDATA[Debugging Kubernetes pods can feel like detective work. Your app crashes, and you're left wondering what happened in those critical moments leading up to failure. Traditional kubectl commands show you logs and statuses, but they can't tell you exactl...]]></summary>
-        <author>
-            <name>Opaluwa Emidowojo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Snake Game using Phaser.js]]></title>
-        <id>68b1c9406e763941de20cda2</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-a-snake-game-using-phaserjs/"/>
-        <updated>2025-08-29T15:37:36.000Z</updated>
-        <summary type="html"><![CDATA[If you’ve ever wanted to make a small game that runs in the browser, Phaser.js is a great place to start. It’s a simple JavaScript library that helps you build interactive 2-D games that you can play in the browser. In this guide, you’ll learn what P...]]></summary>
-        <author>
-            <name>Manish Shivanandhan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to use AI as an accelerator, not a crutch, with freelance engineer Ankur Tyagi  [Podcast #186]]]></title>
-        <id>68b1c07f6b6bda31497df196</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-ai-as-an-accelerator-not-a-crutch-with-freelance-engineer-ankur-tyagi-podcast-186/"/>
-        <updated>2025-08-29T15:00:15.000Z</updated>
-        <summary type="html"><![CDATA[For this week's interview, I'm talking with Ankur Tyagi. He's a software engineer who's worked at multinational companies like Volvo, Barclays, and Accenture. He grew up in Pune, India and now lives in Gothenburg, Sweden.  Ankur is a prolific contrib...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSS Elevator: A Pure CSS State Machine With Floor Navigation]]></title>
-        <id>https://css-tricks.com/?p=388637</id>
-        <link href="https://css-tricks.com/css-elevator-a-pure-css-state-machine-with-floor-navigation/"/>
-        <updated>2025-08-29T13:06:48.000Z</updated>
-        <summary type="html"><![CDATA[In this article, author Chris Sabourin walk through how modern CSS features can build a fully functional, interactive elevator that knows where it is, where it’s headed, and how long it’ll take to get there. No JavaScript required.
-CSS Elevator: A Pure CSS State Machine With Floor Navigation originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Christian Sabourin</name>
         </author>
     </entry>
 </feed>

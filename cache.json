@@ -125,21 +125,6 @@
           "wordCount": 2903,
           "title": "Should the CSS light-dark() Function Support More Than Light and Dark Values?",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/08/light-dark.webp"
-        },
-        {
-          "id": "https://css-tricks.com/?p=388637",
-          "author": "Christian Sabourin",
-          "description": "In this article, author Chris Sabourin walk through how modern CSS features can build a fully functional, interactive elevator that knows where it is, where it’s headed, and how long it’ll take to get there. No JavaScript required.\nCSS Elevator: A Pure CSS State Machine With Floor Navigation originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/css-elevator-a-pure-css-state-machine-with-floor-navigation/",
-          "publishedOn": "2025-08-29T13:06:48.000Z",
-          "wordCount": 2689,
-          "title": "CSS Elevator: A Pure CSS State Machine With Floor Navigation",
-          "enclosure": {
-            "url": "https://css-tricks.com/wp-content/uploads/2025/08/arrows-up-down.mov",
-            "length": "11379198",
-            "type": "video/quicktime"
-          },
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/08/css-elevator-machine.png"
         }
       ]
     },
@@ -1024,36 +1009,6 @@
           "wordCount": 1502,
           "title": "How to Read and Write Deeply Partitioned Files Using Apache Spark",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1756671369152/1e620925-6fb6-47fa-8344-86b9d3c7cd02.png"
-        },
-        {
-          "id": "68b1d0b4c2405fa2535ed0c8",
-          "author": "Opaluwa Emidowojo",
-          "description": "Debugging Kubernetes pods can feel like detective work. Your app crashes, and you're left wondering what happened in those critical moments leading up to failure. Traditional kubectl commands show you logs and statuses, but they can't tell you exactl...",
-          "link": "https://www.freecodecamp.org/news/how-to-debug-kubernetes-pods-with-traceloop-a-complete-beginners-guide/",
-          "publishedOn": "2025-08-29T16:09:24.000Z",
-          "wordCount": 4355,
-          "title": "How to Debug Kubernetes Pods with Traceloop: A Complete Beginner's Guide",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1756483063551/4179b718-7883-4a89-a9c2-1c678185469a.png"
-        },
-        {
-          "id": "68b1c9406e763941de20cda2",
-          "author": "Manish Shivanandhan",
-          "description": "If you’ve ever wanted to make a small game that runs in the browser, Phaser.js is a great place to start. It’s a simple JavaScript library that helps you build interactive 2-D games that you can play in the browser. In this guide, you’ll learn what P...",
-          "link": "https://www.freecodecamp.org/news/how-to-build-a-snake-game-using-phaserjs/",
-          "publishedOn": "2025-08-29T15:37:36.000Z",
-          "wordCount": 4360,
-          "title": "How to Build a Snake Game using Phaser.js",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1756416799827/d337175f-cbf1-40d1-8228-e5f3933ba3d1.png"
-        },
-        {
-          "id": "68b1c07f6b6bda31497df196",
-          "author": "Beau Carnes",
-          "description": "For this week's interview, I'm talking with Ankur Tyagi. He's a software engineer who's worked at multinational companies like Volvo, Barclays, and Accenture. He grew up in Pune, India and now lives in Gothenburg, Sweden.  Ankur is a prolific contrib...",
-          "link": "https://www.freecodecamp.org/news/how-to-use-ai-as-an-accelerator-not-a-crutch-with-freelance-engineer-ankur-tyagi-podcast-186/",
-          "publishedOn": "2025-08-29T15:00:15.000Z",
-          "wordCount": 1683,
-          "title": "How to use AI as an accelerator, not a crutch, with freelance engineer Ankur Tyagi  [Podcast #186]",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1756431423018/0140444c-97a0-4f7b-ac99-83a20fae7bdd.png"
         }
       ]
     }
