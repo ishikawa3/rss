@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-29T00:15:16.330Z</updated>
+    <updated>2025-09-30T00:14:26.973Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How Does the Morgan Express Middleware Library Work? Explained with Code Examples]]></title>
+        <id>68dacc9e86b3b4616655000a</id>
+        <link href="https://www.freecodecamp.org/news/how-does-the-morgan-library-work/"/>
+        <updated>2025-09-29T18:14:54.000Z</updated>
+        <summary type="html"><![CDATA[Morgan is an Express middleware library that examines HTTP requests and logs details of the request to an output. It is one of the most popular Express middleware libraries with over 8,000 GitHub stars and more than 9,000 npm libraries dependent on i...]]></summary>
+        <author>
+            <name>Orim Dominic Adah</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Touring New CSS Features in Safari 26]]></title>
+        <id>https://css-tricks.com/?p=389331</id>
+        <link href="https://css-tricks.com/touring-new-css-features-in-safari-26/"/>
+        <updated>2025-09-29T14:31:16.000Z</updated>
+        <summary type="html"><![CDATA[Safari 26 adds:75 new features, 3 deprecations, and 171 other improvements. Here's all the CSS goodness you'll want to know about.
+Touring New CSS Features in Safari 26 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Juan Diego Rodríguez</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Google Play’s 16 KB Page Size Compatibility Requirement — What You Should Know, and How to Upgrade Your App]]></title>
         <id>68d703052043890036a92cb0</id>
@@ -925,16 +946,6 @@ Should the CSS light-dark() Function Support More Than Light and Dark Values? or
         <summary type="html"><![CDATA[If you use Apache Spark to write your data pipeline, you might need to export or copy data from a source to destination while preserving the partition folders between the source and destination. When I researched online on how to do this in Spark, I ...]]></summary>
         <author>
             <name>Arun Shanmugam Kumar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Breeze Of Inspiration In September (2025 Wallpapers Edition)]]></title>
-        <id>https://smashingmagazine.com/2025/08/desktop-wallpaper-calendars-september-2025/</id>
-        <link href="https://smashingmagazine.com/2025/08/desktop-wallpaper-calendars-september-2025/"/>
-        <updated>2025-08-31T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Could there be a better way to welcome the new month than with a new collection of desktop wallpapers? We’ve got some eye-catching designs to make your September just a bit more colorful. Enjoy!]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
         </author>
     </entry>
 </feed>

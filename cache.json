@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=389331",
+          "author": "Juan Diego Rodríguez",
+          "description": "Safari 26 adds:75 new features, 3 deprecations, and 171 other improvements. Here's all the CSS goodness you'll want to know about.\nTouring New CSS Features in Safari 26 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/touring-new-css-features-in-safari-26/",
+          "publishedOn": "2025-09-29T14:31:16.000Z",
+          "wordCount": 3871,
+          "title": "Touring New CSS Features in Safari 26",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/09/thumbnail.png"
+        },
+        {
           "id": "https://css-tricks.com/?p=389344",
           "author": "John Rhea",
           "description": "John Rhea challenged himself to recreate the fancy button using the new CSS shape() function sprinkled with animation to get things pretty close.\nRecreating Gmail’s Google Gemini Animation originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -297,21 +307,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/designing-tv-principles-patterns-practical-guidance/designing-tv-principles-patterns-practical-guidance.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2025/08/desktop-wallpaper-calendars-september-2025/",
-          "author": "hello@smashingmagazine.com (Cosima Mielke)",
-          "description": "Could there be a better way to welcome the new month than with a new collection of desktop wallpapers? We’ve got some eye-catching designs to make your September just a bit more colorful. Enjoy!",
-          "link": "https://smashingmagazine.com/2025/08/desktop-wallpaper-calendars-september-2025/",
-          "publishedOn": "2025-08-31T08:00:00.000Z",
-          "wordCount": 4731,
-          "title": "A Breeze Of Inspiration In September (2025 Wallpapers Edition)",
-          "enclosure": {
-            "url": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/77eaabbb-9743-45b6-99f3-f35a5584275f/sept-17-funny-cats-preview-opt.png",
-            "length": "0",
-            "type": "image/png"
-          },
-          "imageUrl": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/77eaabbb-9743-45b6-99f3-f35a5584275f/sept-17-funny-cats-preview-opt.png"
         }
       ]
     },
@@ -320,6 +315,16 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "68dacc9e86b3b4616655000a",
+          "author": "Orim Dominic Adah",
+          "description": "Morgan is an Express middleware library that examines HTTP requests and logs details of the request to an output. It is one of the most popular Express middleware libraries with over 8,000 GitHub stars and more than 9,000 npm libraries dependent on i...",
+          "link": "https://www.freecodecamp.org/news/how-does-the-morgan-library-work/",
+          "publishedOn": "2025-09-29T18:14:54.000Z",
+          "wordCount": 2936,
+          "title": "How Does the Morgan Express Middleware Library Work? Explained with Code Examples",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1759169256698/9cb4e87a-2bc3-49ac-b1a6-b9d02d410ea1.png"
+        },
         {
           "id": "68d703052043890036a92cb0",
           "author": "Arunachalam B",
