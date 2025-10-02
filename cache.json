@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=389238",
+          "author": "Geoff Graham",
+          "description": "Naturally, everything looks like code when I'm staring at a blank canvas. That's whether the canvas is paper, a screen, some Figma artboard, or what have you.\nSame Idea, Different Paint Brush originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/same-idea-different-paint-brush/",
+          "publishedOn": "2025-10-01T13:02:47.000Z",
+          "wordCount": 3394,
+          "title": "Same Idea, Different Paint Brush",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/09/mom-painting-thumb.png"
+        },
+        {
           "id": "https://css-tricks.com/?p=389331",
           "author": "Juan Diego Rodríguez",
           "description": "Safari 26 adds:75 new features, 3 deprecations, and 171 other improvements. Here's all the CSS goodness you'll want to know about.\nTouring New CSS Features in Safari 26 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -330,6 +340,46 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "68dd983f4c1d99b015822d01",
+          "author": "Beau Carnes",
+          "description": "What if you could learn what you need to know to become a full stack developer in just one video. We just 48-hour course on the freeCodeCamp.org YouTube channel that will take you from square one to being a hireable full-stack developer. This course ...",
+          "link": "https://www.freecodecamp.org/news/become-a-full-stack-developer-with-one-video/",
+          "publishedOn": "2025-10-01T21:08:15.000Z",
+          "wordCount": 1093,
+          "title": "Become a Full Stack Developer with One Video",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1759352860983/1c5a17cf-adfd-4cea-bd45-099ab5c4862a.png"
+        },
+        {
+          "id": "68dd9632756047816483e15e",
+          "author": "Beau Carnes",
+          "description": "We’ve just posted a full-stack course on the freeCodeCamp.org YouTube channel that will teach you to build a complete, production-ready movie streaming application named MagicStream, complete with AI-powered movie recommendations. This course is desi...",
+          "link": "https://www.freecodecamp.org/news/build-a-full-stack-movie-streaming-app-with-go-react-mongodb-openai/",
+          "publishedOn": "2025-10-01T20:59:30.000Z",
+          "wordCount": 1141,
+          "title": "Build a Full Stack Movie Streaming App with Go, React, MongoDB, OpenAI",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1759352344795/21e9357b-d611-4223-a1f3-704960eae165.jpeg"
+        },
+        {
+          "id": "68dd33665127fbf96fe7c03f",
+          "author": "Sumit Saha",
+          "description": "In this article, you’ll learn about an important concept: Cross-Origin Resource Sharing (CORS) policy. As a developer, you might encounter a situation where a client request to the server fails, and the browser displays a red error like \"CORS policy ...",
+          "link": "https://www.freecodecamp.org/news/how-to-fix-cross-origin-errors/",
+          "publishedOn": "2025-10-01T13:57:58.000Z",
+          "wordCount": 3023,
+          "title": "How to Fix Cross-Origin Errors — CORS Error Explained",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1759324719020/8c59e405-107b-4e45-acab-c61cbf353d0b.png"
+        },
+        {
+          "id": "68dd1ebc57c387e3d8e8115e",
+          "author": "Atuoha Anthony",
+          "description": "When building Flutter applications, it’s easy to get caught up in writing code that just works. But as your app grows in size and complexity, poorly structured code becomes harder to maintain, test, and extend. That’s where the SOLID principles come ...",
+          "link": "https://www.freecodecamp.org/news/implement-the-solid-principles-in-flutter-and-dart/",
+          "publishedOn": "2025-10-01T12:29:48.000Z",
+          "wordCount": 1995,
+          "title": "How to Implement the SOLID Principles in Flutter and Dart",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1759321694714/7751ee74-dfe6-4c22-ac6f-b614f5920b7f.png"
+        },
         {
           "id": "68dc0acc3daa8b6bcf710179",
           "author": "Temitope Oyedele",
@@ -1019,16 +1069,6 @@
           "wordCount": 2653,
           "title": "Common Open Source Contribution Myths – Debunked",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1756821843592/e345ed9b-4cae-4273-b677-05e7047be8b7.png"
-        },
-        {
-          "id": "68b5f910f596271023ce3698",
-          "author": "OMOTAYO OMOYEMI",
-          "description": "Classrooms today are more diverse than ever before. Among the students are neurodiverse learners with different learning needs. While these learners bring unique strengths, traditional teaching methods don’t always meet their needs. This is where AI-...",
-          "link": "https://www.freecodecamp.org/news/build-ai-accessibility-tools-with-python/",
-          "publishedOn": "2025-09-01T19:50:40.000Z",
-          "wordCount": 3790,
-          "title": "How to Build AI Speech-to-Text and Text-to-Speech Accessibility Tools with Python",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1756755907758/3568b7ab-f659-45c9-8c1a-e877d1a0a166.png"
         }
       ]
     }
