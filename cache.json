@@ -135,16 +135,6 @@
           "wordCount": 3045,
           "title": "What You Need to Know About CSS Color Interpolation",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2022/10/cloud-four-gradient.png"
-        },
-        {
-          "id": "https://css-tricks.com/?p=388888",
-          "author": "Sunkanmi Fafowora",
-          "description": "The light-dark() function is currently designed to support just two color schemes. Should it support others? Sunkanmi Fafowora says yes and no.\nShould the CSS light-dark() Function Support More Than Light and Dark Values? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/should-the-css-light-dark-function-support-more-than-light-and-dark-values/",
-          "publishedOn": "2025-09-02T14:44:26.000Z",
-          "wordCount": 2903,
-          "title": "Should the CSS light-dark() Function Support More Than Light and Dark Values?",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/08/light-dark.webp"
         }
       ]
     },
@@ -340,6 +330,36 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "68de9da15cb0af6e1274cbc6",
+          "author": "Lane Wagner",
+          "description": "In this handbook, you'll build a basic version of Claude Code using Google's free Gemini API. If you've ever used Cursor or Claude Code as an \"agentic\" AI code editor, then you should be familiar with what we'll be building here. As long as you have ...",
+          "link": "https://www.freecodecamp.org/news/build-an-ai-coding-agent-with-python-and-gemini/",
+          "publishedOn": "2025-10-02T15:43:29.000Z",
+          "wordCount": 7550,
+          "title": "How to Build an AI Coding Agent with Python and Gemini",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1759418643581/2470669e-8592-463e-8b4c-55eace8dd80a.png"
+        },
+        {
+          "id": "68de98a534a379d15102109e",
+          "author": "Nitheesh Poojary",
+          "description": "When I started using LLMs for work and personal use, I picked up on some technical terms, such as \"machine learning\" and \"deep learning,\" which are the main technologies behind these LLMs. I've always been interested in learning about the differences...",
+          "link": "https://www.freecodecamp.org/news/machine-learning-vs-deep-learning-vs-generative-ai/",
+          "publishedOn": "2025-10-02T15:22:13.000Z",
+          "wordCount": 2371,
+          "title": "Machine Learning vs Deep Learning vs Generative AI - What are the Differences?",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1759006391065/3cd87534-e2e9-49df-a9c7-1b636e491032.png"
+        },
+        {
+          "id": "68de8ecac4a4992466dd6d4b",
+          "author": "Alma Mohapatra",
+          "description": "Large Language Models (LLMs) like LLaMA 2 and Mistral are often described as “black boxes”. This means that you can see the text you give them and the responses they produce, but their inner workings remain hidden. Inside the model, billions of weigh...",
+          "link": "https://www.freecodecamp.org/news/how-llms-work-under-the-hood/",
+          "publishedOn": "2025-10-02T14:40:10.000Z",
+          "wordCount": 2088,
+          "title": "How to Peek Inside a Local LLM’s Brain",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1759415587363/cc861698-598b-488a-bc79-58aeb99500ea.png"
+        },
         {
           "id": "68dd983f4c1d99b015822d01",
           "author": "Beau Carnes",
@@ -1029,46 +1049,6 @@
           "wordCount": 1111,
           "title": "Learn Mandarin Chinese for Beginners – Full HSK 1 Level",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1756907480193/28ec7999-e67b-426e-b2b2-4fb2abc1a8ba.png"
-        },
-        {
-          "id": "68b78f7fba46c4e7c6266797",
-          "author": "Nikheel Vishwas Savant",
-          "description": "You may have had this happen before: your wireless earbuds connect perfectly one day, and the next they act like they’ve never met your phone. Or your smartwatch drops off in the middle of a run. Bluetooth is amazing when it works, but maddening when...",
-          "link": "https://www.freecodecamp.org/news/how-to-make-bluetooth-on-android-more-reliable/",
-          "publishedOn": "2025-09-03T07:00:00.000Z",
-          "wordCount": 2361,
-          "title": "How to Make Bluetooth on Android More Reliable",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1756860272946/83be340a-dcce-4d2f-a6eb-0d70164b11b6.png"
-        },
-        {
-          "id": "68b75671263a4383838a1d8a",
-          "author": "Atuoha Anthony",
-          "description": "In many apps, you may want users to be able to save or share visual content generated in the UI. Flutter doesn’t ship with a “save widget to image” API, but with RepaintBoundary plus a few small packages, you can capture any widget, save it to the de...",
-          "link": "https://www.freecodecamp.org/news/how-to-save-and-share-flutter-widgets-as-images-a-complete-production-ready-guide/",
-          "publishedOn": "2025-09-02T20:41:21.000Z",
-          "wordCount": 4636,
-          "title": "How to Save and Share Flutter Widgets as Images – A Complete Production-Ready Guide",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1756845409709/5224a6ae-93a9-4424-9a28-cccff69779f2.png"
-        },
-        {
-          "id": "68b754eb90a7b8458d3a959f",
-          "author": "Mrugesh Mohapatra",
-          "description": "Imagine writing code 3-4x faster while maintaining quality. That's what AI-assisted development can offer. In simple terms, you can be more productive with AI tools like GitHub Copilot as your coding partner. They suggest code, help you debug, and sp...",
-          "link": "https://www.freecodecamp.org/news/how-to-become-an-expert-in-ai-assisted-coding-a-handbook-for-developers/",
-          "publishedOn": "2025-09-02T20:34:51.000Z",
-          "wordCount": 10730,
-          "title": "How to Become an Expert in AI-Assisted Coding – A Handbook for Developers",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1756139431600/1d0cf8b5-ba1b-4c06-ab2d-45ad5e4b4d3b.png"
-        },
-        {
-          "id": "68b703ede63728a780d3fc1f",
-          "author": "Orim Dominic Adah",
-          "description": "Many developers shy away from contributing to open source, as it can be intimidating and hard to get started. Even though your contributions might seem inconsequential at first, they can potentially have a huge impact on your career. In this article,...",
-          "link": "https://www.freecodecamp.org/news/common-open-source-contribution-myths-debunked/",
-          "publishedOn": "2025-09-02T14:49:17.000Z",
-          "wordCount": 2653,
-          "title": "Common Open Source Contribution Myths – Debunked",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1756821843592/e345ed9b-4cae-4273-b677-05e7047be8b7.png"
         }
       ]
     }

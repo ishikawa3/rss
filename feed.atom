@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-02T00:13:54.183Z</updated>
+    <updated>2025-10-03T00:13:30.902Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Build an AI Coding Agent with Python and Gemini]]></title>
+        <id>68de9da15cb0af6e1274cbc6</id>
+        <link href="https://www.freecodecamp.org/news/build-an-ai-coding-agent-with-python-and-gemini/"/>
+        <updated>2025-10-02T15:43:29.000Z</updated>
+        <summary type="html"><![CDATA[In this handbook, you'll build a basic version of Claude Code using Google's free Gemini API. If you've ever used Cursor or Claude Code as an "agentic" AI code editor, then you should be familiar with what we'll be building here. As long as you have ...]]></summary>
+        <author>
+            <name>Lane Wagner</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Machine Learning vs Deep Learning vs Generative AI - What are the Differences?]]></title>
+        <id>68de98a534a379d15102109e</id>
+        <link href="https://www.freecodecamp.org/news/machine-learning-vs-deep-learning-vs-generative-ai/"/>
+        <updated>2025-10-02T15:22:13.000Z</updated>
+        <summary type="html"><![CDATA[When I started using LLMs for work and personal use, I picked up on some technical terms, such as "machine learning" and "deep learning," which are the main technologies behind these LLMs. I've always been interested in learning about the differences...]]></summary>
+        <author>
+            <name>Nitheesh Poojary</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Peek Inside a Local LLM’s Brain]]></title>
+        <id>68de8ecac4a4992466dd6d4b</id>
+        <link href="https://www.freecodecamp.org/news/how-llms-work-under-the-hood/"/>
+        <updated>2025-10-02T14:40:10.000Z</updated>
+        <summary type="html"><![CDATA[Large Language Models (LLMs) like LLaMA 2 and Mistral are often described as “black boxes”. This means that you can see the text you give them and the responses they produce, but their inner workings remain hidden. Inside the model, billions of weigh...]]></summary>
+        <author>
+            <name>Alma Mohapatra</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Become a Full Stack Developer with One Video]]></title>
         <id>68dd983f4c1d99b015822d01</id>
@@ -946,57 +976,6 @@ What You Need to Know About CSS Color Interpolation originally published on CSS-
         <summary type="html"><![CDATA[We just published a full beginner's course on the freeCodeCamp.org YouTube channel that will teach you the fundamentals of Mandarin Chinese. This course is designed to guide you to the HSK 1 level. The Hanyu Shuiping Kaoshi (HSK) is China's official ...]]></summary>
         <author>
             <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Make Bluetooth on Android More Reliable]]></title>
-        <id>68b78f7fba46c4e7c6266797</id>
-        <link href="https://www.freecodecamp.org/news/how-to-make-bluetooth-on-android-more-reliable/"/>
-        <updated>2025-09-03T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[You may have had this happen before: your wireless earbuds connect perfectly one day, and the next they act like they’ve never met your phone. Or your smartwatch drops off in the middle of a run. Bluetooth is amazing when it works, but maddening when...]]></summary>
-        <author>
-            <name>Nikheel Vishwas Savant</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Save and Share Flutter Widgets as Images – A Complete Production-Ready Guide]]></title>
-        <id>68b75671263a4383838a1d8a</id>
-        <link href="https://www.freecodecamp.org/news/how-to-save-and-share-flutter-widgets-as-images-a-complete-production-ready-guide/"/>
-        <updated>2025-09-02T20:41:21.000Z</updated>
-        <summary type="html"><![CDATA[In many apps, you may want users to be able to save or share visual content generated in the UI. Flutter doesn’t ship with a “save widget to image” API, but with RepaintBoundary plus a few small packages, you can capture any widget, save it to the de...]]></summary>
-        <author>
-            <name>Atuoha Anthony</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Become an Expert in AI-Assisted Coding – A Handbook for Developers]]></title>
-        <id>68b754eb90a7b8458d3a959f</id>
-        <link href="https://www.freecodecamp.org/news/how-to-become-an-expert-in-ai-assisted-coding-a-handbook-for-developers/"/>
-        <updated>2025-09-02T20:34:51.000Z</updated>
-        <summary type="html"><![CDATA[Imagine writing code 3-4x faster while maintaining quality. That's what AI-assisted development can offer. In simple terms, you can be more productive with AI tools like GitHub Copilot as your coding partner. They suggest code, help you debug, and sp...]]></summary>
-        <author>
-            <name>Mrugesh Mohapatra</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Common Open Source Contribution Myths – Debunked]]></title>
-        <id>68b703ede63728a780d3fc1f</id>
-        <link href="https://www.freecodecamp.org/news/common-open-source-contribution-myths-debunked/"/>
-        <updated>2025-09-02T14:49:17.000Z</updated>
-        <summary type="html"><![CDATA[Many developers shy away from contributing to open source, as it can be intimidating and hard to get started. Even though your contributions might seem inconsequential at first, they can potentially have a huge impact on your career. In this article,...]]></summary>
-        <author>
-            <name>Orim Dominic Adah</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Should the CSS light-dark() Function Support More Than Light and Dark Values?]]></title>
-        <id>https://css-tricks.com/?p=388888</id>
-        <link href="https://css-tricks.com/should-the-css-light-dark-function-support-more-than-light-and-dark-values/"/>
-        <updated>2025-09-02T14:44:26.000Z</updated>
-        <summary type="html"><![CDATA[The light-dark() function is currently designed to support just two color schemes. Should it support others? Sunkanmi Fafowora says yes and no.
-Should the CSS light-dark() Function Support More Than Light and Dark Values? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Sunkanmi Fafowora</name>
         </author>
     </entry>
 </feed>
