@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-04T00:13:27.666Z</updated>
+    <updated>2025-10-05T00:15:33.540Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
@@ -916,16 +916,6 @@ Composition in CSS originally published on CSS-Tricks, which is part of the Digi
 What You Need to Know About CSS Color Interpolation originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Sunkanmi Fafowora</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Fine-Tune Large Language Models]]></title>
-        <id>68b99deeba241d08aec7ff6f</id>
-        <link href="https://www.freecodecamp.org/news/how-to-fine-tune-large-language-models/"/>
-        <updated>2025-09-04T14:10:54.000Z</updated>
-        <summary type="html"><![CDATA[Fine-tuning helps you become a master and professional in AI engineering. We just posted a course on the freeCodeCamp.org YouTube channel that offers a comprehensive guide to fine-tuning LLMs, taking you from the basics to advanced practical applicat...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
         </author>
     </entry>
 </feed>
