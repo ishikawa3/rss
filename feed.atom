@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-05T00:15:33.540Z</updated>
+    <updated>2025-10-06T00:14:50.264Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
@@ -845,77 +845,6 @@ What’re Your Top 4 CSS Properties? originally published on CSS-Tricks, which i
 Composition in CSS originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Zell Liew</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is New in Go 1.25? Explained with Examples]]></title>
-        <id>68bb7a5a881edef26f226cde</id>
-        <link href="https://www.freecodecamp.org/news/what-is-new-in-go/"/>
-        <updated>2025-09-06T00:03:38.000Z</updated>
-        <summary type="html"><![CDATA[Go 1.25 isn’t a flashy release with big syntax changes. Instead, it’s a practical one: it fixes long-standing pitfalls, improves runtime safety, adds smarter tooling, and introduces a powerful new JSON engine. These are the kind of updates that make ...]]></summary>
-        <author>
-            <name>Pedro</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Arrays, Slices, and Maps in Go: a Quick Guide to Collection Types]]></title>
-        <id>68bb12907f6ca0ada2df447f</id>
-        <link href="https://www.freecodecamp.org/news/arrays-slices-and-maps-in-go-a-quick-guide-to-collection-types/"/>
-        <updated>2025-09-05T16:40:48.000Z</updated>
-        <summary type="html"><![CDATA[Golang has a reputation for simplicity, and one reason is its small set of core data structures. Unlike some languages that offer lists, vectors, dictionaries, hashmaps, tuples, sets, and more, Go keeps things minimal. The three fundamental building ...]]></summary>
-        <author>
-            <name>Gabor Koos</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build an Upload Service in Flutter Web with Firebase]]></title>
-        <id>68bb0031e67497d3bf64ec82</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-an-upload-service-in-flutter-web-with-firebase/"/>
-        <updated>2025-09-05T15:22:25.000Z</updated>
-        <summary type="html"><![CDATA[Uploading files is one of the most common requirements in modern web applications. Whether it’s profile pictures, documents, or bulk uploads, users expect a smooth and reliable experience. With Flutter Web and Firebase Storage, you can implement this...]]></summary>
-        <author>
-            <name>Atuoha Anthony</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build an AI Study Planner Agent using Gemini in Python]]></title>
-        <id>68baff7226d95038487cbb1f</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-an-ai-study-planner-agent-using-gemini-in-python/"/>
-        <updated>2025-09-05T15:19:14.000Z</updated>
-        <summary type="html"><![CDATA[The world is shifting from simple AI chatbots answering our queries to full-fledged systems that are capable of so much more. AI Agents can not only answer our queries but can also perform tasks we give them independently, making them much more power...]]></summary>
-        <author>
-            <name>Tarun Singh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Introducing freeCodeCamp Daily Python and JavaScript Challenges – Solve a New Programming Puzzle Every Day]]></title>
-        <id>68bafb5703bcabb153325d47</id>
-        <link href="https://www.freecodecamp.org/news/introducing-freecodecamp-daily-python-and-javascript-challenges-solve-a-new-programming-puzzle-every-day/"/>
-        <updated>2025-09-05T15:01:43.000Z</updated>
-        <summary type="html"><![CDATA[The freeCodeCamp community is excited to announce that our new Daily Coding Challenges are ready for you to tackle. 🎊 Consistent practice is one of the most effective ways to improve your coding skills. So in addition to the core coding curriculum, ...]]></summary>
-        <author>
-            <name>Tom Mondloch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to focus on building your skills when everything's so distracting with Ania Kubów [Podcast #187]]]></title>
-        <id>68bafafeb9e1fc8577966b86</id>
-        <link href="https://www.freecodecamp.org/news/how-to-focus-on-building-your-skills-when-everythings-so-distracting-with-ania-kubow-podcast-187/"/>
-        <updated>2025-09-05T15:00:14.000Z</updated>
-        <summary type="html"><![CDATA[For this week's interview, Quincy is talking with Ania Kubów. She's a software engineer and prolific programming teacher on YouTube. She shares tips for: Getting into game development and using JavaScript and browser games as an entry point How to ...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What You Need to Know About CSS Color Interpolation]]></title>
-        <id>https://css-tricks.com/?p=388479</id>
-        <link href="https://css-tricks.com/what-you-need-to-know-about-css-color-interpolation/"/>
-        <updated>2025-09-05T13:44:06.000Z</updated>
-        <summary type="html"><![CDATA[Color what? Sunkanmi Fafowora explains how an everyday task for CSS can be used to create better colors experiences.  
-What You Need to Know About CSS Color Interpolation originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Sunkanmi Fafowora</name>
         </author>
     </entry>
 </feed>

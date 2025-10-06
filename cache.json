@@ -125,16 +125,6 @@
           "wordCount": 2513,
           "title": "Composition in CSS",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2021/12/default-social-css-tricks.png"
-        },
-        {
-          "id": "https://css-tricks.com/?p=388479",
-          "author": "Sunkanmi Fafowora",
-          "description": "Color what? Sunkanmi Fafowora explains how an everyday task for CSS can be used to create better colors experiences.  \nWhat You Need to Know About CSS Color Interpolation originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/what-you-need-to-know-about-css-color-interpolation/",
-          "publishedOn": "2025-09-05T13:44:06.000Z",
-          "wordCount": 3045,
-          "title": "What You Need to Know About CSS Color Interpolation",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2022/10/cloud-four-gradient.png"
         }
       ]
     },
@@ -929,66 +919,6 @@
           "wordCount": 2626,
           "title": "How to Get Started With Navigation in Flutter Using AutoRoute",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1757340174515/e1614c20-e403-44a7-8509-514c6839bc4c.png"
-        },
-        {
-          "id": "68bb7a5a881edef26f226cde",
-          "author": "Pedro",
-          "description": "Go 1.25 isn’t a flashy release with big syntax changes. Instead, it’s a practical one: it fixes long-standing pitfalls, improves runtime safety, adds smarter tooling, and introduces a powerful new JSON engine. These are the kind of updates that make ...",
-          "link": "https://www.freecodecamp.org/news/what-is-new-in-go/",
-          "publishedOn": "2025-09-06T00:03:38.000Z",
-          "wordCount": 2046,
-          "title": "What is New in Go 1.25? Explained with Examples",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1757071558420/9a83b3fb-dbea-4d38-96ca-460bf20c213d.png"
-        },
-        {
-          "id": "68bb12907f6ca0ada2df447f",
-          "author": "Gabor Koos",
-          "description": "Golang has a reputation for simplicity, and one reason is its small set of core data structures. Unlike some languages that offer lists, vectors, dictionaries, hashmaps, tuples, sets, and more, Go keeps things minimal. The three fundamental building ...",
-          "link": "https://www.freecodecamp.org/news/arrays-slices-and-maps-in-go-a-quick-guide-to-collection-types/",
-          "publishedOn": "2025-09-05T16:40:48.000Z",
-          "wordCount": 4994,
-          "title": "Arrays, Slices, and Maps in Go: a Quick Guide to Collection Types",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1757090426408/327ded41-5020-4f83-afa2-334f15569998.png"
-        },
-        {
-          "id": "68bb0031e67497d3bf64ec82",
-          "author": "Atuoha Anthony",
-          "description": "Uploading files is one of the most common requirements in modern web applications. Whether it’s profile pictures, documents, or bulk uploads, users expect a smooth and reliable experience. With Flutter Web and Firebase Storage, you can implement this...",
-          "link": "https://www.freecodecamp.org/news/how-to-build-an-upload-service-in-flutter-web-with-firebase/",
-          "publishedOn": "2025-09-05T15:22:25.000Z",
-          "wordCount": 3398,
-          "title": "How to Build an Upload Service in Flutter Web with Firebase",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1757085725508/3ff2d66d-5b3b-4784-904b-de7b464de41b.png"
-        },
-        {
-          "id": "68baff7226d95038487cbb1f",
-          "author": "Tarun Singh",
-          "description": "The world is shifting from simple AI chatbots answering our queries to full-fledged systems that are capable of so much more. AI Agents can not only answer our queries but can also perform tasks we give them independently, making them much more power...",
-          "link": "https://www.freecodecamp.org/news/how-to-build-an-ai-study-planner-agent-using-gemini-in-python/",
-          "publishedOn": "2025-09-05T15:19:14.000Z",
-          "wordCount": 3567,
-          "title": "How to Build an AI Study Planner Agent using Gemini in Python",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1757085526077/66391609-bf27-4206-aa29-382508d15ee8.png"
-        },
-        {
-          "id": "68bafb5703bcabb153325d47",
-          "author": "Tom Mondloch",
-          "description": "The freeCodeCamp community is excited to announce that our new Daily Coding Challenges are ready for you to tackle. 🎊 Consistent practice is one of the most effective ways to improve your coding skills. So in addition to the core coding curriculum, ...",
-          "link": "https://www.freecodecamp.org/news/introducing-freecodecamp-daily-python-and-javascript-challenges-solve-a-new-programming-puzzle-every-day/",
-          "publishedOn": "2025-09-05T15:01:43.000Z",
-          "wordCount": 1141,
-          "title": "Introducing freeCodeCamp Daily Python and JavaScript Challenges – Solve a New Programming Puzzle Every Day",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1757012321426/66cb1d9b-b2e1-4911-bea5-ca1f1308ca35.png"
-        },
-        {
-          "id": "68bafafeb9e1fc8577966b86",
-          "author": "Beau Carnes",
-          "description": "For this week's interview, Quincy is talking with Ania Kubów. She's a software engineer and prolific programming teacher on YouTube. She shares tips for: Getting into game development and using JavaScript and browser games as an entry point How to ...",
-          "link": "https://www.freecodecamp.org/news/how-to-focus-on-building-your-skills-when-everythings-so-distracting-with-ania-kubow-podcast-187/",
-          "publishedOn": "2025-09-05T15:00:14.000Z",
-          "wordCount": 1408,
-          "title": "How to focus on building your skills when everything's so distracting with Ania Kubów [Podcast #187]",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1757029732024/f7c52449-77f9-4fa4-bbd5-34c3773658dd.png"
         }
       ]
     }
