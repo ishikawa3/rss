@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=389550",
+          "author": "Andy Clarke",
+          "description": "There are so many creative opportunities for using shape-outside that I’m surprised I see it used so rarely. So, how can you use it to add personality to a design? Here’s how I do it.\nGetting Creative With shape-outside originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/getting-creative-with-shape-outside/",
+          "publishedOn": "2025-10-06T15:45:40.000Z",
+          "wordCount": 3095,
+          "title": "Getting Creative With shape-outside",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/10/s_3EDD0D53C943B8C049C7F94CCE0401810B7E10ADC9A32E2DF8EBA64F2023E651_1759072311579_2025-09-28-13.webp"
+        },
+        {
           "id": "https://css-tricks.com/?p=389238",
           "author": "Geoff Graham",
           "description": "Naturally, everything looks like code when I'm staring at a blank canvas. That's whether the canvas is paper, a screen, some Figma artboard, or what have you.\nSame Idea, Different Paint Brush originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -133,6 +143,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2025/10/smashing-animations-part-5-building-adaptive-svgs/",
+          "author": "hello@smashingmagazine.com (Andy Clarke)",
+          "description": "SVGs, they scale, yes, but how else can you make them adapt even better to several screen sizes? Web design pioneer Andy Clarke explains how he builds what he calls “adaptive SVGs” using ``, ``, and CSS Media Queries.",
+          "link": "https://smashingmagazine.com/2025/10/smashing-animations-part-5-building-adaptive-svgs/",
+          "publishedOn": "2025-10-06T13:00:00.000Z",
+          "wordCount": 4378,
+          "title": "Smashing Animations Part 5: Building Adaptive SVGs With `<symbol>`, `<use>`, And CSS Media Queries",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/smashing-animations-part-5-building-adaptive-svgs/smashing-animations-part-5-building-adaptive-svgs.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/smashing-animations-part-5-building-adaptive-svgs/smashing-animations-part-5-building-adaptive-svgs.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2025/10/intent-prototyping-practical-guide-building-clarity/",
           "author": "hello@smashingmagazine.com (Yegor Gilyov)",
@@ -320,6 +345,56 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "68e413e6f01f4d585b1f9e1b",
+          "author": "Abhijeet Dave",
+          "description": "What if you could build a responsive and stunning landing page in minutes, with little to no coding? Well, AI tools like Context7 MCP make it possible to automate design tasks and seamlessly integrate them with powerful frameworks like Bootstrap 5. I...",
+          "link": "https://www.freecodecamp.org/news/create-a-landing-page-with-bootstrap-5-and-context7-mcp-ai/",
+          "publishedOn": "2025-10-06T19:09:26.000Z",
+          "wordCount": 5105,
+          "title": "How to Create a Landing Page with Bootstrap 5 and Context7 MCP AI",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1759776218071/dce01b69-3ae9-46da-b4a4-e9a98e42f5d1.png"
+        },
+        {
+          "id": "68e40c4dd441014d7e52dc0d",
+          "author": "Adejumo Ridwan Suleiman",
+          "description": "When analyzing time series data, your main objective is to consider the period during which the data is collected and how your variable of interest changes over time. There are various libraries for time series forecasting in Python, and Darts is one...",
+          "link": "https://www.freecodecamp.org/news/how-to-forecast-time-series-data-with-python-darts/",
+          "publishedOn": "2025-10-06T18:37:01.000Z",
+          "wordCount": 3088,
+          "title": "How to Forecast Time Series Data with Python Darts",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1759775700643/6f7d18b3-2060-4708-b56e-3450acf58546.png"
+        },
+        {
+          "id": "68e3da89c573b56a3f251e06",
+          "author": "Gabor Koos",
+          "description": "Pointers are a fundamental but often dreaded concept in every programming language that supports them. Luckily for us, Go makes working with pointers straightforward and safe. In this article, we will demystify pointers in Go. You'll learn: What poi...",
+          "link": "https://www.freecodecamp.org/news/learn-how-to-use-pointers-in-go-with-example-code/",
+          "publishedOn": "2025-10-06T15:04:41.000Z",
+          "wordCount": 3593,
+          "title": "Learn How to Use Pointers in Go – With Example Code",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1759763060124/8b3f21fa-052e-4c18-a1b4-9fe4fd456830.png"
+        },
+        {
+          "id": "68e3c7cb1d3d8a04b5f135c2",
+          "author": "Atuoha Anthony",
+          "description": "Flutter is a UI toolkit developed by Google. It’s gained immense popularity for its ability to create beautiful and natively compiled applications for mobile, web, and desktop from a single codebase. While Dart, the language behind Flutter, is powerf...",
+          "link": "https://www.freecodecamp.org/news/how-to-use-freezed-in-flutter/",
+          "publishedOn": "2025-10-06T13:44:43.000Z",
+          "wordCount": 2866,
+          "title": "How to Use Freezed in Flutter",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1759758218094/78645767-b4be-4210-9adb-a137ea605c9c.png"
+        },
+        {
+          "id": "68e3c692aa82abf4b593114c",
+          "author": "OMOTAYO OMOYEMI",
+          "description": "Gesture and sign recognition is a growing field in computer vision, powering accessibility tools and natural user interfaces. Most beginner projects rely on hand landmarks or small CNNs, but these often miss the bigger picture because gestures are no...",
+          "link": "https://www.freecodecamp.org/news/using-transformers-for-real-time-gesture-recognition/",
+          "publishedOn": "2025-10-06T13:39:30.000Z",
+          "wordCount": 5086,
+          "title": "How to Use Transformers for Real-Time Gesture Recognition",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1759757931295/5f19fd4e-93c0-4bd7-a75c-a7858e061ecd.png"
+        },
         {
           "id": "68e0186a13e5a2b425ebad2e",
           "author": "Atuoha Anthony",

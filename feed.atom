@@ -2,10 +2,81 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-06T00:14:50.264Z</updated>
+    <updated>2025-10-07T00:14:14.695Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Create a Landing Page with Bootstrap 5 and Context7 MCP AI]]></title>
+        <id>68e413e6f01f4d585b1f9e1b</id>
+        <link href="https://www.freecodecamp.org/news/create-a-landing-page-with-bootstrap-5-and-context7-mcp-ai/"/>
+        <updated>2025-10-06T19:09:26.000Z</updated>
+        <summary type="html"><![CDATA[What if you could build a responsive and stunning landing page in minutes, with little to no coding? Well, AI tools like Context7 MCP make it possible to automate design tasks and seamlessly integrate them with powerful frameworks like Bootstrap 5. I...]]></summary>
+        <author>
+            <name>Abhijeet Dave</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Forecast Time Series Data with Python Darts]]></title>
+        <id>68e40c4dd441014d7e52dc0d</id>
+        <link href="https://www.freecodecamp.org/news/how-to-forecast-time-series-data-with-python-darts/"/>
+        <updated>2025-10-06T18:37:01.000Z</updated>
+        <summary type="html"><![CDATA[When analyzing time series data, your main objective is to consider the period during which the data is collected and how your variable of interest changes over time. There are various libraries for time series forecasting in Python, and Darts is one...]]></summary>
+        <author>
+            <name>Adejumo Ridwan Suleiman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Getting Creative With shape-outside]]></title>
+        <id>https://css-tricks.com/?p=389550</id>
+        <link href="https://css-tricks.com/getting-creative-with-shape-outside/"/>
+        <updated>2025-10-06T15:45:40.000Z</updated>
+        <summary type="html"><![CDATA[There are so many creative opportunities for using shape-outside that I’m surprised I see it used so rarely. So, how can you use it to add personality to a design? Here’s how I do it.
+Getting Creative With shape-outside originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Andy Clarke</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn How to Use Pointers in Go – With Example Code]]></title>
+        <id>68e3da89c573b56a3f251e06</id>
+        <link href="https://www.freecodecamp.org/news/learn-how-to-use-pointers-in-go-with-example-code/"/>
+        <updated>2025-10-06T15:04:41.000Z</updated>
+        <summary type="html"><![CDATA[Pointers are a fundamental but often dreaded concept in every programming language that supports them. Luckily for us, Go makes working with pointers straightforward and safe. In this article, we will demystify pointers in Go. You'll learn: What poi...]]></summary>
+        <author>
+            <name>Gabor Koos</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use Freezed in Flutter]]></title>
+        <id>68e3c7cb1d3d8a04b5f135c2</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-freezed-in-flutter/"/>
+        <updated>2025-10-06T13:44:43.000Z</updated>
+        <summary type="html"><![CDATA[Flutter is a UI toolkit developed by Google. It’s gained immense popularity for its ability to create beautiful and natively compiled applications for mobile, web, and desktop from a single codebase. While Dart, the language behind Flutter, is powerf...]]></summary>
+        <author>
+            <name>Atuoha Anthony</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use Transformers for Real-Time Gesture Recognition]]></title>
+        <id>68e3c692aa82abf4b593114c</id>
+        <link href="https://www.freecodecamp.org/news/using-transformers-for-real-time-gesture-recognition/"/>
+        <updated>2025-10-06T13:39:30.000Z</updated>
+        <summary type="html"><![CDATA[Gesture and sign recognition is a growing field in computer vision, powering accessibility tools and natural user interfaces. Most beginner projects rely on hand landmarks or small CNNs, but these often miss the bigger picture because gestures are no...]]></summary>
+        <author>
+            <name>OMOTAYO OMOYEMI</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Smashing Animations Part 5: Building Adaptive SVGs With `<symbol>`, `<use>`, And CSS Media Queries]]></title>
+        <id>https://smashingmagazine.com/2025/10/smashing-animations-part-5-building-adaptive-svgs/</id>
+        <link href="https://smashingmagazine.com/2025/10/smashing-animations-part-5-building-adaptive-svgs/"/>
+        <updated>2025-10-06T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[SVGs, they scale, yes, but how else can you make them adapt even better to several screen sizes? Web design pioneer Andy Clarke explains how he builds what he calls “adaptive SVGs” using ``, ``, and CSS Media Queries.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Andy Clarke)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Use Animations in Flutter]]></title>
         <id>68e0186a13e5a2b425ebad2e</id>
