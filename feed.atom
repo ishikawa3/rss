@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-07T00:14:14.695Z</updated>
+    <updated>2025-10-08T00:14:29.627Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Build an Adaptive Tic-Tac-Toe AI with Reinforcement Learning in JavaScript]]></title>
+        <id>68e57cd7b148e87f05670d05</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-an-adaptive-tic-tac-toe-ai-with-reinforcement-learning-in-javascript/"/>
+        <updated>2025-10-07T20:49:27.000Z</updated>
+        <summary type="html"><![CDATA[Reinforcement learning (RL) is one of the most powerful paradigms in artificial intelligence. Unlike supervised learning where you train models on labeled datasets, RL agents learn through direct interaction with their environment, receiving rewards ...]]></summary>
+        <author>
+            <name>Mayur Vekariya</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Docker Build Tutorial: Learn Contexts, Architecture, and Performance Optimization Techniques]]></title>
+        <id>68e559d8ac28fbe4acae92be</id>
+        <link href="https://www.freecodecamp.org/news/docker-build-tutorial-learn-contexts-architecture-and-performance-optimization-techniques/"/>
+        <updated>2025-10-07T18:20:08.000Z</updated>
+        <summary type="html"><![CDATA[Docker build is a fundamental concept every developer needs to understand. Whether you're containerizing your first application or optimizing existing Docker workflows, understanding Docker build contexts and Docker build architecture is essential fo...]]></summary>
+        <author>
+            <name>Destiny Erhabor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Custom AI Chat Application with Next.js: Fine-Tune GPT Using Your Data]]></title>
+        <id>68e4f54b40f8bf1b48305e00</id>
+        <link href="https://www.freecodecamp.org/news/build-a-custom-ai-chat-application-with-nextjs/"/>
+        <updated>2025-10-07T11:11:07.000Z</updated>
+        <summary type="html"><![CDATA[In 2025, AI-powered applications have advanced from generic chatbots to highly specialised assistants that understand your specific field, communicate in your style, and give contextually relevant answers. While Large Language Models (LLMs) like GPT-...]]></summary>
+        <author>
+            <name>Sharvin Shah</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Create a Landing Page with Bootstrap 5 and Context7 MCP AI]]></title>
         <id>68e413e6f01f4d585b1f9e1b</id>

@@ -346,6 +346,36 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "68e57cd7b148e87f05670d05",
+          "author": "Mayur Vekariya",
+          "description": "Reinforcement learning (RL) is one of the most powerful paradigms in artificial intelligence. Unlike supervised learning where you train models on labeled datasets, RL agents learn through direct interaction with their environment, receiving rewards ...",
+          "link": "https://www.freecodecamp.org/news/how-to-build-an-adaptive-tic-tac-toe-ai-with-reinforcement-learning-in-javascript/",
+          "publishedOn": "2025-10-07T20:49:27.000Z",
+          "wordCount": 7233,
+          "title": "How to Build an Adaptive Tic-Tac-Toe AI with Reinforcement Learning in JavaScript",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1759870150966/f65a07a6-123b-45e2-a3f2-bc099638825a.png"
+        },
+        {
+          "id": "68e559d8ac28fbe4acae92be",
+          "author": "Destiny Erhabor",
+          "description": "Docker build is a fundamental concept every developer needs to understand. Whether you're containerizing your first application or optimizing existing Docker workflows, understanding Docker build contexts and Docker build architecture is essential fo...",
+          "link": "https://www.freecodecamp.org/news/docker-build-tutorial-learn-contexts-architecture-and-performance-optimization-techniques/",
+          "publishedOn": "2025-10-07T18:20:08.000Z",
+          "wordCount": 4304,
+          "title": "Docker Build Tutorial: Learn Contexts, Architecture, and Performance Optimization Techniques",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1759861193876/871b72e7-9673-4572-b788-48f082a6b380.png"
+        },
+        {
+          "id": "68e4f54b40f8bf1b48305e00",
+          "author": "Sharvin Shah",
+          "description": "In 2025, AI-powered applications have advanced from generic chatbots to highly specialised assistants that understand your specific field, communicate in your style, and give contextually relevant answers. While Large Language Models (LLMs) like GPT-...",
+          "link": "https://www.freecodecamp.org/news/build-a-custom-ai-chat-application-with-nextjs/",
+          "publishedOn": "2025-10-07T11:11:07.000Z",
+          "wordCount": 6939,
+          "title": "How to Build a Custom AI Chat Application with Next.js: Fine-Tune GPT Using Your Data",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1759834368425/fc26010c-077e-4af9-86cd-e16f1c218560.png"
+        },
+        {
           "id": "68e413e6f01f4d585b1f9e1b",
           "author": "Abhijeet Dave",
           "description": "What if you could build a responsive and stunning landing page in minutes, with little to no coding? Well, AI tools like Context7 MCP make it possible to automate design tasks and seamlessly integrate them with powerful frameworks like Bootstrap 5. I...",
