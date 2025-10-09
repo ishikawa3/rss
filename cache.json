@@ -346,6 +346,36 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "68e6ab03a5598a61a63ce39d",
+          "author": "Sumit Saha",
+          "description": "JWT stands for JSON Web Token, and it’s one of those terms you’ll constantly come across in modern web development. At its core, a JWT is a JSON-based open standard format that allows you to represent specific claims securely between two parties. The...",
+          "link": "https://www.freecodecamp.org/news/the-json-web-token-handbook-learn-to-use-jwts-for-web-authentication/",
+          "publishedOn": "2025-10-08T18:18:43.000Z",
+          "wordCount": 6837,
+          "title": "The JSON Web Token Handbook: Learn to Use JWTs for Web Authentication",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1759947512495/9c8aee78-1a83-4958-8c01-110e2247286d.png"
+        },
+        {
+          "id": "68e68c6be9add39908327891",
+          "author": "Bala Priya C",
+          "description": "Environment variables let you configure applications without hardcoding sensitive information directly into your source code. They're particularly useful for storing API keys, database credentials, and configuration settings that change between devel...",
+          "link": "https://www.freecodecamp.org/news/how-to-work-with-environment-variables-in-python/",
+          "publishedOn": "2025-10-08T16:08:11.000Z",
+          "wordCount": 1954,
+          "title": "How to Work with Environment Variables in Python",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1759939671494/fa0f31c9-99e4-43d6-94df-894e0da263f5.png"
+        },
+        {
+          "id": "68e68c3655c4d79b6db4f4c4",
+          "author": "Ajay Yadav",
+          "description": "As a software engineer, you should always be open to the challenges this field brings. Two months ago, my project manager assigned me a task: write test cases for an API. I was super excited because it meant I got to learn something new beyond just c...",
+          "link": "https://www.freecodecamp.org/news/how-to-test-javascript-apps-from-unit-tests-to-ai-augmented-qa/",
+          "publishedOn": "2025-10-08T16:07:18.000Z",
+          "wordCount": 3409,
+          "title": "How to Test JavaScript Apps: From Unit Tests to AI-Augmented QA",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1759939599135/507c5e9a-954b-497b-b3b8-c8d89b2d1a03.png"
+        },
+        {
           "id": "68e57cd7b148e87f05670d05",
           "author": "Mayur Vekariya",
           "description": "Reinforcement learning (RL) is one of the most powerful paradigms in artificial intelligence. Unlike supervised learning where you train models on labeled datasets, RL agents learn through direct interaction with their environment, receiving rewards ...",
@@ -974,56 +1004,6 @@
           "wordCount": 2894,
           "title": "How to Automate API Documentation Updates with GitHub Actions and OpenAPI Specifications",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1757428080226/175085d0-cfea-41a0-aa52-a50ad8212980.png"
-        },
-        {
-          "id": "68bf3ea02c935a9d306bb65a",
-          "author": "Mayur Vekariya",
-          "description": "As a dev, you’d probably like to write your application once and not have to worry so much about where it's going to run. This is what the open source framework Hono lets you do, and it’s a game-changer. Hono is a small, incredibly fast web framework...",
-          "link": "https://www.freecodecamp.org/news/build-production-ready-web-apps-with-hono/",
-          "publishedOn": "2025-09-08T20:37:52.000Z",
-          "wordCount": 4425,
-          "title": "How to Build Production-Ready Web Apps with the Hono Framework: A Deep Dive",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1757363825321/562644c8-b2b3-4c1c-92c2-736bcade5aac.png"
-        },
-        {
-          "id": "68bef0e832085a1cd1a86107",
-          "author": "Happiness Omale",
-          "description": "Imagine that you’re sipping a hot latte from Starbucks on your way to work. You quickly swipe your card, and the receipt gets lost in your bag. Later in the day, you pay for an Uber ride, order lunch, and buy airtime. By evening, you know you’ve spen...",
-          "link": "https://www.freecodecamp.org/news/build-smart-expense-tracker-with-python-and-llms/",
-          "publishedOn": "2025-09-08T15:06:16.000Z",
-          "wordCount": 3136,
-          "title": "How to Build a Smart Expense Tracker with Python and LLMs",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1757342938389/164c8a45-d566-4de4-9a0f-cc9c270ce262.png"
-        },
-        {
-          "id": "68beece9aaba834ff6c89ad9",
-          "author": "Beau Carnes",
-          "description": "The iOS App Store submission process can feel like a daunting maze, but it doesn’t have to be. We just posted a course on the freeCodeCamp.org YouTube channel is designed to be your guide through this entire process, from start to finish. Shad Rayhan...",
-          "link": "https://www.freecodecamp.org/news/how-to-submit-an-app-to-the-ios-app-store/",
-          "publishedOn": "2025-09-08T14:49:13.000Z",
-          "wordCount": 1051,
-          "title": "How to Submit an App to the iOS App Store",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1757341462696/49823d35-ea00-400e-b90a-2df3f6edc5c6.png"
-        },
-        {
-          "id": "68bee731d2147595571c5b44",
-          "author": "Orim Dominic Adah",
-          "description": "Postman is a platform used by developers, API testers, technical writers and DevOps teams for testing, documenting and collaborating on API development. It provides a user-friendly interface for making different types of API requests (HTTP, GraphQL, ...",
-          "link": "https://www.freecodecamp.org/news/how-to-use-postman-scripts/",
-          "publishedOn": "2025-09-08T14:24:49.000Z",
-          "wordCount": 1791,
-          "title": "How to Use Postman Scripts to Simplify Your API Authentication Process",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1757341168209/dc77dc00-a0a6-40f7-b766-ce07d0d8a637.png"
-        },
-        {
-          "id": "68bee239d2147595571c5b1a",
-          "author": "Atuoha Anthony",
-          "description": "Navigation is one of the most important parts of any mobile application. Users expect to move seamlessly between screens such as home, settings, profile, and more. While Flutter provides built-in navigation using Navigator, managing routes can quickl...",
-          "link": "https://www.freecodecamp.org/news/how-to-get-started-with-navigation-in-flutter-using-autoroute/",
-          "publishedOn": "2025-09-08T14:03:37.000Z",
-          "wordCount": 2626,
-          "title": "How to Get Started With Navigation in Flutter Using AutoRoute",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1757340174515/e1614c20-e403-44a7-8509-514c6839bc4c.png"
         }
       ]
     }
