@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=389698",
+          "author": "Geoff Graham",
+          "description": "One of our favorites, Andy Clarke, on the one thing keeping the CSS contrast-color() function from true glory:\nFor my website design, I chose a dark blue background colour (#212E45) and light text (#d3d5da). This \n…\nThe thing about contrast-color originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/the-thing-about-contrast-color/",
+          "publishedOn": "2025-10-08T14:52:58.000Z",
+          "wordCount": 1858,
+          "title": "The thing about contrast-color",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2020/03/contrast-colors.jpg"
+        },
+        {
           "id": "https://css-tricks.com/?p=389550",
           "author": "Andy Clarke",
           "description": "There are so many creative opportunities for using shape-outside that I’m surprised I see it used so rarely. So, how can you use it to add personality to a design? Here’s how I do it.\nGetting Creative With shape-outside originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -125,16 +135,6 @@
           "wordCount": 2469,
           "title": "What’re Your Top 4 CSS Properties?",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2024/09/properties.webp"
-        },
-        {
-          "id": "https://css-tricks.com/?p=388424",
-          "author": "Zell Liew",
-          "description": "CSS is a composable language by nature. This composition nature is already built into the cascade. We simply don't talk about composition as a Big Thing because it's the nature of the language.\nComposition in CSS originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/composition-in-css/",
-          "publishedOn": "2025-09-08T13:55:26.000Z",
-          "wordCount": 2513,
-          "title": "Composition in CSS",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2021/12/default-social-css-tricks.png"
         }
       ]
     },
@@ -322,21 +322,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/ux-strategies-real-time-dashboards/ux-strategies-real-time-dashboards.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2025/09/integrating-css-cascade-layers-existing-project/",
-          "author": "hello@smashingmagazine.com (Victor Ayomipo)",
-          "description": "The idea behind this is to share a full, unfiltered look at integrating CSS Cascade Layers into an existing legacy codebase. In practice, it’s about refactoring existing CSS to use cascade layers without breaking anything.",
-          "link": "https://smashingmagazine.com/2025/09/integrating-css-cascade-layers-existing-project/",
-          "publishedOn": "2025-09-10T10:00:00.000Z",
-          "wordCount": 5852,
-          "title": "Integrating CSS Cascade Layers To An Existing Project",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/integrating-css-cascade-layers-existing-project/integrating-css-cascade-layers-existing-project.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/integrating-css-cascade-layers-existing-project/integrating-css-cascade-layers-existing-project.jpg"
         }
       ]
     },
@@ -345,6 +330,76 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "68e7d980bc03067a7e96f306",
+          "author": "Mark Mahoney",
+          "description": "Recreating the First Machine Learning Demo In 1958, Frank Rosenblatt demonstrated something remarkable to reporters in Washington, D.C. His \"perceptron\" could look at cards with shapes on them and tell which side the shape was on. The remarkable thin...",
+          "link": "https://www.freecodecamp.org/news/machine-learning-tutorial-how-to-program-without-creating-your-own-algorithms/",
+          "publishedOn": "2025-10-09T15:49:20.000Z",
+          "wordCount": 1702,
+          "title": "Machine Learning Tutorial: How to Program Without Creating Your Own Algorithms",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1760024939823/c2c53158-a2ec-4fe2-b222-236bef773e6b.png"
+        },
+        {
+          "id": "68e7c8517c1c20cab7c3737b",
+          "author": "Beau Carnes",
+          "description": "Are you ready to master the art of data management using one of the most essential languages in the world of computing? Introducing CS50 SQL, Harvard University's focused video course dedicated to an introduction to databases using a language called ...",
+          "link": "https://www.freecodecamp.org/news/learn-databases-and-sql-from-harvard-university/",
+          "publishedOn": "2025-10-09T14:36:01.000Z",
+          "wordCount": 1052,
+          "title": "Learn Databases and SQL from Harvard University",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1760020545784/53c7451f-ea27-4471-afa6-87c1ca44827a.jpeg"
+        },
+        {
+          "id": "68e7c63485bb550e2fceeb6f",
+          "author": "Beau Carnes",
+          "description": "Want to learn how to combine React 19 and AI LLMs to build something handy? We just published a course on the freeCodeCamp.org YouTube channel that will teach you to build an AI-powered Code Explainer App from scratch. Tapas Adhikary created this cou...",
+          "link": "https://www.freecodecamp.org/news/react-project-tutorial-build-an-ai-code-explainer/",
+          "publishedOn": "2025-10-09T14:27:00.000Z",
+          "wordCount": 1045,
+          "title": "React Project Tutorial – Build an AI Code Explainer",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1760020000428/7a75a52c-fd9b-4e7b-8500-e936b7a94460.jpeg"
+        },
+        {
+          "id": "68e7c5326d2d054fee0c0ed0",
+          "author": "Beau Carnes",
+          "description": "Have you ever wondered about the history of vision transformers? We just published a course on the freeCodeCamp.org YouTube channel that is a conceptual and architectural journey through deep learning vision models, tracing the evolution from LeNet a...",
+          "link": "https://www.freecodecamp.org/news/the-history-of-deep-learning-vision-architectures/",
+          "publishedOn": "2025-10-09T14:22:42.000Z",
+          "wordCount": 1005,
+          "title": "The History of Deep Learning Vision Architectures",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1760019746984/9956c742-fbf4-4da7-b3f9-8a22967c1ba9.jpeg"
+        },
+        {
+          "id": "68e7c3f924b6c99d1467d409",
+          "author": "Beau Carnes",
+          "description": "He's a self-taught software engineer who got his first developer job at age 43. He spent decades working in manufacturing while raising his kids, before using freeCodeCamp to learn programming. He was able to translate his JavaScript skills into work...",
+          "link": "https://www.freecodecamp.org/news/from-manufacturing-worker-to-first-developer-job-at-age-43-with-thomas-gooch-podcast-191/",
+          "publishedOn": "2025-10-09T14:17:29.000Z",
+          "wordCount": 1342,
+          "title": "From manufacturing worker to first developer job at age 43 with Thomas Gooch [Podcast #191]",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1760019279104/f82fb425-d635-436a-8daa-8e2122efa2ec.jpeg"
+        },
+        {
+          "id": "68e70e0ecfc3d2834515166c",
+          "author": "Tapas Adhikary",
+          "description": "Have you ever opened React project source code and wondered why things are so messy? Have you ever tried adding a feature to a React component created by someone else and felt that you needed to rewrite it? Have you felt nightmarish in tackling state...",
+          "link": "https://www.freecodecamp.org/news/compound-components-pattern-in-react/",
+          "publishedOn": "2025-10-09T01:21:18.000Z",
+          "wordCount": 4147,
+          "title": "How to Use the Compound Components Pattern in React: Prop Soup to Flexible UIs",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1759972853846/49e605c8-be15-44a4-9fc6-283be0cc0e4c.png"
+        },
+        {
+          "id": "68e70d838fa4b92d9a027ebe",
+          "author": "Chirag Agrawal",
+          "description": "Have you ever built a brilliant time-series model, one that could forecast sales or predict stock prices, only to watch it fail in the real world? Well, this is a common frustration. Your model works perfectly on your machine, but the moment you depl...",
+          "link": "https://www.freecodecamp.org/news/how-to-persist-state-in-time-series-models-with-docker-and-redis/",
+          "publishedOn": "2025-10-09T01:18:59.000Z",
+          "wordCount": 2590,
+          "title": "How to Persist State in Time-Series Models with Docker and Redis",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1759972706788/66d45afa-f86b-4365-8a55-8b6873df718b.png"
+        },
         {
           "id": "68e6ab03a5598a61a63ce39d",
           "author": "Sumit Saha",
@@ -974,36 +1029,6 @@
           "wordCount": 1086,
           "title": "Learn Game Development by Building Your First Platformer with Godot",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1757366007955/01b7fca7-e8f1-49b6-9b4b-c44bc22204e7.png"
-        },
-        {
-          "id": "68c169e7d950044818727fd6",
-          "author": "Ophy Boamah",
-          "description": "Building a browser extension is easy, but ensuring that it’s accessible to everyone takes deliberate care and skill. Your extension might fetch data flawlessly and have a beautiful interface, but if screen reader users or keyboard navigators can’t us...",
-          "link": "https://www.freecodecamp.org/news/how-to-design-accessible-browser-extensions/",
-          "publishedOn": "2025-09-10T12:07:03.000Z",
-          "wordCount": 2370,
-          "title": "How to Design Accessible Browser Extensions",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1757460414092/f3a9f3ec-f520-4627-b839-a28f15574ba6.png"
-        },
-        {
-          "id": "68c03b5738ba5d78dfb7c607",
-          "author": "Atuoha Anthony",
-          "description": "In this tutorial, we’ll build a Flutter application that demonstrates how to perform CRUD (Create, Read, Update, Delete) operations using Hive for local data storage. Hive is a lightweight, fast key-value database written in pure Dart. Unlike SQLite,...",
-          "link": "https://www.freecodecamp.org/news/how-to-store-data-locally-using-hive-in-flutter/",
-          "publishedOn": "2025-09-09T14:36:07.000Z",
-          "wordCount": 3528,
-          "title": "How to Store Data Locally Using Hive in Flutter",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1757428555303/4228b0b2-9edf-48af-a917-2535b6adffa3.png"
-        },
-        {
-          "id": "68c0398aeff4d53c8494c5ab",
-          "author": "EZINNE ANNE EMILIA",
-          "description": "Maintaining up-to-date API documentation is often one of the biggest pain points for developers and teams. Too often, the API spec changes but the docs lag behind, leaving developers with outdated or inconsistent information. This frustrates consumer...",
-          "link": "https://www.freecodecamp.org/news/how-to-automate-api-documentation-updates-with-github-actions-and-openapi-specifications/",
-          "publishedOn": "2025-09-09T14:28:26.000Z",
-          "wordCount": 2894,
-          "title": "How to Automate API Documentation Updates with GitHub Actions and OpenAPI Specifications",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1757428080226/175085d0-cfea-41a0-aa52-a50ad8212980.png"
         }
       ]
     }

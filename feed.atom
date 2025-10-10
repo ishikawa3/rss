@@ -2,10 +2,80 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-09T00:14:00.287Z</updated>
+    <updated>2025-10-10T00:14:36.544Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Machine Learning Tutorial: How to Program Without Creating Your Own Algorithms]]></title>
+        <id>68e7d980bc03067a7e96f306</id>
+        <link href="https://www.freecodecamp.org/news/machine-learning-tutorial-how-to-program-without-creating-your-own-algorithms/"/>
+        <updated>2025-10-09T15:49:20.000Z</updated>
+        <summary type="html"><![CDATA[Recreating the First Machine Learning Demo In 1958, Frank Rosenblatt demonstrated something remarkable to reporters in Washington, D.C. His "perceptron" could look at cards with shapes on them and tell which side the shape was on. The remarkable thin...]]></summary>
+        <author>
+            <name>Mark Mahoney</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn Databases and SQL from Harvard University]]></title>
+        <id>68e7c8517c1c20cab7c3737b</id>
+        <link href="https://www.freecodecamp.org/news/learn-databases-and-sql-from-harvard-university/"/>
+        <updated>2025-10-09T14:36:01.000Z</updated>
+        <summary type="html"><![CDATA[Are you ready to master the art of data management using one of the most essential languages in the world of computing? Introducing CS50 SQL, Harvard University's focused video course dedicated to an introduction to databases using a language called ...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[React Project Tutorial – Build an AI Code Explainer]]></title>
+        <id>68e7c63485bb550e2fceeb6f</id>
+        <link href="https://www.freecodecamp.org/news/react-project-tutorial-build-an-ai-code-explainer/"/>
+        <updated>2025-10-09T14:27:00.000Z</updated>
+        <summary type="html"><![CDATA[Want to learn how to combine React 19 and AI LLMs to build something handy? We just published a course on the freeCodeCamp.org YouTube channel that will teach you to build an AI-powered Code Explainer App from scratch. Tapas Adhikary created this cou...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The History of Deep Learning Vision Architectures]]></title>
+        <id>68e7c5326d2d054fee0c0ed0</id>
+        <link href="https://www.freecodecamp.org/news/the-history-of-deep-learning-vision-architectures/"/>
+        <updated>2025-10-09T14:22:42.000Z</updated>
+        <summary type="html"><![CDATA[Have you ever wondered about the history of vision transformers? We just published a course on the freeCodeCamp.org YouTube channel that is a conceptual and architectural journey through deep learning vision models, tracing the evolution from LeNet a...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From manufacturing worker to first developer job at age 43 with Thomas Gooch [Podcast #191]]]></title>
+        <id>68e7c3f924b6c99d1467d409</id>
+        <link href="https://www.freecodecamp.org/news/from-manufacturing-worker-to-first-developer-job-at-age-43-with-thomas-gooch-podcast-191/"/>
+        <updated>2025-10-09T14:17:29.000Z</updated>
+        <summary type="html"><![CDATA[He's a self-taught software engineer who got his first developer job at age 43. He spent decades working in manufacturing while raising his kids, before using freeCodeCamp to learn programming. He was able to translate his JavaScript skills into work...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use the Compound Components Pattern in React: Prop Soup to Flexible UIs]]></title>
+        <id>68e70e0ecfc3d2834515166c</id>
+        <link href="https://www.freecodecamp.org/news/compound-components-pattern-in-react/"/>
+        <updated>2025-10-09T01:21:18.000Z</updated>
+        <summary type="html"><![CDATA[Have you ever opened React project source code and wondered why things are so messy? Have you ever tried adding a feature to a React component created by someone else and felt that you needed to rewrite it? Have you felt nightmarish in tackling state...]]></summary>
+        <author>
+            <name>Tapas Adhikary</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Persist State in Time-Series Models with Docker and Redis]]></title>
+        <id>68e70d838fa4b92d9a027ebe</id>
+        <link href="https://www.freecodecamp.org/news/how-to-persist-state-in-time-series-models-with-docker-and-redis/"/>
+        <updated>2025-10-09T01:18:59.000Z</updated>
+        <summary type="html"><![CDATA[Have you ever built a brilliant time-series model, one that could forecast sales or predict stock prices, only to watch it fail in the real world? Well, this is a common frustration. Your model works perfectly on your machine, but the moment you depl...]]></summary>
+        <author>
+            <name>Chirag Agrawal</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The JSON Web Token Handbook: Learn to Use JWTs for Web Authentication]]></title>
         <id>68e6ab03a5598a61a63ce39d</id>
@@ -34,6 +104,19 @@
         <summary type="html"><![CDATA[As a software engineer, you should always be open to the challenges this field brings. Two months ago, my project manager assigned me a task: write test cases for an API. I was super excited because it meant I got to learn something new beyond just c...]]></summary>
         <author>
             <name>Ajay Yadav</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The thing about contrast-color]]></title>
+        <id>https://css-tricks.com/?p=389698</id>
+        <link href="https://css-tricks.com/the-thing-about-contrast-color/"/>
+        <updated>2025-10-08T14:52:58.000Z</updated>
+        <summary type="html"><![CDATA[One of our favorites, Andy Clarke, on the one thing keeping the CSS contrast-color() function from true glory:
+For my website design, I chose a dark blue background colour (#212E45) and light text (#d3d5da). This 
+…
+The thing about contrast-color originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
         </author>
     </entry>
     <entry>
@@ -875,57 +958,6 @@ Compiling Multiple CSS Files into One originally published on CSS-Tricks, which 
 What’re Your Top 4 CSS Properties? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Design Accessible Browser Extensions]]></title>
-        <id>68c169e7d950044818727fd6</id>
-        <link href="https://www.freecodecamp.org/news/how-to-design-accessible-browser-extensions/"/>
-        <updated>2025-09-10T12:07:03.000Z</updated>
-        <summary type="html"><![CDATA[Building a browser extension is easy, but ensuring that it’s accessible to everyone takes deliberate care and skill. Your extension might fetch data flawlessly and have a beautiful interface, but if screen reader users or keyboard navigators can’t us...]]></summary>
-        <author>
-            <name>Ophy Boamah</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Integrating CSS Cascade Layers To An Existing Project]]></title>
-        <id>https://smashingmagazine.com/2025/09/integrating-css-cascade-layers-existing-project/</id>
-        <link href="https://smashingmagazine.com/2025/09/integrating-css-cascade-layers-existing-project/"/>
-        <updated>2025-09-10T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The idea behind this is to share a full, unfiltered look at integrating CSS Cascade Layers into an existing legacy codebase. In practice, it’s about refactoring existing CSS to use cascade layers without breaking anything.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Victor Ayomipo)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Store Data Locally Using Hive in Flutter]]></title>
-        <id>68c03b5738ba5d78dfb7c607</id>
-        <link href="https://www.freecodecamp.org/news/how-to-store-data-locally-using-hive-in-flutter/"/>
-        <updated>2025-09-09T14:36:07.000Z</updated>
-        <summary type="html"><![CDATA[In this tutorial, we’ll build a Flutter application that demonstrates how to perform CRUD (Create, Read, Update, Delete) operations using Hive for local data storage. Hive is a lightweight, fast key-value database written in pure Dart. Unlike SQLite,...]]></summary>
-        <author>
-            <name>Atuoha Anthony</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Automate API Documentation Updates with GitHub Actions and OpenAPI Specifications]]></title>
-        <id>68c0398aeff4d53c8494c5ab</id>
-        <link href="https://www.freecodecamp.org/news/how-to-automate-api-documentation-updates-with-github-actions-and-openapi-specifications/"/>
-        <updated>2025-09-09T14:28:26.000Z</updated>
-        <summary type="html"><![CDATA[Maintaining up-to-date API documentation is often one of the biggest pain points for developers and teams. Too often, the API spec changes but the docs lag behind, leaving developers with outdated or inconsistent information. This frustrates consumer...]]></summary>
-        <author>
-            <name>EZINNE ANNE EMILIA</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Composition in CSS]]></title>
-        <id>https://css-tricks.com/?p=388424</id>
-        <link href="https://css-tricks.com/composition-in-css/"/>
-        <updated>2025-09-08T13:55:26.000Z</updated>
-        <summary type="html"><![CDATA[CSS is a composable language by nature. This composition nature is already built into the cascade. We simply don't talk about composition as a Big Thing because it's the nature of the language.
-Composition in CSS originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Zell Liew</name>
         </author>
     </entry>
 </feed>
