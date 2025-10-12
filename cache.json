@@ -125,16 +125,6 @@
           "wordCount": 3149,
           "title": "What Can We Actually Do With corner-shape?",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/09/s_B9520AAEB8E72143A2990CEB07209D80D9AD692AC1F43B71E4BC9C84D7184887_1757081374239_Screenshot2025-09-05at8.08.39AM.png"
-        },
-        {
-          "id": "https://css-tricks.com/?p=389117",
-          "author": "Geoff Graham",
-          "description": "Stu Robson outlines two ways to compile multiple CSS files when you aren't relying on Sass for it.\nCompiling Multiple CSS Files into One originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/compiling-multiple-css-files-into-one/",
-          "publishedOn": "2025-09-11T15:16:34.000Z",
-          "wordCount": 2069,
-          "title": "Compiling Multiple CSS Files into One",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2021/08/css-modules-connections.jpg"
         }
       ]
     },
@@ -1019,36 +1009,6 @@
           "wordCount": 1691,
           "title": "Playing the Developer Job Search Game to Win in 2025 with Danny Thompson & Leon Noel [Podcast #188]",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1757626930497/bcea7147-b14c-4093-8d15-5c2115bd8c8d.png"
-        },
-        {
-          "id": "68c4087abba5a7e638ae4cd6",
-          "author": "Asfak Ahmed",
-          "description": "When users interact with a website or application, the first thing they notice isn’t the code. Instead, it’s the design and experience. Smooth navigation, intuitive layouts, and visually appealing interfaces are what keep users engaged. Behind these ...",
-          "link": "https://www.freecodecamp.org/news/why-front-end-developers-should-understand-uiux-design/",
-          "publishedOn": "2025-09-12T11:48:10.000Z",
-          "wordCount": 4854,
-          "title": "Why Front-End Developers Should Understand UI/UX Design",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1757677089930/07115f35-ba9e-452a-bf95-3a96de7a5d24.png"
-        },
-        {
-          "id": "68c3f6454edd0f63eaaf098e",
-          "author": "Tarun Singh",
-          "description": "When large language models like ChatGPT first became widely available, a lot of us developers felt like we’d been handed a new superpower. We could use LLMs to help us develop new coding projects, build websites, and much more – just using a few prom...",
-          "link": "https://www.freecodecamp.org/news/prompt-engineering-cheat-sheet-for-gpt-5/",
-          "publishedOn": "2025-09-12T10:30:29.000Z",
-          "wordCount": 3442,
-          "title": "Prompt Engineering Cheat Sheet for GPT-5: Learn These Patterns for Solid Code Generation",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1757672756195/67ddcb24-b8dd-4bf6-a83b-103940f4ae85.png"
-        },
-        {
-          "id": "68c2cf0fe8903924be3e8c8c",
-          "author": "Beau Carnes",
-          "description": "Data breaches are a constant threat, and traditional encryption practices often aren't enough to protect sensitive information throughout its entire lifecycle. We just posted a course on the freeCodeCamp.org YouTube channel that will teach you how to...",
-          "link": "https://www.freecodecamp.org/news/build-secure-web-applications-with-php-symfony-and-mongodb/",
-          "publishedOn": "2025-09-11T13:30:55.000Z",
-          "wordCount": 1124,
-          "title": "Build Secure Web Applications with PHP, Symfony, and MongoDB",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1757573041841/0bbcb80c-76b9-4792-be3b-fba79ea344b1.png"
         }
       ]
     }

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-11T00:13:29.958Z</updated>
+    <updated>2025-10-12T00:14:43.178Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
@@ -935,47 +935,6 @@ What Can We Actually Do With corner-shape? originally published on CSS-Tricks, w
         <link href="https://www.freecodecamp.org/news/playing-the-developer-job-search-game-to-win-in-2025-with-danny-thompson-and-leon-noel-podcast-188/"/>
         <updated>2025-09-12T14:00:17.000Z</updated>
         <summary type="html"><![CDATA[For this week's interview, we've got a special treat. Quincy Larson talking with two legends in the self-taught developer community. Danny Thompson worked for 10 years at a Tennessee gas station, frying chicken for people to eat, sometimes working 80...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Front-End Developers Should Understand UI/UX Design]]></title>
-        <id>68c4087abba5a7e638ae4cd6</id>
-        <link href="https://www.freecodecamp.org/news/why-front-end-developers-should-understand-uiux-design/"/>
-        <updated>2025-09-12T11:48:10.000Z</updated>
-        <summary type="html"><![CDATA[When users interact with a website or application, the first thing they notice isn’t the code. Instead, it’s the design and experience. Smooth navigation, intuitive layouts, and visually appealing interfaces are what keep users engaged. Behind these ...]]></summary>
-        <author>
-            <name>Asfak Ahmed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Prompt Engineering Cheat Sheet for GPT-5: Learn These Patterns for Solid Code Generation]]></title>
-        <id>68c3f6454edd0f63eaaf098e</id>
-        <link href="https://www.freecodecamp.org/news/prompt-engineering-cheat-sheet-for-gpt-5/"/>
-        <updated>2025-09-12T10:30:29.000Z</updated>
-        <summary type="html"><![CDATA[When large language models like ChatGPT first became widely available, a lot of us developers felt like we’d been handed a new superpower. We could use LLMs to help us develop new coding projects, build websites, and much more – just using a few prom...]]></summary>
-        <author>
-            <name>Tarun Singh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Compiling Multiple CSS Files into One]]></title>
-        <id>https://css-tricks.com/?p=389117</id>
-        <link href="https://css-tricks.com/compiling-multiple-css-files-into-one/"/>
-        <updated>2025-09-11T15:16:34.000Z</updated>
-        <summary type="html"><![CDATA[Stu Robson outlines two ways to compile multiple CSS files when you aren't relying on Sass for it.
-Compiling Multiple CSS Files into One originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Build Secure Web Applications with PHP, Symfony, and MongoDB]]></title>
-        <id>68c2cf0fe8903924be3e8c8c</id>
-        <link href="https://www.freecodecamp.org/news/build-secure-web-applications-with-php-symfony-and-mongodb/"/>
-        <updated>2025-09-11T13:30:55.000Z</updated>
-        <summary type="html"><![CDATA[Data breaches are a constant threat, and traditional encryption practices often aren't enough to protect sensitive information throughout its entire lifecycle. We just posted a course on the freeCodeCamp.org YouTube channel that will teach you how to...]]></summary>
         <author>
             <name>Beau Carnes</name>
         </author>
