@@ -115,16 +115,6 @@
           "wordCount": 4627,
           "title": "The “Most Hated” CSS Feature: cos() and sin()",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/09/most_hated_feature.jpg"
-        },
-        {
-          "id": "https://css-tricks.com/?p=389060",
-          "author": "Daniel Schwarz",
-          "description": "When I first started messing around with code, rounded corners required five background images or an image sprite likely created in Photoshop, so when border-radius came onto the scene, I remember everybody thinking that it was the best thing ever. …\nWhat Can We Actually Do With corner-shape? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/what-can-we-actually-do-with-corner-shape/",
-          "publishedOn": "2025-09-12T14:20:45.000Z",
-          "wordCount": 3149,
-          "title": "What Can We Actually Do With corner-shape?",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/09/s_B9520AAEB8E72143A2990CEB07209D80D9AD692AC1F43B71E4BC9C84D7184887_1757081374239_Screenshot2025-09-05at8.08.39AM.png"
         }
       ]
     },
@@ -297,21 +287,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/creating-elastic-bounce-effects-expressive-animator/creating-elastic-bounce-effects-expressive-animator.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2025/09/ux-strategies-real-time-dashboards/",
-          "author": "hello@smashingmagazine.com (Karan Rawal)",
-          "description": "Real-time dashboards are decision assistants, not passive displays. In environments like fleet management, healthcare, and operations, the cost of a delay or misstep is high. Karan Rawal explores strategic UX patterns that shorten time-to-decision, reduce cognitive overload, and make live systems trustworthy.",
-          "link": "https://smashingmagazine.com/2025/09/ux-strategies-real-time-dashboards/",
-          "publishedOn": "2025-09-12T15:00:00.000Z",
-          "wordCount": 6271,
-          "title": "From Data To Decisions: UX Strategies For Real-Time Dashboards",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/ux-strategies-real-time-dashboards/ux-strategies-real-time-dashboards.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/ux-strategies-real-time-dashboards/ux-strategies-real-time-dashboards.jpg"
         }
       ]
     },
@@ -959,56 +934,6 @@
           "wordCount": 988,
           "title": "Code Your Own Code Editor",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1757857427613/06c86002-f1bd-4f74-b4be-c1c476afdd49.png"
-        },
-        {
-          "id": "68c4a25692f6fb350ff863d5",
-          "author": "Gabor Koos",
-          "description": "In a previous article—Arrays, Slices, and Maps in Go: a Quick Guide to Collection Types—we explored Go's three built-in collection types and how they work under the hood. That gave us the foundation for storing and accessing data efficiently. But in ...",
-          "link": "https://www.freecodecamp.org/news/how-to-work-with-collections-in-go-using-the-standard-library-helpers/",
-          "publishedOn": "2025-09-12T22:44:38.000Z",
-          "wordCount": 6703,
-          "title": "How to Work with Collections in Go Using the Standard Library Helpers",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1757716951175/0969475a-acc5-4aa4-b2eb-fdb28ba62eee.png"
-        },
-        {
-          "id": "68c4a196984613262158d040",
-          "author": "Ayodele Aransiola",
-          "description": "GitHub Codespaces gives you a full development environment in the cloud, directly in your browser. It’s great for writing and running code, but there’s one big limitation: it doesn’t support graphical applications out of the box, especially for Pytho...",
-          "link": "https://www.freecodecamp.org/news/run-python-gui-in-github-codespaces/",
-          "publishedOn": "2025-09-12T22:41:26.000Z",
-          "wordCount": 3193,
-          "title": "How to Run Python GUI Apps in GitHub Codespaces with Xvfb and noVNC",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1757716674058/86bb9af9-0977-4548-a050-36c3b9ea3e16.png"
-        },
-        {
-          "id": "68c44ccedcb860533312bf30",
-          "author": "Oyedele Tioluwani",
-          "description": "If you’ve ever used Google Translate, skimmed through a quick summary, or asked a chatbot for help, then you’ve definitely seen Transformers at work. They’re considered the architects behind today’s biggest advances in natural language processing (NL...",
-          "link": "https://www.freecodecamp.org/news/how-transformer-models-work-for-language-processing/",
-          "publishedOn": "2025-09-12T16:39:42.000Z",
-          "wordCount": 3852,
-          "title": "How Transformer Models Work for Language Processing",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1757695079538/5c7d983b-647c-4892-9c10-247a05c0f50a.png"
-        },
-        {
-          "id": "68c44ccedcb860533312bf30",
-          "author": "Oyedele Tioluwani",
-          "description": "If you’ve ever used Google Translate, skimmed through a quick summary, or asked a chatbot for help, then you’ve definitely seen Transformers at work. They’re considered the architects behind today’s biggest advances in natural language processing (NL...",
-          "link": "https://www.freecodecamp.org/news/understanding-transformer-models-for-language-processing/",
-          "publishedOn": "2025-09-12T16:39:42.000Z",
-          "wordCount": 3849,
-          "title": "Understanding Transformer Models for Language Processing",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1757695079538/5c7d983b-647c-4892-9c10-247a05c0f50a.png"
-        },
-        {
-          "id": "68c42771b2d1879f98d1094b",
-          "author": "Beau Carnes",
-          "description": "For this week's interview, we've got a special treat. Quincy Larson talking with two legends in the self-taught developer community. Danny Thompson worked for 10 years at a Tennessee gas station, frying chicken for people to eat, sometimes working 80...",
-          "link": "https://www.freecodecamp.org/news/playing-the-developer-job-search-game-to-win-in-2025-with-danny-thompson-and-leon-noel-podcast-188/",
-          "publishedOn": "2025-09-12T14:00:17.000Z",
-          "wordCount": 1691,
-          "title": "Playing the Developer Job Search Game to Win in 2025 with Danny Thompson & Leon Noel [Podcast #188]",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1757626930497/bcea7147-b14c-4093-8d15-5c2115bd8c8d.png"
         }
       ]
     }

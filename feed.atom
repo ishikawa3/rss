@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-12T00:14:43.178Z</updated>
+    <updated>2025-10-13T00:15:24.576Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
@@ -866,77 +866,6 @@ The “Most Hated” CSS Feature: cos() and sin() originally published on CSS-Tr
         <summary type="html"><![CDATA[Elastic and bounce effects have long been among the most desirable but time-consuming techniques in motion design. Expressive Animator streamlines the process, making it possible to produce lively animations in seconds, bypassing the tedious work of manual keyframe editing.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Marius Sarca)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Work with Collections in Go Using the Standard Library Helpers]]></title>
-        <id>68c4a25692f6fb350ff863d5</id>
-        <link href="https://www.freecodecamp.org/news/how-to-work-with-collections-in-go-using-the-standard-library-helpers/"/>
-        <updated>2025-09-12T22:44:38.000Z</updated>
-        <summary type="html"><![CDATA[In a previous article—Arrays, Slices, and Maps in Go: a Quick Guide to Collection Types—we explored Go's three built-in collection types and how they work under the hood. That gave us the foundation for storing and accessing data efficiently. But in ...]]></summary>
-        <author>
-            <name>Gabor Koos</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Run Python GUI Apps in GitHub Codespaces with Xvfb and noVNC]]></title>
-        <id>68c4a196984613262158d040</id>
-        <link href="https://www.freecodecamp.org/news/run-python-gui-in-github-codespaces/"/>
-        <updated>2025-09-12T22:41:26.000Z</updated>
-        <summary type="html"><![CDATA[GitHub Codespaces gives you a full development environment in the cloud, directly in your browser. It’s great for writing and running code, but there’s one big limitation: it doesn’t support graphical applications out of the box, especially for Pytho...]]></summary>
-        <author>
-            <name>Ayodele Aransiola</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Transformer Models Work for Language Processing]]></title>
-        <id>68c44ccedcb860533312bf30</id>
-        <link href="https://www.freecodecamp.org/news/how-transformer-models-work-for-language-processing/"/>
-        <updated>2025-09-12T16:39:42.000Z</updated>
-        <summary type="html"><![CDATA[If you’ve ever used Google Translate, skimmed through a quick summary, or asked a chatbot for help, then you’ve definitely seen Transformers at work. They’re considered the architects behind today’s biggest advances in natural language processing (NL...]]></summary>
-        <author>
-            <name>Oyedele Tioluwani</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Understanding Transformer Models for Language Processing]]></title>
-        <id>68c44ccedcb860533312bf30</id>
-        <link href="https://www.freecodecamp.org/news/understanding-transformer-models-for-language-processing/"/>
-        <updated>2025-09-12T16:39:42.000Z</updated>
-        <summary type="html"><![CDATA[If you’ve ever used Google Translate, skimmed through a quick summary, or asked a chatbot for help, then you’ve definitely seen Transformers at work. They’re considered the architects behind today’s biggest advances in natural language processing (NL...]]></summary>
-        <author>
-            <name>Oyedele Tioluwani</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[From Data To Decisions: UX Strategies For Real-Time Dashboards]]></title>
-        <id>https://smashingmagazine.com/2025/09/ux-strategies-real-time-dashboards/</id>
-        <link href="https://smashingmagazine.com/2025/09/ux-strategies-real-time-dashboards/"/>
-        <updated>2025-09-12T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Real-time dashboards are decision assistants, not passive displays. In environments like fleet management, healthcare, and operations, the cost of a delay or misstep is high. Karan Rawal explores strategic UX patterns that shorten time-to-decision, reduce cognitive overload, and make live systems trustworthy.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Karan Rawal)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Can We Actually Do With corner-shape?]]></title>
-        <id>https://css-tricks.com/?p=389060</id>
-        <link href="https://css-tricks.com/what-can-we-actually-do-with-corner-shape/"/>
-        <updated>2025-09-12T14:20:45.000Z</updated>
-        <summary type="html"><![CDATA[When I first started messing around with code, rounded corners required five background images or an image sprite likely created in Photoshop, so when border-radius came onto the scene, I remember everybody thinking that it was the best thing ever. …
-What Can We Actually Do With corner-shape? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Daniel Schwarz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Playing the Developer Job Search Game to Win in 2025 with Danny Thompson & Leon Noel [Podcast #188]]]></title>
-        <id>68c42771b2d1879f98d1094b</id>
-        <link href="https://www.freecodecamp.org/news/playing-the-developer-job-search-game-to-win-in-2025-with-danny-thompson-and-leon-noel-podcast-188/"/>
-        <updated>2025-09-12T14:00:17.000Z</updated>
-        <summary type="html"><![CDATA[For this week's interview, we've got a special treat. Quincy Larson talking with two legends in the self-taught developer community. Danny Thompson worked for 10 years at a Tennessee gas station, frying chicken for people to eat, sometimes working 80...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
         </author>
     </entry>
 </feed>
