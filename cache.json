@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=389636",
+          "author": "Saleh Mubashar",
+          "description": "Looking at the CSS Masonry discussions and what they can teach us about the development of new CSS features. What is the CSSWG’s role? What influence do browsers have? What can learn from the way past features evolved?\nMasonry: Watching a CSS Feature Evolve originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/masonry-watching-a-css-feature-evolve/",
+          "publishedOn": "2025-10-13T14:31:35.000Z",
+          "wordCount": 3515,
+          "title": "Masonry: Watching a CSS Feature Evolve",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/08/css-tricks-logo-blur.png"
+        },
+        {
           "id": "https://css-tricks.com/?p=389611",
           "author": "Daniel Schwarz",
           "description": "The TL;DR is that stretch does the same thing as declaring 100%, but ignores padding when looking at the available space. \nWe Completely Missed width/height: stretch originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -123,6 +133,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2025/10/the-grayscale-problem/",
+          "author": "hello@smashingmagazine.com (Frederick O’Brien)",
+          "description": "From A/B tests to AI slop, the modern web is bleeding out its colour. Standardized, templated, and overoptimized, it’s starting to feel like a digital Levittown. But it doesn’t have to be.",
+          "link": "https://smashingmagazine.com/2025/10/the-grayscale-problem/",
+          "publishedOn": "2025-10-13T10:00:00.000Z",
+          "wordCount": 4560,
+          "title": "The Grayscale Problem",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/the-grayscale-problem/the-grayscale-problem.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/the-grayscale-problem/the-grayscale-problem.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2025/10/smashing-animations-part-5-building-adaptive-svgs/",
           "author": "hello@smashingmagazine.com (Andy Clarke)",
@@ -295,6 +320,36 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "68ed26f9351f8e053ca7b62c",
+          "author": "Manish Shivanandhan",
+          "description": "Every developer has faced this moment: you deploy an update, everything works fine, and then that small voice in your head asks, “But is it secure?” You have run your unit tests, your linter is happy, and the code reviews are green. Still, you know t...",
+          "link": "https://www.freecodecamp.org/news/how-to-use-strix-the-open-source-ai-agent-for-security-testing/",
+          "publishedOn": "2025-10-13T16:21:13.000Z",
+          "wordCount": 2487,
+          "title": "How to Use Strix, the Open-Source AI Agent for Security Testing",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1760372398262/3dcf2055-4bfd-40ba-b018-9a25ea27436e.png"
+        },
+        {
+          "id": "68ed22c02001907a6cb6d50a",
+          "author": "Soham Mehta",
+          "description": "n8n is a visual, node-based automation platform that lets you automate tasks with drag-and-drop nodes. It’s popular for multi-step automations and AI chains thanks to built-in nodes for agents and app integrations. In this tutorial, you’ll build a sm...",
+          "link": "https://www.freecodecamp.org/news/how-to-build-ai-workflows-with-n8n/",
+          "publishedOn": "2025-10-13T16:03:12.000Z",
+          "wordCount": 2096,
+          "title": "How to Build AI Workflows with n8n",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1760371342462/f8874220-238b-4819-a6f1-c35756b355bc.png"
+        },
+        {
+          "id": "68ed078ea201be4106f2d7b2",
+          "author": "Beau Carnes",
+          "description": "Prepare for the Google Generative AI Leader exam and pass! A Generative AI Leader is a visionary professional with comprehensive knowledge of how generative AI (gen AI) can transform businesses. They have business-level knowledge of Google Cloud's ge...",
+          "link": "https://www.freecodecamp.org/news/pass-the-google-generative-ai-leader-certification-exam/",
+          "publishedOn": "2025-10-13T14:07:10.000Z",
+          "wordCount": 996,
+          "title": "Pass the Google Generative AI Leader Certification Exam",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1760364411037/aadc2471-a1f1-4709-9400-6b79c54bf1e5.png"
+        },
         {
           "id": "68e91f889b56081e93d896cd",
           "author": "Beau Carnes",

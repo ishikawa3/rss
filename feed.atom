@@ -2,10 +2,61 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-13T00:15:24.576Z</updated>
+    <updated>2025-10-14T00:14:03.302Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Use Strix, the Open-Source AI Agent for Security Testing]]></title>
+        <id>68ed26f9351f8e053ca7b62c</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-strix-the-open-source-ai-agent-for-security-testing/"/>
+        <updated>2025-10-13T16:21:13.000Z</updated>
+        <summary type="html"><![CDATA[Every developer has faced this moment: you deploy an update, everything works fine, and then that small voice in your head asks, “But is it secure?” You have run your unit tests, your linter is happy, and the code reviews are green. Still, you know t...]]></summary>
+        <author>
+            <name>Manish Shivanandhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build AI Workflows with n8n]]></title>
+        <id>68ed22c02001907a6cb6d50a</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-ai-workflows-with-n8n/"/>
+        <updated>2025-10-13T16:03:12.000Z</updated>
+        <summary type="html"><![CDATA[n8n is a visual, node-based automation platform that lets you automate tasks with drag-and-drop nodes. It’s popular for multi-step automations and AI chains thanks to built-in nodes for agents and app integrations. In this tutorial, you’ll build a sm...]]></summary>
+        <author>
+            <name>Soham Mehta</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Masonry: Watching a CSS Feature Evolve]]></title>
+        <id>https://css-tricks.com/?p=389636</id>
+        <link href="https://css-tricks.com/masonry-watching-a-css-feature-evolve/"/>
+        <updated>2025-10-13T14:31:35.000Z</updated>
+        <summary type="html"><![CDATA[Looking at the CSS Masonry discussions and what they can teach us about the development of new CSS features. What is the CSSWG’s role? What influence do browsers have? What can learn from the way past features evolved?
+Masonry: Watching a CSS Feature Evolve originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Saleh Mubashar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pass the Google Generative AI Leader Certification Exam]]></title>
+        <id>68ed078ea201be4106f2d7b2</id>
+        <link href="https://www.freecodecamp.org/news/pass-the-google-generative-ai-leader-certification-exam/"/>
+        <updated>2025-10-13T14:07:10.000Z</updated>
+        <summary type="html"><![CDATA[Prepare for the Google Generative AI Leader exam and pass! A Generative AI Leader is a visionary professional with comprehensive knowledge of how generative AI (gen AI) can transform businesses. They have business-level knowledge of Google Cloud's ge...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Grayscale Problem]]></title>
+        <id>https://smashingmagazine.com/2025/10/the-grayscale-problem/</id>
+        <link href="https://smashingmagazine.com/2025/10/the-grayscale-problem/"/>
+        <updated>2025-10-13T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[From A/B tests to AI slop, the modern web is bleeding out its colour. Standardized, templated, and overoptimized, it’s starting to feel like a digital Levittown. But it doesn’t have to be.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Frederick O’Brien)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Evan You – From Art School Kid to Open Source Legend [Podcast #192]]]></title>
         <id>68e91f889b56081e93d896cd</id>
