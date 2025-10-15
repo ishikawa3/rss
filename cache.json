@@ -297,21 +297,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/functional-personas-ai-lean-practical-workflow/functional-personas-ai-lean-practical-workflow.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2025/09/creating-elastic-bounce-effects-expressive-animator/",
-          "author": "hello@smashingmagazine.com (Marius Sarca)",
-          "description": "Elastic and bounce effects have long been among the most desirable but time-consuming techniques in motion design. Expressive Animator streamlines the process, making it possible to produce lively animations in seconds, bypassing the tedious work of manual keyframe editing.",
-          "link": "https://smashingmagazine.com/2025/09/creating-elastic-bounce-effects-expressive-animator/",
-          "publishedOn": "2025-09-15T10:00:00.000Z",
-          "wordCount": 3896,
-          "title": "Creating Elastic And Bounce Effects With Expressive Animator",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/creating-elastic-bounce-effects-expressive-animator/creating-elastic-bounce-effects-expressive-animator.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/creating-elastic-bounce-effects-expressive-animator/creating-elastic-bounce-effects-expressive-animator.jpg"
         }
       ]
     },
@@ -320,6 +305,16 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "68ee54b2edcf5de25dd4bb13",
+          "author": "Oyedele Tioluwani",
+          "description": "Working with data at any level, whether as an analyst, engineer, scientist, or decision-maker, involves going through a range of challenges. Even experienced teams can run into issues that quietly affect the quality of their work. A mislabeled column...",
+          "link": "https://www.freecodecamp.org/news/common-pitfalls-to-avoid-when-analyzing-and-modeling-data/",
+          "publishedOn": "2025-10-14T13:48:34.000Z",
+          "wordCount": 2800,
+          "title": "Common Pitfalls to Avoid When Analyzing and Modeling Data",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1760449475934/80950373-2a61-4b75-bd8f-b0dfd08f6e21.png"
+        },
         {
           "id": "68ed26f9351f8e053ca7b62c",
           "author": "Manish Shivanandhan",

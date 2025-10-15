@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-14T00:14:03.302Z</updated>
+    <updated>2025-10-15T00:14:15.318Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Common Pitfalls to Avoid When Analyzing and Modeling Data]]></title>
+        <id>68ee54b2edcf5de25dd4bb13</id>
+        <link href="https://www.freecodecamp.org/news/common-pitfalls-to-avoid-when-analyzing-and-modeling-data/"/>
+        <updated>2025-10-14T13:48:34.000Z</updated>
+        <summary type="html"><![CDATA[Working with data at any level, whether as an analyst, engineer, scientist, or decision-maker, involves going through a range of challenges. Even experienced teams can run into issues that quietly affect the quality of their work. A mislabeled column...]]></summary>
+        <author>
+            <name>Oyedele Tioluwani</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Use Strix, the Open-Source AI Agent for Security Testing]]></title>
         <id>68ed26f9351f8e053ca7b62c</id>
@@ -907,16 +917,6 @@ Is it Time to Un-Sass? originally published on CSS-Tricks, which is part of the 
 The “Most Hated” CSS Feature: cos() and sin() originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Juan Diego Rodríguez</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Creating Elastic And Bounce Effects With Expressive Animator]]></title>
-        <id>https://smashingmagazine.com/2025/09/creating-elastic-bounce-effects-expressive-animator/</id>
-        <link href="https://smashingmagazine.com/2025/09/creating-elastic-bounce-effects-expressive-animator/"/>
-        <updated>2025-09-15T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Elastic and bounce effects have long been among the most desirable but time-consuming techniques in motion design. Expressive Animator streamlines the process, making it possible to produce lively animations in seconds, bypassing the tedious work of manual keyframe editing.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Marius Sarca)</name>
         </author>
     </entry>
 </feed>
