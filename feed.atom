@@ -2,10 +2,71 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-15T00:14:15.318Z</updated>
+    <updated>2025-10-16T00:14:59.351Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Create Role-Based Access Control (RBAC) with Custom Claims Using Firebase Rules]]></title>
+        <id>68effb6136e271937e23c188</id>
+        <link href="https://www.freecodecamp.org/news/firebase-rbac-custom-claims-rules/"/>
+        <updated>2025-10-15T19:52:01.000Z</updated>
+        <summary type="html"><![CDATA[When you’re building an application, not all users should have the same level of access. For example, an admin might be able to update or delete some data (logs excluded), while a regular user should only be able to read it. This is where Role-Based ...]]></summary>
+        <author>
+            <name>Ayodele Aransiola</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use the ChatGPT Apps SDK: Build a Pizza App with Apps SDK]]></title>
+        <id>68efe8d446ad0f2d5932c5e1</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-the-chatgpt-apps-sdk/"/>
+        <updated>2025-10-15T18:32:52.000Z</updated>
+        <summary type="html"><![CDATA[OpenAI recently introduced ChatGPT Apps, powered by the new Apps SDK and the Model Context Protocol (MCP). Think of these apps as plugins for ChatGPT: You can invoke them naturally in a conversation. They can render custom interactive UIs inside Ch...]]></summary>
+        <author>
+            <name>Shola Jegede</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sequential linear() Animation With N Elements]]></title>
+        <id>https://css-tricks.com/?p=389737</id>
+        <link href="https://css-tricks.com/sequential-linear-animation-with-n-elements/"/>
+        <updated>2025-10-15T13:39:39.000Z</updated>
+        <summary type="html"><![CDATA[Let’s suppose you have N elements with the same animation that should animate sequentially. Modern CSS makes this easy and it works for any number of items!
+Sequential linear() Animation With N Elements originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Temani Afif</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn MCP Essentials and How to Create Secure Agent Interfaces with FastMCP]]></title>
+        <id>68efa0d05ce970770a3adb0d</id>
+        <link href="https://www.freecodecamp.org/news/learn-mcp-essentials-and-how-to-create-secure-agent-interfaces-with-fastmcp/"/>
+        <updated>2025-10-15T13:25:36.000Z</updated>
+        <summary type="html"><![CDATA[MCP is the standard rule set that allows AI agents, like GitHub Copilot and Gemini, to securely and intelligently interact with your databases, functions, and applications. We just published a course on the freeCodeCamp.org YouTube channel that will ...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Cache Golang API Responses for High Performance]]></title>
+        <id>68ef76f4e9381bb61f442e34</id>
+        <link href="https://www.freecodecamp.org/news/how-to-cache-golang-api-responses/"/>
+        <updated>2025-10-15T10:27:00.000Z</updated>
+        <summary type="html"><![CDATA[Go makes it easy to build APIs that are fast out of the box. But as usage grows, speed at the language level is not enough. If every request keeps hitting the database, crunching the same data, or serializing the same JSON over and over, latency cree...]]></summary>
+        <author>
+            <name>Temitope Oyedele</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Deploy an AI Agent with Amazon Bedrock AgentCore]]></title>
+        <id>68eef2757ef88f92913602c6</id>
+        <link href="https://www.freecodecamp.org/news/deploy-an-ai-agent-with-amazon-bedrock/"/>
+        <updated>2025-10-15T01:01:41.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Bedrock AgentCore is a managed service that makes it easier to build, deploy, and operate AI agents securely at scale on AWS. It works seamlessly with frameworks like Strands Agents, LangGraph, CrewAI, and LlamaIndex, while taking care of the ...]]></summary>
+        <author>
+            <name>Emdadul Islam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Common Pitfalls to Avoid When Analyzing and Modeling Data]]></title>
         <id>68ee54b2edcf5de25dd4bb13</id>
@@ -886,37 +947,6 @@ Is it Time to Un-Sass? originally published on CSS-Tricks, which is part of the 
         <summary type="html"><![CDATA[From competitive SEO research and monitoring prices to training AI and parsing local geographic data, real-time search results power smarter apps. Tools like SerpApi make it easy to pull, customize, and integrate this data directly into your app or website.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Preethi Sam)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Functional Personas With AI: A Lean, Practical Workflow]]></title>
-        <id>https://smashingmagazine.com/2025/09/functional-personas-ai-lean-practical-workflow/</id>
-        <link href="https://smashingmagazine.com/2025/09/functional-personas-ai-lean-practical-workflow/"/>
-        <updated>2025-09-16T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[For too long, personas have been created with considerable effort, only to offer limited value. Paul Boag shows how to breathe new life into this stale UX asset and demonstrates that it’s possible to create truly useful functional personas in a lightweight way.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Paul Boag)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Code Your Own Code Editor]]></title>
-        <id>68c827a7023360e7e4bf5f8f</id>
-        <link href="https://www.freecodecamp.org/news/code-your-own-code-editor/"/>
-        <updated>2025-09-15T14:50:15.000Z</updated>
-        <summary type="html"><![CDATA[Can you code a code editor in a code editor that you coded? We just published a new course on the freeCodeCamp.org YouTube channel where you’ll learn how to build your own browser-based code editor. In this tutorial, developer Mohammed Al Abrah walks...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The “Most Hated” CSS Feature: cos() and sin()]]></title>
-        <id>https://css-tricks.com/?p=389130</id>
-        <link href="https://css-tricks.com/the-most-hated-css-feature-cos-and-sin/"/>
-        <updated>2025-09-15T14:31:06.000Z</updated>
-        <summary type="html"><![CDATA[I want to look at practical uses for CSS trigonometric functions. And we'll start with what may be the most popular functions of the "worst" feature: sin() and cos().
-The “Most Hated” CSS Feature: cos() and sin() originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Juan Diego Rodríguez</name>
         </author>
     </entry>
 </feed>
