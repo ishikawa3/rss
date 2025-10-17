@@ -139,6 +139,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2025/10/how-make-ux-research-hard-to-ignore/",
+          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
+          "description": "Research isn’t everything. Facts alone don’t win arguments, but powerful stories do. Here’s how to turn your research into narratives that inspire trust and influence decisions.",
+          "link": "https://smashingmagazine.com/2025/10/how-make-ux-research-hard-to-ignore/",
+          "publishedOn": "2025-10-16T13:00:00.000Z",
+          "wordCount": 3858,
+          "title": "How To Make Your UX Research Hard To Ignore",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/how-make-ux-research-hard-to-ignore/how-make-ux-research-hard-to-ignore.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/how-make-ux-research-hard-to-ignore/how-make-ux-research-hard-to-ignore.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2025/10/the-grayscale-problem/",
           "author": "hello@smashingmagazine.com (Frederick O’Brien)",
           "description": "From A/B tests to AI slop, the modern web is bleeding out its colour. Standardized, templated, and overoptimized, it’s starting to feel like a digital Levittown. But it doesn’t have to be.",
@@ -272,21 +287,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/how-minimize-environmental-impact-website/how-minimize-environmental-impact-website.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2025/09/serpapi-complete-api-fetching-search-engine-data/",
-          "author": "hello@smashingmagazine.com (Preethi Sam)",
-          "description": "From competitive SEO research and monitoring prices to training AI and parsing local geographic data, real-time search results power smarter apps. Tools like SerpApi make it easy to pull, customize, and integrate this data directly into your app or website.",
-          "link": "https://smashingmagazine.com/2025/09/serpapi-complete-api-fetching-search-engine-data/",
-          "publishedOn": "2025-09-16T17:00:00.000Z",
-          "wordCount": 3696,
-          "title": "SerpApi: A Complete API For Fetching Search Engine Data",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/serpapi-complete-api-fetching-search-engine-data/serpapi-complete-api-fetching-search-engine-data.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/serpapi-complete-api-fetching-search-engine-data/serpapi-complete-api-fetching-search-engine-data.jpg"
         }
       ]
     },
@@ -295,6 +295,36 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "68f0f6719ac2ae80d4c5be03",
+          "author": "Kuriko Iwai",
+          "description": "Machine learning lineage is critical in any robust ML system. It lets you track data and model versions, ensuring reproducibility, auditability, and compliance. While many services for tracking ML lineage exist, creating a comprehensive and manageabl...",
+          "link": "https://www.freecodecamp.org/news/how-to-build-end-to-end-machine-learning-lineage/",
+          "publishedOn": "2025-10-16T13:43:13.000Z",
+          "wordCount": 6518,
+          "title": "How to Build End-to-End Machine Learning Lineage",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1760622158648/b990ff01-06f0-495d-8554-f832813609ab.png"
+        },
+        {
+          "id": "68f0e6e94d664bb368c83f39",
+          "author": "Cedd Burge",
+          "description": "Miro and Figma are online collaborative canvas tools that became very popular during the pandemic. Instead of using sticky notes on a physical wall, you can add a virtual post—and an array of other things—to a virtual canvas. This lets teams collabor...",
+          "link": "https://www.freecodecamp.org/news/how-to-optimize-a-graphical-react-codebase/",
+          "publishedOn": "2025-10-16T12:36:57.000Z",
+          "wordCount": 2683,
+          "title": "How to Optimize a Graphical React Codebase — Optimize d3-zoom and dnd-kit Code",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1760617553059/99fd830f-39a8-4067-9727-e9b35850168d.png"
+        },
+        {
+          "id": "68f034017abb7495f91ce942",
+          "author": "Destiny Erhabor",
+          "description": "Amazon Elastic Kubernetes Service (EKS) Security Groups for Pods is a powerful feature that enables fine-grained network security controls at the pod level. This guide walks you through implementing this feature, from initial cluster setup to testing...",
+          "link": "https://www.freecodecamp.org/news/how-to-create-kubernetes-cluster-and-security-groups-for-pods-in-aws-handbook/",
+          "publishedOn": "2025-10-15T23:53:37.000Z",
+          "wordCount": 12094,
+          "title": "How to Create Kubernetes Cluster and Security Groups for Pods in AWS [Full Handbook]",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1760572399710/e6ff9b5b-2fa5-4e61-9b89-9b68c81e6d46.png"
+        },
         {
           "id": "68effb6136e271937e23c188",
           "author": "Ayodele Aransiola",
@@ -1004,16 +1034,6 @@
           "wordCount": 2222,
           "title": "How to Use Loops in C#",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1757595108095/f7bd2673-3da5-4f34-8541-64cc8129fe96.jpeg"
-        },
-        {
-          "id": "68c9995460a5f06c06227f63",
-          "author": "Atuoha Anthony",
-          "description": "ObjectBox is a high-performance, lightweight, NoSQL embedded database built specifically for Flutter and Dart applications. It provides reactive APIs, indexes, relationships, and migrations, all designed to make local data management smooth and effic...",
-          "link": "https://www.freecodecamp.org/news/how-to-use-objectbox-in-flutter/",
-          "publishedOn": "2025-09-16T17:07:32.000Z",
-          "wordCount": 2214,
-          "title": "How to Use ObjectBox in Flutter",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1758042509445/329dd5bf-f143-4a35-9828-8441d501afed.png"
         }
       ]
     }
