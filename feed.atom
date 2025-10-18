@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-17T00:14:57.413Z</updated>
+    <updated>2025-10-18T00:13:29.945Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Parse INI Config Files in Python with Configparser]]></title>
+        <id>68f25c6d7d9fdcba5704db2e</id>
+        <link href="https://www.freecodecamp.org/news/how-to-parse-ini-config-files-in-python-with-configparser/"/>
+        <updated>2025-10-17T15:10:37.000Z</updated>
+        <summary type="html"><![CDATA[Configuration files provide a structured way to manage application settings that's more organized than environment variables alone. INI files, short for initialization files, with their simple section-based format, are both easy to read and parse. Py...]]></summary>
+        <author>
+            <name>Bala Priya C</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Concurrency vs. Parallelism: What’s the Difference and Why Should You Care?]]></title>
+        <id>68f25bf491a578e35f37419a</id>
+        <link href="https://www.freecodecamp.org/news/concurrency-vs-parallelism-whats-the-difference-and-why-should-you-care/"/>
+        <updated>2025-10-17T15:08:36.000Z</updated>
+        <summary type="html"><![CDATA[In software engineering, certain concepts appear deceptively simple at first glance but fundamentally shape the way we design and architect systems. Concurrency and parallelism are two such concepts that warrant careful examination. These terms are f...]]></summary>
+        <author>
+            <name>Wisdom Usa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From Injured Athlete to Software Engineer with Kaleb Garner [Podcast #193]]]></title>
+        <id>68f24bea01eb0109ec07deaf</id>
+        <link href="https://www.freecodecamp.org/news/from-injured-athlete-to-software-engineer-with-kaleb-garner-podcast-193/"/>
+        <updated>2025-10-17T14:00:10.000Z</updated>
+        <summary type="html"><![CDATA[Kaleb Garner is a software engineer working at a medical technology app company. He got a scholarship to play baseball at a state university, but a serious knee injury ended his career and he dropped out. After moving back in with his parents and wor...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI In UX: Achieve More With Less]]></title>
+        <id>https://smashingmagazine.com/2025/10/ai-ux-achieve-more-with-less/</id>
+        <link href="https://smashingmagazine.com/2025/10/ai-ux-achieve-more-with-less/"/>
+        <updated>2025-10-17T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A simple but powerful mental model for working with AI: treat it like an enthusiastic intern with no real-world experience. Paul Boag shares lessons learned from real client projects across user research, design, development, and content creation.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Paul Boag)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Build End-to-End Machine Learning Lineage]]></title>
         <id>68f0f6719ac2ae80d4c5be03</id>
@@ -916,57 +956,6 @@ On inclusive personas and inclusive user research originally published on CSS-Tr
         <summary type="html"><![CDATA[Securing modern web applications is an important skill for any developer, and a foundational part of this is understanding how to manage user access. We just posted new course on the freeCodeCamp.org that will teach you about authentication and autho...]]></summary>
         <author>
             <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Minimize The Environmental Impact Of Your Website]]></title>
-        <id>https://smashingmagazine.com/2025/09/how-minimize-environmental-impact-website/</id>
-        <link href="https://smashingmagazine.com/2025/09/how-minimize-environmental-impact-website/"/>
-        <updated>2025-09-18T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[As responsible digital professionals, we are becoming increasingly aware of the environmental impact of our work and need to find effective and pragmatic ways to reduce it. James Chudley shares a new decarbonising approach that will help you to minimise the environmental impact of your website, benefiting people, profit, purpose, performance, and the planet.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (James Chudley)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Multimodal Makaton-to-English Translator for Accessible Education]]></title>
-        <id>68cb5e6df1766dffdd20f610</id>
-        <link href="https://www.freecodecamp.org/news/build-a-multimodal-translator-for-accessible-education/"/>
-        <updated>2025-09-18T01:20:45.000Z</updated>
-        <summary type="html"><![CDATA[A year nine student walks into class full of ideas, but when it is time to contribute, the tools around them do not listen. Their speech is difficult for standard voice systems to recognise, typing feels slow and exhausting, and the lesson moves on w...]]></summary>
-        <author>
-            <name>OMOTAYO OMOYEMI</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Does Cosine Similarity Work? The Math Behind LLMs Explained]]></title>
-        <id>68cb5c87b90c34f2f16f5703</id>
-        <link href="https://www.freecodecamp.org/news/how-does-cosine-similarity-work/"/>
-        <updated>2025-09-18T01:12:39.000Z</updated>
-        <summary type="html"><![CDATA[When you talk to a large language model (LLM), it feels like the model understands meaning. But under the hood, the system relies on numbers, vectors, and math to find the relationships between words and sentences. One of the most important tools tha...]]></summary>
-        <author>
-            <name>Manish Shivanandhan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Is it Time to Un-Sass?]]></title>
-        <id>https://css-tricks.com/?p=389101</id>
-        <link href="https://css-tricks.com/is-it-time-to-un-sass/"/>
-        <updated>2025-09-17T14:02:25.000Z</updated>
-        <summary type="html"><![CDATA[Many of the Sass features we've grown to love have made their way into native CSS in some shape or form. So, should we still use Sass? This is how developer Jeff Bridgforth is thinking about it.
-Is it Time to Un-Sass? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Jeff Bridgforth</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use Loops in C#]]></title>
-        <id>68caa6382769a3737407de1b</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-loops-in-c/"/>
-        <updated>2025-09-17T12:14:48.000Z</updated>
-        <summary type="html"><![CDATA[Writing the same code repeatedly is poor practice in C# and doesn’t follow the Don’t Repeat Yourself (DRY) principle. But, there are many times in programming where you need to repeat commands, operations, or computations multiple times — perhaps cha...]]></summary>
-        <author>
-            <name>Grant Riordan</name>
         </author>
     </entry>
 </feed>

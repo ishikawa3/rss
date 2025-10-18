@@ -120,16 +120,6 @@
           "wordCount": 2759,
           "title": "On inclusive personas and inclusive user research",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2017/05/user-facing-state.png"
-        },
-        {
-          "id": "https://css-tricks.com/?p=389101",
-          "author": "Jeff Bridgforth",
-          "description": "Many of the Sass features we've grown to love have made their way into native CSS in some shape or form. So, should we still use Sass? This is how developer Jeff Bridgforth is thinking about it.\nIs it Time to Un-Sass? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/is-it-time-to-un-sass/",
-          "publishedOn": "2025-09-17T14:02:25.000Z",
-          "wordCount": 4976,
-          "title": "Is it Time to Un-Sass?",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/10/sass-sparkles.png"
         }
       ]
     },
@@ -138,6 +128,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2025/10/ai-ux-achieve-more-with-less/",
+          "author": "hello@smashingmagazine.com (Paul Boag)",
+          "description": "A simple but powerful mental model for working with AI: treat it like an enthusiastic intern with no real-world experience. Paul Boag shares lessons learned from real client projects across user research, design, development, and content creation.",
+          "link": "https://smashingmagazine.com/2025/10/ai-ux-achieve-more-with-less/",
+          "publishedOn": "2025-10-17T08:00:00.000Z",
+          "wordCount": 5824,
+          "title": "AI In UX: Achieve More With Less",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/ai-ux-achieve-more-with-less/ai-ux-achieve-more-with-less.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/ai-ux-achieve-more-with-less/ai-ux-achieve-more-with-less.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2025/10/how-make-ux-research-hard-to-ignore/",
           "author": "hello@smashingmagazine.com (Vitaly Friedman)",
@@ -272,21 +277,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/psychology-trust-ai-guide-measuring-designing-user-confidence/psychology-trust-ai-guide-measuring-designing-user-confidence.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2025/09/how-minimize-environmental-impact-website/",
-          "author": "hello@smashingmagazine.com (James Chudley)",
-          "description": "As responsible digital professionals, we are becoming increasingly aware of the environmental impact of our work and need to find effective and pragmatic ways to reduce it. James Chudley shares a new decarbonising approach that will help you to minimise the environmental impact of your website, benefiting people, profit, purpose, performance, and the planet.",
-          "link": "https://smashingmagazine.com/2025/09/how-minimize-environmental-impact-website/",
-          "publishedOn": "2025-09-18T10:00:00.000Z",
-          "wordCount": 5711,
-          "title": "How To Minimize The Environmental Impact Of Your Website",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/how-minimize-environmental-impact-website/how-minimize-environmental-impact-website.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/how-minimize-environmental-impact-website/how-minimize-environmental-impact-website.jpg"
         }
       ]
     },
@@ -295,6 +285,36 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "68f25c6d7d9fdcba5704db2e",
+          "author": "Bala Priya C",
+          "description": "Configuration files provide a structured way to manage application settings that's more organized than environment variables alone. INI files, short for initialization files, with their simple section-based format, are both easy to read and parse. Py...",
+          "link": "https://www.freecodecamp.org/news/how-to-parse-ini-config-files-in-python-with-configparser/",
+          "publishedOn": "2025-10-17T15:10:37.000Z",
+          "wordCount": 1840,
+          "title": "How to Parse INI Config Files in Python with Configparser",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1760712555277/4eabf2d7-fa9d-445b-8e0a-6ebdee53790c.png"
+        },
+        {
+          "id": "68f25bf491a578e35f37419a",
+          "author": "Wisdom Usa",
+          "description": "In software engineering, certain concepts appear deceptively simple at first glance but fundamentally shape the way we design and architect systems. Concurrency and parallelism are two such concepts that warrant careful examination. These terms are f...",
+          "link": "https://www.freecodecamp.org/news/concurrency-vs-parallelism-whats-the-difference-and-why-should-you-care/",
+          "publishedOn": "2025-10-17T15:08:36.000Z",
+          "wordCount": 4760,
+          "title": "Concurrency vs. Parallelism: What’s the Difference and Why Should You Care?",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1760622633358/ad43bbd8-116c-42eb-95b7-0ef70156983a.png"
+        },
+        {
+          "id": "68f24bea01eb0109ec07deaf",
+          "author": "Beau Carnes",
+          "description": "Kaleb Garner is a software engineer working at a medical technology app company. He got a scholarship to play baseball at a state university, but a serious knee injury ended his career and he dropped out. After moving back in with his parents and wor...",
+          "link": "https://www.freecodecamp.org/news/from-injured-athlete-to-software-engineer-with-kaleb-garner-podcast-193/",
+          "publishedOn": "2025-10-17T14:00:10.000Z",
+          "wordCount": 1359,
+          "title": "From Injured Athlete to Software Engineer with Kaleb Garner [Podcast #193]",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1760664742970/351fa4e4-e5bb-480c-aa04-c0252ca70978.png"
+        },
         {
           "id": "68f0f6719ac2ae80d4c5be03",
           "author": "Kuriko Iwai",
@@ -1004,36 +1024,6 @@
           "wordCount": 1083,
           "title": "Master Authentication and Authorization in ASP.NET",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1758215813120/d8affc4d-1d5b-4a48-afe4-3f8f83c519b4.png"
-        },
-        {
-          "id": "68cb5e6df1766dffdd20f610",
-          "author": "OMOTAYO OMOYEMI",
-          "description": "A year nine student walks into class full of ideas, but when it is time to contribute, the tools around them do not listen. Their speech is difficult for standard voice systems to recognise, typing feels slow and exhausting, and the lesson moves on w...",
-          "link": "https://www.freecodecamp.org/news/build-a-multimodal-translator-for-accessible-education/",
-          "publishedOn": "2025-09-18T01:20:45.000Z",
-          "wordCount": 5205,
-          "title": "How to Build a Multimodal Makaton-to-English Translator for Accessible Education",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1758158024064/bf3d7dac-0231-450a-9b40-6abf43085e49.png"
-        },
-        {
-          "id": "68cb5c87b90c34f2f16f5703",
-          "author": "Manish Shivanandhan",
-          "description": "When you talk to a large language model (LLM), it feels like the model understands meaning. But under the hood, the system relies on numbers, vectors, and math to find the relationships between words and sentences. One of the most important tools tha...",
-          "link": "https://www.freecodecamp.org/news/how-does-cosine-similarity-work/",
-          "publishedOn": "2025-09-18T01:12:39.000Z",
-          "wordCount": 2331,
-          "title": "How Does Cosine Similarity Work? The Math Behind LLMs Explained",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1758157868492/7d242ca0-7721-4d25-93fb-2f0a6e319690.png"
-        },
-        {
-          "id": "68caa6382769a3737407de1b",
-          "author": "Grant Riordan",
-          "description": "Writing the same code repeatedly is poor practice in C# and doesn’t follow the Don’t Repeat Yourself (DRY) principle. But, there are many times in programming where you need to repeat commands, operations, or computations multiple times — perhaps cha...",
-          "link": "https://www.freecodecamp.org/news/how-to-use-loops-in-c/",
-          "publishedOn": "2025-09-17T12:14:48.000Z",
-          "wordCount": 2222,
-          "title": "How to Use Loops in C#",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1757595108095/f7bd2673-3da5-4f34-8541-64cc8129fe96.jpeg"
         }
       ]
     }
