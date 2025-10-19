@@ -262,21 +262,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/ambient-animations-web-design-principles-implementation/ambient-animations-web-design-principles-implementation.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2025/09/psychology-trust-ai-guide-measuring-designing-user-confidence/",
-          "author": "hello@smashingmagazine.com (Victor Yocco)",
-          "description": "With digital products moving to incorporate generative and agentic AI at an increasingly frequent rate, trust has become the invisible user interface. When it works, interactions feel seamless. When it fails, the entire experience collapses. But trust isn’t mystical. It can be understood, measured, and designed for. Here are practical methods and strategies for designing more trustworthy and ethical AI systems.",
-          "link": "https://smashingmagazine.com/2025/09/psychology-trust-ai-guide-measuring-designing-user-confidence/",
-          "publishedOn": "2025-09-19T10:00:00.000Z",
-          "wordCount": 6955,
-          "title": "The Psychology Of Trust In AI: A Guide To Measuring And Designing For User Confidence",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/psychology-trust-ai-guide-measuring-designing-user-confidence/psychology-trust-ai-guide-measuring-designing-user-confidence.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/psychology-trust-ai-guide-measuring-designing-user-confidence/psychology-trust-ai-guide-measuring-designing-user-confidence.jpg"
         }
       ]
     },
@@ -994,36 +979,6 @@
           "wordCount": 2017,
           "title": "How to Store Data Locally with Isar in Flutter",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1758287132737/7886bedc-374f-401d-b59c-04c59590e81f.png"
-        },
-        {
-          "id": "68cc9f07cb384618613c356d",
-          "author": "Beau Carnes",
-          "description": "Prepare for the Databricks Data Engineer Associate Certification exam and pass! We just posted a new course from Andrew Brown on the freeCodeCamp.org YouTube channel that will help you earn the Databricks Data Engineer Associate Certification. This c...",
-          "link": "https://www.freecodecamp.org/news/prepare-for-the-databricks-data-engineer-associate-certification-exam-and-pass/",
-          "publishedOn": "2025-09-19T00:08:39.000Z",
-          "wordCount": 1108,
-          "title": "Prepare for the Databricks Data Engineer Associate Certification Exam – And Pass!",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1758240485028/92a6e945-7b24-44d5-a9ff-3702f2db7a2d.png"
-        },
-        {
-          "id": "68cc7258080e9a4dee6b7952",
-          "author": "Quincy Larson",
-          "description": "I'm a big fan of CompTIA and the rigor of their certifications. I wanted freeCodeCamp's new Full Stack Developer cert to be similarly rigorous. But I made one major miscalculation. I underestimated people's desire to earn certifications within less t...",
-          "link": "https://www.freecodecamp.org/news/introducing-freecodecamp-checkpoint-certifications/",
-          "publishedOn": "2025-09-18T20:58:00.000Z",
-          "wordCount": 1851,
-          "title": "Introducing New freeCodeCamp Certifications in the Full Stack Developer Curriculum",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1758228730264/c1387e81-974b-4573-abe2-d07bff7d6ef7.png"
-        },
-        {
-          "id": "68cc3e9e6c4695a8ff386d48",
-          "author": "Beau Carnes",
-          "description": "Securing modern web applications is an important skill for any developer, and a foundational part of this is understanding how to manage user access. We just posted new course on the freeCodeCamp.org that will teach you about authentication and autho...",
-          "link": "https://www.freecodecamp.org/news/master-authentication-and-authorization-in-aspnet/",
-          "publishedOn": "2025-09-18T17:17:18.000Z",
-          "wordCount": 1083,
-          "title": "Master Authentication and Authorization in ASP.NET",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1758215813120/d8affc4d-1d5b-4a48-afe4-3f8f83c519b4.png"
         }
       ]
     }

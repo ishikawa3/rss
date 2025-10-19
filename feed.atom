@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-18T00:13:29.945Z</updated>
+    <updated>2025-10-19T00:16:23.251Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
@@ -916,46 +916,6 @@ On inclusive personas and inclusive user research originally published on CSS-Tr
         <summary type="html"><![CDATA[When building Flutter applications, managing local data efficiently is critical. You want a database that is lightweight, fast, and easy to integrate, especially if your app will work offline. Isar is one such database. It is a high-performance, easy...]]></summary>
         <author>
             <name>Atuoha Anthony</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Psychology Of Trust In AI: A Guide To Measuring And Designing For User Confidence]]></title>
-        <id>https://smashingmagazine.com/2025/09/psychology-trust-ai-guide-measuring-designing-user-confidence/</id>
-        <link href="https://smashingmagazine.com/2025/09/psychology-trust-ai-guide-measuring-designing-user-confidence/"/>
-        <updated>2025-09-19T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[With digital products moving to incorporate generative and agentic AI at an increasingly frequent rate, trust has become the invisible user interface. When it works, interactions feel seamless. When it fails, the entire experience collapses. But trust isn’t mystical. It can be understood, measured, and designed for. Here are practical methods and strategies for designing more trustworthy and ethical AI systems.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Victor Yocco)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Prepare for the Databricks Data Engineer Associate Certification Exam – And Pass!]]></title>
-        <id>68cc9f07cb384618613c356d</id>
-        <link href="https://www.freecodecamp.org/news/prepare-for-the-databricks-data-engineer-associate-certification-exam-and-pass/"/>
-        <updated>2025-09-19T00:08:39.000Z</updated>
-        <summary type="html"><![CDATA[Prepare for the Databricks Data Engineer Associate Certification exam and pass! We just posted a new course from Andrew Brown on the freeCodeCamp.org YouTube channel that will help you earn the Databricks Data Engineer Associate Certification. This c...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Introducing New freeCodeCamp Certifications in the Full Stack Developer Curriculum]]></title>
-        <id>68cc7258080e9a4dee6b7952</id>
-        <link href="https://www.freecodecamp.org/news/introducing-freecodecamp-checkpoint-certifications/"/>
-        <updated>2025-09-18T20:58:00.000Z</updated>
-        <summary type="html"><![CDATA[I'm a big fan of CompTIA and the rigor of their certifications. I wanted freeCodeCamp's new Full Stack Developer cert to be similarly rigorous. But I made one major miscalculation. I underestimated people's desire to earn certifications within less t...]]></summary>
-        <author>
-            <name>Quincy Larson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Master Authentication and Authorization in ASP.NET]]></title>
-        <id>68cc3e9e6c4695a8ff386d48</id>
-        <link href="https://www.freecodecamp.org/news/master-authentication-and-authorization-in-aspnet/"/>
-        <updated>2025-09-18T17:17:18.000Z</updated>
-        <summary type="html"><![CDATA[Securing modern web applications is an important skill for any developer, and a foundational part of this is understanding how to manage user access. We just posted new course on the freeCodeCamp.org that will teach you about authentication and autho...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
         </author>
     </entry>
 </feed>
