@@ -110,16 +110,6 @@
             "type": "video/mp4"
           },
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/09/css-types-arithmetic.png"
-        },
-        {
-          "id": "https://css-tricks.com/?p=389157",
-          "author": "Geoff Graham",
-          "description": "A set of notes taken from Eric Bailey's article about the use of inclusive personas and user research.\nOn inclusive personas and inclusive user research originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/on-inclusive-personas-and-inclusive-user-research/",
-          "publishedOn": "2025-09-19T13:58:37.000Z",
-          "wordCount": 2759,
-          "title": "On inclusive personas and inclusive user research",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2017/05/user-facing-state.png"
         }
       ]
     },
@@ -919,66 +909,6 @@
           "wordCount": 1323,
           "title": "How to Build Advanced AI Agents",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1756320252743/70d3c437-c76b-4919-bb09-2ac57da55bc5.png"
-        },
-        {
-          "id": "68cde1bb85ffecd5a404fc5f",
-          "author": "Oladeji Oluwaseun",
-          "description": "Good documentation is the backbone of a supported and empowered community. From the moment someone new joins and finds a clear guide to get started, to the experienced member who can quickly find a process, well-organized information saves everyone t...",
-          "link": "https://www.freecodecamp.org/news/how-to-create-documentation-that-helps-your-tech-community-grow/",
-          "publishedOn": "2025-09-19T23:05:31.000Z",
-          "wordCount": 2919,
-          "title": "How to Create Documentation that Helps Your Tech Community Grow",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1758323106904/8b5b31a1-1392-4376-b7d5-126909eb944f.png"
-        },
-        {
-          "id": "68cdb0341432174e4c7f6898",
-          "author": "AYUSH MISHRA",
-          "description": "When working with Python, you may need to perform a tokenization operation on a given text dataset. Tokenization is the process of breaking down text into smaller pieces, typically words or sentences, which are called tokens. These tokens can then be...",
-          "link": "https://www.freecodecamp.org/news/how-to-tokenize-text-in-python/",
-          "publishedOn": "2025-09-19T19:34:12.000Z",
-          "wordCount": 2196,
-          "title": "How to Tokenize Text in Python — Explained with Code Examples",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1758310289206/8af072cc-e3f1-4a33-a578-c130b2ae9b11.png"
-        },
-        {
-          "id": "68cd6ffad57a0c65e2ff97bf",
-          "author": "Beau Carnes",
-          "description": "On this week's freeCodeCamp podcast we're talking with software engineer Ihechikara Abba, who has a chess ELO rating of 2285, putting him among top competitive chess players. We just published his freeCodeCamp course on chess end games, and an accomp...",
-          "link": "https://www.freecodecamp.org/news/learn-chess-and-become-a-better-developer-with-ihechikara-abba-elo-rating-of-2285-podcast-189/",
-          "publishedOn": "2025-09-19T15:00:10.000Z",
-          "wordCount": 1347,
-          "title": "Learn Chess and Become a Better Developer with Ihechikara Abba (ELO rating of 2285) [Podcast #189]",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1758244898637/3c48535e-2cbb-4524-a20b-b74228203816.png"
-        },
-        {
-          "id": "68cd625e82b856dadd4cceba",
-          "author": "Mark Mahoney",
-          "description": "SQLite is one of the most underappreciated tools in a developer's toolkit. It's a full-featured relational database that runs directly in your application. No server setup. No configuration files. No network protocols. Just a simple library that give...",
-          "link": "https://www.freecodecamp.org/news/a-brief-introduction-to-sqlite/",
-          "publishedOn": "2025-09-19T14:02:06.000Z",
-          "wordCount": 1640,
-          "title": "A Brief Introduction to SQLite",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1758290415152/439fa61c-9342-47cb-867a-0416fe6bd6cf.png"
-        },
-        {
-          "id": "68cd5897ffbf18457f7bb85a",
-          "author": "Tarun Singh",
-          "description": "AI is changing the image generation and editing process into a smooth workflow. Now, with just a single prompt, you can tell your computer to generate or edit an existing image. Google just launched its new model for image generation or editing, \"Nan...",
-          "link": "https://www.freecodecamp.org/news/nano-banana-for-image-generation/",
-          "publishedOn": "2025-09-19T13:20:23.000Z",
-          "wordCount": 3029,
-          "title": "How to Use Nano Banana for Image Generation - Explained with Code Examples",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1758287738949/b33b68f4-0e84-46df-a85f-9ff6aacfd72c.png"
-        },
-        {
-          "id": "68cd561cebc0d959d789d679",
-          "author": "Atuoha Anthony",
-          "description": "When building Flutter applications, managing local data efficiently is critical. You want a database that is lightweight, fast, and easy to integrate, especially if your app will work offline. Isar is one such database. It is a high-performance, easy...",
-          "link": "https://www.freecodecamp.org/news/store-data-locally-with-isar-in-flutter/",
-          "publishedOn": "2025-09-19T13:09:48.000Z",
-          "wordCount": 2017,
-          "title": "How to Store Data Locally with Isar in Flutter",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1758287132737/7886bedc-374f-401d-b59c-04c59590e81f.png"
         }
       ]
     }

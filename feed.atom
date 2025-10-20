@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-19T00:16:23.251Z</updated>
+    <updated>2025-10-20T00:16:00.851Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
@@ -845,77 +845,6 @@ CSS Typed Arithmetic originally published on CSS-Tricks, which is part of the Di
         <summary type="html"><![CDATA[Creating motion can be tricky. Too much and it’s distracting. Too little and a design feels flat. Ambient animations are the middle ground — subtle, slow-moving details that add atmosphere without stealing the show. In this article, web design pioneer Andy Clarke introduces the concept of ambient animations and explains how to implement them.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Andy Clarke)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Create Documentation that Helps Your Tech Community Grow]]></title>
-        <id>68cde1bb85ffecd5a404fc5f</id>
-        <link href="https://www.freecodecamp.org/news/how-to-create-documentation-that-helps-your-tech-community-grow/"/>
-        <updated>2025-09-19T23:05:31.000Z</updated>
-        <summary type="html"><![CDATA[Good documentation is the backbone of a supported and empowered community. From the moment someone new joins and finds a clear guide to get started, to the experienced member who can quickly find a process, well-organized information saves everyone t...]]></summary>
-        <author>
-            <name>Oladeji Oluwaseun</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Tokenize Text in Python — Explained with Code Examples]]></title>
-        <id>68cdb0341432174e4c7f6898</id>
-        <link href="https://www.freecodecamp.org/news/how-to-tokenize-text-in-python/"/>
-        <updated>2025-09-19T19:34:12.000Z</updated>
-        <summary type="html"><![CDATA[When working with Python, you may need to perform a tokenization operation on a given text dataset. Tokenization is the process of breaking down text into smaller pieces, typically words or sentences, which are called tokens. These tokens can then be...]]></summary>
-        <author>
-            <name>AYUSH MISHRA</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn Chess and Become a Better Developer with Ihechikara Abba (ELO rating of 2285) [Podcast #189]]]></title>
-        <id>68cd6ffad57a0c65e2ff97bf</id>
-        <link href="https://www.freecodecamp.org/news/learn-chess-and-become-a-better-developer-with-ihechikara-abba-elo-rating-of-2285-podcast-189/"/>
-        <updated>2025-09-19T15:00:10.000Z</updated>
-        <summary type="html"><![CDATA[On this week's freeCodeCamp podcast we're talking with software engineer Ihechikara Abba, who has a chess ELO rating of 2285, putting him among top competitive chess players. We just published his freeCodeCamp course on chess end games, and an accomp...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Brief Introduction to SQLite]]></title>
-        <id>68cd625e82b856dadd4cceba</id>
-        <link href="https://www.freecodecamp.org/news/a-brief-introduction-to-sqlite/"/>
-        <updated>2025-09-19T14:02:06.000Z</updated>
-        <summary type="html"><![CDATA[SQLite is one of the most underappreciated tools in a developer's toolkit. It's a full-featured relational database that runs directly in your application. No server setup. No configuration files. No network protocols. Just a simple library that give...]]></summary>
-        <author>
-            <name>Mark Mahoney</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[On inclusive personas and inclusive user research]]></title>
-        <id>https://css-tricks.com/?p=389157</id>
-        <link href="https://css-tricks.com/on-inclusive-personas-and-inclusive-user-research/"/>
-        <updated>2025-09-19T13:58:37.000Z</updated>
-        <summary type="html"><![CDATA[A set of notes taken from Eric Bailey's article about the use of inclusive personas and user research.
-On inclusive personas and inclusive user research originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use Nano Banana for Image Generation - Explained with Code Examples]]></title>
-        <id>68cd5897ffbf18457f7bb85a</id>
-        <link href="https://www.freecodecamp.org/news/nano-banana-for-image-generation/"/>
-        <updated>2025-09-19T13:20:23.000Z</updated>
-        <summary type="html"><![CDATA[AI is changing the image generation and editing process into a smooth workflow. Now, with just a single prompt, you can tell your computer to generate or edit an existing image. Google just launched its new model for image generation or editing, "Nan...]]></summary>
-        <author>
-            <name>Tarun Singh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Store Data Locally with Isar in Flutter]]></title>
-        <id>68cd561cebc0d959d789d679</id>
-        <link href="https://www.freecodecamp.org/news/store-data-locally-with-isar-in-flutter/"/>
-        <updated>2025-09-19T13:09:48.000Z</updated>
-        <summary type="html"><![CDATA[When building Flutter applications, managing local data efficiently is critical. You want a database that is lightweight, fast, and easy to integrate, especially if your app will work offline. Isar is one such database. It is a high-performance, easy...]]></summary>
-        <author>
-            <name>Atuoha Anthony</name>
         </author>
     </entry>
 </feed>
