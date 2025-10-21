@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-20T00:16:00.851Z</updated>
+    <updated>2025-10-21T00:14:55.737Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Building a Honeypot Field That Works]]></title>
+        <id>https://css-tricks.com/?p=388560</id>
+        <link href="https://css-tricks.com/building-a-honeypot-field-that-works/"/>
+        <updated>2025-10-20T16:11:40.000Z</updated>
+        <summary type="html"><![CDATA[Honeypots are fields that developers use to prevent spam submissions. They still work in 2025. But you got to set a couple of tricks in place so spambots can’t detect your honeypot field.
+Building a Honeypot Field That Works originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Zell Liew</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Parse INI Config Files in Python with Configparser]]></title>
         <id>68f25c6d7d9fdcba5704db2e</id>

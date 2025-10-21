@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=388560",
+          "author": "Zell Liew",
+          "description": "Honeypots are fields that developers use to prevent spam submissions. They still work in 2025. But you got to set a couple of tricks in place so spambots can’t detect your honeypot field.\nBuilding a Honeypot Field That Works originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/building-a-honeypot-field-that-works/",
+          "publishedOn": "2025-10-20T16:11:40.000Z",
+          "wordCount": 2468,
+          "title": "Building a Honeypot Field That Works",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2021/04/sticky-header.png"
+        },
+        {
           "id": "https://css-tricks.com/?p=389737",
           "author": "Temani Afif",
           "description": "Let’s suppose you have N elements with the same animation that should animate sequentially. Modern CSS makes this easy and it works for any number of items!\nSequential linear() Animation With N Elements originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
