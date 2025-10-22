@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-21T00:14:55.737Z</updated>
+    <updated>2025-10-22T00:14:44.805Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Create and Style Tables with Vanilla JavaScript]]></title>
+        <id>68f7d9011382e7a69eb7903e</id>
+        <link href="https://www.freecodecamp.org/news/how-to-create-and-style-tables-with-vanilla-javascript/"/>
+        <updated>2025-10-21T19:03:29.000Z</updated>
+        <summary type="html"><![CDATA[Tables are one of the most useful ways to display structured data, whether you’re showing a list of users, sales figures, or project reports. In this tutorial, you will learn how to: Build tables using plain HTML Style them using CSS Create and ma...]]></summary>
+        <author>
+            <name>Md. Fahim Bin Amin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Voice AI Agent Using Open-Source Tools]]></title>
+        <id>68f7d890413573e1d65bb331</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-a-voice-ai-agent-using-open-source-tools/"/>
+        <updated>2025-10-21T19:01:36.000Z</updated>
+        <summary type="html"><![CDATA[Voice is the next frontier of conversational AI. It is the most natural modality for people to chat and interact with another intelligent being. In the past year, frontier AI labs such as OpenAI, xAI, Anthropic, Meta, and Google have all released rea...]]></summary>
+        <author>
+            <name>Michael Yuan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Master Technical Interviews by Learning Data Structures and Algorithms]]></title>
+        <id>68f7d7315429f082cb2c9593</id>
+        <link href="https://www.freecodecamp.org/news/master-technical-interviews-by-learning-data-structures-and-algorithms/"/>
+        <updated>2025-10-21T18:55:45.000Z</updated>
+        <summary type="html"><![CDATA[Learn how to master technical interviews for software engineering roles. We just posted a 49-hour course on the freeCodeCamp.org YouTube channel that will teach you everything you need to know about data structures and algorithms. Parth Vyas created ...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn SwiftUI and Create an iOS App From Scratch]]></title>
+        <id>68f7d59ad8e7070995147d16</id>
+        <link href="https://www.freecodecamp.org/news/learn-swiftui-and-create-an-ios-app-from-scratch/"/>
+        <updated>2025-10-21T18:48:58.000Z</updated>
+        <summary type="html"><![CDATA[Learn how to create a complete iOS app from scratch using SwiftUI and Xcode. We just posted a course on the freeCodeCamp.org YouTube channel that will teach you to build a feature-rich movie and TV browsing app with a dynamic home screen, powerful se...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Full-Stack Serverless CRUD App using AWS and React]]></title>
+        <id>68f7b6ca9d4df532a83f12f7</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-a-full-stack-serverless-app/"/>
+        <updated>2025-10-21T16:37:30.000Z</updated>
+        <summary type="html"><![CDATA[Imagine running a production application that automatically scales from zero to thousands of users without ever touching a server configuration. That's the power of serverless architecture, and it's easier to implement than you might think. If you're...]]></summary>
+        <author>
+            <name>Chisom Uma</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Building a Honeypot Field That Works]]></title>
         <id>https://css-tricks.com/?p=388560</id>
