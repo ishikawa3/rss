@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=389961",
+          "author": "Mat Marquis",
+          "description": "A thorough but approachable lesson on JavaScript expressions excerpted JavaScript For Everyone, a complete online course offered by our friends at Piccalilli.\nAn Introduction to JavaScript Expressions originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/an-introduction-to-javascript-expressions/",
+          "publishedOn": "2025-10-22T19:08:23.000Z",
+          "wordCount": 4302,
+          "title": "An Introduction to JavaScript Expressions",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/10/javascript-for-everyone-scaled.png"
+        },
+        {
           "id": "https://css-tricks.com/?p=388560",
           "author": "Zell Liew",
           "description": "Honeypots are fields that developers use to prevent spam submissions. They still work in 2025. But you got to set a couple of tricks in place so spambots can’t detect your honeypot field.\nBuilding a Honeypot Field That Works originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -128,6 +138,16 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2025/10/ambient-animations-web-design-practical-applications-part2/",
+          "author": "hello@smashingmagazine.com (Andy Clarke)",
+          "description": "Motion can be tricky: too much distracts, too little feels flat. Ambient animations sit in the middle. They’re subtle, slow-moving details that add atmosphere without stealing the show. In part two of his series, web design pioneer Andy Clarke shows how ambient animations can add personality to any website design.",
+          "link": "https://smashingmagazine.com/2025/10/ambient-animations-web-design-practical-applications-part2/",
+          "publishedOn": "2025-10-22T13:00:00.000Z",
+          "wordCount": 4591,
+          "title": "Ambient Animations In Web Design: Practical Applications (Part 2)",
+          "imageUrl": "https:null"
+        },
         {
           "id": "https://smashingmagazine.com/2025/10/ai-ux-achieve-more-with-less/",
           "author": "hello@smashingmagazine.com (Paul Boag)",
@@ -247,21 +267,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/intent-prototyping-pure-vibe-coding-enterprise-ux/intent-prototyping-pure-vibe-coding-enterprise-ux.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2025/09/ambient-animations-web-design-principles-implementation/",
-          "author": "hello@smashingmagazine.com (Andy Clarke)",
-          "description": "Creating motion can be tricky. Too much and it’s distracting. Too little and a design feels flat. Ambient animations are the middle ground — subtle, slow-moving details that add atmosphere without stealing the show. In this article, web design pioneer Andy Clarke introduces the concept of ambient animations and explains how to implement them.",
-          "link": "https://smashingmagazine.com/2025/09/ambient-animations-web-design-principles-implementation/",
-          "publishedOn": "2025-09-22T13:00:00.000Z",
-          "wordCount": 4545,
-          "title": "Ambient Animations In Web Design: Principles And Implementation (Part 1)",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/ambient-animations-web-design-principles-implementation/ambient-animations-web-design-principles-implementation.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/ambient-animations-web-design-principles-implementation/ambient-animations-web-design-principles-implementation.jpg"
         }
       ]
     },
@@ -270,6 +275,46 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "68f93792b7f64a597dc407f9",
+          "author": "Shola Jegede",
+          "description": "In this tutorial, you’ll build a To-Do list MCP server using TypeScript. You’ll learn how to implement authentication, persistence, and billing, to make the server robust and functional for real users. By the end, you’ll have a working MCP server tha...",
+          "link": "https://www.freecodecamp.org/news/how-to-build-a-to-do-list-mcp-server-using-typescript/",
+          "publishedOn": "2025-10-22T19:59:14.000Z",
+          "wordCount": 7497,
+          "title": "How to Build a To-Do List MCP Server Using TypeScript – with Auth, Database, and Billing",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1761162036666/77972b3f-9dc8-404f-b40d-fb70ee73e2a5.png"
+        },
+        {
+          "id": "68f92b264b456457fa60faa6",
+          "author": "Manish Shivanandhan",
+          "description": "Game development has never been more exciting than it is today. With the rise of mobile phones, powerful PCs, and even browser-based platforms, the demand for high-quality games continues to grow at a fast pace.  Developers now have access to a wide ...",
+          "link": "https://www.freecodecamp.org/news/top-frameworks-for-game-developers/",
+          "publishedOn": "2025-10-22T19:06:14.000Z",
+          "wordCount": 2149,
+          "title": "Top Frameworks for Game Developers",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1761159950014/3c7e5e1c-5e1e-4c9b-b299-53dc20606f12.png"
+        },
+        {
+          "id": "68f9002b255bb54c291b6f88",
+          "author": "Manish Shivanandhan",
+          "description": "If you’ve ever tried feeding web pages into an AI model, you know the pain. Websites come with ads, navigation bars, and messy HTML. Before your Large Language Model (LLM) can understand the content, you must clean and format it. That’s where Firecra...",
+          "link": "https://www.freecodecamp.org/news/how-to-turn-websites-into-llm-ready-data-using-firecrawl/",
+          "publishedOn": "2025-10-22T16:02:51.000Z",
+          "wordCount": 2157,
+          "title": "How to Turn Websites into LLM-Ready Data Using Firecrawl",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1761148818578/a9572dc3-cc79-4ba9-ab47-4270e465df70.png"
+        },
+        {
+          "id": "68f8ff55379be3ac20c68993",
+          "author": "Atuoha Anthony",
+          "description": "Flutter has rapidly become one of the most popular frameworks for building cross-platform applications. Its ability to deliver smooth, natively compiled apps on iOS, Android, web, and desktop from a single codebase makes it attractive to startups and...",
+          "link": "https://www.freecodecamp.org/news/how-to-build-scalable-and-performant-flutter-applications-a-handbook-for-devs/",
+          "publishedOn": "2025-10-22T15:59:17.000Z",
+          "wordCount": 14535,
+          "title": "How to Build Scalable and Performant Flutter Applications: A Handbook for Devs",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1761148722038/f62b83ec-edba-458c-b9ff-5b4651375b0f.png"
+        },
         {
           "id": "68f7d9011382e7a69eb7903e",
           "author": "Md. Fahim Bin Amin",
@@ -939,36 +984,6 @@
           "wordCount": 1162,
           "title": "Code an LLM From Scratch – Theory to RLHF",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1758631000000/c6abd414-46ed-4fec-af5f-3cd694f5af71.png"
-        },
-        {
-          "id": "68d20d7a6bd072175081e6b2",
-          "author": "Oluwatobi",
-          "description": "Social applications have evolved over the years, and there is a major need for secure methods to authenticate users' identities. Integrating multifactor authentication capabilities into applications is crucial for strengthening their integrity. In so...",
-          "link": "https://www.freecodecamp.org/news/integrate-facial-recognition-authentication-in-a-social-application/",
-          "publishedOn": "2025-09-23T03:01:14.000Z",
-          "wordCount": 4605,
-          "title": "How to Integrate Facial Recognition Authentication in a Social App with Face API",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1758208687476/3ca6b95d-55c8-4bb6-a4aa-580409e1608f.png"
-        },
-        {
-          "id": "68d2074ea281a4364a16d324",
-          "author": "Andrew Baisden",
-          "description": "Authentication is an important aspect when building applications, especially if they hold financial information or require users to sign into accounts. Building an auth library can be a lot of work, and there is no need to reinvent the wheel when so ...",
-          "link": "https://www.freecodecamp.org/news/how-to-choose-the-right-nextjs-authentication-library/",
-          "publishedOn": "2025-09-23T02:34:54.000Z",
-          "wordCount": 5139,
-          "title": "Clerk vs Kinde vs Better Auth: How to Choose the Right Next.js Authentication Library",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1758594098828/8b2e3142-9067-4a02-b1e5-63319dde45de.png"
-        },
-        {
-          "id": "68d15f138a2020e83f638df2",
-          "author": "Beau Carnes",
-          "description": "Looking to get hands-on with AI? We just posted a comprehensive course on the freeCodeCamp.org YouTube channel designed to help you build powerful AI agent applications. Led by Cerebras growth engineer Sarah Chieng alongside industry experts from Exa...",
-          "link": "https://www.freecodecamp.org/news/how-to-build-advanced-ai-agents/",
-          "publishedOn": "2025-09-22T14:37:07.000Z",
-          "wordCount": 1323,
-          "title": "How to Build Advanced AI Agents",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1756320252743/70d3c437-c76b-4919-bb09-2ac57da55bc5.png"
         }
       ]
     }

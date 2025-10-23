@@ -2,10 +2,71 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-22T00:14:44.805Z</updated>
+    <updated>2025-10-23T00:14:45.736Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Build a To-Do List MCP Server Using TypeScript – with Auth, Database, and Billing]]></title>
+        <id>68f93792b7f64a597dc407f9</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-a-to-do-list-mcp-server-using-typescript/"/>
+        <updated>2025-10-22T19:59:14.000Z</updated>
+        <summary type="html"><![CDATA[In this tutorial, you’ll build a To-Do list MCP server using TypeScript. You’ll learn how to implement authentication, persistence, and billing, to make the server robust and functional for real users. By the end, you’ll have a working MCP server tha...]]></summary>
+        <author>
+            <name>Shola Jegede</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An Introduction to JavaScript Expressions]]></title>
+        <id>https://css-tricks.com/?p=389961</id>
+        <link href="https://css-tricks.com/an-introduction-to-javascript-expressions/"/>
+        <updated>2025-10-22T19:08:23.000Z</updated>
+        <summary type="html"><![CDATA[A thorough but approachable lesson on JavaScript expressions excerpted JavaScript For Everyone, a complete online course offered by our friends at Piccalilli.
+An Introduction to JavaScript Expressions originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Mat Marquis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top Frameworks for Game Developers]]></title>
+        <id>68f92b264b456457fa60faa6</id>
+        <link href="https://www.freecodecamp.org/news/top-frameworks-for-game-developers/"/>
+        <updated>2025-10-22T19:06:14.000Z</updated>
+        <summary type="html"><![CDATA[Game development has never been more exciting than it is today. With the rise of mobile phones, powerful PCs, and even browser-based platforms, the demand for high-quality games continues to grow at a fast pace.  Developers now have access to a wide ...]]></summary>
+        <author>
+            <name>Manish Shivanandhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Turn Websites into LLM-Ready Data Using Firecrawl]]></title>
+        <id>68f9002b255bb54c291b6f88</id>
+        <link href="https://www.freecodecamp.org/news/how-to-turn-websites-into-llm-ready-data-using-firecrawl/"/>
+        <updated>2025-10-22T16:02:51.000Z</updated>
+        <summary type="html"><![CDATA[If you’ve ever tried feeding web pages into an AI model, you know the pain. Websites come with ads, navigation bars, and messy HTML. Before your Large Language Model (LLM) can understand the content, you must clean and format it. That’s where Firecra...]]></summary>
+        <author>
+            <name>Manish Shivanandhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build Scalable and Performant Flutter Applications: A Handbook for Devs]]></title>
+        <id>68f8ff55379be3ac20c68993</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-scalable-and-performant-flutter-applications-a-handbook-for-devs/"/>
+        <updated>2025-10-22T15:59:17.000Z</updated>
+        <summary type="html"><![CDATA[Flutter has rapidly become one of the most popular frameworks for building cross-platform applications. Its ability to deliver smooth, natively compiled apps on iOS, Android, web, and desktop from a single codebase makes it attractive to startups and...]]></summary>
+        <author>
+            <name>Atuoha Anthony</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ambient Animations In Web Design: Practical Applications (Part 2)]]></title>
+        <id>https://smashingmagazine.com/2025/10/ambient-animations-web-design-practical-applications-part2/</id>
+        <link href="https://smashingmagazine.com/2025/10/ambient-animations-web-design-practical-applications-part2/"/>
+        <updated>2025-10-22T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Motion can be tricky: too much distracts, too little feels flat. Ambient animations sit in the middle. They’re subtle, slow-moving details that add atmosphere without stealing the show. In part two of his series, web design pioneer Andy Clarke shows how ambient animations can add personality to any website design.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Andy Clarke)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Create and Style Tables with Vanilla JavaScript]]></title>
         <id>68f7d9011382e7a69eb7903e</id>
@@ -866,46 +927,6 @@ CSS Typed Arithmetic originally published on CSS-Tricks, which is part of the Di
         <summary type="html"><![CDATA[How do LLMs actually work? We just posted a course on the freeCodeCamp.org YouTube channel that will teach you how to build a large language model from scratch using pure PyTorch. This isn't your typical course that just scratches the surface. It’s a...]]></summary>
         <author>
             <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Integrate Facial Recognition Authentication in a Social App with Face API]]></title>
-        <id>68d20d7a6bd072175081e6b2</id>
-        <link href="https://www.freecodecamp.org/news/integrate-facial-recognition-authentication-in-a-social-application/"/>
-        <updated>2025-09-23T03:01:14.000Z</updated>
-        <summary type="html"><![CDATA[Social applications have evolved over the years, and there is a major need for secure methods to authenticate users' identities. Integrating multifactor authentication capabilities into applications is crucial for strengthening their integrity. In so...]]></summary>
-        <author>
-            <name>Oluwatobi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Clerk vs Kinde vs Better Auth: How to Choose the Right Next.js Authentication Library]]></title>
-        <id>68d2074ea281a4364a16d324</id>
-        <link href="https://www.freecodecamp.org/news/how-to-choose-the-right-nextjs-authentication-library/"/>
-        <updated>2025-09-23T02:34:54.000Z</updated>
-        <summary type="html"><![CDATA[Authentication is an important aspect when building applications, especially if they hold financial information or require users to sign into accounts. Building an auth library can be a lot of work, and there is no need to reinvent the wheel when so ...]]></summary>
-        <author>
-            <name>Andrew Baisden</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build Advanced AI Agents]]></title>
-        <id>68d15f138a2020e83f638df2</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-advanced-ai-agents/"/>
-        <updated>2025-09-22T14:37:07.000Z</updated>
-        <summary type="html"><![CDATA[Looking to get hands-on with AI? We just posted a comprehensive course on the freeCodeCamp.org YouTube channel designed to help you build powerful AI agent applications. Led by Cerebras growth engineer Sarah Chieng alongside industry experts from Exa...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ambient Animations In Web Design: Principles And Implementation (Part 1)]]></title>
-        <id>https://smashingmagazine.com/2025/09/ambient-animations-web-design-principles-implementation/</id>
-        <link href="https://smashingmagazine.com/2025/09/ambient-animations-web-design-principles-implementation/"/>
-        <updated>2025-09-22T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Creating motion can be tricky. Too much and it’s distracting. Too little and a design feels flat. Ambient animations are the middle ground — subtle, slow-moving details that add atmosphere without stealing the show. In this article, web design pioneer Andy Clarke introduces the concept of ambient animations and explains how to implement them.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Andy Clarke)</name>
         </author>
     </entry>
 </feed>
