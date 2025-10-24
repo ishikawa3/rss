@@ -276,6 +276,26 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "68fa5f0711038bf3130f454d",
+          "author": "Manish Shivanandhan",
+          "description": "When people talk about AI agents, they often imagine something futuristic that can think, talk, and make decisions.  But the truth is, AI agents are already here. And they are working quietly in the background. They answer customer questions, schedul...",
+          "link": "https://www.freecodecamp.org/news/how-do-ai-agents-work/",
+          "publishedOn": "2025-10-23T16:59:51.000Z",
+          "wordCount": 2184,
+          "title": "How Do AI Agents Work?",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1761236715843/f9da63b1-5e7e-4e55-a32a-36159454a3c9.png"
+        },
+        {
+          "id": "68f95319417d2ee394355b66",
+          "author": "Oluwatobi Sofela",
+          "description": "React is one of the most powerful and widely used libraries for building user interfaces with JavaScript. From small components to large-scale front-end and full-stack applications, React gives you the flexibility to create interactive, efficient, an...",
+          "link": "https://www.freecodecamp.org/news/react-handbook-for-beginners-learn-jsx-hooks-rendering/",
+          "publishedOn": "2025-10-22T21:56:41.000Z",
+          "wordCount": 10090,
+          "title": "The React Handbook for Beginners – JSX, Hooks, and Rendering Explained",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1761170169453/445fd0f5-54f9-4be5-bacf-2e6c6acd1f21.png"
+        },
+        {
           "id": "68f93792b7f64a597dc407f9",
           "author": "Shola Jegede",
           "description": "In this tutorial, you’ll build a To-Do list MCP server using TypeScript. You’ll learn how to implement authentication, persistence, and billing, to make the server robust and functional for real users. By the end, you’ll have a working MCP server tha...",
@@ -964,26 +984,6 @@
           "wordCount": 1985,
           "title": "What Does a Creative Technologist Do?",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1758739716707/5b3242ab-e42a-4a2c-832d-15954dcbaa3c.png"
-        },
-        {
-          "id": "68d2d63ab7bb607e13c45cf4",
-          "author": "Ajay Yadav",
-          "description": "A few months ago, my manager assigned me a task: implement a search functionality across an entire page. The tricky part was that the displayed text was shown in the form of prompts, and each prompt could be truncated after two lines. If the text exc...",
-          "link": "https://www.freecodecamp.org/news/optimize-search-in-javascript-with-debouncing/",
-          "publishedOn": "2025-09-23T17:17:46.000Z",
-          "wordCount": 2387,
-          "title": "How to Optimize Search in JavaScript with Debouncing",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1758647563748/4f1c792d-5912-4bbb-9144-fcdda83d78ec.png"
-        },
-        {
-          "id": "68d29469c234e0ab00c1b00a",
-          "author": "Beau Carnes",
-          "description": "How do LLMs actually work? We just posted a course on the freeCodeCamp.org YouTube channel that will teach you how to build a large language model from scratch using pure PyTorch. This isn't your typical course that just scratches the surface. It’s a...",
-          "link": "https://www.freecodecamp.org/news/code-an-llm-from-scratch-theory-to-rlhf/",
-          "publishedOn": "2025-09-23T12:36:57.000Z",
-          "wordCount": 1162,
-          "title": "Code an LLM From Scratch – Theory to RLHF",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1758631000000/c6abd414-46ed-4fec-af5f-3cd694f5af71.png"
         }
       ]
     }
