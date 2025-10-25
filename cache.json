@@ -12,6 +12,21 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=389794",
+          "author": "Preethi",
+          "description": "When we change an element’s intrinsic sizing, its children are affected, too. This is something we can use to our advantage.\nCSS Animations That Leverage the Parent-Child Relationship originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/css-animations-that-leverage-the-parent-child-relationship/",
+          "publishedOn": "2025-10-24T14:18:03.000Z",
+          "wordCount": 2436,
+          "title": "CSS Animations That Leverage the Parent-Child Relationship",
+          "enclosure": {
+            "url": "https://css-tricks.com/wp-content/uploads/2025/10/overlapping-circle-animation.mov",
+            "length": "782608",
+            "type": "video/quicktime"
+          },
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2020/10/motion-blur.png"
+        },
+        {
           "id": "https://css-tricks.com/?p=389961",
           "author": "Mat Marquis",
           "description": "A thorough but approachable lesson on JavaScript expressions excerpted JavaScript For Everyone, a complete online course offered by our friends at Piccalilli.\nAn Introduction to JavaScript Expressions originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -115,21 +130,6 @@
           "wordCount": 4406,
           "title": "Recreating Gmail’s Google Gemini Animation",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/09/gemini-button.png"
-        },
-        {
-          "id": "https://css-tricks.com/?p=389371",
-          "author": "Amit Sheen",
-          "description": "Starting in Chrome 140, we'll be able to calculate numeric values with mixed data types. Sounds small, but Amit demonstrates how big a deal this is, calling it Computational CSS.\nCSS Typed Arithmetic originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/css-typed-arithmetic/",
-          "publishedOn": "2025-09-24T12:49:22.000Z",
-          "wordCount": 3970,
-          "title": "CSS Typed Arithmetic",
-          "enclosure": {
-            "url": "https://css-tricks.com/wp-content/uploads/2025/09/swirl.mp4",
-            "length": "14785658",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/09/css-types-arithmetic.png"
         }
       ]
     },
@@ -252,21 +252,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/from-prompt-to-partner-designing-custom-ai-assistant/from-prompt-to-partner-designing-custom-ai-assistant.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2025/09/intent-prototyping-pure-vibe-coding-enterprise-ux/",
-          "author": "hello@smashingmagazine.com (Yegor Gilyov)",
-          "description": "Yegor Gilyov examines the problem of over-reliance on static high-fidelity mockups, which often leave the conceptual model and user flows dangerously underdeveloped. He then explores whether AI-powered prototyping is the answer, questioning whether the path forward is the popular “vibe coding” approach or a more structured, intent-driven approach.",
-          "link": "https://smashingmagazine.com/2025/09/intent-prototyping-pure-vibe-coding-enterprise-ux/",
-          "publishedOn": "2025-09-24T17:00:00.000Z",
-          "wordCount": 5432,
-          "title": "Intent Prototyping: The Allure And Danger Of Pure Vibe Coding In Enterprise UX (Part 1)",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/intent-prototyping-pure-vibe-coding-enterprise-ux/intent-prototyping-pure-vibe-coding-enterprise-ux.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/intent-prototyping-pure-vibe-coding-enterprise-ux/intent-prototyping-pure-vibe-coding-enterprise-ux.jpg"
         }
       ]
     },
@@ -275,6 +260,66 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "68fbd8942f09b776064b952c",
+          "author": "Bala Priya C",
+          "description": "TOML (Tom's Obvious Minimal Language) has become the modern standard for configuration files in Python projects. It's more expressive than INI files and cleaner than JSON or YAML. Since Python 3.11, the standard library includes the tomllib module fo...",
+          "link": "https://www.freecodecamp.org/news/how-to-work-with-toml-files-in-python/",
+          "publishedOn": "2025-10-24T19:50:44.000Z",
+          "wordCount": 1812,
+          "title": "How to Work with TOML Files in Python",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1761335431619/2d4fefec-cdbb-4146-ae9c-24468b483278.png"
+        },
+        {
+          "id": "68fbd8268c0c93a0a754d14e",
+          "author": "Manish Shivanandhan",
+          "description": "The world of artificial intelligence is moving fast. Every week, it seems like there’s a new tool, framework, or model that promises to make AI better. But as developers build more AI applications, one big problem keeps showing up: the lack of contex...",
+          "link": "https://www.freecodecamp.org/news/how-the-model-context-protocol-works/",
+          "publishedOn": "2025-10-24T19:48:54.000Z",
+          "wordCount": 2609,
+          "title": "How the Model Context Protocol Works",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1761335265026/4e06906c-3f4b-4f88-b49d-8bc58f984e55.png"
+        },
+        {
+          "id": "68fbd79c4ea129b1fef69825",
+          "author": "Atuoha Anthony",
+          "description": "Software development is moving fast toward AI-assisted workflows and smarter tooling. Whether it’s your IDE completing code, an AI assistant analyzing your project, or automated testing pipelines, all these tools need a standardized way to communicat...",
+          "link": "https://www.freecodecamp.org/news/how-to-use-the-model-context-protocol-mcp-with-flutter-and-dart/",
+          "publishedOn": "2025-10-24T19:46:36.000Z",
+          "wordCount": 5286,
+          "title": "How to Use the Model Context Protocol (MCP) with Flutter and Dart",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1761335181944/18a2fe98-2d77-490c-8b80-5f254c3f9c99.png"
+        },
+        {
+          "id": "68fba9c10656b6400beb0762",
+          "author": "Sumit Saha",
+          "description": "JavaScript is a single-threaded programming language, and Node.js is the runtime environment for JavaScript. This means that JavaScript essentially runs within Node.js, and all operations are handled through a single thread. But when we perform tasks...",
+          "link": "https://www.freecodecamp.org/news/how-to-implement-multi-threading-in-nodejs-with-worker-threads-full-handbook/",
+          "publishedOn": "2025-10-24T16:30:57.000Z",
+          "wordCount": 6588,
+          "title": "How to Implement Multi-Threading in Node.js With Worker Threads [Full Handbook]",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1761323431527/d74eb2ba-edaa-4d19-a041-364e99a705ba.png"
+        },
+        {
+          "id": "68fb8c95d81014dabb030226",
+          "author": "Opaluwa Emidowojo",
+          "description": "Since the advent of microservices, development teams have gained the flexibility to deploy services independently, without coordinating with the entire engineering organization. Bug fixes can be released in isolation without full regression testing, ...",
+          "link": "https://www.freecodecamp.org/news/improve-developer-experience-with-net-aspire/",
+          "publishedOn": "2025-10-24T14:26:29.000Z",
+          "wordCount": 3906,
+          "title": "How to Improve Developer Experience in Microservices Applications with .NET Aspire",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1761315727860/7321f413-ec87-47a8-b194-523c026f495b.png"
+        },
+        {
+          "id": "68fb89f65b2841c3f1a026ba",
+          "author": "Beau Carnes",
+          "description": "Eric Carlson is a self-taught software engineer at Cisco. In his early 20s, he worked his way up to manager at the busiest Dominos Pizza in Canada. He eventually went to college and studied liberal arts, then worked as a teacher for two decades befor...",
+          "link": "https://www.freecodecamp.org/news/first-dev-job-at-45-interview-with-self-taught-freecodecamp-grad-eric-carlson-podcast-194/",
+          "publishedOn": "2025-10-24T14:15:18.000Z",
+          "wordCount": 1406,
+          "title": "First dev job at 45 – Interview with self-taught freeCodeCamp grad Eric Carlson [Podcast #194]",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1761272138733/e738b6de-9f43-41b9-a7d4-b09d3d4182af.jpeg"
+        },
         {
           "id": "68fa5f0711038bf3130f454d",
           "author": "Manish Shivanandhan",
@@ -944,46 +989,6 @@
           "wordCount": 1140,
           "title": "Build an Enterprise-Grade AI Project",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1758809078183/d59211ff-0429-40dc-8313-738889bb2884.jpeg"
-        },
-        {
-          "id": "68d44cc07b532bf921e47213",
-          "author": "Ikegah Oliver",
-          "description": "If you’ve spent any time working with JavaScript, you’ve most likely come across npm—whether installing packages like Express, Lodash, or React, or running commands like npm init. While using npm is second nature for many JavaScript developers, some ...",
-          "link": "https://www.freecodecamp.org/news/how-to-publish-an-npm-package/",
-          "publishedOn": "2025-09-24T19:55:44.000Z",
-          "wordCount": 3647,
-          "title": "How to Publish an npm Package - Explained with Examples",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1758743190885/78dd4f19-53eb-4101-9cf9-7c22ab5f6be2.png"
-        },
-        {
-          "id": "68d44505e26e6f1a24c44ba9",
-          "author": "Gabor Koos",
-          "description": "Regardless of their initial size or scope, projects tend to grow in complexity over time. As new features are added and requirements evolve, the number of components and the connections between them multiply. Services, handlers, repositories, externa...",
-          "link": "https://www.freecodecamp.org/news/how-to-use-dependency-injection-in-go/",
-          "publishedOn": "2025-09-24T19:22:45.000Z",
-          "wordCount": 6124,
-          "title": "How to Implement Dependency Injection in Go - Explained with Code Examples",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1758741125008/e796d218-2cf6-43ed-87a5-dfc772e121f8.png"
-        },
-        {
-          "id": "68d443c623251efd1f372d02",
-          "author": "Olaleye Blessing",
-          "description": "Have you ever noticed your React application getting slower the longer you use it? This could be a result of memory leaks. Memory leaks are a common performance issue in React applications. They can slow down your application, crash your browser, and...",
-          "link": "https://www.freecodecamp.org/news/fix-memory-leaks-in-react-apps/",
-          "publishedOn": "2025-09-24T19:17:26.000Z",
-          "wordCount": 2639,
-          "title": "How to Fix Memory Leaks in React Applications",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1758741256644/817dba0f-bf49-424c-9b13-86bf81dc327f.png"
-        },
-        {
-          "id": "68d43e64c21b03de37bb4dce",
-          "author": "Ifeoma Udu",
-          "description": "On paper, I studied computer science. However, most of my passions were artistic: writing, storytelling, and content creation. Over time, I found myself blending both worlds without recognizing it. Then I came across the term Creative Technologist an...",
-          "link": "https://www.freecodecamp.org/news/what-does-a-creative-technologist-do/",
-          "publishedOn": "2025-09-24T18:54:28.000Z",
-          "wordCount": 1985,
-          "title": "What Does a Creative Technologist Do?",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1758739716707/5b3242ab-e42a-4a2c-832d-15954dcbaa3c.png"
         }
       ]
     }

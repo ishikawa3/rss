@@ -2,10 +2,81 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-24T00:13:22.937Z</updated>
+    <updated>2025-10-25T00:14:16.724Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Work with TOML Files in Python]]></title>
+        <id>68fbd8942f09b776064b952c</id>
+        <link href="https://www.freecodecamp.org/news/how-to-work-with-toml-files-in-python/"/>
+        <updated>2025-10-24T19:50:44.000Z</updated>
+        <summary type="html"><![CDATA[TOML (Tom's Obvious Minimal Language) has become the modern standard for configuration files in Python projects. It's more expressive than INI files and cleaner than JSON or YAML. Since Python 3.11, the standard library includes the tomllib module fo...]]></summary>
+        <author>
+            <name>Bala Priya C</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How the Model Context Protocol Works]]></title>
+        <id>68fbd8268c0c93a0a754d14e</id>
+        <link href="https://www.freecodecamp.org/news/how-the-model-context-protocol-works/"/>
+        <updated>2025-10-24T19:48:54.000Z</updated>
+        <summary type="html"><![CDATA[The world of artificial intelligence is moving fast. Every week, it seems like there’s a new tool, framework, or model that promises to make AI better. But as developers build more AI applications, one big problem keeps showing up: the lack of contex...]]></summary>
+        <author>
+            <name>Manish Shivanandhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use the Model Context Protocol (MCP) with Flutter and Dart]]></title>
+        <id>68fbd79c4ea129b1fef69825</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-the-model-context-protocol-mcp-with-flutter-and-dart/"/>
+        <updated>2025-10-24T19:46:36.000Z</updated>
+        <summary type="html"><![CDATA[Software development is moving fast toward AI-assisted workflows and smarter tooling. Whether it’s your IDE completing code, an AI assistant analyzing your project, or automated testing pipelines, all these tools need a standardized way to communicat...]]></summary>
+        <author>
+            <name>Atuoha Anthony</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Implement Multi-Threading in Node.js With Worker Threads [Full Handbook]]]></title>
+        <id>68fba9c10656b6400beb0762</id>
+        <link href="https://www.freecodecamp.org/news/how-to-implement-multi-threading-in-nodejs-with-worker-threads-full-handbook/"/>
+        <updated>2025-10-24T16:30:57.000Z</updated>
+        <summary type="html"><![CDATA[JavaScript is a single-threaded programming language, and Node.js is the runtime environment for JavaScript. This means that JavaScript essentially runs within Node.js, and all operations are handled through a single thread. But when we perform tasks...]]></summary>
+        <author>
+            <name>Sumit Saha</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Improve Developer Experience in Microservices Applications with .NET Aspire]]></title>
+        <id>68fb8c95d81014dabb030226</id>
+        <link href="https://www.freecodecamp.org/news/improve-developer-experience-with-net-aspire/"/>
+        <updated>2025-10-24T14:26:29.000Z</updated>
+        <summary type="html"><![CDATA[Since the advent of microservices, development teams have gained the flexibility to deploy services independently, without coordinating with the entire engineering organization. Bug fixes can be released in isolation without full regression testing, ...]]></summary>
+        <author>
+            <name>Opaluwa Emidowojo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSS Animations That Leverage the Parent-Child Relationship]]></title>
+        <id>https://css-tricks.com/?p=389794</id>
+        <link href="https://css-tricks.com/css-animations-that-leverage-the-parent-child-relationship/"/>
+        <updated>2025-10-24T14:18:03.000Z</updated>
+        <summary type="html"><![CDATA[When we change an element’s intrinsic sizing, its children are affected, too. This is something we can use to our advantage.
+CSS Animations That Leverage the Parent-Child Relationship originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Preethi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[First dev job at 45 – Interview with self-taught freeCodeCamp grad Eric Carlson [Podcast #194]]]></title>
+        <id>68fb89f65b2841c3f1a026ba</id>
+        <link href="https://www.freecodecamp.org/news/first-dev-job-at-45-interview-with-self-taught-freecodecamp-grad-eric-carlson-podcast-194/"/>
+        <updated>2025-10-24T14:15:18.000Z</updated>
+        <summary type="html"><![CDATA[Eric Carlson is a self-taught software engineer at Cisco. In his early 20s, he worked his way up to manager at the busiest Dominos Pizza in Canada. He eventually went to college and studied liberal arts, then worked as a teacher for two decades befor...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How Do AI Agents Work?]]></title>
         <id>68fa5f0711038bf3130f454d</id>
@@ -866,67 +937,6 @@ Recreating Gmail’s Google Gemini Animation originally published on CSS-Tricks,
         <summary type="html"><![CDATA[You’ve built toy projects. Now build something real. We've just launched a new course on the freeCodeCamp.org YouTube channel that will teach you how to build a production-grade AI project from the ground up. Created by the Ayush Singh, this course i...]]></summary>
         <author>
             <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Publish an npm Package - Explained with Examples]]></title>
-        <id>68d44cc07b532bf921e47213</id>
-        <link href="https://www.freecodecamp.org/news/how-to-publish-an-npm-package/"/>
-        <updated>2025-09-24T19:55:44.000Z</updated>
-        <summary type="html"><![CDATA[If you’ve spent any time working with JavaScript, you’ve most likely come across npm—whether installing packages like Express, Lodash, or React, or running commands like npm init. While using npm is second nature for many JavaScript developers, some ...]]></summary>
-        <author>
-            <name>Ikegah Oliver</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Implement Dependency Injection in Go - Explained with Code Examples]]></title>
-        <id>68d44505e26e6f1a24c44ba9</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-dependency-injection-in-go/"/>
-        <updated>2025-09-24T19:22:45.000Z</updated>
-        <summary type="html"><![CDATA[Regardless of their initial size or scope, projects tend to grow in complexity over time. As new features are added and requirements evolve, the number of components and the connections between them multiply. Services, handlers, repositories, externa...]]></summary>
-        <author>
-            <name>Gabor Koos</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Fix Memory Leaks in React Applications]]></title>
-        <id>68d443c623251efd1f372d02</id>
-        <link href="https://www.freecodecamp.org/news/fix-memory-leaks-in-react-apps/"/>
-        <updated>2025-09-24T19:17:26.000Z</updated>
-        <summary type="html"><![CDATA[Have you ever noticed your React application getting slower the longer you use it? This could be a result of memory leaks. Memory leaks are a common performance issue in React applications. They can slow down your application, crash your browser, and...]]></summary>
-        <author>
-            <name>Olaleye Blessing</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Does a Creative Technologist Do?]]></title>
-        <id>68d43e64c21b03de37bb4dce</id>
-        <link href="https://www.freecodecamp.org/news/what-does-a-creative-technologist-do/"/>
-        <updated>2025-09-24T18:54:28.000Z</updated>
-        <summary type="html"><![CDATA[On paper, I studied computer science. However, most of my passions were artistic: writing, storytelling, and content creation. Over time, I found myself blending both worlds without recognizing it. Then I came across the term Creative Technologist an...]]></summary>
-        <author>
-            <name>Ifeoma Udu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Intent Prototyping: The Allure And Danger Of Pure Vibe Coding In Enterprise UX (Part 1)]]></title>
-        <id>https://smashingmagazine.com/2025/09/intent-prototyping-pure-vibe-coding-enterprise-ux/</id>
-        <link href="https://smashingmagazine.com/2025/09/intent-prototyping-pure-vibe-coding-enterprise-ux/"/>
-        <updated>2025-09-24T17:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Yegor Gilyov examines the problem of over-reliance on static high-fidelity mockups, which often leave the conceptual model and user flows dangerously underdeveloped. He then explores whether AI-powered prototyping is the answer, questioning whether the path forward is the popular “vibe coding” approach or a more structured, intent-driven approach.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Yegor Gilyov)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSS Typed Arithmetic]]></title>
-        <id>https://css-tricks.com/?p=389371</id>
-        <link href="https://css-tricks.com/css-typed-arithmetic/"/>
-        <updated>2025-09-24T12:49:22.000Z</updated>
-        <summary type="html"><![CDATA[Starting in Chrome 140, we'll be able to calculate numeric values with mixed data types. Sounds small, but Amit demonstrates how big a deal this is, calling it Computational CSS.
-CSS Typed Arithmetic originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Amit Sheen</name>
         </author>
     </entry>
 </feed>
