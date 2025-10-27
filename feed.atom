@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-26T00:15:44.809Z</updated>
+    <updated>2025-10-27T00:16:18.712Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
@@ -846,77 +846,6 @@ Same Idea, Different Paint Brush originally published on CSS-Tricks, which is pa
 Touring New CSS Features in Safari 26 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Juan Diego Rodríguez</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google Play’s 16 KB Page Size Compatibility Requirement — What You Should Know, and How to Upgrade Your App]]></title>
-        <id>68d703052043890036a92cb0</id>
-        <link href="https://www.freecodecamp.org/news/google-16-kb-page-size-requirement-what-to-do/"/>
-        <updated>2025-09-26T21:17:57.000Z</updated>
-        <summary type="html"><![CDATA[Android is always evolving, and sometimes those changes happen a bit under the hood. One such change that's been gaining traction—and now has a firm deadline from Google—is the move to a 16 KB page size. If you're an Android developer, especially wit...]]></summary>
-        <author>
-            <name>Arunachalam B</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is the GitHub CLI? How to Use GitHub from the Command Line]]></title>
-        <id>68d6c4873324dabb31fd7214</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-github-from-the-command-line/"/>
-        <updated>2025-09-26T16:51:19.000Z</updated>
-        <summary type="html"><![CDATA[The GitHub CLI (Command Line Interface) is a powerful tool developed by GitHub that allows developers to interact with GitHub directly from the terminal. It provides a simple way to perform many GitHub tasks without leaving the command line interface...]]></summary>
-        <author>
-            <name>AYUSH MISHRA</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lone Wolf Dev turned Open Source Super Contributor Tom Mondloch [Podcast #190]]]></title>
-        <id>68d6aa9b5a8d45880690fb59</id>
-        <link href="https://www.freecodecamp.org/news/lone-wolf-dev-turned-open-source-super-contributor-tom-mondloch-podcast-190/"/>
-        <updated>2025-09-26T15:00:43.000Z</updated>
-        <summary type="html"><![CDATA[Tom Mondloch quit programming after he finished community college. After a few years of odd jobs, he decided to get back into programming and discovered freeCodeCamp. He was just learning his own way, and didn't think freeCodeCamp's linear curriculum...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Recreating Gmail’s Google Gemini Animation]]></title>
-        <id>https://css-tricks.com/?p=389344</id>
-        <link href="https://css-tricks.com/recreating-gmails-google-gemini-animation/"/>
-        <updated>2025-09-26T14:45:13.000Z</updated>
-        <summary type="html"><![CDATA[John Rhea challenged himself to recreate the fancy button using the new CSS shape() function sprinkled with animation to get things pretty close.
-Recreating Gmail’s Google Gemini Animation originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>John Rhea</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Google Sheet AI Agent with Composio and Gemini TTS Support]]></title>
-        <id>68d6a166d140a408e4a60858</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-a-google-sheet-ai-agent/"/>
-        <updated>2025-09-26T14:21:26.000Z</updated>
-        <summary type="html"><![CDATA[With the rise of AI agents and agentic systems, we’re no longer just generating text or images, we’re teaching AI how to take actions. Instead of asking, “Can AI write this for me?” you can now ask, “Can AI do this for me?” From updating CRMs to mana...]]></summary>
-        <author>
-            <name>Shrijal Acharya</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn Flutter Hooks – Common Hooks Explained with Code Examples]]></title>
-        <id>68d692ebc473cf19ac469ed3</id>
-        <link href="https://www.freecodecamp.org/news/learn-flutter-hooks-with-code-examples/"/>
-        <updated>2025-09-26T13:19:39.000Z</updated>
-        <summary type="html"><![CDATA[Flutter hooks are powerful functions that streamline state management, side effects handling, and code organization in Flutter applications. Inspired by React hooks, they provide a more concise and modular approach compared to traditional StatefulWid...]]></summary>
-        <author>
-            <name>Atuoha Anthony</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build and Deploy an Image Hosting Service on Sevalla]]></title>
-        <id>68d691dd9aa70c44b703deb0</id>
-        <link href="https://www.freecodecamp.org/news/build-and-deploy-an-image-hosting-service-on-sevalla/"/>
-        <updated>2025-09-26T13:15:09.000Z</updated>
-        <summary type="html"><![CDATA[When most people think of image hosting, they imagine uploading photos to a cloud service and getting back a simple link. It feels seamless, but behind that experience sits a powerful set of technologies. At the core is something called object storag...]]></summary>
-        <author>
-            <name>Manish Shivanandhan</name>
         </author>
     </entry>
 </feed>

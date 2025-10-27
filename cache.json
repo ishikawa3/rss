@@ -120,16 +120,6 @@
           "wordCount": 3871,
           "title": "Touring New CSS Features in Safari 26",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/09/thumbnail.png"
-        },
-        {
-          "id": "https://css-tricks.com/?p=389344",
-          "author": "John Rhea",
-          "description": "John Rhea challenged himself to recreate the fancy button using the new CSS shape() function sprinkled with animation to get things pretty close.\nRecreating Gmail’s Google Gemini Animation originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/recreating-gmails-google-gemini-animation/",
-          "publishedOn": "2025-09-26T14:45:13.000Z",
-          "wordCount": 4406,
-          "title": "Recreating Gmail’s Google Gemini Animation",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/09/gemini-button.png"
         }
       ]
     },
@@ -904,66 +894,6 @@
           "wordCount": 2936,
           "title": "How Does the Morgan Express Middleware Library Work? Explained with Code Examples",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1759169256698/9cb4e87a-2bc3-49ac-b1a6-b9d02d410ea1.png"
-        },
-        {
-          "id": "68d703052043890036a92cb0",
-          "author": "Arunachalam B",
-          "description": "Android is always evolving, and sometimes those changes happen a bit under the hood. One such change that's been gaining traction—and now has a firm deadline from Google—is the move to a 16 KB page size. If you're an Android developer, especially wit...",
-          "link": "https://www.freecodecamp.org/news/google-16-kb-page-size-requirement-what-to-do/",
-          "publishedOn": "2025-09-26T21:17:57.000Z",
-          "wordCount": 2206,
-          "title": "Google Play’s 16 KB Page Size Compatibility Requirement — What You Should Know, and How to Upgrade Your App",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1758921064544/80db1a03-73e1-48c3-b2a0-566f20244431.png"
-        },
-        {
-          "id": "68d6c4873324dabb31fd7214",
-          "author": "AYUSH MISHRA",
-          "description": "The GitHub CLI (Command Line Interface) is a powerful tool developed by GitHub that allows developers to interact with GitHub directly from the terminal. It provides a simple way to perform many GitHub tasks without leaving the command line interface...",
-          "link": "https://www.freecodecamp.org/news/how-to-use-github-from-the-command-line/",
-          "publishedOn": "2025-09-26T16:51:19.000Z",
-          "wordCount": 2314,
-          "title": "What is the GitHub CLI? How to Use GitHub from the Command Line",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1758905411969/b1506cff-650a-4098-bd70-e8bb3b0bcb9a.png"
-        },
-        {
-          "id": "68d6aa9b5a8d45880690fb59",
-          "author": "Beau Carnes",
-          "description": "Tom Mondloch quit programming after he finished community college. After a few years of odd jobs, he decided to get back into programming and discovered freeCodeCamp. He was just learning his own way, and didn't think freeCodeCamp's linear curriculum...",
-          "link": "https://www.freecodecamp.org/news/lone-wolf-dev-turned-open-source-super-contributor-tom-mondloch-podcast-190/",
-          "publishedOn": "2025-09-26T15:00:43.000Z",
-          "wordCount": 1383,
-          "title": "Lone Wolf Dev turned Open Source Super Contributor Tom Mondloch [Podcast #190]",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1758834749071/7ba3b62d-74e3-4957-a2ec-df1497093432.jpeg"
-        },
-        {
-          "id": "68d6a166d140a408e4a60858",
-          "author": "Shrijal Acharya",
-          "description": "With the rise of AI agents and agentic systems, we’re no longer just generating text or images, we’re teaching AI how to take actions. Instead of asking, “Can AI write this for me?” you can now ask, “Can AI do this for me?” From updating CRMs to mana...",
-          "link": "https://www.freecodecamp.org/news/how-to-build-a-google-sheet-ai-agent/",
-          "publishedOn": "2025-09-26T14:21:26.000Z",
-          "wordCount": 2596,
-          "title": "How to Build a Google Sheet AI Agent with Composio and Gemini TTS Support",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1758896336162/ed8b3c6b-2b3a-49ad-b60d-b2a42efbe19e.png"
-        },
-        {
-          "id": "68d692ebc473cf19ac469ed3",
-          "author": "Atuoha Anthony",
-          "description": "Flutter hooks are powerful functions that streamline state management, side effects handling, and code organization in Flutter applications. Inspired by React hooks, they provide a more concise and modular approach compared to traditional StatefulWid...",
-          "link": "https://www.freecodecamp.org/news/learn-flutter-hooks-with-code-examples/",
-          "publishedOn": "2025-09-26T13:19:39.000Z",
-          "wordCount": 2977,
-          "title": "Learn Flutter Hooks – Common Hooks Explained with Code Examples",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1758892716695/6af49b6f-d088-405a-9c48-57d5db3b0a98.png"
-        },
-        {
-          "id": "68d691dd9aa70c44b703deb0",
-          "author": "Manish Shivanandhan",
-          "description": "When most people think of image hosting, they imagine uploading photos to a cloud service and getting back a simple link. It feels seamless, but behind that experience sits a powerful set of technologies. At the core is something called object storag...",
-          "link": "https://www.freecodecamp.org/news/build-and-deploy-an-image-hosting-service-on-sevalla/",
-          "publishedOn": "2025-09-26T13:15:09.000Z",
-          "wordCount": 3310,
-          "title": "How to Build and Deploy an Image Hosting Service on Sevalla",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1758890260515/c4b83d17-c783-425c-ab11-50961e44ea58.png"
         }
       ]
     }
