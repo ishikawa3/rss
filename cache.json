@@ -12,6 +12,21 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=389805",
+          "author": "Silvestar Bistrović",
+          "description": "Can we use the <details> element as the foundation for a tabbed interface? Why yes, we can!\nPure CSS Tabs With Details, Grid, and Subgrid originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/pure-css-tabs-with-details-grid-and-subgrid/",
+          "publishedOn": "2025-10-27T14:33:17.000Z",
+          "wordCount": 3080,
+          "title": "Pure CSS Tabs With Details, Grid, and Subgrid",
+          "enclosure": {
+            "url": "https://css-tricks.com/wp-content/uploads/2025/10/demo-1.mp4",
+            "length": "60442",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/10/details-tabs-subgrid.webp"
+        },
+        {
           "id": "https://css-tricks.com/?p=389794",
           "author": "Preethi",
           "description": "When we change an element’s intrinsic sizing, its children are affected, too. This is something we can use to our advantage.\nCSS Animations That Leverage the Parent-Child Relationship originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -129,6 +144,16 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2025/10/javascript-for-everyone-iterators/",
+          "author": "hello@smashingmagazine.com (Mat Marquis)",
+          "description": "Here is a lesson on Iterators. Iterables implement the iterable iteration interface, and iterators implement the iterator iteration interface. Sounds confusing? Mat breaks it all down in the article.",
+          "link": "https://smashingmagazine.com/2025/10/javascript-for-everyone-iterators/",
+          "publishedOn": "2025-10-27T13:00:00.000Z",
+          "wordCount": 4442,
+          "title": "JavaScript For Everyone: Iterators",
+          "imageUrl": "https:null"
+        },
+        {
           "id": "https://smashingmagazine.com/2025/10/ambient-animations-web-design-practical-applications-part2/",
           "author": "hello@smashingmagazine.com (Andy Clarke)",
           "description": "Motion can be tricky: too much distracts, too little feels flat. Ambient animations sit in the middle. They’re subtle, slow-moving details that add atmosphere without stealing the show. In part two of his series, web design pioneer Andy Clarke shows how ambient animations can add personality to any website design.",
@@ -235,6 +260,46 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "68ffdf4bd48b77fcbe0114ce",
+          "author": "Andrew Baisden",
+          "description": "TanStack Start is a new full-stack framework for React. It’s been growing in popularity ever since it reached the Release Candidate stage of its development in September, 2025. The Release Candidate stage is basically a version of software which is c...",
+          "link": "https://www.freecodecamp.org/news/how-to-build-a-crud-app-with-tanstack-start-and-tanstackdb-with-rxdb-integration/",
+          "publishedOn": "2025-10-27T21:08:27.000Z",
+          "wordCount": 3984,
+          "title": "How to Build a CRUD App with TanStack Start and TanStackDB (with RxDB Integration)",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1761589878275/a36fe1d2-edf5-4339-b594-b1e55066485c.png"
+        },
+        {
+          "id": "68ffdf1761d216440f5bb38a",
+          "author": "Alex Tray",
+          "description": "These days, there are many ways attackers can try to compromise your applications. And thanks to the continued increase in cyberattacks, the demand for secure mobile applications – and by extension, secure coding – has never been higher. So if you’re...",
+          "link": "https://www.freecodecamp.org/news/how-to-build-secure-ios-apps-in-swift-common-security-pitfalls-and-how-to-fix-them/",
+          "publishedOn": "2025-10-27T21:07:35.000Z",
+          "wordCount": 4882,
+          "title": "How to Build Secure iOS Apps in Swift: Common Security Pitfalls and How to Fix Them",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1761599240278/644f6ebb-6092-4ea0-99e3-a568bfb0390c.png"
+        },
+        {
+          "id": "68ffd791ca908949cd4f2afc",
+          "author": "Gabor Koos",
+          "description": "If you've written code in JavaScript, Python, or Rust, you've probably heard the word closure before. The concept has subtle differences in each language, but the core idea is the same: a closure is a function that captures variables from its surroun...",
+          "link": "https://www.freecodecamp.org/news/how-to-use-closures-in-go/",
+          "publishedOn": "2025-10-27T20:35:29.000Z",
+          "wordCount": 3677,
+          "title": "How to Use Closures in Go",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1761597115311/04035f6b-6bd0-4889-8433-3f0d652f2586.png"
+        },
+        {
+          "id": "68ff81486f611e7895c9f9ca",
+          "author": "Abhijeet Dave",
+          "description": "In this guide, you’ll learn how to set up a registry in shadcn. If you’re not familiar with this tool, shadcn is a collection of reusable and accessible components you can use in your projects. You’ll learn about essential concepts such as setting up...",
+          "link": "https://www.freecodecamp.org/news/how-to-set-up-a-registry-in-shadcn/",
+          "publishedOn": "2025-10-27T14:27:20.000Z",
+          "wordCount": 3206,
+          "title": "How to Set Up a Registry in shadcn",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1761575215365/54597001-a10f-4a3d-a082-3eb5ac8b9a7d.png"
+        },
         {
           "id": "68fbd8942f09b776064b952c",
           "author": "Bala Priya C",

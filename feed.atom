@@ -2,10 +2,71 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-27T00:16:18.712Z</updated>
+    <updated>2025-10-28T00:14:43.839Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Build a CRUD App with TanStack Start and TanStackDB (with RxDB Integration)]]></title>
+        <id>68ffdf4bd48b77fcbe0114ce</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-a-crud-app-with-tanstack-start-and-tanstackdb-with-rxdb-integration/"/>
+        <updated>2025-10-27T21:08:27.000Z</updated>
+        <summary type="html"><![CDATA[TanStack Start is a new full-stack framework for React. It’s been growing in popularity ever since it reached the Release Candidate stage of its development in September, 2025. The Release Candidate stage is basically a version of software which is c...]]></summary>
+        <author>
+            <name>Andrew Baisden</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build Secure iOS Apps in Swift: Common Security Pitfalls and How to Fix Them]]></title>
+        <id>68ffdf1761d216440f5bb38a</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-secure-ios-apps-in-swift-common-security-pitfalls-and-how-to-fix-them/"/>
+        <updated>2025-10-27T21:07:35.000Z</updated>
+        <summary type="html"><![CDATA[These days, there are many ways attackers can try to compromise your applications. And thanks to the continued increase in cyberattacks, the demand for secure mobile applications – and by extension, secure coding – has never been higher. So if you’re...]]></summary>
+        <author>
+            <name>Alex Tray</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use Closures in Go]]></title>
+        <id>68ffd791ca908949cd4f2afc</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-closures-in-go/"/>
+        <updated>2025-10-27T20:35:29.000Z</updated>
+        <summary type="html"><![CDATA[If you've written code in JavaScript, Python, or Rust, you've probably heard the word closure before. The concept has subtle differences in each language, but the core idea is the same: a closure is a function that captures variables from its surroun...]]></summary>
+        <author>
+            <name>Gabor Koos</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pure CSS Tabs With Details, Grid, and Subgrid]]></title>
+        <id>https://css-tricks.com/?p=389805</id>
+        <link href="https://css-tricks.com/pure-css-tabs-with-details-grid-and-subgrid/"/>
+        <updated>2025-10-27T14:33:17.000Z</updated>
+        <summary type="html"><![CDATA[Can we use the <details> element as the foundation for a tabbed interface? Why yes, we can!
+Pure CSS Tabs With Details, Grid, and Subgrid originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Silvestar Bistrović</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Set Up a Registry in shadcn]]></title>
+        <id>68ff81486f611e7895c9f9ca</id>
+        <link href="https://www.freecodecamp.org/news/how-to-set-up-a-registry-in-shadcn/"/>
+        <updated>2025-10-27T14:27:20.000Z</updated>
+        <summary type="html"><![CDATA[In this guide, you’ll learn how to set up a registry in shadcn. If you’re not familiar with this tool, shadcn is a collection of reusable and accessible components you can use in your projects. You’ll learn about essential concepts such as setting up...]]></summary>
+        <author>
+            <name>Abhijeet Dave</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JavaScript For Everyone: Iterators]]></title>
+        <id>https://smashingmagazine.com/2025/10/javascript-for-everyone-iterators/</id>
+        <link href="https://smashingmagazine.com/2025/10/javascript-for-everyone-iterators/"/>
+        <updated>2025-10-27T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Here is a lesson on Iterators. Iterables implement the iterable iteration interface, and iterators implement the iterator iteration interface. Sounds confusing? Mat breaks it all down in the article.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Mat Marquis)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Work with TOML Files in Python]]></title>
         <id>68fbd8942f09b776064b952c</id>
