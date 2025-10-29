@@ -261,6 +261,46 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "69012bf59b2c5393aed5bccd",
+          "author": "Atuoha Anthony",
+          "description": "Managing assets like images, icons, and fonts in a Flutter project can quickly become a tedious task, especially as your application grows. Manual referencing is prone to typos, introduces maintenance overhead, and can hinder team collaboration. Fort...",
+          "link": "https://www.freecodecamp.org/news/how-to-manage-assets-in-flutter-using-fluttergen/",
+          "publishedOn": "2025-10-28T20:47:49.000Z",
+          "wordCount": 2703,
+          "title": "How to Manage Assets in Flutter using  flutter_gen",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1761684457969/a8a6b9bc-780f-4e06-bf8a-19b90cd632f4.png"
+        },
+        {
+          "id": "690108bed60a2bc774c2f435",
+          "author": "Atuoha Anthony",
+          "description": "Building responsive UIs in Flutter can be challenging, especially when you want your app to look great on phones, tablets, and desktops without maintaining multiple layouts. Fortunately, Flutter provides powerful tools like MediaQuery, LayoutBuilder,...",
+          "link": "https://www.freecodecamp.org/news/how-to-build-responsive-uis-in-flutter/",
+          "publishedOn": "2025-10-28T18:17:34.000Z",
+          "wordCount": 4959,
+          "title": "How to Build Responsive UIs in Flutter",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1761675310940/332589a7-55e0-4cb2-935e-aa1011709e2e.png"
+        },
+        {
+          "id": "6900f612596c2221585d95a4",
+          "author": "Hitesh Chauhan",
+          "description": "Have you ever visited a website and wondered how well is this page structured? Does it have a meta description? How many links or headings does it use? Usually, you’d open DevTools or an SEO auditing tool to find answers to these questions. But what ...",
+          "link": "https://www.freecodecamp.org/news/how-to-build-a-chrome-extension-using-javascript-and-manifest-v3/",
+          "publishedOn": "2025-10-28T16:57:54.000Z",
+          "wordCount": 2135,
+          "title": "How to Build a Chrome Extension That Analyzes Any Web Page Using JavaScript and Manifest V3",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1761670419000/13ac96ca-6e28-413f-a0e0-56ed353a007c.png"
+        },
+        {
+          "id": "6900f3ca65a053299e38eab3",
+          "author": "Mah Noor",
+          "description": "As a QA engineer, I have always found performance testing to be one of the most exciting and underrated parts of software testing. Yes, functional testing is important, but it’s of little use if users have to wait for 5 seconds for each page to load....",
+          "link": "https://www.freecodecamp.org/news/how-to-build-your-first-dynamic-performance-test-in-apache-jmeter/",
+          "publishedOn": "2025-10-28T16:48:10.000Z",
+          "wordCount": 2380,
+          "title": "How to Build Your First Dynamic Performance Test in Apache JMeter",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1761335397152/cb105a44-4c18-4998-9ffb-d520df0e6510.png"
+        },
+        {
           "id": "68ffdf4bd48b77fcbe0114ce",
           "author": "Andrew Baisden",
           "description": "TanStack Start is a new full-stack framework for React. It’s been growing in popularity ever since it reached the Release Candidate stage of its development in September, 2025. The Release Candidate stage is basically a version of software which is c...",
