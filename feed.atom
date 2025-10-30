@@ -2,10 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-29T00:15:29.991Z</updated>
+    <updated>2025-10-30T00:15:18.194Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Build a Website Screenshot Generator with Python and Flask]]></title>
+        <id>690245c804c1e198e965b3ef</id>
+        <link href="https://www.freecodecamp.org/news/build-a-website-screenshot-generator-with-python-and-flask/"/>
+        <updated>2025-10-29T16:50:16.000Z</updated>
+        <summary type="html"><![CDATA[Have you ever needed to take screenshots of websites automatically – maybe to track visual changes, include them in reports, or generate previews? Doing this manually can be time-consuming, especially if you need to capture multiple pages regularly. ...]]></summary>
+        <author>
+            <name>Ashutosh Krishna</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Getting Creative With Small Screens]]></title>
+        <id>https://css-tricks.com/?p=390031</id>
+        <link href="https://css-tricks.com/getting-creative-with-small-screens/"/>
+        <updated>2025-10-29T16:22:28.000Z</updated>
+        <summary type="html"><![CDATA[On mobile, people can lose their sense of context and can’t easily tell where a section begins or ends. Good small-screen design can help orient them using a variety of techniques.
+Getting Creative With Small Screens originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Andy Clarke</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Serverless and Microservices with C# & Azure]]></title>
+        <id>69023c73147abcc15caef5c4</id>
+        <link href="https://www.freecodecamp.org/news/serverless-and-microservices-with-c-and-azure/"/>
+        <updated>2025-10-29T16:10:27.000Z</updated>
+        <summary type="html"><![CDATA[You can modern application architecture by building real-world serverless and microservices solutions using C# and Azure. We just posted a full course on the freeCodeCamp that will teach you to build scaleable cloud applications. Muhammad Abdullah de...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Prepare for the Kubernetes Administrator Certification and Pass]]></title>
+        <id>6902148987da12fd1cbfa416</id>
+        <link href="https://www.freecodecamp.org/news/prepare-for-the-kubernetes-administrator-certification-and-pass/"/>
+        <updated>2025-10-29T13:20:09.000Z</updated>
+        <summary type="html"><![CDATA[We just posted a course on the freeCodeCamp.org YouTube channel to help prepare you for the Certified Kubernetes Administrator Certification. This course is designed to provide a deep, practical understanding of Kubernetes administration, from founda...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Manage Assets in Flutter using  flutter_gen]]></title>
         <id>69012bf59b2c5393aed5bccd</id>
@@ -916,37 +957,6 @@ Same Idea, Different Paint Brush originally published on CSS-Tricks, which is pa
         <summary type="html"><![CDATA[Slices are one of the most fundamental and powerful data structures in Go. They provide a dynamic array-like interface that's both flexible and efficient. However, they can be very tricky when implementing. And if not implemented correctly, they can ...]]></summary>
         <author>
             <name>Temitope Oyedele</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Shades Of October (2025 Wallpapers Edition)]]></title>
-        <id>https://smashingmagazine.com/2025/09/desktop-wallpaper-calendars-october-2025/</id>
-        <link href="https://smashingmagazine.com/2025/09/desktop-wallpaper-calendars-october-2025/"/>
-        <updated>2025-09-30T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[How about some new wallpapers to get your desktop ready for fall and the upcoming Halloween season? We’ve got you covered! Following our monthly tradition, the wallpapers in this post were created with love by the community for the community and can be downloaded for free. Enjoy!]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Does the Morgan Express Middleware Library Work? Explained with Code Examples]]></title>
-        <id>68dacc9e86b3b4616655000a</id>
-        <link href="https://www.freecodecamp.org/news/how-does-the-morgan-library-work/"/>
-        <updated>2025-09-29T18:14:54.000Z</updated>
-        <summary type="html"><![CDATA[Morgan is an Express middleware library that examines HTTP requests and logs details of the request to an output. It is one of the most popular Express middleware libraries with over 8,000 GitHub stars and more than 9,000 npm libraries dependent on i...]]></summary>
-        <author>
-            <name>Orim Dominic Adah</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Touring New CSS Features in Safari 26]]></title>
-        <id>https://css-tricks.com/?p=389331</id>
-        <link href="https://css-tricks.com/touring-new-css-features-in-safari-26/"/>
-        <updated>2025-09-29T14:31:16.000Z</updated>
-        <summary type="html"><![CDATA[Safari 26 adds:75 new features, 3 deprecations, and 171 other improvements. Here's all the CSS goodness you'll want to know about.
-Touring New CSS Features in Safari 26 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Juan Diego Rodríguez</name>
         </author>
     </entry>
 </feed>

@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=390031",
+          "author": "Andy Clarke",
+          "description": "On mobile, people can lose their sense of context and can’t easily tell where a section begins or ends. Good small-screen design can help orient them using a variety of techniques.\nGetting Creative With Small Screens originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/getting-creative-with-small-screens/",
+          "publishedOn": "2025-10-29T16:22:28.000Z",
+          "wordCount": 3540,
+          "title": "Getting Creative With Small Screens",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/10/s_E63F027435C482D5813799164A830B3E060276A78A7A02CCD5EC79D53323A5B8_1761081109189_2025-10-21-8.webp"
+        },
+        {
           "id": "https://css-tricks.com/?p=389805",
           "author": "Silvestar Bistrović",
           "description": "Can we use the <details> element as the foundation for a tabbed interface? Why yes, we can!\nPure CSS Tabs With Details, Grid, and Subgrid originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -125,16 +135,6 @@
           "wordCount": 3394,
           "title": "Same Idea, Different Paint Brush",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/09/mom-painting-thumb.png"
-        },
-        {
-          "id": "https://css-tricks.com/?p=389331",
-          "author": "Juan Diego Rodríguez",
-          "description": "Safari 26 adds:75 new features, 3 deprecations, and 171 other improvements. Here's all the CSS goodness you'll want to know about.\nTouring New CSS Features in Safari 26 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/touring-new-css-features-in-safari-26/",
-          "publishedOn": "2025-09-29T14:31:16.000Z",
-          "wordCount": 3871,
-          "title": "Touring New CSS Features in Safari 26",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/09/thumbnail.png"
         }
       ]
     },
@@ -237,21 +237,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/intent-prototyping-practical-guide-building-clarity/intent-prototyping-practical-guide-building-clarity.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2025/09/desktop-wallpaper-calendars-october-2025/",
-          "author": "hello@smashingmagazine.com (Cosima Mielke)",
-          "description": "How about some new wallpapers to get your desktop ready for fall and the upcoming Halloween season? We’ve got you covered! Following our monthly tradition, the wallpapers in this post were created with love by the community for the community and can be downloaded for free. Enjoy!",
-          "link": "https://smashingmagazine.com/2025/09/desktop-wallpaper-calendars-october-2025/",
-          "publishedOn": "2025-09-30T11:00:00.000Z",
-          "wordCount": 4923,
-          "title": "Shades Of October (2025 Wallpapers Edition)",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-october-2025/oct-25-midnight-mischief-preview-opt.png",
-            "length": "0",
-            "type": "image/png"
-          },
-          "imageUrl": "http://files.smashing.media/articles/desktop-wallpaper-calendars-october-2025/oct-25-midnight-mischief-preview-opt.png"
         }
       ]
     },
@@ -260,6 +245,36 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "690245c804c1e198e965b3ef",
+          "author": "Ashutosh Krishna",
+          "description": "Have you ever needed to take screenshots of websites automatically – maybe to track visual changes, include them in reports, or generate previews? Doing this manually can be time-consuming, especially if you need to capture multiple pages regularly. ...",
+          "link": "https://www.freecodecamp.org/news/build-a-website-screenshot-generator-with-python-and-flask/",
+          "publishedOn": "2025-10-29T16:50:16.000Z",
+          "wordCount": 2971,
+          "title": "Build a Website Screenshot Generator with Python and Flask",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1761756575904/17a940c5-352e-47a2-992e-a1973c030c05.png"
+        },
+        {
+          "id": "69023c73147abcc15caef5c4",
+          "author": "Beau Carnes",
+          "description": "You can modern application architecture by building real-world serverless and microservices solutions using C# and Azure. We just posted a full course on the freeCodeCamp that will teach you to build scaleable cloud applications. Muhammad Abdullah de...",
+          "link": "https://www.freecodecamp.org/news/serverless-and-microservices-with-c-and-azure/",
+          "publishedOn": "2025-10-29T16:10:27.000Z",
+          "wordCount": 966,
+          "title": "Serverless and Microservices with C# & Azure",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1761754162686/963ecd38-8522-4fee-8448-d4e1e5a3a9f0.jpeg"
+        },
+        {
+          "id": "6902148987da12fd1cbfa416",
+          "author": "Beau Carnes",
+          "description": "We just posted a course on the freeCodeCamp.org YouTube channel to help prepare you for the Certified Kubernetes Administrator Certification. This course is designed to provide a deep, practical understanding of Kubernetes administration, from founda...",
+          "link": "https://www.freecodecamp.org/news/prepare-for-the-kubernetes-administrator-certification-and-pass/",
+          "publishedOn": "2025-10-29T13:20:09.000Z",
+          "wordCount": 3319,
+          "title": "Prepare for the Kubernetes Administrator Certification and Pass",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1761739982392/f255a6af-6ec9-4136-b45f-6f14d4fb2c8c.jpeg"
+        },
         {
           "id": "69012bf59b2c5393aed5bccd",
           "author": "Atuoha Anthony",
@@ -989,16 +1004,6 @@
           "wordCount": 3398,
           "title": "Common Slice Mistakes in Go and How to Avoid Them",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1759251032781/125e9bfc-2e78-4f71-b423-2d045bf82a9f.png"
-        },
-        {
-          "id": "68dacc9e86b3b4616655000a",
-          "author": "Orim Dominic Adah",
-          "description": "Morgan is an Express middleware library that examines HTTP requests and logs details of the request to an output. It is one of the most popular Express middleware libraries with over 8,000 GitHub stars and more than 9,000 npm libraries dependent on i...",
-          "link": "https://www.freecodecamp.org/news/how-does-the-morgan-library-work/",
-          "publishedOn": "2025-09-29T18:14:54.000Z",
-          "wordCount": 2936,
-          "title": "How Does the Morgan Express Middleware Library Work? Explained with Code Examples",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1759169256698/9cb4e87a-2bc3-49ac-b1a6-b9d02d410ea1.png"
         }
       ]
     }
