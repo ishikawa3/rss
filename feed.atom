@@ -2,10 +2,90 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-30T00:15:18.194Z</updated>
+    <updated>2025-10-31T00:14:52.715Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Learn Cybersecurity from Harvard University]]></title>
+        <id>69039b943b42750686df8138</id>
+        <link href="https://www.freecodecamp.org/news/learn-cybersecurity-from-harvard-university/"/>
+        <updated>2025-10-30T17:08:36.000Z</updated>
+        <summary type="html"><![CDATA[We just posted a Harvard University course that will provide you an introduction to cybersecurity. It's taught by one of the world's most-loved computer science teachers, Dr. David J. Malan. In this course you will learn how to secure your accounts, ...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Overcome a Negative Performance Review and Become a Better Developer]]></title>
+        <id>69038e8be43cf9a3614ff2fd</id>
+        <link href="https://www.freecodecamp.org/news/clawing-out-of-underperformance/"/>
+        <updated>2025-10-30T16:12:59.000Z</updated>
+        <summary type="html"><![CDATA[I was a year into my new job at Google. After repeated warnings about underperformance, my manager sat me down. I was being placed on a Performance Improvement Plan (PIP). For those unfamiliar, a PIP at Google is a two-month plan to show improvement ...]]></summary>
+        <author>
+            <name>Moshe Siegel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build Your Own MCP Server with Python]]></title>
+        <id>69038e6549c53ba349744d5b</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-your-own-mcp-server-with-python/"/>
+        <updated>2025-10-30T16:12:21.000Z</updated>
+        <summary type="html"><![CDATA[Artificial intelligence is evolving at a remarkable pace. Models today can reason, write, code, and analyze information in ways that once seemed impossible. But there’s one major limitation that still holds them back: context. Most AI models don’t ha...]]></summary>
+        <author>
+            <name>Manish Shivanandhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Improve Your Programming Skills by Building Games]]></title>
+        <id>690364c01022fd77927ddcbd</id>
+        <link href="https://www.freecodecamp.org/news/improve-your-programming-skills-by-building-games/"/>
+        <updated>2025-10-30T13:14:40.000Z</updated>
+        <summary type="html"><![CDATA[When most people think about learning to code, they imagine building websites or automating small tasks. Few think of building games as a serious way to improve programming skills.  But creating even a simple game can teach lessons that no tutorial e...]]></summary>
+        <author>
+            <name>Manish Shivanandhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mobile App Development with Dart and Flutter]]></title>
+        <id>6902ba897614003427892ef9</id>
+        <link href="https://www.freecodecamp.org/news/mobile-app-development-with-dart-and-flutter/"/>
+        <updated>2025-10-30T01:08:25.000Z</updated>
+        <summary type="html"><![CDATA[Mobile app development lets you build applications that run on multiple platforms. Flutter is Google's UI toolkit for building applications for mobile, web, and desktop from a single codebase. Flutter apps are written in Dart, a statically typed, obj...]]></summary>
+        <author>
+            <name>Mark Mahoney</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use Streams in Flutter]]></title>
+        <id>69028db72c8d547cd3a4cb95</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-streams-in-flutter/"/>
+        <updated>2025-10-29T21:57:11.000Z</updated>
+        <summary type="html"><![CDATA[Flutter, Google's open-source UI software development toolkit, has rapidly become a preferred choice for building natively compiled, cross-platform applications from a single codebase. Its declarative UI paradigm, coupled with robust performance, hel...]]></summary>
+        <author>
+            <name>Atuoha Anthony</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Parse JSON in Python – A Complete Guide With Examples]]></title>
+        <id>69028d2168ede4f821f8f0e8</id>
+        <link href="https://www.freecodecamp.org/news/how-to-parse-json-in-python-with-examples/"/>
+        <updated>2025-10-29T21:54:41.000Z</updated>
+        <summary type="html"><![CDATA[JSON has become the standard format for data exchange on the web. So you'll run into JSON all the time when working with REST APIs, configuration files, database exports, and more. As a developer, you should know how to parse, manipulate, and generat...]]></summary>
+        <author>
+            <name>Bala Priya C</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MCP vs APIs: What's the Real Difference?]]></title>
+        <id>69028c7be37f0cfba4d00775</id>
+        <link href="https://www.freecodecamp.org/news/mcp-vs-apis-whats-the-real-difference/"/>
+        <updated>2025-10-29T21:51:55.000Z</updated>
+        <summary type="html"><![CDATA[APIs and MCPs both help systems talk to each other.  At first, they might look the same. Both allow one piece of software to ask another for data or perform an action. But the way they work and the reason they exist are completely different. An API, ...]]></summary>
+        <author>
+            <name>Manish Shivanandhan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Build a Website Screenshot Generator with Python and Flask]]></title>
         <id>690245c804c1e198e965b3ef</id>
@@ -947,16 +1027,6 @@ Same Idea, Different Paint Brush originally published on CSS-Tricks, which is pa
         <summary type="html"><![CDATA[When building Flutter applications, it’s easy to get caught up in writing code that just works. But as your app grows in size and complexity, poorly structured code becomes harder to maintain, test, and extend. That’s where the SOLID principles come ...]]></summary>
         <author>
             <name>Atuoha Anthony</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Common Slice Mistakes in Go and How to Avoid Them]]></title>
-        <id>68dc0acc3daa8b6bcf710179</id>
-        <link href="https://www.freecodecamp.org/news/common-slice-mistakes-in-go/"/>
-        <updated>2025-09-30T16:52:28.000Z</updated>
-        <summary type="html"><![CDATA[Slices are one of the most fundamental and powerful data structures in Go. They provide a dynamic array-like interface that's both flexible and efficient. However, they can be very tricky when implementing. And if not implemented correctly, they can ...]]></summary>
-        <author>
-            <name>Temitope Oyedele</name>
         </author>
     </entry>
 </feed>
