@@ -125,16 +125,6 @@
           "wordCount": 3095,
           "title": "Getting Creative With shape-outside",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/10/s_3EDD0D53C943B8C049C7F94CCE0401810B7E10ADC9A32E2DF8EBA64F2023E651_1759072311579_2025-09-28-13.webp"
-        },
-        {
-          "id": "https://css-tricks.com/?p=389238",
-          "author": "Geoff Graham",
-          "description": "Naturally, everything looks like code when I'm staring at a blank canvas. That's whether the canvas is paper, a screen, some Figma artboard, or what have you.\nSame Idea, Different Paint Brush originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/same-idea-different-paint-brush/",
-          "publishedOn": "2025-10-01T13:02:47.000Z",
-          "wordCount": 3394,
-          "title": "Same Idea, Different Paint Brush",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/09/mom-painting-thumb.png"
         }
       ]
     },
@@ -143,6 +133,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2025/10/desktop-wallpaper-calendars-november-2025/",
+          "author": "hello@smashingmagazine.com (Cosima Mielke)",
+          "description": "The new month is just around the corner, and that means: It’s time for some new desktop wallpapers! All of them are designed by the community for the community and can be downloaded for free. Enjoy!",
+          "link": "https://smashingmagazine.com/2025/10/desktop-wallpaper-calendars-november-2025/",
+          "publishedOn": "2025-10-31T12:00:00.000Z",
+          "wordCount": 4774,
+          "title": "Fading Light And Falling Leaves (November 2025 Wallpapers Edition)",
+          "enclosure": {
+            "url": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8edeb776-d8d5-4b5b-867f-6964f7addcd6/nov-17-colorful-autumn-preview-opt.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8edeb776-d8d5-4b5b-867f-6964f7addcd6/nov-17-colorful-autumn-preview-opt.png"
+        },
         {
           "id": "https://smashingmagazine.com/2025/10/javascript-for-everyone-iterators/",
           "author": "hello@smashingmagazine.com (Mat Marquis)",
@@ -1034,46 +1039,6 @@
           "wordCount": 2088,
           "title": "How to Peek Inside a Local LLM’s Brain",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1759415587363/cc861698-598b-488a-bc79-58aeb99500ea.png"
-        },
-        {
-          "id": "68dd983f4c1d99b015822d01",
-          "author": "Beau Carnes",
-          "description": "What if you could learn what you need to know to become a full stack developer in just one video. We just 48-hour course on the freeCodeCamp.org YouTube channel that will take you from square one to being a hireable full-stack developer. This course ...",
-          "link": "https://www.freecodecamp.org/news/become-a-full-stack-developer-with-one-video/",
-          "publishedOn": "2025-10-01T21:08:15.000Z",
-          "wordCount": 1093,
-          "title": "Become a Full Stack Developer with One Video",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1759352860983/1c5a17cf-adfd-4cea-bd45-099ab5c4862a.png"
-        },
-        {
-          "id": "68dd9632756047816483e15e",
-          "author": "Beau Carnes",
-          "description": "We’ve just posted a full-stack course on the freeCodeCamp.org YouTube channel that will teach you to build a complete, production-ready movie streaming application named MagicStream, complete with AI-powered movie recommendations. This course is desi...",
-          "link": "https://www.freecodecamp.org/news/build-a-full-stack-movie-streaming-app-with-go-react-mongodb-openai/",
-          "publishedOn": "2025-10-01T20:59:30.000Z",
-          "wordCount": 1141,
-          "title": "Build a Full Stack Movie Streaming App with Go, React, MongoDB, OpenAI",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1759352344795/21e9357b-d611-4223-a1f3-704960eae165.jpeg"
-        },
-        {
-          "id": "68dd33665127fbf96fe7c03f",
-          "author": "Sumit Saha",
-          "description": "In this article, you’ll learn about an important concept: Cross-Origin Resource Sharing (CORS) policy. As a developer, you might encounter a situation where a client request to the server fails, and the browser displays a red error like \"CORS policy ...",
-          "link": "https://www.freecodecamp.org/news/how-to-fix-cross-origin-errors/",
-          "publishedOn": "2025-10-01T13:57:58.000Z",
-          "wordCount": 3023,
-          "title": "How to Fix Cross-Origin Errors — CORS Error Explained",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1759324719020/8c59e405-107b-4e45-acab-c61cbf353d0b.png"
-        },
-        {
-          "id": "68dd1ebc57c387e3d8e8115e",
-          "author": "Atuoha Anthony",
-          "description": "When building Flutter applications, it’s easy to get caught up in writing code that just works. But as your app grows in size and complexity, poorly structured code becomes harder to maintain, test, and extend. That’s where the SOLID principles come ...",
-          "link": "https://www.freecodecamp.org/news/implement-the-solid-principles-in-flutter-and-dart/",
-          "publishedOn": "2025-10-01T12:29:48.000Z",
-          "wordCount": 1995,
-          "title": "How to Implement the SOLID Principles in Flutter and Dart",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1759321694714/7751ee74-dfe6-4c22-ac6f-b614f5920b7f.png"
         }
       ]
     }

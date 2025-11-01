@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-31T00:14:52.715Z</updated>
+    <updated>2025-11-01T00:16:33.573Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Fading Light And Falling Leaves (November 2025 Wallpapers Edition)]]></title>
+        <id>https://smashingmagazine.com/2025/10/desktop-wallpaper-calendars-november-2025/</id>
+        <link href="https://smashingmagazine.com/2025/10/desktop-wallpaper-calendars-november-2025/"/>
+        <updated>2025-10-31T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The new month is just around the corner, and that means: It’s time for some new desktop wallpapers! All of them are designed by the community for the community and can be downloaded for free. Enjoy!]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Learn Cybersecurity from Harvard University]]></title>
         <id>69039b943b42750686df8138</id>
@@ -976,57 +986,6 @@ Getting Creative With shape-outside originally published on CSS-Tricks, which is
         <summary type="html"><![CDATA[Large Language Models (LLMs) like LLaMA 2 and Mistral are often described as “black boxes”. This means that you can see the text you give them and the responses they produce, but their inner workings remain hidden. Inside the model, billions of weigh...]]></summary>
         <author>
             <name>Alma Mohapatra</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Become a Full Stack Developer with One Video]]></title>
-        <id>68dd983f4c1d99b015822d01</id>
-        <link href="https://www.freecodecamp.org/news/become-a-full-stack-developer-with-one-video/"/>
-        <updated>2025-10-01T21:08:15.000Z</updated>
-        <summary type="html"><![CDATA[What if you could learn what you need to know to become a full stack developer in just one video. We just 48-hour course on the freeCodeCamp.org YouTube channel that will take you from square one to being a hireable full-stack developer. This course ...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Build a Full Stack Movie Streaming App with Go, React, MongoDB, OpenAI]]></title>
-        <id>68dd9632756047816483e15e</id>
-        <link href="https://www.freecodecamp.org/news/build-a-full-stack-movie-streaming-app-with-go-react-mongodb-openai/"/>
-        <updated>2025-10-01T20:59:30.000Z</updated>
-        <summary type="html"><![CDATA[We’ve just posted a full-stack course on the freeCodeCamp.org YouTube channel that will teach you to build a complete, production-ready movie streaming application named MagicStream, complete with AI-powered movie recommendations. This course is desi...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Fix Cross-Origin Errors — CORS Error Explained]]></title>
-        <id>68dd33665127fbf96fe7c03f</id>
-        <link href="https://www.freecodecamp.org/news/how-to-fix-cross-origin-errors/"/>
-        <updated>2025-10-01T13:57:58.000Z</updated>
-        <summary type="html"><![CDATA[In this article, you’ll learn about an important concept: Cross-Origin Resource Sharing (CORS) policy. As a developer, you might encounter a situation where a client request to the server fails, and the browser displays a red error like "CORS policy ...]]></summary>
-        <author>
-            <name>Sumit Saha</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Same Idea, Different Paint Brush]]></title>
-        <id>https://css-tricks.com/?p=389238</id>
-        <link href="https://css-tricks.com/same-idea-different-paint-brush/"/>
-        <updated>2025-10-01T13:02:47.000Z</updated>
-        <summary type="html"><![CDATA[Naturally, everything looks like code when I'm staring at a blank canvas. That's whether the canvas is paper, a screen, some Figma artboard, or what have you.
-Same Idea, Different Paint Brush originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Implement the SOLID Principles in Flutter and Dart]]></title>
-        <id>68dd1ebc57c387e3d8e8115e</id>
-        <link href="https://www.freecodecamp.org/news/implement-the-solid-principles-in-flutter-and-dart/"/>
-        <updated>2025-10-01T12:29:48.000Z</updated>
-        <summary type="html"><![CDATA[When building Flutter applications, it’s easy to get caught up in writing code that just works. But as your app grows in size and complexity, poorly structured code becomes harder to maintain, test, and extend. That’s where the SOLID principles come ...]]></summary>
-        <author>
-            <name>Atuoha Anthony</name>
         </author>
     </entry>
 </feed>
