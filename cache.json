@@ -227,21 +227,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/smashing-animations-part-5-building-adaptive-svgs/smashing-animations-part-5-building-adaptive-svgs.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2025/10/intent-prototyping-practical-guide-building-clarity/",
-          "author": "hello@smashingmagazine.com (Yegor Gilyov)",
-          "description": "Ready to move beyond static mockups? Here is a practical, step-by-step guide to Intent Prototyping — a disciplined method that uses AI to turn your design intent (UI sketches, conceptual models, and user flows) directly into a live prototype, making it your primary canvas for ideation.",
-          "link": "https://smashingmagazine.com/2025/10/intent-prototyping-practical-guide-building-clarity/",
-          "publishedOn": "2025-10-03T10:00:00.000Z",
-          "wordCount": 9700,
-          "title": "Intent Prototyping: A Practical Guide To Building With Clarity (Part 2)",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/intent-prototyping-practical-guide-building-clarity/intent-prototyping-practical-guide-building-clarity.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/intent-prototyping-practical-guide-building-clarity/intent-prototyping-practical-guide-building-clarity.jpg"
         }
       ]
     },
@@ -1009,36 +994,6 @@
           "wordCount": 5187,
           "title": "How to Build a Rate Limiter with Redis and Python to Scale Your Apps",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1759503803144/4d974610-95dc-4db8-989a-0d705dc4d431.png"
-        },
-        {
-          "id": "68de9da15cb0af6e1274cbc6",
-          "author": "Lane Wagner",
-          "description": "In this handbook, you'll build a basic version of Claude Code using Google's free Gemini API. If you've ever used Cursor or Claude Code as an \"agentic\" AI code editor, then you should be familiar with what we'll be building here. As long as you have ...",
-          "link": "https://www.freecodecamp.org/news/build-an-ai-coding-agent-with-python-and-gemini/",
-          "publishedOn": "2025-10-02T15:43:29.000Z",
-          "wordCount": 7550,
-          "title": "How to Build an AI Coding Agent with Python and Gemini",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1759418643581/2470669e-8592-463e-8b4c-55eace8dd80a.png"
-        },
-        {
-          "id": "68de98a534a379d15102109e",
-          "author": "Nitheesh Poojary",
-          "description": "When I started using LLMs for work and personal use, I picked up on some technical terms, such as \"machine learning\" and \"deep learning,\" which are the main technologies behind these LLMs. I've always been interested in learning about the differences...",
-          "link": "https://www.freecodecamp.org/news/machine-learning-vs-deep-learning-vs-generative-ai/",
-          "publishedOn": "2025-10-02T15:22:13.000Z",
-          "wordCount": 2371,
-          "title": "Machine Learning vs Deep Learning vs Generative AI - What are the Differences?",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1759006391065/3cd87534-e2e9-49df-a9c7-1b636e491032.png"
-        },
-        {
-          "id": "68de8ecac4a4992466dd6d4b",
-          "author": "Alma Mohapatra",
-          "description": "Large Language Models (LLMs) like LLaMA 2 and Mistral are often described as “black boxes”. This means that you can see the text you give them and the responses they produce, but their inner workings remain hidden. Inside the model, billions of weigh...",
-          "link": "https://www.freecodecamp.org/news/how-llms-work-under-the-hood/",
-          "publishedOn": "2025-10-02T14:40:10.000Z",
-          "wordCount": 2088,
-          "title": "How to Peek Inside a Local LLM’s Brain",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1759415587363/cc861698-598b-488a-bc79-58aeb99500ea.png"
         }
       ]
     }

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-01T00:16:33.573Z</updated>
+    <updated>2025-11-02T00:16:30.153Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
@@ -946,46 +946,6 @@ Getting Creative With shape-outside originally published on CSS-Tricks, which is
         <summary type="html"><![CDATA[If you've ever built a web application, you know that without a proper mechanism to control traffic, your application can become overwhelmed, leading to slow response times, server crashes, and a poor user experience. Even worse, it can leave you vul...]]></summary>
         <author>
             <name>Sravan Karuturi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Intent Prototyping: A Practical Guide To Building With Clarity (Part 2)]]></title>
-        <id>https://smashingmagazine.com/2025/10/intent-prototyping-practical-guide-building-clarity/</id>
-        <link href="https://smashingmagazine.com/2025/10/intent-prototyping-practical-guide-building-clarity/"/>
-        <updated>2025-10-03T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Ready to move beyond static mockups? Here is a practical, step-by-step guide to Intent Prototyping — a disciplined method that uses AI to turn your design intent (UI sketches, conceptual models, and user flows) directly into a live prototype, making it your primary canvas for ideation.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Yegor Gilyov)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build an AI Coding Agent with Python and Gemini]]></title>
-        <id>68de9da15cb0af6e1274cbc6</id>
-        <link href="https://www.freecodecamp.org/news/build-an-ai-coding-agent-with-python-and-gemini/"/>
-        <updated>2025-10-02T15:43:29.000Z</updated>
-        <summary type="html"><![CDATA[In this handbook, you'll build a basic version of Claude Code using Google's free Gemini API. If you've ever used Cursor or Claude Code as an "agentic" AI code editor, then you should be familiar with what we'll be building here. As long as you have ...]]></summary>
-        <author>
-            <name>Lane Wagner</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Machine Learning vs Deep Learning vs Generative AI - What are the Differences?]]></title>
-        <id>68de98a534a379d15102109e</id>
-        <link href="https://www.freecodecamp.org/news/machine-learning-vs-deep-learning-vs-generative-ai/"/>
-        <updated>2025-10-02T15:22:13.000Z</updated>
-        <summary type="html"><![CDATA[When I started using LLMs for work and personal use, I picked up on some technical terms, such as "machine learning" and "deep learning," which are the main technologies behind these LLMs. I've always been interested in learning about the differences...]]></summary>
-        <author>
-            <name>Nitheesh Poojary</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Peek Inside a Local LLM’s Brain]]></title>
-        <id>68de8ecac4a4992466dd6d4b</id>
-        <link href="https://www.freecodecamp.org/news/how-llms-work-under-the-hood/"/>
-        <updated>2025-10-02T14:40:10.000Z</updated>
-        <summary type="html"><![CDATA[Large Language Models (LLMs) like LLaMA 2 and Mistral are often described as “black boxes”. This means that you can see the text you give them and the responses they produce, but their inner workings remain hidden. Inside the model, billions of weigh...]]></summary>
-        <author>
-            <name>Alma Mohapatra</name>
         </author>
     </entry>
 </feed>
