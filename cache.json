@@ -974,26 +974,6 @@
           "wordCount": 5086,
           "title": "How to Use Transformers for Real-Time Gesture Recognition",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1759757931295/5f19fd4e-93c0-4bd7-a75c-a7858e061ecd.png"
-        },
-        {
-          "id": "68e0186a13e5a2b425ebad2e",
-          "author": "Atuoha Anthony",
-          "description": "Animations are a fundamental aspect of mobile app development. They go beyond just adding visual appeal, and have become essential for enhancing the overall user experience. Flutter, Google's open-source UI development toolkit, lets you create seamle...",
-          "link": "https://www.freecodecamp.org/news/how-to-use-animations-in-flutter/",
-          "publishedOn": "2025-10-03T18:39:38.000Z",
-          "wordCount": 3125,
-          "title": "How to Use Animations in Flutter",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1759507962194/9f1bff80-2205-4e63-a6b7-8fee605bc5fa.png"
-        },
-        {
-          "id": "68dfe6e0dcc5f825f4d48c85",
-          "author": "Sravan Karuturi",
-          "description": "If you've ever built a web application, you know that without a proper mechanism to control traffic, your application can become overwhelmed, leading to slow response times, server crashes, and a poor user experience. Even worse, it can leave you vul...",
-          "link": "https://www.freecodecamp.org/news/build-a-rate-limiter-with-redis-and-python/",
-          "publishedOn": "2025-10-03T15:08:16.000Z",
-          "wordCount": 5187,
-          "title": "How to Build a Rate Limiter with Redis and Python to Scale Your Apps",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1759503803144/4d974610-95dc-4db8-989a-0d705dc4d431.png"
         }
       ]
     }

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-02T00:16:30.153Z</updated>
+    <updated>2025-11-03T00:16:22.787Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
@@ -926,26 +926,6 @@ Getting Creative With shape-outside originally published on CSS-Tricks, which is
         <summary type="html"><![CDATA[SVGs, they scale, yes, but how else can you make them adapt even better to several screen sizes? Web design pioneer Andy Clarke explains how he builds what he calls “adaptive SVGs” using ``, ``, and CSS Media Queries.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Andy Clarke)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use Animations in Flutter]]></title>
-        <id>68e0186a13e5a2b425ebad2e</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-animations-in-flutter/"/>
-        <updated>2025-10-03T18:39:38.000Z</updated>
-        <summary type="html"><![CDATA[Animations are a fundamental aspect of mobile app development. They go beyond just adding visual appeal, and have become essential for enhancing the overall user experience. Flutter, Google's open-source UI development toolkit, lets you create seamle...]]></summary>
-        <author>
-            <name>Atuoha Anthony</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Rate Limiter with Redis and Python to Scale Your Apps]]></title>
-        <id>68dfe6e0dcc5f825f4d48c85</id>
-        <link href="https://www.freecodecamp.org/news/build-a-rate-limiter-with-redis-and-python/"/>
-        <updated>2025-10-03T15:08:16.000Z</updated>
-        <summary type="html"><![CDATA[If you've ever built a web application, you know that without a proper mechanism to control traffic, your application can become overwhelmed, leading to slow response times, server crashes, and a poor user experience. Even worse, it can leave you vul...]]></summary>
-        <author>
-            <name>Sravan Karuturi</name>
         </author>
     </entry>
 </feed>
