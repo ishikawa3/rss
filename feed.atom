@@ -2,10 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-03T00:16:22.787Z</updated>
+    <updated>2025-11-04T00:15:08.262Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The “Most Hated” CSS Feature: tan()]]></title>
+        <id>https://css-tricks.com/?p=389842</id>
+        <link href="https://css-tricks.com/the-most-hated-css-feature-tan/"/>
+        <updated>2025-11-03T16:03:08.000Z</updated>
+        <summary type="html"><![CDATA[Last time, we discussed that, sadly, according to the State of CSS 2025 survey, trigonometric functions are deemed the “Most Hated” CSS feature.
+That shocked me. I may have even been a little offended, being a math nerd and …
+The “Most Hated” CSS Feature: tan() originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Juan Diego Rodríguez</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Beginner’s Guide to Automation with n8n]]></title>
+        <id>6908c9fe147981c65916a40b</id>
+        <link href="https://www.freecodecamp.org/news/a-beginners-guide-to-automation-with-n8n/"/>
+        <updated>2025-11-03T15:27:58.000Z</updated>
+        <summary type="html"><![CDATA[Automation has become one of the most valuable skills for any technical team. It helps eliminate repetitive work, speeds up business operations, and lets you focus on creative or strategic tasks.  Whether it’s moving data between apps, triggering act...]]></summary>
+        <author>
+            <name>Manish Shivanandhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Manage Python Packages with uv]]></title>
+        <id>69089c3b30ea29f0efb3f4fd</id>
+        <link href="https://www.freecodecamp.org/news/how-to-manage-python-packages-with-uv/"/>
+        <updated>2025-11-03T12:12:43.000Z</updated>
+        <summary type="html"><![CDATA[Python package managers let you install and manage dependencies—like NumPy, pandas, and so on—right from your terminal. In this article, you will learn how to use uv—an extremely fast Python package manager. Prerequisites To get the most out of this ...]]></summary>
+        <author>
+            <name>Hew Hahn</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Fading Light And Falling Leaves (November 2025 Wallpapers Edition)]]></title>
         <id>https://smashingmagazine.com/2025/10/desktop-wallpaper-calendars-november-2025/</id>
