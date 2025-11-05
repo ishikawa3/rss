@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-04T00:15:08.262Z</updated>
+    <updated>2025-11-05T00:15:19.945Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How __proto__, prototype, and Inheritance Actually Work in JavaScript]]></title>
+        <id>690a2d839d070c31fadbc25e</id>
+        <link href="https://www.freecodecamp.org/news/how-proto-prototype-and-inheritance-actually-work-in-javascript/"/>
+        <updated>2025-11-04T16:44:51.000Z</updated>
+        <summary type="html"><![CDATA[Have you ever wondered why everything in JavaScript acts like an object? Or how inheritance actually works behind the scenes? What's the difference between __proto__ and prototype? If these questions have crossed your mind, you're not alone. These ar...]]></summary>
+        <author>
+            <name>Shejan Mahamud</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Leverage Component Variants In Penpot]]></title>
+        <id>https://smashingmagazine.com/2025/11/how-leverage-component-variants-penpot/</id>
+        <link href="https://smashingmagazine.com/2025/11/how-leverage-component-variants-penpot/"/>
+        <updated>2025-11-04T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[With component variants, design systems become more flexible, letting you reuse the same component while adapting its look or state with ease. In this article, Daniel Schwarz demonstrates how design tokens can be leveraged to manage components and their variations using Penpot, the open-source tool built for scalable, consistent design.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Daniel Schwarz)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top Cybersecurity Certifications to Boost Your Career]]></title>
+        <id>690933925fbdca38da0ea33b</id>
+        <link href="https://www.freecodecamp.org/news/top-cybersecurity-certifications-to-boost-your-career/"/>
+        <updated>2025-11-03T22:58:26.000Z</updated>
+        <summary type="html"><![CDATA[Cybersecurity is one of the fastest-growing fields in the world today.  Every year, more companies face threats that put their data, reputation, and customer trust at risk. As these threats grow, so does the demand for skilled cybersecurity professio...]]></summary>
+        <author>
+            <name>Manish Shivanandhan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The “Most Hated” CSS Feature: tan()]]></title>
         <id>https://css-tricks.com/?p=389842</id>

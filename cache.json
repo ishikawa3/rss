@@ -144,6 +144,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2025/11/how-leverage-component-variants-penpot/",
+          "author": "hello@smashingmagazine.com (Daniel Schwarz)",
+          "description": "With component variants, design systems become more flexible, letting you reuse the same component while adapting its look or state with ease. In this article, Daniel Schwarz demonstrates how design tokens can be leveraged to manage components and their variations using Penpot, the open-source tool built for scalable, consistent design.",
+          "link": "https://smashingmagazine.com/2025/11/how-leverage-component-variants-penpot/",
+          "publishedOn": "2025-11-04T10:00:00.000Z",
+          "wordCount": 4411,
+          "title": "How To Leverage Component Variants In Penpot",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/how-leverage-component-variants-penpot/how-leverage-component-variants-penpot.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/how-leverage-component-variants-penpot/how-leverage-component-variants-penpot.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2025/10/desktop-wallpaper-calendars-november-2025/",
           "author": "hello@smashingmagazine.com (Cosima Mielke)",
           "description": "The new month is just around the corner, and that means: It’s time for some new desktop wallpapers! All of them are designed by the community for the community and can be downloaded for free. Enjoy!",
@@ -245,6 +260,26 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "690a2d839d070c31fadbc25e",
+          "author": "Shejan Mahamud",
+          "description": "Have you ever wondered why everything in JavaScript acts like an object? Or how inheritance actually works behind the scenes? What's the difference between __proto__ and prototype? If these questions have crossed your mind, you're not alone. These ar...",
+          "link": "https://www.freecodecamp.org/news/how-proto-prototype-and-inheritance-actually-work-in-javascript/",
+          "publishedOn": "2025-11-04T16:44:51.000Z",
+          "wordCount": 2453,
+          "title": "How __proto__, prototype, and Inheritance Actually Work in JavaScript",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1762210692821/651a67f9-cbe5-4f09-b048-957caaa5e1ac.png"
+        },
+        {
+          "id": "690933925fbdca38da0ea33b",
+          "author": "Manish Shivanandhan",
+          "description": "Cybersecurity is one of the fastest-growing fields in the world today.  Every year, more companies face threats that put their data, reputation, and customer trust at risk. As these threats grow, so does the demand for skilled cybersecurity professio...",
+          "link": "https://www.freecodecamp.org/news/top-cybersecurity-certifications-to-boost-your-career/",
+          "publishedOn": "2025-11-03T22:58:26.000Z",
+          "wordCount": 2450,
+          "title": "Top Cybersecurity Certifications to Boost Your Career",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1762183746663/9f26b839-70c5-4ab6-b5ff-53ead8d2311b.png"
+        },
         {
           "id": "6908c9fe147981c65916a40b",
           "author": "Manish Shivanandhan",
