@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=385769",
+          "author": "Geoff Graham",
+          "description": "Why should you use a semantic <button> instead of a generic <div>? Accessibility, right? By how exactly does it help accessibility?\nExplaining the Accessible Benefits of Using Semantic HTML Elements originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/explaining-the-accessible-benefits-of-using-semantic-html-elements/",
+          "publishedOn": "2025-11-06T15:57:49.000Z",
+          "wordCount": 2316,
+          "title": "Explaining the Accessible Benefits of Using Semantic HTML Elements",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/11/screaming-button.png"
+        },
+        {
           "id": "https://css-tricks.com/?p=389842",
           "author": "Juan Diego Rodríguez",
           "description": "Last time, we discussed that, sadly, according to the State of CSS 2025 survey, trigonometric functions are deemed the “Most Hated” CSS feature.\nThat shocked me. I may have even been a little offended, being a math nerd and …\nThe “Most Hated” CSS Feature: tan() originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -250,6 +260,56 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "690ce6ccd9dcaa769b671c7e",
+          "author": "Beau Carnes",
+          "description": "Learn to play the guitar! We just posted a course on the freeCodeCamp.org YouTube channel that will teach you essential guitar theory including the fretboard, the major scale and the triads. It was created by baritone guitarist, Alex Gordon Hi-Fi. He...",
+          "link": "https://www.freecodecamp.org/news/guitar-theory-course-for-beginners-learn-fretboard-major-scale-and-triads/",
+          "publishedOn": "2025-11-06T18:19:56.000Z",
+          "wordCount": 1080,
+          "title": "Guitar Theory Course for Beginners – Learn Fretboard, Major Scale and Triads",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1762453168574/3b0a237a-f4ab-4a89-a787-443ec1239e5a.jpeg"
+        },
+        {
+          "id": "690c78446959d1f714d81d45",
+          "author": "Chukwudi Nweze",
+          "description": "Have you ever wondered why some websites load almost immediately and others leave you looking at a blank screen, even when your internet connection is fast? In some cases, your internet speed may not be the issue. It is usually because of Round Trip ...",
+          "link": "https://www.freecodecamp.org/news/how-to-reduce-round-trip-time-rtt-with-nextjs/",
+          "publishedOn": "2025-11-06T10:28:20.000Z",
+          "wordCount": 3107,
+          "title": "How to Reduce Round Trip Time (RTT) with Next.js",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1762424304223/4d818ff7-0fe2-448d-8acd-3da092bc55a4.png"
+        },
+        {
+          "id": "690bd280e9ceb53e15668053",
+          "author": "Beau Carnes",
+          "description": "We just posted a course on the freeCodeCamp.org YouTube channel that will teach you all about cryptography. You'll learn essential techniques like hashing (SHA-256) for verifying file integrity, symmetric encryption (AES), and asymmetric encryption (...",
+          "link": "https://www.freecodecamp.org/news/cryptography-for-beginners-full-python-course-sha-256-aes-rsa-passwords/",
+          "publishedOn": "2025-11-05T22:41:04.000Z",
+          "wordCount": 1100,
+          "title": "Cryptography for Beginners: Full Python Course (SHA-256, AES, RSA, Passwords)",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1762382425137/9fb68a83-e3ca-41a2-a1c0-ed203bae83b4.jpeg"
+        },
+        {
+          "id": "690bd1964ffa7599421226c5",
+          "author": "Beau Carnes",
+          "description": "Learn Creative Web Development with Three.js and Blender. freeCodeCamp just posted a beginner-friendly course that will teach you to create an immersive 3D portfolio. You'll begin by diving into Blender to learn the fundamentals of 3D modeling. With ...",
+          "link": "https://www.freecodecamp.org/news/creative-web-development-with-threejs-and-blender/",
+          "publishedOn": "2025-11-05T22:37:10.000Z",
+          "wordCount": 1115,
+          "title": "Creative Web Development with Three.js and Blender",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1762382219109/2fe68963-cb45-4bc5-add9-6ba3351664f3.jpeg"
+        },
+        {
+          "id": "690bcbbc8abe1e0a5b05e0be",
+          "author": "Surya Teja Appini",
+          "description": "Most commercial voice assistants send your voice data to cloud servers before responding. By using open‑source tools, you can run everything directly on your phone for better privacy, faster responses, and full control over how the assistant behaves....",
+          "link": "https://www.freecodecamp.org/news/private-voice-assistant-using-open-source-tools/",
+          "publishedOn": "2025-11-05T22:12:12.000Z",
+          "wordCount": 3960,
+          "title": "How to Build Your Own Private Voice Assistant: A Step-by-Step Guide Using Open-Source Tools",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1762380694991/10687751-7aec-4d78-8af8-1f76edc28afd.png"
+        },
         {
           "id": "690b882e468be723832787a7",
           "author": "Manish Shivanandhan",
@@ -979,26 +1039,6 @@
           "wordCount": 3409,
           "title": "How to Test JavaScript Apps: From Unit Tests to AI-Augmented QA",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1759939599135/507c5e9a-954b-497b-b3b8-c8d89b2d1a03.png"
-        },
-        {
-          "id": "68e57cd7b148e87f05670d05",
-          "author": "Mayur Vekariya",
-          "description": "Reinforcement learning (RL) is one of the most powerful paradigms in artificial intelligence. Unlike supervised learning where you train models on labeled datasets, RL agents learn through direct interaction with their environment, receiving rewards ...",
-          "link": "https://www.freecodecamp.org/news/how-to-build-an-adaptive-tic-tac-toe-ai-with-reinforcement-learning-in-javascript/",
-          "publishedOn": "2025-10-07T20:49:27.000Z",
-          "wordCount": 7233,
-          "title": "How to Build an Adaptive Tic-Tac-Toe AI with Reinforcement Learning in JavaScript",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1759870150966/f65a07a6-123b-45e2-a3f2-bc099638825a.png"
-        },
-        {
-          "id": "68e559d8ac28fbe4acae92be",
-          "author": "Destiny Erhabor",
-          "description": "Docker build is a fundamental concept every developer needs to understand. Whether you're containerizing your first application or optimizing existing Docker workflows, understanding Docker build contexts and Docker build architecture is essential fo...",
-          "link": "https://www.freecodecamp.org/news/docker-build-tutorial-learn-contexts-architecture-and-performance-optimization-techniques/",
-          "publishedOn": "2025-10-07T18:20:08.000Z",
-          "wordCount": 4304,
-          "title": "Docker Build Tutorial: Learn Contexts, Architecture, and Performance Optimization Techniques",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1759861193876/871b72e7-9673-4572-b788-48f082a6b380.png"
         }
       ]
     }

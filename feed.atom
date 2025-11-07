@@ -2,10 +2,71 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-06T00:15:07.859Z</updated>
+    <updated>2025-11-07T00:15:54.308Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Guitar Theory Course for Beginners – Learn Fretboard, Major Scale and Triads]]></title>
+        <id>690ce6ccd9dcaa769b671c7e</id>
+        <link href="https://www.freecodecamp.org/news/guitar-theory-course-for-beginners-learn-fretboard-major-scale-and-triads/"/>
+        <updated>2025-11-06T18:19:56.000Z</updated>
+        <summary type="html"><![CDATA[Learn to play the guitar! We just posted a course on the freeCodeCamp.org YouTube channel that will teach you essential guitar theory including the fretboard, the major scale and the triads. It was created by baritone guitarist, Alex Gordon Hi-Fi. He...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Explaining the Accessible Benefits of Using Semantic HTML Elements]]></title>
+        <id>https://css-tricks.com/?p=385769</id>
+        <link href="https://css-tricks.com/explaining-the-accessible-benefits-of-using-semantic-html-elements/"/>
+        <updated>2025-11-06T15:57:49.000Z</updated>
+        <summary type="html"><![CDATA[Why should you use a semantic <button> instead of a generic <div>? Accessibility, right? By how exactly does it help accessibility?
+Explaining the Accessible Benefits of Using Semantic HTML Elements originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Reduce Round Trip Time (RTT) with Next.js]]></title>
+        <id>690c78446959d1f714d81d45</id>
+        <link href="https://www.freecodecamp.org/news/how-to-reduce-round-trip-time-rtt-with-nextjs/"/>
+        <updated>2025-11-06T10:28:20.000Z</updated>
+        <summary type="html"><![CDATA[Have you ever wondered why some websites load almost immediately and others leave you looking at a blank screen, even when your internet connection is fast? In some cases, your internet speed may not be the issue. It is usually because of Round Trip ...]]></summary>
+        <author>
+            <name>Chukwudi Nweze</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cryptography for Beginners: Full Python Course (SHA-256, AES, RSA, Passwords)]]></title>
+        <id>690bd280e9ceb53e15668053</id>
+        <link href="https://www.freecodecamp.org/news/cryptography-for-beginners-full-python-course-sha-256-aes-rsa-passwords/"/>
+        <updated>2025-11-05T22:41:04.000Z</updated>
+        <summary type="html"><![CDATA[We just posted a course on the freeCodeCamp.org YouTube channel that will teach you all about cryptography. You'll learn essential techniques like hashing (SHA-256) for verifying file integrity, symmetric encryption (AES), and asymmetric encryption (...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Creative Web Development with Three.js and Blender]]></title>
+        <id>690bd1964ffa7599421226c5</id>
+        <link href="https://www.freecodecamp.org/news/creative-web-development-with-threejs-and-blender/"/>
+        <updated>2025-11-05T22:37:10.000Z</updated>
+        <summary type="html"><![CDATA[Learn Creative Web Development with Three.js and Blender. freeCodeCamp just posted a beginner-friendly course that will teach you to create an immersive 3D portfolio. You'll begin by diving into Blender to learn the fundamentals of 3D modeling. With ...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build Your Own Private Voice Assistant: A Step-by-Step Guide Using Open-Source Tools]]></title>
+        <id>690bcbbc8abe1e0a5b05e0be</id>
+        <link href="https://www.freecodecamp.org/news/private-voice-assistant-using-open-source-tools/"/>
+        <updated>2025-11-05T22:12:12.000Z</updated>
+        <summary type="html"><![CDATA[Most commercial voice assistants send your voice data to cloud servers before responding. By using open‑source tools, you can run everything directly on your phone for better privacy, faster responses, and full control over how the assistant behaves....]]></summary>
+        <author>
+            <name>Surya Teja Appini</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Use LangChain and LangGraph: A Beginner’s Guide to AI Workflows]]></title>
         <id>690b882e468be723832787a7</id>
@@ -927,26 +988,6 @@ For my website design, I chose a dark blue background colour (#212E45) and light
 The thing about contrast-color originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build an Adaptive Tic-Tac-Toe AI with Reinforcement Learning in JavaScript]]></title>
-        <id>68e57cd7b148e87f05670d05</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-an-adaptive-tic-tac-toe-ai-with-reinforcement-learning-in-javascript/"/>
-        <updated>2025-10-07T20:49:27.000Z</updated>
-        <summary type="html"><![CDATA[Reinforcement learning (RL) is one of the most powerful paradigms in artificial intelligence. Unlike supervised learning where you train models on labeled datasets, RL agents learn through direct interaction with their environment, receiving rewards ...]]></summary>
-        <author>
-            <name>Mayur Vekariya</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Docker Build Tutorial: Learn Contexts, Architecture, and Performance Optimization Techniques]]></title>
-        <id>68e559d8ac28fbe4acae92be</id>
-        <link href="https://www.freecodecamp.org/news/docker-build-tutorial-learn-contexts-architecture-and-performance-optimization-techniques/"/>
-        <updated>2025-10-07T18:20:08.000Z</updated>
-        <summary type="html"><![CDATA[Docker build is a fundamental concept every developer needs to understand. Whether you're containerizing your first application or optimizing existing Docker workflows, understanding Docker build contexts and Docker build architecture is essential fo...]]></summary>
-        <author>
-            <name>Destiny Erhabor</name>
         </author>
     </entry>
 </feed>
