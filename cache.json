@@ -125,16 +125,6 @@
           "wordCount": 2393,
           "title": "We Completely Missed width/height: stretch",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/11/percentage-padding-width.png"
-        },
-        {
-          "id": "https://css-tricks.com/?p=389698",
-          "author": "Geoff Graham",
-          "description": "One of our favorites, Andy Clarke, on the one thing keeping the CSS contrast-color() function from true glory:\nFor my website design, I chose a dark blue background colour (#212E45) and light text (#d3d5da). This \n…\nThe thing about contrast-color originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/the-thing-about-contrast-color/",
-          "publishedOn": "2025-10-08T14:52:58.000Z",
-          "wordCount": 1858,
-          "title": "The thing about contrast-color",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2020/03/contrast-colors.jpg"
         }
       ]
     },
@@ -143,6 +133,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2025/11/smashing-animations-part-6-svgs-css-custom-properties/",
+          "author": "hello@smashingmagazine.com (Andy Clarke)",
+          "description": "SVG is one of those web technologies that’s both elegant and, at times, infuriating. In this article, pioneering author and web designer Andy Clarke explains his technique for animating SVG elements that are hidden in the Shadow DOM.",
+          "link": "https://smashingmagazine.com/2025/11/smashing-animations-part-6-svgs-css-custom-properties/",
+          "publishedOn": "2025-11-07T15:00:00.000Z",
+          "wordCount": 4717,
+          "title": "Smashing Animations Part 6: Magnificent SVGs With `<use>` And CSS Custom Properties",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/smashing-animations-part-6-svgs-css-custom-properties/smashing-animations-part-6-svgs-css-custom-properties.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/smashing-animations-part-6-svgs-css-custom-properties/smashing-animations-part-6-svgs-css-custom-properties.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2025/11/practical-guide-ux-strategy/",
           "author": "hello@smashingmagazine.com (Vitaly Friedman)",
@@ -260,6 +265,66 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "690e629981a4964f4b12b422",
+          "author": "Manish Shivanandhan",
+          "description": "In the age of online privacy, two tools are often mentioned together: VPNs and proxies. Both hide your IP address and help you browse the internet more privately, but they work in different ways and serve different purposes. From simple security to w...",
+          "link": "https://www.freecodecamp.org/news/vpns-vs-proxies-what-are-the-differences/",
+          "publishedOn": "2025-11-07T21:20:25.000Z",
+          "wordCount": 2055,
+          "title": "VPNs vs Proxies: What are the Differences?",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1762549605269/165d4e53-a54e-46b7-95b6-f2b76bcdfc53.png"
+        },
+        {
+          "id": "690e2801500cb51e735b5a9c",
+          "author": "Nikheel Vishwas Savant",
+          "description": "Introduction: Why Bluetooth Still Matters You probably don’t even think about Bluetooth anymore. It’s just there, quietly doing its job every single day. It’s what keeps your earbuds connected, your smartwatch synced, your car infotainment system tal...",
+          "link": "https://www.freecodecamp.org/news/the-state-of-bluetooth-whats-new-whats-possible-and-how-to-use-it/",
+          "publishedOn": "2025-11-07T17:10:25.000Z",
+          "wordCount": 8061,
+          "title": "The State of Bluetooth in 2025: What’s New, What’s Possible, and How to Use It",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1762533537259/3f9dec8a-690b-4fd8-a0a7-8e6b2667e55c.png"
+        },
+        {
+          "id": "690e27b0ca4947acbefbd755",
+          "author": "Surya Teja Appini",
+          "description": "When you start building with LLMs, it quickly becomes clear that not all models behave the same. One model may excel at creative writing but struggle with technical precision. Another might be thoughtful yet verbose. A third could be fast and efficie...",
+          "link": "https://www.freecodecamp.org/news/choose-the-right-llm-for-your-projects-benchmarking-guide/",
+          "publishedOn": "2025-11-07T17:09:04.000Z",
+          "wordCount": 3376,
+          "title": "How to Choose the Right LLM for Your Projects: A Guide to Effective Model Benchmarking",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1762534383880/404f27c6-2995-4daa-bcac-c61b10e93abc.png"
+        },
+        {
+          "id": "690e1f43cb50ea9684f6d9aa",
+          "author": "OMOTAYO OMOYEMI",
+          "description": "When I started my research on AI systems that could translate Makaton (a sign and symbol language designed to support speech and communication), I wanted to bridge a gap in accessibility for learners with speech or language difficulties. Over time, t...",
+          "link": "https://www.freecodecamp.org/news/how-i-built-a-makaton-ai-companion-using-gemini-nano-and-the-gemini-api/",
+          "publishedOn": "2025-11-07T16:33:07.000Z",
+          "wordCount": 5701,
+          "title": "How I Built a Makaton AI Companion Using Gemini Nano and the Gemini API",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1762533154134/e2209ade-6971-464b-aeef-f05abd0a30d7.png"
+        },
+        {
+          "id": "690e0d2661d96baa3c583c80",
+          "author": "Beau Carnes",
+          "description": "Abbey Perini taught herself programming at age 27 while working as an admin at an engineering recruitment agency. She has worked extensively with large legacy codebases and taught best practices to developers internationally. We talk about: How to h...",
+          "link": "https://www.freecodecamp.org/news/applying-into-the-void-with-recruiter-admin-abbey-perini-podcast-196/",
+          "publishedOn": "2025-11-07T15:15:50.000Z",
+          "wordCount": 1334,
+          "title": "Applying into the void with recruiter admin Abbey Perini [Podcast #196]",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1762479547201/349a72fd-5c01-4191-883f-91735d72cae3.jpeg"
+        },
+        {
+          "id": "690e02f392fcbf371b6e1b9d",
+          "author": "Casmir Onyekani",
+          "description": "As a developer who aspires to be a founder, building your first startup can be filled with excitement and ideas. The worst thing that could happen to you is jumping straight into the coding part. I was in this situation and the last thing on my mind ...",
+          "link": "https://www.freecodecamp.org/news/how-to-structure-your-readme-file/",
+          "publishedOn": "2025-11-07T14:32:19.000Z",
+          "wordCount": 2815,
+          "title": "How to Structure Your README File – README Template Example",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1762523233143/4555ff83-b390-4cb2-b6de-acea129de4b1.png"
+        },
         {
           "id": "690ce6ccd9dcaa769b671c7e",
           "author": "Beau Carnes",
@@ -989,56 +1054,6 @@
           "wordCount": 1342,
           "title": "From manufacturing worker to first developer job at age 43 with Thomas Gooch [Podcast #191]",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1760019279104/f82fb425-d635-436a-8daa-8e2122efa2ec.jpeg"
-        },
-        {
-          "id": "68e70e0ecfc3d2834515166c",
-          "author": "Tapas Adhikary",
-          "description": "Have you ever opened React project source code and wondered why things are so messy? Have you ever tried adding a feature to a React component created by someone else and felt that you needed to rewrite it? Have you felt nightmarish in tackling state...",
-          "link": "https://www.freecodecamp.org/news/compound-components-pattern-in-react/",
-          "publishedOn": "2025-10-09T01:21:18.000Z",
-          "wordCount": 4147,
-          "title": "How to Use the Compound Components Pattern in React: Prop Soup to Flexible UIs",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1759972853846/49e605c8-be15-44a4-9fc6-283be0cc0e4c.png"
-        },
-        {
-          "id": "68e70d838fa4b92d9a027ebe",
-          "author": "Chirag Agrawal",
-          "description": "Have you ever built a brilliant time-series model, one that could forecast sales or predict stock prices, only to watch it fail in the real world? Well, this is a common frustration. Your model works perfectly on your machine, but the moment you depl...",
-          "link": "https://www.freecodecamp.org/news/how-to-persist-state-in-time-series-models-with-docker-and-redis/",
-          "publishedOn": "2025-10-09T01:18:59.000Z",
-          "wordCount": 2590,
-          "title": "How to Persist State in Time-Series Models with Docker and Redis",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1759972706788/66d45afa-f86b-4365-8a55-8b6873df718b.png"
-        },
-        {
-          "id": "68e6ab03a5598a61a63ce39d",
-          "author": "Sumit Saha",
-          "description": "JWT stands for JSON Web Token, and it’s one of those terms you’ll constantly come across in modern web development. At its core, a JWT is a JSON-based open standard format that allows you to represent specific claims securely between two parties. The...",
-          "link": "https://www.freecodecamp.org/news/the-json-web-token-handbook-learn-to-use-jwts-for-web-authentication/",
-          "publishedOn": "2025-10-08T18:18:43.000Z",
-          "wordCount": 6837,
-          "title": "The JSON Web Token Handbook: Learn to Use JWTs for Web Authentication",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1759947512495/9c8aee78-1a83-4958-8c01-110e2247286d.png"
-        },
-        {
-          "id": "68e68c6be9add39908327891",
-          "author": "Bala Priya C",
-          "description": "Environment variables let you configure applications without hardcoding sensitive information directly into your source code. They're particularly useful for storing API keys, database credentials, and configuration settings that change between devel...",
-          "link": "https://www.freecodecamp.org/news/how-to-work-with-environment-variables-in-python/",
-          "publishedOn": "2025-10-08T16:08:11.000Z",
-          "wordCount": 1954,
-          "title": "How to Work with Environment Variables in Python",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1759939671494/fa0f31c9-99e4-43d6-94df-894e0da263f5.png"
-        },
-        {
-          "id": "68e68c3655c4d79b6db4f4c4",
-          "author": "Ajay Yadav",
-          "description": "As a software engineer, you should always be open to the challenges this field brings. Two months ago, my project manager assigned me a task: write test cases for an API. I was super excited because it meant I got to learn something new beyond just c...",
-          "link": "https://www.freecodecamp.org/news/how-to-test-javascript-apps-from-unit-tests-to-ai-augmented-qa/",
-          "publishedOn": "2025-10-08T16:07:18.000Z",
-          "wordCount": 3409,
-          "title": "How to Test JavaScript Apps: From Unit Tests to AI-Augmented QA",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1759939599135/507c5e9a-954b-497b-b3b8-c8d89b2d1a03.png"
         }
       ]
     }
