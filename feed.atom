@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-09T00:16:36.220Z</updated>
+    <updated>2025-11-10T00:15:54.368Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
@@ -884,27 +884,6 @@ Masonry: Watching a CSS Feature Evolve originally published on CSS-Tricks, which
         <summary type="html"><![CDATA[From A/B tests to AI slop, the modern web is bleeding out its colour. Standardized, templated, and overoptimized, it’s starting to feel like a digital Levittown. But it doesn’t have to be.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Frederick O’Brien)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Evan You – From Art School Kid to Open Source Legend [Podcast #192]]]></title>
-        <id>68e91f889b56081e93d896cd</id>
-        <link href="https://www.freecodecamp.org/news/evan-you-from-art-school-kid-to-open-source-legend-podcast-192/"/>
-        <updated>2025-10-10T15:00:24.000Z</updated>
-        <summary type="html"><![CDATA[Evan You is the creator of the popular Vue JavaScript library for front end development and the Vite JavaScript build tool that a lot of devs use as a boilerplate for their new projects. He's a self-taught developer based in Singapore. He shares tips...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[We Completely Missed width/height: stretch]]></title>
-        <id>https://css-tricks.com/?p=389611</id>
-        <link href="https://css-tricks.com/we-completely-missed-width-height-stretch/"/>
-        <updated>2025-10-10T14:03:52.000Z</updated>
-        <summary type="html"><![CDATA[The TL;DR is that stretch does the same thing as declaring 100%, but ignores padding when looking at the available space. 
-We Completely Missed width/height: stretch originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Daniel Schwarz</name>
         </author>
     </entry>
 </feed>

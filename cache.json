@@ -115,16 +115,6 @@
           "wordCount": 3515,
           "title": "Masonry: Watching a CSS Feature Evolve",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/08/css-tricks-logo-blur.png"
-        },
-        {
-          "id": "https://css-tricks.com/?p=389611",
-          "author": "Daniel Schwarz",
-          "description": "The TL;DR is that stretch does the same thing as declaring 100%, but ignores padding when looking at the available space. \nWe Completely Missed width/height: stretch originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/we-completely-missed-width-height-stretch/",
-          "publishedOn": "2025-10-10T14:03:52.000Z",
-          "wordCount": 2393,
-          "title": "We Completely Missed width/height: stretch",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/11/percentage-padding-width.png"
         }
       ]
     },
@@ -954,16 +944,6 @@
           "wordCount": 996,
           "title": "Pass the Google Generative AI Leader Certification Exam",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1760364411037/aadc2471-a1f1-4709-9400-6b79c54bf1e5.png"
-        },
-        {
-          "id": "68e91f889b56081e93d896cd",
-          "author": "Beau Carnes",
-          "description": "Evan You is the creator of the popular Vue JavaScript library for front end development and the Vite JavaScript build tool that a lot of devs use as a boilerplate for their new projects. He's a self-taught developer based in Singapore. He shares tips...",
-          "link": "https://www.freecodecamp.org/news/evan-you-from-art-school-kid-to-open-source-legend-podcast-192/",
-          "publishedOn": "2025-10-10T15:00:24.000Z",
-          "wordCount": 1333,
-          "title": "Evan You – From Art School Kid to Open Source Legend [Podcast #192]",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1760060575311/62fffac8-3a8a-4012-8181-6ee9613754b0.png"
         }
       ]
     }
