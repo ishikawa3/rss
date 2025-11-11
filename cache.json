@@ -12,6 +12,21 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=389885",
+          "author": "Geoff Graham",
+          "description": "A few links about headings that I've had stored under my top hat.\nHeadings: Semantics, Fluidity, and Styling — Oh My! originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/headings-semantics-fluidity-and-styling-oh-my/",
+          "publishedOn": "2025-11-10T14:44:13.000Z",
+          "wordCount": 2534,
+          "title": "Headings: Semantics, Fluidity, and Styling — Oh My!",
+          "enclosure": {
+            "url": "https://css-tricks.com/wp-content/uploads/2025/10/fluid-heading.mov",
+            "length": "6253881",
+            "type": "video/quicktime"
+          },
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/10/heading-levels-h1-h3.jpg"
+        },
+        {
           "id": "https://css-tricks.com/?p=385769",
           "author": "Geoff Graham",
           "description": "Why should you use a semantic <button> instead of a generic <div>? Accessibility, right? By how exactly does it help accessibility?\nExplaining the Accessible Benefits of Using Semantic HTML Elements originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -255,6 +270,26 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "691256ca726af9fcf5543027",
+          "author": "Manish Shivanandhan",
+          "description": "Running a large language model (LLM) on your computer is now easier than ever. You no longer need a cloud subscription or a massive server. With just your PC, you can run models like Llama, Mistral, or Phi, privately and offline. This guide will show...",
+          "link": "https://www.freecodecamp.org/news/how-to-run-an-open-source-llm-on-your-personal-computer-run-ollama-locally/",
+          "publishedOn": "2025-11-10T21:19:06.000Z",
+          "wordCount": 2175,
+          "title": "How To Run an Open-Source LLM on Your Personal Computer – Run Ollama Locally",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1762809417189/37e154b9-9bf0-4210-921a-4722cd448b09.png"
+        },
+        {
+          "id": "691228d49872f01b424e3353",
+          "author": "Beau Carnes",
+          "description": "Vue.js is a progressive JavaScript framework for building user interfaces and single-page applications. Loved for its simplicity, flexibility, and performance, it allows developers to start small and scale up to complex applications with ease. Whethe...",
+          "link": "https://www.freecodecamp.org/news/learn-vuejs-javascript-framework-course/",
+          "publishedOn": "2025-11-10T18:03:00.000Z",
+          "wordCount": 1041,
+          "title": "Learn Vue.js – JavaScript Framework Course",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1762797723327/7e67725a-1f0c-48fa-ad5c-173495b0ffeb.jpeg"
+        },
         {
           "id": "690e629981a4964f4b12b422",
           "author": "Manish Shivanandhan",
