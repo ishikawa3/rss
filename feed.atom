@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-11T00:15:48.662Z</updated>
+    <updated>2025-11-12T00:15:07.216Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Effectively Monitoring Web Performance]]></title>
+        <id>https://smashingmagazine.com/2025/11/effectively-monitoring-web-performance/</id>
+        <link href="https://smashingmagazine.com/2025/11/effectively-monitoring-web-performance/"/>
+        <updated>2025-11-11T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[There are lots of tips for [improving your website performance](https://www.debugbear.com/blog/improve-website-performance?utm_campaign=sm-10). But even if you follow all of the advice, are you able to maintain an optimized site? And are you targeting the right pages? Matt Zeunert outlines an effective strategy for web performance optimization and explains the roles that different types of data play in it.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Matt Zeunert)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How To Run an Open-Source LLM on Your Personal Computer – Run Ollama Locally]]></title>
         <id>691256ca726af9fcf5543027</id>
@@ -905,16 +915,6 @@ Masonry: Watching a CSS Feature Evolve originally published on CSS-Tricks, which
         <summary type="html"><![CDATA[Prepare for the Google Generative AI Leader exam and pass! A Generative AI Leader is a visionary professional with comprehensive knowledge of how generative AI (gen AI) can transform businesses. They have business-level knowledge of Google Cloud's ge...]]></summary>
         <author>
             <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Grayscale Problem]]></title>
-        <id>https://smashingmagazine.com/2025/10/the-grayscale-problem/</id>
-        <link href="https://smashingmagazine.com/2025/10/the-grayscale-problem/"/>
-        <updated>2025-10-13T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[From A/B tests to AI slop, the modern web is bleeding out its colour. Standardized, templated, and overoptimized, it’s starting to feel like a digital Levittown. But it doesn’t have to be.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Frederick O’Brien)</name>
         </author>
     </entry>
 </feed>
