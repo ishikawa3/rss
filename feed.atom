@@ -2,10 +2,131 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-13T00:15:23.114Z</updated>
+    <updated>2025-11-14T00:15:32.869Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[From Pixels to Predictions: How GPUs Started Powering Modern AI]]></title>
+        <id>69164b0a612455db63b30bdc</id>
+        <link href="https://www.freecodecamp.org/news/from-pixels-to-predictions-how-gpus-started-powering-modern-ai/"/>
+        <updated>2025-11-13T21:18:02.000Z</updated>
+        <summary type="html"><![CDATA[When people think of artificial intelligence, they imagine complex models, data centers, and cloud servers.  What most don’t realize is that the real engine behind this AI revolution started in a place few expected: inside the humble gaming PC.  The ...]]></summary>
+        <author>
+            <name>Manish Shivanandhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Bluetooth Socket Settings Power Android’s Low Power Island: A Friendly Deep Dive into AOSP’s Hidden Energy Saver]]></title>
+        <id>69164aadd6505b750fa4b659</id>
+        <link href="https://www.freecodecamp.org/news/how-bluetooth-socket-settings-power-androids-low-power-island-a-friendly-deep-dive-into-aosps-hidden-energy-saver/"/>
+        <updated>2025-11-13T21:16:29.000Z</updated>
+        <summary type="html"><![CDATA[Picture this: you’re sitting in a café with your laptop open, phone on the table, smartwatch buzzing every few minutes, and Bluetooth earbuds playing music. From your perspective, life is peaceful. From your phone’s perspective, it’s juggling a ridic...]]></summary>
+        <author>
+            <name>Nikheel Vishwas Savant</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Secret Life of Your CPU: Exploring the Low Power Island in Android Bluetooth]]></title>
+        <id>69164a5b08d80a5fa5d56f1e</id>
+        <link href="https://www.freecodecamp.org/news/the-secret-life-of-your-cpu-exploring-the-low-power-island-in-android-bluetooth/"/>
+        <updated>2025-11-13T21:15:07.000Z</updated>
+        <summary type="html"><![CDATA[If your phone were a person, it would probably be that overachieving friend who cannot sit still. The kind who insists they are relaxing while secretly running errands, replying to messages, and checking the weather at the same time. Inside your Andr...]]></summary>
+        <author>
+            <name>Nikheel Vishwas Savant</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Keep LLM Outputs Predictable Using Pydantic Validation]]></title>
+        <id>69164018ac4b066d7018502d</id>
+        <link href="https://www.freecodecamp.org/news/how-to-keep-llm-outputs-predictable-using-pydantic-validation/"/>
+        <updated>2025-11-13T20:31:20.000Z</updated>
+        <summary type="html"><![CDATA[Large language models are powerful, but they can also be unpredictable. They might generate long explanations when you expect a short summary, skip fields in a JSON output, or change the format completely from one request to another. When you’re buil...]]></summary>
+        <author>
+            <name>Manish Shivanandhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is TOON? How Token-Oriented Object Notation Could Change How AI Sees Data]]></title>
+        <id>6915f8076f343530b3b31c7b</id>
+        <link href="https://www.freecodecamp.org/news/what-is-toon-how-token-oriented-object-notation-could-change-how-ai-sees-data/"/>
+        <updated>2025-11-13T15:23:51.000Z</updated>
+        <summary type="html"><![CDATA[JSON, or JavaScript Object Notation, was popularized by Douglas Crockford in early 2000. Since then, there’s been no looking back. JSON has become the standardized data exchange format between client and server technologies. JSON was built for humans...]]></summary>
+        <author>
+            <name>Tapas Adhikary</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[System Design Patterns in Android Bluetooth [Full Handbook]]]></title>
+        <id>6915f7d8453f11c904fade0c</id>
+        <link href="https://www.freecodecamp.org/news/system-design-patterns-in-android-bluetooth-full-handbook/"/>
+        <updated>2025-11-13T15:23:04.000Z</updated>
+        <summary type="html"><![CDATA[If you’ve ever opened the Android Bluetooth source code, you might know this feeling. You go in with the calm confidence of a developer who just wants to understand how things work. You open BluetoothAdapter.java and think, “Ah, this looks clean.” Th...]]></summary>
+        <author>
+            <name>Nikheel Vishwas Savant</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Solve 5 Common RAG Failures with Knowledge Graphs]]></title>
+        <id>6915f73887b014aa0a104567</id>
+        <link href="https://www.freecodecamp.org/news/how-to-solve-5-common-rag-failures-with-knowledge-graphs/"/>
+        <updated>2025-11-13T15:20:24.000Z</updated>
+        <summary type="html"><![CDATA[You may have built a Retrieval-Augmented Generation (RAG) pipeline to connect a vector store to a powerful LLM. And RAG pipelines are incredibly effective at grounding models in factual, up-to-date knowledge. But if you've worked with them long enoug...]]></summary>
+        <author>
+            <name>Kamal Kishore</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Range Syntax Has Come to Container Style Queries and if()]]></title>
+        <id>https://css-tricks.com/?p=390178</id>
+        <link href="https://css-tricks.com/the-range-syntax-has-come-to-container-style-queries-and-if/"/>
+        <updated>2025-11-13T15:00:20.000Z</updated>
+        <summary type="html"><![CDATA[Being able to use the range syntax with container style queries — which we can do starting with Chrome 142 — means that we can compare literal numeric values as well as numeric values tokenized by custom properties or the attr() function.
+The Range Syntax Has Come to Container Style Queries and if() originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Daniel Schwarz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn Discrete Mathematics]]></title>
+        <id>6915ec909bbfb50f5a356a15</id>
+        <link href="https://www.freecodecamp.org/news/learn-discrete-mathematics/"/>
+        <updated>2025-11-13T14:34:56.000Z</updated>
+        <summary type="html"><![CDATA[Discrete mathematics plays a key role in machine learning and algorithms. You can use it to find the shortest path (graph theory), encrypt files, compress data, and to do many other things. We just posted a discreet mathematics course on the freeCode...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build Complex Workflows with n8n & Master AI Integration]]></title>
+        <id>6915ea7e997289c5d5272773</id>
+        <link href="https://www.freecodecamp.org/news/build-complex-workflows-with-n8n-and-master-ai-integration/"/>
+        <updated>2025-11-13T14:26:06.000Z</updated>
+        <summary type="html"><![CDATA[n8n is an open-source workflow automation platform that lets you connect different apps, APIs, and services to easily automate tasks without needing to implement extensive code. We just posted a course on the freeCodeCamp.org YouTube channel that is ...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Older Tech In The Browser Stack]]></title>
+        <id>https://smashingmagazine.com/2025/11/older-tech-browser-stack/</id>
+        <link href="https://smashingmagazine.com/2025/11/older-tech-browser-stack/"/>
+        <updated>2025-11-13T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[There are many existing web features and technologies in the wild that you may never touch directly in your day-to-day work. Perhaps you’re fairly new to web development and are simply unaware of them because you’re steeped in the abstraction of a specific framework that doesn’t require you to know it deeply, or even at all. Bryan Rasmussen looks specifically at XPath and demonstrates how it can be used alongside CSS to query elements.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Bryan Rasmussen)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Integrate Vector Search in Columnar Storage]]></title>
+        <id>6914ff68e1ffda5f6ea6d8ea</id>
+        <link href="https://www.freecodecamp.org/news/how-to-integrate-vector-search-in-columnar-storage/"/>
+        <updated>2025-11-12T21:43:04.000Z</updated>
+        <summary type="html"><![CDATA[Integrating vector search into traditional data platforms is becoming a common task in the current AI-driven landscape. When Google announced general availability for vector search in BigQuery in early 2024, it joined a growing list of established da...]]></summary>
+        <author>
+            <name>Chirag Agrawal</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Effectively Monitoring Web Performance]]></title>
         <id>https://smashingmagazine.com/2025/11/effectively-monitoring-web-performance/</id>
@@ -844,36 +965,6 @@ Sequential linear() Animation With N Elements originally published on CSS-Tricks
         <summary type="html"><![CDATA[MCP is the standard rule set that allows AI agents, like GitHub Copilot and Gemini, to securely and intelligently interact with your databases, functions, and applications. We just published a course on the freeCodeCamp.org YouTube channel that will ...]]></summary>
         <author>
             <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Cache Golang API Responses for High Performance]]></title>
-        <id>68ef76f4e9381bb61f442e34</id>
-        <link href="https://www.freecodecamp.org/news/how-to-cache-golang-api-responses/"/>
-        <updated>2025-10-15T10:27:00.000Z</updated>
-        <summary type="html"><![CDATA[Go makes it easy to build APIs that are fast out of the box. But as usage grows, speed at the language level is not enough. If every request keeps hitting the database, crunching the same data, or serializing the same JSON over and over, latency cree...]]></summary>
-        <author>
-            <name>Temitope Oyedele</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Deploy an AI Agent with Amazon Bedrock AgentCore]]></title>
-        <id>68eef2757ef88f92913602c6</id>
-        <link href="https://www.freecodecamp.org/news/deploy-an-ai-agent-with-amazon-bedrock/"/>
-        <updated>2025-10-15T01:01:41.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Bedrock AgentCore is a managed service that makes it easier to build, deploy, and operate AI agents securely at scale on AWS. It works seamlessly with frameworks like Strands Agents, LangGraph, CrewAI, and LlamaIndex, while taking care of the ...]]></summary>
-        <author>
-            <name>Emdadul Islam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Common Pitfalls to Avoid When Analyzing and Modeling Data]]></title>
-        <id>68ee54b2edcf5de25dd4bb13</id>
-        <link href="https://www.freecodecamp.org/news/common-pitfalls-to-avoid-when-analyzing-and-modeling-data/"/>
-        <updated>2025-10-14T13:48:34.000Z</updated>
-        <summary type="html"><![CDATA[Working with data at any level, whether as an analyst, engineer, scientist, or decision-maker, involves going through a range of challenges. Even experienced teams can run into issues that quietly affect the quality of their work. A mislabeled column...]]></summary>
-        <author>
-            <name>Oyedele Tioluwani</name>
         </author>
     </entry>
 </feed>
