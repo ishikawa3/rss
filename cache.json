@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=390408",
+          "author": "Ryan Trimble",
+          "description": "The extremely new framework that caught lots of attention will continue as a personal project.\nQuiet UI Came and Went, Quiet as a Mouse originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/quiet-ui-came-and-went-quiet-as-a-mouse/",
+          "publishedOn": "2025-11-14T15:32:50.000Z",
+          "wordCount": 1860,
+          "title": "Quiet UI Came and Went, Quiet as a Mouse",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/11/quiet-ui.png"
+        },
+        {
           "id": "https://css-tricks.com/?p=390178",
           "author": "Daniel Schwarz",
           "description": "Being able to use the range syntax with container style queries — which we can do starting with Chrome 142 — means that we can compare literal numeric values as well as numeric values tokenized by custom properties or the attr() function.\nThe Range Syntax Has Come to Container Style Queries and if() originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -115,21 +125,6 @@
           "wordCount": 2468,
           "title": "Building a Honeypot Field That Works",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2021/04/sticky-header.png"
-        },
-        {
-          "id": "https://css-tricks.com/?p=389737",
-          "author": "Temani Afif",
-          "description": "Let’s suppose you have N elements with the same animation that should animate sequentially. Modern CSS makes this easy and it works for any number of items!\nSequential linear() Animation With N Elements originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/sequential-linear-animation-with-n-elements/",
-          "publishedOn": "2025-10-15T13:39:39.000Z",
-          "wordCount": 3510,
-          "title": "Sequential linear() Animation With N Elements",
-          "enclosure": {
-            "url": "https://css-tricks.com/wp-content/uploads/2025/10/sequential-2.mov",
-            "length": "310986",
-            "type": "video/quicktime"
-          },
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/10/sequential-thumb.png"
         }
       ]
     },
@@ -138,6 +133,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2025/11/css-gamepad-api-visual-debugging-css-layers/",
+          "author": "hello@smashingmagazine.com (Godstime Aburu)",
+          "description": "Debugging controllers can be a real pain. Here’s a deep dive into how CSS helps clean it up and how to build a reusable visual debugger for your own projects.",
+          "link": "https://smashingmagazine.com/2025/11/css-gamepad-api-visual-debugging-css-layers/",
+          "publishedOn": "2025-11-14T13:00:00.000Z",
+          "wordCount": 6492,
+          "title": "CSS Gamepad API Visual Debugging With CSS Layers",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/css-gamepad-api-visual-debugging-css-layers/css-gamepad-api-visual-debugging-css-layers.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/css-gamepad-api-visual-debugging-css-layers/css-gamepad-api-visual-debugging-css-layers.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2025/11/older-tech-browser-stack/",
           "author": "hello@smashingmagazine.com (Bryan Rasmussen)",
@@ -285,6 +295,36 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "691770eb5879bafaa784b694",
+          "author": "Manish Shivanandhan",
+          "description": "If you’re a developer looking for a simple, fast, and self-hosted backend, PocketBase might be exactly what you need.  It’s an open-source backend written in Go that lets you set up a complete backend with database, authentication, file storage, and ...",
+          "link": "https://www.freecodecamp.org/news/how-to-get-started-with-pocketbase-build-a-lightweight-backend-in-minutes/",
+          "publishedOn": "2025-11-14T18:11:55.000Z",
+          "wordCount": 2512,
+          "title": "How to Get Started with PocketBase: Build a Lightweight Backend in Minutes",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1763143867523/1a4c8cd4-629f-4dd7-8a82-5b6d0d34d90e.png"
+        },
+        {
+          "id": "69174b1090e746d252948913",
+          "author": "Beau Carnes",
+          "description": "Dr. David J. Malan teaches computer science at Harvard. Over the past decade, millions of people have taken his CS50 course both in person and online. He joins us to talk about: Why he still recommends learning the C programming language in 2026 Ho...",
+          "link": "https://www.freecodecamp.org/news/harvard-cs50-prof-david-j-malan-on-why-you-should-learn-programming-slowly-podcast-197/",
+          "publishedOn": "2025-11-14T15:30:24.000Z",
+          "wordCount": 1305,
+          "title": "Harvard CS50 prof David J. Malan on why you should learn programming slowly [Podcast #197]",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1763049586370/5f7786af-7213-444f-acff-a8060ccbfc88.jpeg"
+        },
+        {
+          "id": "691740a91f4fa448325a55f9",
+          "author": "Nneoma Uche",
+          "description": "Several languages and frameworks depend on dependency injection—no pun intended. Go, Angular, NestJS, and Python's FastAPI all use it as a core pattern. If you've been working with FastAPI, you've likely encountered dependencies in action. Perhaps yo...",
+          "link": "https://www.freecodecamp.org/news/how-to-implement-dependency-injection-in-fastapi/",
+          "publishedOn": "2025-11-14T14:46:01.000Z",
+          "wordCount": 3191,
+          "title": "How to Implement Dependency Injection in FastAPI",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1763131442081/76eff35b-be68-49c1-9743-d78ebc87b292.png"
+        },
         {
           "id": "69164b0a612455db63b30bdc",
           "author": "Manish Shivanandhan",
@@ -994,46 +1034,6 @@
           "wordCount": 2683,
           "title": "How to Optimize a Graphical React Codebase — Optimize d3-zoom and dnd-kit Code",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1760617553059/99fd830f-39a8-4067-9727-e9b35850168d.png"
-        },
-        {
-          "id": "68f034017abb7495f91ce942",
-          "author": "Destiny Erhabor",
-          "description": "Amazon Elastic Kubernetes Service (EKS) Security Groups for Pods is a powerful feature that enables fine-grained network security controls at the pod level. This guide walks you through implementing this feature, from initial cluster setup to testing...",
-          "link": "https://www.freecodecamp.org/news/how-to-create-kubernetes-cluster-and-security-groups-for-pods-in-aws-handbook/",
-          "publishedOn": "2025-10-15T23:53:37.000Z",
-          "wordCount": 12094,
-          "title": "How to Create Kubernetes Cluster and Security Groups for Pods in AWS [Full Handbook]",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1760572399710/e6ff9b5b-2fa5-4e61-9b89-9b68c81e6d46.png"
-        },
-        {
-          "id": "68effb6136e271937e23c188",
-          "author": "Ayodele Aransiola",
-          "description": "When you’re building an application, not all users should have the same level of access. For example, an admin might be able to update or delete some data (logs excluded), while a regular user should only be able to read it. This is where Role-Based ...",
-          "link": "https://www.freecodecamp.org/news/firebase-rbac-custom-claims-rules/",
-          "publishedOn": "2025-10-15T19:52:01.000Z",
-          "wordCount": 2679,
-          "title": "How to Create Role-Based Access Control (RBAC) with Custom Claims Using Firebase Rules",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1760557889448/ac51a7a3-cdd8-46c9-964d-a7e281e1affc.png"
-        },
-        {
-          "id": "68efe8d446ad0f2d5932c5e1",
-          "author": "Shola Jegede",
-          "description": "OpenAI recently introduced ChatGPT Apps, powered by the new Apps SDK and the Model Context Protocol (MCP). Think of these apps as plugins for ChatGPT: You can invoke them naturally in a conversation. They can render custom interactive UIs inside Ch...",
-          "link": "https://www.freecodecamp.org/news/how-to-use-the-chatgpt-apps-sdk/",
-          "publishedOn": "2025-10-15T18:32:52.000Z",
-          "wordCount": 2430,
-          "title": "How to Use the ChatGPT Apps SDK: Build a Pizza App with Apps SDK",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1760552846436/808fcd59-4dbc-4874-bd62-2e13965f956c.png"
-        },
-        {
-          "id": "68efa0d05ce970770a3adb0d",
-          "author": "Beau Carnes",
-          "description": "MCP is the standard rule set that allows AI agents, like GitHub Copilot and Gemini, to securely and intelligently interact with your databases, functions, and applications. We just published a course on the freeCodeCamp.org YouTube channel that will ...",
-          "link": "https://www.freecodecamp.org/news/learn-mcp-essentials-and-how-to-create-secure-agent-interfaces-with-fastmcp/",
-          "publishedOn": "2025-10-15T13:25:36.000Z",
-          "wordCount": 1018,
-          "title": "Learn MCP Essentials and How to Create Secure Agent Interfaces with FastMCP",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1760534715163/1a67eac0-9857-4b66-b319-0cb945debf88.png"
         }
       ]
     }

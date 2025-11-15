@@ -2,10 +2,61 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-14T00:15:32.869Z</updated>
+    <updated>2025-11-15T00:14:34.220Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Get Started with PocketBase: Build a Lightweight Backend in Minutes]]></title>
+        <id>691770eb5879bafaa784b694</id>
+        <link href="https://www.freecodecamp.org/news/how-to-get-started-with-pocketbase-build-a-lightweight-backend-in-minutes/"/>
+        <updated>2025-11-14T18:11:55.000Z</updated>
+        <summary type="html"><![CDATA[If you’re a developer looking for a simple, fast, and self-hosted backend, PocketBase might be exactly what you need.  It’s an open-source backend written in Go that lets you set up a complete backend with database, authentication, file storage, and ...]]></summary>
+        <author>
+            <name>Manish Shivanandhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Quiet UI Came and Went, Quiet as a Mouse]]></title>
+        <id>https://css-tricks.com/?p=390408</id>
+        <link href="https://css-tricks.com/quiet-ui-came-and-went-quiet-as-a-mouse/"/>
+        <updated>2025-11-14T15:32:50.000Z</updated>
+        <summary type="html"><![CDATA[The extremely new framework that caught lots of attention will continue as a personal project.
+Quiet UI Came and Went, Quiet as a Mouse originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Ryan Trimble</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Harvard CS50 prof David J. Malan on why you should learn programming slowly [Podcast #197]]]></title>
+        <id>69174b1090e746d252948913</id>
+        <link href="https://www.freecodecamp.org/news/harvard-cs50-prof-david-j-malan-on-why-you-should-learn-programming-slowly-podcast-197/"/>
+        <updated>2025-11-14T15:30:24.000Z</updated>
+        <summary type="html"><![CDATA[Dr. David J. Malan teaches computer science at Harvard. Over the past decade, millions of people have taken his CS50 course both in person and online. He joins us to talk about: Why he still recommends learning the C programming language in 2026 Ho...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Implement Dependency Injection in FastAPI]]></title>
+        <id>691740a91f4fa448325a55f9</id>
+        <link href="https://www.freecodecamp.org/news/how-to-implement-dependency-injection-in-fastapi/"/>
+        <updated>2025-11-14T14:46:01.000Z</updated>
+        <summary type="html"><![CDATA[Several languages and frameworks depend on dependency injection—no pun intended. Go, Angular, NestJS, and Python's FastAPI all use it as a core pattern. If you've been working with FastAPI, you've likely encountered dependencies in action. Perhaps yo...]]></summary>
+        <author>
+            <name>Nneoma Uche</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSS Gamepad API Visual Debugging With CSS Layers]]></title>
+        <id>https://smashingmagazine.com/2025/11/css-gamepad-api-visual-debugging-css-layers/</id>
+        <link href="https://smashingmagazine.com/2025/11/css-gamepad-api-visual-debugging-css-layers/"/>
+        <updated>2025-11-14T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Debugging controllers can be a real pain. Here’s a deep dive into how CSS helps clean it up and how to build a reusable visual debugger for your own projects.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Godstime Aburu)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[From Pixels to Predictions: How GPUs Started Powering Modern AI]]></title>
         <id>69164b0a612455db63b30bdc</id>
@@ -914,57 +965,6 @@ Building a Honeypot Field That Works originally published on CSS-Tricks, which i
         <summary type="html"><![CDATA[Miro and Figma are online collaborative canvas tools that became very popular during the pandemic. Instead of using sticky notes on a physical wall, you can add a virtual post—and an array of other things—to a virtual canvas. This lets teams collabor...]]></summary>
         <author>
             <name>Cedd Burge</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Create Kubernetes Cluster and Security Groups for Pods in AWS [Full Handbook]]]></title>
-        <id>68f034017abb7495f91ce942</id>
-        <link href="https://www.freecodecamp.org/news/how-to-create-kubernetes-cluster-and-security-groups-for-pods-in-aws-handbook/"/>
-        <updated>2025-10-15T23:53:37.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Elastic Kubernetes Service (EKS) Security Groups for Pods is a powerful feature that enables fine-grained network security controls at the pod level. This guide walks you through implementing this feature, from initial cluster setup to testing...]]></summary>
-        <author>
-            <name>Destiny Erhabor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Create Role-Based Access Control (RBAC) with Custom Claims Using Firebase Rules]]></title>
-        <id>68effb6136e271937e23c188</id>
-        <link href="https://www.freecodecamp.org/news/firebase-rbac-custom-claims-rules/"/>
-        <updated>2025-10-15T19:52:01.000Z</updated>
-        <summary type="html"><![CDATA[When you’re building an application, not all users should have the same level of access. For example, an admin might be able to update or delete some data (logs excluded), while a regular user should only be able to read it. This is where Role-Based ...]]></summary>
-        <author>
-            <name>Ayodele Aransiola</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use the ChatGPT Apps SDK: Build a Pizza App with Apps SDK]]></title>
-        <id>68efe8d446ad0f2d5932c5e1</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-the-chatgpt-apps-sdk/"/>
-        <updated>2025-10-15T18:32:52.000Z</updated>
-        <summary type="html"><![CDATA[OpenAI recently introduced ChatGPT Apps, powered by the new Apps SDK and the Model Context Protocol (MCP). Think of these apps as plugins for ChatGPT: You can invoke them naturally in a conversation. They can render custom interactive UIs inside Ch...]]></summary>
-        <author>
-            <name>Shola Jegede</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sequential linear() Animation With N Elements]]></title>
-        <id>https://css-tricks.com/?p=389737</id>
-        <link href="https://css-tricks.com/sequential-linear-animation-with-n-elements/"/>
-        <updated>2025-10-15T13:39:39.000Z</updated>
-        <summary type="html"><![CDATA[Let’s suppose you have N elements with the same animation that should animate sequentially. Modern CSS makes this easy and it works for any number of items!
-Sequential linear() Animation With N Elements originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Temani Afif</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn MCP Essentials and How to Create Secure Agent Interfaces with FastMCP]]></title>
-        <id>68efa0d05ce970770a3adb0d</id>
-        <link href="https://www.freecodecamp.org/news/learn-mcp-essentials-and-how-to-create-secure-agent-interfaces-with-fastmcp/"/>
-        <updated>2025-10-15T13:25:36.000Z</updated>
-        <summary type="html"><![CDATA[MCP is the standard rule set that allows AI agents, like GitHub Copilot and Gemini, to securely and intelligently interact with your databases, functions, and applications. We just published a course on the freeCodeCamp.org YouTube channel that will ...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
         </author>
     </entry>
 </feed>
