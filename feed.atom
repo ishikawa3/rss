@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-15T00:14:34.220Z</updated>
+    <updated>2025-11-16T00:16:40.521Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
@@ -925,46 +925,6 @@ Building a Honeypot Field That Works originally published on CSS-Tricks, which i
         <summary type="html"><![CDATA[Kaleb Garner is a software engineer working at a medical technology app company. He got a scholarship to play baseball at a state university, but a serious knee injury ended his career and he dropped out. After moving back in with his parents and wor...]]></summary>
         <author>
             <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI In UX: Achieve More With Less]]></title>
-        <id>https://smashingmagazine.com/2025/10/ai-ux-achieve-more-with-less/</id>
-        <link href="https://smashingmagazine.com/2025/10/ai-ux-achieve-more-with-less/"/>
-        <updated>2025-10-17T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A simple but powerful mental model for working with AI: treat it like an enthusiastic intern with no real-world experience. Paul Boag shares lessons learned from real client projects across user research, design, development, and content creation.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Paul Boag)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build End-to-End Machine Learning Lineage]]></title>
-        <id>68f0f6719ac2ae80d4c5be03</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-end-to-end-machine-learning-lineage/"/>
-        <updated>2025-10-16T13:43:13.000Z</updated>
-        <summary type="html"><![CDATA[Machine learning lineage is critical in any robust ML system. It lets you track data and model versions, ensuring reproducibility, auditability, and compliance. While many services for tracking ML lineage exist, creating a comprehensive and manageabl...]]></summary>
-        <author>
-            <name>Kuriko Iwai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Make Your UX Research Hard To Ignore]]></title>
-        <id>https://smashingmagazine.com/2025/10/how-make-ux-research-hard-to-ignore/</id>
-        <link href="https://smashingmagazine.com/2025/10/how-make-ux-research-hard-to-ignore/"/>
-        <updated>2025-10-16T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Research isn’t everything. Facts alone don’t win arguments, but powerful stories do. Here’s how to turn your research into narratives that inspire trust and influence decisions.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Optimize a Graphical React Codebase — Optimize d3-zoom and dnd-kit Code]]></title>
-        <id>68f0e6e94d664bb368c83f39</id>
-        <link href="https://www.freecodecamp.org/news/how-to-optimize-a-graphical-react-codebase/"/>
-        <updated>2025-10-16T12:36:57.000Z</updated>
-        <summary type="html"><![CDATA[Miro and Figma are online collaborative canvas tools that became very popular during the pandemic. Instead of using sticky notes on a physical wall, you can add a virtual post—and an array of other things—to a virtual canvas. This lets teams collabor...]]></summary>
-        <author>
-            <name>Cedd Burge</name>
         </author>
     </entry>
 </feed>
