@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-16T00:16:40.521Z</updated>
+    <updated>2025-11-17T00:15:46.432Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
@@ -895,36 +895,6 @@ An Introduction to JavaScript Expressions originally published on CSS-Tricks, wh
 Building a Honeypot Field That Works originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Zell Liew</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Parse INI Config Files in Python with Configparser]]></title>
-        <id>68f25c6d7d9fdcba5704db2e</id>
-        <link href="https://www.freecodecamp.org/news/how-to-parse-ini-config-files-in-python-with-configparser/"/>
-        <updated>2025-10-17T15:10:37.000Z</updated>
-        <summary type="html"><![CDATA[Configuration files provide a structured way to manage application settings that's more organized than environment variables alone. INI files, short for initialization files, with their simple section-based format, are both easy to read and parse. Py...]]></summary>
-        <author>
-            <name>Bala Priya C</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Concurrency vs. Parallelism: What’s the Difference and Why Should You Care?]]></title>
-        <id>68f25bf491a578e35f37419a</id>
-        <link href="https://www.freecodecamp.org/news/concurrency-vs-parallelism-whats-the-difference-and-why-should-you-care/"/>
-        <updated>2025-10-17T15:08:36.000Z</updated>
-        <summary type="html"><![CDATA[In software engineering, certain concepts appear deceptively simple at first glance but fundamentally shape the way we design and architect systems. Concurrency and parallelism are two such concepts that warrant careful examination. These terms are f...]]></summary>
-        <author>
-            <name>Wisdom Usa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[From Injured Athlete to Software Engineer with Kaleb Garner [Podcast #193]]]></title>
-        <id>68f24bea01eb0109ec07deaf</id>
-        <link href="https://www.freecodecamp.org/news/from-injured-athlete-to-software-engineer-with-kaleb-garner-podcast-193/"/>
-        <updated>2025-10-17T14:00:10.000Z</updated>
-        <summary type="html"><![CDATA[Kaleb Garner is a software engineer working at a medical technology app company. He got a scholarship to play baseball at a state university, but a serious knee injury ended his career and he dropped out. After moving back in with his parents and wor...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
         </author>
     </entry>
 </feed>

@@ -954,36 +954,6 @@
           "wordCount": 4402,
           "title": "How to Build a Full-Stack Serverless CRUD App using AWS and React",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1761064422167/c0a6b8ed-a500-43f2-820f-42fef5d73275.png"
-        },
-        {
-          "id": "68f25c6d7d9fdcba5704db2e",
-          "author": "Bala Priya C",
-          "description": "Configuration files provide a structured way to manage application settings that's more organized than environment variables alone. INI files, short for initialization files, with their simple section-based format, are both easy to read and parse. Py...",
-          "link": "https://www.freecodecamp.org/news/how-to-parse-ini-config-files-in-python-with-configparser/",
-          "publishedOn": "2025-10-17T15:10:37.000Z",
-          "wordCount": 1840,
-          "title": "How to Parse INI Config Files in Python with Configparser",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1760712555277/4eabf2d7-fa9d-445b-8e0a-6ebdee53790c.png"
-        },
-        {
-          "id": "68f25bf491a578e35f37419a",
-          "author": "Wisdom Usa",
-          "description": "In software engineering, certain concepts appear deceptively simple at first glance but fundamentally shape the way we design and architect systems. Concurrency and parallelism are two such concepts that warrant careful examination. These terms are f...",
-          "link": "https://www.freecodecamp.org/news/concurrency-vs-parallelism-whats-the-difference-and-why-should-you-care/",
-          "publishedOn": "2025-10-17T15:08:36.000Z",
-          "wordCount": 4760,
-          "title": "Concurrency vs. Parallelism: What’s the Difference and Why Should You Care?",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1760622633358/ad43bbd8-116c-42eb-95b7-0ef70156983a.png"
-        },
-        {
-          "id": "68f24bea01eb0109ec07deaf",
-          "author": "Beau Carnes",
-          "description": "Kaleb Garner is a software engineer working at a medical technology app company. He got a scholarship to play baseball at a state university, but a serious knee injury ended his career and he dropped out. After moving back in with his parents and wor...",
-          "link": "https://www.freecodecamp.org/news/from-injured-athlete-to-software-engineer-with-kaleb-garner-podcast-193/",
-          "publishedOn": "2025-10-17T14:00:10.000Z",
-          "wordCount": 1359,
-          "title": "From Injured Athlete to Software Engineer with Kaleb Garner [Podcast #193]",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1760664742970/351fa4e4-e5bb-480c-aa04-c0252ca70978.png"
         }
       ]
     }
