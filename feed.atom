@@ -2,10 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-17T00:15:46.432Z</updated>
+    <updated>2025-11-18T00:15:40.984Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Add Real-Time Web Search to Your LLM Using Tavily]]></title>
+        <id>691b909391d8c0f995d8ddc4</id>
+        <link href="https://www.freecodecamp.org/news/how-to-add-real-time-web-search-to-your-llm-using-tavily/"/>
+        <updated>2025-11-17T21:16:03.000Z</updated>
+        <summary type="html"><![CDATA[Large language models are smart. But they are not always well-informed. They can write code, summarize books, and explain complex topics, but they struggle with real-time facts. Their knowledge ends at their training cutoff, which means they can’t te...]]></summary>
+        <author>
+            <name>Manish Shivanandhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Create Fluid Animations with React Native Reanimated v4]]></title>
+        <id>691b3eab5aa173ac953652e2</id>
+        <link href="https://www.freecodecamp.org/news/how-to-create-fluid-animations-with-react-native-reanimated-v4/"/>
+        <updated>2025-11-17T15:26:35.000Z</updated>
+        <summary type="html"><![CDATA[Reanimated 4 brings Cascading Style Sheets (CSS) animations to React Native while keeping full backward compatibility with its worklet-based API. You can now build 60+ frames-per-second (FPS) animations using familiar web syntax, or drop down to work...]]></summary>
+        <author>
+            <name>Balogun Wahab</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intro to Backend Web Development – Node.js, Express, MongoDB]]></title>
+        <id>691b3887dbd8303d75f4137c</id>
+        <link href="https://www.freecodecamp.org/news/intro-to-backend-web-development-nodejs-express-mongodb/"/>
+        <updated>2025-11-17T15:00:23.000Z</updated>
+        <summary type="html"><![CDATA[Backend development involves building the server-side "brain" of a website that manages user data, authentication, and database communication. We just posted a tutorial on the freeCodeCamp.org YouTube channel that will teach you how to construct a ba...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The “Most Hated” CSS Feature: asin(), acos(), atan() and atan2()]]></title>
+        <id>https://css-tricks.com/?p=390236</id>
+        <link href="https://css-tricks.com/the-most-hated-css-feature-asin-acos-atan-and-atan2/"/>
+        <updated>2025-11-17T14:47:54.000Z</updated>
+        <summary type="html"><![CDATA[If we have a ratio that represents the sine, cosine or tangent of an angle, how can we get the original angle? This is where inverse trigonometric functions come in!
+The “Most Hated” CSS Feature: asin(), acos(), atan() and atan2() originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Juan Diego Rodríguez</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Get Started with PocketBase: Build a Lightweight Backend in Minutes]]></title>
         <id>691770eb5879bafaa784b694</id>

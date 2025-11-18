@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=390236",
+          "author": "Juan Diego Rodríguez",
+          "description": "If we have a ratio that represents the sine, cosine or tangent of an angle, how can we get the original angle? This is where inverse trigonometric functions come in!\nThe “Most Hated” CSS Feature: asin(), acos(), atan() and atan2() originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/the-most-hated-css-feature-asin-acos-atan-and-atan2/",
+          "publishedOn": "2025-11-17T14:47:54.000Z",
+          "wordCount": 4131,
+          "title": "The “Most Hated” CSS Feature: asin(), acos(), atan() and atan2()",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/11/css-trig-unit-circle-diagram.jpg"
+        },
+        {
           "id": "https://css-tricks.com/?p=390408",
           "author": "Ryan Trimble",
           "description": "The extremely new framework that caught lots of attention will continue as a personal project.\nQuiet UI Came and Went, Quiet as a Mouse originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -265,6 +275,36 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "691b909391d8c0f995d8ddc4",
+          "author": "Manish Shivanandhan",
+          "description": "Large language models are smart. But they are not always well-informed. They can write code, summarize books, and explain complex topics, but they struggle with real-time facts. Their knowledge ends at their training cutoff, which means they can’t te...",
+          "link": "https://www.freecodecamp.org/news/how-to-add-real-time-web-search-to-your-llm-using-tavily/",
+          "publishedOn": "2025-11-17T21:16:03.000Z",
+          "wordCount": 2111,
+          "title": "How to Add Real-Time Web Search to Your LLM Using Tavily",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1763414073220/a9ec7f2d-515e-4d1e-9150-a72450d8aec3.png"
+        },
+        {
+          "id": "691b3eab5aa173ac953652e2",
+          "author": "Balogun Wahab",
+          "description": "Reanimated 4 brings Cascading Style Sheets (CSS) animations to React Native while keeping full backward compatibility with its worklet-based API. You can now build 60+ frames-per-second (FPS) animations using familiar web syntax, or drop down to work...",
+          "link": "https://www.freecodecamp.org/news/how-to-create-fluid-animations-with-react-native-reanimated-v4/",
+          "publishedOn": "2025-11-17T15:26:35.000Z",
+          "wordCount": 5057,
+          "title": "How to Create Fluid Animations with React Native Reanimated v4",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1763052228638/4416e81d-b76e-4c40-987e-0aff1d82ff7b.png"
+        },
+        {
+          "id": "691b3887dbd8303d75f4137c",
+          "author": "Beau Carnes",
+          "description": "Backend development involves building the server-side \"brain\" of a website that manages user data, authentication, and database communication. We just posted a tutorial on the freeCodeCamp.org YouTube channel that will teach you how to construct a ba...",
+          "link": "https://www.freecodecamp.org/news/intro-to-backend-web-development-nodejs-express-mongodb/",
+          "publishedOn": "2025-11-17T15:00:23.000Z",
+          "wordCount": 1211,
+          "title": "Intro to Backend Web Development – Node.js, Express, MongoDB",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1763372629451/d682e5f7-31d1-48af-8957-8e916b7b506a.jpeg"
+        },
         {
           "id": "691770eb5879bafaa784b694",
           "author": "Manish Shivanandhan",
