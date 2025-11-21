@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=390115",
+          "author": "Sunkanmi Fafowora",
+          "description": "Is there really a difference between using :not(:open) and :closed? As always, it depends. Sunkanmi Fafowora explains why :closed is currently not a thing.\nShould We Even Have :closed? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/should-we-even-have-closed/",
+          "publishedOn": "2025-11-20T15:10:26.000Z",
+          "wordCount": 2420,
+          "title": "Should We Even Have :closed?",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2018/12/opinon-this-that-signs.png"
+        },
+        {
           "id": "https://css-tricks.com/?p=390236",
           "author": "Juan Diego Rodríguez",
           "description": "If we have a ratio that represents the sine, cosine or tangent of an angle, how can we get the original angle? This is where inverse trigonometric functions come in!\nThe “Most Hated” CSS Feature: asin(), acos(), atan() and atan2() originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -1014,56 +1024,6 @@
           "wordCount": 14535,
           "title": "How to Build Scalable and Performant Flutter Applications: A Handbook for Devs",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1761148722038/f62b83ec-edba-458c-b9ff-5b4651375b0f.png"
-        },
-        {
-          "id": "68f7d9011382e7a69eb7903e",
-          "author": "Md. Fahim Bin Amin",
-          "description": "Tables are one of the most useful ways to display structured data, whether you’re showing a list of users, sales figures, or project reports. In this tutorial, you will learn how to: Build tables using plain HTML Style them using CSS Create and ma...",
-          "link": "https://www.freecodecamp.org/news/how-to-create-and-style-tables-with-vanilla-javascript/",
-          "publishedOn": "2025-10-21T19:03:29.000Z",
-          "wordCount": 2395,
-          "title": "How to Create and Style Tables with Vanilla JavaScript",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1761066375438/ad2ff6f1-336c-4d32-89f7-3294a4bfebbd.png"
-        },
-        {
-          "id": "68f7d890413573e1d65bb331",
-          "author": "Michael Yuan",
-          "description": "Voice is the next frontier of conversational AI. It is the most natural modality for people to chat and interact with another intelligent being. In the past year, frontier AI labs such as OpenAI, xAI, Anthropic, Meta, and Google have all released rea...",
-          "link": "https://www.freecodecamp.org/news/how-to-build-a-voice-ai-agent-using-open-source-tools/",
-          "publishedOn": "2025-10-21T19:01:36.000Z",
-          "wordCount": 3209,
-          "title": "How to Build a Voice AI Agent Using Open-Source Tools",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1761073279608/a73ce2cd-c95e-4f8b-b529-8774ce39a43f.png"
-        },
-        {
-          "id": "68f7d7315429f082cb2c9593",
-          "author": "Beau Carnes",
-          "description": "Learn how to master technical interviews for software engineering roles. We just posted a 49-hour course on the freeCodeCamp.org YouTube channel that will teach you everything you need to know about data structures and algorithms. Parth Vyas created ...",
-          "link": "https://www.freecodecamp.org/news/master-technical-interviews-by-learning-data-structures-and-algorithms/",
-          "publishedOn": "2025-10-21T18:55:45.000Z",
-          "wordCount": 1090,
-          "title": "Master Technical Interviews by Learning Data Structures and Algorithms",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1761072883079/51bad868-b848-41d9-8f01-15f56632d4ef.jpeg"
-        },
-        {
-          "id": "68f7d59ad8e7070995147d16",
-          "author": "Beau Carnes",
-          "description": "Learn how to create a complete iOS app from scratch using SwiftUI and Xcode. We just posted a course on the freeCodeCamp.org YouTube channel that will teach you to build a feature-rich movie and TV browsing app with a dynamic home screen, powerful se...",
-          "link": "https://www.freecodecamp.org/news/learn-swiftui-and-create-an-ios-app-from-scratch/",
-          "publishedOn": "2025-10-21T18:48:58.000Z",
-          "wordCount": 980,
-          "title": "Learn SwiftUI and Create an iOS App From Scratch",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1761072521870/418af7e2-c265-4088-8432-19dad9d1b194.jpeg"
-        },
-        {
-          "id": "68f7b6ca9d4df532a83f12f7",
-          "author": "Chisom Uma",
-          "description": "Imagine running a production application that automatically scales from zero to thousands of users without ever touching a server configuration. That's the power of serverless architecture, and it's easier to implement than you might think. If you're...",
-          "link": "https://www.freecodecamp.org/news/how-to-build-a-full-stack-serverless-app/",
-          "publishedOn": "2025-10-21T16:37:30.000Z",
-          "wordCount": 4402,
-          "title": "How to Build a Full-Stack Serverless CRUD App using AWS and React",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1761064422167/c0a6b8ed-a500-43f2-820f-42fef5d73275.png"
         }
       ]
     }
