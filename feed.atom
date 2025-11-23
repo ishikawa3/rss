@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-22T00:14:33.245Z</updated>
+    <updated>2025-11-23T00:17:44.871Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
@@ -946,16 +946,6 @@ CSS Animations That Leverage the Parent-Child Relationship originally published 
         <summary type="html"><![CDATA[Eric Carlson is a self-taught software engineer at Cisco. In his early 20s, he worked his way up to manager at the busiest Dominos Pizza in Canada. He eventually went to college and studied liberal arts, then worked as a teacher for two decades befor...]]></summary>
         <author>
             <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Do AI Agents Work?]]></title>
-        <id>68fa5f0711038bf3130f454d</id>
-        <link href="https://www.freecodecamp.org/news/how-do-ai-agents-work/"/>
-        <updated>2025-10-23T16:59:51.000Z</updated>
-        <summary type="html"><![CDATA[When people talk about AI agents, they often imagine something futuristic that can think, talk, and make decisions.  But the truth is, AI agents are already here. And they are working quietly in the background. They answer customer questions, schedul...]]></summary>
-        <author>
-            <name>Manish Shivanandhan</name>
         </author>
     </entry>
 </feed>
