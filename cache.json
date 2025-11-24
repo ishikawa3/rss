@@ -949,66 +949,6 @@
           "wordCount": 3206,
           "title": "How to Set Up a Registry in shadcn",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1761575215365/54597001-a10f-4a3d-a082-3eb5ac8b9a7d.png"
-        },
-        {
-          "id": "68fbd8942f09b776064b952c",
-          "author": "Bala Priya C",
-          "description": "TOML (Tom's Obvious Minimal Language) has become the modern standard for configuration files in Python projects. It's more expressive than INI files and cleaner than JSON or YAML. Since Python 3.11, the standard library includes the tomllib module fo...",
-          "link": "https://www.freecodecamp.org/news/how-to-work-with-toml-files-in-python/",
-          "publishedOn": "2025-10-24T19:50:44.000Z",
-          "wordCount": 1812,
-          "title": "How to Work with TOML Files in Python",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1761335431619/2d4fefec-cdbb-4146-ae9c-24468b483278.png"
-        },
-        {
-          "id": "68fbd8268c0c93a0a754d14e",
-          "author": "Manish Shivanandhan",
-          "description": "The world of artificial intelligence is moving fast. Every week, it seems like there’s a new tool, framework, or model that promises to make AI better. But as developers build more AI applications, one big problem keeps showing up: the lack of contex...",
-          "link": "https://www.freecodecamp.org/news/how-the-model-context-protocol-works/",
-          "publishedOn": "2025-10-24T19:48:54.000Z",
-          "wordCount": 2609,
-          "title": "How the Model Context Protocol Works",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1761335265026/4e06906c-3f4b-4f88-b49d-8bc58f984e55.png"
-        },
-        {
-          "id": "68fbd79c4ea129b1fef69825",
-          "author": "Atuoha Anthony",
-          "description": "Software development is moving fast toward AI-assisted workflows and smarter tooling. Whether it’s your IDE completing code, an AI assistant analyzing your project, or automated testing pipelines, all these tools need a standardized way to communicat...",
-          "link": "https://www.freecodecamp.org/news/how-to-use-the-model-context-protocol-mcp-with-flutter-and-dart/",
-          "publishedOn": "2025-10-24T19:46:36.000Z",
-          "wordCount": 5286,
-          "title": "How to Use the Model Context Protocol (MCP) with Flutter and Dart",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1761335181944/18a2fe98-2d77-490c-8b80-5f254c3f9c99.png"
-        },
-        {
-          "id": "68fba9c10656b6400beb0762",
-          "author": "Sumit Saha",
-          "description": "JavaScript is a single-threaded programming language, and Node.js is the runtime environment for JavaScript. This means that JavaScript essentially runs within Node.js, and all operations are handled through a single thread. But when we perform tasks...",
-          "link": "https://www.freecodecamp.org/news/how-to-implement-multi-threading-in-nodejs-with-worker-threads-full-handbook/",
-          "publishedOn": "2025-10-24T16:30:57.000Z",
-          "wordCount": 6588,
-          "title": "How to Implement Multi-Threading in Node.js With Worker Threads [Full Handbook]",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1761323431527/d74eb2ba-edaa-4d19-a041-364e99a705ba.png"
-        },
-        {
-          "id": "68fb8c95d81014dabb030226",
-          "author": "Opaluwa Emidowojo",
-          "description": "Since the advent of microservices, development teams have gained the flexibility to deploy services independently, without coordinating with the entire engineering organization. Bug fixes can be released in isolation without full regression testing, ...",
-          "link": "https://www.freecodecamp.org/news/improve-developer-experience-with-net-aspire/",
-          "publishedOn": "2025-10-24T14:26:29.000Z",
-          "wordCount": 3906,
-          "title": "How to Improve Developer Experience in Microservices Applications with .NET Aspire",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1761315727860/7321f413-ec87-47a8-b194-523c026f495b.png"
-        },
-        {
-          "id": "68fb89f65b2841c3f1a026ba",
-          "author": "Beau Carnes",
-          "description": "Eric Carlson is a self-taught software engineer at Cisco. In his early 20s, he worked his way up to manager at the busiest Dominos Pizza in Canada. He eventually went to college and studied liberal arts, then worked as a teacher for two decades befor...",
-          "link": "https://www.freecodecamp.org/news/first-dev-job-at-45-interview-with-self-taught-freecodecamp-grad-eric-carlson-podcast-194/",
-          "publishedOn": "2025-10-24T14:15:18.000Z",
-          "wordCount": 1406,
-          "title": "First dev job at 45 – Interview with self-taught freeCodeCamp grad Eric Carlson [Podcast #194]",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1761272138733/e738b6de-9f43-41b9-a7d4-b09d3d4182af.jpeg"
         }
       ]
     }

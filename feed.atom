@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-23T00:17:44.871Z</updated>
+    <updated>2025-11-24T00:16:33.953Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
@@ -878,56 +878,6 @@ Pure CSS Tabs With Details, Grid, and Subgrid originally published on CSS-Tricks
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Work with TOML Files in Python]]></title>
-        <id>68fbd8942f09b776064b952c</id>
-        <link href="https://www.freecodecamp.org/news/how-to-work-with-toml-files-in-python/"/>
-        <updated>2025-10-24T19:50:44.000Z</updated>
-        <summary type="html"><![CDATA[TOML (Tom's Obvious Minimal Language) has become the modern standard for configuration files in Python projects. It's more expressive than INI files and cleaner than JSON or YAML. Since Python 3.11, the standard library includes the tomllib module fo...]]></summary>
-        <author>
-            <name>Bala Priya C</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How the Model Context Protocol Works]]></title>
-        <id>68fbd8268c0c93a0a754d14e</id>
-        <link href="https://www.freecodecamp.org/news/how-the-model-context-protocol-works/"/>
-        <updated>2025-10-24T19:48:54.000Z</updated>
-        <summary type="html"><![CDATA[The world of artificial intelligence is moving fast. Every week, it seems like there’s a new tool, framework, or model that promises to make AI better. But as developers build more AI applications, one big problem keeps showing up: the lack of contex...]]></summary>
-        <author>
-            <name>Manish Shivanandhan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use the Model Context Protocol (MCP) with Flutter and Dart]]></title>
-        <id>68fbd79c4ea129b1fef69825</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-the-model-context-protocol-mcp-with-flutter-and-dart/"/>
-        <updated>2025-10-24T19:46:36.000Z</updated>
-        <summary type="html"><![CDATA[Software development is moving fast toward AI-assisted workflows and smarter tooling. Whether it’s your IDE completing code, an AI assistant analyzing your project, or automated testing pipelines, all these tools need a standardized way to communicat...]]></summary>
-        <author>
-            <name>Atuoha Anthony</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Implement Multi-Threading in Node.js With Worker Threads [Full Handbook]]]></title>
-        <id>68fba9c10656b6400beb0762</id>
-        <link href="https://www.freecodecamp.org/news/how-to-implement-multi-threading-in-nodejs-with-worker-threads-full-handbook/"/>
-        <updated>2025-10-24T16:30:57.000Z</updated>
-        <summary type="html"><![CDATA[JavaScript is a single-threaded programming language, and Node.js is the runtime environment for JavaScript. This means that JavaScript essentially runs within Node.js, and all operations are handled through a single thread. But when we perform tasks...]]></summary>
-        <author>
-            <name>Sumit Saha</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Improve Developer Experience in Microservices Applications with .NET Aspire]]></title>
-        <id>68fb8c95d81014dabb030226</id>
-        <link href="https://www.freecodecamp.org/news/improve-developer-experience-with-net-aspire/"/>
-        <updated>2025-10-24T14:26:29.000Z</updated>
-        <summary type="html"><![CDATA[Since the advent of microservices, development teams have gained the flexibility to deploy services independently, without coordinating with the entire engineering organization. Bug fixes can be released in isolation without full regression testing, ...]]></summary>
-        <author>
-            <name>Opaluwa Emidowojo</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[CSS Animations That Leverage the Parent-Child Relationship]]></title>
         <id>https://css-tricks.com/?p=389794</id>
         <link href="https://css-tricks.com/css-animations-that-leverage-the-parent-child-relationship/"/>
@@ -936,16 +886,6 @@ Pure CSS Tabs With Details, Grid, and Subgrid originally published on CSS-Tricks
 CSS Animations That Leverage the Parent-Child Relationship originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Preethi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[First dev job at 45 – Interview with self-taught freeCodeCamp grad Eric Carlson [Podcast #194]]]></title>
-        <id>68fb89f65b2841c3f1a026ba</id>
-        <link href="https://www.freecodecamp.org/news/first-dev-job-at-45-interview-with-self-taught-freecodecamp-grad-eric-carlson-podcast-194/"/>
-        <updated>2025-10-24T14:15:18.000Z</updated>
-        <summary type="html"><![CDATA[Eric Carlson is a self-taught software engineer at Cisco. In his early 20s, he worked his way up to manager at the busiest Dominos Pizza in Canada. He eventually went to college and studied liberal arts, then worked as a teacher for two decades befor...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
         </author>
     </entry>
 </feed>
