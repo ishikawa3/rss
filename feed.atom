@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-24T00:16:33.953Z</updated>
+    <updated>2025-11-25T00:14:27.537Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Simplify Your React Components with Derived State]]></title>
+        <id>6924c6fb01ae89275dfb14f6</id>
+        <link href="https://www.freecodecamp.org/news/simplify-react-components-with-derived-state/"/>
+        <updated>2025-11-24T20:58:35.000Z</updated>
+        <summary type="html"><![CDATA[React simplifies building user interfaces with hooks like useState for managing dynamic values. But it's common to overuse useState. This often leads to duplicated data and unnecessary complexity. For instance, you might store a full name in state wh...]]></summary>
+        <author>
+            <name>Olaleye Blessing</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[On Inheriting and Sharing Property Values]]></title>
+        <id>https://css-tricks.com/?p=389944</id>
+        <link href="https://css-tricks.com/on-inheriting-and-sharing-property-values/"/>
+        <updated>2025-11-24T14:22:30.000Z</updated>
+        <summary type="html"><![CDATA[There are many ways to share properties, but what would it look like to inherit and use any parent property value on a child?
+On Inheriting and Sharing Property Values originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Daniel Schwarz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Designing For Stress And Emergency]]></title>
+        <id>https://smashingmagazine.com/2025/11/designing-for-stress-emergency/</id>
+        <link href="https://smashingmagazine.com/2025/11/designing-for-stress-emergency/"/>
+        <updated>2025-11-24T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Practical guidelines on designing time-critical products that prevent errors and improve accuracy. Part of the Measure UX & Design Impact (use the code 🎟 IMPACT to save 20% off today). With a live UX training starting next week.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Manage Your Python Projects with Poetry]]></title>
         <id>6920d692526d14e1b0e126b7</id>
@@ -875,17 +906,6 @@ Pure CSS Tabs With Details, Grid, and Subgrid originally published on CSS-Tricks
         <summary type="html"><![CDATA[Here is a lesson on Iterators. Iterables implement the iterable iteration interface, and iterators implement the iterator iteration interface. Sounds confusing? Mat breaks it all down in the article.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Mat Marquis)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSS Animations That Leverage the Parent-Child Relationship]]></title>
-        <id>https://css-tricks.com/?p=389794</id>
-        <link href="https://css-tricks.com/css-animations-that-leverage-the-parent-child-relationship/"/>
-        <updated>2025-10-24T14:18:03.000Z</updated>
-        <summary type="html"><![CDATA[When we change an element’s intrinsic sizing, its children are affected, too. This is something we can use to our advantage.
-CSS Animations That Leverage the Parent-Child Relationship originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Preethi</name>
         </author>
     </entry>
 </feed>
