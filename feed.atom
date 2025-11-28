@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-27T00:15:11.197Z</updated>
+    <updated>2025-11-28T00:15:24.406Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The Accessibility Problem With Authentication Methods Like CAPTCHA]]></title>
+        <id>https://smashingmagazine.com/2025/11/accessibility-problem-authentication-methods-captcha/</id>
+        <link href="https://smashingmagazine.com/2025/11/accessibility-problem-authentication-methods-captcha/"/>
+        <updated>2025-11-27T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[CAPTCHAs were meant to keep bots out, but too often, they lock people with disabilities out, too. From image classification to click-based tests, many “human checks” are anything but inclusive. There’s no universal solution, but understanding real user needs is where accessibility truly starts.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Eleanor Hecks)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build an AI-Driven Search Experience using Meilisearch]]></title>
+        <id>692782273df4e33b78a46d72</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-an-ai-driven-search-experience-using-meilisearch/"/>
+        <updated>2025-11-26T22:41:43.000Z</updated>
+        <summary type="html"><![CDATA[Search is one of the most important features in modern applications. Users expect instant answers, useful suggestions, and results that match their intent even when they make spelling mistakes.  Most traditional search systems struggle to deliver thi...]]></summary>
+        <author>
+            <name>Manish Shivanandhan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Theming and Customization in Flutter: A Handbook for Developers]]></title>
         <id>6927302dc91eac2c85873f95</id>
@@ -885,46 +905,6 @@ Getting Creative With Small Screens originally published on CSS-Tricks, which is
         <summary type="html"><![CDATA[We just posted a course on the freeCodeCamp.org YouTube channel to help prepare you for the Certified Kubernetes Administrator Certification. This course is designed to provide a deep, practical understanding of Kubernetes administration, from founda...]]></summary>
         <author>
             <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Manage Assets in Flutter using  flutter_gen]]></title>
-        <id>69012bf59b2c5393aed5bccd</id>
-        <link href="https://www.freecodecamp.org/news/how-to-manage-assets-in-flutter-using-fluttergen/"/>
-        <updated>2025-10-28T20:47:49.000Z</updated>
-        <summary type="html"><![CDATA[Managing assets like images, icons, and fonts in a Flutter project can quickly become a tedious task, especially as your application grows. Manual referencing is prone to typos, introduces maintenance overhead, and can hinder team collaboration. Fort...]]></summary>
-        <author>
-            <name>Atuoha Anthony</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build Responsive UIs in Flutter]]></title>
-        <id>690108bed60a2bc774c2f435</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-responsive-uis-in-flutter/"/>
-        <updated>2025-10-28T18:17:34.000Z</updated>
-        <summary type="html"><![CDATA[Building responsive UIs in Flutter can be challenging, especially when you want your app to look great on phones, tablets, and desktops without maintaining multiple layouts. Fortunately, Flutter provides powerful tools like MediaQuery, LayoutBuilder,...]]></summary>
-        <author>
-            <name>Atuoha Anthony</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Chrome Extension That Analyzes Any Web Page Using JavaScript and Manifest V3]]></title>
-        <id>6900f612596c2221585d95a4</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-a-chrome-extension-using-javascript-and-manifest-v3/"/>
-        <updated>2025-10-28T16:57:54.000Z</updated>
-        <summary type="html"><![CDATA[Have you ever visited a website and wondered how well is this page structured? Does it have a meta description? How many links or headings does it use? Usually, you’d open DevTools or an SEO auditing tool to find answers to these questions. But what ...]]></summary>
-        <author>
-            <name>Hitesh Chauhan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build Your First Dynamic Performance Test in Apache JMeter]]></title>
-        <id>6900f3ca65a053299e38eab3</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-your-first-dynamic-performance-test-in-apache-jmeter/"/>
-        <updated>2025-10-28T16:48:10.000Z</updated>
-        <summary type="html"><![CDATA[As a QA engineer, I have always found performance testing to be one of the most exciting and underrated parts of software testing. Yes, functional testing is important, but it’s of little use if users have to wait for 5 seconds for each page to load....]]></summary>
-        <author>
-            <name>Mah Noor</name>
         </author>
     </entry>
 </feed>

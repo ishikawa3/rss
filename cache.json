@@ -124,6 +124,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2025/11/accessibility-problem-authentication-methods-captcha/",
+          "author": "hello@smashingmagazine.com (Eleanor Hecks)",
+          "description": "CAPTCHAs were meant to keep bots out, but too often, they lock people with disabilities out, too. From image classification to click-based tests, many “human checks” are anything but inclusive. There’s no universal solution, but understanding real user needs is where accessibility truly starts.",
+          "link": "https://smashingmagazine.com/2025/11/accessibility-problem-authentication-methods-captcha/",
+          "publishedOn": "2025-11-27T10:00:00.000Z",
+          "wordCount": 4703,
+          "title": "The Accessibility Problem With Authentication Methods Like CAPTCHA",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/accessibility-problem-authentication-methods-captcha/accessibility-problem-authentication-methods-captcha.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/accessibility-problem-authentication-methods-captcha/accessibility-problem-authentication-methods-captcha.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2025/11/design-system-culture/",
           "author": "hello@smashingmagazine.com (Ari Stiles)",
           "description": "We’re so happy to announce that “Maturing Design Systems”—a Smashing book by Ben Callahan — will soon be joining the Smashing Library! Ben’s insights and advice are so powerful, we thought you might like to read an excerpt from the book. Subscribe to our Smashing newsletter to be notified when orders are open.",
@@ -290,6 +305,16 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "692782273df4e33b78a46d72",
+          "author": "Manish Shivanandhan",
+          "description": "Search is one of the most important features in modern applications. Users expect instant answers, useful suggestions, and results that match their intent even when they make spelling mistakes.  Most traditional search systems struggle to deliver thi...",
+          "link": "https://www.freecodecamp.org/news/how-to-build-an-ai-driven-search-experience-using-meilisearch/",
+          "publishedOn": "2025-11-26T22:41:43.000Z",
+          "wordCount": 1997,
+          "title": "How to Build an AI-Driven Search Experience using Meilisearch",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1764196860843/a3dc07e2-6a90-4d4c-8b21-0f833ff41ac2.png"
+        },
         {
           "id": "6927302dc91eac2c85873f95",
           "author": "Atuoha Anthony",
@@ -949,46 +974,6 @@
           "wordCount": 3319,
           "title": "Prepare for the Kubernetes Administrator Certification and Pass",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1761739982392/f255a6af-6ec9-4136-b45f-6f14d4fb2c8c.jpeg"
-        },
-        {
-          "id": "69012bf59b2c5393aed5bccd",
-          "author": "Atuoha Anthony",
-          "description": "Managing assets like images, icons, and fonts in a Flutter project can quickly become a tedious task, especially as your application grows. Manual referencing is prone to typos, introduces maintenance overhead, and can hinder team collaboration. Fort...",
-          "link": "https://www.freecodecamp.org/news/how-to-manage-assets-in-flutter-using-fluttergen/",
-          "publishedOn": "2025-10-28T20:47:49.000Z",
-          "wordCount": 2703,
-          "title": "How to Manage Assets in Flutter using  flutter_gen",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1761684457969/a8a6b9bc-780f-4e06-bf8a-19b90cd632f4.png"
-        },
-        {
-          "id": "690108bed60a2bc774c2f435",
-          "author": "Atuoha Anthony",
-          "description": "Building responsive UIs in Flutter can be challenging, especially when you want your app to look great on phones, tablets, and desktops without maintaining multiple layouts. Fortunately, Flutter provides powerful tools like MediaQuery, LayoutBuilder,...",
-          "link": "https://www.freecodecamp.org/news/how-to-build-responsive-uis-in-flutter/",
-          "publishedOn": "2025-10-28T18:17:34.000Z",
-          "wordCount": 4959,
-          "title": "How to Build Responsive UIs in Flutter",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1761675310940/332589a7-55e0-4cb2-935e-aa1011709e2e.png"
-        },
-        {
-          "id": "6900f612596c2221585d95a4",
-          "author": "Hitesh Chauhan",
-          "description": "Have you ever visited a website and wondered how well is this page structured? Does it have a meta description? How many links or headings does it use? Usually, you’d open DevTools or an SEO auditing tool to find answers to these questions. But what ...",
-          "link": "https://www.freecodecamp.org/news/how-to-build-a-chrome-extension-using-javascript-and-manifest-v3/",
-          "publishedOn": "2025-10-28T16:57:54.000Z",
-          "wordCount": 2135,
-          "title": "How to Build a Chrome Extension That Analyzes Any Web Page Using JavaScript and Manifest V3",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1761670419000/13ac96ca-6e28-413f-a0e0-56ed353a007c.png"
-        },
-        {
-          "id": "6900f3ca65a053299e38eab3",
-          "author": "Mah Noor",
-          "description": "As a QA engineer, I have always found performance testing to be one of the most exciting and underrated parts of software testing. Yes, functional testing is important, but it’s of little use if users have to wait for 5 seconds for each page to load....",
-          "link": "https://www.freecodecamp.org/news/how-to-build-your-first-dynamic-performance-test-in-apache-jmeter/",
-          "publishedOn": "2025-10-28T16:48:10.000Z",
-          "wordCount": 2380,
-          "title": "How to Build Your First Dynamic Performance Test in Apache JMeter",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1761335397152/cb105a44-4c18-4998-9ffb-d520df0e6510.png"
         }
       ]
     }
