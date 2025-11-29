@@ -105,16 +105,6 @@
           "wordCount": 3512,
           "title": "The “Most Hated” CSS Feature: tan()",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/10/trig-tangent-graph.png"
-        },
-        {
-          "id": "https://css-tricks.com/?p=390031",
-          "author": "Andy Clarke",
-          "description": "On mobile, people can lose their sense of context and can’t easily tell where a section begins or ends. Good small-screen design can help orient them using a variety of techniques.\nGetting Creative With Small Screens originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/getting-creative-with-small-screens/",
-          "publishedOn": "2025-10-29T16:22:28.000Z",
-          "wordCount": 3540,
-          "title": "Getting Creative With Small Screens",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/10/s_E63F027435C482D5813799164A830B3E060276A78A7A02CCD5EC79D53323A5B8_1761081109189_2025-10-21-8.webp"
         }
       ]
     },
@@ -305,6 +295,16 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "6929b680d93baaf4c44b19fa",
+          "author": "Estefania Cassingena Navone",
+          "description": "Today Quincy Larson interviews Andrea Griffiths, who taught herself programming using freeCodeCamp while working in construction. She moved to the US from Colombia when she was 17, and within 6 months she joined the US Army. She ran a chain of gyms b...",
+          "link": "https://www.freecodecamp.org/news/tips-from-serial-career-changer-github-andrea-griffiths-podcast-199/",
+          "publishedOn": "2025-11-28T14:49:36.000Z",
+          "wordCount": 1487,
+          "title": "Tips from a Serial Career Changer with GitHub's Andrea Griffiths [Podcast #199]",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1764280249650/c3e8129f-9828-4bb5-8698-cfffae9705f9.png"
+        },
         {
           "id": "692782273df4e33b78a46d72",
           "author": "Manish Shivanandhan",
@@ -904,76 +904,6 @@
           "wordCount": 2176,
           "title": "How to Improve Your Programming Skills by Building Games",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1761829724019/2dc484e9-e0d2-4632-85ff-8ed39233fb51.png"
-        },
-        {
-          "id": "6902ba897614003427892ef9",
-          "author": "Mark Mahoney",
-          "description": "Mobile app development lets you build applications that run on multiple platforms. Flutter is Google's UI toolkit for building applications for mobile, web, and desktop from a single codebase. Flutter apps are written in Dart, a statically typed, obj...",
-          "link": "https://www.freecodecamp.org/news/mobile-app-development-with-dart-and-flutter/",
-          "publishedOn": "2025-10-30T01:08:25.000Z",
-          "wordCount": 1250,
-          "title": "Mobile App Development with Dart and Flutter",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1761786494585/5f335412-1621-4d5c-9861-29390381797c.png"
-        },
-        {
-          "id": "69028db72c8d547cd3a4cb95",
-          "author": "Atuoha Anthony",
-          "description": "Flutter, Google's open-source UI software development toolkit, has rapidly become a preferred choice for building natively compiled, cross-platform applications from a single codebase. Its declarative UI paradigm, coupled with robust performance, hel...",
-          "link": "https://www.freecodecamp.org/news/how-to-use-streams-in-flutter/",
-          "publishedOn": "2025-10-29T21:57:11.000Z",
-          "wordCount": 6080,
-          "title": "How to Use Streams in Flutter",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1761774911652/ca6749c7-391b-4a9f-9264-5f15e54855ee.png"
-        },
-        {
-          "id": "69028d2168ede4f821f8f0e8",
-          "author": "Bala Priya C",
-          "description": "JSON has become the standard format for data exchange on the web. So you'll run into JSON all the time when working with REST APIs, configuration files, database exports, and more. As a developer, you should know how to parse, manipulate, and generat...",
-          "link": "https://www.freecodecamp.org/news/how-to-parse-json-in-python-with-examples/",
-          "publishedOn": "2025-10-29T21:54:41.000Z",
-          "wordCount": 2646,
-          "title": "How to Parse JSON in Python – A Complete Guide With Examples",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1761774871223/d4b07c0a-d37e-4197-bb47-f1ee6f51dffd.png"
-        },
-        {
-          "id": "69028c7be37f0cfba4d00775",
-          "author": "Manish Shivanandhan",
-          "description": "APIs and MCPs both help systems talk to each other.  At first, they might look the same. Both allow one piece of software to ask another for data or perform an action. But the way they work and the reason they exist are completely different. An API, ...",
-          "link": "https://www.freecodecamp.org/news/mcp-vs-apis-whats-the-real-difference/",
-          "publishedOn": "2025-10-29T21:51:55.000Z",
-          "wordCount": 2300,
-          "title": "MCP vs APIs: What's the Real Difference?",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1761774679622/477d1991-a083-4ae6-8e3b-2a186d254274.png"
-        },
-        {
-          "id": "690245c804c1e198e965b3ef",
-          "author": "Ashutosh Krishna",
-          "description": "Have you ever needed to take screenshots of websites automatically – maybe to track visual changes, include them in reports, or generate previews? Doing this manually can be time-consuming, especially if you need to capture multiple pages regularly. ...",
-          "link": "https://www.freecodecamp.org/news/build-a-website-screenshot-generator-with-python-and-flask/",
-          "publishedOn": "2025-10-29T16:50:16.000Z",
-          "wordCount": 2971,
-          "title": "Build a Website Screenshot Generator with Python and Flask",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1761756575904/17a940c5-352e-47a2-992e-a1973c030c05.png"
-        },
-        {
-          "id": "69023c73147abcc15caef5c4",
-          "author": "Beau Carnes",
-          "description": "You can modern application architecture by building real-world serverless and microservices solutions using C# and Azure. We just posted a full course on the freeCodeCamp that will teach you to build scaleable cloud applications. Muhammad Abdullah de...",
-          "link": "https://www.freecodecamp.org/news/serverless-and-microservices-with-c-and-azure/",
-          "publishedOn": "2025-10-29T16:10:27.000Z",
-          "wordCount": 966,
-          "title": "Serverless and Microservices with C# & Azure",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1761754162686/963ecd38-8522-4fee-8448-d4e1e5a3a9f0.jpeg"
-        },
-        {
-          "id": "6902148987da12fd1cbfa416",
-          "author": "Beau Carnes",
-          "description": "We just posted a course on the freeCodeCamp.org YouTube channel to help prepare you for the Certified Kubernetes Administrator Certification. This course is designed to provide a deep, practical understanding of Kubernetes administration, from founda...",
-          "link": "https://www.freecodecamp.org/news/prepare-for-the-kubernetes-administrator-certification-and-pass/",
-          "publishedOn": "2025-10-29T13:20:09.000Z",
-          "wordCount": 3319,
-          "title": "Prepare for the Kubernetes Administrator Certification and Pass",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1761739982392/f255a6af-6ec9-4136-b45f-6f14d4fb2c8c.jpeg"
         }
       ]
     }
