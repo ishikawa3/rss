@@ -272,21 +272,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/how-leverage-component-variants-penpot/how-leverage-component-variants-penpot.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2025/10/desktop-wallpaper-calendars-november-2025/",
-          "author": "hello@smashingmagazine.com (Cosima Mielke)",
-          "description": "The new month is just around the corner, and that means: It’s time for some new desktop wallpapers! All of them are designed by the community for the community and can be downloaded for free. Enjoy!",
-          "link": "https://smashingmagazine.com/2025/10/desktop-wallpaper-calendars-november-2025/",
-          "publishedOn": "2025-10-31T12:00:00.000Z",
-          "wordCount": 4774,
-          "title": "Fading Light And Falling Leaves (November 2025 Wallpapers Edition)",
-          "enclosure": {
-            "url": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8edeb776-d8d5-4b5b-867f-6964f7addcd6/nov-17-colorful-autumn-preview-opt.png",
-            "length": "0",
-            "type": "image/png"
-          },
-          "imageUrl": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8edeb776-d8d5-4b5b-867f-6964f7addcd6/nov-17-colorful-autumn-preview-opt.png"
         }
       ]
     },
@@ -864,46 +849,6 @@
           "wordCount": 1753,
           "title": "How to Manage Python Packages with uv",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1762169941014/9e66858d-3ba4-434e-a9f1-84d42a316192.png"
-        },
-        {
-          "id": "69039b943b42750686df8138",
-          "author": "Beau Carnes",
-          "description": "We just posted a Harvard University course that will provide you an introduction to cybersecurity. It's taught by one of the world's most-loved computer science teachers, Dr. David J. Malan. In this course you will learn how to secure your accounts, ...",
-          "link": "https://www.freecodecamp.org/news/learn-cybersecurity-from-harvard-university/",
-          "publishedOn": "2025-10-30T17:08:36.000Z",
-          "wordCount": 993,
-          "title": "Learn Cybersecurity from Harvard University",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1761844053497/6487b459-add3-4f7a-a50a-258f9a7b771e.jpeg"
-        },
-        {
-          "id": "69038e8be43cf9a3614ff2fd",
-          "author": "Moshe Siegel",
-          "description": "I was a year into my new job at Google. After repeated warnings about underperformance, my manager sat me down. I was being placed on a Performance Improvement Plan (PIP). For those unfamiliar, a PIP at Google is a two-month plan to show improvement ...",
-          "link": "https://www.freecodecamp.org/news/clawing-out-of-underperformance/",
-          "publishedOn": "2025-10-30T16:12:59.000Z",
-          "wordCount": 3688,
-          "title": "How to Overcome a Negative Performance Review and Become a Better Developer",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1761774919543/5eb6447b-d709-41cb-9383-73dacde102a7.png"
-        },
-        {
-          "id": "69038e6549c53ba349744d5b",
-          "author": "Manish Shivanandhan",
-          "description": "Artificial intelligence is evolving at a remarkable pace. Models today can reason, write, code, and analyze information in ways that once seemed impossible. But there’s one major limitation that still holds them back: context. Most AI models don’t ha...",
-          "link": "https://www.freecodecamp.org/news/how-to-build-your-own-mcp-server-with-python/",
-          "publishedOn": "2025-10-30T16:12:21.000Z",
-          "wordCount": 2619,
-          "title": "How to Build Your Own MCP Server with Python",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1761774966304/dace2a12-ea92-4c59-980a-5c16fb2d317d.png"
-        },
-        {
-          "id": "690364c01022fd77927ddcbd",
-          "author": "Manish Shivanandhan",
-          "description": "When most people think about learning to code, they imagine building websites or automating small tasks. Few think of building games as a serious way to improve programming skills.  But creating even a simple game can teach lessons that no tutorial e...",
-          "link": "https://www.freecodecamp.org/news/improve-your-programming-skills-by-building-games/",
-          "publishedOn": "2025-10-30T13:14:40.000Z",
-          "wordCount": 2176,
-          "title": "How to Improve Your Programming Skills by Building Games",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1761829724019/2dc484e9-e0d2-4632-85ff-8ed39233fb51.png"
         }
       ]
     }

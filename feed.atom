@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-29T00:15:02.243Z</updated>
+    <updated>2025-11-30T00:18:05.372Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
@@ -784,56 +784,6 @@ The “Most Hated” CSS Feature: tan() originally published on CSS-Tricks, whic
         <summary type="html"><![CDATA[Python package managers let you install and manage dependencies—like NumPy, pandas, and so on—right from your terminal. In this article, you will learn how to use uv—an extremely fast Python package manager. Prerequisites To get the most out of this ...]]></summary>
         <author>
             <name>Hew Hahn</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fading Light And Falling Leaves (November 2025 Wallpapers Edition)]]></title>
-        <id>https://smashingmagazine.com/2025/10/desktop-wallpaper-calendars-november-2025/</id>
-        <link href="https://smashingmagazine.com/2025/10/desktop-wallpaper-calendars-november-2025/"/>
-        <updated>2025-10-31T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The new month is just around the corner, and that means: It’s time for some new desktop wallpapers! All of them are designed by the community for the community and can be downloaded for free. Enjoy!]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn Cybersecurity from Harvard University]]></title>
-        <id>69039b943b42750686df8138</id>
-        <link href="https://www.freecodecamp.org/news/learn-cybersecurity-from-harvard-university/"/>
-        <updated>2025-10-30T17:08:36.000Z</updated>
-        <summary type="html"><![CDATA[We just posted a Harvard University course that will provide you an introduction to cybersecurity. It's taught by one of the world's most-loved computer science teachers, Dr. David J. Malan. In this course you will learn how to secure your accounts, ...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Overcome a Negative Performance Review and Become a Better Developer]]></title>
-        <id>69038e8be43cf9a3614ff2fd</id>
-        <link href="https://www.freecodecamp.org/news/clawing-out-of-underperformance/"/>
-        <updated>2025-10-30T16:12:59.000Z</updated>
-        <summary type="html"><![CDATA[I was a year into my new job at Google. After repeated warnings about underperformance, my manager sat me down. I was being placed on a Performance Improvement Plan (PIP). For those unfamiliar, a PIP at Google is a two-month plan to show improvement ...]]></summary>
-        <author>
-            <name>Moshe Siegel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build Your Own MCP Server with Python]]></title>
-        <id>69038e6549c53ba349744d5b</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-your-own-mcp-server-with-python/"/>
-        <updated>2025-10-30T16:12:21.000Z</updated>
-        <summary type="html"><![CDATA[Artificial intelligence is evolving at a remarkable pace. Models today can reason, write, code, and analyze information in ways that once seemed impossible. But there’s one major limitation that still holds them back: context. Most AI models don’t ha...]]></summary>
-        <author>
-            <name>Manish Shivanandhan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Improve Your Programming Skills by Building Games]]></title>
-        <id>690364c01022fd77927ddcbd</id>
-        <link href="https://www.freecodecamp.org/news/improve-your-programming-skills-by-building-games/"/>
-        <updated>2025-10-30T13:14:40.000Z</updated>
-        <summary type="html"><![CDATA[When most people think about learning to code, they imagine building websites or automating small tasks. Few think of building games as a serious way to improve programming skills.  But creating even a simple game can teach lessons that no tutorial e...]]></summary>
-        <author>
-            <name>Manish Shivanandhan</name>
         </author>
     </entry>
 </feed>
