@@ -114,6 +114,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2025/11/desktop-wallpaper-calendars-december-2025/",
+          "author": "hello@smashingmagazine.com (Cosima Mielke)",
+          "description": "With December just around the corner, how about some new desktop wallpapers to welcome the last month of the year — and the holiday season, if you’re celebrating? Our latest edition of monthly wallpapers has got you covered. Enjoy!",
+          "link": "https://smashingmagazine.com/2025/11/desktop-wallpaper-calendars-december-2025/",
+          "publishedOn": "2025-11-30T09:00:00.000Z",
+          "wordCount": 4961,
+          "title": "A Sparkle Of December Magic (2025 Wallpapers Edition)",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-december-2025/dec-25-zero-gravity-december-preview-opt.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "http://files.smashing.media/articles/desktop-wallpaper-calendars-december-2025/dec-25-zero-gravity-december-preview-opt.png"
+        },
+        {
           "id": "https://smashingmagazine.com/2025/11/accessibility-problem-authentication-methods-captcha/",
           "author": "hello@smashingmagazine.com (Eleanor Hecks)",
           "description": "CAPTCHAs were meant to keep bots out, but too often, they lock people with disabilities out, too. From image classification to click-based tests, many “human checks” are anything but inclusive. There’s no universal solution, but understanding real user needs is where accessibility truly starts.",
