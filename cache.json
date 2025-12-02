@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=390613",
+          "author": "Geoff Graham",
+          "description": "Bramus:\nChrome 144 features a small change to overscroll-behavior: it now also works on non-scrollable scroll containers. While this change might seem trivial, it fixes an issue developers have been dealing with for ages: prevent a page from \n…\nPrevent a page from scrolling while a dialog is open originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/prevent-a-page-from-scrolling-while-a-dialog-is-open/",
+          "publishedOn": "2025-12-01T17:25:28.000Z",
+          "wordCount": 1828,
+          "title": "Prevent a page from scrolling while a dialog is open",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2024/10/dialog-pop.jpg"
+        },
+        {
           "id": "https://css-tricks.com/?p=389944",
           "author": "Daniel Schwarz",
           "description": "There are many ways to share properties, but what would it look like to inherit and use any parent property value on a child?\nOn Inheriting and Sharing Property Values originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
