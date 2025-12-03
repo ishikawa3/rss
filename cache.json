@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=390205",
+          "author": "Lee Meyer",
+          "description": "Unconvinced of the value of scrollytelling? Alright, skeptic, let’s first warm up with some common use cases for scroll-based styling.\nScrollytelling on Steroids With Scroll-State Queries originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/scrollytelling-on-steroids-with-scroll-state-queries/",
+          "publishedOn": "2025-12-02T16:47:14.000Z",
+          "wordCount": 4602,
+          "title": "Scrollytelling on Steroids With Scroll-State Queries",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/11/taylor-flowe-aXeVH4FcS1k-unsplash-scaled.jpg"
+        },
+        {
           "id": "https://css-tricks.com/?p=390613",
           "author": "Geoff Graham",
           "description": "Bramus:\nChrome 144 features a small change to overscroll-behavior: it now also works on non-scrollable scroll containers. While this change might seem trivial, it fixes an issue developers have been dealing with for ages: prevent a page from \n…\nPrevent a page from scrolling while a dialog is open originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -123,6 +133,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2025/12/masonry-things-you-wont-need-library-anymore/",
+          "author": "hello@smashingmagazine.com (Patrick Brosset)",
+          "description": "CSS Masonry is almost here! Patrick Brosset takes a deep dive into what this long-awaited feature means for web developers and how you could make use of it in your own work.",
+          "link": "https://smashingmagazine.com/2025/12/masonry-things-you-wont-need-library-anymore/",
+          "publishedOn": "2025-12-02T10:00:00.000Z",
+          "wordCount": 6724,
+          "title": "Masonry: Things You Won’t Need A Library For Anymore",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/masonry-things-you-wont-need-library-anymore/masonry-things-you-wont-need-library-anymore.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/masonry-things-you-wont-need-library-anymore/masonry-things-you-wont-need-library-anymore.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2025/11/desktop-wallpaper-calendars-december-2025/",
           "author": "hello@smashingmagazine.com (Cosima Mielke)",
@@ -305,6 +330,16 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "692f044a17ed56d5a1781fb1",
+          "author": "Jessica Wilkins",
+          "description": "The freeCodeCamp community just published our new Responsive Web Design certification. You can now sit for the exam to earn the free verified certification, which you can add to your résumé, CV, or LinkedIn profile. Each certification is filled with ...",
+          "link": "https://www.freecodecamp.org/news/freecodecamps-new-responsive-web-design-certification-is-now-live/",
+          "publishedOn": "2025-12-02T15:22:50.000Z",
+          "wordCount": 2726,
+          "title": "freeCodeCamp's New Responsive Web Design Certification is Now Live",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1763760123080/749604bf-3620-40ad-bd5f-488bd8faa251.png"
+        },
         {
           "id": "6929b680d93baaf4c44b19fa",
           "author": "Estefania Cassingena Navone",
@@ -864,16 +899,6 @@
           "wordCount": 2768,
           "title": "A Beginner’s Guide to Automation with n8n",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1762183395684/27b7a207-3768-46a6-8c44-de08ccccd40d.png"
-        },
-        {
-          "id": "69089c3b30ea29f0efb3f4fd",
-          "author": "Hew Hahn",
-          "description": "Python package managers let you install and manage dependencies—like NumPy, pandas, and so on—right from your terminal. In this article, you will learn how to use uv—an extremely fast Python package manager. Prerequisites To get the most out of this ...",
-          "link": "https://www.freecodecamp.org/news/how-to-manage-python-packages-with-uv/",
-          "publishedOn": "2025-11-03T12:12:43.000Z",
-          "wordCount": 1753,
-          "title": "How to Manage Python Packages with uv",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1762169941014/9e66858d-3ba4-434e-a9f1-84d42a316192.png"
         }
       ]
     }

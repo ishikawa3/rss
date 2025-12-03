@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-02T00:15:58.710Z</updated>
+    <updated>2025-12-03T00:15:38.481Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Scrollytelling on Steroids With Scroll-State Queries]]></title>
+        <id>https://css-tricks.com/?p=390205</id>
+        <link href="https://css-tricks.com/scrollytelling-on-steroids-with-scroll-state-queries/"/>
+        <updated>2025-12-02T16:47:14.000Z</updated>
+        <summary type="html"><![CDATA[Unconvinced of the value of scrollytelling? Alright, skeptic, let’s first warm up with some common use cases for scroll-based styling.
+Scrollytelling on Steroids With Scroll-State Queries originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Lee Meyer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[freeCodeCamp's New Responsive Web Design Certification is Now Live]]></title>
+        <id>692f044a17ed56d5a1781fb1</id>
+        <link href="https://www.freecodecamp.org/news/freecodecamps-new-responsive-web-design-certification-is-now-live/"/>
+        <updated>2025-12-02T15:22:50.000Z</updated>
+        <summary type="html"><![CDATA[The freeCodeCamp community just published our new Responsive Web Design certification. You can now sit for the exam to earn the free verified certification, which you can add to your résumé, CV, or LinkedIn profile. Each certification is filled with ...]]></summary>
+        <author>
+            <name>Jessica Wilkins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Masonry: Things You Won’t Need A Library For Anymore]]></title>
+        <id>https://smashingmagazine.com/2025/12/masonry-things-you-wont-need-library-anymore/</id>
+        <link href="https://smashingmagazine.com/2025/12/masonry-things-you-wont-need-library-anymore/"/>
+        <updated>2025-12-02T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[CSS Masonry is almost here! Patrick Brosset takes a deep dive into what this long-awaited feature means for web developers and how you could make use of it in your own work.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Patrick Brosset)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Prevent a page from scrolling while a dialog is open]]></title>
         <id>https://css-tricks.com/?p=390613</id>
@@ -797,16 +828,6 @@ The “Most Hated” CSS Feature: tan() originally published on CSS-Tricks, whic
         <summary type="html"><![CDATA[Automation has become one of the most valuable skills for any technical team. It helps eliminate repetitive work, speeds up business operations, and lets you focus on creative or strategic tasks.  Whether it’s moving data between apps, triggering act...]]></summary>
         <author>
             <name>Manish Shivanandhan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Manage Python Packages with uv]]></title>
-        <id>69089c3b30ea29f0efb3f4fd</id>
-        <link href="https://www.freecodecamp.org/news/how-to-manage-python-packages-with-uv/"/>
-        <updated>2025-11-03T12:12:43.000Z</updated>
-        <summary type="html"><![CDATA[Python package managers let you install and manage dependencies—like NumPy, pandas, and so on—right from your terminal. In this article, you will learn how to use uv—an extremely fast Python package manager. Prerequisites To get the most out of this ...]]></summary>
-        <author>
-            <name>Hew Hahn</name>
         </author>
     </entry>
 </feed>
