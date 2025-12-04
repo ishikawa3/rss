@@ -115,16 +115,6 @@
           "wordCount": 2316,
           "title": "Explaining the Accessible Benefits of Using Semantic HTML Elements",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/11/screaming-button.png"
-        },
-        {
-          "id": "https://css-tricks.com/?p=389842",
-          "author": "Juan Diego Rodríguez",
-          "description": "Last time, we discussed that, sadly, according to the State of CSS 2025 survey, trigonometric functions are deemed the “Most Hated” CSS feature.\nThat shocked me. I may have even been a little offended, being a math nerd and …\nThe “Most Hated” CSS Feature: tan() originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/the-most-hated-css-feature-tan/",
-          "publishedOn": "2025-11-03T16:03:08.000Z",
-          "wordCount": 3512,
-          "title": "The “Most Hated” CSS Feature: tan()",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/10/trig-tangent-graph.png"
         }
       ]
     },
@@ -307,21 +297,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/key-components-ux-strategy/practical-guide-ux-strategy.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2025/11/how-leverage-component-variants-penpot/",
-          "author": "hello@smashingmagazine.com (Daniel Schwarz)",
-          "description": "With component variants, design systems become more flexible, letting you reuse the same component while adapting its look or state with ease. In this article, Daniel Schwarz demonstrates how design tokens can be leveraged to manage components and their variations using Penpot, the open-source tool built for scalable, consistent design.",
-          "link": "https://smashingmagazine.com/2025/11/how-leverage-component-variants-penpot/",
-          "publishedOn": "2025-11-04T10:00:00.000Z",
-          "wordCount": 4411,
-          "title": "How To Leverage Component Variants In Penpot",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/how-leverage-component-variants-penpot/how-leverage-component-variants-penpot.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/how-leverage-component-variants-penpot/how-leverage-component-variants-penpot.jpg"
         }
       ]
     },
@@ -330,6 +305,56 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "69309b9e8c594b8177306456",
+          "author": "Md. Fahim Bin Amin",
+          "description": "If you’re working on complex Machine Learning projects, you’ll need a good Graphics Processing Unit (or GPU) to power everything. And Nvidia is a popular option these days, as it has great compatibility and widespread support. If you’re new to Machin...",
+          "link": "https://www.freecodecamp.org/news/how-to-set-up-cuda-and-wsl2-for-windows-11-including-pytorch-and-tensorflow-gpu/",
+          "publishedOn": "2025-12-03T20:20:46.000Z",
+          "wordCount": 4351,
+          "title": "How to Set Up CUDA and WSL2 for Windows 11 (including PyTorch and TensorFlow GPU)",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1764786287487/f0c28401-ce77-4873-b238-59fc6b737ce7.png"
+        },
+        {
+          "id": "69307a1e2b79515d02383320",
+          "author": "Nikheel Vishwas Savant",
+          "description": "Every time you check your smartwatch for heart rate, read the battery level of wireless earbuds, unlock a Bluetooth smart lock, or watch sensor data stream into an app, you are experiencing the result of GATT working quietly in the background. GATT i...",
+          "link": "https://www.freecodecamp.org/news/how-bluetooth-low-energy-devices-work-gatt-services-and-characteristics-explained/",
+          "publishedOn": "2025-12-03T17:57:50.000Z",
+          "wordCount": 9320,
+          "title": "How Bluetooth Low Energy Devices Work: GATT Services and Characteristics Explained",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1764781967963/2ccd66f7-3a5f-490f-af66-e1091ef4e34d.png"
+        },
+        {
+          "id": "693070aab61ab28f12ea4687",
+          "author": "Manish Shivanandhan",
+          "description": "Model Context Protocol, or MCP, is changing how large language models connect with data and tools.  Instead of treating an AI model as a black box, MCP gives it structured access to information and actions.  It is like the USB-C port for AI, creating...",
+          "link": "https://www.freecodecamp.org/news/how-to-build-your-first-mcp-server-using-fastmcp/",
+          "publishedOn": "2025-12-03T17:17:30.000Z",
+          "wordCount": 2503,
+          "title": "How to Build Your First MCP Server using FastMCP",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1764782216715/fc1f7b09-d71d-4917-a249-f95686d23520.png"
+        },
+        {
+          "id": "692f67007fa18557e4b8ce73",
+          "author": "Beau Carnes",
+          "description": "NestJS is a progressive Node.js framework for building efficient and reliable server-side applications. It uses TypeScript by default and encourages clean, modular code with concepts including controllers, services, and dependency injection. We just ...",
+          "link": "https://www.freecodecamp.org/news/learn-nestjs-for-beginners/",
+          "publishedOn": "2025-12-02T22:24:00.000Z",
+          "wordCount": 1035,
+          "title": "Learn NestJS for Beginners",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1764714228452/cd896109-228c-4060-b596-2bb072058976.png"
+        },
+        {
+          "id": "692f65b7eaee334f9337fc73",
+          "author": "Beau Carnes",
+          "description": "Harvard University creates amazing beginner computer science courses. We just released Harvard CS50’s introduction to programming using a language called R, a popular language for statistical computing and graphics in data science and other domains. ...",
+          "link": "https://www.freecodecamp.org/news/learn-r-programming-from-harvard-university/",
+          "publishedOn": "2025-12-02T22:18:31.000Z",
+          "wordCount": 1017,
+          "title": "Learn R Programming from Harvard University",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1764713896891/8c4848e6-27f8-4f1f-aeb5-1c14e1a3ecd6.png"
+        },
         {
           "id": "692f044a17ed56d5a1781fb1",
           "author": "Jessica Wilkins",
@@ -879,26 +904,6 @@
           "wordCount": 2453,
           "title": "How __proto__, prototype, and Inheritance Actually Work in JavaScript",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1762210692821/651a67f9-cbe5-4f09-b048-957caaa5e1ac.png"
-        },
-        {
-          "id": "690933925fbdca38da0ea33b",
-          "author": "Manish Shivanandhan",
-          "description": "Cybersecurity is one of the fastest-growing fields in the world today.  Every year, more companies face threats that put their data, reputation, and customer trust at risk. As these threats grow, so does the demand for skilled cybersecurity professio...",
-          "link": "https://www.freecodecamp.org/news/top-cybersecurity-certifications-to-boost-your-career/",
-          "publishedOn": "2025-11-03T22:58:26.000Z",
-          "wordCount": 2450,
-          "title": "Top Cybersecurity Certifications to Boost Your Career",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1762183746663/9f26b839-70c5-4ab6-b5ff-53ead8d2311b.png"
-        },
-        {
-          "id": "6908c9fe147981c65916a40b",
-          "author": "Manish Shivanandhan",
-          "description": "Automation has become one of the most valuable skills for any technical team. It helps eliminate repetitive work, speeds up business operations, and lets you focus on creative or strategic tasks.  Whether it’s moving data between apps, triggering act...",
-          "link": "https://www.freecodecamp.org/news/a-beginners-guide-to-automation-with-n8n/",
-          "publishedOn": "2025-11-03T15:27:58.000Z",
-          "wordCount": 2768,
-          "title": "A Beginner’s Guide to Automation with n8n",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1762183395684/27b7a207-3768-46a6-8c44-de08ccccd40d.png"
         }
       ]
     }

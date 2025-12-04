@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-03T00:15:38.481Z</updated>
+    <updated>2025-12-04T00:16:24.133Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Set Up CUDA and WSL2 for Windows 11 (including PyTorch and TensorFlow GPU)]]></title>
+        <id>69309b9e8c594b8177306456</id>
+        <link href="https://www.freecodecamp.org/news/how-to-set-up-cuda-and-wsl2-for-windows-11-including-pytorch-and-tensorflow-gpu/"/>
+        <updated>2025-12-03T20:20:46.000Z</updated>
+        <summary type="html"><![CDATA[If you’re working on complex Machine Learning projects, you’ll need a good Graphics Processing Unit (or GPU) to power everything. And Nvidia is a popular option these days, as it has great compatibility and widespread support. If you’re new to Machin...]]></summary>
+        <author>
+            <name>Md. Fahim Bin Amin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Bluetooth Low Energy Devices Work: GATT Services and Characteristics Explained]]></title>
+        <id>69307a1e2b79515d02383320</id>
+        <link href="https://www.freecodecamp.org/news/how-bluetooth-low-energy-devices-work-gatt-services-and-characteristics-explained/"/>
+        <updated>2025-12-03T17:57:50.000Z</updated>
+        <summary type="html"><![CDATA[Every time you check your smartwatch for heart rate, read the battery level of wireless earbuds, unlock a Bluetooth smart lock, or watch sensor data stream into an app, you are experiencing the result of GATT working quietly in the background. GATT i...]]></summary>
+        <author>
+            <name>Nikheel Vishwas Savant</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build Your First MCP Server using FastMCP]]></title>
+        <id>693070aab61ab28f12ea4687</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-your-first-mcp-server-using-fastmcp/"/>
+        <updated>2025-12-03T17:17:30.000Z</updated>
+        <summary type="html"><![CDATA[Model Context Protocol, or MCP, is changing how large language models connect with data and tools.  Instead of treating an AI model as a black box, MCP gives it structured access to information and actions.  It is like the USB-C port for AI, creating...]]></summary>
+        <author>
+            <name>Manish Shivanandhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn NestJS for Beginners]]></title>
+        <id>692f67007fa18557e4b8ce73</id>
+        <link href="https://www.freecodecamp.org/news/learn-nestjs-for-beginners/"/>
+        <updated>2025-12-02T22:24:00.000Z</updated>
+        <summary type="html"><![CDATA[NestJS is a progressive Node.js framework for building efficient and reliable server-side applications. It uses TypeScript by default and encourages clean, modular code with concepts including controllers, services, and dependency injection. We just ...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn R Programming from Harvard University]]></title>
+        <id>692f65b7eaee334f9337fc73</id>
+        <link href="https://www.freecodecamp.org/news/learn-r-programming-from-harvard-university/"/>
+        <updated>2025-12-02T22:18:31.000Z</updated>
+        <summary type="html"><![CDATA[Harvard University creates amazing beginner computer science courses. We just released Harvard CS50’s introduction to programming using a language called R, a popular language for statistical computing and graphics in data science and other domains. ...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Scrollytelling on Steroids With Scroll-State Queries]]></title>
         <id>https://css-tricks.com/?p=390205</id>
@@ -786,48 +836,6 @@ Explaining the Accessible Benefits of Using Semantic HTML Elements originally pu
         <summary type="html"><![CDATA[Have you ever wondered why everything in JavaScript acts like an object? Or how inheritance actually works behind the scenes? What's the difference between __proto__ and prototype? If these questions have crossed your mind, you're not alone. These ar...]]></summary>
         <author>
             <name>Shejan Mahamud</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Leverage Component Variants In Penpot]]></title>
-        <id>https://smashingmagazine.com/2025/11/how-leverage-component-variants-penpot/</id>
-        <link href="https://smashingmagazine.com/2025/11/how-leverage-component-variants-penpot/"/>
-        <updated>2025-11-04T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[With component variants, design systems become more flexible, letting you reuse the same component while adapting its look or state with ease. In this article, Daniel Schwarz demonstrates how design tokens can be leveraged to manage components and their variations using Penpot, the open-source tool built for scalable, consistent design.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Daniel Schwarz)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top Cybersecurity Certifications to Boost Your Career]]></title>
-        <id>690933925fbdca38da0ea33b</id>
-        <link href="https://www.freecodecamp.org/news/top-cybersecurity-certifications-to-boost-your-career/"/>
-        <updated>2025-11-03T22:58:26.000Z</updated>
-        <summary type="html"><![CDATA[Cybersecurity is one of the fastest-growing fields in the world today.  Every year, more companies face threats that put their data, reputation, and customer trust at risk. As these threats grow, so does the demand for skilled cybersecurity professio...]]></summary>
-        <author>
-            <name>Manish Shivanandhan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The “Most Hated” CSS Feature: tan()]]></title>
-        <id>https://css-tricks.com/?p=389842</id>
-        <link href="https://css-tricks.com/the-most-hated-css-feature-tan/"/>
-        <updated>2025-11-03T16:03:08.000Z</updated>
-        <summary type="html"><![CDATA[Last time, we discussed that, sadly, according to the State of CSS 2025 survey, trigonometric functions are deemed the “Most Hated” CSS feature.
-That shocked me. I may have even been a little offended, being a math nerd and …
-The “Most Hated” CSS Feature: tan() originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Juan Diego Rodríguez</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Beginner’s Guide to Automation with n8n]]></title>
-        <id>6908c9fe147981c65916a40b</id>
-        <link href="https://www.freecodecamp.org/news/a-beginners-guide-to-automation-with-n8n/"/>
-        <updated>2025-11-03T15:27:58.000Z</updated>
-        <summary type="html"><![CDATA[Automation has become one of the most valuable skills for any technical team. It helps eliminate repetitive work, speeds up business operations, and lets you focus on creative or strategic tasks.  Whether it’s moving data between apps, triggering act...]]></summary>
-        <author>
-            <name>Manish Shivanandhan</name>
         </author>
     </entry>
 </feed>
