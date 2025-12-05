@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=390477",
+          "author": "Andy Clarke",
+          "description": "A good measure makes reading text comfortable, while a bad one makes it more difficult. So, rather than allowing layout to dictate the measure, doesn’t it make more sense for the measure to inform layout decisions?\nGetting Creative With “The Measure” originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/getting-creative-with-the-measure/",
+          "publishedOn": "2025-12-04T14:04:52.000Z",
+          "wordCount": 2156,
+          "title": "Getting Creative With “The Measure”",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/11/s_56AFCBE7DCEED351817E3696EEEE003B5BEE9737CDC6205474FB62E233A2CF20_1763072955406_2025-11-13-1.webp"
+        },
+        {
           "id": "https://css-tricks.com/?p=390205",
           "author": "Lee Meyer",
           "description": "Unconvinced of the value of scrollytelling? Alright, skeptic, let’s first warm up with some common use cases for scroll-based styling.\nScrollytelling on Steroids With Scroll-State Queries originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -305,6 +315,46 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "6931ef1a5feb2860f3beafd6",
+          "author": "Beau Carnes",
+          "description": "Git is important for any developer. We just posted a course that will help you learn Git and GitHub from scratch with clear examples, real workflows, branching, merging, stashing, rebase, pull requests, and more. This course is great for beginners wh...",
+          "link": "https://www.freecodecamp.org/news/git-and-github-crash-course-for-beginners/",
+          "publishedOn": "2025-12-04T20:29:14.000Z",
+          "wordCount": 998,
+          "title": "Git & GitHub Crash Course for Beginners",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1764880033392/03198f4c-c7c0-4ba1-a383-24c546a418cf.jpeg"
+        },
+        {
+          "id": "6931ed67859ffe0c32f1133b",
+          "author": "Beau Carnes",
+          "description": "We just posted a course on the freeCodeCamp.org YouTube channel that will teach you how to become an AI Researcher. This course will guide you step-by-step, starting with the foundational mathematics essential for understanding modern AI, before divi...",
+          "link": "https://www.freecodecamp.org/news/become-an-ai-researcher/",
+          "publishedOn": "2025-12-04T20:21:59.000Z",
+          "wordCount": 1126,
+          "title": "Become an AI Researcher",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1764879600871/035df186-2ce4-4c89-bf2d-0e52b2b44d8a.jpeg"
+        },
+        {
+          "id": "6931bd617fcd342128f08ed6",
+          "author": "Ajay Patel",
+          "description": "In this guide, we’ll build a feature-rich admin dashboard using shadcn/ui for beautiful, reusable components and TanStack Start for a powerful, type-safe full-stack framework. By the end, you’ll have: A fully functional /dashboard layout A statisti...",
+          "link": "https://www.freecodecamp.org/news/build-an-admin-dashboard-with-shadcnui-and-tanstack-start/",
+          "publishedOn": "2025-12-04T16:57:05.000Z",
+          "wordCount": 6009,
+          "title": "How to Build an Admin Dashboard with shadcn/ui and TanStack Start",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1764780775287/b8cb826d-ac42-497c-8bb9-b9ffe797df83.png"
+        },
+        {
+          "id": "6930baf2becf9d70ca80fcd0",
+          "author": "Chisom Uma",
+          "description": "Chatbots are widely adopted among software companies, especially those that interact heavily with customers. It is typically used for tasks such as customer support, answering questions, and providing information on websites, apps, and messaging plat...",
+          "link": "https://www.freecodecamp.org/news/how-to-build-an-ai-powered-rag-chatbot/",
+          "publishedOn": "2025-12-03T22:34:26.000Z",
+          "wordCount": 3061,
+          "title": "How to Build an AI-Powered RAG Chatbot with Amazon Lex, Bedrock, and S3",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1764801036311/e1bb9ed8-f64e-433f-916f-fd3079aac4d3.png"
+        },
         {
           "id": "69309b9e8c594b8177306456",
           "author": "Md. Fahim Bin Amin",
@@ -894,16 +944,6 @@
           "wordCount": 3353,
           "title": "How Do Global Execution Context and Temporal Dead Zone Work in JavaScript?",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1762347165225/c7bd75a9-a819-41b6-8a35-4feecfb7cf58.png"
-        },
-        {
-          "id": "690a2d839d070c31fadbc25e",
-          "author": "Shejan Mahamud",
-          "description": "Have you ever wondered why everything in JavaScript acts like an object? Or how inheritance actually works behind the scenes? What's the difference between __proto__ and prototype? If these questions have crossed your mind, you're not alone. These ar...",
-          "link": "https://www.freecodecamp.org/news/how-proto-prototype-and-inheritance-actually-work-in-javascript/",
-          "publishedOn": "2025-11-04T16:44:51.000Z",
-          "wordCount": 2453,
-          "title": "How __proto__, prototype, and Inheritance Actually Work in JavaScript",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1762210692821/651a67f9-cbe5-4f09-b048-957caaa5e1ac.png"
         }
       ]
     }

@@ -2,10 +2,61 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-04T00:16:24.133Z</updated>
+    <updated>2025-12-05T00:15:47.109Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Git & GitHub Crash Course for Beginners]]></title>
+        <id>6931ef1a5feb2860f3beafd6</id>
+        <link href="https://www.freecodecamp.org/news/git-and-github-crash-course-for-beginners/"/>
+        <updated>2025-12-04T20:29:14.000Z</updated>
+        <summary type="html"><![CDATA[Git is important for any developer. We just posted a course that will help you learn Git and GitHub from scratch with clear examples, real workflows, branching, merging, stashing, rebase, pull requests, and more. This course is great for beginners wh...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Become an AI Researcher]]></title>
+        <id>6931ed67859ffe0c32f1133b</id>
+        <link href="https://www.freecodecamp.org/news/become-an-ai-researcher/"/>
+        <updated>2025-12-04T20:21:59.000Z</updated>
+        <summary type="html"><![CDATA[We just posted a course on the freeCodeCamp.org YouTube channel that will teach you how to become an AI Researcher. This course will guide you step-by-step, starting with the foundational mathematics essential for understanding modern AI, before divi...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build an Admin Dashboard with shadcn/ui and TanStack Start]]></title>
+        <id>6931bd617fcd342128f08ed6</id>
+        <link href="https://www.freecodecamp.org/news/build-an-admin-dashboard-with-shadcnui-and-tanstack-start/"/>
+        <updated>2025-12-04T16:57:05.000Z</updated>
+        <summary type="html"><![CDATA[In this guide, we’ll build a feature-rich admin dashboard using shadcn/ui for beautiful, reusable components and TanStack Start for a powerful, type-safe full-stack framework. By the end, you’ll have: A fully functional /dashboard layout A statisti...]]></summary>
+        <author>
+            <name>Ajay Patel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Getting Creative With “The Measure”]]></title>
+        <id>https://css-tricks.com/?p=390477</id>
+        <link href="https://css-tricks.com/getting-creative-with-the-measure/"/>
+        <updated>2025-12-04T14:04:52.000Z</updated>
+        <summary type="html"><![CDATA[A good measure makes reading text comfortable, while a bad one makes it more difficult. So, rather than allowing layout to dictate the measure, doesn’t it make more sense for the measure to inform layout decisions?
+Getting Creative With “The Measure” originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Andy Clarke</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build an AI-Powered RAG Chatbot with Amazon Lex, Bedrock, and S3]]></title>
+        <id>6930baf2becf9d70ca80fcd0</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-an-ai-powered-rag-chatbot/"/>
+        <updated>2025-12-03T22:34:26.000Z</updated>
+        <summary type="html"><![CDATA[Chatbots are widely adopted among software companies, especially those that interact heavily with customers. It is typically used for tasks such as customer support, answering questions, and providing information on websites, apps, and messaging plat...]]></summary>
+        <author>
+            <name>Chisom Uma</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Set Up CUDA and WSL2 for Windows 11 (including PyTorch and TensorFlow GPU)]]></title>
         <id>69309b9e8c594b8177306456</id>
@@ -826,16 +877,6 @@ Explaining the Accessible Benefits of Using Semantic HTML Elements originally pu
         <summary type="html"><![CDATA[Let’s dive into the building blocks of UX strategy and see how it speaks the language of product and business strategy to create user value while achieving company goals. Part of the Measure UX & Design Impact (use the code 🎟 IMPACT to save 20% off today).]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How __proto__, prototype, and Inheritance Actually Work in JavaScript]]></title>
-        <id>690a2d839d070c31fadbc25e</id>
-        <link href="https://www.freecodecamp.org/news/how-proto-prototype-and-inheritance-actually-work-in-javascript/"/>
-        <updated>2025-11-04T16:44:51.000Z</updated>
-        <summary type="html"><![CDATA[Have you ever wondered why everything in JavaScript acts like an object? Or how inheritance actually works behind the scenes? What's the difference between __proto__ and prototype? If these questions have crossed your mind, you're not alone. These ar...]]></summary>
-        <author>
-            <name>Shejan Mahamud</name>
         </author>
     </entry>
 </feed>
