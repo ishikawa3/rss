@@ -2,10 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-05T00:15:47.109Z</updated>
+    <updated>2025-12-06T00:15:05.690Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[HTML Web Components Proposal From 1998]]></title>
+        <id>https://css-tricks.com/?p=390691</id>
+        <link href="https://css-tricks.com/html-web-components-proposal-from-1998/"/>
+        <updated>2025-12-05T18:16:48.000Z</updated>
+        <summary type="html"><![CDATA[It's easy to think of HTML Web Components as a recent feature, but it has roots that go all the way back to 1998.
+HTML Web Components Proposal From 1998 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build No-Code AI Workflows Using Activepieces]]></title>
+        <id>6932fc1b589bda49dd014db7</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-no-code-ai-workflows-using-activepieces/"/>
+        <updated>2025-12-05T15:36:59.000Z</updated>
+        <summary type="html"><![CDATA[Artificial intelligence is now part of daily work for many teams. People use it to write content, analyse data, answer support requests, and guide business decisions. But building AI workflows is still hard for many users. Most tools need code, a com...]]></summary>
+        <author>
+            <name>Manish Shivanandhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to build your own learning path using Open Source with Kunal Kushwaha [Podcast #200]]]></title>
+        <id>6932f37cc34687e487990bf9</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-your-own-learning-path-using-open-source-with-kunal-kushwaha-podcast-200/"/>
+        <updated>2025-12-05T15:00:12.000Z</updated>
+        <summary type="html"><![CDATA[Today Quincy Larson interviews Kunal Kushwaha. He's a software engineer and prolific computer science teacher on YouTube. He failed the JEE, the Indian Engineering Entrance Exam, TWICE. But he persevered. He did 4 years of university but attended ZER...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Beyond The Black Box: Practical XAI For UX Practitioners]]></title>
+        <id>https://smashingmagazine.com/2025/12/beyond-black-box-practical-xai-ux-practitioners/</id>
+        <link href="https://smashingmagazine.com/2025/12/beyond-black-box-practical-xai-ux-practitioners/"/>
+        <updated>2025-12-05T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Explainable AI isn’t just a challenge for data scientists. It’s also a design challenge and a core pillar of trustworthy, effective AI products. Victor Yocco offers practical guidance and design patterns for building explainability into real products.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Victor Yocco)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Git & GitHub Crash Course for Beginners]]></title>
         <id>6931ef1a5feb2860f3beafd6</id>
@@ -797,86 +838,6 @@ Headings: Semantics, Fluidity, and Styling — Oh My! originally published on CS
 Explaining the Accessible Benefits of Using Semantic HTML Elements originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Reduce Round Trip Time (RTT) with Next.js]]></title>
-        <id>690c78446959d1f714d81d45</id>
-        <link href="https://www.freecodecamp.org/news/how-to-reduce-round-trip-time-rtt-with-nextjs/"/>
-        <updated>2025-11-06T10:28:20.000Z</updated>
-        <summary type="html"><![CDATA[Have you ever wondered why some websites load almost immediately and others leave you looking at a blank screen, even when your internet connection is fast? In some cases, your internet speed may not be the issue. It is usually because of Round Trip ...]]></summary>
-        <author>
-            <name>Chukwudi Nweze</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cryptography for Beginners: Full Python Course (SHA-256, AES, RSA, Passwords)]]></title>
-        <id>690bd280e9ceb53e15668053</id>
-        <link href="https://www.freecodecamp.org/news/cryptography-for-beginners-full-python-course-sha-256-aes-rsa-passwords/"/>
-        <updated>2025-11-05T22:41:04.000Z</updated>
-        <summary type="html"><![CDATA[We just posted a course on the freeCodeCamp.org YouTube channel that will teach you all about cryptography. You'll learn essential techniques like hashing (SHA-256) for verifying file integrity, symmetric encryption (AES), and asymmetric encryption (...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Creative Web Development with Three.js and Blender]]></title>
-        <id>690bd1964ffa7599421226c5</id>
-        <link href="https://www.freecodecamp.org/news/creative-web-development-with-threejs-and-blender/"/>
-        <updated>2025-11-05T22:37:10.000Z</updated>
-        <summary type="html"><![CDATA[Learn Creative Web Development with Three.js and Blender. freeCodeCamp just posted a beginner-friendly course that will teach you to create an immersive 3D portfolio. You'll begin by diving into Blender to learn the fundamentals of 3D modeling. With ...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build Your Own Private Voice Assistant: A Step-by-Step Guide Using Open-Source Tools]]></title>
-        <id>690bcbbc8abe1e0a5b05e0be</id>
-        <link href="https://www.freecodecamp.org/news/private-voice-assistant-using-open-source-tools/"/>
-        <updated>2025-11-05T22:12:12.000Z</updated>
-        <summary type="html"><![CDATA[Most commercial voice assistants send your voice data to cloud servers before responding. By using open‑source tools, you can run everything directly on your phone for better privacy, faster responses, and full control over how the assistant behaves....]]></summary>
-        <author>
-            <name>Surya Teja Appini</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use LangChain and LangGraph: A Beginner’s Guide to AI Workflows]]></title>
-        <id>690b882e468be723832787a7</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-langchain-and-langgraph-a-beginners-guide-to-ai-workflows/"/>
-        <updated>2025-11-05T17:23:58.000Z</updated>
-        <summary type="html"><![CDATA[Artificial intelligence is moving fast. Every week, new tools appear that make it easier to build apps powered by large language models. But many beginners still get stuck on one question: how do you structure the logic of an AI application? How do y...]]></summary>
-        <author>
-            <name>Manish Shivanandhan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Event-Based Architectures in JavaScript: A Handbook for Devs]]></title>
-        <id>690b87a7da01ae579df92085</id>
-        <link href="https://www.freecodecamp.org/news/event-based-architectures-in-javascript-a-handbook-for-devs/"/>
-        <updated>2025-11-05T17:21:43.000Z</updated>
-        <summary type="html"><![CDATA[In modern software development, event-driven architectures have become one of the most powerful ways to build scalable, decoupled, and responsive systems. Instead of relying on direct calls between components, event-driven systems communicate through...]]></summary>
-        <author>
-            <name>German Cocca</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Do Global Execution Context and Temporal Dead Zone Work in JavaScript?]]></title>
-        <id>690b5691972e7bfdc1ed09c1</id>
-        <link href="https://www.freecodecamp.org/news/global-execution-context-and-temporal-dead-zone-explained/"/>
-        <updated>2025-11-05T13:52:17.000Z</updated>
-        <summary type="html"><![CDATA[Have you ever wondered how JavaScript runs your code behind the scenes, and how the Global Execution Context actually works? How does hoisting work for var, let, and const? Consider the code bellow: console.log('My age is', age) console.log('My name ...]]></summary>
-        <author>
-            <name>Shejan Mahamud</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Practical Guide To UX Strategy]]></title>
-        <id>https://smashingmagazine.com/2025/11/practical-guide-ux-strategy/</id>
-        <link href="https://smashingmagazine.com/2025/11/practical-guide-ux-strategy/"/>
-        <updated>2025-11-05T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Let’s dive into the building blocks of UX strategy and see how it speaks the language of product and business strategy to create user value while achieving company goals. Part of the Measure UX & Design Impact (use the code 🎟 IMPACT to save 20% off today).]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
         </author>
     </entry>
 </feed>
