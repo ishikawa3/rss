@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-06T00:15:05.690Z</updated>
+    <updated>2025-12-07T00:17:21.455Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
@@ -817,16 +817,6 @@ Headings: Semantics, Fluidity, and Styling — Oh My! originally published on CS
         <summary type="html"><![CDATA[As a developer who aspires to be a founder, building your first startup can be filled with excitement and ideas. The worst thing that could happen to you is jumping straight into the coding part. I was in this situation and the last thing on my mind ...]]></summary>
         <author>
             <name>Casmir Onyekani</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Guitar Theory Course for Beginners – Learn Fretboard, Major Scale and Triads]]></title>
-        <id>690ce6ccd9dcaa769b671c7e</id>
-        <link href="https://www.freecodecamp.org/news/guitar-theory-course-for-beginners-learn-fretboard-major-scale-and-triads/"/>
-        <updated>2025-11-06T18:19:56.000Z</updated>
-        <summary type="html"><![CDATA[Learn to play the guitar! We just posted a course on the freeCodeCamp.org YouTube channel that will teach you essential guitar theory including the fretboard, the major scale and the triads. It was created by baritone guitarist, Alex Gordon Hi-Fi. He...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
         </author>
     </entry>
     <entry>
