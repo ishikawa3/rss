@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=390475",
+          "author": "Kevine Nzapdi",
+          "description": "I would like to tell you what I learned from a five-year old child about HTML and CSS. It’s funny how explaining something you do almost naturally teaches you about yourself and what you take for granted.\nThat Time I Tried Explaining HTML and CSS to My 5-Year Old Niece originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/that-time-i-tried-explaining-html-and-css-to-my-5-year-old-niece/",
+          "publishedOn": "2025-12-08T14:45:43.000Z",
+          "wordCount": 2934,
+          "title": "That Time I Tried Explaining HTML and CSS to My 5-Year Old Niece",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/11/apple-css.webp"
+        },
+        {
           "id": "https://css-tricks.com/?p=390691",
           "author": "Geoff Graham",
           "description": "It's easy to think of HTML Web Components as a recent feature, but it has roots that go all the way back to 1998.\nHTML Web Components Proposal From 1998 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -133,6 +143,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2025/12/how-ux-professionals-can-lead-ai-strategy/",
+          "author": "hello@smashingmagazine.com (Paul Boag)",
+          "description": "Lead your organization’s AI strategy before someone else defines it for you. A practical framework for UX professionals to shape AI implementation.",
+          "link": "https://smashingmagazine.com/2025/12/how-ux-professionals-can-lead-ai-strategy/",
+          "publishedOn": "2025-12-08T08:00:00.000Z",
+          "wordCount": 4459,
+          "title": "How UX Professionals Can Lead AI Strategy",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/how-ux-professionals-can-lead-ai-strategy/how-ux-professionals-can-lead-ai-strategy.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/how-ux-professionals-can-lead-ai-strategy/how-ux-professionals-can-lead-ai-strategy.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2025/12/beyond-black-box-practical-xai-ux-practitioners/",
           "author": "hello@smashingmagazine.com (Victor Yocco)",
@@ -300,6 +325,36 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "693704c4f37606a62f1727d3",
+          "author": "Manish Shivanandhan",
+          "description": "Most business apps capture data. They track orders, tickets, leads, expenses, tasks, or deliveries. But when someone needs insights, they often leave the app, export a file or open a BI tool to get answers. This extra step slows down decisions and cr...",
+          "link": "https://www.freecodecamp.org/news/how-embedded-analytics-makes-your-app-more-valuable/",
+          "publishedOn": "2025-12-08T17:03:00.000Z",
+          "wordCount": 2248,
+          "title": "How Embedded Analytics Makes Your App More Valuable",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1765213278642/9bbd88ba-c803-45d5-bace-97cf7ccca83e.png"
+        },
+        {
+          "id": "693703cb19e18638588e6285",
+          "author": "Shrijal Acharya",
+          "description": "Frontend automation is moving fast. Tools like Figma MCP and Kombai can read design context and generate working UI code. I wanted to see what you actually get in practice, so I decided to compare them. Figma MCP exposes design metadata to AI clients...",
+          "link": "https://www.freecodecamp.org/news/figma-mcp-vs-kombai-frontend-clone-comparison/",
+          "publishedOn": "2025-12-08T16:58:51.000Z",
+          "wordCount": 4337,
+          "title": "Figma MCP vs Kombai: Cloning the Front End from Figma with AI Tools",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1765205804241/295ef345-b776-458a-bcdb-f1157c9c185b.png"
+        },
+        {
+          "id": "6936e6e9ba6866f4046b4f36",
+          "author": "Jessica Wilkins",
+          "description": "The freeCodeCamp community just published our new JavaScript certification. You can now sit for the exam to earn the free verified certification, which you can add to your résumé, CV, or LinkedIn profile. Each certification is filled with hundreds of...",
+          "link": "https://www.freecodecamp.org/news/freecodecamps-new-javascript-certification-is-now-live/",
+          "publishedOn": "2025-12-08T14:55:37.000Z",
+          "wordCount": 2716,
+          "title": "freeCodeCamp's New JavaScript Certification is Now Live",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1763760147447/32b0f575-098c-4898-945c-a2c696c699bb.png"
+        },
         {
           "id": "6932fc1b589bda49dd014db7",
           "author": "Manish Shivanandhan",

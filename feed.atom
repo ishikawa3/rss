@@ -2,10 +2,61 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-08T00:16:22.214Z</updated>
+    <updated>2025-12-09T00:15:42.785Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How Embedded Analytics Makes Your App More Valuable]]></title>
+        <id>693704c4f37606a62f1727d3</id>
+        <link href="https://www.freecodecamp.org/news/how-embedded-analytics-makes-your-app-more-valuable/"/>
+        <updated>2025-12-08T17:03:00.000Z</updated>
+        <summary type="html"><![CDATA[Most business apps capture data. They track orders, tickets, leads, expenses, tasks, or deliveries. But when someone needs insights, they often leave the app, export a file or open a BI tool to get answers. This extra step slows down decisions and cr...]]></summary>
+        <author>
+            <name>Manish Shivanandhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Figma MCP vs Kombai: Cloning the Front End from Figma with AI Tools]]></title>
+        <id>693703cb19e18638588e6285</id>
+        <link href="https://www.freecodecamp.org/news/figma-mcp-vs-kombai-frontend-clone-comparison/"/>
+        <updated>2025-12-08T16:58:51.000Z</updated>
+        <summary type="html"><![CDATA[Frontend automation is moving fast. Tools like Figma MCP and Kombai can read design context and generate working UI code. I wanted to see what you actually get in practice, so I decided to compare them. Figma MCP exposes design metadata to AI clients...]]></summary>
+        <author>
+            <name>Shrijal Acharya</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[freeCodeCamp's New JavaScript Certification is Now Live]]></title>
+        <id>6936e6e9ba6866f4046b4f36</id>
+        <link href="https://www.freecodecamp.org/news/freecodecamps-new-javascript-certification-is-now-live/"/>
+        <updated>2025-12-08T14:55:37.000Z</updated>
+        <summary type="html"><![CDATA[The freeCodeCamp community just published our new JavaScript certification. You can now sit for the exam to earn the free verified certification, which you can add to your résumé, CV, or LinkedIn profile. Each certification is filled with hundreds of...]]></summary>
+        <author>
+            <name>Jessica Wilkins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[That Time I Tried Explaining HTML and CSS to My 5-Year Old Niece]]></title>
+        <id>https://css-tricks.com/?p=390475</id>
+        <link href="https://css-tricks.com/that-time-i-tried-explaining-html-and-css-to-my-5-year-old-niece/"/>
+        <updated>2025-12-08T14:45:43.000Z</updated>
+        <summary type="html"><![CDATA[I would like to tell you what I learned from a five-year old child about HTML and CSS. It’s funny how explaining something you do almost naturally teaches you about yourself and what you take for granted.
+That Time I Tried Explaining HTML and CSS to My 5-Year Old Niece originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Kevine Nzapdi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How UX Professionals Can Lead AI Strategy]]></title>
+        <id>https://smashingmagazine.com/2025/12/how-ux-professionals-can-lead-ai-strategy/</id>
+        <link href="https://smashingmagazine.com/2025/12/how-ux-professionals-can-lead-ai-strategy/"/>
+        <updated>2025-12-08T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Lead your organization’s AI strategy before someone else defines it for you. A practical framework for UX professionals to shape AI implementation.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Paul Boag)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[HTML Web Components Proposal From 1998]]></title>
         <id>https://css-tricks.com/?p=390691</id>
