@@ -12,6 +12,21 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=390516",
+          "author": "Preethi",
+          "description": "It’s not that hard to do! Preethi shows you how it's really the same old animation you’re used to writing in CSS, only applied on a view timeline instead of a normal timeline.\nCreating Scroll-Based Animations in Full view() originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/creating-scroll-based-animations-in-full-view/",
+          "publishedOn": "2025-12-10T15:04:08.000Z",
+          "wordCount": 2292,
+          "title": "Creating Scroll-Based Animations in Full view()",
+          "enclosure": {
+            "url": "https://css-tricks.com/wp-content/uploads/2025/11/scroll-animation-carousel.mov",
+            "length": "6975029",
+            "type": "video/quicktime"
+          },
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/11/scroll-animations-range-not-set.png"
+        },
+        {
           "id": "https://css-tricks.com/?p=390785",
           "author": "Ryan Trimble",
           "description": "The Chrome Dev Team recaps the new CSS features that shipped in Google Chrome this past year in one amazingly designed webpage. They cover new functionality for creating more customizable components, next-gen interactions, and optimizing ergonomics.\nWe’ve …\nCSS Wrapped 2025 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -145,21 +160,6 @@
           "wordCount": 3233,
           "title": "The Range Syntax Has Come to Container Style Queries and if()",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2022/10/media-query-range-syntax.png"
-        },
-        {
-          "id": "https://css-tricks.com/?p=389885",
-          "author": "Geoff Graham",
-          "description": "A few links about headings that I've had stored under my top hat.\nHeadings: Semantics, Fluidity, and Styling — Oh My! originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/headings-semantics-fluidity-and-styling-oh-my/",
-          "publishedOn": "2025-11-10T14:44:13.000Z",
-          "wordCount": 2534,
-          "title": "Headings: Semantics, Fluidity, and Styling — Oh My!",
-          "enclosure": {
-            "url": "https://css-tricks.com/wp-content/uploads/2025/10/fluid-heading.mov",
-            "length": "6253881",
-            "type": "video/quicktime"
-          },
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/10/heading-levels-h1-h3.jpg"
         }
       ]
     },
@@ -357,21 +357,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/older-tech-browser-stack/older-tech-browser-stack.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2025/11/effectively-monitoring-web-performance/",
-          "author": "hello@smashingmagazine.com (Matt Zeunert)",
-          "description": "There are lots of tips for [improving your website performance](https://www.debugbear.com/blog/improve-website-performance?utm_campaign=sm-10). But even if you follow all of the advice, are you able to maintain an optimized site? And are you targeting the right pages? Matt Zeunert outlines an effective strategy for web performance optimization and explains the roles that different types of data play in it.",
-          "link": "https://smashingmagazine.com/2025/11/effectively-monitoring-web-performance/",
-          "publishedOn": "2025-11-11T10:00:00.000Z",
-          "wordCount": 3961,
-          "title": "Effectively Monitoring Web Performance",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/effectively-monitoring-web-performance/effectively-monitoring-web-performance.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/effectively-monitoring-web-performance/effectively-monitoring-web-performance.jpg"
         }
       ]
     },
@@ -380,6 +365,66 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "6939b88a5a4b3354fde8c07b",
+          "author": "Sara Jadhav",
+          "description": "In this article, I’ll give you a beginner-friendly introduction to the Polars library in Python. Polars is an open-source library, originally written in Rust, which makes data wrangling easier in Python. The syntax of Polars is very similar to Pandas...",
+          "link": "https://www.freecodecamp.org/news/how-to-use-the-polars-library-in-python-for-data-analysis/",
+          "publishedOn": "2025-12-10T18:14:34.000Z",
+          "wordCount": 6245,
+          "title": "How to Use the Polars Library in Python for Data Analysis",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1765325732081/94ab547b-fdaf-41bb-ae60-ad03be31211a.png"
+        },
+        {
+          "id": "6939b6ee10076c81dd6c3f49",
+          "author": "Arunachalam B",
+          "description": "Web development is always evolving, and sometimes those changes happen a bit under the hood. One such change involved the shift to React Server Components (RSC). If you’re a NextJS or React developer, especially using the App Router, understanding th...",
+          "link": "https://www.freecodecamp.org/news/reacts-critical-react2shell-vulnerability-what-you-should-know-and-how-to-upgrade-your-app/",
+          "publishedOn": "2025-12-10T18:07:42.000Z",
+          "wordCount": 2413,
+          "title": "React’s Critical \"React2Shell\" Vulnerability — What You Should Know, and How to Upgrade Your App",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1765328805925/a9c016a1-90a9-4123-bbb0-17c7d46da035.png"
+        },
+        {
+          "id": "6939973f5518db00ad552055",
+          "author": "Nielda Karla",
+          "description": "The freeCodeCamp community just published our new A2 English for Developers certification. You can now sit for the exam to earn the free verified certification, which you can add to your résumé, CV, or LinkedIn profile. How Does the A2 English for D...",
+          "link": "https://www.freecodecamp.org/news/freecodecamps-a2-english-for-developers-certification-is-now-live/",
+          "publishedOn": "2025-12-10T15:52:31.000Z",
+          "wordCount": 2480,
+          "title": "freeCodeCamp's A2 English for Developers Certification is Now Live",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1764781521906/b24af8b2-4bc2-4e0c-88ae-c121507cebdc.png"
+        },
+        {
+          "id": "6939907d149667a2e0b357dd",
+          "author": "Beau Carnes",
+          "description": "Learn about the complete neural machine translation journey. We just posted a course on the freeCodeCamp.org YouTube channel that is a comprehensive journey through the evolution of sequence models and neural machine translation (NMT). It blends hist...",
+          "link": "https://www.freecodecamp.org/news/building-nmt-from-scratch-pytorch-replications-of-7-landmark-papers/",
+          "publishedOn": "2025-12-10T15:23:41.000Z",
+          "wordCount": 1186,
+          "title": "Building NMT from Scratch – PyTorch Replications of 7 Landmark Papers",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1765380195051/cafca462-96d6-49a4-b182-24d7a4f438f9.jpeg"
+        },
+        {
+          "id": "69398d140eb4fb84a7ed1561",
+          "author": "Beau Carnes",
+          "description": "Learn to build AI agents with Langbase. We just posted a course on the freeCodeCamp.org YouTube channel that will teach you how to create context-engineered agents that use memory and AI primitives to take action and deliver accurate, production-read...",
+          "link": "https://www.freecodecamp.org/news/build-ai-agents-with-langbase/",
+          "publishedOn": "2025-12-10T15:09:08.000Z",
+          "wordCount": 1058,
+          "title": "Build AI Agents with Langbase",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1765379245144/d2dd6d43-155d-4336-a277-db7b8dbae70a.jpeg"
+        },
+        {
+          "id": "69398520ef68a953062588d1",
+          "author": "Amina Lawal",
+          "description": "You've built your first Generative AI feature. Now what? When deploying AI, the challenge is no longer if the model can answer, but how fast it can answer for a user halfway across the globe. Low latency is not a luxury, it's a requirement for good u...",
+          "link": "https://www.freecodecamp.org/news/how-to-reduce-latency-in-your-generative-ai-apps-with-gemini-and-cloud-run/",
+          "publishedOn": "2025-12-10T14:35:12.000Z",
+          "wordCount": 3743,
+          "title": "How to Reduce Latency in Your Generative AI Apps with Gemini and Cloud Run",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1765370930321/e4256d2f-cab3-4ae3-9486-c6651e363366.png"
+        },
         {
           "id": "693775071df2bd7125d8e5f3",
           "author": "Wisamul Haque",
@@ -919,26 +964,6 @@
           "wordCount": 4082,
           "title": "How to Integrate Vector Search in Columnar Storage",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1762983768101/928331bd-3f97-4d05-92fb-2d8ea9af5dab.png"
-        },
-        {
-          "id": "691256ca726af9fcf5543027",
-          "author": "Manish Shivanandhan",
-          "description": "Running a large language model (LLM) on your computer is now easier than ever. You no longer need a cloud subscription or a massive server. With just your PC, you can run models like Llama, Mistral, or Phi, privately and offline. This guide will show...",
-          "link": "https://www.freecodecamp.org/news/how-to-run-an-open-source-llm-on-your-personal-computer-run-ollama-locally/",
-          "publishedOn": "2025-11-10T21:19:06.000Z",
-          "wordCount": 2175,
-          "title": "How To Run an Open-Source LLM on Your Personal Computer – Run Ollama Locally",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1762809417189/37e154b9-9bf0-4210-921a-4722cd448b09.png"
-        },
-        {
-          "id": "691228d49872f01b424e3353",
-          "author": "Beau Carnes",
-          "description": "Vue.js is a progressive JavaScript framework for building user interfaces and single-page applications. Loved for its simplicity, flexibility, and performance, it allows developers to start small and scale up to complex applications with ease. Whethe...",
-          "link": "https://www.freecodecamp.org/news/learn-vuejs-javascript-framework-course/",
-          "publishedOn": "2025-11-10T18:03:00.000Z",
-          "wordCount": 1041,
-          "title": "Learn Vue.js – JavaScript Framework Course",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1762797723327/7e67725a-1f0c-48fa-ad5c-173495b0ffeb.jpeg"
         }
       ]
     }

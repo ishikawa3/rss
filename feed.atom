@@ -2,10 +2,81 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-10T00:16:09.689Z</updated>
+    <updated>2025-12-11T00:16:37.844Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Use the Polars Library in Python for Data Analysis]]></title>
+        <id>6939b88a5a4b3354fde8c07b</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-the-polars-library-in-python-for-data-analysis/"/>
+        <updated>2025-12-10T18:14:34.000Z</updated>
+        <summary type="html"><![CDATA[In this article, I’ll give you a beginner-friendly introduction to the Polars library in Python. Polars is an open-source library, originally written in Rust, which makes data wrangling easier in Python. The syntax of Polars is very similar to Pandas...]]></summary>
+        <author>
+            <name>Sara Jadhav</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[React’s Critical "React2Shell" Vulnerability — What You Should Know, and How to Upgrade Your App]]></title>
+        <id>6939b6ee10076c81dd6c3f49</id>
+        <link href="https://www.freecodecamp.org/news/reacts-critical-react2shell-vulnerability-what-you-should-know-and-how-to-upgrade-your-app/"/>
+        <updated>2025-12-10T18:07:42.000Z</updated>
+        <summary type="html"><![CDATA[Web development is always evolving, and sometimes those changes happen a bit under the hood. One such change involved the shift to React Server Components (RSC). If you’re a NextJS or React developer, especially using the App Router, understanding th...]]></summary>
+        <author>
+            <name>Arunachalam B</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[freeCodeCamp's A2 English for Developers Certification is Now Live]]></title>
+        <id>6939973f5518db00ad552055</id>
+        <link href="https://www.freecodecamp.org/news/freecodecamps-a2-english-for-developers-certification-is-now-live/"/>
+        <updated>2025-12-10T15:52:31.000Z</updated>
+        <summary type="html"><![CDATA[The freeCodeCamp community just published our new A2 English for Developers certification. You can now sit for the exam to earn the free verified certification, which you can add to your résumé, CV, or LinkedIn profile. How Does the A2 English for D...]]></summary>
+        <author>
+            <name>Nielda Karla</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building NMT from Scratch – PyTorch Replications of 7 Landmark Papers]]></title>
+        <id>6939907d149667a2e0b357dd</id>
+        <link href="https://www.freecodecamp.org/news/building-nmt-from-scratch-pytorch-replications-of-7-landmark-papers/"/>
+        <updated>2025-12-10T15:23:41.000Z</updated>
+        <summary type="html"><![CDATA[Learn about the complete neural machine translation journey. We just posted a course on the freeCodeCamp.org YouTube channel that is a comprehensive journey through the evolution of sequence models and neural machine translation (NMT). It blends hist...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build AI Agents with Langbase]]></title>
+        <id>69398d140eb4fb84a7ed1561</id>
+        <link href="https://www.freecodecamp.org/news/build-ai-agents-with-langbase/"/>
+        <updated>2025-12-10T15:09:08.000Z</updated>
+        <summary type="html"><![CDATA[Learn to build AI agents with Langbase. We just posted a course on the freeCodeCamp.org YouTube channel that will teach you how to create context-engineered agents that use memory and AI primitives to take action and deliver accurate, production-read...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Creating Scroll-Based Animations in Full view()]]></title>
+        <id>https://css-tricks.com/?p=390516</id>
+        <link href="https://css-tricks.com/creating-scroll-based-animations-in-full-view/"/>
+        <updated>2025-12-10T15:04:08.000Z</updated>
+        <summary type="html"><![CDATA[It’s not that hard to do! Preethi shows you how it's really the same old animation you’re used to writing in CSS, only applied on a view timeline instead of a normal timeline.
+Creating Scroll-Based Animations in Full view() originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Preethi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Reduce Latency in Your Generative AI Apps with Gemini and Cloud Run]]></title>
+        <id>69398520ef68a953062588d1</id>
+        <link href="https://www.freecodecamp.org/news/how-to-reduce-latency-in-your-generative-ai-apps-with-gemini-and-cloud-run/"/>
+        <updated>2025-12-10T14:35:12.000Z</updated>
+        <summary type="html"><![CDATA[You've built your first Generative AI feature. Now what? When deploying AI, the challenge is no longer if the model can answer, but how fast it can answer for a user halfway across the globe. Low latency is not a luxury, it's a requirement for good u...]]></summary>
+        <author>
+            <name>Amina Lawal</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Accessible UX Research, eBook Now Available For Download]]></title>
         <id>https://smashingmagazine.com/2025/12/accessible-ux-research-ebook-release/</id>
@@ -820,47 +891,6 @@ The Range Syntax Has Come to Container Style Queries and if() originally publish
         <summary type="html"><![CDATA[Integrating vector search into traditional data platforms is becoming a common task in the current AI-driven landscape. When Google announced general availability for vector search in BigQuery in early 2024, it joined a growing list of established da...]]></summary>
         <author>
             <name>Chirag Agrawal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Effectively Monitoring Web Performance]]></title>
-        <id>https://smashingmagazine.com/2025/11/effectively-monitoring-web-performance/</id>
-        <link href="https://smashingmagazine.com/2025/11/effectively-monitoring-web-performance/"/>
-        <updated>2025-11-11T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[There are lots of tips for [improving your website performance](https://www.debugbear.com/blog/improve-website-performance?utm_campaign=sm-10). But even if you follow all of the advice, are you able to maintain an optimized site? And are you targeting the right pages? Matt Zeunert outlines an effective strategy for web performance optimization and explains the roles that different types of data play in it.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Matt Zeunert)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Run an Open-Source LLM on Your Personal Computer – Run Ollama Locally]]></title>
-        <id>691256ca726af9fcf5543027</id>
-        <link href="https://www.freecodecamp.org/news/how-to-run-an-open-source-llm-on-your-personal-computer-run-ollama-locally/"/>
-        <updated>2025-11-10T21:19:06.000Z</updated>
-        <summary type="html"><![CDATA[Running a large language model (LLM) on your computer is now easier than ever. You no longer need a cloud subscription or a massive server. With just your PC, you can run models like Llama, Mistral, or Phi, privately and offline. This guide will show...]]></summary>
-        <author>
-            <name>Manish Shivanandhan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn Vue.js – JavaScript Framework Course]]></title>
-        <id>691228d49872f01b424e3353</id>
-        <link href="https://www.freecodecamp.org/news/learn-vuejs-javascript-framework-course/"/>
-        <updated>2025-11-10T18:03:00.000Z</updated>
-        <summary type="html"><![CDATA[Vue.js is a progressive JavaScript framework for building user interfaces and single-page applications. Loved for its simplicity, flexibility, and performance, it allows developers to start small and scale up to complex applications with ease. Whethe...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Headings: Semantics, Fluidity, and Styling — Oh My!]]></title>
-        <id>https://css-tricks.com/?p=389885</id>
-        <link href="https://css-tricks.com/headings-semantics-fluidity-and-styling-oh-my/"/>
-        <updated>2025-11-10T14:44:13.000Z</updated>
-        <summary type="html"><![CDATA[A few links about headings that I've had stored under my top hat.
-Headings: Semantics, Fluidity, and Styling — Oh My! originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
         </author>
     </entry>
 </feed>
