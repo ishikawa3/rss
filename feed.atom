@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-11T00:16:37.844Z</updated>
+    <updated>2025-12-12T00:16:22.536Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Learn n8n to Design, Develop, and Deploy Production-Grade AI Agents]]></title>
+        <id>693b0c06b189322615083d9f</id>
+        <link href="https://www.freecodecamp.org/news/learn-n8n-to-design-develop-and-deploy-production-grade-ai-agents/"/>
+        <updated>2025-12-11T18:23:02.000Z</updated>
+        <summary type="html"><![CDATA[n8n is an open-source, visual workflow automation tool that lets you connect applications, APIs, and AI models to build complex, intelligent automations. We just posted a course on the freeCodeCamp.org YouTube channel that will be your guide to maste...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Work with YAML in Python – A Guide with Examples]]></title>
+        <id>6939fb2773d2f31ad28cfef5</id>
+        <link href="https://www.freecodecamp.org/news/how-to-work-with-yaml-in-python-a-guide-with-examples/"/>
+        <updated>2025-12-10T22:58:47.000Z</updated>
+        <summary type="html"><![CDATA[If you've ever worked with configuration files, Docker Compose, Kubernetes, or CI/CD pipelines, you've probably used YAML. It's everywhere in modern development, and for good reason: it’s human-readable, simple, and powerful. In this guide, you'll le...]]></summary>
+        <author>
+            <name>Bala Priya C</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Use the Polars Library in Python for Data Analysis]]></title>
         <id>6939b88a5a4b3354fde8c07b</id>

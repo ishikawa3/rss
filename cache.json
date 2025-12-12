@@ -366,6 +366,26 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "693b0c06b189322615083d9f",
+          "author": "Beau Carnes",
+          "description": "n8n is an open-source, visual workflow automation tool that lets you connect applications, APIs, and AI models to build complex, intelligent automations. We just posted a course on the freeCodeCamp.org YouTube channel that will be your guide to maste...",
+          "link": "https://www.freecodecamp.org/news/learn-n8n-to-design-develop-and-deploy-production-grade-ai-agents/",
+          "publishedOn": "2025-12-11T18:23:02.000Z",
+          "wordCount": 1094,
+          "title": "Learn n8n to Design, Develop, and Deploy Production-Grade AI Agents",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1765477338398/5c72b733-c04f-4722-8c30-67e3bb9043e5.jpeg"
+        },
+        {
+          "id": "6939fb2773d2f31ad28cfef5",
+          "author": "Bala Priya C",
+          "description": "If you've ever worked with configuration files, Docker Compose, Kubernetes, or CI/CD pipelines, you've probably used YAML. It's everywhere in modern development, and for good reason: it’s human-readable, simple, and powerful. In this guide, you'll le...",
+          "link": "https://www.freecodecamp.org/news/how-to-work-with-yaml-in-python-a-guide-with-examples/",
+          "publishedOn": "2025-12-10T22:58:47.000Z",
+          "wordCount": 2128,
+          "title": "How to Work with YAML in Python – A Guide with Examples",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1765407508788/61769835-bd12-486e-8f8e-ba0f3a7af83c.png"
+        },
+        {
           "id": "6939b88a5a4b3354fde8c07b",
           "author": "Sara Jadhav",
           "description": "In this article, I’ll give you a beginner-friendly introduction to the Polars library in Python. Polars is an open-source library, originally written in Rust, which makes data wrangling easier in Python. The syntax of Polars is very similar to Pandas...",
