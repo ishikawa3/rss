@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=390654",
+          "author": "Daniel Schwarz",
+          "description": "How far can we really go with container queries? There are dozens of media queries now, so what if there were dozens of container queries as well? What could we use them for?\nWhat Else Could Container Queries… Query? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/what-else-could-container-queries-query/",
+          "publishedOn": "2025-12-12T14:38:18.000Z",
+          "wordCount": 1938,
+          "title": "What Else Could Container Queries… Query?",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2022/10/container-style-queries.png"
+        },
+        {
           "id": "https://css-tricks.com/?p=390516",
           "author": "Preethi",
           "description": "It’s not that hard to do! Preethi shows you how it's really the same old animation you’re used to writing in CSS, only applied on a view timeline instead of a normal timeline.\nCreating Scroll-Based Animations in Full view() originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -342,21 +352,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/css-gamepad-api-visual-debugging-css-layers/css-gamepad-api-visual-debugging-css-layers.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2025/11/older-tech-browser-stack/",
-          "author": "hello@smashingmagazine.com (Bryan Rasmussen)",
-          "description": "There are many existing web features and technologies in the wild that you may never touch directly in your day-to-day work. Perhaps you’re fairly new to web development and are simply unaware of them because you’re steeped in the abstraction of a specific framework that doesn’t require you to know it deeply, or even at all. Bryan Rasmussen looks specifically at XPath and demonstrates how it can be used alongside CSS to query elements.",
-          "link": "https://smashingmagazine.com/2025/11/older-tech-browser-stack/",
-          "publishedOn": "2025-11-13T08:00:00.000Z",
-          "wordCount": 6489,
-          "title": "Older Tech In The Browser Stack",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/older-tech-browser-stack/older-tech-browser-stack.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/older-tech-browser-stack/older-tech-browser-stack.jpg"
         }
       ]
     },
@@ -365,6 +360,36 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "693c859b176ed5964e28b921",
+          "author": "Sumit Saha",
+          "description": "In this handbook, you’re going to dive into something really exciting: Git and GitHub. To start, let’s clear one thing up: Git and GitHub are not the same thing. In short, Git is the tool that runs on your own computer and keeps track of changes in y...",
+          "link": "https://www.freecodecamp.org/news/learn-how-to-use-git-and-github-a-beginner-friendly-handbook/",
+          "publishedOn": "2025-12-12T21:14:03.000Z",
+          "wordCount": 14580,
+          "title": "Learn How to Use Git and GitHub – A Beginner-Friendly Handbook",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1765495440352/0eadf330-7a89-4328-aed1-3c851d279a5d.png"
+        },
+        {
+          "id": "693c5d28a2bfa1537f407a65",
+          "author": "Tapas Adhikary",
+          "description": "Have you ever clicked a Like icon on a social media app and noticed the count jumps instantly? The colour of the icon changes at the same time, even before the server finishes the action. Now imagine you hit the same Like button, but it takes its swe...",
+          "link": "https://www.freecodecamp.org/news/how-to-use-the-optimistic-ui-pattern-with-the-useoptimistic-hook-in-react/",
+          "publishedOn": "2025-12-12T18:21:28.000Z",
+          "wordCount": 3033,
+          "title": "How to Use the Optimistic UI Pattern with the useOptimistic() Hook in React",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1765561440350/c3546e6c-8b23-476a-86d4-b63fd2cb9f6c.png"
+        },
+        {
+          "id": "693c2e0a16d9b095b8e7825d",
+          "author": "Beau Carnes",
+          "description": "Today Quincy Larson interviews Jason Lengstorf. He's a college dropout who taught himself programming while building websites for his emo band. 22 years later he's worked as a developer at IBM, Netlify, run his own dev consultancy, and he now runs Co...",
+          "link": "https://www.freecodecamp.org/news/the-ai-is-going-to-replace-devs-hype-is-over-22-year-developer-veteran-jason-lengstorf-podcast-201/",
+          "publishedOn": "2025-12-12T15:00:26.000Z",
+          "wordCount": 1353,
+          "title": "The \"AI is going to replace devs\" hype is over – 22-year developer veteran Jason Lengstorf [Podcast #201]",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1765503442357/425ab16a-040b-4a56-8dd9-32910ae8752f.jpeg"
+        },
         {
           "id": "693b0c06b189322615083d9f",
           "author": "Beau Carnes",
@@ -974,16 +999,6 @@
           "wordCount": 1231,
           "title": "Build Complex Workflows with n8n & Master AI Integration",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1762950806004/02d41988-6e9f-4962-8872-c41110175882.jpeg"
-        },
-        {
-          "id": "6914ff68e1ffda5f6ea6d8ea",
-          "author": "Chirag Agrawal",
-          "description": "Integrating vector search into traditional data platforms is becoming a common task in the current AI-driven landscape. When Google announced general availability for vector search in BigQuery in early 2024, it joined a growing list of established da...",
-          "link": "https://www.freecodecamp.org/news/how-to-integrate-vector-search-in-columnar-storage/",
-          "publishedOn": "2025-11-12T21:43:04.000Z",
-          "wordCount": 4082,
-          "title": "How to Integrate Vector Search in Columnar Storage",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1762983768101/928331bd-3f97-4d05-92fb-2d8ea9af5dab.png"
         }
       ]
     }

@@ -2,10 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-12T00:16:22.536Z</updated>
+    <updated>2025-12-13T00:15:56.519Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Learn How to Use Git and GitHub – A Beginner-Friendly Handbook]]></title>
+        <id>693c859b176ed5964e28b921</id>
+        <link href="https://www.freecodecamp.org/news/learn-how-to-use-git-and-github-a-beginner-friendly-handbook/"/>
+        <updated>2025-12-12T21:14:03.000Z</updated>
+        <summary type="html"><![CDATA[In this handbook, you’re going to dive into something really exciting: Git and GitHub. To start, let’s clear one thing up: Git and GitHub are not the same thing. In short, Git is the tool that runs on your own computer and keeps track of changes in y...]]></summary>
+        <author>
+            <name>Sumit Saha</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use the Optimistic UI Pattern with the useOptimistic() Hook in React]]></title>
+        <id>693c5d28a2bfa1537f407a65</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-the-optimistic-ui-pattern-with-the-useoptimistic-hook-in-react/"/>
+        <updated>2025-12-12T18:21:28.000Z</updated>
+        <summary type="html"><![CDATA[Have you ever clicked a Like icon on a social media app and noticed the count jumps instantly? The colour of the icon changes at the same time, even before the server finishes the action. Now imagine you hit the same Like button, but it takes its swe...]]></summary>
+        <author>
+            <name>Tapas Adhikary</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The "AI is going to replace devs" hype is over – 22-year developer veteran Jason Lengstorf [Podcast #201]]]></title>
+        <id>693c2e0a16d9b095b8e7825d</id>
+        <link href="https://www.freecodecamp.org/news/the-ai-is-going-to-replace-devs-hype-is-over-22-year-developer-veteran-jason-lengstorf-podcast-201/"/>
+        <updated>2025-12-12T15:00:26.000Z</updated>
+        <summary type="html"><![CDATA[Today Quincy Larson interviews Jason Lengstorf. He's a college dropout who taught himself programming while building websites for his emo band. 22 years later he's worked as a developer at IBM, Netlify, run his own dev consultancy, and he now runs Co...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Else Could Container Queries… Query?]]></title>
+        <id>https://css-tricks.com/?p=390654</id>
+        <link href="https://css-tricks.com/what-else-could-container-queries-query/"/>
+        <updated>2025-12-12T14:38:18.000Z</updated>
+        <summary type="html"><![CDATA[How far can we really go with container queries? There are dozens of media queries now, so what if there were dozens of container queries as well? What could we use them for?
+What Else Could Container Queries… Query? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Daniel Schwarz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Learn n8n to Design, Develop, and Deploy Production-Grade AI Agents]]></title>
         <id>693b0c06b189322615083d9f</id>
@@ -891,26 +932,6 @@ The Range Syntax Has Come to Container Style Queries and if() originally publish
         <summary type="html"><![CDATA[n8n is an open-source workflow automation platform that lets you connect different apps, APIs, and services to easily automate tasks without needing to implement extensive code. We just posted a course on the freeCodeCamp.org YouTube channel that is ...]]></summary>
         <author>
             <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Older Tech In The Browser Stack]]></title>
-        <id>https://smashingmagazine.com/2025/11/older-tech-browser-stack/</id>
-        <link href="https://smashingmagazine.com/2025/11/older-tech-browser-stack/"/>
-        <updated>2025-11-13T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[There are many existing web features and technologies in the wild that you may never touch directly in your day-to-day work. Perhaps you’re fairly new to web development and are simply unaware of them because you’re steeped in the abstraction of a specific framework that doesn’t require you to know it deeply, or even at all. Bryan Rasmussen looks specifically at XPath and demonstrates how it can be used alongside CSS to query elements.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Bryan Rasmussen)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Integrate Vector Search in Columnar Storage]]></title>
-        <id>6914ff68e1ffda5f6ea6d8ea</id>
-        <link href="https://www.freecodecamp.org/news/how-to-integrate-vector-search-in-columnar-storage/"/>
-        <updated>2025-11-12T21:43:04.000Z</updated>
-        <summary type="html"><![CDATA[Integrating vector search into traditional data platforms is becoming a common task in the current AI-driven landscape. When Google announced general availability for vector search in BigQuery in early 2024, it joined a growing list of established da...]]></summary>
-        <author>
-            <name>Chirag Agrawal</name>
         </author>
     </entry>
 </feed>
