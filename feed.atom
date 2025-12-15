@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-14T00:17:49.005Z</updated>
+    <updated>2025-12-15T00:17:29.772Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
@@ -780,57 +780,6 @@ Should We Even Have :closed? originally published on CSS-Tricks, which is part 
 The “Most Hated” CSS Feature: asin(), acos(), atan() and atan2() originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Juan Diego Rodríguez</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Get Started with PocketBase: Build a Lightweight Backend in Minutes]]></title>
-        <id>691770eb5879bafaa784b694</id>
-        <link href="https://www.freecodecamp.org/news/how-to-get-started-with-pocketbase-build-a-lightweight-backend-in-minutes/"/>
-        <updated>2025-11-14T18:11:55.000Z</updated>
-        <summary type="html"><![CDATA[If you’re a developer looking for a simple, fast, and self-hosted backend, PocketBase might be exactly what you need.  It’s an open-source backend written in Go that lets you set up a complete backend with database, authentication, file storage, and ...]]></summary>
-        <author>
-            <name>Manish Shivanandhan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Quiet UI Came and Went, Quiet as a Mouse]]></title>
-        <id>https://css-tricks.com/?p=390408</id>
-        <link href="https://css-tricks.com/quiet-ui-came-and-went-quiet-as-a-mouse/"/>
-        <updated>2025-11-14T15:32:50.000Z</updated>
-        <summary type="html"><![CDATA[The extremely new framework that caught lots of attention will continue as a personal project.
-Quiet UI Came and Went, Quiet as a Mouse originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Ryan Trimble</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Harvard CS50 prof David J. Malan on why you should learn programming slowly [Podcast #197]]]></title>
-        <id>69174b1090e746d252948913</id>
-        <link href="https://www.freecodecamp.org/news/harvard-cs50-prof-david-j-malan-on-why-you-should-learn-programming-slowly-podcast-197/"/>
-        <updated>2025-11-14T15:30:24.000Z</updated>
-        <summary type="html"><![CDATA[Dr. David J. Malan teaches computer science at Harvard. Over the past decade, millions of people have taken his CS50 course both in person and online. He joins us to talk about: Why he still recommends learning the C programming language in 2026 Ho...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Implement Dependency Injection in FastAPI]]></title>
-        <id>691740a91f4fa448325a55f9</id>
-        <link href="https://www.freecodecamp.org/news/how-to-implement-dependency-injection-in-fastapi/"/>
-        <updated>2025-11-14T14:46:01.000Z</updated>
-        <summary type="html"><![CDATA[Several languages and frameworks depend on dependency injection—no pun intended. Go, Angular, NestJS, and Python's FastAPI all use it as a core pattern. If you've been working with FastAPI, you've likely encountered dependencies in action. Perhaps yo...]]></summary>
-        <author>
-            <name>Nneoma Uche</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSS Gamepad API Visual Debugging With CSS Layers]]></title>
-        <id>https://smashingmagazine.com/2025/11/css-gamepad-api-visual-debugging-css-layers/</id>
-        <link href="https://smashingmagazine.com/2025/11/css-gamepad-api-visual-debugging-css-layers/"/>
-        <updated>2025-11-14T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Debugging controllers can be a real pain. Here’s a deep dive into how CSS helps clean it up and how to build a reusable visual debugger for your own projects.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Godstime Aburu)</name>
         </author>
     </entry>
 </feed>

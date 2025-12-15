@@ -150,16 +150,6 @@
           "wordCount": 4131,
           "title": "The “Most Hated” CSS Feature: asin(), acos(), atan() and atan2()",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/11/css-trig-unit-circle-diagram.jpg"
-        },
-        {
-          "id": "https://css-tricks.com/?p=390408",
-          "author": "Ryan Trimble",
-          "description": "The extremely new framework that caught lots of attention will continue as a personal project.\nQuiet UI Came and Went, Quiet as a Mouse originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/quiet-ui-came-and-went-quiet-as-a-mouse/",
-          "publishedOn": "2025-11-14T15:32:50.000Z",
-          "wordCount": 1860,
-          "title": "Quiet UI Came and Went, Quiet as a Mouse",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/11/quiet-ui.png"
         }
       ]
     },
@@ -327,21 +317,6 @@
           "wordCount": 3718,
           "title": "From Chaos To Clarity: Simplifying Server Management With AI And Automation",
           "imageUrl": "https:null"
-        },
-        {
-          "id": "https://smashingmagazine.com/2025/11/css-gamepad-api-visual-debugging-css-layers/",
-          "author": "hello@smashingmagazine.com (Godstime Aburu)",
-          "description": "Debugging controllers can be a real pain. Here’s a deep dive into how CSS helps clean it up and how to build a reusable visual debugger for your own projects.",
-          "link": "https://smashingmagazine.com/2025/11/css-gamepad-api-visual-debugging-css-layers/",
-          "publishedOn": "2025-11-14T13:00:00.000Z",
-          "wordCount": 6492,
-          "title": "CSS Gamepad API Visual Debugging With CSS Layers",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/css-gamepad-api-visual-debugging-css-layers/css-gamepad-api-visual-debugging-css-layers.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/css-gamepad-api-visual-debugging-css-layers/css-gamepad-api-visual-debugging-css-layers.jpg"
         }
       ]
     },
@@ -869,36 +844,6 @@
           "wordCount": 1211,
           "title": "Intro to Backend Web Development – Node.js, Express, MongoDB",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1763372629451/d682e5f7-31d1-48af-8957-8e916b7b506a.jpeg"
-        },
-        {
-          "id": "691770eb5879bafaa784b694",
-          "author": "Manish Shivanandhan",
-          "description": "If you’re a developer looking for a simple, fast, and self-hosted backend, PocketBase might be exactly what you need.  It’s an open-source backend written in Go that lets you set up a complete backend with database, authentication, file storage, and ...",
-          "link": "https://www.freecodecamp.org/news/how-to-get-started-with-pocketbase-build-a-lightweight-backend-in-minutes/",
-          "publishedOn": "2025-11-14T18:11:55.000Z",
-          "wordCount": 2512,
-          "title": "How to Get Started with PocketBase: Build a Lightweight Backend in Minutes",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1763143867523/1a4c8cd4-629f-4dd7-8a82-5b6d0d34d90e.png"
-        },
-        {
-          "id": "69174b1090e746d252948913",
-          "author": "Beau Carnes",
-          "description": "Dr. David J. Malan teaches computer science at Harvard. Over the past decade, millions of people have taken his CS50 course both in person and online. He joins us to talk about: Why he still recommends learning the C programming language in 2026 Ho...",
-          "link": "https://www.freecodecamp.org/news/harvard-cs50-prof-david-j-malan-on-why-you-should-learn-programming-slowly-podcast-197/",
-          "publishedOn": "2025-11-14T15:30:24.000Z",
-          "wordCount": 1305,
-          "title": "Harvard CS50 prof David J. Malan on why you should learn programming slowly [Podcast #197]",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1763049586370/5f7786af-7213-444f-acff-a8060ccbfc88.jpeg"
-        },
-        {
-          "id": "691740a91f4fa448325a55f9",
-          "author": "Nneoma Uche",
-          "description": "Several languages and frameworks depend on dependency injection—no pun intended. Go, Angular, NestJS, and Python's FastAPI all use it as a core pattern. If you've been working with FastAPI, you've likely encountered dependencies in action. Perhaps yo...",
-          "link": "https://www.freecodecamp.org/news/how-to-implement-dependency-injection-in-fastapi/",
-          "publishedOn": "2025-11-14T14:46:01.000Z",
-          "wordCount": 3191,
-          "title": "How to Implement Dependency Injection in FastAPI",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1763131442081/76eff35b-be68-49c1-9743-d78ebc87b292.png"
         }
       ]
     }
