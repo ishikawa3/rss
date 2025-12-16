@@ -12,6 +12,31 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=391095",
+          "author": "Geoff Graham",
+          "description": "Andy Clarke with a brand-new resource. It generates the sort of fun typography that Andy commonly uses in his own work that's geared towards cartoon headings.\nToon Title Text Generator originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/toon-title-text-generator/",
+          "publishedOn": "2025-12-15T17:55:55.000Z",
+          "wordCount": 1134,
+          "title": "Toon Title Text Generator",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/12/Screenshot-2025-12-15-at-10.45.29-AM.png"
+        },
+        {
+          "id": "https://css-tricks.com/?p=390560",
+          "author": "Temani Afif",
+          "description": "A list of rounded images that slightly overlap each other is a classic web design pattern. The main idea is not complex, but the new thing is the responsive part. that dynamically adjusts the overlap between the images so they fit inside the container.\nResponsive List of Avatars Using Modern CSS (Part 1) originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/responsive-list-of-avatars-using-modern-css-part-1/",
+          "publishedOn": "2025-12-15T16:19:23.000Z",
+          "wordCount": 3327,
+          "title": "Responsive List of Avatars Using Modern CSS (Part 1)",
+          "enclosure": {
+            "url": "http://css-tricks.com/wp-content/uploads/2025/11/stacked-images-responsive-10.mov",
+            "length": "0",
+            "type": "video/quicktime"
+          },
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/11/Screenshot-2025-11-24-at-9.32.20-AM.png"
+        },
+        {
           "id": "https://css-tricks.com/?p=390654",
           "author": "Daniel Schwarz",
           "description": "How far can we really go with container queries? There are dozens of media queries now, so what if there were dozens of container queries as well? What could we use them for?\nWhat Else Could Container Queries… Query? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -325,6 +350,16 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "6940200b3e9f58ff90228d6c",
+          "author": "Jessica Wilkins",
+          "description": "The freeCodeCamp community just published our new Python certification. You can now sit for the exam to earn the free verified certification, which you can add to your résumé, CV, or LinkedIn profile. Each certification is filled with hundreds of hou...",
+          "link": "https://www.freecodecamp.org/news/freecodecamps-new-python-certification-is-now-live/",
+          "publishedOn": "2025-12-15T14:49:47.000Z",
+          "wordCount": 2707,
+          "title": "freeCodeCamp's New Python Certification is Now Live",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1765407487534/39d17b0d-bdb1-44c4-b330-2222a45cea91.png"
+        },
         {
           "id": "693c859b176ed5964e28b921",
           "author": "Sumit Saha",

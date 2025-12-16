@@ -2,10 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-15T00:17:29.772Z</updated>
+    <updated>2025-12-16T00:16:40.706Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Toon Title Text Generator]]></title>
+        <id>https://css-tricks.com/?p=391095</id>
+        <link href="https://css-tricks.com/toon-title-text-generator/"/>
+        <updated>2025-12-15T17:55:55.000Z</updated>
+        <summary type="html"><![CDATA[Andy Clarke with a brand-new resource. It generates the sort of fun typography that Andy commonly uses in his own work that's geared towards cartoon headings.
+Toon Title Text Generator originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Responsive List of Avatars Using Modern CSS (Part 1)]]></title>
+        <id>https://css-tricks.com/?p=390560</id>
+        <link href="https://css-tricks.com/responsive-list-of-avatars-using-modern-css-part-1/"/>
+        <updated>2025-12-15T16:19:23.000Z</updated>
+        <summary type="html"><![CDATA[A list of rounded images that slightly overlap each other is a classic web design pattern. The main idea is not complex, but the new thing is the responsive part. that dynamically adjusts the overlap between the images so they fit inside the container.
+Responsive List of Avatars Using Modern CSS (Part 1) originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Temani Afif</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[freeCodeCamp's New Python Certification is Now Live]]></title>
+        <id>6940200b3e9f58ff90228d6c</id>
+        <link href="https://www.freecodecamp.org/news/freecodecamps-new-python-certification-is-now-live/"/>
+        <updated>2025-12-15T14:49:47.000Z</updated>
+        <summary type="html"><![CDATA[The freeCodeCamp community just published our new Python certification. You can now sit for the exam to earn the free verified certification, which you can add to your résumé, CV, or LinkedIn profile. Each certification is filled with hundreds of hou...]]></summary>
+        <author>
+            <name>Jessica Wilkins</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Learn How to Use Git and GitHub – A Beginner-Friendly Handbook]]></title>
         <id>693c859b176ed5964e28b921</id>
