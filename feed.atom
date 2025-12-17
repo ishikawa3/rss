@@ -2,10 +2,61 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-16T00:16:40.706Z</updated>
+    <updated>2025-12-17T00:15:29.760Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How Does an MCP Work Under the Hood? MCP Workflow Explained]]></title>
+        <id>6941a65f3076ac3edd6fdaf0</id>
+        <link href="https://www.freecodecamp.org/news/how-does-an-mcp-work-under-the-hood/"/>
+        <updated>2025-12-16T18:35:11.000Z</updated>
+        <summary type="html"><![CDATA[We’ve all faced that awkward limitation with AI: it can write code or explain complex topics in seconds, but the moment you ask it to check a local file or run a quick database query, it hits a wall. It’s like having a genius assistant who is locked ...]]></summary>
+        <author>
+            <name>Ajay Patel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What’s !important #1: Advent Calendars, CSS Wrapped, Web Platform Updates, and More]]></title>
+        <id>https://css-tricks.com/?p=391134</id>
+        <link href="https://css-tricks.com/whats-important-1/"/>
+        <updated>2025-12-16T17:03:46.000Z</updated>
+        <summary type="html"><![CDATA[The best CSS news from around the web from the last two weeks. In this edition: advent calendars, CSS Wrapped 2025, and the latest Web Platform Updates.
+What’s !important #1: Advent Calendars, CSS Wrapped, Web Platform Updates, and More originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Daniel Schwarz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Debug Kubernetes Apps When Logs Fail You – An eBPF Tracing Handbook]]></title>
+        <id>694190c566a5d5cb99995f9f</id>
+        <link href="https://www.freecodecamp.org/news/how-to-debug-kubernetes-apps-when-logs-fail-you-an-ebpf-tracing-handbook/"/>
+        <updated>2025-12-16T17:03:01.000Z</updated>
+        <summary type="html"><![CDATA[Let’s say your Kubernetes pod crashes at 3am and the logs show nothing useful. By the time you SSH into the node, the container is gone, and you're left guessing what happened in those final moments. This is the reality of debugging modern applicatio...]]></summary>
+        <author>
+            <name>Opaluwa Emidowojo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Supabase for Beginners]]></title>
+        <id>694189cc7d760e7dd4cabc0a</id>
+        <link href="https://www.freecodecamp.org/news/supabase-for-beginners/"/>
+        <updated>2025-12-16T16:33:16.000Z</updated>
+        <summary type="html"><![CDATA[Supabase is an open-source Backend-as-a-Service (BaaS) platform that provides developers with a powerful set of tools to build applications quickly. This comprehensive video tutorial introduces you to Supabase by building a real-world React.js Sales ...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Perform Secure Hashing Using Python's hashlib Module]]></title>
+        <id>69409201ee1f8b8545e218b8</id>
+        <link href="https://www.freecodecamp.org/news/how-to-perform-secure-hashing-using-pythons-hashlib-module/"/>
+        <updated>2025-12-15T22:56:01.000Z</updated>
+        <summary type="html"><![CDATA[Hashing is a fundamental technique in programming that converts data into a fixed-size string of characters. Unlike encryption, hashing is a one-way process: you can't reverse it to get the original data back. This makes hashing perfect for storing p...]]></summary>
+        <author>
+            <name>Bala Priya C</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Toon Title Text Generator]]></title>
         <id>https://css-tricks.com/?p=391095</id>

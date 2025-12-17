@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=391134",
+          "author": "Daniel Schwarz",
+          "description": "The best CSS news from around the web from the last two weeks. In this edition: advent calendars, CSS Wrapped 2025, and the latest Web Platform Updates.\nWhat’s !important #1: Advent Calendars, CSS Wrapped, Web Platform Updates, and More originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/whats-important-1/",
+          "publishedOn": "2025-12-16T17:03:46.000Z",
+          "wordCount": 1663,
+          "title": "What’s !important #1: Advent Calendars, CSS Wrapped, Web Platform Updates, and More",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/12/css-wrapped.png"
+        },
+        {
           "id": "https://css-tricks.com/?p=391095",
           "author": "Geoff Graham",
           "description": "Andy Clarke with a brand-new resource. It generates the sort of fun typography that Andy commonly uses in his own work that's geared towards cartoon headings.\nToon Title Text Generator originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -350,6 +360,46 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "6941a65f3076ac3edd6fdaf0",
+          "author": "Ajay Patel",
+          "description": "We’ve all faced that awkward limitation with AI: it can write code or explain complex topics in seconds, but the moment you ask it to check a local file or run a quick database query, it hits a wall. It’s like having a genius assistant who is locked ...",
+          "link": "https://www.freecodecamp.org/news/how-does-an-mcp-work-under-the-hood/",
+          "publishedOn": "2025-12-16T18:35:11.000Z",
+          "wordCount": 2662,
+          "title": "How Does an MCP Work Under the Hood? MCP Workflow Explained",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1765909617721/fa533504-3dab-48c3-9b92-0b89a81af025.png"
+        },
+        {
+          "id": "694190c566a5d5cb99995f9f",
+          "author": "Opaluwa Emidowojo",
+          "description": "Let’s say your Kubernetes pod crashes at 3am and the logs show nothing useful. By the time you SSH into the node, the container is gone, and you're left guessing what happened in those final moments. This is the reality of debugging modern applicatio...",
+          "link": "https://www.freecodecamp.org/news/how-to-debug-kubernetes-apps-when-logs-fail-you-an-ebpf-tracing-handbook/",
+          "publishedOn": "2025-12-16T17:03:01.000Z",
+          "wordCount": 6328,
+          "title": "How to Debug Kubernetes Apps When Logs Fail You – An eBPF Tracing Handbook",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1765899860869/3eadf316-8539-4624-afba-1d4190b6c62a.png"
+        },
+        {
+          "id": "694189cc7d760e7dd4cabc0a",
+          "author": "Beau Carnes",
+          "description": "Supabase is an open-source Backend-as-a-Service (BaaS) platform that provides developers with a powerful set of tools to build applications quickly. This comprehensive video tutorial introduces you to Supabase by building a real-world React.js Sales ...",
+          "link": "https://www.freecodecamp.org/news/supabase-for-beginners/",
+          "publishedOn": "2025-12-16T16:33:16.000Z",
+          "wordCount": 1056,
+          "title": "Supabase for Beginners",
+          "imageUrl": "https://cdn.freecodecamp.org/platform/universal/fcc_meta_1920X1080-indigo.png"
+        },
+        {
+          "id": "69409201ee1f8b8545e218b8",
+          "author": "Bala Priya C",
+          "description": "Hashing is a fundamental technique in programming that converts data into a fixed-size string of characters. Unlike encryption, hashing is a one-way process: you can't reverse it to get the original data back. This makes hashing perfect for storing p...",
+          "link": "https://www.freecodecamp.org/news/how-to-perform-secure-hashing-using-pythons-hashlib-module/",
+          "publishedOn": "2025-12-15T22:56:01.000Z",
+          "wordCount": 2297,
+          "title": "How to Perform Secure Hashing Using Python's hashlib Module",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1765839274048/2110b9d7-00c4-4e85-a69b-7223f21f2ac3.png"
+        },
         {
           "id": "6940200b3e9f58ff90228d6c",
           "author": "Jessica Wilkins",
