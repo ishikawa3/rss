@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=390660",
+          "author": "Temani Afif",
+          "description": "In this article, we follow up the work we did to create responsive rows of circular images in a previous article by arranging the images around a circle with a clean hover effect.\nResponsive List of Avatars Using Modern CSS (Part 2) originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/responsive-list-of-avatars-using-modern-css-part-2/",
+          "publishedOn": "2025-12-17T15:21:34.000Z",
+          "wordCount": 3208,
+          "title": "Responsive List of Avatars Using Modern CSS (Part 2)",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/12/luZQsrO2qg-1070.png"
+        },
+        {
           "id": "https://css-tricks.com/?p=391134",
           "author": "Daniel Schwarz",
           "description": "The best CSS news from around the web from the last two weeks. In this edition: advent calendars, CSS Wrapped 2025, and the latest Web Platform Updates.\nWhat’s !important #1: Advent Calendars, CSS Wrapped, Web Platform Updates, and More originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -175,16 +185,6 @@
           "wordCount": 2420,
           "title": "Should We Even Have :closed?",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2018/12/opinon-this-that-signs.png"
-        },
-        {
-          "id": "https://css-tricks.com/?p=390236",
-          "author": "Juan Diego Rodríguez",
-          "description": "If we have a ratio that represents the sine, cosine or tangent of an angle, how can we get the original angle? This is where inverse trigonometric functions come in!\nThe “Most Hated” CSS Feature: asin(), acos(), atan() and atan2() originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/the-most-hated-css-feature-asin-acos-atan-and-atan2/",
-          "publishedOn": "2025-11-17T14:47:54.000Z",
-          "wordCount": 4131,
-          "title": "The “Most Hated” CSS Feature: asin(), acos(), atan() and atan2()",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/11/css-trig-unit-circle-diagram.jpg"
         }
       ]
     },
@@ -193,6 +193,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2025/12/smashing-animations-part-7-recreating-toon-text-css-svg/",
+          "author": "hello@smashingmagazine.com (Andy Clarke)",
+          "description": "In this article, pioneering author and web designer [Andy Clarke](https://stuffandnonsense.co.uk) shows his techniques for creating [Toon Text titles](https://stuffandnonsense.co.uk/toon-text/index.html) using modern CSS and SVG.",
+          "link": "https://smashingmagazine.com/2025/12/smashing-animations-part-7-recreating-toon-text-css-svg/",
+          "publishedOn": "2025-12-17T10:00:00.000Z",
+          "wordCount": 4935,
+          "title": "Smashing Animations Part 7: Recreating Toon Text With CSS And SVG",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/smashing-animations-part-7-recreating-toon-text-css-svg/smashing-animations-part-7-recreating-toon-text-css-svg.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/smashing-animations-part-7-recreating-toon-text-css-svg/smashing-animations-part-7-recreating-toon-text-css-svg.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2025/12/accessible-ux-research-ebook-release/",
           "author": "hello@smashingmagazine.com (Ari Stiles)",
@@ -342,16 +357,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/keyframes-tokens-standardizing-animation-across-projects/keyframes-tokens-standardizing-animation-across-projects.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2025/11/simplifying-server-management-ai-automation/",
-          "author": "hello@smashingmagazine.com (Mansoor Ahmed Khan)",
-          "description": "Server chaos doesn’t have to be the norm. AI-ready infrastructure and automation can bring clarity, performance, and focus back to your web work.",
-          "link": "https://smashingmagazine.com/2025/11/simplifying-server-management-ai-automation/",
-          "publishedOn": "2025-11-18T10:00:00.000Z",
-          "wordCount": 3718,
-          "title": "From Chaos To Clarity: Simplifying Server Management With AI And Automation",
-          "imageUrl": "https:null"
         }
       ]
     },
@@ -360,6 +365,16 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "6942e1421e5725744121909c",
+          "author": "Nielda Karla",
+          "description": "The freeCodeCamp community just published the first three chapters of our new A1 Professional Spanish Curriculum. Each chapter includes hundreds of interactive tasks designed to help you take your first steps in learning Spanish with confidence. How...",
+          "link": "https://www.freecodecamp.org/news/freecodecamps-a1-professional-spanish-curriculum-beta-is-now-live/",
+          "publishedOn": "2025-12-17T16:58:42.000Z",
+          "wordCount": 1584,
+          "title": "freeCodeCamp's A1 Professional Spanish Curriculum (Beta) is Now Live",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1765990696599/34882a7b-fa94-414f-8a81-6bf5a0a18118.png"
+        },
         {
           "id": "6941a65f3076ac3edd6fdaf0",
           "author": "Ajay Patel",
@@ -889,46 +904,6 @@
           "wordCount": 1008,
           "title": "Level Up Your JavaScript – Detect Smells & Write Clean Code",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1763477401188/23bf5316-c553-4868-879f-303af09d4f4b.jpeg"
-        },
-        {
-          "id": "691b93910ca13a7c59ae7a34",
-          "author": "Prankur Pandey",
-          "description": "Ever since my article on How to Become a Full Stack Developer and Get a Job in 2025 went viral, I’ve received countless DMs, emails, and even WhatsApp messages from readers. People have been asking about everything from learning to code and mastering...",
-          "link": "https://www.freecodecamp.org/news/how-to-build-a-portfolio-website-using-figma-and-ai-tools/",
-          "publishedOn": "2025-11-17T21:28:49.000Z",
-          "wordCount": 7795,
-          "title": "How to Build a Portfolio Website Using Figma and AI Tools – A Guide for Developers",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1763156337448/4d944077-b800-4bfd-bb70-645777eb00a2.png"
-        },
-        {
-          "id": "691b909391d8c0f995d8ddc4",
-          "author": "Manish Shivanandhan",
-          "description": "Large language models are smart. But they are not always well-informed. They can write code, summarize books, and explain complex topics, but they struggle with real-time facts. Their knowledge ends at their training cutoff, which means they can’t te...",
-          "link": "https://www.freecodecamp.org/news/how-to-add-real-time-web-search-to-your-llm-using-tavily/",
-          "publishedOn": "2025-11-17T21:16:03.000Z",
-          "wordCount": 2111,
-          "title": "How to Add Real-Time Web Search to Your LLM Using Tavily",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1763414073220/a9ec7f2d-515e-4d1e-9150-a72450d8aec3.png"
-        },
-        {
-          "id": "691b3eab5aa173ac953652e2",
-          "author": "Balogun Wahab",
-          "description": "Reanimated 4 brings Cascading Style Sheets (CSS) animations to React Native while keeping full backward compatibility with its worklet-based API. You can now build 60+ frames-per-second (FPS) animations using familiar web syntax, or drop down to work...",
-          "link": "https://www.freecodecamp.org/news/how-to-create-fluid-animations-with-react-native-reanimated-v4/",
-          "publishedOn": "2025-11-17T15:26:35.000Z",
-          "wordCount": 5057,
-          "title": "How to Create Fluid Animations with React Native Reanimated v4",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1763052228638/4416e81d-b76e-4c40-987e-0aff1d82ff7b.png"
-        },
-        {
-          "id": "691b3887dbd8303d75f4137c",
-          "author": "Beau Carnes",
-          "description": "Backend development involves building the server-side \"brain\" of a website that manages user data, authentication, and database communication. We just posted a tutorial on the freeCodeCamp.org YouTube channel that will teach you how to construct a ba...",
-          "link": "https://www.freecodecamp.org/news/intro-to-backend-web-development-nodejs-express-mongodb/",
-          "publishedOn": "2025-11-17T15:00:23.000Z",
-          "wordCount": 1211,
-          "title": "Intro to Backend Web Development – Node.js, Express, MongoDB",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1763372629451/d682e5f7-31d1-48af-8957-8e916b7b506a.jpeg"
         }
       ]
     }

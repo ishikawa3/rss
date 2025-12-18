@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-17T00:15:29.760Z</updated>
+    <updated>2025-12-18T00:14:08.300Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[freeCodeCamp's A1 Professional Spanish Curriculum (Beta) is Now Live]]></title>
+        <id>6942e1421e5725744121909c</id>
+        <link href="https://www.freecodecamp.org/news/freecodecamps-a1-professional-spanish-curriculum-beta-is-now-live/"/>
+        <updated>2025-12-17T16:58:42.000Z</updated>
+        <summary type="html"><![CDATA[The freeCodeCamp community just published the first three chapters of our new A1 Professional Spanish Curriculum. Each chapter includes hundreds of interactive tasks designed to help you take your first steps in learning Spanish with confidence. How...]]></summary>
+        <author>
+            <name>Nielda Karla</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Responsive List of Avatars Using Modern CSS (Part 2)]]></title>
+        <id>https://css-tricks.com/?p=390660</id>
+        <link href="https://css-tricks.com/responsive-list-of-avatars-using-modern-css-part-2/"/>
+        <updated>2025-12-17T15:21:34.000Z</updated>
+        <summary type="html"><![CDATA[In this article, we follow up the work we did to create responsive rows of circular images in a previous article by arranging the images around a circle with a clean hover effect.
+Responsive List of Avatars Using Modern CSS (Part 2) originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Temani Afif</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Smashing Animations Part 7: Recreating Toon Text With CSS And SVG]]></title>
+        <id>https://smashingmagazine.com/2025/12/smashing-animations-part-7-recreating-toon-text-css-svg/</id>
+        <link href="https://smashingmagazine.com/2025/12/smashing-animations-part-7-recreating-toon-text-css-svg/"/>
+        <updated>2025-12-17T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this article, pioneering author and web designer [Andy Clarke](https://stuffandnonsense.co.uk) shows his techniques for creating [Toon Text titles](https://stuffandnonsense.co.uk/toon-text/index.html) using modern CSS and SVG.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Andy Clarke)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How Does an MCP Work Under the Hood? MCP Workflow Explained]]></title>
         <id>6941a65f3076ac3edd6fdaf0</id>
@@ -802,67 +833,6 @@ Should We Even Have :closed? originally published on CSS-Tricks, which is part 
         <summary type="html"><![CDATA[We just posted course on freeCodeCamp.org YouTube channel that will teach you how to transform messy, hard-to-maintain JavaScript code into clean, readable, and professional-quality code that scales. This course was developed by Tapas Adhikary. He'll...]]></summary>
         <author>
             <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[From Chaos To Clarity: Simplifying Server Management With AI And Automation]]></title>
-        <id>https://smashingmagazine.com/2025/11/simplifying-server-management-ai-automation/</id>
-        <link href="https://smashingmagazine.com/2025/11/simplifying-server-management-ai-automation/"/>
-        <updated>2025-11-18T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Server chaos doesn’t have to be the norm. AI-ready infrastructure and automation can bring clarity, performance, and focus back to your web work.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Mansoor Ahmed Khan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Portfolio Website Using Figma and AI Tools – A Guide for Developers]]></title>
-        <id>691b93910ca13a7c59ae7a34</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-a-portfolio-website-using-figma-and-ai-tools/"/>
-        <updated>2025-11-17T21:28:49.000Z</updated>
-        <summary type="html"><![CDATA[Ever since my article on How to Become a Full Stack Developer and Get a Job in 2025 went viral, I’ve received countless DMs, emails, and even WhatsApp messages from readers. People have been asking about everything from learning to code and mastering...]]></summary>
-        <author>
-            <name>Prankur Pandey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Add Real-Time Web Search to Your LLM Using Tavily]]></title>
-        <id>691b909391d8c0f995d8ddc4</id>
-        <link href="https://www.freecodecamp.org/news/how-to-add-real-time-web-search-to-your-llm-using-tavily/"/>
-        <updated>2025-11-17T21:16:03.000Z</updated>
-        <summary type="html"><![CDATA[Large language models are smart. But they are not always well-informed. They can write code, summarize books, and explain complex topics, but they struggle with real-time facts. Their knowledge ends at their training cutoff, which means they can’t te...]]></summary>
-        <author>
-            <name>Manish Shivanandhan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Create Fluid Animations with React Native Reanimated v4]]></title>
-        <id>691b3eab5aa173ac953652e2</id>
-        <link href="https://www.freecodecamp.org/news/how-to-create-fluid-animations-with-react-native-reanimated-v4/"/>
-        <updated>2025-11-17T15:26:35.000Z</updated>
-        <summary type="html"><![CDATA[Reanimated 4 brings Cascading Style Sheets (CSS) animations to React Native while keeping full backward compatibility with its worklet-based API. You can now build 60+ frames-per-second (FPS) animations using familiar web syntax, or drop down to work...]]></summary>
-        <author>
-            <name>Balogun Wahab</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Intro to Backend Web Development – Node.js, Express, MongoDB]]></title>
-        <id>691b3887dbd8303d75f4137c</id>
-        <link href="https://www.freecodecamp.org/news/intro-to-backend-web-development-nodejs-express-mongodb/"/>
-        <updated>2025-11-17T15:00:23.000Z</updated>
-        <summary type="html"><![CDATA[Backend development involves building the server-side "brain" of a website that manages user data, authentication, and database communication. We just posted a tutorial on the freeCodeCamp.org YouTube channel that will teach you how to construct a ba...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The “Most Hated” CSS Feature: asin(), acos(), atan() and atan2()]]></title>
-        <id>https://css-tricks.com/?p=390236</id>
-        <link href="https://css-tricks.com/the-most-hated-css-feature-asin-acos-atan-and-atan2/"/>
-        <updated>2025-11-17T14:47:54.000Z</updated>
-        <summary type="html"><![CDATA[If we have a ratio that represents the sine, cosine or tangent of an angle, how can we get the original angle? This is where inverse trigonometric functions come in!
-The “Most Hated” CSS Feature: asin(), acos(), atan() and atan2() originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Juan Diego Rodríguez</name>
         </author>
     </entry>
 </feed>
