@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=390640",
+          "author": "Sunkanmi Fafowora",
+          "description": "It's settled! A new CSS display property keyword called grid-lanes will trigger a masonry layout mode.\nMasonry Layout is Now grid-lanes originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/masonry-layout-is-now-grid-lanes/",
+          "publishedOn": "2025-12-19T16:08:28.000Z",
+          "wordCount": 2555,
+          "title": "Masonry Layout is Now grid-lanes",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2020/05/css-masonry.png"
+        },
+        {
           "id": "https://css-tricks.com/?p=391171",
           "author": "Geoff Graham",
           "description": "Jelte Lagendijk built a Raycast extension for searching CSS-Tricks articles where you simply type and a get a solid set of real-time results.\nSearch CSS-Tricks Raycast Extension originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -204,6 +214,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2025/12/how-measure-impact-features-tars/",
+          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
+          "description": "Meet TARS — a simple, repeatable, and meaningful UX metric designed specifically to track the performance of product features. Upcoming part of the Measure UX & Design Impact (use the code 🎟 IMPACT to save 20% off today).",
+          "link": "https://smashingmagazine.com/2025/12/how-measure-impact-features-tars/",
+          "publishedOn": "2025-12-19T10:00:00.000Z",
+          "wordCount": 4051,
+          "title": "How To Measure The Impact Of Features",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/how-measure-impact-features-tars/how-measure-impact-features-tars.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/how-measure-impact-features-tars/how-measure-impact-features-tars.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2025/12/smashing-animations-part-7-recreating-toon-text-css-svg/",
           "author": "hello@smashingmagazine.com (Andy Clarke)",
           "description": "In this article, pioneering author and web designer [Andy Clarke](https://stuffandnonsense.co.uk) shows his techniques for creating [Toon Text titles](https://stuffandnonsense.co.uk/toon-text/index.html) using modern CSS and SVG.",
@@ -375,6 +400,76 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "694595068a4df0c53d579475",
+          "author": "Jessica Wilkins",
+          "description": "The freeCodeCamp community just published our new Relational Databases certification. You can now sit for the exam to earn the free verified certification, which you can add to your résumé, CV, or LinkedIn profile. Each certification is filled with h...",
+          "link": "https://www.freecodecamp.org/news/freecodecamps-new-relational-databases-certification-is-now-live/",
+          "publishedOn": "2025-12-19T18:10:14.000Z",
+          "wordCount": 2750,
+          "title": "freeCodeCamp's New Relational Databases Certification is Now Live",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1765839442063/a5db9c4a-cb34-468b-b097-e4257803c29d.png"
+        },
+        {
+          "id": "69458cd3b6f1f6f9219e5bf5",
+          "author": "Manish Shivanandhan",
+          "description": "Firewalls are one of the oldest tools in network security.  Many people think they are outdated or replaced by newer tools like endpoint security or cloud security platforms, but that’s not the case. Firewalls still play a critical role in protecting...",
+          "link": "https://www.freecodecamp.org/news/what-firewalls-really-do-and-why-every-network-still-needs-them/",
+          "publishedOn": "2025-12-19T17:35:15.000Z",
+          "wordCount": 2451,
+          "title": "What Firewalls Really Do and Why Every Network (Still) Needs Them",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1766165681001/895e7957-b66d-47be-ace8-5da5dbb343ed.png"
+        },
+        {
+          "id": "69458b6967b30377c55c8aa3",
+          "author": "Ekemini Samuel",
+          "description": "Computer vision is transforming how people train, from at-home workouts to smart gym mirrors. Imagine walking into your home gym, turning on your camera, and having an AI coach that sees your movements, counts your reps, and corrects your form in rea...",
+          "link": "https://www.freecodecamp.org/news/how-to-build-a-real-time-ai-gym-coach-with-vision-agents/",
+          "publishedOn": "2025-12-19T17:29:13.000Z",
+          "wordCount": 3386,
+          "title": "How to Build a Real-time AI Gym Coach with Vision Agents",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1766158143362/b5d2947c-cc24-4948-a7fd-7ef2b3a79d5f.png"
+        },
+        {
+          "id": "69458ad0ac78bce0b11301d9",
+          "author": "Nielda Karla",
+          "description": "The freeCodeCamp community just published our new B1 English for Developers certification for intermediate learners of English as a second language. You can now sit for the exam to earn the free verified certification, which you can add to your résum...",
+          "link": "https://www.freecodecamp.org/news/freecodecamps-b1-english-for-developers-certification-is-now-live/",
+          "publishedOn": "2025-12-19T17:26:40.000Z",
+          "wordCount": 2506,
+          "title": "freeCodeCamp's B1 English for Developers Certification is Now Live",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1765908045980/195acca4-af23-4800-9889-378c893cf9ff.png"
+        },
+        {
+          "id": "6945687d98d5297cf37169d5",
+          "author": "Beau Carnes",
+          "description": "Today Quincy Larson interviews Santosh Yadav. The son of a textile worker, he grew up inner-city Mumbai and studied hard to get into university. From there he's worked as a software engineer for 16 years. Along the way, he's picked up every distincti...",
+          "link": "https://www.freecodecamp.org/news/how-to-get-promoted-as-a-dev-without-becoming-a-manager-staff-engineer-santosh-yadav-interview-podcast-202/",
+          "publishedOn": "2025-12-19T15:00:13.000Z",
+          "wordCount": 1359,
+          "title": "How to get promoted as a dev without becoming a manager – Staff Engineer Santosh Yadav interview [Podcast #202]",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1766099234403/d0186a4e-1f13-43f6-ab46-4fa3bc7cbb5e.jpeg"
+        },
+        {
+          "id": "69449f453cbff85be8965f37",
+          "author": "Rez Moss",
+          "description": "Recently, I wanted to understand how smart home devices actually work. When you scan a QR code and a light appears in your Home app, what's really happening? When you tap \"on\", what bytes travel across your network? The best way I know to understand...",
+          "link": "https://www.freecodecamp.org/news/how-to-build-a-smart-homekit-virtual-light-in-go/",
+          "publishedOn": "2025-12-19T00:41:41.000Z",
+          "wordCount": 3448,
+          "title": "How to Build a Smart HomeKit Virtual Light in Go",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1766104866742/8d8c0158-95d0-493b-a311-cd99189654e1.png"
+        },
+        {
+          "id": "69449a6dcd2a4eec1f27eb1b",
+          "author": "Djibril-M🍀",
+          "description": "Back in 2023, when I started using ChatGPT, it was just another chatbot that I could ask complex questions to and it would identify errors in my code snippets. Everything was fine. The application had no memory of previous states or what was said the...",
+          "link": "https://www.freecodecamp.org/news/how-to-build-a-starbucks-ai-agent-with-langchain/",
+          "publishedOn": "2025-12-19T00:21:01.000Z",
+          "wordCount": 6878,
+          "title": "How to Build an AI Agent with LangChain and LangGraph: Build an Autonomous Starbucks Agent",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1765630477745/8dffec85-c3c4-4d83-9aa4-f332439d4663.png"
+        },
         {
           "id": "6944631e80f40a442d1799df",
           "author": "Ramesh Sinha",
@@ -874,26 +969,6 @@
           "wordCount": 1586,
           "title": "When NOT to use AI in your hackathon project with MLH winners Cindy Cui and Alison Co [Podcast #198]",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1763712634842/c08fb3a8-8b09-41bb-952c-50b0b7d2305e.jpeg"
-        },
-        {
-          "id": "691e0d7802a17c33f13c6a0c",
-          "author": "Manish Shivanandhan",
-          "description": "Artificial intelligence is changing how big companies work every single day. What used to take hours of manual effort or long approval chains can now happen in seconds with AI-powered systems.  From supply chains to IT operations, AI is helping enter...",
-          "link": "https://www.freecodecamp.org/news/how-ai-is-transforming-enterprise-operations/",
-          "publishedOn": "2025-11-19T18:33:28.000Z",
-          "wordCount": 1969,
-          "title": "How AI is Transforming Enterprise Operations",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1763502776458/34e6fd23-d8ae-4392-ac1a-905ecc8bccbc.png"
-        },
-        {
-          "id": "691de96a0dec4f292a0f8ff0",
-          "author": "Manish Shivanandhan",
-          "description": "Every game developer obsesses over performance, textures, and frame rates, but resolution is the quiet foundation that makes or breaks visual quality.  Whether you are building a pixel-art indie game or a high-fidelity 3D world, understanding how res...",
-          "link": "https://www.freecodecamp.org/news/a-game-developers-guide-to-understanding-screen-resolution/",
-          "publishedOn": "2025-11-19T15:59:38.000Z",
-          "wordCount": 2030,
-          "title": "A Game Developer’s Guide to Understanding Screen Resolution",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1763567809746/3fb2c926-9602-4765-9ef4-5ea565e0e148.png"
         }
       ]
     }
