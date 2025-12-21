@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-20T00:15:40.814Z</updated>
+    <updated>2025-12-21T00:17:27.698Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
@@ -874,27 +874,6 @@ Sketch: A guided tour of Copenhagen originally published on CSS-Tricks, which is
         <summary type="html"><![CDATA[Today Quincy Larson interviews Alison Co and Cindy Cui, two university students who won the NW Hacks hackathon with their tool that helps people who are losing their vision learn to read Braille. He met them when GitHub invited them to their big San ...]]></summary>
         <author>
             <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Keyframes Tokens: Standardizing Animation Across Projects]]></title>
-        <id>https://smashingmagazine.com/2025/11/keyframes-tokens-standardizing-animation-across-projects/</id>
-        <link href="https://smashingmagazine.com/2025/11/keyframes-tokens-standardizing-animation-across-projects/"/>
-        <updated>2025-11-21T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Animations can be one of the most joyful parts of building interfaces, but without structure, they can also become one of the biggest sources of frustration. By consolidating and standardizing keyframes, you take something that is usually messy and hard to manage and turn it into a clear, predictable system.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Amit Sheen)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Should We Even Have :closed?]]></title>
-        <id>https://css-tricks.com/?p=390115</id>
-        <link href="https://css-tricks.com/should-we-even-have-closed/"/>
-        <updated>2025-11-20T15:10:26.000Z</updated>
-        <summary type="html"><![CDATA[Is there really a difference between using :not(:open) and :closed? As always, it depends. Sunkanmi Fafowora explains why :closed is currently not a thing.
-Should We Even Have :closed? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Sunkanmi Fafowora</name>
         </author>
     </entry>
 </feed>

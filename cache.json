@@ -195,16 +195,6 @@
           "wordCount": 2014,
           "title": "Sketch: A guided tour of Copenhagen",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/11/sketch-liquid-glass.png"
-        },
-        {
-          "id": "https://css-tricks.com/?p=390115",
-          "author": "Sunkanmi Fafowora",
-          "description": "Is there really a difference between using :not(:open) and :closed? As always, it depends. Sunkanmi Fafowora explains why :closed is currently not a thing.\nShould We Even Have :closed? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/should-we-even-have-closed/",
-          "publishedOn": "2025-11-20T15:10:26.000Z",
-          "wordCount": 2420,
-          "title": "Should We Even Have :closed?",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2018/12/opinon-this-that-signs.png"
         }
       ]
     },
@@ -377,21 +367,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/designing-for-stress-and-emergency/designing-for-stress-emergency.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2025/11/keyframes-tokens-standardizing-animation-across-projects/",
-          "author": "hello@smashingmagazine.com (Amit Sheen)",
-          "description": "Animations can be one of the most joyful parts of building interfaces, but without structure, they can also become one of the biggest sources of frustration. By consolidating and standardizing keyframes, you take something that is usually messy and hard to manage and turn it into a clear, predictable system.",
-          "link": "https://smashingmagazine.com/2025/11/keyframes-tokens-standardizing-animation-across-projects/",
-          "publishedOn": "2025-11-21T08:00:00.000Z",
-          "wordCount": 7586,
-          "title": "Keyframes Tokens: Standardizing Animation Across Projects",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/keyframes-tokens-standardizing-animation-across-projects/keyframes-tokens-standardizing-animation-across-projects.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/keyframes-tokens-standardizing-animation-across-projects/keyframes-tokens-standardizing-animation-across-projects.jpg"
         }
       ]
     },
