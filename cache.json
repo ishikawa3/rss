@@ -12,6 +12,21 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=390681",
+          "author": "Daniel Schwarz",
+          "description": "The text-decoration-inset property solves a problem that we’ve had since the beginning of the web, which is that text decorations such as underlines extend beyond the first and last characters, resulting in vertical misalignment.\ntext-decoration-inset is Like Padding for Text Decorations originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/text-decoration-inset-is-like-padding-for-text-decorations/",
+          "publishedOn": "2025-12-22T14:39:52.000Z",
+          "wordCount": 1897,
+          "title": "text-decoration-inset is Like Padding for Text Decorations",
+          "enclosure": {
+            "url": "https://css-tricks.com/wp-content/uploads/2025/12/Screen-Recording-2025-12-05-at-9.32.03-AM.mp4",
+            "length": "88976",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/12/Screenshot-2025-12-22-at-7.41.21-AM.png"
+        },
+        {
           "id": "https://css-tricks.com/?p=390640",
           "author": "Sunkanmi Fafowora",
           "description": "It's settled! A new CSS display property keyword called grid-lanes will trigger a masonry layout mode.\nMasonry Layout is Now grid-lanes originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -365,6 +380,26 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "694968e875dd1910710dddef",
+          "author": "Nielda Karla",
+          "description": "The freeCodeCamp community just published the introductory chapters of our new A1 Professional Chinese Curriculum. You can now get started learning Chinese with what’s already available. Each chapter includes hundreds of interactive tasks designed to...",
+          "link": "https://www.freecodecamp.org/news/freecodecamps-a1-professional-chinese-curriculum-beta-is-now-live/",
+          "publishedOn": "2025-12-22T15:51:04.000Z",
+          "wordCount": 1662,
+          "title": "freeCodeCamp's A1 Professional Chinese Curriculum (Beta) is Now Live",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1766435087990/bb79450c-7de2-4e74-9b21-55ff62320b10.png"
+        },
+        {
+          "id": "69491adc842069e2b48bbae7",
+          "author": "Yemi Ojedapo",
+          "description": "In traditional programming, developers rely on unit tests to catch mistakes in applications. But when building AI products, that safety net doesn't exist. Responses can shift with model updates, data changes, and subtle fluctuations in prompts or ret...",
+          "link": "https://www.freecodecamp.org/news/how-to-test-and-improve-ai-applications-with-an-evaluation-flywheel/",
+          "publishedOn": "2025-12-22T10:18:04.000Z",
+          "wordCount": 3925,
+          "title": "How to Test and Improve AI Applications with an Evaluation Flywheel",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1766082262126/bc54e004-7acc-49fc-b228-24524f250427.png"
+        },
         {
           "id": "694595068a4df0c53d579475",
           "author": "Jessica Wilkins",
