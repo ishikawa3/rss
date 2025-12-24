@@ -1,0 +1,251 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+    <title>{{siteTitle}}</title>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="robots" content="noindex, nofollow" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="shortcut icon" type="image/x-icon" href="favicon.ico" />
+    <link rel="alternate" type="application/rss+xml" title="{{siteTitle}}" href="{{feedHref}}" />
+    
+    <!-- Material Design Icons -->
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <!-- Roboto Font -->
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap" rel="stylesheet">
+    
+    <link href="index.css?v1.14.4" rel="stylesheet" />
+    <!-- %before-head-end.html% -->
+  </head>
+
+  <body>
+    <!-- %after-body-begin.html% -->
+    
+    <!-- Material Design App Bar -->
+    <header class="app-bar">
+      <div class="app-bar__content">
+        <h1 class="app-bar__title">
+          <span class="material-icons app-bar__icon">rss_feed</span>
+          {{siteTitle}}
+        </h1>
+      </div>
+    </header>
+
+    <main class="main-content">
+      {{#each dates}}
+        <section class="day-section">
+          <div class="day-header">
+            <button
+              class="day-toggle mdc-button mdc-button--unelevated"
+              data-action="toggle-accordions"
+              title="Click to toggle the day, Ctrl + click to toggle all."
+            >
+              <span class="material-icons day-toggle__icon">calendar_today</span>
+              <div class="day-toggle__content">
+                <time class="day-toggle__weekday js-offset-weekday" data-offset-date={{isoOffsetPublishDate}} datetime="{{isoUtcPublishTime}}">{{isoOffsetPublishDate}}</time>
+                <time class="day-toggle__date js-offset-date" data-offset-date={{isoOffsetPublishDate}} datetime="{{isoUtcPublishTime}}"></time>
+              </div>
+            </button>
+          </div>
+          
+          <div class="sources-container">
+            {{#each sources}}
+              <div class="source-card mdc-card">
+                <div class="source-header">
+                  <button
+                    class="source-toggle mdc-button"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >
+                    <span class="material-icons source-toggle__icon">folder</span>
+                    <span class="source-toggle__title">{{title}}</span>
+                  </button>
+                  <a class="source-link mdc-button mdc-button--outlined" href="{{siteUrl}}">
+                    <span class="material-icons">open_in_new</span>
+                    Open
+                  </a>
+                </div>
+                
+                <div class="articles-container">
+                  {{#each articles}}
+                    <article class="article-card">
+                      <details
+                        class="article-details"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="{{id}}"
+                        open
+                      >
+                        <summary class="article-summary">
+                          <span class="material-icons article-summary__icon">article</span>
+                          <span class="article-summary__title">{{title}}</span>
+                        </summary>
+                        
+                        <div class="article-content">
+                          <a class="article-link" href="{{link}}">
+                            <div class="article-body">
+                              {{#if imageUrl}}
+                                <img src="{{imageUrl}}" loading="lazy" class="article-image" />
+                              {{/if}}
+                              <div class="article-text">
+                                <p class="article-description">{{description}}</p>
+                                {{#if readingTimeInMin}}
+                                  <span class="article-reading-time">
+                                    <span class="material-icons">schedule</span>
+                                    {{readingTimeInMin}} min read
+                                  </span>
+                                {{/if}}
+                              </div>
+                            </div>
+                          </a>
+                        </div>
+                      </details>
+                    </article>
+                  {{/each}}
+                </div>
+              </div>
+            {{/each}}
+          </div>
+        </section>
+      {{else}}
+        <!-- Demo content when no dates are available -->
+        <section class="day-section">
+          <div class="day-header">
+            <button class="day-toggle mdc-button mdc-button--unelevated">
+              <span class="material-icons day-toggle__icon">calendar_today</span>
+              <div class="day-toggle__content">
+                <time class="day-toggle__weekday">Today</time>
+                <time class="day-toggle__date">Material UI Demo</time>
+              </div>
+            </button>
+          </div>
+          
+          <div class="sources-container">
+            <div class="source-card mdc-card">
+              <div class="source-header">
+                <button class="source-toggle mdc-button">
+                  <span class="material-icons source-toggle__icon">folder</span>
+                  <span class="source-toggle__title">CSS-Tricks</span>
+                </button>
+                <a class="source-link mdc-button mdc-button--outlined" href="https://css-tricks.com">
+                  <span class="material-icons">open_in_new</span>
+                  Open
+                </a>
+              </div>
+              
+              <div class="articles-container">
+                <article class="article-card">
+                  <details class="article-details" open>
+                    <summary class="article-summary">
+                      <span class="material-icons article-summary__icon">article</span>
+                      <span class="article-summary__title">Modern CSS Techniques</span>
+                    </summary>
+                    
+                    <div class="article-content">
+                      <a class="article-link" href="#demo">
+                        <div class="article-body">
+                          <div class="article-text">
+                            <p class="article-description">Learn about the latest CSS features and how to use them in your projects. This demo shows Material UI design components.</p>
+                            <span class="article-reading-time">
+                              <span class="material-icons">schedule</span>
+                              5 min read
+                            </span>
+                          </div>
+                        </div>
+                      </a>
+                    </div>
+                  </details>
+                </article>
+                
+                <article class="article-card">
+                  <details class="article-details" open>
+                    <summary class="article-summary">
+                      <span class="material-icons article-summary__icon">article</span>
+                      <span class="article-summary__title">Grid Layout Best Practices</span>
+                    </summary>
+                    
+                    <div class="article-content">
+                      <a class="article-link" href="#demo">
+                        <div class="article-body">
+                          <div class="article-text">
+                            <p class="article-description">A comprehensive guide to using CSS Grid for modern web layouts with Material Design principles.</p>
+                            <span class="article-reading-time">
+                              <span class="material-icons">schedule</span>
+                              8 min read
+                            </span>
+                          </div>
+                        </div>
+                      </a>
+                    </div>
+                  </details>
+                </article>
+              </div>
+            </div>
+
+            <div class="source-card mdc-card">
+              <div class="source-header">
+                <button class="source-toggle mdc-button">
+                  <span class="material-icons source-toggle__icon">folder</span>
+                  <span class="source-toggle__title">Smashing Magazine</span>
+                </button>
+                <a class="source-link mdc-button mdc-button--outlined" href="https://smashingmagazine.com">
+                  <span class="material-icons">open_in_new</span>
+                  Open
+                </a>
+              </div>
+              
+              <div class="articles-container">
+                <article class="article-card">
+                  <details class="article-details" open>
+                    <summary class="article-summary">
+                      <span class="material-icons article-summary__icon">article</span>
+                      <span class="article-summary__title">User Experience Design Principles</span>
+                    </summary>
+                    
+                    <div class="article-content">
+                      <a class="article-link" href="#demo">
+                        <div class="article-body">
+                          <div class="article-text">
+                            <p class="article-description">Essential principles for creating intuitive and accessible user interfaces using Material Design guidelines.</p>
+                            <span class="article-reading-time">
+                              <span class="material-icons">schedule</span>
+                              12 min read
+                            </span>
+                          </div>
+                        </div>
+                      </a>
+                    </div>
+                  </details>
+                </article>
+              </div>
+            </div>
+          </div>
+        </section>
+      {{/each}}
+    </main>
+
+    <footer class="footer">
+      <div class="footer__content">
+        {{#if githubRunUrl}}
+        <a class="footer__link" href="{{githubRunUrl}}">
+          <span class="material-icons">schedule</span>
+          <time id="build-timestamp" datetime="{{siteBuildTimestamp}}">{{siteBuildTimestamp}}</time>
+        </a>
+        {{else}}
+        <div class="footer__item">
+          <span class="material-icons">schedule</span>
+          <time id="build-timestamp" datetime="{{siteBuildTimestamp}}">{{siteBuildTimestamp}}</time>
+        </div>
+        {{/if}}
+        <a class="footer__link" href="{{projectUrl}}">
+          <span class="material-icons">code</span>
+          osmosfeed {{cliVersion}}
+        </a>
+      </div>
+    </footer>
+    
+    <script src="index.js?v1.14.4"></script>
+    <!-- %before-body-end.html% -->
+  </body>
+
+</html>
