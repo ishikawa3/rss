@@ -2,10 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ishikawa3.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-23T00:16:11.567Z</updated>
+    <updated>2025-12-24T00:16:05.797Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ishikawa3.github.io/rss/index.html"/>
     <link rel="self" href="https://ishikawa3.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Use GenUI in Flutter to Build Dynamic, AI-Driven Interfaces]]></title>
+        <id>694aca4b18de35b28c2daacb</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-genui-in-flutter-to-build-dynamic-ai-driven-interfaces/"/>
+        <updated>2025-12-23T16:58:51.000Z</updated>
+        <summary type="html"><![CDATA[In standard app development, the User Interface (UI) is static. You write code for a button, compile it, and it remains a button forever. GenUI flips this model on its head. With GenUI, Google’s Generative UI SDK, your application's interface becomes...]]></summary>
+        <author>
+            <name>Atuoha Anthony</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build a Support Agent with Vercel AI SDK]]></title>
+        <id>694ac4a879c823aae0f86bc9</id>
+        <link href="https://www.freecodecamp.org/news/build-a-support-agent-with-vercel-ai-sdk/"/>
+        <updated>2025-12-23T16:34:48.000Z</updated>
+        <summary type="html"><![CDATA[Vercel AI SDK is a TypeScript-first toolkit for building AI features. It streamlines text generation, embeddings, and structured outputs. We just posted a course on the freeCodeCamp.org YouTube channel that will teach you to use the Vercel AI SDK to ...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thank You (2025 Edition)]]></title>
+        <id>https://css-tricks.com/?p=391203</id>
+        <link href="https://css-tricks.com/thank-you-2025-edition/"/>
+        <updated>2025-12-23T15:52:53.000Z</updated>
+        <summary type="html"><![CDATA[This is the best job I've had in my life and it's only possible because you keep showing up each day to read, learn, share, and discuss all-things-front-end (and a little CSS, of course) with us.
+Thank You (2025 Edition) originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Giving Users A Voice Through Virtual Personas]]></title>
+        <id>https://smashingmagazine.com/2025/12/giving-users-voice-virtual-personas/</id>
+        <link href="https://smashingmagazine.com/2025/12/giving-users-voice-virtual-personas/"/>
+        <updated>2025-12-23T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Turn scattered user research into AI-powered personas that give anyone consolidated multi-perspective feedback from a single question.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Paul Boag)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[freeCodeCamp's A1 Professional Chinese Curriculum (Beta) is Now Live]]></title>
         <id>694968e875dd1910710dddef</id>

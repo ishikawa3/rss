@@ -12,6 +12,21 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=391203",
+          "author": "Geoff Graham",
+          "description": "This is the best job I've had in my life and it's only possible because you keep showing up each day to read, learn, share, and discuss all-things-front-end (and a little CSS, of course) with us.\nThank You (2025 Edition) originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/thank-you-2025-edition/",
+          "publishedOn": "2025-12-23T15:52:53.000Z",
+          "wordCount": 2664,
+          "title": "Thank You (2025 Edition)",
+          "enclosure": {
+            "url": "http://css-tricks.com/wp-content/uploads/2025/12/almanac-scroll-animation.mov",
+            "length": "0",
+            "type": "video/quicktime"
+          },
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/12/thank-you-2025-scaled.png"
+        },
+        {
           "id": "https://css-tricks.com/?p=390681",
           "author": "Daniel Schwarz",
           "description": "The text-decoration-inset property solves a problem that we’ve had since the beginning of the web, which is that text decorations such as underlines extend beyond the first and last characters, resulting in vertical misalignment.\ntext-decoration-inset is Like Padding for Text Decorations originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -209,6 +224,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2025/12/giving-users-voice-virtual-personas/",
+          "author": "hello@smashingmagazine.com (Paul Boag)",
+          "description": "Turn scattered user research into AI-powered personas that give anyone consolidated multi-perspective feedback from a single question.",
+          "link": "https://smashingmagazine.com/2025/12/giving-users-voice-virtual-personas/",
+          "publishedOn": "2025-12-23T10:00:00.000Z",
+          "wordCount": 4646,
+          "title": "Giving Users A Voice Through Virtual Personas",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/giving-users-voice-virtual-personas/giving-users-voice-virtual-personas.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/giving-users-voice-virtual-personas/giving-users-voice-virtual-personas.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2025/12/how-measure-impact-features-tars/",
           "author": "hello@smashingmagazine.com (Vitaly Friedman)",
           "description": "Meet TARS — a simple, repeatable, and meaningful UX metric designed specifically to track the performance of product features. Upcoming part of the Measure UX & Design Impact (use the code 🎟 IMPACT to save 20% off today).",
@@ -380,6 +410,26 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "694aca4b18de35b28c2daacb",
+          "author": "Atuoha Anthony",
+          "description": "In standard app development, the User Interface (UI) is static. You write code for a button, compile it, and it remains a button forever. GenUI flips this model on its head. With GenUI, Google’s Generative UI SDK, your application's interface becomes...",
+          "link": "https://www.freecodecamp.org/news/how-to-use-genui-in-flutter-to-build-dynamic-ai-driven-interfaces/",
+          "publishedOn": "2025-12-23T16:58:51.000Z",
+          "wordCount": 6511,
+          "title": "How to Use GenUI in Flutter to Build Dynamic, AI-Driven Interfaces",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1766509116517/64c3ad0a-9328-4731-8292-90cc7fdbb60b.png"
+        },
+        {
+          "id": "694ac4a879c823aae0f86bc9",
+          "author": "Beau Carnes",
+          "description": "Vercel AI SDK is a TypeScript-first toolkit for building AI features. It streamlines text generation, embeddings, and structured outputs. We just posted a course on the freeCodeCamp.org YouTube channel that will teach you to use the Vercel AI SDK to ...",
+          "link": "https://www.freecodecamp.org/news/build-a-support-agent-with-vercel-ai-sdk/",
+          "publishedOn": "2025-12-23T16:34:48.000Z",
+          "wordCount": 1140,
+          "title": "Build a Support Agent with Vercel AI SDK",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1766507669760/bf3fe42c-d729-4b59-9eca-2677e1b49e2a.jpeg"
+        },
         {
           "id": "694968e875dd1910710dddef",
           "author": "Nielda Karla",
