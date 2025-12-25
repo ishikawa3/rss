@@ -205,16 +205,6 @@
           "wordCount": 1828,
           "title": "Prevent a page from scrolling while a dialog is open",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2024/10/dialog-pop.jpg"
-        },
-        {
-          "id": "https://css-tricks.com/?p=389944",
-          "author": "Daniel Schwarz",
-          "description": "There are many ways to share properties, but what would it look like to inherit and use any parent property value on a child?\nOn Inheriting and Sharing Property Values originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/on-inheriting-and-sharing-property-values/",
-          "publishedOn": "2025-11-24T14:22:30.000Z",
-          "wordCount": 3339,
-          "title": "On Inheriting and Sharing Property Values",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/12/dashy-circles.png"
         }
       ]
     },
@@ -387,21 +377,6 @@
             "type": "image/png"
           },
           "imageUrl": "http://files.smashing.media/maturing-design-systems.png"
-        },
-        {
-          "id": "https://smashingmagazine.com/2025/11/designing-for-stress-emergency/",
-          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
-          "description": "Practical guidelines on designing time-critical products that prevent errors and improve accuracy. Part of the Measure UX & Design Impact (use the code 🎟 IMPACT to save 20% off today). With a live UX training starting next week.",
-          "link": "https://smashingmagazine.com/2025/11/designing-for-stress-emergency/",
-          "publishedOn": "2025-11-24T13:00:00.000Z",
-          "wordCount": 4023,
-          "title": "Designing For Stress And Emergency",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/designing-for-stress-and-emergency/designing-for-stress-emergency.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/designing-for-stress-and-emergency/designing-for-stress-emergency.jpg"
         }
       ]
     },
@@ -410,6 +385,26 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "694c23da6c9dee59dd506fea",
+          "author": "Ilyas Seisov",
+          "description": "Hi, I’m Ilyas. I’m a web developer, and this is my story about how I struggled with interviews for a long time and what finally helped me break through. I’ll talk about what failing basic interview questions taught me about recall, preparation, and s...",
+          "link": "https://www.freecodecamp.org/news/how-to-prepare-for-technical-job-interviews-based-on-my-experience-landing-a-job/",
+          "publishedOn": "2025-12-24T17:33:14.000Z",
+          "wordCount": 2452,
+          "title": "How to Prepare for Technical Job Interviews –  Based on My Experience Landing a Job",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1766597367293/515dd71a-fb65-4508-bdd2-39b103ddb438.png"
+        },
+        {
+          "id": "694b1ba8c5784bd06a2425d7",
+          "author": "Quincy Larson",
+          "description": "2025 has been an amazing year for the global freeCodeCamp community. And we’re thrilled to cap it off with the launch of several Christmas Gifts for you: freeCodeCamp's Python certification freeCodeCamp's JavaScript certification (Version 10) free...",
+          "link": "https://www.freecodecamp.org/news/christmas-gifts-freecodecamp-community-2025/",
+          "publishedOn": "2025-12-23T22:46:00.000Z",
+          "wordCount": 2038,
+          "title": "Christmas gifts for you from the freeCodeCamp community: Learn Python, SQL, Spanish, and more",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1766525007211/919f4a73-c6de-47b1-933c-3992a05050be.png"
+        },
         {
           "id": "694aca4b18de35b28c2daacb",
           "author": "Atuoha Anthony",
@@ -969,16 +964,6 @@
           "wordCount": 11396,
           "title": "How Closures Work in JavaScript: A Handbook for Developers",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1764083198713/3afde98a-fecd-4669-a2ad-3d78c28d3d5a.png"
-        },
-        {
-          "id": "6924c6fb01ae89275dfb14f6",
-          "author": "Olaleye Blessing",
-          "description": "React simplifies building user interfaces with hooks like useState for managing dynamic values. But it's common to overuse useState. This often leads to duplicated data and unnecessary complexity. For instance, you might store a full name in state wh...",
-          "link": "https://www.freecodecamp.org/news/simplify-react-components-with-derived-state/",
-          "publishedOn": "2025-11-24T20:58:35.000Z",
-          "wordCount": 4527,
-          "title": "How to Simplify Your React Components with Derived State",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1764017894421/6bbd5cf2-c221-490c-891a-bf984cfaa92c.png"
         }
       ]
     }
