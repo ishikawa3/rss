@@ -362,21 +362,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/accessibility-problem-authentication-methods-captcha/accessibility-problem-authentication-methods-captcha.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2025/11/design-system-culture/",
-          "author": "hello@smashingmagazine.com (Ari Stiles)",
-          "description": "We’re so happy to announce that “Maturing Design Systems”—a Smashing book by Ben Callahan — will soon be joining the Smashing Library! Ben’s insights and advice are so powerful, we thought you might like to read an excerpt from the book. Subscribe to our Smashing newsletter to be notified when orders are open.",
-          "link": "https://smashingmagazine.com/2025/11/design-system-culture/",
-          "publishedOn": "2025-11-25T18:00:00.000Z",
-          "wordCount": 5005,
-          "title": "Design System Culture: What It Is And Why It Matters (Excerpt)",
-          "enclosure": {
-            "url": "http://files.smashing.media/maturing-design-systems.png",
-            "length": "0",
-            "type": "image/png"
-          },
-          "imageUrl": "http://files.smashing.media/maturing-design-systems.png"
         }
       ]
     },
@@ -385,6 +370,16 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "694c7990b7478745bce04604",
+          "author": "Agnes Olorundare",
+          "description": "While containers are quite lightweight and provide various benefits, it can be challenging to decide how best to deploy them. There are a number of ways to deploy and run Docker containers. But some are best for orchestrating and managing containers,...",
+          "link": "https://www.freecodecamp.org/news/how-to-run-a-docker-container-in-aws-lambda/",
+          "publishedOn": "2025-12-24T23:38:56.000Z",
+          "wordCount": 2316,
+          "title": "How to Run a Docker Container in AWS Lambda",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1766599506861/86c07e37-7838-4186-971e-29722ccec785.png"
+        },
         {
           "id": "694c23da6c9dee59dd506fea",
           "author": "Ilyas Seisov",
@@ -904,66 +899,6 @@
           "wordCount": 6397,
           "title": "Theming and Customization in Flutter: A Handbook for Developers",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1764175215268/a0a8da8f-6101-40f9-8b4a-db7234ae0793.png"
-        },
-        {
-          "id": "69260ed9916e6c8689496788",
-          "author": "Quincy Larson",
-          "description": "2025 has been a super productive year for the global freeCodeCamp community. As we start our 12th year as a community, we’re firing on all cylinders, pushing forward more steadily than ever. This year we made substantial improvements to the new Full ...",
-          "link": "https://www.freecodecamp.org/news/freecodecamp-top-open-source-contributors-2025/",
-          "publishedOn": "2025-11-25T20:17:29.000Z",
-          "wordCount": 2439,
-          "title": "freeCodeCamp's Top Open Source Contributors of 2025",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1764105878996/9d86d805-6160-41b9-975d-c1a3573751b3.png"
-        },
-        {
-          "id": "6925f655569c4dde127d2f88",
-          "author": "Joan Ayebola",
-          "description": "Every app that handles user accounts needs a way to confirm who’s who. That’s what authentication is for, making sure the person using an app is the person they claim to be. But doing this securely is harder than it sounds. Traditional methods often ...",
-          "link": "https://www.freecodecamp.org/news/how-to-build-a-secure-authentication-system-with-jwt-and-refresh-tokens/",
-          "publishedOn": "2025-11-25T18:32:53.000Z",
-          "wordCount": 4476,
-          "title": "How to Build a Secure Authentication System with JWT and Refresh Tokens",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1764095460886/51b9c653-fa95-42f0-8c51-37f6d6805da4.png"
-        },
-        {
-          "id": "6925eef4915ee815a9b000df",
-          "author": "Quincy Larson",
-          "description": "Flexbox is a powerful CSS feature that lets you build user interfaces that fit any screen size. freeCodeCamp just published a Flexbox for beginners course where you'll learn the concepts and code syntax by building your own website navigation bar. If...",
-          "link": "https://www.freecodecamp.org/news/learn-css-flexbox-for-beginners-free-2-hour-course/",
-          "publishedOn": "2025-11-25T18:01:24.000Z",
-          "wordCount": 1070,
-          "title": "Learn CSS Flexbox for Beginners [Free 2-hour course]",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1764093380745/42ec6fe5-355a-4a0d-acb1-8e63e2b1c240.jpeg"
-        },
-        {
-          "id": "6925e482ccc8b29b82c002c5",
-          "author": "Prince Onukwili",
-          "description": "Developers are smart, wonderful people, and they’re some of the most logical thinkers you’ll ever meet. But we’re pretty terrible at naming things 😂 Like, what in the world – out of every other possible name, they decided to name a database after a ...",
-          "link": "https://www.freecodecamp.org/news/deploy-your-own-cockroach-db-instance-on-kubernetes-full-book-for-devs/",
-          "publishedOn": "2025-11-25T17:16:50.000Z",
-          "wordCount": 26240,
-          "title": "How to Deploy Your Own Cockroach DB  Instance on Kubernetes [Full Book for Devs]",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1764088553942/496bf5f4-f059-4873-b6c1-419a86e594ef.png"
-        },
-        {
-          "id": "6925deb0b459e862808eb04c",
-          "author": "Ankur Tyagi",
-          "description": "It may seem like everyone is a vibe coder these days, and prompting seemed like it would become the new coding. But is this AI-generated code really deployable? Bragging on social media about a clever script is one thing, but pushing a vibe coded app...",
-          "link": "https://www.freecodecamp.org/news/how-to-use-vibe-coding-effectively-as-a-dev/",
-          "publishedOn": "2025-11-25T16:52:00.000Z",
-          "wordCount": 3686,
-          "title": "How to Use Vibe Coding Effectively as a Dev",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1764089459731/0122c0b7-08e2-434a-b5eb-518025401951.png"
-        },
-        {
-          "id": "6925c63dff3af82fd3477d27",
-          "author": "Sumit Saha",
-          "description": "If you're learning JavaScript, you've probably heard the term \"closure\" at some point. In many developers' experience, just hearing this word can trigger anxiety. In nearly 17 years of programming experience, I've noticed that closures are one of the...",
-          "link": "https://www.freecodecamp.org/news/how-closures-work-in-javascript-a-handbook-for-developers/",
-          "publishedOn": "2025-11-25T15:07:41.000Z",
-          "wordCount": 11396,
-          "title": "How Closures Work in JavaScript: A Handbook for Developers",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1764083198713/3afde98a-fecd-4669-a2ad-3d78c28d3d5a.png"
         }
       ]
     }
