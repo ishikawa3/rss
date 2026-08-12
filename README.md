@@ -16,6 +16,7 @@
 | [Dexigner](https://www.dexigner.com/) | デザインニュース |
 | [Design Milk](https://design-milk.com/) | モダンデザイン |
 | [Creative Bloq](https://www.creativebloq.com/) | アート・デザイン全般 |
+| [AXIS](https://www.axismag.jp/) | デザイン・建築・ビジネス（日本語） |
 
 ### 日本のオープンデータ
 

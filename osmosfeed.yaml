@@ -5,6 +5,7 @@ sources:
   - href: https://feeds.feedburner.com/dexigner # Dexigner — design news
   - href: https://design-milk.com/feed/ # Design Milk — modern design
   - href: https://www.creativebloq.com/feeds/all # Creative Bloq — art & design
+  - href: https://www.axismag.jp/feed # AXIS — デザイン・建築・ビジネス
   - href: https://www.data.go.jp/feed/dataset.rdf # DATA GO JP 全省庁 オープンデータ新着
   - href: https://www.data.go.jp/feed/dataset/organization/mlit.rdf # 国土交通省 オープンデータ新着（data.go.jp）
   - href: https://www.data.go.jp/feed/dataset/organization/cao.rdf # 内閣府 オープンデータ新着（data.go.jp）
