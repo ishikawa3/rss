@@ -1,6 +1,7 @@
 cacheUrl: https://ishikawa3.github.io/rss/cache.json
 sources:
-  - href: https://github.com/osmoscraft/osmosfeed/releases.atom # Get new feature announcement via this feed
-  - href: https://css-tricks.com/feed/
-  - href: https://www.smashingmagazine.com/feed/
-  - href: https://www.freecodecamp.org/news/rss/
+  - href: https://www.dezeen.com/feed/ # Dezeen — architecture, interiors, design
+  - href: https://www.core77.com/rss # Core77 — industrial design
+  - href: https://feeds.feedburner.com/dexigner # Dexigner — design news
+  - href: https://design-milk.com/feed/ # Design Milk — modern design
+  - href: https://www.creativebloq.com/feeds/all # Creative Bloq — art & design
