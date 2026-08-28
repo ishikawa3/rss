@@ -52,24 +52,45 @@ self.addEventListener("message", (event) => {
 });
 
 /**
- * Look a request up across every cache we own.
+ * Look a request up across the caches we own, newest source first.
  *
  * Reads must not be scoped to one cache: an asset precached into the shell
  * cache is requested with a `?version` query and served through the asset
  * path, so a single-cache lookup would miss it and fail offline.
+ *
+ * The order matters. `caches.match()` searches in cache-creation order, which
+ * puts the install-time shell copy ahead of the entry stale-while-revalidate
+ * keeps refreshing, so a global match would keep serving superseded CSS and
+ * JS. Checking the runtime cache first always yields the fresher copy.
  */
-function matchAnyCache(request) {
-  return caches.match(request, { ignoreSearch: true, cacheName: undefined });
+const CACHE_PRIORITY = [ASSET_CACHE, SHELL_CACHE];
+
+async function matchAnyCache(request) {
+  for (const cacheName of CACHE_PRIORITY) {
+    const cache = await caches.open(cacheName);
+    const hit = await cache.match(request, { ignoreSearch: true });
+    if (hit) return hit;
+  }
+  return undefined;
+}
+
+/**
+ * Persist a response without holding up the one being returned.
+ *
+ * The fetch event ends when the promise given to respondWith settles, and the
+ * browser may kill the worker right after, so a cache write left running on
+ * its own can be cut short. waitUntil keeps the event alive until it lands.
+ */
+function cacheResponse(event, cacheName, request, response) {
+  const copy = response.clone();
+  event.waitUntil(caches.open(cacheName).then((cache) => cache.put(request, copy)));
 }
 
 /** Network first, falling back to the cached copy when the network fails. */
-async function networkFirst(request, cacheName, fallbackUrl) {
+async function networkFirst(event, request, cacheName, fallbackUrl) {
   try {
     const response = await fetch(request);
-    if (response.ok) {
-      const cache = await caches.open(cacheName);
-      cache.put(request, response.clone());
-    }
+    if (response.ok) cacheResponse(event, cacheName, request, response);
     return response;
   } catch (error) {
     const cached = await matchAnyCache(request);
@@ -83,17 +104,26 @@ async function networkFirst(request, cacheName, fallbackUrl) {
 }
 
 /** Serve from cache immediately, refreshing the entry in the background. */
-async function staleWhileRevalidate(request, cacheName) {
-  const cache = await caches.open(cacheName);
+async function staleWhileRevalidate(event, request, cacheName) {
   const cached = await matchAnyCache(request);
   const network = fetch(request)
     .then((response) => {
       // Opaque responses have status 0; caching them would poison the cache.
-      if (response.ok) cache.put(request, response.clone());
+      if (response.ok) cacheResponse(event, cacheName, request, response);
       return response;
     })
     .catch(() => undefined);
-  return cached || network.then((response) => response || Promise.reject(new Error("offline")));
+
+  if (cached) {
+    // Nothing is awaiting the refresh once the cached copy is returned, so the
+    // event has to be held open for it explicitly.
+    event.waitUntil(network);
+    return cached;
+  }
+
+  const response = await network;
+  if (response) return response;
+  throw new Error("offline and not cached");
 }
 
 self.addEventListener("fetch", (event) => {
@@ -104,22 +134,22 @@ self.addEventListener("fetch", (event) => {
 
   // Page loads: always try the network so new articles show up.
   if (request.mode === "navigate") {
-    event.respondWith(networkFirst(request, SHELL_CACHE, "./"));
+    event.respondWith(networkFirst(event, request, SHELL_CACHE, "./"));
     return;
   }
 
   if (url.origin === self.location.origin) {
     // Feed data changes on every build; prefer the network for it.
     if (url.pathname.endsWith("/cache.json") || url.pathname.endsWith("/feed.atom")) {
-      event.respondWith(networkFirst(request, ASSET_CACHE));
+      event.respondWith(networkFirst(event, request, ASSET_CACHE));
       return;
     }
-    event.respondWith(staleWhileRevalidate(request, ASSET_CACHE));
+    event.respondWith(staleWhileRevalidate(event, request, ASSET_CACHE));
     return;
   }
 
   // Google Fonts stylesheets and font files are versioned and stable.
   if (FONT_HOSTS.includes(url.hostname)) {
-    event.respondWith(staleWhileRevalidate(request, ASSET_CACHE));
+    event.respondWith(staleWhileRevalidate(event, request, ASSET_CACHE));
   }
 });
