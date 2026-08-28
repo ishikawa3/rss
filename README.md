@@ -56,6 +56,28 @@
 | e-Stat | [RSSによる新着情報配信サービスが2023年9月30日で終了](https://www.e-stat.go.jp/rss) |
 | CODH | サイトがRSS/Atomフィードを提供していない |
 
+## PWA（ホーム画面へのインストール）
+
+このサイトはPWAとして動作します。スマートフォンやデスクトップのブラウザから
+「ホーム画面に追加」「アプリをインストール」でスタンドアロンアプリとして起動できます。
+
+- オフラインでも最後に読み込んだ記事一覧を閲覧できます
+- 記事一覧は表示のたびにネットワークを優先して取得するため、常に最新が表示されます
+  （取得に失敗した場合のみキャッシュにフォールバック）
+- 新しいビルドが公開されると、次回起動時に自動で更新されます
+
+関連ファイル:
+
+| ファイル | 役割 |
+|---|---|
+| [`static/manifest.webmanifest`](./static/manifest.webmanifest) | アプリ名・アイコン・表示モードの定義 |
+| [`static/sw.js`](./static/sw.js) | Service Worker（キャッシュ戦略） |
+| [`static/index.js`](./static/index.js) | Service Worker の登録 |
+| `static/icon-*.png`, `static/apple-touch-icon.png` | アプリアイコン |
+
+アイコンを差し替える場合は `static/` 配下のPNGを置き換えてください
+（192x192 / 512x512 / マスカブル512x512 / Apple用180x180）。
+
 ## フィードの追加・変更方法
 
 [`osmosfeed.yaml`](./osmosfeed.yaml) の `sources` にフィードURLを追加するだけです。

@@ -39,6 +39,9 @@
   --space-4: 16px;
   --space-5: 24px;
   --space-6: 32px;
+
+  /* horizontal page gutter; narrowed on small screens below */
+  --gutter: var(--space-6);
   --space-7: 48px;
   --space-8: 64px;
   --space-9: 96px;
@@ -475,6 +478,10 @@ details[open] .article-summary__chevron {
 }
 
 @media screen and (max-width: 767px) {
+  :root {
+    --gutter: var(--space-4);
+  }
+
   .app-bar__content {
     padding: var(--space-3) var(--space-4);
   }
@@ -497,4 +504,21 @@ details[open] .article-summary__chevron {
     align-items: flex-start;
     gap: var(--space-3);
   }
+}
+
+/* ---------------------------------------------------------------------------
+   Safe areas (installed PWA / notched devices)
+   The viewport uses viewport-fit=cover, so horizontal insets must be added
+   back on the content wrappers, and the footer must clear the home indicator.
+   Browsers without env() ignore these declarations and keep the values above.
+--------------------------------------------------------------------------- */
+.app-bar__content,
+.main-content,
+.footer__content {
+  padding-left: max(var(--gutter), env(safe-area-inset-left));
+  padding-right: max(var(--gutter), env(safe-area-inset-right));
+}
+
+.footer {
+  padding-bottom: max(var(--space-6), env(safe-area-inset-bottom));
 }
