@@ -16,6 +16,7 @@
 | [Design Milk](https://design-milk.com/) | モダンデザイン |
 | [Creative Bloq](https://www.creativebloq.com/) | アート・デザイン全般 |
 | [AXIS](https://www.axismag.jp/) | デザイン・建築・ビジネス（日本語） |
+| [美術手帖](https://bijutsutecho.com/) | アート・美術（日本語）※Google News経由 |
 
 ### 日本のオープンデータ
 
@@ -47,6 +48,16 @@
 > 更新されるのは大半が数年前に公開済みのデータセットのため、`cacheMaxDays: 30` の範囲には入りません。
 > 新規公開されるデータセットは全省庁合わせて月に数件程度で、省庁によっては数か月間ゼロになります。
 > 省庁別フィードが空欄でもフィード自体は正常です。件数を稼ぎたい場合は全省庁フィードのみでも内容は同じです。
+
+> **美術手帖について**
+> 美術手帖（bijutsutecho.com）は公式にRSS/Atomを配信していません。
+> ページのフィード宣言・`robots.txt`・`sitemap.xml` のいずれにも記載がなく、
+> `/rss` `/feed` `/atom.xml` など一般的なパスもすべて404です。
+> そのため [Google News のRSS検索](https://news.google.com/rss/search?q=site:bijutsutecho.com&hl=ja&gl=JP&ceid=JP:ja)
+> を経由して購読しています。公式配信ではないため、網羅性と即時性はGoogleのインデックス次第で、
+> 記事リンクは news.google.com のリダイレクト経由になります。
+> またサイト上の表示名は「site:bijutsutecho.com - Google ニュース」になります
+> （osmosfeedはフィード側のtitleをそのまま使う実装で、設定から上書きできません）。
 
 ### 配信終了により削除したフィード
 

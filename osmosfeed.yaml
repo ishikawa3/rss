@@ -5,6 +5,13 @@ sources:
   - href: https://design-milk.com/feed/ # Design Milk — modern design
   - href: https://www.creativebloq.com/feeds.xml # Creative Bloq — art & design
   - href: https://www.axismag.jp/feed # AXIS — デザイン・建築・ビジネス
+  # 美術手帖はRSS/Atomを配信していないため（公式サイトにフィード宣言・エンドポイントとも無し）、
+  # Google News のRSS検索を経由する。公式配信ではないため以下の制約がある:
+  #   - 網羅性と即時性はGoogleのインデックスに依存する
+  #   - 記事リンクは news.google.com のリダイレクト経由になる
+  #   - サイト上の表示名は 'site:bijutsutecho.com - Google ニュース' になる
+  #     （osmosfeedはフィード側のtitleをそのまま使い、設定で上書きできない）
+  - href: https://news.google.com/rss/search?q=site:bijutsutecho.com&hl=ja&gl=JP&ceid=JP:ja # 美術手帖（Google News経由）
   # オープンデータは data.go.jp から e-Gov データポータル（data.e-gov.go.jp）へ移転済み。
   # 省庁は org_XXXX 形式のコードで識別される（一覧は /data/api/action/organization_list?all_fields=true）。
   - href: https://data.e-gov.go.jp/data/feeds/dataset.atom # e-Gov データポータル 全省庁 オープンデータ新着
